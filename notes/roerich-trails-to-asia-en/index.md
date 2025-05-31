@@ -17,244 +17,108 @@ fediverse: "@username@instance.url"
 
 ## Contents
 
+TRAILS TO INMOST ASIA
 
+PUBLISHED ON THE FOUNDATION ESTABSHED
 
+IN MEMORY OF PHILIP HAMILTON McMILLAN
+OF THE CLASS OF 1894 YALE COLLEGE
 
-
-
-
-
-
-
-
-
-
-TRAILS TO INMOST ASIA 
-
-
-
-
-
-PUBLISHED ON THE FOUNDATION ESTABSHED 
-IN MEMORY OF PHILIP HAMILTON McMILLAN 
-OF THE CLASS OF 1894 YALE COLLEGE 
-
-
-
-
-
-
-
-PROFESSOR NICHOLAS ROERICH 
-LEADER OE THE EXPEDITION 
-
-
+PROFESSOR NICHOLAS ROERICH
+LEADER OE THE EXPEDITION
 
 TRAILS TO
-INMOST ASIA 
+INMOST ASIA
 
-FIVE YEARS OF EXPLORATION WITH THE 
-ROERICH CENTRAL ASIAN EXPEDITION 
+FIVE YEARS OF EXPLORATION WITH THE
+ROERICH CENTRAL ASIAN EXPEDITION
 
-BY 
+BY
 
-GEORGE N. ROERICH 
+GEORGE N. ROERICH
 
-WITH A PREFACE BY LOUIS MARIN 
+WITH A PREFACE BY LOUIS MARIN
 
-MEMBER OF THE FRENCH CHAMBER OF DEPUTIES, 
+MEMBER OF THE FRENCH CHAMBER OF DEPUTIES,
 
-FORMERLY MINISTER OF PENSIONS; 
+FORMERLY MINISTER OF PENSIONS;
 
-PRESIDENT OF THE SOCIETY OF ETHNOGRAPHY, PARIS 
+PRESIDENT OF THE SOCIETY OF ETHNOGRAPHY, PARIS
 
+NEW HAVEN • YALE UNIVERSITY PRESS
 
+LONDON • HUMPHREY MILFORD OXFORD UNIVERSITY PRESS
 
-NEW HAVEN • YALE UNIVERSITY PRESS 
+1931
 
-LONDON • HUMPHREY MILFOlSIil^KFORD UNIVERSITY PRESS 
+COPYRIGHT 1931 BY YALE UNIVERSITY PRESS
+PRINTED IN THE UNITED STATES OF AMERICA
 
-1931 
+All rights reserved. This book may not be reproduced, in whole or in part, in any form, except by written permission from the publishers.
 
+TO MY MOTHER AND FATHER
 
+PREFACE
 
+UNDER the direction of the famous Russian artist, Nicholas Roerich, a remarkable expedition was conducted for five years through the various countries of central Asia. It penetrated regions where no westerner had been seen for many years; it brought back to the scientific world new knowledge of the history of that region of the “Roof of the World” which is of deep interest geographically and sociologically.
 
+George N. Roerich, orientalist, accompanied his father. Previous to receiving his degree from Harvard, he was brought up in European traditions of culture, studying in the schools of Russia and England, and in France at the School of Oriental Languages, Paris, and at the College de France. Of an exceptionally synthetic tendency of mind, the young scholar has studied Persian and Sanskrit, Tibetan, and Chinese. This extensive knowledge of languages provides him with the key to the mysteries of the “closed land.”
 
+In the country of Tsaidam, George Roerich studied the different dialects of the local Mongol tribes and made the first complete dictionary of them.
 
-COPYRIGHT 1931 BY YALE UNIVERSITY PRESS 
-PRINTED IN THE UNITED STATES OF AMERICA 
+From Tibet, George Roerich brings back a scientific picture of the life and civilizations of the nomads of the High Plateau. During his researches he discovered the existence of an artistic style peculiar to the nomads — primarily animalistic — a style closely related to that of the ancient Scythians and Goths. Thus he presents strong arguments in justification of the theory, concerning the ancient civilization of the nomads, whose territory extended from the Gobi Desert and the border of Korea to the lower Danube and the Carpathian Mountains.
 
+x
 
-All rights reserved. This book may not be re- 
-produced, in whole or in part, in any form, ex- 
-cept by written permission from the publishers. 
+A most interesting discovery rewarded the efforts of the explorers. On the uplands of Tibet and in the country of the Trans-Himalayas, the expedition carefully studied and photographed many monuments (cromlechs, alinements, menhirs) whose existence had never before been recorded and whose structure evokes most interesting comparisons with our western monuments, especially those of Brittany.
 
+Because of his knowledge of the languages and customs of the countries, George Roerich visited Buddhist monasteries, usually completely forbidden to strangers; he discovered a complete collection of the sacred books of die Bön-po religion, three hundred volumes, which constitute an inesdmable treasure for the history of religions and oriental research.
 
+During these five years. Professor Nicholas Roerich painted nearly five hundred pictures; the collection presents a unique panorama of the least-known regions of the great Asiatic continent.
 
+Through their efforts and their sacrifices, their fortitude in the face of dangers which threatened their lives again and again, and their bravery under attack, the members of the expedition have gready served science, art, and all nations advancing the progress of humanity.
 
-
-TO
-MY MOTHER AND FATHER 
-
-
-
-
-
-PREFACE 
-
-
-UNDER the direction of the famous Russian artist, Nicho- 
-las Roerich, a remarkable expedition was conducted for 
-five years through the various countries of central Asia. 
-It penetrated regions where no westerner had been seen for 
-many years; it brought back to the scientific world new knowl- 
-edge of the history of that region of the “Roof of the World” 
-which is of deep interest geographically and sociologically. 
-George N. Roerich, orientalist, accompanied his father. Pre- 
-vious to receiving his degree from Harvard, he was brought up 
-in European traditions of culture, studying in the schools of 
-Russia and England, and in France at the School of Oriental 
-Languages, Paris, and at the College de France. Of an excep- 
-tionally synthetic tendency of mind, the young scholar has 
-studied Persian and Sanskrit, Tibetan, and Chinese. This exten- 
-sive knowledge of languages provides him with the key to the 
-mysteries of the “closed land.” 
-In the country of Tsaidam, George Roerich studied the differ- 
-ent dialects of the local Mongol tribes and made the first com- 
-plete dictionary of them. 
-From Tibet, George Roerich brings back a scientific picture 
-of the life and civilizations of the nomads of the High Plateau. 
-During his researches he discovered the existence of an artistic 
-style peculiar to the nomads — ^primarily animalistic — a style 
-closely related to that of the ancient Scythians and Goths. Thus 
-he presents strong arguments in justification of the theory, con- 
-cerning the ancient civilization of the nomads, whose territory 
-extended from the Gobi Desert and the border of Korea to the 
-lower Danube and the Carpathian Mountains. 
-
-
-
-
-A most interesting discovery rewarded the efforts of the ex- 
-plorers. On the uplands of Tibet and in the country of the 
-Trans-Himalayas, the expedition carefully studied and photo- 
-graphed many monuments (cromlechs, alinements, menhirs) 
-whose existence had never before been recorded and whose 
-structure evokes most interesting comparisons with our western 
-monuments, especially those of Brittany. 
-Because of his knowledge of the languages and customs of the 
-countries, George Roerich visited Buddhist monasteries, usually 
-completely forbidden to strangers; he discovered a complete col- 
-lection of the sacred books of die B6n-po religion, three hun- 
-dred volumes, which constitute an inesdmable treasure for the 
-history of religions and oriental research. 
-During these five years. Professor Nicholas Roerich painted 
-nearly five hundred pictures; the collection presents a unique 
-panorama of the least-known regions of the great Asiatic conti- 
-nent. 
-Through their efforts and their sacrifices, their fortitude in 
-the face of dangers which threatened their lives again and again, 
-and their bravery under attack, the members of the expedidon 
-have gready served science, art, and all nations advancing the 
-progress of humanity. 
-The book which George Roerich dedicated to the scientific 
-results of the expedition marks an important date in the history 
-of Orientalism and represents a contribution of the first order to 
-the conquests of civilization. 
+The book which George Roerich dedicated to the scientific results of the expedition marks an important date in the history of Orientalism and represents a contribution of the first order to the conquests of civilization.
 
 Louis Marin
 
-Paris, June, 1931. 
+*Paris, June, 1931.*
 
+xi
 
+AUTHOR’S NOTE
 
+INNER Asia with its towering mountain ranges and limitless deserts and steppes, a country of great climatic extremes, and the cradle of hardy nomad tribes that once shook the frontiers of China and of the Near Eastern countries, has always been an endless lure to the explorer. In the past a brilliant line of men inaugurated the fight for geographical discoveries in the forbidden lands of Asia. The story of their achievement is one of the most fascinating pages in the history of such explorations. Besides securing valuable scientific information and opening new regions for the progress of humanity, they upheld that spirit of adventure to which our civilization owes its spread. Their example made it possible for others to continue the hazardous task of conquest of distant and unknown lands.
 
-AUTHOR’S NOTE 
+In inner Asia we are able to survey one of the grandest mountain systems of the world; to journey for months across waterless deserts of sand dnd stone and upland plains; and to study the vestiges of a past culture that once linked ancient China with the coiuitries of the Mediterranean basin. 
 
+The vast, undrained area of inner Asia is buttressed on the south by the mighty Trans-Himalayas, and the bleak highlands of the successive ranges of the Karakorum. Its northern frontier is formed by the Altai and the mountain chains along the southern rim of the Siberian lowlands. To the east and west this great inner basin is open , toward vast expanses of desert and steppe that comprise the Great Mongolian Gobi and the steppe lands of Russian Turkestan. 
 
-INNER Asia with its towering mountain ranges and limitless des> 
-erts and steppes, a country of great climatic extremes, and the cradle 
-of hardy nomad tribes that once shook the frontiers of China and of 
-the Near Eastern countries, has always been an endless lure to the 
-explorer. In the past a brilliant line of men inaugurated the fight for 
-geographical discoveries in the forbidden lands of Asia. The story of 
-their achievement is one of the most fascinating pages in the history of 
-such explorations. Besides securing valuable scientific information and 
-opening new regions for the progress of humanity, they upheld that 
-spirit of adventure to which our civilization owes its spread. Their ex> 
-ample made it possible for others to continue the hazardous task of 
-conquest of distant and unknown lands. 
+This inner region of Asia the Roerich Central Asian Expedition, under the leadership of Professor Nicholas Roerich, traveled and explored for almost five successive years. The chief object of the expedition was to create a pictorial record of lands and peoples of inner Asia; the five hundred paintings by Professor Roerich, brought back by the expedition and now on permanent exhibition in the Roerich Museum at New York, constitute a unique achievement of this purpose.
 
-In inner Asia we are able to survey one of the grandest mountain sys- 
-tems of the world; to journey for months across waterless deserts of 
-sand dnd stone and upland plains; and to study the vestiges of a past 
-culture that once linked ancient China with the coiuitries of the Medi- 
-terranean basin. 
-
-The vast, undrained area of inner Asia is buttressed on the south by 
-the mighty Trans-Himalayas, and the bleak highlands of the successive 
-ranges of the Karakorum. Its northern frontier is formed by the Altai 
-and the mountain chains along the southern rim of the Siberian low- 
-lands. To the east and west this great inner basin is open , toward vast 
-e:q>anses of desert and steppe that comprise the Great Mongolian Gobi 
-and the steppe lands of Russian Turkestan. 
-
-This inner region of Asia the Roerich Central Asian Expedition, un- 
-der the leadership of Professor Nicholas Roerich, traveled and explored 
-for almost five successive years. The chief object of the expedition was 
-to create a pi^orial record of lands and peoples of inner Asia; the five 
-hundred paintings by Professor Roerich, brought back by the expedi- 
-tion and now on permanent exhibition in the Roerich Museum at New 
-York, constitute a unique achievement of this purpose. 
-
-The second object of the expedition was to survey the possibilities for 
-new archaeological explorations and thus to prepare the way for future 
-enterprises in die same region. 
+The second object of the expedition was to survey the possibilities for new archaeological explorations and thus to prepare the way for future enterprises in die same region.
 
 The third object was to secure an extensive collection of ethnographi-
-cal and linguistic material, illustrating the culture of these regions. 
-During its long journey along the Tien Shan, the steppe region of 
-Jungaria, the Altai, the mountains of southwestern Mongolia, and the 
-highlands of Tibet, the expedition surveyed numerous archaeological 
-sites; and it is hoped that another expedition may be mustered to carry 
-out extensive excavations of vast necropoli left by nomad tribes, which 
-date back to the period between the &st and eighth centuries a.d. A 
-large collection of Tibetan and Mongolian books was gathered during 
-the expedition’s stay in Mongolia and Tibet. 
-In sending out this expedition into the field, the Trustees of the 
-Roerich Museum felt the growing necessity of an active American par- 
-ticipation in a work which for several decades had attracted the atten- 
-tion of prominent scientists in Great Britain, France, Germany, Japan, 
-and Russia. 
-The expedition left New York in May, 1923, and in December of the 
-same year reached Darjeeling in British Sikkim. Here a base was es- 
-tablished and several trips were conducted into Sikkim. The whole of 
-1924 was spent in Sikkim in preparation for the more extensive journey 
-into inner Asia. It was imperative to acquire a good speaking knowl- 
-edge of the Tibetan language before starting on a journey which would 
-require constant relations with natives. The narrative in the present 
-volume begins with the moment of the expedition’s departure from 
-Darjeeling. 
-During his five years of active field service with the expedition, the 
-author profited on many occasions by the help and advice of friends 
-and it is a pleasant task to convey his appreciative thanks for the serv- 
-ices they so willingly rendered : 
-To the President and Board of Trustees of the Roerich Museum, for 
-their devoted care and friendly assistance during the expedition’s peril- 
-ous journey. 
-To Col. F. M. Bailey, C.I.E., British Political Officer in Tibet, Sik- 
-kim, and Bhutan, for his valuable help during the expedition’s stay in 
-S ikkim and on its return from Tibet in 1928. 
-To Major Gillan, British Consul General at Kashgar, for his active 
-assistance dxiring a most trying period in Khotan. 
-To His Excellency M. Louis Marin, for his ever helpful assistance 
-and for contributing an introduction to this present volume. 
-To my teacher. Professor Jacques Bacot, who first introduced me into 
-the ancient lore of Tibet 
 
+xii
 
+cal and linguistic material, illustrating the culture of these regions. During its long journey along the Tien Shan, the steppe region of Jungaria, the Altai, the mountains of southwestern Mongolia, and the highlands of Tibet, the expedition surveyed numerous archaeological sites; and it is hoped that another expedition may be mustered to carry out extensive excavations of vast necropoli left by nomad tribes, which date back to the period between the &st and eighth centuries a.d. A large collection of Tibetan and Mongolian books was gathered during the expedition’s stay in Mongolia and Tibet.
 
+In sending out this expedition into the field, the Trustees of the Roerich Museum felt the growing necessity of an active American participation in a work which for several decades had attracted the attention of prominent scientists in Great Britain, France, Germany, Japan, and Russia.
 
+The expedition left New York in May, 1923, and in December of the same year reached Darjeeling in British Sikkim. Here a base was established and several trips were conducted into Sikkim. The whole of 1924 was spent in Sikkim in preparation for the more extensive journey into inner Asia. It was imperative to acquire a good speaking knowledge of the Tibetan language before starting on a journey which would require constant relations with natives. The narrative in the present volume begins with the moment of the expedition’s departure from Darjeeling. 
+
+During his five years of active field service with the expedition, the author profited on many occasions by the help and advice of friends and it is a pleasant task to convey his appreciative thanks for the serv- ices they so willingly rendered: 
+
+To the President and Board of Trustees of the Roerich Museum, for their devoted care and friendly assistance during the expedition’s perilous journey.
+
+To Col. F. M. Bailey, C.I.E., British Political Officer in Tibet, Sikkim, and Bhutan, for his valuable help during the expedition’s stay in Sikkim and on its return from Tibet in 1928. 
+
+To Major Gillan, British Consul General at Kashgar, for his active assistance dxiring a most trying period in Khotan.
+
+To His Excellency M. Louis Marin, for his ever helpful assistance and for contributing an introduction to this present volume.
+
+To my teacher. Professor Jacques Bacot, who first introduced me into the ancient lore of Tibet
 
 xiii 
 
@@ -1143,9 +1007,9 @@ Stdn/ Ancient Geography of Kashmir, p. 93.
 
 ^2. Gf. A. H. Francke, A History of Western Tibet, pp. 68 if. 
 
-3. TarUh-i-Rasidi, tr. Elias and Ross, pp. 423 
+1. TarUh-i-Rasidi, tr. Elias and Ross, pp. 423 
 
-4. Antiquities of Indian Tibet, I, 107. 
+2. Antiquities of Indian Tibet, I, 107. 
 
 
 

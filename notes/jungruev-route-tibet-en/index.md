@@ -419,4 +419,4 @@ Part II "At the Shrines of Tibet" will be published in the next volume.
 
 ## Discussion
 
-[**Questions or comments?**](https://t.me/answer42geo/85)
+[**Questions or comments?**](https://t.me/answer42geo/88)
