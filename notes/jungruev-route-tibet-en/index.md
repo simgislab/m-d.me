@@ -68,17 +68,17 @@ FIRST JOURNEY
 
 In 1898 (the Year of the Dog, on the 17th day of the Month of the Dog [(5)](#id5)), I departed from home for Tibet. The reason for my journey to Tibet is as follows. Previously, Yoguchar-Tsurachi [(6)](#id6) and Tsaizan [(7)](#id7) from the clans of Bogdo-Shabinarov and Mamut /Mamadut/-Shabinarov had reached Tibet and presented themselves to the Dalai Lama and the Panchen Bogdo [(8)](#id8). From both Gegens, they were honored to receive letters, a seal, objects of worship, burkhans [(9)](#id9), and many other such blessed items.
 
-On the 8th day of the first month in the Year of the Water and the Dog, by gracious decree, a temple (khurul) was erected, and therefore the khurul is called “Bogdo’s.” *This* is the reason it is known as “Shabinar’s.” They became shabinars [(10)](#id10) of the two Bogdos (the Dalai Lama and the Panchen Erdeni). According to the Russian calendar, this khurul was established in 1681 [(11)](#id11). This is why I undertook the journey to Tibet to inform the two Bogdos of it.
+On the 8th day of the first month in the Year of the Water and the Dog, by gracious decree, a temple (khurul) was erected, and therefore the khurul is called “Bogdo’s.” This is the reason it is known as “Shabinar’s.” They became shabinars [(10)](#id10) of the two Bogdos (the Dalai Lama and the Panchen Erdeni). According to the Russian calendar, this khurul was established in 1681 [(11)](#id11). This is why I undertook the journey to Tibet to inform the two Bogdos of it.
 
-Together with the Tsaizan Norbunov of the Greater Derbet, we visited the monastery of the Mongolian Bogdo (Urga) along the way, and then arrived at the camp (khüree) of the southern frontier Lun-Beise of the Khalkha. Then, continuing on our route, we visited the Chinese town of Nanash. Passing through the Tabun-Tsaydam khoshun of Kurluk, we reached the outer limits of the Upper Mongols’ [(12)](#id12) settlement, in the khoshuns [(13)](#id13) of Gurban-Naichzhi and Taichzhinar.
+Together with the Tsaizan Norbunov of the Greater Derbet, we visited the monastery of the Mongolian Bogdo (Urga) along the way, and then arrived at the camp (khuree) of the southern frontier Lun-Beise of the Khalkha. Then, continuing on our route, we visited the Chinese town of Nanash. Passing through the Tabun-Tsaydam khoshun of Kurluk, we reached the outer limits of the Upper Mongols’ [(12)](#id12) settlement, in the khoshuns [(13)](#id13) of Gurban-Naichzhi and Taichzhinar.
 
-Then, passing the /mountains of/ Khükhe-Shil, Dun-Büre, /lake/ Yandyin-Nur, /mountains/ Nabchitai-Ula, Bukhe-Magnai, /river/ Mursen-Gol,
+Then, passing the /mountains of/ Khukhe-Shil, Dun-Bure, /lake/ Yandyn-Nur, /mountains/ Nabchitai-Ula, Bukhe-Magnai, /river/ Mursen-Gol,
 
 127
 
 [mountains] Gurban-Khabtsagai, Dan-La-Ula, and Bum-Tsay-Ship, we arrived at /the monastery of/ Nagchu-Gonba. This is the border of Tibet. From there, we proceeded to Tsu [(14)](#id14).
 
-Upon arrival, we paid homage to the two Tsung sacred objects of worship [(15)](#id15), to the Dalai Lama, the Panchen Lama, and other great /lamas/. When these /great lamas/ were informed in detail about the main purpose /of our journey/, I was granted a certificate, a seal, burkhans, and other items. On the way back home, passing along the Burkhan-Buddain road through the Kurluk khoshun, we spent the night in the Chinese town of Shilzu, where all our belongings were stolen. From there, we traveled through the lands of the Etsingol Torguts and arrived in Urga. The routes I followed to and from Tibet were approximately one month shorter than if I had traveled through /the monastery of/ Gumbum. Departing from Urga on the 27th day of the Month of the Hare [(16)](#id16), in the Year of the Mouse (1900), I arrived home.
+Upon arrival, we paid homage to the two Tsung sacred objects of worship [(15)](#id15), to the Dalai Lama, the Panchen Lama, and other great /lamas/. When these /great lamas/ were informed in detail about the main purpose /of our journey/, I was granted a certificate, a seal, burkhans, and other items. On the way back home, passing along the Burkhan-Buddain-tsam road through the Kurluk khoshun, we spent the night in the Chinese town of Shilzu, where all our belongings were stolen. From there, we traveled through the lands of the Etsingol Torguts and arrived in Urga. The routes I followed to and from Tibet were approximately one month shorter than if I had traveled through /the monastery of/ Gumbum. Departing from Urga on the 27th day of the Month of the Hare [(16)](#id16), in the Year of the Mouse (1900), I arrived home.
 
 The travel diary that I kept during this first journey was stolen by thieves. Therefore, I have only briefly described the route. I will present my travel notes from the second journey in detail.
 
@@ -90,7 +90,7 @@ In 1902 (the Year of the Snowleopard), on the 5th day of the Month of the Dragon
 
 128
 
-A lama named Rabdan, who had come to Urga on pilgrimage from the Gobi-Tüsheet-Daigun khoshun located southwest of Urga, made an agreement with us to escort us to the Bayangol Torguts. We hired camels from him at the rate of 8 liang each. We loaded seven camels: four people rode on them, and I rode on horseback. From here to the land of the Etsingol Torguts is considered a 21-day journey. Some people hired camels at a rate of 16–17 liang, but since Rabdan’s home lay along the route, this part of the journey turned out to be inexpensive for us.
+A lama named Rabdan, who had come to Urga on pilgrimage from the Gobi-Tusheet-Daigun khoshun located southwest of Urga, made an agreement with us to escort us to the Bayangol Torguts. We hired camels from him at the rate of 8 liang each. We loaded seven camels: four people rode on them, and I rode on horseback. From here to the land of the Etsingol Torguts is considered a 21-day journey. Some people hired camels at a rate of 16–17 liang, but since Rabdan’s home lay along the route, this part of the journey turned out to be inexpensive for us.
 
 In Urga, we obtained in sufficient quantity all kinds of travel supplies — maikhan [(21)](#id21), a yurt, kettles, provisions for the road, Mongolian clothing, and other necessary items and on the 20th day of the Month of the Snake, we set out on our journey. After crossing the Turaguni-Khutszubchi Pass, we spent the night at its foot.
 
@@ -104,7 +104,7 @@ On the 24th in the morning, we set off and, after crossing the Serten-Giin-Daba 
 
 On the 25th in the morning, we set off. After crossing a small pass, we had lunch. In the evening, we crossed the eastern edge of the Bayar mountains. We also crossed Nogon-Khotol and camped for the night at its southern foot.
 
-On the 26th in the morning, we set out. We had lunch at the Adakchigin River. In the evening, we continued on and spent the night in the Uka-Bayan khoshun.
+On the 26th in the morning, we set out. We had lunch at the Adakchigin River. In the evening, we continued on and spent the night in the Ukha-Bayan khoshun.
 
 On the 27th, setting off in the morning, we had lunch on the southern outskirts of the Bayan khoshun. In the evening, we camped at the Buluktyin River. This area is known for its springs (buluk).
 
@@ -118,11 +118,11 @@ On the 30th in the morning, we traveled to the area of Ukhai-Khuduk. There, not 
 
 On the 3rd day of the Month of the Horse [(22)](#id22), we resumed our journey and camped by the waters of the Budurgun /River/.
 
-On the 4th in the morning, we set out. We had lunch near a branch of the Bayan-Gol River. In the evening, we continued and spent the night at Khükhe-Oban-Suchzhe.
+On the 4th in the morning, we set out. We had lunch near a branch of the Bayan-Gol River. In the evening, we continued and spent the night at Khukhe-Oban-Suchzhe.
 
 On the 5th in the morning, we stayed in place. We had lunch at Delgerekhu-Oban. In the evening, we continued and spent the night at Khabirga.
 
-On the 6th in the morning, we had lunch at Unegen-Oban. In the evening, we continued and spent the night by the Ungin River, near the monastery of Dai-Tüsheet-Gün. From here southward, snow does not fall in winter. A warm land! We are traveling through Mongolian territory. In this Mongolian land, they do not cultivate grain. Living in felt yurts and herding livestock, people live off their animals. It is said that if you follow the road we are taking, you will reach Shizhu through the Gurban-Saikhan mountains. These are the reasons we chose this route: 1. Along the way, there is no shortage of water, grass, or settlements, and this is the most direct path to Tsu. 2. There is no theft at night, so we travel without having to guard our belongings or animals after dark. During my previous journey, I traveled through the Sain-Noyon aimag, passing the monastery of Lunkh-Beise. That road, first of all, is circuitous; secondly, theft is a problem; and finally, we suffered from a lack of grass and water for the livestock.
+On the 6th in the morning, we had lunch at Unegen-Oban. In the evening, we continued and spent the night by the Ungin River, near the monastery of Dai-Tusheet-Gun. From here southward, snow does not fall in winter. A warm land! We are traveling through Mongolian territory. In this Mongolian land, they do not cultivate grain. Living in felt yurts and herding livestock, people live off their animals. It is said that if you follow the road we are taking, you will reach Shidzu through the Gurban-Saikhan mountains. These are the reasons we chose this route: 1. Along the way, there is no shortage of water, grass, or settlements, and this is the most direct path to Tsu. 2. There is no theft at night, so we travel without having to guard our belongings or animals after dark. During my previous journey, I traveled through the Sain-Noyon aimag, passing the monastery of Lun-Beise. That road, first of all, is circuitous; secondly, theft is a problem; and finally, we suffered from a lack of grass and water for the livestock.
 
 On the 7th in the morning, we set out and traveled downstream along the Angi River, where we had lunch on its bank. In the evening, we continued on and spent the night on the bank of the Derestu River. This river has running water.
 
@@ -134,13 +134,13 @@ Continuing on in the evening, we spent the night at the black Waters of Khayan. 
 
 On the 9th, we stayed in place for the day.
 
-On the 10th in the morning, we set out. We crossed the Shuguun-Uneget Pass and had lunch at Ulan-Tolgoi. In the evening, we resumed the journey and spent the night at Dalai-Buluk.
+On the 10th in the morning, we set out. We crossed the Shugun-Uneget Pass and had lunch at Ulan-Tolgoi. In the evening, we resumed the journey and spent the night at Dalai-Buluk.
 
 On the 11th in the morning, we set out. We had lunch at Shara-Shiretu. In the evening, we continued our journey. We crossed the Gurban-Saikhan mountains via the middle of the three Saikhan peaks and spent the night at its foot.
 
 On the 12th in the morning, we continued on. We had lunch at the edge of the Gobi. In the evening, we traveled further and camped at Kholei-Kholdun-Khali.
 
-On the 13th in the morning, we set out. We crossed Bayan-Khotol mountain via its eastern spur and reached the road leading to the city of Shizhu. From Gurban-Saikhan to this point, there was no road — we traveled off-trail. We had lunch at the well of Tsagan-Deresnii-Khuduk. In the evening, we continued and spent the night in the Gobi.
+On the 13th in the morning, we set out. We crossed Bayan-Khotol mountain via its eastern spur and reached the road leading to the city of Shitszu. From Gurban-Saikhan to this point, there was no road — we traveled off-trail. We had lunch at the well of Tsagan-Deresnii-Khuduk. In the evening, we continued and spent the night in the Gobi.
 
 On the 14th in the morning, we set out. Passing through the Bulgan-Gobi, we had lunch among the Dengin-Kher mountains. In this place there are wild goats called "yangir yama". In the evening, we resumed our journey and spent the night in the Urtu mountains near the Khaliigan-Khuduk well. From Gurban-Saikhan to here, to the khoshun of Baddan-Tsazak, and south of it to the Etsingol Torguts, there is no population — only Gobi desert terrain. This area marks the southern border of the Khalkha Mongols' territory.
 
@@ -148,13 +148,13 @@ On the 15th in the morning, we set out and had lunch at the Tsokhondo well. In t
 
 On the 16th in the morning, we departed and had lunch at two wells in the Burkherin-Kher mountains. In the evening, we continued and camped at the Tsagiin well.
 
-On the 17th in the morning, we set out and, after crossing Khiger-Obo, we had lunch at the Balburkhu well. After replenishing our water supplies, we departed in the evening and spent the night in a waterless steppe. There is an abundance of fuel here, called "tsak" [(23)](#id23). There are many camels and antelopes. These animals do not approach humans — we saw them from afar through binoculars. There are also many so-called kulans (wild horses) /wild asses/, and large numbers of wild tszeren [(24)](#id24) and horses.
+On the 17th in the morning, we set out and, after crossing Khiger-Obo, we had lunch at the Balburkhu well. After replenishing our water supplies, we departed in the evening and spent the night in a waterless steppe. There is an abundance of fuel here, called "tsak" [(23)](#id23). There are many camels and antelopes. These animals do not approach humans — we saw them from afar through binoculars. There are also many so called kulans (wild horses) /wild asses/, and large numbers of wild tszeren [(24)](#id24) and horses.
 
 131
 
 On the 18th in the morning, we had lunch on the northern shore of Lake Denchzhi. The opposite shore of the lake is not visible. It's a large lake! The water is bitter. The lake into which the Tszeni-Gol River flows is called Belchir-Nur. Near this lake, there is no grass, only white Gobi sand. In the evening, we resumed our journey. After passing Boro-Obo, we spent the night at Modon-Gatlag (the wooden crossing). Here is the end of the Etsin-Gol River. Its water is fresh and flowing. There are many wild trees and reeds. Its basin in the Gobi is vast. Here lies the border of the Edzingol Torgut-Kalmyks’ territory. From the lands of the Khalkha Mongols to this point, there is no population. The area is flat, steppe-like, and desert—without mountains.
 
-On the 19th in the morning, we departed. We had lunch at Galtzan-Borok. In the evening, we continued on, and upon reaching the lands of the Torgut prince who at the time was in Dashi-Ban we stopped there. This prince has about 200 smokes [(25)](#id25). These are people who separated from the Torguts that migrated from our Volga River. They live permanently among reeds and saxaul bushes. They do not sow grain. They live as herders in felt yurts. If they do cultivate crops in their lands, they irrigate them. It is said that along the entire Etsin-Gol River, from mouth to source, reeds and trees grow. It is also said to be very wide. Away from the river, the steppe is flat. There is no grass, only white sands. There is no winter here, and therefore they do not harvest hay. Their clothing and belongings are entirely similar to ours. It is said that they make offerings to fire (worship fire). In appearance, they are Mongols. The Khukh-Nur Mongols also worship fire. (According to Kalmyk custom, when making an offering to fire, one takes a skull, gnaws it clean, and stuffs the empty holes with fat.) On the 22nd of the last winter moon, they make offerings to the Manchu Khan (emperor). Most of them, however, perform sacrificial rites in the spring, during livestock birthing season. At the very beginning of the journey, when we hired carts in Urga, we had arranged that the drivers would take us as far as this prince. This Torgut prince received us as relatives. He treated us as guests and took good care of us. He replenished our food supplies and allowed us to rest. Then, using his own carts, he took us free of charge to Shizhu-khoto.
+On the 19th in the morning, we departed. We had lunch at Galtzan-Borok. In the evening, we continued on, and upon reaching the lands of the Torgut prince who at the time was in Dashi-Ban we stopped there. This prince has about 200 smokes [(25)](#id25). These are people who separated from the Torguts that migrated from our Volga River. They live permanently among reeds and saxaul bushes. They do not sow grain. They live as herders in felt yurts. If they do cultivate crops in their lands, they irrigate them. It is said that along the entire Etskin-Gol River, from mouth to source, reeds and trees grow. It is also said to be very wide. Away from the river, the steppe is flat. There is no grass, only white sands. There is no winter here, and therefore they do not harvest hay. Their clothing and belongings are entirely similar to ours. It is said that they make offerings to fire (worship fire). In appearance, they are Mongols. The Khukh-Nur Mongols also worship fire. (According to Kalmyk custom, when making an offering to fire, one takes a skull, gnaws it clean, and stuffs the empty holes with fat.) On the 22nd of the last winter moon, they make offerings to the Manchu Khan (emperor). Most of them, however, perform sacrificial rites in the spring, during livestock birthing season. At the very beginning of the journey, when we hired carts in Urga, we had arranged that the drivers would take us as far as this prince. This Torgut prince received us as relatives. He treated us as guests and took good care of us. He replenished our food supplies and allowed us to rest. Then, using his own carts, he took us free of charge to Shitszu-khoto.
 
 132
 
@@ -162,7 +162,7 @@ On the 5th day of the first summer month, we set out in the morning. We had lunc
 
 On the 6th in the morning, we continued. We had lunch on the bank of the Narin River. In the evening, we traveled farther and spent the night at the Morin River.
 
-On the 7th in the morning, we set off. We had lunch again on the bank of the Morin River. Along this river, there are many Torgut households (yurts). The Torgut prince sent us onward on camels only, assigning us an old man named Tszoman as a guide. At night, we resumed our journey and, having crossed Mount Khükhe from the eastern side, we spent the night on its southern side, in a bend of the Bukha River. Throughout this leg of the journey, we followed a road.
+On the 7th in the morning, we set off. We had lunch again on the bank of the Morin River. Along this river, there are many Torgut households (yurts). The Torgut prince sent us onward on camels only, assigning us an old man named Tszoman as a guide. At night, we resumed our journey and, having crossed Mount Khukhe from the eastern side, we spent the night on its southern side, in a bend of the Bukha River. Throughout this leg of the journey, we followed a road.
 
 On the 8th in the morning, we set off along the river. Reaching the home of a man named Buyan-Oltzeitu, located at the upper border of the Torgut settlements along the Tsagan-Tokhoi, we had lunch there. South of this point, there are no reeds or trees.
 
@@ -172,7 +172,7 @@ On the 10th in the morning, we set out and had lunch near the house of a Torgut 
 
 On the 11th in the morning, we continued our journey. The entire time, we passed through Chinese settlements. We had lunch at Dan-Lolo. In the evening, continuing on, we passed through the Chinese town of Jin-Taizhi. There is a customs checkpoint here where all belongings are inspected. If goods or tea are found, they are confiscated. Moving on, we spent the night near Chinese houses in Yo-Yongzhu.
 
-On the 12th in the morning, we set out and passed the small Chinese town of Linshuo, where we had lunch on the riverbank. In the evening, we continued on and arrived in the city of Shizhu. We stayed at an inn called a "dian".
+On the 12th in the morning, we set out and passed the small Chinese town of Linshuo, where we had lunch on the riverbank. In the evening, we continued on and arrived in the city of Shitszu. We stayed at an inn called a "dian".
 
 133
 
@@ -198,18 +198,17 @@ On the 25th, we resumed our journey and spent the night in an oboltszon — a wi
 
 On the 26th, we traveled onward and camped near the Shara-Usun River.
 
-On the 27th, we set out again and had lunch on the bank of the Shara-Usun River. We stopped in Tsogastu. This is where the aïls [(29)](#id29) of the Taichzhinar khoshun are located. Here, we joined with seven more smokes of people also heading to Tsu. This is where the shortest route to Tsu begins. Usually, travelers gather here, stock up on supplies and pack animals, and from this point continue on into Tibet. From here to Tsu, the land is uninhabited and desert-like. On the 30th, Baturzhab-Tsangi and Tsompil-Dzaisan from the Kurluk khoshun, who had arranged to travel with us, caught up. Altogether, we became a group of 15 smokes. Among the Upper Mongols, a dzaisan is anyone who donates a camel, horse, fur coat, and money to the prince.
+On the 27th, we set out again and had lunch on the bank of the Shara-Usun River. We stopped in Tsogastu. This is where the ails [(29)](#id29) of the Taichzhinar khoshun are located. Here, we joined with seven more smokes of people also heading to Tsu. This is where the shortest route to Tsu begins. Usually, travelers gather here, stock up on supplies and pack animals, and from this point continue on into Tibet. From here to Tsu, the land is uninhabited and desert-like. On the 30th, Baturzhab-Tsangi and Tsompil-Dzaisan from the Kurluk khoshun, who had arranged to travel with us, caught up. Altogether, we became a group of 15 smokes. Among the Upper Mongols, a dzaisan is anyone who donates a camel, horse, fur coat, and money to the prince.
 
 For this, the prince grants the title of dzaisan
-
 
 135
 
 to any commoner who owns livestock and a yurt (i.e., is married).
 
-The Tangut people living along the shores of Lake Khükhe (-Nur) often attack the Upper Mongols in groups of 200–300 men and forcibly take all their livestock and essential belongings from their yurts. Their clothing is identical to that of the Upper Mongols. They are also called rangai. This land of the Upper Mongols abounds in trees known as sukhai and kharmag. The water here is good, though the grass is poor. The land is said to be khujir-rich [(30)](#id30), somewhat saline, and not suitable for growing grain. When Chinese arrive in these mountains, they extract large quantities of gold and silver. There is also much tin and lead. This area lies southwest of the city of Shizhu. To the northeast of Shizhu is a small town called Tsaiekba. South of it, in the mountains, there are abundant deposits of coal and oil (kerosene oil). In the mountains of the Khalkha Mongols, in the mountain spurs and rivers of the Upper Mongols, there is much gold and silver. A great deal of gold is extracted from the Sharyn-Gol River in the Gurban-Naichzhi region. Mining is done in pits dug to the height of a man. There is also much gold in the Kurluk khoshun's Khaltagiin-Gol River and in the Baga-Tsaydam's Gunchin-Gol. Although the Khükhe-Nur Mongols are formally considered subjects of the Chinese emperor, they have no Chinese administrators. The majority of the population is ruled by their own princes. There is no theft among them — they do not steal. Attacks may occur only from rangai or goloki ([(31)](#id31)), but the Mongols themselves do not commit such acts.
+The Tangut people living along the shores of Lake Khukhe (-Nur) often attack the Upper Mongols in groups of 200–300 men and forcibly take all their livestock and essential belongings from their yurts. Their clothing is identical to that of the Upper Mongols. They are also called rangai. This land of the Upper Mongols abounds in trees known as sukhai and kharmag. The water here is good, though the grass is poor. The land is said to be khujir-rich [(30)](#id30), somewhat saline, and not suitable for growing grain. When Chinese arrive in these mountains, they extract large quantities of gold and silver. There is also much tin and lead. This area lies southwest of the city of Shizhu. To the northeast of Shitszu is a small town called Tsaiekba. South of it, in the mountains, there are abundant deposits of coal and oil (kerosene oil). In the mountains of the Khalkha Mongols, in the mountain spurs and rivers of the Upper Mongols, there is much gold and silver. A great deal of gold is extracted from the Sharyn-Gol River in the Gurban-Naichzhi region. Mining is done in pits dug to the height of a man. There is also much gold in the Kurluk khoshun's Khaltagiin-Gol River and in the Baga-Tsaydam's Gunchin-Gol. Although the Khukhe-Nur Mongols are formally considered subjects of the Chinese emperor, they have no Chinese administrators. The majority of the population is ruled by their own princes. There is no theft among them — they do not steal. Attacks may occur only from rangai or goloki ([(31)](#id31)), but the Mongols themselves do not commit such acts.
 
-On the 4th day of the last summer month, our group of 15 people set out on the road. We had lunch at the Morin River. In the evening, we camped at Tolgan-Amga. We stayed here for two days. The meat intended to be packed onto the camels and horses was prepared by cutting it into long strips. Then, taking our loads with us, we resumed our journey. The terrain here is harsh — extreme heat. Oil and fresh meat cannot be consumed. Our food consists of /buda/ porridge with dried meat, black tea, and black tsamba [(32)](#id32). As we go, we prepare a decoction medicine in the morning and evening to make the limbs lighter. It is said that such a drink heals a weary and anemic person traveling through this dreadful land. But for someone who is overweight and full-blooded, it may cause harm. Of our 15 *smokes*, some carried loads on horses,
+On the 4th day of the last summer month, our group of 15 people set out on the road. We had lunch at the Morin River. In the evening, we camped at Tolgan-Amga. We stayed here for two days. The meat intended to be packed onto the camels and horses was prepared by cutting it into long strips. Then, taking our loads with us, we resumed our journey. The terrain here is harsh — extreme heat. Oil and fresh meat cannot be consumed. Our food consists of /buda/ porridge with dried meat, black tea, and black tsamba [(32)](#id32). As we go, we prepare a decoction medicine in the morning and evening to make the limbs lighter. It is said that such a drink heals a weary and anemic person traveling through this dreadful land. But for someone who is overweight and full-blooded, it may cause harm. Of our 15 smokes, some carried loads on horses,
 
 136
 
@@ -217,7 +216,7 @@ others on camels.
 
 On the evening of the 7th, we set off. We crossed Uman-Ama and spent the night in the valley of the Nariin-Tsukhain River.
 
-On the 8th, we continued. We had lunch at the Nariin-Tsukhain (Gol) River. We spent the night in the mountains at Kharman-Tokhai. These mountains are known as Tsukhain-Khotol. The highest among them is a great snow-capped mountain, its majesty is harsh and formidable. This so-called Khachzhiriin-Tsam is the westernmost, newly established route. If one follows this road, one reaches a region into which the bandits known as goloki do not venture. It is said that the people called goloks live east of the Tibetan road, about one month’s journey from the Dun-Büre mountains. This is considered the northeastern frontier of the Upper Mongols’ territory. There are three places the goloks are known to raid: Khükhe-Uul, Dun-Büre, and Moros. The clothing and language of these goloks are said to resemble those of the rangai people. They live in black tents. Seven days’ journey east of this Khachzhiriin-Tsam is the road known as the Gurban-Naichzhin-Tsam. Seven days farther east from there lies the Burkhan-Buddaiyin-Tsam. All these are routes leading directly into Tibet. The Gurban-Naichzhin and Burkhan-Buddaiyin roads merge at the Moriin-Gol River. The Khachzhiriin route joins them near the Danlen mountains. Golok bandits are especially aggressive along the Burkhan-Buddai route.
+On the 8th, we continued. We had lunch at the Nariin-Tsukhain (Gol) River. We spent the night in the mountains at Kharman-Tokhai. These mountains are known as Tsukhain-Khotol. The highest among them is a great snow-capped mountain, its majesty is harsh and formidable. This so-called Khachzhiriin-Tsam is the westernmost, newly established route. If one follows this road, one reaches a region into which the bandits known as goloki do not venture. It is said that the people called goloks live east of the Tibetan road, about one month’s journey from the Dun-Bure mountains. This is considered the northeastern frontier of the Upper Mongols’ territory. There are three places the goloks are known to raid: Khukhe-Uul, Dun-Bure, and Moros. The clothing and language of these goloks are said to resemble those of the rangai people. They live in black tents. Seven days’ journey east of this Khachzhiriin-Tsam is the road known as the Gurban-Naichzhin-Tsam. Seven days farther east from there lies the Burkhan-Buddaiyin-Tsam. All these are routes leading directly into Tibet. The Gurban-Naichzhin and Burkhan-Buddaiyin roads merge at the Moriin-Gol River. The Khachzhiriin route joins them near the Danlen mountains. Golok bandits are especially aggressive along the Burkhan-Buddai route.
 
 On the 9th, we set out and, following the Nariin-Tsukhain River upstream, we had lunch. In the evening, we continued along the same river and camped for the night.
 
@@ -239,23 +238,23 @@ On the 14th, we continued and spent the night on the southern shore of Lake Shar
 
 On the 15th, we continued and camped after crossing a small pass called Narin-Khotol. There is a type of grass here called "bukhu shirik" [(34)](#id34). When its short stems dry out, one would think even the dullest livestock would refuse to eat it, yet, many animals graze here.
 
-On the 16th in the morning, we set out and spent the night at the exit of the Barun-Uduriin Gorge, near Mount Khükhe-Shil. Here, we walk cautiously, peering ahead and around, stopping frequently and with great care. In this area and farther ahead, golok bandits are known to attack.
+On the 16th in the morning, we set out and spent the night at the exit of the Barun-Uduriin Gorge, near Mount Khukhe-Shil. Here, we walk cautiously, peering ahead and around, stopping frequently and with great care. In this area and farther ahead, golok bandits are known to attack.
 
-On the 17th, we set out. After crossing Khükhe-Shil, we camped at the place called Galtzu-Ulan-Morin (Khapchik-Ulan-Müren), on this side of the Dun-Büre mountains.
+On the 17th, we set out. After crossing Khukhe-Shil, we camped at the place called Galtzu-Ulan-Morin (Khapchik-Ulan-Muren), on this side of the Dun-Bure mountains.
 
-On the 18th, we continued and spent the night in the northern hollow of Dun-Büre.
+On the 18th, we continued and spent the night in the northern hollow of Dun-Bure.
 
-On the 19th, we camped in the central part of Dun-Büre.
+On the 19th, we camped in the central part of Dun-Bure.
 
-On the 20th, we resumed our journey and again spent the night in a hollow of the Dun-Büre mountains.
+On the 20th, we resumed our journey and again spent the night in a hollow of the Dun-Bure mountains.
 
-On the 21st, after passing Dun-Büre, we spent the night in the steppe on its southern side.
+On the 21st, after passing Dun-Bure, we spent the night in the steppe on its southern side.
 
-On the 22nd, after crossing the Nabschitai-Ulan-Müren River, we camped on its southern bank. This river is very dangerous, horses sometimes fall into it. But thanks to low water levels, the crossing went well (we made it safely).
+On the 22nd, after crossing the Nabschitai-Ulan-Muren River, we camped on its southern bank. This river is very dangerous, horses sometimes fall into it. But thanks to low water levels, the crossing went well (we made it safely).
 
 On the 23rd, we spent the night in the northern hollow of Mount Bukhu-Magnai.
 
-On the 24th, after crossing Bukhu-Magnai and reaching the northern bank of the Muren /Mures/ River, we camped there. This is the point where three roads meet: the Burkhan-Buddaiyin-Tsam, the Gurban-Naichzhi-Tsam, and the road we took, the Khachzhiriin-Tsam. Here we were joined by 15 smokes of tszulachins [(35)](#id35) who had come via the Gurban-Naichzhi road. In total, we became 32 smokes. From the monastery (Da-Khüree) [(36)](#id36), the road we followed is the shortest, it is almost a month shorter than the route through Gumul-Khit.
+On the 24th, after crossing Bukhu-Magnai and reaching the northern bank of the Muren /Mures/ River, we camped there. This is the point where three roads meet: the Burkhan-Buddaiyin-Tsam, the Gurban-Naichzhi-Tsam, and the road we took, the Khachzhiriin-Tsam. Here we were joined by 15 smokes of tszulachins [(35)](#id35) who had come via the Gurban-Naichzhi road. In total, we became 32 smokes. From the monastery (Da-Khuree) [(36)](#id36), the road we followed is the shortest, it is almost a month shorter than the route through Gumul-Khit.
 
 On the 25th, the water in the Murasin (Mursen)-Gol River had risen
 
@@ -279,7 +278,7 @@ On the 2nd, we spent the night on the northern slope of Mount Danlan (Dan-La). T
 
 On the 3rd, after crossing Ubashi-Abgai, we camped on the bank of the Khalun-Usun River. In this river, right in its bed, there is a pointed stone about two arshins tall, from which a jet of water shoots upward by about an elbow’s length.
 
-On the 4th, we followed the Bokshigin River downstream. We camped at Bukhu-Shirik (Khuïtün-Chirik). This is where people known as banak live in black tents. They herd livestock and live off of it. They do not cultivate crops. They migrate in tents. This is the border of Tibet. These people are known for thievery, they steal at night.
+On the 4th, we followed the Bokshigin River downstream. We camped at Bukhu-Shirik (Khuitun-Chirik). This is where people known as banak live in black tents. They herd livestock and live off of it. They do not cultivate crops. They migrate in tents. This is the border of Tibet. These people are known for thievery, they steal at night.
 
 Their cows are sarlyks [(38)](#id38),
 
@@ -289,7 +288,7 @@ long-haired animals that resemble black camels, but with tails like those of hor
 
 On the 5th, we spent the night at Shangin-Gol.
 
-On the 6th, after crossing Bum-Tsai-Shil, we camped at Uüden-Tang.
+On the 6th, after crossing Bum-Tsai-Shil, we camped at Uuden-Tang.
 
 On the 7th, we spent the night at Kholachzhi-Kholo.
 
@@ -315,7 +314,7 @@ On the 19th, we set out. We crossed the Bunda-Jhongin (Po-mdo-Chu) River in a bo
 
 On the 20th, after crossing the Tsaglan-Daba Pass, we had lunch on the bank of the Tsaglan (Chog-La) River. In the evening, we continued on and, having crossed the Pombochen (Pen-bo-cheng) River, camped on its northern bank. Here we caught up with our companions who had left on yaks seven days earlier.
 
-On the 21st, ascending the Gologiin-Daba (Go-La) Pass, we saw the golden rooftops of Tsü from afar. Dismounting from our horses, we bowed three times. Upon seeing the golden rooftops of Tsü in the distance, we were overjoyed that we had safely arrived, and tears flowed from our eyes.
+On the 21st, ascending the Gologiin-Daba (Go-La) Pass, we saw the golden rooftops of Tsu from afar. Dismounting from our horses, we bowed three times. Upon seeing the golden rooftops of Tsu in the distance, we were overjoyed that we had safely arrived, and tears flowed from our eyes.
 
 <a id="id1">1</a> Overview of manuscripts describing journeys to Tibet, available in the Mongolian collection of the Manuscript Department of the Institute of Oriental Studies of the USSR Academy of Sciences, was prepared by us for the yearbook "Countries and Peoples of the East" ("Strany i narody Vostoka").
 
