@@ -53,7 +53,13 @@ fediverse: "@username@instance.url"
 
 * [Андреев. От Байкала до Священной Лхасы.](/notes/andreev-baikal-lhasa/)
 
-## Интерактивные карты и карты для печати
+## Джунгруев
+
+* [Хождение в Тибет калмыцкого бакши Пурдаш Джунгруева](/notes/jungruev-route-tibet/)
+* [The Journey to Tibet of the Kalmyk Bakshi Purdash Jungruev](/notes/jungruev-route-tibet-en/)
+* [Топонимы Джунгруева // Jungruev's toponyms](/notes/jungruev-toponyms/)
+
+## Карты
 
 * Интерактивная карта: [Reconstruction of G. Tsybikov's route from Urga to Lhasa 25.11.1899 – 03.08.1900](https://buddhistpilgrim.nextgis.com/resource/38/display)
 * Карта ["Реконструкция маршрута Г.Ц. Цыбикова Урга-Лхаса"](/notes/tsybikov-map/)
