@@ -731,7 +731,7 @@ We made an early start next day in order to reach the next stage, Bod-Kharbu.
 
 The road leads across the Namike Pass, at an altitude of 13,000 feet; the ascent is very gradual and after crossing the pass, the trail leads into the valley of Kharbu, interesting for its many ruined castles that crown the barren summits of mountain spins. The place was the scene of con-
 
-15 KASHMIR-LADAK 
+15 KASHMIR-LADAK
 
 siderable warfare in the reign of King Del-den (bDe-ldan rnam-rgyal, 1620-40 A.D.).
 
@@ -777,14 +777,13 @@ The trail is rather bad. In several places one has to cross avalanche-swept slop
 
 Khalatse, the old Dard center, is known for its antiquities, and Dr. A. H. Francke has recorded most of them*® in several of his articles and books. It was formerly a Dard colony, and there still exists here a ruined Dard castle. The Ladak king Lha-chen Nag-lug (1150-75 A.D.) built the important castle of Brag-nag, whose ruins still tower over the village. Dr. Francke has discovered a number of old Kharoshthi, Brahmi and Gupta inscriptions, which present many difficulties to the decipherer.
 
-The modern village of Khalatse is pleasantly situated among apricot groves. After a brief halt at the village, we continued our march toward Nuria (sNyur-la). The trail leads over a stony level ground. The heat in midday was intense. We reached sNyur-la in the afternoon and took up quarters for the night in the small resthouse of the place. 
+The modern village of Khalatse is pleasantly situated among apricot groves. After a brief halt at the village, we continued our march toward Nuria (sNyur-la). The trail leads over a stony level ground. The heat in midday was intense. We reached sNyur-la in the afternoon and took up quarters for the night in the small resthouse of the place.
 
 The march from sNyur-la to Saspola leads across a barren country almost entirely devoid of vegetation. Saspola itself is a large village with numerous tree groves. Across the Indus, some two miles distant, lies the interesting monastery of Alchi, one of the oldest convents of Ladak. This monastery dates back to the time of Rin-chen bzang-po (eleventh century) and has preserved much of its old Indian wood-carvings which recall the finely executed carvings of medieval Kashmir. In the village of Saspola itself there exist two ruined stupas attributed to Rin-chen bzang-po. On the ruined foundation of the largest one has been erected a small monastery, named Cham-pa gom-pa (Byams-pa dgon-pa). It contains a large image of gilded clay of the Bodhisattva Maitreya and several other large images of standing bodhisattvas. According to local tradition, the standing statue of Maitreya was erected by Rin-chen bzang-po himself. Most probably the present statue dates from a comparatively recent time and possibly replaced an older one, which might have dated from the time of the great translator.
 
 16\. "Historische Dokumente von Khalatse," ZDMG, LXI, 583; "The Dards at Khalatse," *MASB*, Vol. I, No. 19; *Antiquities of Indian Tibet*, pp. 97 ff.; *A History of Western Tibet*, pp. 65 ff.
 
 i8 TRAILS TO INMOST ASIA
-
 
 The next march from Saspola to sNye-mo was interesting for several old monasteries. On leaving the village of Saspola, the trail crosses a vast sandy plateau. Not far from the route lies the important monastery of kLu-dkyil, popularly pronounced Likir. It was founded by King Lha-chen rgyal-po (ca. 1050-80 A.D.). The trail descends into the deeper valley and reaches the romantically situated hamlet of Basgo, famous for one of the oldest monasteries of Ladak and for the ancient palace of its kings.
 
@@ -806,8 +805,7 @@ About two o’clock in the afternoon we reached the important Yellow Hat Monaste
 
 teenth century) on a steep rock. This monastery was one of the first Yellow Hat monasteries of Ladak. It possesses a branch, the Zang-skar Monastery, just outside of Leh; and the well-known monastery of Ri-dzong (Ri-rdzong) is also connected with it.
 
-The monastery of Spi-thug enjoys a wide reputation throughout Tibet for the austerity of its monks and the learning of its abbot. It was erected in honor of the great reformer rje-rin-po-che Tsong-kha-pa (1357-1419 A.D.) and a large-sized image of the Saint is found in its du~khang or assembly hall. We decided to visit the monastery on our way and therefore rode up the steep crag on which it stands. We had no difficulty in gaining admission and were very cordially invited in by the abbot and his assistant or umdze. We first were shown round the du-hjtang where some thirty monks were attending divine service. The 
-walls were covered with frescoes, but the extreme darkness inside the hall prevented us from seeing much of them. Before the altar glittered several rows of offering lamps, whose twinkling light illumined from time to time the serene faces of the images.
+The monastery of Spi-thug enjoys a wide reputation throughout Tibet for the austerity of its monks and the learning of its abbot. It was erected in honor of the great reformer rje-rin-po-che Tsong-kha-pa (1357-1419 A.D.) and a large-sized image of the Saint is found in its du~khang or assembly hall. We decided to visit the monastery on our way and therefore rode up the steep crag on which it stands. We had no difficulty in gaining admission and were very cordially invited in by the abbot and his assistant or umdze. We first were shown round the du-hjtang where some thirty monks were attending divine service. The walls were covered with frescoes, but the extreme darkness inside the hall prevented us from seeing much of them. Before the altar glittered several rows of offering lamps, whose twinkling light illumined from time to time the serene faces of the images.
 
 We were entertained with tea and sweets in the private apartments of the *sku-shok* or Incarnate Lama of the monastery. The *sku-shok* himself was absent at Ri-dzong, where he was undergoing a course of instruction in Buddhist metaphysics. In his absence the monastery was administrated by Lama Lobzang, a pleasant old gentleman of quiet manners, who made a very good impression on all of us. He was one of those erudite lamas who carry in themselves centuries of religious culture.
 
@@ -865,7 +863,7 @@ Wandering through the streets of Leh, one feels the beating pulse of the great A
 
 The native Ladaki population is chiefly agricultural, and numerous farmsteads and villages lie along the Indus Valley and the vast sandy plain on which Leh is situated. In this mountainous country agriculture is possible only in the river valleys and is seldom carried on above an altitude of 12,000 feet. The scarcity of arable land, mostly represented by fluvial fans and river terraces, has limited the agricultural population to a few river valleys.
 
-Leh, which is sometimes spelled sLel or sLes, became the permanent residence of the kings of Ladak from the time of the reign of King ’Bum-lde (fifteenth century a.d.). The antiquities of Leh consist of payees, stupas, and temples, stone carved images, and ancient graves. 
+Leh, which is sometimes spelled sLel or sLes, became the permanent residence of the kings of Ladak from the time of the reign of King ’Bum-lde (fifteenth century a.d.). The antiquities of Leh consist of payees, stupas, and temples, stone carved images, and ancient graves.
 
 When one approaches the town of Leh, one perceives from afar the
 
@@ -877,7 +875,7 @@ A broad road, on either side of which rise low walls of unhewn stones, leads to 
 
 17\. For a history of this king of Ladak, sec Dr. Francke, *A History of Western Tibet*, pp. 96 ff.
 
-ROYAL PALACE OF LEH 
+ROYAL PALACE OF LEH
 
 Painting by Nicholas Roerich
 
@@ -909,527 +907,1695 @@ The present Raja of Ladak dwells in his summer residence at sTog. He receives a 
 
 The temples and monasteries of Leh are prominent features of the town itself and its neighborhood. The oldest temple is situated on the rNam-rgyal rtse-mo Hill and is dedicated to Maitreya. According to tradition it was built by King ’Bum-lde.*® On the same hill is foimd the interesting temple called mGon-khang and dedicated to the Lords or Dharmapalas of the Four Quarters. It was erected by King bKra-shis rnam-rgyal, the builder of the Palace on the same hill, and of the hamlet Chubi. The temple contains frescoes whose importance is enhanced by the fact that their dates may be given. In the history of Tibetan pictorial art we are sadly lacking in definite dates to fix the different periods of the artistic evolution of the country. We speak of the different foreign influences which affected the art of Tibet, but are unable to place them in time. Therefore it is always gratifying to find frescoes or paintings which can be definitely dated. I hope to devote a separate work to the wall paintings found in Tibetan monasteries; like everything in Ladak, they evince a strong composite nature, and the artist or artists who executed them were inspired not only by the canonical art of Tibet but were also strongly influenced by the secular art of neighboring countries. Very striking is the fresco representing the family of Ladak kings. The men are attired in Mogul fashion, but the queens are depicted wearing the national Ladak dress. The fresco shows the duality that still exists in the culture of present-day Ladak.
 
-Below the royal palace of Seng-ge rnam-rgyal stand two temples — one consecrated to the future Buddha Maitreya, the other to Avalokitesvara, the Divine Patron of Tibet. The temple or lha-\hang of Maitreya, 
-besides containing a huge image of the Future Buddha, has old and in- 
-teresting frescoes. One of them represents the Meditative or Dhyani- 
-Buddhas wearing the princely attire of bodhisattvas. Close to these 
-temples lie the ruins of the house of a former minister of Ladak {bKa- 
+Below the royal palace of Seng-ge rnam-rgyal stand two temples — one consecrated to the future Buddha Maitreya, the other to Avalokitesvara, the Divine Patron of Tibet. The temple or lha-\hang of Maitreya, besides containing a huge image of the Future Buddha, has old and interesting frescoes. One of them represents the Meditative or Dhyani-Buddhas wearing the princely attire of bodhisattvas. Close to these temples lie the ruins of the house of a former minister of Ladak (bKa-
 
-1 8. Francke, Antiquities of Indian Tibet, I, 76. 
+18\. Francke, *Antiquities of Indian Tibet*, I, 76.
+
+27 KASHMIR-LADAK
+
+blon). Old clay images and manuscript books are still to be found in the ruins.
+
+North of Leh is situated the small monastery of Zangskar, a branch of the Spi-thug Monastery. It is of comparatively recent date but contains some well-executed images and frescoes. A square courtyard paved with large slabs of stone leads to the chief temple, standing in front of the entrance gate. The first room of the temple contains a clay image of Avalokitesvara, the Merciful Lord. The walls of the temple are covered with modern frescoes of fine execution, painted by a well-known Ladak artist, now an old man residing at the Trikshe Monastery. Behind the first hall is situated a small chapel consecrated to the worship of Dug-kar. Besides the goddess’ image we found a large image of Manjushri or Jam-pe yang, the Prince of Knowledge. The rest of the monastery buildings in the courtyard are occupied by cells and storerooms.
+
+A place well-worth visiting is the town residence of the Hemis *sku-shok* or abbot of the well-known Hemis Monastery. It is in charge of a nyer-wa or housekeeper. The s\u-sho\ only seldom resides in it and most of the year the house stands empty. It is a typical Tibetan mansion, and the upper rooms command a fine view of the Indus Valley and the snowy mountains beyond it. As usual the ground floor is reserved for stables, servants’ quarters, and storerooms. On the second floor is situated the kitchen, a cleanly kept place with huge shining brass cauldrons and other kitchen utensils. The living quarters are on the upper floor. These are airy rooms with large square windows. Only one room had glass in the windows, the other had beautifully carved window frames but neither glass nor paper.
+
+Some of the private houses of Leh contain interesting frescoes in the living rooms. In one such house I remember having seen frescoes illustrating the life of Je-tsun Milarepa, his encounter with the Bon magician Naropa on the holy Kailasa Mountain, and other equally famous episodes of the Saint’s life. The same room had another very curious fresco representing the Emperor of China and the arrival of a Ladaki embassy to the Imperial Court of China. Unfortunately there was no inscription to explain or date the painting. The owner of the house called the fresco *rGyn-nag-gi* *kong-ma chen-po*, i.e., "The Emperor of China." It is the second historical fresco which I found in Ladak. No doubt there exist others. The art of fresco painting is still cultivated in Ladak and the Ladaki artists produce sometimes works of art which
+
+28 TRAILS TO INMOST ASIA
+
+compare favorably to those of the central Tibetan school, with its rigidity of composition and design.
+
+In the village of Changspa, situated in the vicinity of Leh, Dr. Francke has discovered interesting frescoes illustrating one of the important episodes of the Kesar Saga. The wall paintings are found in the summer residence of a family of bKa-blon or ministers. They represent the war of Jang or IJang-dmag, a country in the east of Tibet against which King Kesar waged war. Kesar frescoes are extremely rare throughout Tibet, and it is gratifying to know that Dr. Francke had those of Changspa copied.
+
+The capital of Ladak abounds in *stupas*, *mani*-walls or *men-dongs*, and stone-cut images. On the large plain outside Leh stands the longest *mani*-wall of the country, with large stupas on its extremities. It was built by King Del-dan rnam-rgyal (1620-40 A.D.). The Ladak stupas are characterized by painted stucco figures on their foundations. Sometimes these represent winged horses, lions, peacocks, or swans. Rock-cut images abound in Leh and along the trails that lead to the town. At the village of Changspa are found two important stone images, one representing the Buddha Sakyamuni and the other the Future Buddha. Sakyamuni is depicted standing with both hands making the sign of instruction (dharmacakra-mudra). The Buddha is assisted by Maitreya and Padmapani, represented on either side of the chief figure. The second figure represents Maitreya holding the rosary and the vase or bum-pa. It is interesting to note that the Ladak images of Maitreya all hold the rosary in the right hand, instead of the stalk of the lotus flower, as is the case on central Tibetan bronzes. The rosary seems to belong to an older tradition. On the route to Khardong Pass stands a stone image of Maitreya holding the rosary in his right hand and the vase in his left.
+
+A separate and curious group of monuments is formed by the Maltese crosses with inscriptions found in the vicinity of Drang-tse, a village on the Pangkong Lake. The inscriptions accompanying the cross figures were recognized to be Soghdian. It remains to be determined during what period these crosses were erected and the reason that they are found in such a remote place as Drang-tse on the Pangkong-tsho. It seems very probable that there existed a floating Nestorian Christian population in Ladak during the eighth to tenth centuries A.D. when Nestorian colonies were numerous along the trade routes of Turkestan, and other regions of central Asia. Whether the Nestorian visitors to
+
+29 KASHMIR-LADAK
+
+Ladak were merchants or pilgrims, it is impossible to determine at present. In the country round Ladak and Kashmir are found curious legends of a Christian character, which are at present current among the Mohammedan population of the two provinces. They may be remnants of a Nestorian past. The Nestorian Christians were known all over central Asia under the name of *ärkägün-arghun*, and it is interesting to note that the half-caste population of Ladak, born of a Turki father and a Ladaki mother, is designated by the same word pronounced *arghun*. (19) The Nestorians were known in the Mongol Empire under the name of Tarsa and Ärkägün. The origin of *ärkägün* is difficult to establish.
+
+Islam is served in Leh by the large mosque at the upper end of the bazaar. It was probably erected after Nawab Fatehkhan’s march to Ladak.
+
+Several of the so-called ancient Dard graves at Teu-gser-po, a place about two miles above the British Joint-Commissioner’s bungalow, have been excavated by the missionaries, and were found to contain low masonry walls of unhewn stones, somewhat like a subterranean chamber, handmade pottery with linear ornaments, and small bronze objects, beads, etc. Some of the pots were filled with human bones. This fact seems to indicate that the people who built these graves were in the habit of cutting up the body and depositing the bones and flesh in jars.
+
+It is as yet impossible to determine what people constructed the Leh graves. Dr. Francke believes them to have been Dards. (20) All the skulls so far discovered were distinctly dolichocephalic, whereas modern Tibetans of Ladak are brachycephalic. The Tibetans are a composite race, and I have collected during my stay among the nomads of Tibet a number of facts which show that there once existed an ancient stratum of dolichocephalic population in Tibet. The nomad tribes of the Tibetan border country still show dolichocephalic and brachycephalic indexes. The results of my investigations can be summarized thus: the Hor-pas of the Thang La region — mostly dolichocephalic; the Panags, Goloks, and Nya-rong-was — numerous dolichocephalic skulls, the same being true of the Northern Kham Province; the Chang-pas of the lake region — ^mostly brachycephalic indexes, some showing a transitional type; the agricultural population of the Brahmaputra Valley and south-eastern Tibet — ^mostly brachycephalic indexes. It is clear from the above
+
+19\.  Pelliot: *Chritiens d'Asie Centrale et d'Extreme Orient. T'oung Pao*., XV, 636.
+
+20\.  *Ibid*., I, 68 II.
+
+30 TRAILS TO INMOST ASIA
+
+that the dolichocephalic population had been preserved along the Tibetan border, whereas the center of the country had been conquered at some early date by a brachycephalic race. I am inclined to think that the graves at Teu-gscr-po were left by the ancient stratum of dolichocephalic tribes of Tibet. It is interesting to note that the Leh graves are popularly called “nomad graves,” and it is precisely among the nomad population that we find the dolichocephalic type with fine features and straight hair. Unfortunately the missionaries were obliged to stop their excavations and a great many of these graves are still unexplored. It will be very instructive to compare the Ladak graves to the analogous graves foimd in the lake region north of the Trans-Himalayas.
+
+The famous Hemis Monastery has often been described in books about the country, and the religious dances that take place at the monastery about the end of June have been attended by many Europeans. Although of comparatively recent date, the monastery contains some old bronzes. The frescoes in the temples are modern, and as such have only an iconographical value.
+
+The road along the Indus Valley is extremely picturesque. The vivid green of its fields appears in sharp contrast to the ruggedness of its mountains. The village of Shel on the right bank of the river was once the capital of the Ladak Kingdom and is notable for ancient rock inscriptions and stone-cut images. The Yellow Hat Monastery of Tik-tse (Khrig-rtse), situated on a steep crag, is interesting for its romantic situation, but it looks forlorn. It is populated by a crowd of dirty and insolent monks, who impudently clamor for bahjhish and lack' the discipline and monastic dignity found in their colleagues of Spi-thug and Ri-dzong. The Incarnate Lama was obliged to quit the monastery some years ago, for monastic life possessed no attractions for him. A new incarnation did not appear, and the whole establishment was left to itself. We succeeded in finding some old bronzes and several old painted banners. Some of the temple doors had interesting wood carvings. The colossal figure of the Future Buddha, lit by numerous offering lamps, made a powerful impression; but the heaps of rubbish in the corners of the edifice and the thick layer of dust on objects of worship only enhanced the first sense of the forlorn state of the monastery. No doubt many interesting objects could be found, but the state of utter disorganization prevents the student from making a careful inspection of the monastery buildings.
+
+The autumn was rapidly setting in. Yellow leaves in the gardens ana
+
+PROFESSOR NICHOLAS ROERICH
+
+AT WORK IN THE UAJA’s PALACE IN LEH, LADAK
+
+THE TIK-TSE MONASTERY, LADAK
+
+THE MONASTERY OF SHEH, LADAK
+
+PAINTING BY NICHOLAS ROERICH
+
+*Roerich Museum, New York*
+
+31 KASHMIR-LADAK
+
+the frequent breaths of cold wind from the mountain summits made us realize that it was advisable to hurry our departure. For several days the town had been filled with reports that snowstorms were beginning on the high passes and our caravan-*bashis* pressed us to start before the early snow would block the passes. Professor Roerich had completed his series of paintings on Ladak and its sanctuaries, and we could begin our final preparations for the difficult journey ahead of us. We were short of men, and it seemed very difficult to engage suitable ones for the long journey to Khotan. We sent a notice to the bazaars that men were needed, and daily crowds of them came to the dak bungalow. Out of this motley collection of Baltis, Ladakis, Kashmiris, Arghuns, and Turkis, Mrs. Roerich chose several promising men, who proved very helpful on our track to Chinese Turkestan. Two of them had the distinction of serving under Dr. Sven Hedin during his expedition of 1907-8, and several others had been previously employed as caravan men on the Karakorum route. They all knew the way well and were fully prepared to face the difficulties and dangers of the mountain journey. Most of them had been several times in Yarkend or Khotan and spoke fluently the eastern Turki. We engaged them as far as Khotan and promised to pay their journey home. Besides his pay each of the men received a warm fur coat, a winter fur cap, and a pair of soft charuq boots with felt socks. Two tents were provided to shelter the personnel of the expedition during the night, but for the whole of the journey many of the men preferred to sleep in the open or under the flies of our own tents.
+
+The son of a local Ladak headman was accompanying us as head servant and proved a devoted and efficient man. Ladakis are wonderful in caravans, always cheerful amid hardships and storms, contented with little, and always ready to perform their work. They march on foot long distances over hard, stony ground that renders animals lame, and yet never complain of fatigue. In our subsequent wanderings, we often remembered our Ladaki caravan men and their devoted service.
+
+### FROM LEH TO KHOTAN THE GREAT KARAKORUM ROUTE
+
+II
+
+FROM LEH TO KHOTAN
+
+THE GREAT KARAKORUM ROUTE
+
+SEPTEMBER 19, 1925 — a memorable day in the annals of the expedition! A fine autumn morning with a light breeze from the mountains, wonderfully cool and refreshing. A large crowd of local inhabitants gathered to see us start. The crossing of the Khardong Pass, the first mountain pass on the Turkestan route, is usually effected on yaks, which have to be hired from local peasants. The summit of the pass is covered by a glacier and the pack horses have usually a bad time on it. When pack yaks are employed, the pack horses and mules of the caravans are driven empty across the pass. This is the usual custom of the country, no doubt prompted by many years of experience. We decided to follow it and had ordered yaks several days in advance. For some reason or other, only half of the required forty yaks appeared in the early morning at the dak bungalow. We were obliged to wait the whole of the morning and a considerable portion of the afternoon, before all the woolly beasts reached the bungalow’s compound. As is customary, there was much hustle and shouting, the local Ladak headman using his cane rather freely.
+
+At last, about fovir o’clock in the afternoon, the long caravan column left the dak bungalow and filled the narrow road, which passes at the foot of the Leh Palace and leads to the small village of dGon-pa, and farther into the mountains. A large crowd followed us on foot, wishing us a successful journey. We rode past the barley fields and the Zangskar Convent, whose white walls are an outstanding feature on the plain north of Leh.
+
+After we had passed the last Ladaki village and barley fields, a group of Ladaki women and girls approached our column. They held in their hands brimming cups of yak milk. We all had to bow low in our saddles, and our foreheads and those of our animals were sprinkled with milk. In doing so they wished us godspeed and a safe journey amid the dangers of the forbidding Karakorum.
+
+For three hours we climbed the mountain. With each step, the coun-
+
+36 TRAILS TO INMOST ASIA
+
+try became more and more barren. The verdant gardens and fields of Ladak lay behind; and ahead of us towered the rugged mountains, their crests covered with glaciers and snow. Large bowlders hung over the mountain slopes, and we crossed vast masses of debris carried down the towering heights. Our caravan of pack horses under Nazar Bai and Omar Khan went ahead, with orders to wait for us at the northern side of the Khardong La in the small hamlet of Khalsar.
+
+We camped for the night on a stonypromontory, close to a ruined stone hut. A piercing northwest wind started soon after we had dismounted and we were obliged to seek shelter among the neighboring cliffs. Our men, perched under the rocks in their gray sheepskins, looked like gigantic vultures, gazing over the upland for some prey. The yak caravan reached the spot only about ten o’clock at night. Its approach was heralded by the loud shouting and whistling of the drivers. Soon there appeared a dark moving mass, that slowly filled the open space on the small plateau of our camp. In complete darkness we began imloading and our inexperienced camp men had some difficulties in putting up the tents. The night was bitterly cold and the wind blew continuously, abating only toward dawn.
+
+The fine morning of September 20 was a distinct contrast to the previous dismal evening. The caravan was soon on the march, and the long black file of animals climbed the mountain path. We all rode yaks and our cavalry saddles looked strange on the shaggy black animals. The yaks arc wonderful climbers, and many travelers have spoken highly of these beasts of the mountains. The ascent of the Khardong La is comparatively easy, but a little too steep for horses. It took us fully three hours to reach the snow-capped summit of the pass. On many a turn we noticed frozen drops of blood — signs of passing caravans. Men and animals often bleed heavily at these altitudes. From the summit of the pass, the mountains seemed like a great sea, crowned with sparkling white foam.
+
+The descent was steep and slippery. A glacier lay along the northern slope. We all had to dismount and walk down the pass. One of our pack yaks preferred to glide down the glacier and with amazing agility dashed down its steep slope. We all were sure that it would crash with its load against the huge bowlders that filled the narrow ravine below. But the animal suddenly turned at the critical point and self-contentedly joined its comrades on the trail. We had to walk a considerable distance down the pass. Far in the distance, a tiny green strip of vegeta-
+
+37 FROM LEH TO KHOTAN
+
+tion indicated the Shayok Valley, where lay the village of Khalsar, the meeting place of our caravan. We did not mount our horses, but continued our journey on yaks. After two hours’ ride, we entered the Shayok Valley with its verdant bottom and sharply outlined rocks. For the last five miles, the road was flat and easy. About five o’clock in the afternoon, we were within view of the village of Khalsar, and soon noticed our czrzvaxi-bashis, Nazar Bai and Omar Khan, waiting for us outside the village. Two hours later we were encamped in the small but shady garden of the serai and were checking up our loads, as they arrived on yaks. From then on, for twenty-two days, the horses had to carry the loads and climb the forbidding heights of the mountain passes.
+
+Next day, September 21, we continued our march along the Shayok Valley. The country was gorgeous in its coloring — flaming yellow and red sandstone rocks and granites rose above the bright green spots of the valley bottom.
+
+Three miles above Khalsar, we crossed a suspension bridge, and rode as far as the picturesque village of Tirit. Here our headman Lön-po possessed an estate and a large arid comfortable country house. He was very anxious to accord us hospitality and made us stay for the night. The upper rooms of the house were clean and bright. The walls were gaily decorated with paintings, representing the eight happy signs of Tibetan religious ornamentation. The view from the roof of the house was superb and late into the night we enjoyed the magnificent moonlight which illumined the whole of the surrounding mountain country and the peaceful valley of the Shayok. The caravan men, unmindful of the hardships and privations ahead, sang around their camp fires, and the evening psalms of our Buddhist followers intermingled with the drawling melancholy songs of Turkestan.
+
+We were anxious to reach Panamik, the last settlement on the Karakorum route, and rose early on September 22, before dawn had aroused the mountains, still hidden by a night-veil.
+
+Soon after Tirit the road turned into the valley of Nubra and led past numerous farmsteads, hamlets, and monasteries. It was lively with the sound of caravan bells; strings of horses and donkeys wearily moved toward Ladak. They were accompanied by dusty drivers, with their faces blackened by the winds and gales of the uplands. Days of hard traveling were behind them and they were hurrying to Leh to enjoy a much-needed rest.
+
+38 TRAILS TO INMOST ASIA
+
+On our way we visited the interesting monastery of Sandoling, which is only seldom mentioned in books on Ladak. The trail crossed the dry bed of a torrent, strewn with bowlders that once were swept from the mountain side. The assembly hall of the monastery contained a large image of Maitreya and fine large painted banners representing the same bodhisattva. The convent possesses the finest collection of religious banners which we had seen in Ladak. The head lama of the monastery was absent and the young novices were slow and lazy in the discharge of their religious duties.
+
+We reached Panamik in the evening and pitched our camp in a grove of trees on the banks of a small brook, which suddenly rose and flooded the banks, endangering our camp.
+
+In Panamik we learned that two sahibs were stopping in the village. Shortly after, they came to see us, and proved to be two missionaries from the Swedish Mission in Kashgar. One of them. Rev. Mr. Germanson, told us of the difficulties on the road. The conditions in Kashgar were not altogether peaceful and the city was still agitated after the coup d’Hat of Captain Ma and the assassination of the all-powerful G.O.C. of Kashgar, the dreaded Ma Fu-hsin.
+
+In the neighborhood of Panamik there were several chapels and a small Red sect monastery. Rock-cut images were said to exist higher up the valley, but we lacked the time to make a side excursion.
+
+The next stage, on September 23, brought us to the foot of the Karaul-davan, a small pass with avalanche-swept stone slopes. The day’s route followed along the left bank of the Nubra River and we could see distant villages on the right bank of the stream. An interesting corner of Ladak is this Nubra Valley.
+
+We camped on the edge of a plateau strewn with bowlders and much detritus. A Ladak caravan with yaks, bound for Kokyar and Yarkend, was camping beside us. Yak caravans are well suited for the mountain route of Karakorum, and their only drawback is the shortness of their daily stages.
+
+Long before dawn we heard the loud cries of "Long, long, long!" — “Arise, arise, arise!” — in the Ladaki camp, and camp fires soon flashed in the dark, showing shaggy figures drinking their morning tea and tsam-pa (parched barley flour). In the twilight, the dark mass of the yak caravan left the camp site and started for the pass. We followed it on our horses. The trail up the pass presented no difficulties, but the precipitous stone slopes and the numerous skeletons of men who had
+
+39 FROM LEH TO KHOTAN
+
+fallen on the sharp rocks below spoke of the dangers of the pass. Our caravan had also to pay its toll. The line Badakhshani stallion belonging to Omar Khan, frightened by something, jumped suddenly and instantly crashed down the stone slope. It landed on the rocks beneath, still alive. A bullet from one of our rifles put an end to its agony.
+
+The descent from the pass is short and gradual, but the further route along the valley of a small rivulet is a dreadful accumulation of bowlders and detritus. It is almost incomprehensible how caravans can cross this stretch of the road! Bowlders, sharp stones, and treacherous holes, without foothold — such is the road after the Karaul-davan. For three hours we struggled through this stony mass, dismounting to help our horses over the dangerous places. The swift cold rivulet had to be crossed several times. It was hard to induce horses to enter the icy water. One of our sheep, driven along with the caravan, was carried away by the current, and could not be rescued. Utterly exhausted, we camped on a level patch of land. It was our intention to reach the foot of the Sasser Pass the same day, but Omar Khan reported that his pack horses were at the end of their strength and could hardly move farther.
+
+The camp was a very dismal one. In addition to the wind, wet snow drifted in the air; and the dark slopes of the mountains, rising on all sides of the small valley where we camped, made a dreary impression on us all. Our Chinese interpreter smoked his pipe, repeating wistfully: "Aya, Aya, such a road, such a road! Nowhere in Tibet did I see such roads." In the evening two of our pack horses ate some poisonous grass and succumbed during the night. Their loads had to be distributed on the remaining animals. We warned the caravan men to be more careful and to tie the animals up wherever there was danger of poisonous grass.
+
+September 25, 1925. We made a short march up the valley at the foot of the Sasser Pass (17,500 feet) whose snowy mass towered northwest of our camp. Soon after our arrival, it began to snow and a sharp piercing wind roared on the heights of the mountains, rapidly sweeping down the narrow valley. After a few seconds the entire landscape was enveloped in a whirl of snow and we all were sitting buried in it, our backs turned to the raging wind. The snow had to be shoveled away and the tents pitched in all haste, a task by no means easy at an altitude of some 15400 feet.
+
+The night was without wind and exceptionally quiet. Our horses roamed about the camp seeking some signs of weathered grass that iJhowed here and there from beneath the snow. In the morning we
+
+40 TRAILS TO INMOST ASIA
+
+woke up to find ourselves and our tents covered deep. The snow had continued for the whole of the night and thick mists hid the crest of the pass. Omar Khan was completely disheartened by the loss of three of his best animals and viewed the prospect with much apprehension. His colleague, Nazar Bai, on the contrary, was cheerful and only expressed the wish that we had crossed the pass a day earlier, before the beginning of the snow blizzard. This indeed had been the suggestion of Mrs. Roerich, who the previous day had insisted that we reach the foot of the Sasser Pass. Nazar Bai’s horses were strong and well fed and he could risk long and trying marches across snowbound passes. Omar Khan was in quite a different position. His horses were comparatively weak and his caravan men a turbulent lot. In the caravan, much depends on the drivers who look after the horses, load them, and follow them on the march. A bad and reckless caravan man will often ruin the animals intrusted to his charge and will never think of helping them over difficult places. We urged Omar Khan to try his best to be careful of his animals and not to allow them to graze on the poisonous grass that abounds in the mountains.
+
+To add to our difficulties, the iron tent pegs proved to be frozen hard into the ground and it was almost impossible to pull them loose. Our Ladaki servants took the situation easily, and after two hours of exertion succeeded in extricating all the pegs. Now I perceive the difference between the caravan men on the Karakorum route and those of Tibet proper. The caravan men of the Karakorum aim at making the journey as quickly as possible, in order to spend only a short period of days on the bleak uplands. Neither storm nor snow will stop them, and they will fight nature, prompted by an impetuous desire to reach the goal. The caravan men of Tibet are of a much more indolent nature. Their way is to proceed slowly. A storm and snowfall are pretexts for a day’s rest. They have no goal ahead and their inner self is as doleful as the undulating plains and hills of their highlands.
+
+By ten o’clock the caravan began to ascend the pass. For an hour the sun lighted the snow-covered summits and the vast snowy expanses of the mountain slopes were a mass of sparkling colors. We could hardly look ahead of us, so intense was the glow of the snow in the sun. Everyone had to put on snow goggles. A cold blast of wind brought a sudden and sharp change. A small cloud was seen rising on the summit of the pass; it grew nearer and nearer and in a few moments our column was enveloped in a severe snow blizzard. Notwithstanding the terrific force
+
+41 FROM LEH TO KHOTAN
+
+of the wind that raged around us, raising huge clouds of snow, we hurried on.
+
+On the very edge of the pass the trail was blocked by the carcass of a recently fallen horse which we had to remove in order to go by. The carcass had already been attacked by ravens, huge black birds that haunt the vicinity of the trade route. When a dying animal is abandoned by a caravan, these dismal birds of prey hover round it, pluck out its eyes before it has even died, and feast on its entrails.
+
+The summit of the Sasser Pass was covered by huge glaciers. To cross, one has to ride for more than two hours over the slippery surface. Fortunately for us, the glacier was buried under deep snow, but even then my horse slipped terribly and almost carried me down a crevasse.
+
+In the arctic solitude of the summit, we came across a few bales of merchandise piled in a heap, with the name of the owner on them. A caravan had passed this way, and after losing most of its animals, had to abandon some of its loads. Such piles are frequently met on the way; nobody touches them, and the owner usually finds them on his way back.
+
+The carcasses of animals became more and more numerous. Some of them had probably died in terrible agony. The dry atmosphere had mummified them in strange attitudes, as though galloping, their heads thrown backward. Probably some caravaneers had set up the dead carcasses in standing posture and there was something strangely uncanny in these galloping, dead horses.
+
+One of our men had an attack of mountain sickness and fell from his horse not far from the summit of the pass. He was bleeding severely and had to be treated. For a brief moment, the sun ray pierced the dense clouds that enveloped the snowy summits, and the whole of the snowy region sparkled with an intense and unbearable glow. The men covered their faces and the animals’ eyes were watery from the terrible glare.
+
+Finally, we reached the northern edge of the glacier, and began the long-awaited descent. A barren black mountain country stretched northward. A long, gradual decline leads to the Sasser Serai, a miserable looking blockhouse with several stone inclosures. Quite unexpectedly, we saw some large Bactrian camels grazing on the scant shrubs that covered the almost bare slopes. These hardy animals belonged to one of our caravan-^ar^/r, Omar Khan, and were grazing iiere until a caravan of horses should bring loads to be carried to Tur-
+
+42 TRAILS TO INMOST ASIA
+
+kestan. Camels carry loads across the Karakorum as far as the Sasser Serai. Here they have to stop, because the slippery glacier cap of the pass is impracticable for them. Some of our Ladakis had never seen camels before and there were endless exclamations of "*A-tsi tindre*," or "O such ones !" — а common Tibetan exclamation of surprise. Many of our riding horses, especially those from Zangskar and Ladak, snorted and turned backward.
+
+We continued our descent until we again reached the Shayok Valley, where the river carried its waters across a gravel-covered mountain plain. The weather suddenly brightened and the sandrocks of the valley burst into flame in the rays of the setting sun. A wonderful scene indeed, after the arctic severity of the snowbound pass!
+
+A small party of Yarkend pilgrims to Mecca went by our camp on their way back to Turkestan. They traveled with only a few pack horses and all the men were on horseback. Two women with black veils that hid their faces were riding behind the party. They crossed the river and disappeared in the sandy hills on the other side. A few days afterward we found two dead horses — a trace of their rapid passage.
+
+September 27, 1925. The night was cold and the river was covered with a thin crust of ice. After some search along the bank, we found a fording place and with loud shouts urged our horses to enter the water. The thin ice cut the horses’ legs and they plunged into the cold water very unwillingly. It reached up to the stirrups. Our caravan drivers, who always went on foot, were carried across on riding horses, seated behind the rider.
+
+Once across the river, we hurried our horses to warm theni after the cold batlu Beyond the gravel bottom of the river valley lay rocky hills. The route led through a narrow canyon of crystalline rocks. At the bottom of the canyon flowed a tiny stream that lost itself in the gravel plain before reaching the river. The narrow trail along the bank was blocked here and there by horse carcasses and, what was worse, by huge carcasses of camels with horribly swollen bellies, that filled the path completely. The Turkestan caravaneers are accustomed to cut the throats of dying animals with large knives, thus ending their agony. Our caravan animals snorted, and the frozen carcasses had to be removed from the trail.
+
+We came out of the canyon into a region of undulating hills of black earth with very marshy ground. Small pools of water stood in the shallow depressions between the hills. The country gradually rose and we
+
+43 FROM LEH TO KHOTAN
+
+soon emerged on a broad upland plain. Snowy mountains rose on either side of it. We camped near a small brook of fresh water. The air was frosty and the pools and small depressions were all covered by a thin crust of ice.
+
+September 28. An intensely cold night made us shiver in our sleeping bags. The early morning hours were indescribable in their solemn beauty. The surrounding snowy peaks stood in sharp dazzling outline against the opal sky of simrise. Oiu: caravan, in several columns, made its way across the upland plain — Nazar Bai always ahead, Omar Khan moving slowly in the rear. The vast expanse of the plain was soon behind us and the track led into a red sandstone gorge with flat gravel bottom. A mighty stream had once flowed down the gorge, and the rocks on the mountain slopes bore numerous traces of its action. In this gorge we saw our first Tibetan gazelles, light-footed animals that dashed across the trail to disappear again in the distance.
+
+For the greater part of the day, we followed gravel-covered valley bottoms. On all sides rose crystalline rocks. The march was a very long one — almost ten hours, but over fairly level ground. After sunset we camped on the bank of a tiny stream which carried its silver water into the gravel-covered valley. mmediately north of the camp rose the Dapsang Pass, and behind it the vast upland known as the Plain of Dapsang. Completely fatigued, we were glad to find ourselves in our tents. I was about to crawl into my bag, when suddenly my nose detected a slight smell of putrid flesh. From where could it come ? A search revealed the fact that while I was busy with our riding horses, distributing the forage for the night, our camp men had pitched my tent on a bloodstained spot on which lay the remains of a horse carcass devoured by wolves. I had to move my tent with the help of our night guard to another spot. Such cases happen only too often on the Karakorum route. The caravans are in the habit of camping always on one and the same spots, which are marked by numerous carcasses.
+
+We moved off very early in order to cross the Dapsang Pass and cover as much as possible of the broad Dapsang Plain that lies beyond the pass. Not far from our camp we were disagreeably surprised to discover that the “pure” mountain stream, the water of which we drank the evening before, was flowing under the carcass of a huge camel that lay in the very center of it.
+
+The Dapsang Plain was a vast undulating upland plain, rising to a great altitude. On the southwest and southeast rose mighty, snowy
+
+44 TRAILS TO INMOST ASIA
+
+giants, among which the Dapsang Peak towered to a height of some 22,000 feet. To the west, an imposing snowy mass of several giant peaks rose toward the great heights of the Masherbrum and other peaks of its group. Ahead of us, dark rocky hills hid behind the main chain of the Karakorum. On our way, we passed a stone with a Latin inscription erected by the Italian expedition of Dr. de Filippi in 1914-15. A story is told that the Italian explorers buried hundreds of treasure cases here.
+
+Our catxvi^VL-bashi, Nazar Bai, hoped to reach the Karakorum Pass the same day and therefore hurried our caravan on. Omar Khan complained bitterly; and in view of the poor condition of his horses we had to halt for the night at a spot two miles distant from the pass, that lay hidden behind a mountain spur.
+
+We had intended to travel by the Kokyar route to Yarkend and then to Khotan. Nazar Bai strongly advocated the alternate route across the Sanju Pass and we decided to follow his advice. The Sanju route was shorter by six days and there were fewer streams to cross.
+
+September 30. A blizzard had been blowing from early morning and the mountain summits were hidden behind a thick white mist. The ascent to the great Karakorum Pass (18,694 gradual and the pass itself was more like a low ridge on the surrounding high upland.
+
+The cold was so intense that we had to cover our faces to protect them from the biting wind and the icy particles that drifted in the air and cut the skin. Mrs. Roerich always found a particular charm in this wild mountain scenery. She stood the journey wonderfully well, and our Chinese interpreter daily wondered at her courage and endurance.
+
+One of our pack horses suddenly collapsed at the very summit. Well-fed animals often perish on mountain trails. It is always advisable not to feed the horses the day before crossing a high pass. This is the universal custom throughout higher Asia. The same rule applies to men. Less food and drink makes the crossing of a high mountain pass easier and less dangerous.
+
+We descended from the pass into a broad valley watered by a tiny stream. A small camel caravan journeyed by toward the pass. They were pilgrims to distant Mecca. A rider in a large, heavy sheepskin coat, led the column. He bowed low in his saddle, greeting our party. A gray-bearded man sat on one of the camels, and several women mounted on other caravan animals peered out from their heavy veils.
+
+We continued our journey to a place called Balti-brangsa, a place of-
+
+45 FROM LEH TO KHOTAN
+
+ten used as a camp by passing caravans and covered with carcasses and bones. We made only a brief halt and then started again in order to reach Baksum-Bulak. Balti-brangsa was situated at the foot of a low ridge, south of a shallow depression in the surrounding upland plain; the lowest point of the depression was occupied by a small lake.
+
+A strong northwest wind was driving the clouds, and the ground was covered by several inches of snow that had fallen the night before. Late in the afternoon we reached Baksum-Bulak and camped on a level gravel plain. The surrounding mountains were all buried under snow, and an impenetrable mist made it impossible to ascertain the character of the neighborhood. In the evening we were joined by another trading caravan on its way to Kokyar and Karghalik; it had unusually fine pack animals and was traveling with great speed. The caravaneers were a fine lot of men who went about their daily occupations with a remarkable sense of duty.
+
+The next march brought us across a series of upland plains covered here and there by patches of snow. On one of these plains, we suddenly scented in the cold air the thin perfume of Indian spices and saffron. We rode ahead and soon discovered a small donkey caravan, carrying loads of Indian spices from which the strong smell emanated. After an eight hours’ march we reached the junction of the Kokyar and Sanju routes. It is a vast gravel plain bordered on the north by a mighty snow mountain. Behind this snowy giant lay the summer grazing grounds of the mountain Kirghiz. The trading caravan, which had stayed with us at Baksum-Bulak, continued their journey toward the northwest and soon disappeared in the trembling atmosphere of the Asiatic highland. A violent northwest wind prevented the pitching of our camp and we had to wait until sunset, when its force abated a little.
+
+October 2. Nazar Bai was eager to cross the Suget Pass (17,000 feet) the same day and to reach the Chinese frontier outposts of Suget Karaul as quickly as possible. We broke camp very early, about six o’clock in the morning, and plunged into the mountains across the plain. For several hours we followed the course of a small rivulet that flowed from the pass and disappeared in the gravel plain southwest of the massive eminence. The ascent to the pass was very gradual. The southern slope was free from snow. The landscape presented a succession of ridges, along the edge of which wound the path. The summit of the pass was broad and flat, covered with numerous bowlders. To the east and west rose great snowy peaks towering to a height of some 20,000 feet. Before
+
+46 TRAILS TO INMOST ASIA
+
+we had reached the summit of the pass, a violent cold wind accompanied by a snow blizzard greeted us. The surrounding moimtains disappeared behind a thick veil of mist, and one could only dimly see the men moving immediately ahead. On reaching the northern slope, we found it blocked by snow several feet deep. A trading caravan on mules was stranded on the edge, its drivers uncertain what next to attempt. There could not be any question about returning to the southern side of the pass; we had to find a path down the snow covered slope. After a brief consultation it was decided to unload the mules and send them down to find a suitable trail for the rest of the caravan. The hardy animals acquitted themselves of their task splendidly. Belly-deep in snow, they descended the steep slope and reached the narrow gorge at the foot of the pass. They were followed by our loaded caravan animals and ourselves. The air resounded with cries of "*Hash, hosh!*" and "*Kabhardah, Kabhar-dah!*" Horses stumbled, men crept behind them, holding on to the tails of the animals. Sometimes the moving column would send a huge block of snow down the slope. When we reached the foot of the pass and looked up, we saw the whole mountain side covered by a dark crawling string of pack animals and men. We were fortunate not to lose any of our animals or men during this dangerous crossing. Pre-occupied with the difficulties of the trail, we had no time to admire the severe mountain panorama that opened before us. Dark, almost black, jagged peaks, rimmed with sparkling snow, stood out in sharp contrast to the dismal gray sky. The wind was raging in the gorge at the foot of the pass, dispersing the snow in fantastic designs on the mountain slopes. “By the grace of God, we came down,” shouted our Moslem caravan drivers, when we had reached the stony bottom.
+
+Soon complete darkness enveloped the weathered rocks of the gorge. Nazar Bai rode ahead in search of a suitable grazinjg ground for the night, and his broad-shouldered figure mounted on his swift raven steed disappeared into the darkness. We continued marching until a very late hom. The men were murmuring and the animals were tired after the fatiguing struggle across the pass. My watch showed nine o’clock, then ten o’clock. Still no traces of Nazar Bai. The murmurs among the caravan drivers became louder. Was the old Nazar Bai mad to make men and animals march for more than twelve hours? It was getting impossible to ride because of the darkness. Myself and one of our syces went ahead of the caravan to find the trail. We went on foot, leading our horses behind us. Suddenly we found ourselves in water.
+
+CROSSING THE KHARDONG LA
+
+THE EXPEDITION CARAVAN BEFORE THE SUGET PASS
+
+SANJU KIRGHIZ MEN AND WOMEN
+
+TYPES OF TURKI NATIVES
+
+47 FROM LEH TO KHOTAN
+
+We had been inarching along the bank of a tiny mountain rivulet, which suddenly became a considerable stream and crossed our path. There was nothing to do but mount our tired horses and cross the stream. In the darkness ahead of us we heard shouts. It was Nazar Bai, who had found a camping ground. The tired caravan moved into the camp. Weary men quarreled among themselves, the Ladakis accusing the Turkis of dark intentions. This day we had spent fourteen hours on horseback.
+
+October 3. We started somewhat later than usual. Our pack animals had wandered far down the stream in the night and had to be brought back.
+
+The trail led down a sandrock gorge into a vast broad plain in which the Chinese outpost of Suget Karaul was situated. Northward rose a high snowy range — a western branch of the K’un-lun. On the northwest a broad gorge leading into the mountains left a passage open toward the Sanju Pass. It was refreshing to see shrubs along the banks of the stream. Numerous ducks and snipes along the banks were the first signs of animal life after sixteen days of barren country. The region has a scant population of Kirghiz whose chief occupation is cattle breeding. Agriculture is said to exist along the foot of the snowy range north of the valley. The only agricultural produce is barley, which seldom ripens and is mostly used as straw for caravan animals. After two hours’ march, we were in view of the mud-built Chinese fort, a square courtyard sinrounded by several brick hovels. A figure appeared outside the gates and rushed back inside the fort. We were apparently noticed. Our Chinese interpreter hmried ahead to announce our arrival.
+
+The officer commanding the fort gave us a very hearty reception. His staff consisted of a Turki interpreter and some twenty militia, mobilized from among the local Kirghiz. During our visit to the fort, the personnel of the fort garrison was absent in the mountains and the population of the fort consisted of the Chinese frontier officer, the interpreter and his wife. Besides us, another Yarkendi caravan was camping in the fort courtyard. After the usual formalities were over and our passports had been examined, the frontier officer dispatched a rider to Sanju and farther to Guma, announcing our arrival and ordering the local population along the route to keep everything ready for our coming. We decided to stay but one day at the fort and to continue the journey the following day. Late into the night large camp fires illumined the fort walls and burly figures of men were squatting round them.
+
+48 TRAILS TO INMOST ASIA
+
+telling each other fresh news from Yarkend, Leh, and Kashmir. Here was the true Asia of the caravans, in which even the most prosaic news assumes the shape of heroic legends, that are told and retold along the great trade routes.
+
+October 4. It is always difficult to tear people away from resting places. We started only in the afternoon, for our march to Shahidullah was to be a very short one. We were accompanied by two Kirghiz “soldiers” who had orders to look after our comfort on the journey. Both of them rode their horses bareback and indulged in all sorts of equestrian exercises.
+
+Having crossed the broad plain in the direction of the gorge, we reached the Karakash darya, the Black Nephrite River, one of the rivers that feed the rich oases of Khotan. We camped there after two hours’ march. The grazing was exceptionally good and our horses had a long-deserved rest.
+
+Behind the camp the ruins of a former Chinese frontier post and the mazar or tomb of a Mohammedan saint rose on a steep crag. Many of these mazars were built on spots formerly occupied by Buddhist stupas. October 5. We continued our journey down the Karakash Valley. The road was stony and heavy, in places very narrow. Sandstone cliffs overhung it and at several points the spring and summer floods had washed away the trail, which forded the river at least fourteen times during the day’s march. On our way we passed the first relay station, a mud hut with bundles of hay on its roof. The station was in charge of a Kirghiz family. Women in high white headdresses and long chapans or coats, stood by the roadside. Not far from the station, Nazar Bai’s pack ponies, shied at something and stampeded, throwing off their loads. Two of them broke their front legs on the stony trail. This delayed us considerably and it was late in the afternoon when we reached the next relay station and camped outside its walls. It was pathetic to see the two horses with fractured legs, limping behind the caravan. We persuaded Nazar Bai to leave them with the local Kirghiz, who arc very skilful in treating horses and curing fractures.
+
+The country was becoming much more populated. Besides parties of pilgrims to Mecca, hurrying southward before the snow might block the passes, small groups of Kirghiz men and women were seen moving about the valley. Terraced fields of barley lay on both banks of the river and our hungry animals received daily rations of hay. Toward the evening heavy dust clouds, that crept from behind the mountain ranges
+
+49 FROM LEH TO KHOTAN 
+
+to the north, appeared over the mountain crest and blew across the valley. We were approaching the great desert basin of inner Asia, and each breath of wind brought dust from its vast sandy expanses.
+
+October 6. We continued our march down the Karakash River. The country suddenly became again more deserted and the rugged sandstone cliffs pressed on both sides of the river gorge. We passed a large Kirghiz cemetery — stately mazars of an unmistakably Iranian style of architecture, and ordinary stone tombs, in front of which stood long poles with black horse and yak tails attached to them, a characteristic feature of Mohammedan tombs in Chinese Turkestan.
+
+On our seventh mile, we came across numerous caves cut in the mountain side. They were said to be used by the local Kirghiz as winter quarters and storerooms. They strikingly resembled the Buddhist cave monasteries of Chinese Turkestan.
+
+A heavy stone trail led to the foot of the Sanju Pass. The river gorge 
+narrowed considerably, the trail running along the river for some dis- 
+tance and then turning into a side valley. At the head of this valley lay 
+a small inclosed spot covered by colossal bowlders and detritus — ^the 
+foot of the Sanju Pass. We pitched our tents as best we could, but had 
+to spend the night head downward. In the evening a storm brought a 
+light, wet snow on the pass^ which drifted about our tents. The yaks 
+which had to carry our baggage across the pass arrived late at night and 
+their black mass almost smashed our camp. Their Kirghiz drivers were 
+unaware of its exact situation, and drove the herd of pack yaks straight 
+into it, tearing tent ropes and tents. We all had to protect our tents from 
+the advancing beasts which, frightened, dashed through the camp and 
+had to be caught on the mountain side. 
+
+October 7. The empty pack horses left the camp before dawn, in or- 
+der to cross the pass before the yak caravan. They were followed by our 
+party, which also rode on yaks. The ascent to the pass was very steep 
+and in several places the trail was covered by a thin crust of slippery 
+ice. The trail went by a zigzag route. In winter the pass must be ter- 
+rible, for snow and stone avalanches sweep down its steep, jagged slope. 
+It took fully three hours to reach the summit. The trail passed amid 
+sharp rocky crags, and at the very summit there was a broad and deep 
+crevasse, over which the animals had to jump. At this place, one of our 
+followers fell from his yak and bruised his leg. 
+
+The descent was gradual and led into a broad valley girded by grass- 
+covered rolling hills. This was a typical nomad highland, here and 
+
+50 TRAILS TO INMOST ASIA
+
+there covered by Kirghiz qishlaq or winter quarters. We were now 
+accompanied by the local Kirghiz headman, a brave looking man of 
+about forty, with his match-lock and large fur cap. We continued our 
+journey along the mountain rivulet and soon came across a large Kir- 
+ghiz encampment. The white and light gray felt tents of the Kirghiz 
+looked very inviting and a large crowd of people awaited our arrival. 
+We camped outside the ail and wandered about the tents of the 
+nomads. They were extremely friendly and offered us juicy melons — 
+the first melons that we had seen for years. The women and children 
+were neatly dressed, and the interiors of the felt tents were artfully 
+decorated with carpets and embroidery. Some had large, profusely 
+decorated coffers brought from Andijan. The well-being of the local 
+nomads struck us at once. The Sanju Kirghiz seemed to be much supe- 
+rior to their brothers of the Mongolian Altai and the mountain regions 
+of Jungaria. 
+
+The mountain side was alive with cattle and horsemen who came 
+and went, carrying the news of the arrival of strangers. Kirghiz women 
+collected round Mrs. Roerich and wondered at her costume. It was a 
+kindly crowd and the high white headdresses shook in amazement at 
+the camping outfit of the expedition. The local Kirghiz breed mostly 
+yaks and sheep; horses are raised only in insignificant numbers, and 
+camels are only rarely met with. All the camels which we saw grazing 
+on the mountain slopes belonged to wealthy Yarkend or Khotan 
+traders. 
+
+October 8. The trail followed a stream, the Sanju-su according to 
+its local name. It crossed the river several times and was used only in 
+winter or late autumn. In summer, when the river is flooded and carries 
+a considerable volume of water, another route is used, which follows 
+the crest of the ridge west of the river valley, crossing a low pass and 
+necessitating much climbing. The route along the valley was easy and 
+led in a gradual descent to the Oasis of Sanju. 
+
+On our way we met several camel caravans slowly moving up the 
+trail on their hard and long journey into the heart of the mountains. 
+After six hours’ march along the dusty trail, we camped close to a 
+lonely tent of a Kirghiz family. The owner brought us some milk and 
+raisins and tried to do what he could to assist us. Willow bushes grew 
+along the banks and a large drove of horses wandered on the green 
+patches of grass at the foot of the hills. To the north a dusty haze hid 
+the plains of Turkestan, the country of the “six cities” or Altyn-shahr. 
+
+51 FROM LEH TO KHOTAN 
+
+The local Kirghiz population was under the jurisdiction of the dis- 
+trict officer of Guma. A customs official to supervise the trade along the 
+Sanju route was stationed at Sanju Bazaar, the most populated point of 
+the Sanju Oasis. These were the only Chinese officials in the district and 
+all important matters were usually referred to the district officer at 
+Gvima, who was subordinate to the Governor or Tao-yin of Khotan, a 
+post created only recently. 
+
+The two Kirghiz who accompanied us proved to be quite decent fel- 
+lows who tried their best to procure fuel and fodder for the caravan. 
+We questioned local inhabitants about possible old ruined sites or l{pne- 
+shahr in the vicinity of the mountains, caves or ancient tombs or 
+mazars. All of us had heard about the ruined cities of the Taklamakan 
+and the rich finds of Sir Aurel Stein around Khotan and east of this 
+oasis. Nothing was known to exist in the mountains north of the Sanju 
+Pass and the only antiquities were Chinese copper coins imported from 
+down country. 
+
+October 9. On the ninth of October we reached the first village of 
+the Sanju Oasis and with it the desert country of Turkestan. The river 
+gorge widened and the high rugged mountains on either side of it be- 
+came low undulating hills that stretched far to the north. The open 
+northern horizon was screened by the everlasting dust haze. We turned 
+southward toward the jagged peaks and bade a last farewell to the 
+kingdom of mountains. There they stood, sparkling snows and dark 
+rock masses enveloped by the same dusty veil. 
+
+With the approach to the oasis, it became decidedly hotter, and our 
+sturdy Ladakis threw off their heavy sheepskins to the waist. As if sens- 
+ing an oasis ahead, men and animals moved hurriedly along the dusty 
+loess-covered trail. Suddenly in the distance something dark showed — 
+hazy spots that appeared and disappeared in the trembling air of the 
+desert. Were they trees or bushes } Our Ladakis, who marched ahead of 
+us, shouted loudly “Ja-pa, ja-pa!" “Poplars, poplars!” They were indeed 
+poplars, a whole grove of them at the roadside. 
+
+Before reaching the grove, we passed a huge bowlder. Curious graffiti 
+on its surface attracted our attention. To our great surprise, we saw 
+represented on the stone, ibexes, bowmen, and circles of dancing men — 
+the same figures as appear on stones from Khalatse and other places of 
+western Tibet. Dr. A. H. Francke has demonstrated their ritual use 
+and connection with the ancient primitive nature worship of Tibet. It 
+is difficult to estimate the precise date of these graffiti, for they are made 
+
+52 TRAILS TO INMOST ASIA
+
+even nowadays. They seem to be fairly widely spread all over western 
+Tibet and the neighboring mountain regions — ^perhaps the work of 
+passing caravans or the ruins of a remote antiquity. The surface of the 
+stone was weathered and the drawings seemed to be old. The Ladakis 
+knew nothing of this particular stone; although many of them had 
+traveled by this route before, they had never noticed it previously. They 
+told us that similar stones with graffiti were fovind throughout Tibet. 
+It is interesting to note that the ibexes were venerated by the ancient 
+Mongols and played a prominent part in their fire cult.* These stones, 
+scattered throughout inner Asia, seem to be remnants of a remote an- 
+tiquity, dating back to a shamanistic form of worship which was uni- 
+versal in the higher regions of Asia. 
+
+We were about to halt, when we noticed several horsemen galloping 
+toward us. They proved to be Sanju headmen and a darogha or yoryeh, 
+a messenger sent by the magistrate of Guma. They all dismounted and, 
+striking their beards in the approved fashion of Turkestan, congratu- 
+lated us on our successful arrival. They begged us to ride up to the next 
+poplar grove, where they prepared a dastarXftan or feast for us. On 
+finely designed ntmdah or felts, quantities of fruit and other food were 
+spread — all that the country produced. From afar the fruits seemed like 
+a nature morte painted by some French Impressionist. Heaps of melons 
+and apricots, juicy pears, red and blue tinted eggs, roast chicken, and 
+mutton. Turkestan bread, and tea were also ready. We were obliged, 
+according to custom, to partake of the food, and the grave headmen, in 
+their dark blue and green chapans, formed a semicircle before us. The 
+darogha handed us the large red visiting card of the Guma amhan. 
+His master had ordered him to accompany the expedition to Khotan 
+and to see that We should be properly received by all local authorities 
+along the southern caravan route. This darogha was a soldier of the 
+local garrison, a Turki by nationality, with the old-fashioned uniform 
+of the Chinese imperial troops — a broad black blouse with huge red 
+characters: on his chest *'Hsin-chiang seng” or the “New Dominion,” 
+and on the back, “Guma.” 
+
+After an hour’s halt, we continued our march down the gradually 
+sloping valley. Poplar and apricot groves were ever5rwhere. Barley and 
+cornfields covered the open plains. Numerous irrigation ditches car- 
+ried the water to the fields, and the whole landscape presented a scene 
+of a thriving agricultural oasis. The first village was situated in a heavy 
+
+I. Poppe, Zum Fetter kjdtus bei den Mongolen, Asia Major, II, 135 ff. 
+
+53 FROM LEH TO KHOTAN
+
+grove of poplars, willows, and fruit trees. A neat and gaily dressed 
+crowd of women and men awaited our arrival. A large and shady bagh 
+or garden was reserved for our camp. We pitched our tents under the 
+shady trees, and for the first time in several weeks walked over soft, 
+grassy soil. An inquisitive crowd of villagers moved about the tents, but 
+with dignity, and no one ventured to look inside. We presented the 
+friendly headman with a wrist watch and the old man beamed with 
+satisfaction. He at once reciprocated by sending us huge watermelons, 
+peaches, and pears. 
+
+October io. Next morning we marched off, across a thickly popu- 
+lated country. The river flowed in several channels that had cut broad 
+and deep courses in the soft loess of the country. Along these water 
+channels was a dense population and cultivated Helds and orchards. 
+Above the river were low hilly spurs that stretched into the immensity 
+of the desert region, north of the oasis. 
+
+On the ride through the shady villages we were much impressed by 
+the relative well-being of the population. There were neither Chinese 
+officials nor tradesmen in the roadside hamlets. Outside the hospitable 
+village, another dastarJ{han awaited us. This time it was offered by the 
+former Andijan aqsaqd or elder, who had lost his post on account of 
+political changes in his native country. His peaches were luscious and 
+we thoroughly enjoyed the coolness of his garden house. The owner 
+himself was a tall man, cleanly dressed and of quiet, pleasing manner. 
+He told us that the Roosevelt Expedition had passed this way en route 
+for Yarkend and Kashgar. A cavalcade of begs and headmen accom- 
+panied us on our way for a considerable stretch. Our horses, after yes- 
+terday’s feast on fresh lucern and grain, had completely changed their 
+mood and pranced on the sandy road, raising clouds of suffocating 
+dust. A ride of several hours brought us to the large bazaar of Sanju. 
+This place is a large village with several Chinese shops, in which sit the 
+pale sons of the great Far Eastern country. The heat was very oppres- 
+sive and the bazaar streets were canopied with mats, that prevented the 
+sun rays from penetrating inside and darkened the streets. 
+
+A dastar\han was offered on a square level place in the very heart of 
+the settlement. We would have preferred a garden outside the village 
+but had to accept the offered accommodations. A loud jingling of bells 
+announced the arrival of the local Chinese custom official — ^a pale 
+yovmg man in a blue silken coat and black skullcap. He dismounted 
+from a prancing iron-gray steed, seated himself in front of our tents 
+
+54 TRAILS TO INMOST ASIA
+
+and chatted for a considerable time, while he continuously smoked 
+cigarettes. Our Chinese interpreter, true to the old traditions of im- 
+perial China, considering him ill-mannered, whispered to me “Look at 
+his manners!” The officer inquired about our journey and strongly ad- 
+vised us to go to Kashgar first. The Tao-^ai of Kashgar, he said, was a 
+pleasant man with wide experience in European matters; Khotan was 
+indeed a wonderful place, but the new Governor Ma was a troublesome 
+man whom it was better to avoid. 
+
+We fully appreciated the advice of this friendly young man only 
+after our conflict with the universally feared Ma Shao-wu of Khotan. 
+The official invited us for a dinner at his yamen and took his leave. 
+Professor Roerich and Mrs. Roerich preferred the quiet of our camp 
+and I had to go alone with our interpreter, Mr. Ts’ai. The distance was 
+a very short one but our interpreter insisted that we should ride. And 
+so we rode at good speed the five hundred yards that separated our 
+camp from the poor yamen. Such is etiquette! At the dinner I ques- 
+tioned the official about possible ruined cities in the vicinity of Sanju. 
+According to him, all relics had been taken by European explorers and 
+for several years nothing had appeared on the market. We might find 
+some clay images at Zanguya, our next stage, but nothing substantial. 
+The profession of Tal(lamanchis or treasure seekers in the sands of the 
+Taklamakan Desert was becoming rare and only few people continued 
+to occupy themselves with excavations in its sandy dunes. The official 
+related the story of Dr. Le Coq’s explorations at Kashgar, where his as- 
+sistant penetrated the cave temple of Utsh-Murghan on a rope. Stories 
+about European explorers are a common topic of conversation at dinner 
+parties. It was getting late and we hurried back to our camp to make 
+preparations for tomorrow’s journey. 
+
+October ii. Soon after leaving the Sanju Bazaar we ascended a vast 
+plateau and before us opened the wide gravel expanse of the southern 
+border of the Taklamakan — ^boundless and burning hot. A well-beaten 
+track, trodden by thousands of caravan animals, led northeast. The 
+plain seemed absolutely deserted except for a lonely horseman who 
+suddenly appeared in the distance. He dismounted, fettered his horse, 
+and spread on the burning sand of the desert a white felt and some 
+melons. He proved to be a poor traveler, who thought it to be his duty 
+to welcome travelers from foreign lands. We alighted from our horses 
+and partook of his melons — z pleasant refreshment in the burning heat 
+
+KIRGHIZ CIRAVE ON THE KARAKORUM ROUTE 
+
+THE TAKLAMAKAN DESERT NEAR KHOTAN 
+
+THE CHINESE CONVOY OF THE EXPEDH ION 
+
+TURKI HEADMEN AND CHINESE SOLDIERS 
+
+A VILLAGE CROWD IN CHINESE TURKESTAN 
+
+55 FROM LEH TO KHOTAN
+
+of midday. In return we presented our unknown host with a hunting 
+knife. 
+
+We rode for the whole afternoon across sandy and gravel plains. A 
+faint dusty outline of low barren hills to the south, indicated the great 
+mountain system of the K’un-lun. At sunset, we reached the dusty, 
+filthy village of Zanguya. The vicinity of the great caravan highway 
+was at once noticeable. Gone were the neat village hovels of upper 
+Sanju and the clean dresses of its inhabitants. Everything was dusty at 
+Zanguya and the population seemed to be poor and scornful. A dastar- 
+\han was offered to us and we pitched our camp in a dusty fruit gar- 
+den. Omar Khan’s horses were in such bad state, that their owner had 
+to hire camels to carry our baggage to Khotan. 
+
+October 12. The morning was a very hot one and the long and try- 
+ing march to Pialma was ahead of us. Former travelers have written 
+much about the fatigues of the desert journey to the ancient Kingdom 
+of Jade. On our way we were joined by a Chinese captain journeying 
+on leave to distant Lan-chou in Kansu. He was accompanied by only 
+one servant and his baggage was packed in huge saddlebags — ^always a 
+great nuisance in caravans, for they cause terrible sores on the horses 
+and yaks. The captain talked on different topics: of the walled-up li- 
+brary of Tun-huang, of fabulous palaces near Aksu, of General Anen- 
+kov and his Cossacks, and of Tibetan tribes near Sining-fu. Tired of 
+conversation we kept silent and our new acquaintance started to sing 
+some Chinese ballads. But what songs! Shrill, incongruous soiuids, wild 
+exclamations filled the air of the desert. Horses snorted, and my gray 
+tried persistently to get away from the howling rider. I have heard Chi- 
+nese songs and even learned to appreciate some of the religious tunes of 
+old China, but such a song was a merciless parody on the musical art of 
+the country. Even Ts’ai, the Chinese interpreter, shook his head and 
+seemed depressed. He afterward admitted that the singing captain dis- 
+gusted him. 
+
+We marched for ten hours and the burning sun shone pitilessly on 
+the desert road. Late in. the evening we entered the large oasis and vil- 
+lage of Pialma and camped in a garden reserved for our use. 
+
+Early in the morning of October 13 we left Pialma for Zawa Kur- 
+ghan. The road from Pialma to Zawa was a very heavy one and led 
+over belts of sand dimes. For the first two hours after leaving Pialma, 
+the road led over a vast gravel plain, and in the clear air of the early 
+dawn the snowy peaks of the K’un-lun were clearly visible. After this 
+
+56 TRAILS TO INMOST ASIA
+
+brief stretch of firm road, sand dunes appeared on either side of the 
+trail and the road became difficult and tiresome for both men and cara- 
+van animals. 
+
+We passed on the route several families of Chinese soldiers traveling 
+to Yarkend. The men were on foot with huge packs on their backs, the 
+women and children on small donkeys. 
+
+Before Zawa Kurghan we came upon patches of weathered grass and 
+traces of cultivation. While crossing the numerous dune belts, we sud- 
+denly noticed doves flying eastward. A two-mile march brought us to 
+a wonderful mazar or sanctuary on the Khotan road, known as Kaptar- 
+Mazar or the “Pigeon’s Sanctuary.” Thousands of pigeons live in 
+wooden hovels situated inside an inclosed courtyard. All of them are 
+said to be the offspring of a pair of doves which miraculously appeared 
+from the heart of Imam Shahid Padshah, who died here in a battle. 
+These pigeons are said to guide lost travelers in the desert to a consider- 
+able distance beyond the mazar. An old man served as attendant to the 
+pigeons and we bought from him several pounds of grain to give to 
+them — this is a pious act performed by all travelers along the Khotan 
+route.* 
+
+Zawa Kurghan is, strictly speaking, the westernmost village of the 
+Khotan Oasis. We camped in a small garden situated behind a serai for 
+travelers. At this stage, we had the great misfortune to lose our faithful 
+Kong-po dog, Amdong. He perished from the heat in the burning des- 
+ert and the Ladaki servant brought in only a lifeless body. 
+
+October 14. The road from Zawa to Khotan goes alongside arable 
+land. Everywhere are seen villages, farmsteads, and mazars. We passed 
+several bazaars with Chinese gates, surmounted by Chinese inscriptions 
+eulogizing the work of former city magistrates of Khotan. Dusty lanes 
+of poplars led to the town itself. We rode through the gate of the Chi- 
+nese city or Han-ch’eng, and at once our small party was surrounded by 
+a dense crowd of Chinese soldiers and traders, who ran after our horses 
+crying and shouting. Soldiers with red and yellow shoulder straps were 
+everywhere, and we were greatly surprised to find such a number of 
+them in the bazaars, but the Ma Ta-jen was said to be a great admirer 
+of the martial art. 
+
+A petty official from the yamen of the Governor met us on the way 
+and led into a dusty garden with Chinese pavilions, which once be- 
+longed to a former city magistrate who had collected a big fortune dur- 
+
+1. Stein, Sand'buried Ruins of Khotan, pp. 179 ff. 
+
+57 FROM LEH TO KHOTAN
+
+ing his tenure of office. The place was small and dusty, and was, more- 
+over, situated in the very center of the evil-smelling Chinese city. We 
+expressed our desire to camp in another place and were at once con- 
+ducted to the clean garden of Badruddin Khan, the Afghan aqsaqal of 
+the Indian traders and an old friend and helper of Sir Aurel Stein. The 
+old aqsaqal and his numerous family had chairs and tea arranged for 
+us, and we were glad to meet people who could tell us something about 
+the antiquities of Khotan and new sites discovered in its neighborhood. 
+Badruddin Khan had a small collection of antiquities at his home and 
+he promised to show it to us some day. 
+
+We camped in the garden, but a dense crowd of some three hundred 
+Chinese and Turkis hindered the pitching of the tents. Everyone came 
+to see our Tibetan mastiff, Tumbal. In order to bring the dog alive 
+across the burning desert, we had him chained in a dandy, and four of 
+our Ladakis carried the dog to the town. The entry of the black animal 
+into the Khotan bazaar, sitting erect in his dandy, created a tremendous 
+uproar among the bazaar population. Women screamed and shops 
+were closed. Everyone was certain that the foreigners had brought with 
+them a large black bear. The Governor even sent his private secretary 
+with his visiting card to inquire about the animal. A huge crowd 
+pressed from every side and neither our pack horses with baggage nor 
+our men could enter the compound. I accordingly sent our ya-yeh to the 
+officer conunanding the Khotan garrison to send two or three soldiers 
+to keep the crowd away from the garden. These duly appeared, armed 
+with old Mauser rifles, but their efforts proved vain. The crowd 
+doubled in number and new contingents of infantry soldiers were pour- 
+ing in through the narrow gate of the garden wall. Our young Ladaki 
+bashi suddenly got the brilliant idea of shouting loudly, “The dog has 
+broken its chain!” This had a magical effect. The crowd leftrthe com- 
+pound in a wild stampede. In an instant everyone was gone, even the 
+secretary of the Governor, although we wished him to stay. We tried to 
+get hold of the two soldiers who were sent by the officer commanding 
+the garrison Khotan but the men had fled with the crowd and had left 
+their rifles standing at the garden gate. 
+
+We had to post two of our Ladakis in order to prevent a further in- 
+trusion. Our first night in Khotan was by no means pleasant. The air 
+was sticky, and the smells that permeated the city added greatly to its 
+discomforts.
+
+### KHOTAN
+
+Ill
+
+KHOTAN
+
+IT was difficult to realize that we had reached Khotan, the ancient 
+Kingdom of Jade, and one of the most thriving oases of the Chinese 
+Province of Hsin-chiang. The modern city with its covered bazaars 
+and dusty lanes, hides the visage of ancient Khotan, once an impor- 
+tant seat of Buddhist learning and emporium of central Asian trade. 
+
+In the oldest Chinese Annals, the town is known by the name of Yu- 
+t’ien. The native name was Kustana, or Ch’iu-sa-tan-na in the Chinese 
+transcription (another transcription is Ch’iu-tan). 
+
+Sir Aurel Stein, during his several archaeological expeditions in Kho- 
+tan and its vicinity, has discovered a mass of tablets inscribed in Kha- 
+roshthi, an Indian alphabet current in the northwest of India about the 
+beginning of our era. These documents give us valuable insight into the 
+everyday life of the great trading oases along the southern caravan 
+route, connecting Khotan with distant Tun-huang and the interior of 
+China. 
+
+During the pre-Mohammedan period of central Asian history, Kho- 
+tan was inhabited by an Iranian population, which spoke an Iranian 
+dialect conditionally designated by the name of Oriental-Iranian. 
+
+The ancient city of Khotan and the other important oases along the 
+trade route, had large colonies of Indian merchants, carrying on a con- 
+siderable trade with northwestern India. It was probably these Indian 
+colonies that introduced the Kharoshthi alphabet. The population of 
+Khotan was Buddhist, professing the Mahayana form. Chinese pil- 
+grims, who braved the dangers of the central Asian deserts in quest of 
+knowledge from India, have left us detailed accounts of the thriving 
+state of Buddhism in the Kingdom of Khotan and the wonderful reli- 
+gious zeal of its monarchs. 
+
+There is little to glean from Mohammedan sources about the medie- 
+val history of Khotan. It seems to have remained Buddhist even after 
+the Mohammedan conquest of about looo a.d. The Mohammedan au- 
+thor, Gardizi, says that the people of Khotan were Buddhist but he also 
+mentions a Mohammedan cemetery, north of Khotan, and two Chris- 
+
+62 TRAILS TO INMOST ASIA
+
+tian churches in the town itself (neither Christian nor Manichean relics 
+have so far been discovered in Khotan). 
+
+Ibn-al Athir mentions Kadir Khan Yusuf, who died in 1032 a.d., as 
+the Mohammedan conqueror of Khotan. 
+
+During the period from the tenth century to the twelfth century a.d. 
+Khotan was conquered by the Ilek-khans and the Kara-Khitai. From 
+the thirteenth century the ancient kingdom owed allegiance to China 
+and continued a semi-independent existence, under the overlordship of 
+China, until the eighteenth century, when it formed part of the State 
+of the Khodjas (saints). The Khodjas were followed by the Jungar 
+Mongols, who held Khotan until 1758 a.d. when the Oi’rat power 
+crumbled under the decisive blows delivered by the Chinese imperial 
+troops. From that date, Khotan remained under Chinese control except 
+for a brief period beginning in 1863-64 when the oasis was invaded by 
+Yakub Beg. After his violent death in 1877 a.d. Khotan again accepted 
+Chinese sovereignty and has remained ever since under the overlord- 
+ship of China. Such are the outstanding historical facts in the life of the 
+famous oasis. 
+
+The ruins of the pre-Mohammedan town lie some five miles west of 
+the modern town. Sir Aurel Stein has gathered on its site important 
+collections of small antiquities and coins. The insurmountable obstacle 
+to systematic archaeological excavations lies in the fact that the ancient 
+city is partly re-covered by a modern settlement and some Mohamme- 
+dan cemeteries, which it is impossible to disturb. 
+
+From time to time landslides uncover terra cotta figurines and masses 
+of ancient coins, which usually fall into the hands of local treasure- 
+seekers. For the past few years the archaeological spoils have been very 
+insignificant. The local people had quickly learned to imitate terra 
+cotta figurines of stupas and even animals, and the Khotan market dis- 
+plays a good number of these spurious antiques. The profession of treas- 
+ure-seekers has almost disappeared and very few people care to visit the 
+desert tracts. 
+
+Some of the local notables, aware of the value of genuine antiques, 
+accumulate for themselves considerable collections of smaller objects 
+with an ultimate view of selling them to wealthy foreigners. In such 
+cases the prices are usually very high and the story is told that the col- 
+lection has been registered by the Indian Archaeological Department. 
+During our stay in Khotan, the veteran Indian aqsaqcd, Badruddin 
+Khan, once the local agent of Sir Aurel Stein, showed us a considerable 
+
+63 KHOTAN
+
+collection of antiquities, gathered by him and his agents at Yotkan, 
+Rawak, Niya, Mazar Imam Jafar Sadik, and distant Miran, all places 
+explored by Sir Aurel Stein. This collection comprised well-preserved 
+stucco heads of Buddhas, jars with handles adorned with human and 
+animal heads, fragments of frescoes, objects in clay, such as votive 
+stupas, offering lamps, animal figures, etc. The collection included sev- 
+eral wooden tablets inscribed in Kharoshthi, torn fragments of a text in 
+Oriental-Iranian, lists of Tibetan writings on paper from the Miran site, 
+containing mostly leave permits for soldiers of the Tibetan garrison in 
+the Miran Fort. (A curious detail is the constant use of the word dpa^ 
+for “soldier”; in the present-day language, the word has the restricted 
+sense of “hero.”) 
+
+Badruddin Khan had also a large manuscript with leaves bound to- 
+gether, written in the central Asian slanting script, which was said to 
+have come from some locality situated between Aksu and Kuchar. 
+
+The price he asked for the whole collection was exorbitant, and not- 
+withstanding protracted negotiations we were unable to lower it. Our 
+limited supply of silver and banknotes, the diflSculty of obtaining a new 
+supply from the outside, and the subsequent difficulties with local au- 
+thorities, forced us to drop the matter. I have heard since that the col- 
+lection has been acquired by some foreign travelers who visited Khotan 
+after our departure. 
+
+The modern oasis of Khotan has about 150,000 inhabitants, with a 
+considerable Chinese colony of officials, their families, traders, and sol- 
+diers. The city consists of two parts, the Kone-shahr or the Old City 
+occupied by the Mohammedan population, and the Yangi-shahr or 
+New City, also called Han-ch’eng, the Walled Chinese City, built in 
+1883. Throughout its history, Khotan was an important trading center ' 
+on the ancient silk route. The fame of Khotan artisans lives to the pres- 
+ent day. Khotan silks, carpets, felts, wool, furs, and jade are still in great 
+demand, and command good prices throughout central Asia, India, 
+and distant China. Before the Revolution of 1917 considerable trade 
+was conducted with Russia through Irkeshtam. 
+
+Khotan silk manufacture is the largest in the country, and Khotanese 
+silk fabrics are found in all the markets of Chinese Turkestan and a few 
+years ago were exported in considerable quantity to Russian Turkestan 
+through Kashgar and the frontier outpost of irkeshtam. Besides silk 
+fabrics, Khotan is noted for its cotton stuffs, which are exported in large 
+quantities. The Khotanese silk and cotton factories are largely worked 
+
+64 TRAILS TO INMOST ASIA
+
+by female and child labor. We knew of several big Khotan merchants 
+who owned some two hundred girls and obliged them to work in their 
+factories. A mild form of slavery is still a distinct feature of Khotanese 
+life. Parents usually have nothing against their daughters or sons being 
+sold to a family of good social standing, where they are well cared for. 
+Many have become slaves through being unable to pay their debts. The 
+usual price for a girl of fourteen is from fifteen to thirty Mexican dol- 
+lars. A child of four is often sold for a couple of dollars. Mohammedan 
+merchants pay regular visits to the Kansu Province, where they buy 
+children under the age of five and transport them to Turkestan to be 
+sold to families. During our crossing of the Kansu Province we once 
+came across a party of boys and girls, all under five, sold to a wealthy 
+Mohammedan merchant. They all were sitting in a courtyard, learning 
+to recite Mohammedan prayers. 
+
+Besides silk and cotton stuffs, Khotan produces a large quantity of 
+carpets. The old art of carpet weaving was lost long ago and the mod- 
+ern factories produce imitations of Chinese and old Persian carpets. 
+Khotan carpets are found throughout central Asia. The Kirghiz and 
+Torgut traders from Jungaria and Karashahr pay yearly visits to Kho- 
+tan, and carry away a considerable portion of the yearly produce in car- 
+pets, which are used in furnishing felt tents and monasteries. 
+
+In recent years, Khotan felts have been in great demand. These felts 
+are manufactured all along the southern trade route between Yarkend 
+and Khotan, but the center of manufacture is undoubtedly Khotan. 
+These felts are often vividly colored and have a striking design. Most of 
+the trade is done with India, where the felts are in growing demand, 
+not only for Indian markets, but also for foreign markets. Khotan 
+sheepskins are valued throughout Chinese Turkestan and are com- 
+monly used as winter lining for coats and winter caps. The skins are 
+well tanned and compare favorably with the other fur-producing cen- 
+ters of Turkestan, such as Kashgar, Aksu, and Kuchar. 
+
+The present jade manufacture is very insignificant. The trade re- 
+ceived a rude shock during the rule of Ma Fu-hsin, the Ti-t'ai of Kash- 
+gar, who ordered the exportation of a number of skilled artisans from 
+Khotan for his jade works in Kashgar. 
+
+As an agricultural center, Khotan occupies an important place. It is 
+well watered and the fertile beds of alluvial loess afford ample oppor- 
+tunity for agriculture.* 
+
+I. For a detailed account of the physical aspects of the Khotan Oasis, see Sir Aurel Stein's 
+Ancient Khotan, I, 124 ff. 
+
+65 KHOTAN 
+
+Wheat, corn, barley, and rice are cultivated on an extensive scale. The 
+oasis boasts of many fruit orchards, where apples, pears, apricots, 
+grapes, melons, etc., are grown. 
+
+The sight of modern Khotan is unattractive for one who is accus- 
+tomed to the rich coloring of the mountain tracts. For hours one rides 
+along dusty lanes, lined with poplars. On either side are half-ruined 
+clay structures — ^farm houses, mazars or tombs, roadside mosques, or 
+endless brick walls which fence off plots of waste land. The covered 
+bazaars are evil smelling and only the exceptional dryness of the cli- 
+mate prevents epidemics. The bazaar streets are narrow and are always 
+blocked by fruitstands and hawkers, who wander through the dense 
+crowd. Most of the shops are open, and the goods are displayed on the 
+stands. Many of the shops are run by women who trade in the name of 
+their husbands. 
+
+During the crowded bazaar hours, it is almost impossible to ride 
+through the crowds that swarm through the streets. Caravans on 
+horses, mules, donkeys, and camels may block the way for hours, and 
+unbelievable clamor and shouts rise when two caravans collide in the 
+narrow market place. The native manner of getting through a crowd 
+is to beat one’s way through, and this method is extensively used by the 
+Chinese soldiery. Sometimes one hears a loud outcry and sees the crowd 
+flee in all directions, overturning fruitstands. A moment later one sees 
+a carriage approaching, preceded by several mounted soldiers who lash 
+the throng with their long whips. It is surprising that no one takes ob- 
+jection to the treatment, accepting it as one of the prerogatives of offi- 
+cial power. 
+
+By night the bazaars are lit with oil lamps and Chinese paper lan- 
+terns, making a very colorful picture. 
+
+As to the social life of Khotan, suffice it to say that the town and its 
+populace has not changed since the time of Marco Polo. The account 
+left by the great Venetian is still a true reproduction of Khotanese man- 
+ners and customs. 
+
+Our sojourn in Khotan began with busy days. Visits had to be paid 
+to the Tao-fai or Governor, the amban or city magistrate, and the 
+tung-iing, officer commanding the Khotan garrison. We began our 
+visits early in the morning of our first day in Khotan. First we went to 
+the Tao-t’ai yamen. Professor Roerich and I rode on horseback, followed 
+by our Chinese interpreter and preceded by several begs or headmen 
+and Chinese soldiers, who cleared the way through the narrow streets 
+
+66 TRAILS TO INMOST ASIA
+
+of the Mohammedan $ection of the city. As soon as we appeared, a 
+crowd formed and followed us to the gates of the Governor’s residence. 
+A detachment of infantry was lined up on either side of the large .en- 
+trance gate. The men, in dark gray uniforms with red shoulder straps, 
+presented arms. Then they rushed past us to the next gate, again lined 
+up and again presented arms. This ceremony was performed three 
+times at each of the three gates of the yamen. The Tao^fatmtt us in the 
+inner courtyard of his residence. 
+
+Ma Shao-wu, the conqueror of Kashgar and the slayer of the 
+was a diminutive man with aquiline features and polite, quiet manners. 
+After the usual ceremonial inquiries about health, the road, etc., he 
+begged us to enter a large room reserved for the occasion. Here tea was 
+served on a small table, around which we took our seats, the subordi- 
+nate officials remaining standing all the time. 
+
+The room was furnished in a strange and incongruous combination 
+of Chinese and European style. In the corner stood the usual large Chi- 
+nese bed, and small Chinese black tables were placed along the wall. 
+The room was full of arms, the presence of which evinced the warlike 
+habits of the Governor. On the walls hung German Mauser pistols in 
+wooden holsters, and Russian Cossack swords. One of the corners of 
+the room was occupied by innumerable wrist watches, a imique collec- 
+tion gathered by the Governor from Russian refugees, when he was the 
+officer commanding the garrison at Uch-Turfan, a city on the Russian 
+Turkestan border. 
+
+Behind each of us stood an armed guardsman of the Governor’s 
+bodyguard; each man was armed with a sword, a pair of Mauser pis- 
+tols, and heavy cartridge belts. An inquisitive crowd of Turki head- 
+men and sectetaries pressed in the doorway. The Governor delivered a 
+brief speech of welcome, telling us how glad he was to honor such dis- 
+tinguished foreigners. He hoped that we would make a prolonged stay 
+in Khotan and rest after all the hardships of the snowy route over the 
+Karakorum. He was ready to grant us every assistance and was himself 
+deeply interested in the past of Khotan. He had heard about the splen- 
+did work achieved by Sir Aurel Stein in this very region and it was his 
+wish to assist scholars from foreign lands in their explorations. During 
+this brief address, couched in such friendly and enlightened terms, I 
+had time to examine the person of the Governor and recall to my mind 
+the recent events of his troubled life. 
+
+Ma Shao-wu belonged to a great and distinguished family of Chinese 
+
+TUMBAL, THE TIBETAN MASTIFF MA SHAO-WU, GOVERNOR OF KHOTAN 
+
+OF THE EXPEDITION 
+
+MILITARY GOVERNOR OF KASHGAR 
+
+KHOTAN 
+
+Mohammedans. His father was once the Viceroy of the Yunnan Prov- 
+ince and lost his life in a rebellion against the imperial throne of China. 
+The present Governor of Khotan spent his younger days in distant 
+Yunnan, then was exiled to the torrid desert tracts of western Kansu 
+and Hsin-chiang. This family had produced several outstanding per- 
+sonalities, all of them occupying important posts in Chinese Provincial 
+administration. 
+
+Ma Fu-hsin, the murdered Ti-^ai of Kashgar, was one of them and 
+the strong man of Sining, General Ma, belongs to the same line. For 
+many years the present Governor of Khotan was the officer command- 
+ing the garrison of Kashgar and Uch-Turfan. It is during this period 
+that a deep-rooted animosity was shown between him and his elder 
+relative, the Ti-fai of Kashgar. 
+
+Ma Ti-t’ai was a characteristic figure in the Chinese administration 
+of the New Dominion. He was a ruthless despot, who knew no mercy 
+for either Chinese or native Turki. He built himself a huge palace in 
+the Chinese town or Han-ch’eng of Kashgar, and had several summer 
+houses in its vicinity. He constructed bridges and roads and planted 
+trees along them. A native daring to hit a tree with his carriage would 
+have the fingers of both hands cut off. The Tt-fai owned large enter- 
+prises outside the city, was interested in oil, and maintained a large 
+jade factory for which he requisitioned the best artisans from Khotan. 
+He had a pitiless way of removing his competitors in commercial enter- 
+prises. The unfortunate men were summoned to the Governor’s palace, 
+and there were put to death or had their hands cut off. Now many of 
+these unfortunate wretches are dead, but some are still begging in the 
+bazaars of Kashgar, evidence of a cruel despot. 
+
+The Ti-t’cd was famous for his harem of some fifty wives. Any pretty 
+peasant girl was in constant danger of being snatched away from her 
+family and taken to the palace of the Governor. When tired of his 
+wives, he iised to present them to his friends and officers who had dis- 
+tinguished themselves in service. He was known for his lavish enter- 
+tainments and for a special brand of strong Chinese brandy, which he 
+served at his dinner parties. 
+
+For several years before his fall in 1924, he cherished hopes of becom- 
+ing the independent ruler of Kashgaria and his relations with Yang 
+Tseng-hsin, ^vernor-General of the Hsin-chiang Province, were very 
+strained. 
+
+In 1924 the war clouds began to gather. It was rumored that the 
+
+68 TRAILS TO INMOST ASIA
+
+Ti-t’ai was planning a rebellion against the Governor-General of the 
+Province and the Provincial Government realized the necessity of put- 
+ting a stop to the dangerous activities of the Kashgar war lord. A large 
+force of some 18,000 cavalry and infantry was mustered in Urumchi 
+and the command was intrusted to Erh Tao-yin of Aksu, one of the 
+ablest regional governors of Hsin-chiang. The force started on its 
+march to Kashgar in February, 1924. One should not, however, think 
+that all the 18,000 men were actually in the field. This large number 
+of troops no doubt existed only on paper and the force that arrived 
+in Kashgar amounted to only about five hundred men. In Hsin-chiang 
+the authorities have a curious way of counting their troops. They are 
+not counted by sabers or bayonets, but by their caps — not so many 
+sabers or bayonets, but so many caps. Many of the regiment com- 
+manders have their soldiers only on paper. They have no soldiers, but 
+keep caps for them and the caps are counted in official reports. 
+
+Ma Shao-wu, who was the officer commanding the garrison in Uch- 
+Turfan, petitioned the Governor-General to be permitted to participate 
+in the war expedition. In a spectacular dash, he covered the long stretch 
+from Uch-Turfan to Urumchi, the capital of the Province, in seven 
+days. His request was granted and he hurried back to take command 
+of the vanguard of the expeditionary forces. By detour routes in the 
+hills, the vanguard under Ma Shao-wu approached the Chinese city of 
+Kashgar on June i, 1924, and swept through it. The soldiers of the 
+Ti-t’ai were unprepared for an attack and offered but little resistance. 
+The Han-ch’eng was soon occupied by the invaders, who stormed the 
+palace of the Governor. The Ti-t’ai*s son, who occupied the post of 
+Hsieh-fai, fought valiantly and fell dead in the courtyard of his citadel. 
+
+His father, the aged Ti-t’ai, is said to have offered firm resistance but 
+was eventually overpowered and arrested in one of his private rooms. 
+During the fighting his right arm was shot through by a bullet. The 
+prisoner was led outside the main gate of the citadel, and there cruci- 
+fied on a wooden cross. 
+
+Ma Shao-wu personally commanded the firing squad. Eyewitnesses 
+tell that before the execution the victorious Ma Shao-wu approached 
+the crucified Ti-t’ai and shouted to him: “Do you recognize me, Ma 
+Fu-hsin?” “Ma Shao-wu,” groaned the wounded Ti-t’ai. After this very 
+brief dialogue, Ma Shao-wu fired his pistol at the Ti-t’ai, and the blood 
+from the wound is said to have spurted on his coat — a bad sign, accord- 
+ing to the Chinese. In the excitement the soldiers of the firing squad 
+
+69 KHOTAN
 
 
+69 
 
-KASHMIR-LADAK 
+shot at the Tufai without previous orders and almost killed Ma 
+Shao-wu, who stood between them and the wounded man. He had a 
+narrow escape. 
 
+For several days the corpse was exposed to the angry populace who 
+came in thousands to avenge themselves. They spat in the face of the 
+dead man, tore his beard, and threw refuse and stones. After this the 
+body disappeared and its fate is unknown. 
 
-27 
+Ma Shao-wu remained master of the city, and foreign residents say 
+that he acquitted himself well of the task and by a scries of stern meas- 
+ures restored order and prevented looting. It was apparently a coveted 
+desire of Ma Shao-wu to remain in Kashgar in place of the slain Ti-t* at, 
+but the Governor-General of the Province was well aware of the danger 
+presented by the successful officer and resolved to appoint him to a 
+more remote section. A separate governorship was accordingly created 
+in Khotan, and Ma Shao-wu was appointed Tao-yin of the new district, 
+which stretched from Karghalik to distant Tun-huang on the Kansu 
+border. 
 
-blon). Old clay images and manuscript books are still to be found in 
-the ruins. 
+Erh Tao-yin and his corps of 18,000 men never reached Kashgar and 
+great hostility is said to exist between him and Ma Shao-wu. 
 
-North of Leh is situated the small monastery of Zangskar, a branch 
-of the Spi-thug Monastery. It is of comparatively recent date but con- 
-tains some well-executed images and frescoes. A square courtyard 
-paved with large slabs of stone leads to the chief temple, standing in 
-front of the entrance gate. The first room of the temple contains a clay 
-image of Avalokitesvara, the Merciful Lord. The walls of the temple 
-are covered with modern frescoes of fine execution, painted by a well- 
-known Ladak artist, now an old man residing at the Trikshe Monas- 
-tery. Behind the first hall is situated a small chapel consecrated to the 
-worship of Dug-kar. Besides the goddess’ image we found a large im- 
-age of Manjushri or Jam-pe yang, the Prince of Knowledge. The rest of 
-the monastery buildings in the courtyard are occupied by cells and 
-storerooms. 
+During our stay in Khotan, it was commonly said that Ma Shao-wu 
+had received orders from the Governor-General to send back his troops 
+to Urumchi, but that the newly appointed Governor of Khotan disre- 
+garded the Governor-General’s orders and kept the troops in Khotan. 
+This explained the presence of the great number of troops there. 
 
-A place well-worth visiting is the town residence of the Hemis sl{u- 
-sho\ or abbot of the well-known Hemis Monastery. It is in charge of a 
-nyer-wa or housekeeper. The s\u-sho\ only seldom resides in it and 
-most of the year the house stands empty. It is a typical Tibetan man- 
-sion, and the upper rooms command a fine view of the Indus Valley 
-and the snowy mountains beyond it. As usual the ground floor is re- 
-served for stables, servants’ quarters, and storerooms. On the second 
-floor is situated the kitchen, a cleanly kept place with huge shining 
-brass cauldrons and other kitchen utensils. The living quarters are on 
-the upper floor. These are airy rooms with large square windows. Only 
-one room had glass in the windows, the other had beautifully carved 
-window frames but neither glass nor paper. 
+Such was the great deed of Ma Shao-wu, for which he became fa- 
+mous throughout the vast Province. It was a family feud of long stand- 
+ing and the last act of the drama is still to be enacted. All during our 
+stay in Khotan, the Tao-t’ at was apprehensive of an advance by General 
+Ma of Sining to avenge the death of his cousin. Troops were said to 
+have been concentrated at Tun-huang and rumors were whispered that 
+General Ma was negotiating with the Provincial Government at Lan- 
+chou for a general advance on Hsin-chiang. 
 
-Some of the private houses of Leh contain interesting frescoes in the 
-living rooms. In one such house I remember having seen frescoes illus- 
-trating the life of Je-tsun Milarepa, his encounter with the Bon magi- 
-cian Naropa on the holy Kailasa Mountain, and other equally famous 
-episodes of the Saint’s life. The same room had another very curious 
-fresco representing the Emperor of China and the arrival of a Ladaki 
-embassy to the Imperial Court of China. Unfortunately there was no 
-inscription to explain or date the painting. The owner of the house 
-called the fresco rGyn-nag-gi kpng-ma chen-po, i.e., “The Emperor of 
-China.” It is the second historical fresco which I found in Ladak. No 
-doubt there exist others. The art of fresco painting is still cultivated in 
-ISadak and the Ladaki artists produce sometimes works -of art which 
+Such was the background of Ma Shao-wu when we first met him in 
+Khotan. A man of considerable ability and personal courage, but an 
+intriguer and revengeful, he found himself relegated to a distant prov- 
+ince separated from the other inhabited places of Hsin<hiang by vast 
+tracts of desert. 
 
+Our first meeting with the man was very friendly and we had all the 
+prospects of a successful stay in Khotan. We took leave of the Governor 
 
-
-28 
 
 
 TRAILS TO INMOST ASIA 
 
 
-compare favorably to those of the central Tibetan school, with its ri' 
-gidity of composition and design. 
+70 
 
-In the village of Changspa, situated in the vicinity of Leh, Dr. 
-Francke has discovered interesting frescoes illustrating one of the impor- 
-tant episodes of the Kesar Saga. The wall paintings are found in the 
-summer residence of a family of bKa-blon or ministers. They represent 
-the war of Jang or IJang-dmag, a country in the east of Tibet against 
-which King Kesar waged war. Kesar frescoes are extremely rare 
-throughout Tibet, and it is gratifying to know that Dr. Francke had 
-those of Changspa copied. 
+and proceeded to the city magistrate — a typical Chinese official of the 
+interior of China. A faithful instrument of the Governor, he echoed the 
+same readiness to assist us. The tung-ling or officer commanding the 
+garrison at Khotan, whom we visited next, was a young man of pleas- 
+ant manners and during our subsequent troubles occupied a neutral 
+position. Everywhere we were met with the same ceremonies and 
+guards of honor. 
 
-The capital of Ladak abounds in stupas, mani-y/dXXs or men-dongs, 
-and stone-cut images. On the large plain outside Leh stands the longest 
-wfl«/-wall of the country, with large stupas on its extremities. It was 
-built by King Del-dan rnam-rgyal (1620-40 a.d.). The Ladak stupas 
-are characterized by painted stucco figures on their foundations. Some- 
-times these represent winged horses, lions, peacocks, or swans. Rock- 
-cut images abound in Leh and along the trails that lead to the town. At 
-the village of Changspa are found two important stone images, one 
-representing the Buddha Sakyamuni and the other the Future Buddha. 
-Sakyamuni is depicted standing with both hands making the sign of 
-instruction {dharmaca\ra~mudrd). The Buddha is assisted by Mai- 
-treya and Padmapani, represented on either side of the chief figure. 
-The second figure represents Maitreya holding the rosary and the vase 
-or bum-pa. It is interesting to note that the Ladak images of Maitreya 
-all hold the rosary in the right hand, instead of the stalk of the lotus 
-flower, as is the case on central Tibetan bronzes. The rosary seems to 
-belong to an older tradition. On the route to Khardong Pass stands a 
-stone image of Maitreya holding the rosary in his right hand and the 
-vase in his left. 
+After a strenuous morning we returned to our camp. In the after- 
+noon we received the visit of Ma Tao-t’ai, who was followed by the 
+chih-shih or magistrate and the tung-ling. The Governor arrived in a 
+covered carriage painted green on the outside and lined with violet 
+velvet, drawn by three horses. The cortege was followed by forty cav- 
+alrymen of the Governor’s bodyguard on raven black horses. The body- 
+guard of forty men is said to be maintained by the Tao-t’ai at his own 
+expense. All of the men were heavily armed and presented the pick of 
+Chinese troops in Hsin-chiang. The Governor once more assured us of 
+his good will and urged us to make ourselves comfortable in Khotan. 
 
-A separate and curious group of monuments is formed by the Mal- 
-tese crosses with inscriptions found in the vicinity of Drang-tse, a vil- 
-lage on the Pangkong Lake. The inscriptions accompanying the cross 
-figures were recognized to be Soghdian. It remains to be determined 
-during what period these crosses were erected and the reason that they 
-are found in such a remote place as Drang-tse on the Pangkong-tsho. It 
-seems very probable that there existed a floating Nestorian Christian 
-population in Ladak during the eighth to tenth centuries a.d. when 
-Nestorian colonies were numerous along the trade routes of Turkestan, 
-and other regions of central Asia. Whether the Nestorian visitors \o 
+It was impossible to stay in the small garden of Badruddin Khan 
+with our big caravan, and we therefore decided to find a suitable house 
+with plenty of ground in which to establish our headquarters. In our 
+search we encountered the first obstacle to be set in our way by the local 
+authorities. We were fortunate in finding a beautifully situated summer 
+house belonging to the late Afghan aqsaqal of Khotan, an ideal place 
+for our headquarters, with extensive grounds, situated three miles from 
+the city itself. We at once decided to rent the house and there establish 
+the expedition headquarters. It was Persian in style and had stood 
+empty since the death of its owner, as his widow lived in her town 
+house. We made known our decision to a native interpreter, Kerim 
+Beg, who was attached to our camp by the local authorities. He seemed 
+very displeased at our choice, and hinted that the Governor would pre- 
+fer to see us living closer to his residence. We thought it very strange 
+and sent our Chinese secretary, Ts’ai, to the Governor’s yamen to in- 
+quire. He soon came back and reported that the Governor had assured 
+him that he had nothing against our living in the summer house of the 
+former Afghan aqsaqal and that the beg had misconstrued his orders. 
+We accordingly instructed Kerim Beg to call on the aqsaqal family to 
+discuss terms. He refused to do so, saying that the family was a very 
+difficult one to deal with. 
 
-
-
-KASHMIR-LADAK 
-
-
-29 
-
-Ladak were merchants or pilgrims, it is impossible to determine at 
-present. In the country round Ladak and Kashmir are found curious 
-legends of a Christian character, which are at present current among 
-the Mohammedan population of the two provinces. They may be rem- 
-nants of a Nestorian past. The Nestorian Christians were known all 
-over central Asia under the name of drkagun-arghun, and it is interest- 
-ing to note that the half-caste population of Ladak, born of a Turki 
-father and a Ladaki mother, is designated by the same word pro- 
-nounced arghunJ9 The Nestorians were known in the Mongol Empire 
-under the name of Tarsa and Arkagun. The origin of drkflgiin is diffi- 
-cult to establish. 
-
-Islam is served in Leh by the large mosque at the upper end of the 
-bazaar. It was probably erected after Nawab Fatehkhan’s march to 
-Ladak. 
-
-Several of the so-called ancient Dard graves at Teu-gser-po, a place 
-about two miles above the British Joint-Commissioner’s bungalow, 
-have been excavated by the missionaries, and were found to contain low 
-masonry walls of unhewn stones, somewhat like a subterranean cham- 
-ber, handmade pottery with linear ornaments, and small bronze ob- 
-jects, beads, etc. Some of the pots were filled with human bones. This 
-fact seems to indicate that the people who built these graves were in the 
-habit of cutting up the body and depositing the bones and flesh in jars. 
-
-It is as yet impossible to determine what people constructed the Leh 
-graves. Dr. Francke believes them to have been Dards.*° All the skulls 
-so far discovered were distinctly dolichocephalic, whereas modern Ti- 
-betans of Ladak are brachycephalic. The Tibetans are a composite race, 
-and I have collected during my stay among the nomads of Tibet a 
-number of facts which show that there once existed an ancient stratum 
-of dolichocephalic population in Tibet. The nomad tribes of the Ti- 
-betan border country still show dolichocephalic and brachycephalic in- 
-dexes. The results of my investigations can be summarized thus: the 
-Hor-pas of the Thang La region — mostly dolichocephalic; the Panags, 
-Goloks, and Nya-rong-was — numerous dolichocephalic skulls, the same 
-being true of the Northern Kham Province; the Chang-pas of the lake 
-region — ^mostly brachycephalic indexes, some showing a transitional 
-type; the agricultural population of the Brahmaputra Valley and south- 
-eastern Tibet — ^mostly brachycephalic indexes. It is clear from the above 
-
-1.  Pelliot: Chritiens d'Asie Centrale et d'Extreme Orient. T'oung Pao., XV, 636. 
-
-2.  Ibid., I, 68 II. 
+After this conversation, several days elapsed without our being able 
 
 
 
-TRAILS TO INMOST ASIA 
+KHOTAN 
 
 
-30 
+71 
 
-that the dolichocephalic population had been preserved along the Ti- 
-betan border, whereas the center of the country had been conquered 
-at some early date by a brachycephalic race. I am inclined to think that 
-the graves at Teu-gscr-po were left by the ancient stratum of dolichoce- 
-phalic tribes of Tibet. It is interesting to note that the Leh graves are 
-popularly called “nomad graves,” and it is precisely among the nomad 
-population that we find the dolichocephalic type with fine features and 
-straight hair. Unfortunately the missionaries were obliged to stop their 
-excavations and a great many of these graves are still unexplored. It 
-will be very instructive to compare the Ladak graves to the analogous 
-graves foimd in the lake region north of the Trans-Himalayas. 
+to settle the matter. It was during this period that we made the ac- 
+quaintance of a local trader, KJiudai Berdi Bai, who became a trusted 
+friend all through the period of our difficulties with local authorities. 
+The matter of renting the house seemed to take a hopeless turn and we 
+decided to negotiate directly with the Afghan aqsaqal’s family. To our 
+great surprise, we found them very eager to rent the house. Someone 
+was trying to prevent us from establishing our headquarters there. Who 
+this dark shadow was, whose hand we found in all our difficulties in 
+Khotan, we were xmable to ascertain. We signed an agreement, paid a 
+month’s rent, and took possession of the house and compound, to the 
+great consternation of Kerim Beg. 
 
-The famous Hemis Monastery has often been described in books 
-about the country, and the religious dances that take place at the mon- 
-astery about the end of June have been attended by many Europeans. 
-Although of comparatively recent date, the monastery contains some 
-old bronzes. The frescoes in the temples are modern, and as such have 
-only an iconographical value. 
+Having established our headquarters, we began to plan our scientific 
+and artistic activities in Khotan and its vicinity. The ancient site of 
+Khotan — ^Yotkan, where from time to time landslides revealed miscel- 
+laneous objects and remains of old structures — ^had to be explored. We 
+also planned for a brief expedition to Mazar Imam Jafar Sadik and to 
+the site of the Rawak stupa where shifting sands had uncovered inter- 
+esting new remains. 
 
-The road along the Indus Valley is extremely picturesque. The vivid 
-green of its fields appears in sharp contrast to the ruggedness of its 
-mountains. The village of Shel on the right bank of the river was once 
-the capital of the Ladak Kingdom and is notable for ancient rock in- 
-scriptions and stone-cut images. The Yellow Hat Monastery of Tik-tse 
-(Khrig-rtse), situated on a steep crag, is interesting for its romantic 
-situation, but it looks forlorn. It is populated by a crowd of dirty and 
-insolent monks, who impudently clamor for bahjhish and lack' the dis- 
-cipline and monastic dignity found in their colleagues of Spi-thug and 
-Ri-dzong. The Incarnate Lama was obliged to quit the monastery some 
-years ago, for monastic life possessed no attractions for him. A new in- 
-carnation did not appear, and the whole establishment was left to itself. 
-We succeeded in finding some old bronzes and several old painted ban- 
-ners. Some of the temple doors had interesting wood carvings. The 
-colossal figure of the Future Buddha, lit by numerous offering lamps, 
-made a powerful impression; but the heaps of rubbish in the corners of 
-the edifice and the thick layer of dust on objects of worship only en- 
-hanced the first sense of the forlorn state of the monastery. No doubt 
-many interesting objects could be found, but the state of utter disor- 
-ganization prevents the student from making a careful inspection of 
-the monastery buildings. 
+Our Ladakis, these wonderful hillmen, found it difficult to become 
+accustomed to new surroundings and we decided to let them return to 
+their native Ladak. They departed, well recompensed for their splendid 
+services. We heard later on that all of them safely reached Leh, but en- 
+countered great snowdrifts on the Sanju Pass. 
 
-The autumn was rapidly setting in. Yellow leaves in the gardens ana 
+Besides his archaeological work. Professor Roerich intended to ex- 
+tend his artistic work, possibly toward the Karanghu Tagh Mountains 
+and round Khotan. We also were planning our future route to inner 
+China, and had to muster a new caravan of men and animals. Amid 
+this organizing work, clouds gathered for a storm. Our friends, of 
+whom we had many, both among the Chinese and native Chang-t’ou, 
+began to warn us that the Tao-t’ai had been troubled by some of his 
+counselors, who seemed to be conspiring against our expedition. 
+Strange rumors filled the air and no one knew whence they came or 
+who was spreading them. 
 
-
-
-
-PROFESSOR NICHOLAS ROERICH 
-
-AT WORK IN THE UAJA’s PALACE IN LEH, LADAK 
-
-
-
-THE TIK-TSE MONASTERY, LADAK 
-
-
-
-
-
-
-
-
-THE MONASTERY OF SHEH, LADAK 
-
-PAINTING BY NICHOLAS ROERICH 
-
-
-KASHMIR-LADAK 
-
-
-31 
-
-the frequent breaths of cold wind from the mountain summits made us 
-realize that it was advisable to hurry our departure. For several days the 
-town had been filled with reports that snowstorms were beginning on 
-the high passes and our caravan'^<;r^/r pressed us to start before the early 
-snow would block the passes. Professor Roerich had completed his se- 
-ries of paintings on Ladak and its sanctuaries, and we could begin our 
-final preparations for the difficult journey ahead of us. We were short 
-of men, and it seemed very difficult to engage suitable ones for the long 
-journey to Khotan. We sent a notice to the bazaars that men were 
-needed, and daily crowds of them came to the dak bungalow. Out of 
-this motley collection of Baltis, Ladakis, Kashmiris, Arghuns, and 
-Turkis, Mrs. Roerich chose several promising men, who proved very 
-helpful on our track to Chinese Turkestan. Two of them had the dis- 
-tinction of serving under Dr. Sven Hedin during his expedition of ' 
-1907-8, and several others had been previously employed as caravan 
-men on the Karakorum route. They all knew the way well and were 
-fully prepared to face the difficulties and dangers of the mountain jour- 
-ney. Most of them had been several times in Yarkend or Khotan and 
-spoke fluently the eastern Turki. We engaged them as far as Khotan 
-and promised to pay their journey home. Besides his pay each of the 
-men received a warm fur coat, a winter fur cap, and a pair of soft 
-charuq boots with felt socks. Two tents were provided to shelter the 
-personnel of the expedition during the night, but for the whole of the 
-journey many of the men preferred to sleep in the open or under the 
-flies of our own tents. 
-
-The son of a local Ladak headman was accompanying us as head 
-servant and proved a devoted and efficient man. Ladakis are wonderful 
-in caravans, always cheerful amid hardships and storms, contented 
-with little, and always ready to perform their work. They march on 
-foot long distances over hard, stony ground that renders animals lame, 
-and yet never complain of fatigue. In our subsequent wanderings, we 
-often remembered our Ladaki caravan men and their devoted service. 
-
-
-
-
-FROM LEH TO KHOTAN 
-THE GREAT KARAKORUM ROUTE 
-
-
-
-
-II 
-
-
-FROM LEH TO KHOTAN 
-THE GREAT KARAKORUM ROUTE 
-
-S EPTEMBER 19, 1925 — a memorable day in the annals of the 
-expedition! A fine autumn morning with a light breeze from 
-I the mountains, wonderfully cool and refreshing. A large crowd 
-' of local inhabitants gathered to see us start. The crossing of the 
-Khardong Pass, the first mountain pass on the Turkestan route, is usu- 
-ally effected on yaks, which have to be hired from local peasants. The 
-summit of the pass is covered by a glacier and the pack horses have usu- 
-ally a bad time on it. When pack yaks are employed, the pack horses 
-and mules of the caravans are driven empty across the pass. This is the 
-usual custom of the country, no doubt prompted by many years of ex- 
-perience. We decided to follow it and had ordered yaks several days in 
-advance. For some reason or other, only half of the required forty yaks 
-appeared in the early morning at the dak bungalow. We were obliged 
-to wait the whole of the morning and a considerable portion of the 
-afternoon, before all the woolly beasts reached the bungalow’s com- 
-pound. As is customary, there was much hustle and shouting, the local 
-Ladak headman using his cane rather freely. 
-
-At last, about fovir o’clock in the afternoon, the long caravan column 
-left the dak bungalow and filled the narrow road, which passes at the 
-foot of the Leh Palace and leads to the small village of dGon-pa, and 
-farther into the mountains. A large crowd followed us on foot, wishing 
-us a successful journey. We rode past the barley fields and the Zangskar 
-Convent, whose white walls are an outstanding feature on the plain 
-north of Leh. 
-
-After we had passed the last Ladaki village and barley fields, a group 
-of Ladaki women and girls approached our column. They held in their 
-hands brimming cups of yak milk. We all had to bow low in our 
-saddles, and our foreheads and those of our animals were sprinkled 
-with milk. In doing so they wished us godspeed and a safe journey 
-amid the dangers of the forbidding Karakorum. 
-
-’ For three hours we climbed the mountain. With each step, the coun- 
+For a time, everything was quiet. The Tao-t’ai arranged a dinner of 
+some fifty courses in honor of Professor Roerich, at which all the local 
+officials were present, and also Mr. K. Moldavak, an Armenian gentle- 
+man, who had long been living in Khotan and was one of the closest 
+friends of the local Governor. Mrs. Roerich could not attend the func- 
+tion and the whole dinner of fifty courses was sent to her by an aide to 
 
 
 
 TRAILS TO INMOST ASIA 
 
 
-36 
+72 
 
-try became more and more barren. The verdant gardens and fields of 
-Ladak lay behind; and ahead of us towered the rugged mountains, 
-their crests covered with glaciers and snow. Large bowlders hung over 
-the mountain slopes, and we crossed vast masses of debris carried down 
-the towering heights. Our caravan of pack horses under Nazar Bai and 
-Omar Khan went ahead, with orders to wait for us at the northern side 
-of the Khardong La in the small hamlet of Khalsar. 
+the Governor. It was a long affair, which started about three o’clock in 
+the afternoon and continued late into the evening. The Chinese played 
+their usual table games, in which the loser had to drink a glass of 
+strong Chinese brandy after each defeat. The Tao-fai entertained his 
+guests with stories of his former exploits and showed photos of his tame 
+leopards, of which he was very proud. 
 
-We camped for the night on a stonypromontory, close to a ruined stone 
-hut. A piercing northwest wind started soon after we had dismounted 
-and we were obliged to seek shelter among the neighboring cliffs. Our 
-men, perched under the rocks in their gray sheepskins, looked like 
-gigantic vultures, gazing over the upland for some prey. The yak cara- 
-van reached the spot only about ten o’clock at night. Its approach was 
-heralded by the loud shouting and whistling of the drivers. Soon there 
-appeared a dark moving mass, that slowly filled the open space on the 
-small plateau of our camp. In complete darkness we began imloading 
-and our inexperienced camp men had some difficulties in putting up 
-the tents. The night was bitterly cold and the wind blew continuously, 
-abating only toward dawn. 
+After dinner, some of the officials present sang Chinese ballads. Un- 
+fortunately none of the singers were experts, and we failed to appreci- 
+ate their singing. The dinner ended late at night and we were led to the 
+courtyard, the Governor heading the procession which was preceded by 
+soldiers carrying Chinese paper lanterns. Our horses stood waiting for 
+us at the inner gate of the yamen. Twenty horsemen of the Governor’s 
+bodyguard escorted us home. Each rider carried a lantern. We rode at 
+quick pace through the streets of Khotan which were crowded, not- 
+withstanding the late hour. The raven black horses of the escoit shied 
+and overthrew several fruitstands. It was a beautiful, cool evening and 
+the usually hazy atmosphere of the desert gave way to a clear transpar- 
+ent sky, against the background of which we could see the sharp snowy 
+outline of the Karanghu Tagh Mountains south of Khotan. 
 
-The fine morning of September 20 was a distinct contrast to the 
-previous dismal evening. The caravan was soon on the march, and the 
-long black file of animals climbed the mountain path. We all rode yaks 
-and our cavalry saddles looked strange on the shaggy black animals. 
-The yaks arc wonderful climbers, and many travelers have spoken 
-highly of these beasts of the mountains. The ascent of the Khardong 
-La is comparatively easy, but a little too steep for horses. It took us fully 
-three hours to reach the snow-capped summit of the pass. On many a 
-turn we noticed frozen drops of blood — signs of passing caravans. Men 
-and animals often bleed heavily at these altitudes. From the summit of 
-the pass, the mountains seemed like a great sea, crowned with spar- 
-kling white foam. 
+For several days more our relations with the authorities continued to 
+be outwardly friendly, although there were signs of a growing uneasi- 
+ness in the Governor and his subordinates. 
 
-The descent was steep and slippery. A glacier lay along the northern 
-slope. We all had to dismount and walk down the pass. One of our 
-pack yaks preferred to glide down the glacier and with amazing agility 
-dashed down its steep slope. We all were sure that it would crash with 
-its load against the huge bowlders that filled the narrow ravine below. 
-But the animal suddenly turned at the critical point and sclf-con- 
-tentedly joined its comrades on the trail. We had to walk a considerable 
-distance down the pass. Far in the distance, a tiny green strip of vegeta- * 
+A few days after the dinner party, the young son of the Governor be- 
+came ill, and Mrs. Roerich had to go to help them. The boy recovered 
+and the Governor afterward mentioned that this aid saved us from 
+further difficulties in Khotan and on the way. 
 
+Khotan, a city of several scores of thousands, has not even a single 
+doctor. The nearest European doctor lives in Yarkend. The usual prac- 
+tice was to send an urgent message inviting Dr. Nystrdm, of the Swed- 
+ish Mission in Yarkend. It took the doctor about five days to reach Kho- 
+tan, traveling day and night on a Chinese cart. 
 
+We applied to the magistrate of the city for permission to sketch and 
+take photos in the city itself and its environs. Permission was refused in 
+both cases, and we were told that they had written for instructions to 
+the Governor-General of the Province. We decided to protest to the 
+Tao-t’ai and remind him of his promise to assist the expedition in its 
+work. 
 
-FROM LEH TO KHOTAN 
-
-
-37 
-
-tion indicated the Shayok Valley, where lay the village of Khalsar, the 
-meeting place of our caravan. We did not mount our horses, but con- 
-tinued our journey on yaks. After two hours’ ride, we entered the 
-Shayok Valley with its verdant bottom and sharply outlined rocks. For 
-the last five miles, the road was flat and easy. About five o’clock in the 
-afternoon, we were within view of the village of Khalsar, and soon no- 
-ticed our czrzvaxi-bashis, Nazar Bai and Omar Khan, waiting for us 
-outside the village. Two hours later we were encamped in the small but 
-shady garden of the serai and were checking up our loads, as they ar- 
-rived on yaks. From then on, for twenty-two days, the horses had to 
-carry the loads and climb the forbidding heights of the mountain 
-passes. 
-
-Next day, September 21, we continued our march along the Shayok 
-Valley. The country was gorgeous in its coloring — flaming yellow and 
-red sandstone rocks and granites rose above the bright green spots of 
-the valley bottom. 
-
-Three miles above Khalsar, we crossed a suspension bridge, and rode 
-as far as the picturesque village of Tirit. Here our headman L 6 n-po 
-possessed an estate and a large arid comfortable country house. He was 
-very anxious to accord us hospitality and made us stay for the night. 
-The upper rooms of the house were clean and bright. The walls were 
-gaily decorated with paintings, representing the eight happy signs of 
-Tibetan religious ornamentation. The view from the roof of the house 
-was superb and late into the night we enjoyed the magnificent moon- 
-light which illumined the whole of the surrounding mountain country 
-and the peaceful valley of the Shayok. The caravan men, unmindful of 
-the hardships and privations ahead, sang around their camp fires, and 
-the evening psalms of our Buddhist followers intermingled with the 
-drawling melancholy songs of Turkestan. 
-
-We were anxious to reach Panamik, the last settlement on the Kara- 
-korum route, and rose early on September 22, before dawn had aroused 
-the mountains, still hidden by a night-veil. 
-
-Soon after Tirit the road turned into the valley of Nubra and led past 
-numerous farmsteads, hamlets, and monasteries. It was lively with the 
-sound of caravan bells; strings of horses and donkeys wearily moved 
-toward Ladak. They were accompanied by dusty drivers, with their 
-faces blackened by the winds and gales of the uplands. Days of hard 
-traveling were behind them and they were hurrying to Leh to enjoy a 
-"Inuch-needed rest. 
+Meanwhile a new magistrate had arrived from Urumchi and Kash- 
+gar. Disquieting rumors were whispered about. The new magistrate 
 
 
 
-38 TRAILS TO INMOST ASIA 
-
-On our way we visited the interesting monastery of Sandoling, which 
-is only seldom mentioned in books on Ladak. The trail crossed the dry 
-bed of a torrent, strewn with bowlders that once were swept from the 
-mountain side. The assembly hall of the monastery contained a large 
-image of Maitreya and fine large painted banners representing the 
-same bodhisattva. The convent possesses the finest collection of reli- 
-gious banners which we had seen in Ladak. The head lama of the 
-monastery was absent and the young novices were slow and lazy in the 
-discharge of their religious duties. 
-
-We reached Panamik in the evening and pitched our camp in a 
-grove of trees on the banks of a small brook, which suddenly rose and 
-flooded the banks, endangering our camp. 
-
-In Panamik we learned that two sahibs were stopping in the village. 
-Shortly after, they came to see us, and proved to be two missionaries 
-from the Swedish Mission in Kashgar. One of them. Rev. Mr. German- 
-son, told us of the difficulties on the road. The conditions in Kashgar 
-were not altogether peaceful and the city was still agitated after the 
-coup d’Hat of Captain Ma and the assassination of the all-powerful 
-G.O.C. of Kashgar, the dreaded Ma Fu-hsin. 
-
-In the neighborhood of Panamik there were several chapels and a 
-small Red sect monastery. Rock-cut images were said to exist higher 
-up the valley, but we lacked the time to make a side excursion. 
-
-The next stage, on September 23, brought us to the foot of the 
-Karaul-davan, a small pass with avalanche-swept stone slopes. The 
-day’s route followed along the left bank of the Nubra River and we 
-could see distant villages on the right bank of the stream. An interest- 
-ing corner of Ladak is this Nubra Valley. 
-
-We camped on the edge of a plateau strewn with bowlders and much 
-detritus. A Ladak caravan with yaks, bound for Kokyar and Yarkend, 
-was camping beside us. Yak caravans are well suited for the mountain 
-route of Karakorum, and their only drawback is the shortness of their 
-daily stages. 
-
-Long before dawn we heard the loud cries of ‘"Long, long, longl ” — 
-“Arise, arise, arise!” — in the Ladaki camp, and camp fires soon flashed 
-in the dark, showing shaggy figures drinking their morning tea and 
-tsam-pa (parched barley flour). In the twilight, the dark mass of the 
-yak caravan left the camp site and started for the pass. We followed it 
-on our horses. The trail up the pass presented no difficulties, but the 
-precipitous stone slopes and the numerous skeletons of men who had 
+KHOTAN 
 
 
+73 
 
-FROM LEH TO KHOTAN 
+was violently opposed to foreigners, although he boasted of his modern- 
+ism. 
+
+A few days after his arrival, the Governor with all the Chinese offi- 
+cials came to thank Mrs. Roerich for her help during the illness of 
+the Governor’s son. They came accompanied by an armed escort. From 
+the very beginning of the conversation we felt that the Tao-t’ai and the 
+new magistrate had something on their minds. We invited them to tea 
+in my room and closed the doors so as to prevent the noisy soldiers from 
+entering. Ma Tao-t’ai and the magistrate seemed very uneasy and surly. 
+They examined the room attentively and exchanged brief remarks 
+about our pack cases that were piled along the walls. Suddenly the 
+Tao-t'ai coughed three times, the door swung open and the room was 
+filled with soldiers, who lined up along the walls. The room assumed 
+the appearance of a tribunal. We were much surprised and expressed 
+our astonishment at the conduct of the Governor. The Tao-t’ai smiled 
+and begged us not to pay any attention. I feel sure that the Governor 
+was afraid to remain alone in the room. 
+
+The conversation continued on general topics, when suddenly the 
+new magistrate began to question us about our passports. We once 
+more produced our Peking passports sent us to India from the Chinese 
+Wai-chiao-pu, through Mr. Cheng Lo, the Chinese Ambassador in 
+Peking. The attitude of the Chinese was inexplainable. They scoffingly 
+remarked that our passports were not valid in this Province, that the 
+Peking Government had nothing to say in Hsin-chiang and that Mr. 
+Cheng Lo had no authority to issue letters of introduction. The Chinese 
+assumed a threatening attitude, began to gesticulate, spit on the floor, 
+and scoff. It was quite an unexpected change, but we decided to stand 
+firm and pointed out to them that they had no right to threaten the 
+expedition and disregard our passports. We warned them that we 
+should at once communicate with the British Consul in Kashgar and 
+ask him to request the Governor-General of Hsin-chiang for permis- 
+sion to continue our work unimpeded. After a very heated discussion, 
+the Tao-t’ai and his companions rose and departed for Khotan. 
+
+Mr. Chang, the new magistrate, came the next day and said that a 
+wire had been received from the Governor-General ordering our ex- 
+pedition to return to India via the Sanju Pass. This was an impossi- 
+bility, for the pass was long since closed by the snow, and we at once 
+understood that the telegram was a fraud which originated in the 
+yamen of the Governor. 
 
 
-39 
 
-fallen on the sharp rocks below spoke of the dangers of the pass. Our 
-caravan had also to pay its toll. The line Badakhshani stallion belong- 
-ing to Omar Khan, frightened by something, jumped suddenly and in- 
-stantly crashed down the stone slope. It landed on the rocks beneath, 
-still alive. A bullet from one of our rifles put an end to its agony. 
+TRAILS TO INMOST ASIA 
 
-The descent from the pass is short and gradual, but the further route 
-along the valley of a small rivulet is a dreadful accumulation of bowl- 
-ders and detritus. It is almost incomprehensible how caravans can cross 
-this stretch of the road! Bowlders, sharp stones, and treacherous holes, 
-without foothold — such is the road after the Karaul-davan. For three 
-hours we struggled through this stony mass, dismounting to help our 
-horses over the dangerous places. The swift cold rivulet had to be 
-crossed several times. It was hard to induce horses to enter the icy 
-water. One of our sheep, driven along with the caravan, was carried 
-away by the current, and could not be rescued. Utterly exhausted, we 
-camped on a level patch of land. It was our intention to reach the foot 
-of the Sasser Pass the same day, but Omar Khan reported that his pack 
-horses were at the end of their strength and could hardly move farther. 
 
-The camp was a very dismal one. In addition to the wind, wet snow 
-drifted in the air; and the dark slopes of the mountains, rising on all 
-sides of the small valley where we camped, made a dreary impression 
-on us all. Our Chinese interpreter smoked his pipe, repeating wistfully: 
-“Aya, Aya, such a road, such a road! Nowhere in Tibet did I see such 
-roads.” In the evening two of our pack horses ate some poisonous grass 
-and succumbed during the night. Their loads had to be distributed on 
-the remaining animals. We warned the caravan men to be more careful 
-and to tie the animals up wherever there was danger of poisonous grass. 
+74 
 
-September 25, 1925. We made a short march up the valley at the foot 
-of the Sasser Pass (17,500 feet) whose snowy mass towered northwest 
-of our camp. Soon after our arrival, it began to snow and a sharp pierc- 
-ing wind roared on the heights of the mountains, rapidly sweeping 
-down the narrow valley. After a few seconds the entire landscape was 
-enveloped in a whirl of snow and we all were sitting buried in it, our 
-backs turned to the raging wind. The snow had to be shoveled away 
-and the tents pitched in all haste, a task by no means easy at an altitude 
-of some 15400 feet. 
+The visit of the magistrate was enlivened by an episode which caused 
+considerable merriment among our servants. The magistrate had ar- 
+rived in state with a considerable escort of policemen who waited out- 
+side the house. Our Tibetan mastiff, Tumbal, as a precaution was taken 
+away and tied to a tree in the garden. In the midst of our conversation, 
+we suddenly heard a loud outcry followed by a wild trampling of feet. 
+The dog had broken his chain and was slowly and menacingly advanc- 
+ing toward the house door. The policemen, unable to stand the sight, 
+fled, many barricading themselves in our bathroom. The door to the 
+room where we were sitting was open, and we could see the dog com- 
+ing up the steps of the terrace. The magistrate, pale and confused, 
+quickly got on the chair on which he had been sitting and prepared to 
+get on the table where tea was served. It took us some time to explain 
+to the frightened man that the dog was harmless in our presence. 
 
-The night was without wind and exceptionally quiet. Our horses 
-roamed about the camp seeking some signs of weathered grass that 
-iJhowed here and there from beneath the snow. In the morning we 
+After this visit of the magistrate, we sent a letter to Major Gillan, the 
+British Consul in Kashgar, asking him to assist the expedition. The 
+letter was sent to the Khotan post office but was returned with a note 
+that the Tao-t^ai had given orders to seize all our correspondence with 
+the British Consul in Kashgar. Our letters, containing telegrams for 
+New York, Paris, and Peking, were similarly returned. The situation 
+was a very grave one, and we were fully aware that it was the begin- 
+ning of a long period of persecution, endless negotiations, and insult. 
+We were cut off from the outside world, and had to find means to send 
+out messages with information of our position. 
+
+Several traders volunteered to carry our letters to the consulate at 
+Kashgar. Besides this, two friendly Kalmucks offered their services. 
+They devised a very ingenious plan, based on their thorough acquaint- 
+ance with local official carelessness. Their plan consisted in waiting pa- 
+tiently with the letter in the street outside the post office. At the very 
+last moment, when the postal messenger would be leading out his horse 
+and fixing the saddlebags, one of the Kalmucks would step out and 
+hand our letter addressed in Turki and Chinese to the British Consul. 
+The Chinese postal official dispatching the mail, would angrily ejacu- 
+late, “Why are you always late?” and without looking at the address 
+would throw the letter into one of the saddlebags. This stratagem in- 
+variably worked and our letters reached their destination. Evidently at 
+Kashgar our letters were promptly delivered. It took us sixteen days to 
+get an answer, which usually came through a private channel. 
+
+On December 29, 1925, the new magistrate and several minor mili- 
+
+
+
+KHOTAN 
+
+
+75 
+
+tary officers, representing the Tao-^ai, came to search our baggage and 
+house. We were said to possess a huge amount of ammunition and 
+some kind of a “shooting wheel” with which we were able to annihilate 
+the whole of the Khotan garrison and the population in less than ten 
+minutes! Our square wooden boxes of preserves from the Cockburn 
+Agency in Kashmir gave rise to the suspicion that we carried large sup- 
+plies of ammunition with us. Our firearms, consisting of two rifles, one 
+double-barreled gun and three revolvers, and one case of ammunition, 
+were sealed and taken away. Professor Roerich, in his book, Altai-Hi- 
+mdaya, has given a detailed description of the ridiculous and fruitless 
+search. 
+
+We decided to leave Khotan at once and go to Kashgar in order to 
+negotiate by wire with the Governor-General for permission to proceed 
+with our work. We also desired the return of our firearms, without 
+which we could not attempt to cross the brigand-infested regions of the 
+interior of China. The authorities gave their silent assent and we hired 
+a camel caravan to carry our baggage to Kashgar. Once more the court- 
+yard of the house and garden were filled with men and kneeling 
+camels — ^a welcome sight to every explorer. 
+
+On January i everything was ready for the start, when suddenly an 
+official from the Tao-t’ai arrived and coolly informed us, “The Tao-t’ai 
+orders you to go to Tun-huang in Kansu and not through Kashgar.” 
+We tried to argue, pointing out the fact that our only firearms had been 
+seized, that money orders were waiting for us at the Chinese post office 
+in Kashgar, that we were expecting answers to our cables. All our 
+words were of no avail, the man only repeated one and the same sen- 
+tence, “Ma Ta-jen changed his mind, and orders your expedition to 
+proceed through the desert to Tun-huang.” He added, however, that 
+we should go and speak to the Tao-t’ai personally. And so we went. A 
+long and tedious conference followed, during which we persistently 
+tried to obtain a written statement explaining the Tao-t’ai's actions. We 
+sat at a small table facing the Tao-t’ai and could see his soldiers behind 
+him making grimaces and pointing their fingers at the Tao-t’ai’s head. 
+
+The Tao-t’ai was adamant in his decision to keep us in Khotan. It is 
+difficult to say what had influenced his change of attitude. Some said 
+that he was possessed by the spirit of the murdered Ti-t’ai of Kashgar 
+and no longer could control himself. Others repeated the story that 
+someone had sowed mistrust in the Tao-t’ai’s mind. Whatever it might 
+
+
+
+76 TRAILS TO INMOST ASIA 
+
+be, it was clear that the situation was a very serious one and that we had 
+to find a solution. 
+
+We returned to our headquarters and drafted a letter to the Consul in 
+Kashgar, informing him of the situation and requesting him to com- 
+municate with the Governor-General in Urumchi. From now on, we 
+received frequent visits from Mr. Chang, magistrate of Khotan. Each 
+day he had another astounding telegram to produce, ordering our im- 
+mediate arrest and deportation. It so happened that every time he came 
+we were able to confront him with a letter from Major Gillan or a tele- 
+gram from America. Friends were acting to help us leave Khotan. 
+
+Our days were spent either working at the headquarters or negotiat- 
+ing with local authorities. These negotiations occupied most of the 
+time, for each visit of the Governor or the magistrate meant five or six 
+hours of continuous conversation. 
+
+On January 20 we received a welcome letter from Major Gillan, 
+notifying us that following his efforts the Governor-General had sent 
+immediate orders for our release from Khotan. This was a piece of wel- 
+come news and all in the expedition headquarters rejoiced at the pros- 
+pect of a march to Kashgar. 
+
+On the evening of the same day, we received the visit of our friend 
+Khudai Berdi Bai, who brought the news that a letter had been received 
+from Urumchi with permission to travel to Kashgar. This was an un- 
+precedented case — that an order from the Governor-General should be 
+announced through a private person. The Governor “lost face” and 
+could not deliver the order personally or through the magistrate. The 
+authorities kept silent. Only the commander of the garrison and the old 
+amban sent us their visiting cards with good wishes for our trip to 
+Kashgar. A military officer with the rank of shao-wei or lieutenant 
+came and inquired about the day of our departure. He was ordered to 
+furnish a guard of mounted soldiers to accompany us to Yarkend. The 
+Chinese seemed uneasy, and somehow conscious of the wrong com- 
+mitted toward the expedition. The actions of the local Khotan authori- 
+ties had almost completely prevented us from carrying out our plans. 
+
+We hurried with our preparations. Most of the baggage had been 
+packed long ago. We now only needed to engage a trustworthy cara- 
+vzn-bashi. Khudai Berdi Bai recommended us to Temur Bai, a wealthy 
+caravaneer owning many horse caravans transporting goods between 
+Khotan and Leh. Temur Bai undertook to furnish us with seventy-four 
+pack horses for six Chinese dollars each, with the understanding that 
+
+
+
+KHOTAN 
+
+
+77 
+
+we should reach Kashgar on the fourteenth day. Besides pack anima ls 
+we were obliged to hire two Chinese carriages or ma-fa at twenty-five 
+dollars for the journey. In one of the carriages our Chinese interpreter 
+Ts’ai had to travef, together with a case of firearms, which were re- 
+turned to us sealed on the eve of our departure. Poor Ts’ai had taken to 
+opium smoking, no doubt depressed by the insulting attitude of the 
+local officials. The aged man was full of his old-time dignity and com- 
+plained bitterly against the revolting methods of the local administra- 
+tion. As a result of the opium, he was so weak that he could not keep 
+himself in the saddle and had to travel in the carriage. He was careful 
+to conceal his habit and smoked only in the dark of the night. 
+
+In the second carriage our Tibetan mastiff, Tumbal, traveled in 
+charge of a servant. 
+
+The three months of detention came to an end and we were looking 
+forward to new regions. Our courtyard was filled with friendly Chang- 
+t’ou who came to say goodbye to the expedition. During our three 
+months’ detention we had made many trusted friends; it is a pleasure 
+to express here our gratitude to all who assisted the expedition during 
+the difficult winter days in Khotan. 
+
+
+
+
+KHOTAN-KASHGAR 
+
+
+
+
+IV 
+
+
+KHOTAN-KASHGAR 
+
+I N the early morning of January 28, 1926, our courtyard and garden 
+were crowded with pack horses and caravan men in heavy sheep- 
+skins and dark red charuqs — ^a scene familiar to anyone who has 
+traveled in the caravan region of Asia. The bustle was great and it 
+took us five hours to start the baggage caravan marching. The tents and 
+the rest of the camp equipment had to go in advance, and for this pur- 
+pose the best horses were given to the camp detachment. This detach- 
+ment had to leave camp last, and arrive at the new camp first. The cara- 
+van men, mostly Turki from Khotan, were sadly lacking in initiative 
+and performed their tasks with surprising carelessness. 
+
+Most of the pack horses were big animals from Yarkend, capable of 
+carrying about two hundred pound loads. Their general condition was 
+good and we could hope to arrive in Kashgar on time. The Turkestan 
+pack saddle is much superior to the wooden pack saddles of Ladak and 
+Tibet. It consists of two thick saddle cloths, on which is fixed the saddle 
+cushion — U-shaped and made of sheepskin or cloth well stuffed with 
+straw. The load is fixed to the saddle by ropes, made of camel’s or 
+sheep’s wool. Travelers are warned not to use hemp ropes of Chinese or 
+European make, for they are apt to cause sores. Ropes made of camel’s 
+wool are very good; those made out of sheep’s wool are much inferior. 
+
+Several mounted soldiers in charge of an aged shao-wei or lieutenant 
+were ordered to escort us as far as Yarkend, the next garrisoned oasis 
+along the southern trade route. They all came and lined up in front of 
+the house, the lieutenant holding the red visiting card of his superior 
+officer in his raised hand. All the men were over fifty, and were dressed 
+in voluminous gray coats and fur caps with large earflaps which, if 
+necessary, could be buttoned in front of the face. Their arms consisted of 
+old Mausers, and the officer had an old Chinese sword. We were much 
+surprised at the age of these warriors, and inquired whether they in- 
+tended to retire from service. The reply was that they had recently been 
+promoted to the cavalry for gallant service! In Hsin-chiang a young 
+soldier has to serve in infantry units, and only after he has passed an age 
+
+
+
+82 
+
+
+TRAILS TO INMOST ASIA 
+
+
+limit or distinguished himself in service is he promoted to the grade of 
+a mounted soldier or ma-p’ing. In Hsin-chiang, as in many other parts 
+of China, a horse is only a means of transportation; a Chinese trooper 
+is taught to sit on a horse, but never to ride it. A beg from Karakash 
+and two daroghas were also delegated to attend to our needs on the 
+journey. They were directed to accompany us to Guma Bazaar, the 
+nearest administrative center on the Khotan-Yarkend route. 
+
+We started only about noon, and rapidly rode through the Moham- 
+medan and Chinese sections of Khotan. It was a bazaar day and the 
+streets were thronged with a multicolored crowd of villagers. Our first 
+stage was Zawa. The baggage caravan arrived late at night and we were 
+obliged to spend several hours waiting for it in the garden of the official 
+resthouse. The night was cool and we warmed ourselves at a huge 
+camp fire made by the local villagers. 
+
+Before starting from Khotan, our Chinese interpreter, Ts’ai ssu-yeh, 
+had made a yellow flag marked with our name abbreviated to “Lo,” 
+stating the official designation of the expedition. This flag was intrusted 
+to a darogha, who galloped ahead of us and planted the flag on the spot 
+selected for our camp. 
+
+In Zawa we found the flag planted on the roof of the resthouse. Ts’ai 
+ssu-yeh was very wise to prepare this flag, for it saved us from many 
+troubles with petty officials, who were always found to respect it even 
+more than our Peking passports. 
+
+In the evening we discovered that our soldiers and some of our Chi- 
+nese servants were confirmed opium smokers. In the morning they 
+were late getting up and considerably handicapped the work about the 
+camp. An opium smoker is a great calamity in an expedition camp and 
+we decided to avail ourselves of the next opportunity to get rid of them. 
+
+The route from Zawa to Pialma has already been described in this 
+volume. A brief halt was made at the Shrine Kum-rabat Padshahim. 
+The modern Mohammedan shrine is situated on the spot of an ancient 
+temple dedicated to sacred rats, built by a king of Khotan to com- 
+memorate his victory over the Hiung-nu, in which he was miraculously 
+assisted by rats which destroyed the ammunition of the enemies.* 
+
+After the Pigeon Shrine, the trail left the sand dune belt and fol- 
+lowed a broad gravel plain. A brief halt was made again to water the 
+
+I. C£. Stein, Ruins of Desert Cathay, I, i66; Beal, Buddhist Records of the Western World, 
+pp. 3*5 ff- 
+
+
+
+
+
+— . i'' 
+
+
+’/ . 
+
+
+v*ij' 
+
+
+THE EXPEDITION HEADQUARTERS IN KHOTAN 
+
+
+
+SUMMER HOUSE IN KARGHALIK 
+
+
+
+
+CHINESE CAVALRY ENTERING KASHCiAR 
+
+
+
+
+
+
+
+
+KHOTAN-KASHGAR 83 
+
+animals at Ak-langar — a desert resthouse built in the days of Yakub 
+Beg. The resthouse has a well of brackish water. 
+
+Pialma, the terminal oasis on the Duwa River, was reached late at 
+night. The stars shone brilliantly when we entered the village. The 
+camp was pitched in a garden belonging to the house of a wealthy land- 
+owner. There was a scarcity of drinking water, as all the water supply 
+had dried up, and we were obliged to thaw the snow. The horses had 
+to be watered at a place four miles distant. 
+
+Late in the evening we had a visit from Dr. Nystrom, of the Swedish 
+Mission in Yarkend. He was hurrying to Khotan where two officers of 
+the Governor’s bodyguard had recently wounded each other. One of 
+the men died shortly after the shooting, but the other recovered and 
+was subsequently executed by order of the Governor. Dr. Nystrom was 
+traveling day and night in a Chinese cart, halting once in twenty-four 
+horns to feed the horses. 
+
+The march from Pialma to Zanguya led over a gravel desert. We in- 
+structed the darogha, who daily galloped ahead of us with a notice of 
+our arrival, to prepare quarters for us in houses of well-to-do villagers 
+and to avoid Chinese official resthouses with their noise and squalor. 
+
+Shortly after our arrival in Zanguya, the lieutenant in charge of our 
+guard arrived and requested me to look at their horses which had be- 
+come unexpectedly ill. We found the animals lying in the stable, unable 
+to stand on their feet. The fat animals, which were always kept in the 
+stable and never given exercise, had succumbed to the fatigues of three 
+days’ marching. It was evident that they could go no farther and had to 
+be left in Zanguya. I therefore advised the distressed lieutenant to hire 
+horses from local peasants and to leave his own horses in charge of a 
+soldier. He followed my advice and on the next morning he and his 
+men were mounted on shaggy creatures with tremendous manes and 
+tails. The local bronchos probably had seldom been ridden before and 
+the escort had an exciting ride to Guma Bazaar. This is an important 
+center with some seven hundred houses and the seat of a magistrate, 
+who controls the vast mountain tracts around Sanju Oasis. It is re- 
+nowned for its numerous orchards and mulberry groves. Its chief local 
+industry is the manufacture of coarse paper. A spacious garden with a 
+summer house was reserved for our camp. The gates of the garden 
+were gaily decorated with red and yellow cloth and a group of local 
+notables was waiting inside the garden. 
+
+Soon after our arrival, we received the visit of the local magistrate. 
+
+
+
+TRAILS TO INMOST ASIA 
+
+
+84 
+
+He was accompanied by his young son and a troop of armed policemen 
+in strange uniforms and old muzzle-loading rifles. The magistrate was 
+greatly concerned over our difBculties in Khotan and hinted that Ma 
+Tao-yin was a man of dangerous habits. An authentic source had told 
+him the story that the Governor of Khotan had stormed our headquar- 
+ters and that he was repelled with heavy losses. How this story origi- 
+nated, it was impossible to learn. Rumors take strange shapes in Chi- 
+nese Turkestan. 
+
+Our servant T’ang, who had fallen ill a few days before, had to be left 
+in care of the local magistrate, who promised to send him back to Kho- 
+tan, as soon as he should feel better. T’ang was a confirmed opium 
+smoker and the last four days of marching through the desert had 
+completely broken down his reserve strength. 
+
+In the evening we were visited by a traveling troop of actors. The 
+tamasha or theatrical entertainment was illumined with torchlights 
+and Chinese paper lanterns. Most of the actors were local Turki, but 
+the subjects of the scenes and the songs were Chinese. These tamasha 
+are a feature of Turkestan life. 
+
+At Guma, we were given another beg and darogha to accompany us 
+to Karghalik. Our original plan was to camp at Cholak-langar, some 
+eighteen miles from Guma, but fresh arrivals at Guma brought the 
+news that the water supply at Cholak had completely dried up. We had 
+to camp at Siligh-langar, some ten miles west of Guma. Siligh-langar 
+consisted of several miserable mud hovels with a small inclosed court- 
+yard filled with piles of firewood and bundles of hay. At night a large 
+camel caravan bound for Tun-huang passed our camp and almost over- 
+turned some. of our tents. The night was pitch dark and the camel 
+drivers were sound asleep in their saddles. The droning sound of bells 
+heralded the approach of the caravan column, marching at good pace. 
+Before we were able to realize what was happening the dark silhouette 
+of the huge caravan had entered our camp and the camels’ feet were 
+tearing our tent ropes. The energetic action of some of our men alone 
+prevented further damage and a stampede of frightened animals. 
+
+Our next stop was Akin-langar, another relay station on the long 
+thirty-four mile stage between Guma and Karghalik. So far we had en- 
+joyed perfect weather, with warm days and cool nights. At Akin-langar 
+the weather suddenly changed. A cold wind started up toward sunset 
+and the temperature dropped below zero. Snow fell during the night 
+and in the morning we found the desert covered by a thin layer of 
