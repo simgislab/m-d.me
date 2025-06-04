@@ -697,731 +697,219 @@ Close to the village there is a cave monastery of considerable interest.
 
 According to a local tradition, the monastery was built by two local diiefs, Thog-lde-jo and Yang-lde-jo. (8)
 
-The last three miles of the road from Shar-go-lha to Mulbe passed 
-through a country of unusual grandeur. In sharp, bold outlines lie the 
-rugged and rocky mountain ridges. The small village of Mulbe clusters 
-at the foot of a crag on which stands the small lamasery of Mulbe. We 
-spent the night at the resthouse, situated at some distance from the vil- 
-lage. . 
-
-Mulbe and its antiquities have been already thoroughly studied and 
-investigated by Dr. Francke, an admirable student of west Tibetan an- 
-tiquities. His researches are embodied in a learned article, ‘"The Rock 
-Inscriptions at Mulbe.”^ 
-
-Mulbe boasts of an old Dard castle, two monasteries, and several im- 
-portant inscriptions found on the rock on which one of the monasteries 
-is situated. The chief interest of Mulbe consists, however, in a colossal 
-stone figure of Maitreya. The image was first noticed and described by 
-Moorcroft in i820.^<* It represents the Bodhisattva standing, and is some 
-twenty feet in height. The Bodhisattva is attired in the costume of an 
-Indian ascetic, with the sacred brahmanical string which serves to dis- 
-tinguish bodhisattva images from feminine deities wearing a costume 
-similar to that of a Bodhisattva. It is difficult to say anything definite 
-about the date of the image. Its purely Indian character is evident, and 
-as a work of art it occupies an outstanding place among the stone 
-sculptures of Ladak. Local tradition attributes the image to the time of 
-the great lotsorwa or translator, Rin-chen-bzang-po (Ratnabhadra 964- 
-1054 AJ).). I believe that this must not be far from the truth and that 
-the stone image belongs to the tenth or eleventh centuries a.d. The 
-lower half of the image is hidden by a small temple or lha-\hang built 
-by Wazir Sod-nam, the local landlord. An aged priest officiates in the 
-chapel, and offers flower garlands and ghee to the image, before which 
-an offering lamp burns on a low altar table. The walls of the chapel are 
-decorated with frescoes representing the “eight great sons of Nyewa” 
-who are said to have carved the image. The keeper belongs to an old 
-family of astrologers and his duty is said to be hereditary in the 
-family.** 
-
-From the outside, the image is hidden by trees and the chapel, but 
-
-1. Cf. ibid,, I, IQ3 9. Indian Antiquary, XXXV, 72 ff. 
-
-• 10. Travels in the Himalayan Provinces of Hindustan and Punjab (London, 1841), II, 17. 
-
-II. Francke, A History of Western Tibet, p. 102. 
-
-
-
-TRAILS TO INMOST ASIA 
-
-
-14 
-
-when one enters the edifice, one suddenly sees the colossal statue rising 
-before one’s eyes. It makes a lasting and powerful impression on every- 
-one who visits the spot. 
-
-From the chapel we went to visit the house of the local landlord who 
-had erected the chapel of Maitreya. It is situated a little above the road 
-and is a typical Tibetan house, with stables and servants’ quarters on 
-the ground floor and the living quarters on the upper floor. We found 
-the widow of the landlord in her private chapel where she was offering 
-daily prayers for the welfare of the soul of her departed husband. 
-Wealthy Tibetan families very often spend considerable sums in 
-memory of their departed members. Large donations are presented to 
-monasteries, which must pray for the salvation and speedy reincarna- 
-tion of the departed. The widow of the late landlord of Mulbe em- 
-ployed a lama who spent his days murmuring prayers and rhythmically 
-striking his drum. 
-
-The chapel contained some clay and brass images of Sakyamuni, the 
-Teacher Padmasambhava, and Tara, the Saviouress, besides several 
-photographs representing the abbot or s 1 {u-shol^ of the Hemis Monas- 
-tery, the Tashi Lama of Tsang, and the Dalai Lama of Lhasa. 
-
-The housemaids were busy grinding barley and pressing oil on the 
-flat roof of the house. 
-
-From the landlord’s house we proceeded up the steep crag to the 
-monastery situated on its summit. It is a tiny temple of the usual Ti- 
-betan architecture, situated inside a small compound. The lha-\hang is 
-in charge of an aged priest. Inside the temple stands an altar with a 
-gilded clay image of Padmasambhava. A small library containing the 
-sixteen volumes of the Prajnaparamita or ’Bum is placed along the 
-walls of the temple. This monastery belongs to the Dug-pa sect of the 
-unreformed Nying-ma-pa School of Tibetan Buddhism. 
-
-Returning from the monastery, we examined the inscriptions carved 
-on the rock surface. Among them there is an edict promulgated by the 
-King ’Bum-lde and a wedding congratulation to King Jamyang (’Jam- 
-dbyangs) and his queen. 
-
-We made an early start next day in order to reach the next stage, 
-Bod-Kharbu. 
-
-The road leads across the Namike Pass, at an altitude of 13,000 feet; 
-the ascent is very gradual and after crossing the pass, the trail leads into 
-the valley of Kharbu, interesting for its many ruined castles that crown 
-the barren summits of mountain spins. The place was the scene of con- 
-
-
-
-KASHMIR-LADAK 
-
-
-15 
-
-siderable warfare in the reign of King Del-den (bDe-ldan rnam-rgyal, 
-1620-40 A.D.). 
-
-The valley bottom is watered by a small rivulet, the Tanjichu, and is 
-covered by verdant barley fields carefully fenced with stone inclosures. 
-We camped in the resthouse of Bod-Kharbu, a small Ladaki village 
-situated at an elevation of some 11,000 feet. On the opposite side of the 
-river stand, high on a steep rock, the important ruins of the castle of 
-sTag-rtse. A little down the valley to the north lies the old castle of 
-Chigtan. The village of Chigtan has also a small lamasery which might 
-be assigned to the eleventh century a.d. 
+The last three miles of the road from Shar-go-lha to Mulbe passed through a country of unusual grandeur. In sharp, bold outlines lie the rugged and rocky mountain ridges. The small village of Mulbe clusters at the foot of a crag on which stands the small lamasery of Mulbe. We spent the night at the resthouse, situated at some distance from the village.
 
-The old town of Kharbu, probably destroyed during the war waged 
-by King Del-den rnam-rgyal against the Khri Sultan of Kartse (about 
-1620-30 A.D,) lies on the sandstone plateau above the village of Bod- 
-Kharbu.** Above the ruined town stands the old castle of Kharbu, also 
-in ruins. 
+Mulbe and its antiquities have been already thoroughly studied and investigated by Dr. Francke, an admirable student of west Tibetan antiquities. His researches are embodied in a learned article, "The Rock Inscriptions at Mulbe." (9)
 
-Outside the village in a narrow gorge is situated a small Buddhist 
-temple or lha-khang. We found in it an old lama, worshiping several 
-clay images, the one in the middle of the altar representing Spyan-ras- 
-gzigs Thugs-rje-chen-po, Avalokitesvara, the Merciful Lord. The 
-temple possessed no library of its own, except for some prayer manuals. 
+Mulbe boasts of an old Dard castle, two monasteries, and several important inscriptions found on the rock on which one of the monasteries is situated. The chief interest of Mulbe consists, however, in a colossal stone figure of Maitreya. The image was first noticed and described by Moorcroft in i820. (10) It represents the Bodhisattva standing, and is some twenty feet in height. The Bodhisattva is attired in the costume of an Indian ascetic, with the sacred brahmanical string which serves to distinguish bodhisattva images from feminine deities wearing a costume similar to that of a Bodhisattva. It is difficult to say anything definite about the date of the image. Its purely Indian character is evident, and as a work of art it occupies an outstanding place among the stone sculptures of Ladak. Local tradition attributes the image to the time of the great *lotsa-wa* or translator, Rin-chen-bzang-po (Ratnabhadra 964 - 1054 A.D.). I believe that this must not be far from the truth and that the stone image belongs to the tenth or eleventh centuries A.D. The lower half of the image is hidden by a small temple or *lha-khang* built by Wazir Söd-nam, the local landlord. An aged priest officiates in the chapel, and offers flower garlands and *ghee* to the image, before which an offering lamp burns on a low altar table. The walls of the chapel are decorated with frescoes representing the "eight great sons of Nyewa" who are said to have carved the image. The keeper belongs to an old family of astrologers and his duty is said to be hereditary in the family. (11)
 
-The next stage brought us to Lamayuru, the famous monastery on 
-the Kashmir-Ladak route. A view of unique grandeur opens before the 
-traveler from the summit of the Pho-tho La Pass, 14,000 feet above sea 
-level — a. vast amphitheater of rugged mountains, sharp rocks, and dis- 
-tant snowy peaks. 
+From the outside, the image is hidden by trees and the chapel, but
 
-An hour’s ride down the gradually descending slope, and the first 
-stupas, standing at the entrance into the narrow gorge, emerge from be- 
-hind a low sandy spur. On entering the narrow valley, an amazing 
-scene presents itself. High up on steep sandstone rocks stands the pic- 
-turesque lamasery of Lamayuru. Chorten and monastic cells cluster in 
-the narrow folds of the cliffs. The steep sides of the cliffs are excavated 
-with numerous caves used as storerooms and sometimes living quarters 
-by the inhabitants of the village. Such cave villages are known to exist 
-throughout Tibet and are especially noticeable in the western districts 
-of the country. The present village of Lamayuru is situated at the foot 
-of the cliffs and a little above the resthouse. 
-
-We spent an extra day at Lamayuru and visited the monastery. At 
-present it belongs to the ’Bri-khung-pa sect of Lamaism. According to 
-
-12. Francke, A History of Western Tibet, p. 98. 
-
-
-
-i6 
-
-
-TRAILS TO INMOST ASIA 
-
-
-the local monastic tradition, it was founded by the famous mahasiddha 
-Naropa who lived in the ninth century a.d. and with whose name are 
-associated many events in the church history of Ladak. The name of 
-the monastery is said to be a corruption of gYung-drung or Svastika, 
-the synonym of Bon, i.e., the primitive nature religion of Tibet. Dr. 
-Francke relates the following legend about the name of the monastery: 
-
-When Naropa . . . arrived at the site the whole valley was filled with a 
-lake which he caused to dry up. The monastery received its name from a 
-plantation of sacrificial grain which miraculously grew into the shape of the 
-Svastika {gYung-drung). It is interesting that there are traces of deposits of 
-a former lake all around the mountains of Lamayuru, and it is strange that 
-Drew in his book does not make any mention of them. But the Ladakis 
-must really have a geological instinct, to be able to invent stories of this kind. 
-They have also tales of the existence of former lakes at Leh and at Triloka- 
-nath in Lahul. The name gYung-drung was of course not given by Naropa, 
-but must date back to a time long before he arrived in the country, as it was 
-then the foremost place of the Bon religion which is called gYung-drung 
-B6n.i3 
-
-We visited the du-\hang or assembly hall in which some twenty 
-monks were reciting prayers — the library of the monastery containing 
-a Kanjiir and Tdnjiir of the Narthang print — and the small courtyard 
-in which the religious dances take place. 
-
-The Incarnate Lama of Lamayuru was away, and we were allowed 
-to visit his living rooms, which were, as usual, neat and orderly. 
-
-According to the lamas of the monastery, the oldest part of the con- 
-vent is the temple called Seng-ge sgang, situated at the southern end of 
-the cliff of Lamayuru. The principal image is that of Manjushri or 
-Jam-pe yang. According to a local tradition the Seng-ge sgang temple 
-dates back to the bKa-gdams period, that is the eleventh century a.d. 
-Dr. A. H. Francke, who visited this temple, thinks that the tradition is 
-quite in agreement with the general appearance of the temple.*^ 
-
-We also paid a visit to a ruined Bon sanctuary, referred to by Dr. 
-Francke.*s Unfortxmately the frescoes that once adorned the walls of 
-the edifice were in a very dilapidated condition and one could hardly 
-identify the images represented on them. 
-
-On the twenty-third of August we broke camp and started on our 
-further journey, hoping to reach the hamlet of Nuria in one day’s 
-march. 
-
-
-13. Francke, A History of Western Tibet, p. 96. 
-15. Ibid,, pp. 97 ff. 
-
-
-14. Ibid,, p. 97. 
-
-
-
-KASHMIR-LADAK 
-
-
-17 
-
-The trail is rather bad. In several places one has to cross avalanche- 
-swept slopes and sand and gravel continuously drift down into the 
-stream. Several times we had to cross large accumulations of dSbris — 
-traces of a recent avalanche. After three hours’ march we reached the 
-open valley of the Indus and crossed the great river by a suspension 
-bridge to the important village of Khalatse. 
+8\. Cf. ibid., I, 103 ff
 
-Khalatse, the old Dard center, is known for its antiquities, and Dr. 
-A. H. Francke has recorded most of them*® in several of his articles 
-and books. It was formerly a Dard colony, and there still exists here a 
-ruined Dard castle. The Ladak king Lha-chen Nag-lug (1150-75 a.d.) 
-built the important castle of Brag-nag, whose ruins still tower over the 
-village. Dr. Francke has discovered a number of old Kharoshthi, 
-Brahmi and Gupta inscriptions, which present many difficulties to the 
-decipherer. 
-
-The modern village of Khalatse is pleasantly situated among apricot 
-groves. After a brief halt at the village, we continued our march toward 
-Nuria (sNyur-la). The trail leads over a stony level ground. The heat 
-in midday was intense. We reached sNyur-la in the afternoon and took 
-up quarters for the night in the small resthouse of the place. 
-
-The march from sNyur-la to Saspola leads across a barren country 
-almost entirely devoid of vegetation. Saspola itself is a large village 
-with numerous tree groves. Across the Indus, some two miles distant, 
-lies the interesting monastery of Alchi, one of the oldest convents of 
-Ladak. This monastery dates back to the time of Rin-chen bzang-po 
-(eleventh century) and has preserved much of its old Indian wood- 
-carvings which recall the finely executed carvings of medieval Kash- 
-mir. In the village of Saspola itself there exist two ruined stupas attrib- 
-uted to Rin-chen bzang-po. On the ruined foundation of the largest 
-one has been erected a small monastery, named Cham-pa gom-pa 
-(Byams-pa dgon-pa). It contains a large image of gilded clay of the 
-Bodhisattva Maitreya and several other large images of standing bo- 
-dhisattvas. According to local tradition, the standing statue of Maitreya 
-was erected by Rin-chen bzang-po himself. Most probably the present 
-statue dates from a comparatively recent time and possibly replaced an 
-older one, which might have dated from the time of the great trans- 
-lator. 
-
-16. “Historische Dokumente von Khalatse,** ZDMG, LXI, 583; “The Dards at Khalatse,** 
-AfASB, Vol. I, No. 19; Antiquities of Indian Tibet, pp. 97 ff.; A History of Western Tibet, pp. 
-65 ff. 
-
-
-
-i8 
-
-
-TRAILS TO INMOST ASIA 
-
-
-The next march from Saspola to sNye-mo was interesting for several 
-old monasteries. On leaving the village of Saspola, the trail crosses a 
-vast sandy plateau. Not far from the route lies the important monastery 
-of kLu-dkyil, popularly pronounced Likir. It was founded by King 
-Lha-chen rgyal-po {ca. 1050-80 a.d.). The trail descends into the deeper 
-valley and reaches the romantically situated hamlet of Basgo, famous 
-for one of the oldest monasteries of Ladak and for the ancient palace 
-of its kings. 
-
-An old temple, founded by King Thse-dbang rnam-rgyal, contains a 
-huge statue of Maitreya, Avalokitesvara, and curious wall frescoes. The 
-ancient palace of Ladak kings has a small monastery of Seljang. It con- 
-tains a big statue of Bodhisattva Maitreya, said to have been erected by 
-King Seng-ge rnam-rgyal about 1610 a.d. It also contains the ancient 
-royal library of Ladak. So far as I know, its contents were never thor- 
-oughly investigated nor the volumes catalogued. Basgo was the scene 
-of considerable fighting when the advancing Mongol troops besieged 
-the Ladak king, bDe-legs rnam-rgyal, who reigned between 1640 and 
-1680 A.D. 
-
-Basgo, with its half-ruined temples and castles built on precipitous 
-cliffs, and the quaint huts of the modern village that cluster between 
-the sanctuaries and the sandstone rocks, makes a deep impression on 
-the visitor; and I still cherish in my memory the picture of this ancient 
-corner of westernmost Tibet. The town is justly said to contain the old- 
-est convents of Ladak. 
-
-From Basgo, the trail leads over level stony ground to the collection 
-of farmsteads called sNye-mo. The bungalow proved to be occupied by 
-a party of Emopeans traveling from Leh, and we preferred to pitch our 
-tents in the shady grove outside the bungalow. 
-
-Near to sNye-mo lie the ruins of an old fort called Chung-khar, of 
-which only walls remain. 
-
-On the twenty-sixth of August we started at an early hour on the last 
-seventeen miles to Leh. 
-
-The track leaves the Indus at sNye-mo and crosses a wide plateau sur- 
-rounded by barren mountains. After three hours’ march, we reached 
-the village of Phyi-dbang, famous for a monastery built by King Bkra- 
-shis rnam-rgyal (1500-1532). The monastery belongs to the ’Bri- 
-khung-pa sect and possesses a fine Ihchkjiang or temple. 
-
-About two o’clock in the afternoon we reached the important Yellow 
-Hat Monastery of Spi-thug (dPe-thub) built by King ’Bum-lde (fif- 
-
-
-
-KASHMIR-LADAK 
-
-
-19 
-
-teenth century) on a steep rock. This monastery was one of the first 
-Yellow Hat monasteries of Ladak. It possesses a branch, the Zang-skar 
-Monastery, just outside of Leh; and the well-known monastery of Ri- 
-dzong (Ri-rdzong) is also connected with it. 
-
-The monastery of Spi-thug enjoys a wide reputation throughout 
-Tibet for the austerity of its monks and the learning of its abbot. It 
-was erected in honor of the great reformer rje-rin-po-che Tsong-kha-pa 
-(1357-1419 A.D.) and a large-sized image of the Saint is found in its 
-du~khang or assembly hall. We decided to visit the monastery on our 
-way and therefore rode up the steep crag on which it stands. We had 
-no difficulty in gaining admission and were very cordially invited in by 
-the abbot and his assistant or umdze. We first were shown round the 
-du-hjtang where some thirty monks were attending divine service. The 
-walls were covered with frescoes, but the extreme darkness inside the 
-hall prevented us from seeing much of them. Before the altar glittered 
-several rows of offering lamps, whose twinkling light illumined from 
-time to time the serene faces of the images. 
-
-We were entertained with tea and sweets in the private apartments of 
-the sku-sho\ or Incarnate Lama of the monastery. The s\u-shol{_ himself 
-was absent at Ri-dzong, where he was undergoing a course of instruc- 
-tion in Buddhist metaphysics. In his absence the monastery was admin- 
-istrated by Lama Lobzang, a pleasant old gentleman of quiet manners, 
-who made a very good impression on all of us. He was one of those 
-erudite lamas who carry in themselves centuries of religious culture. 
-
-The private rooms were neat and well furnished in Tibetan style, 
-with painted glass cases containing clay and brass images and a small 
-library of religious texts destined for the private use of the s\u-shok. 
-His mantle was thrown on his low throne standing at the northern 
-wall of the room. After a pleasant hour spent in the company of the 
-abbot and his assistant, we climbed to the roof of the monastery and 
-enjoyed the magnificent view over the vast and open Indus Valley, 
-north of which lies the capital of Ladak. 
-
-The last five miles to Leh led over a stony plain dotted here and there 
-with small groves of trees. Leh, with its bazaar engirded by high walls, 
-its city gates, the towering mass of the palace, and the picturesque 
-crowd that throngs the bazaar and streets, makes a lasting impression. 
-It is one of those towns of higher Asia, which has still preserved its 
-character of an Asiatic caravan center to which stream numerous cara- 
-vans carrying the products of India, China, Tibet, and Turkestan. 
-
-
-
-20 
-
-
-TRAILS TO INMOST ASIA 
-
-
-A careful archaeological study of Ladak requires prolonged residence 
-in the country. Whatever we know of the past of the country and its 
-monuments of antiquity, we owe to the labors of Dr. A. H. Francke 
-and his predecessors in the Moravian Mission. 
-
-Our expedition remained in the capital of Ladak from August 26 to 
-September 19, 1925, except for several days spent on a journey to the 
-famous Hemis Monastery and other places of interest round the town. 
-Much of the time during this stay was occupied by preparations for the 
-next difficult portion of the journey across the great mountain route to 
-Chinese Turkestan. We had to dismiss all our Kashmiri servants, who 
-were quite unsuitable for a hard mountain journey, and engaged new, 
-experienced men. The problem of transport also gave much anxiety, for 
-it was imperative to get reliable caravan men and good animals. Most 
-of the caravans which reached Leh had very poor animals requiring 
-several weeks of recuperation. 
-
-After some search and lengthy consultations with the British aqsa- 
-qd of Leh, we signed an agreement with Nazar Bai, a Karghalik cara- 
-van man, who possessed thirty-six pack horses in good condition. He 
-had come in July and his drove of horses had been grazing for two 
-months in a garden outside Leh. We needed in all seventy-six pack 
-animals to carry the expedition’s baggage, and there still remained 
-thirty horses to be found in addition to those we already had. 
-
-Every day we went roimd the serais or resthouses for Yarkend 
-traders, inquiring for new arrivals or starting caravans. Finally we suc- 
-ceeded in finding the required thirty pack horses, belonging to an 
-Afghan trader, Omar Khan, a resident of Yarkend. His horses had 
-come only recently from the passes and were in poor condition, but the 
-owner promised to feed them well the remaining three weeks and to 
-have them fit by the date of departure. We had to agree, for this was the 
-only solution of our transport problem. On such a difficult and deserted 
-route as the Karakorum trade route, it is always advisable to make use 
-of hired transport and not to risk a caravan of purchased animals. The 
-difficulties of this mountain route, its rarefied atmospheres and absolute 
-barrenness, and the great percentage of caravan animals that perish 
-yearly, make traveling very expensive. The prices for one pack horse 
-range from sixty rupees to eighty rupees from Leh to Yarkend or Kho- 
-tan. We fixed the price of one horse at seventy-six rupees, with the obli- 
-gation of carrying the expedition’s baggage in twenty-four days from 
-Leh to Khotan. 
-
-
-
-KASHMIR-LADAK 
-
-
-21 
-
-
-The caravan men were sturdy Turkis from Karghalik and Khotan, 
-in large chapans or coats, soft leather boots or charuq, and large oval 
-fur caps protecting the wearer from the bitter winds and gales of the 
-highlands. It was strange to hear the strongly guttural sounds of the 
-eastern Turki, so different from the soft Urdu of India and the fluent 
-speech of Lhasa Tibetans. Some of the men knew a little Chinese, and 
-our Chinese interpreter was able to make some sort of conversation 
-with them. 
-
-Once the transport problem had been settled, we had more time to 
-inspect the interesting locality of Leh and its vicinity. 
-
-The modern city of Leh is situated at the junction of several impor- 
-tant central Asian caravan routes, hence its importance for the history 
-of the Indian border country. At least three long and difficult routes 
-connect Leh with Lhasa, the capital of Tibet proper. The first of them 
-crosses the Tibetan uplands and passes north of the great lakes; Ngan- 
-tse tsho, Chyaring tsho (Kya-ring tsho), and Nam tsho, the Tengri- 
-nor of our maps. It joins the great Mongolia-Lhasa route in the impor- 
-tant frontier center of Nag-chu dzong (a Tibetan dzong is the admin- 
-istrative center of a district and not a fortress, as is often recorded). 
-
-The second of the three routes crosses the Tibetan upland to the holy 
-Kailasa Range and strikes south of the Great Lakes: Dangra yum-tsho, 
-Ngan-tse, and Tengri-nor. Travelers by this route travel direct to Lhasa 
-across the high pass of Go-ring La in the Nyen-chen Thang La Range. 
-
-The third route follows the course of the Brahmaputra and passes 
-through Saga dzong, north of the river. From here it strikes either 
-along the bank of the Brahmaputra to Lhartse dzong, or crosses the 
-river and passes through Tingri on the Nepal border. In both cases the 
-route runs through Shigatse to Lhasa. This last route is used by most of 
-the Ladaki traders traveling to Lhasa and by the Embassy from the 
-Maharaja of Kashmir to the Court of Lhasa. 
-
-The Karakorum route, aptly called the highest trade route in the 
-world, connects Leh with distant China and the oases of Chinese Tur- 
-kestan. Traders from Yarkend, Kashgar, and Khotan, the principal 
-oases of southwestern Chinese Turkestan, follow it on their way to 
-India. From Leh the central Asian caravans travel to Kashmir across 
-the Zoji La, or through Zangskar, Lahul, the valley of Kulu and the 
-native states of Mandi to Hoshiarpur and Amritsar, the two great em- 
-poriums of Punjab. This Turkestan trade route has increased greatly in 
-importance during the last ten years, and the Government of India has 
-
-
-
-22 
-
-
-TRAILS TO INMOST ASIA 
-
-
-facilitated by several measures the passage of trading caravans over In- 
-dian territory. With the closing of the Russian frontier and the recent 
-txnrest and civil war in western China, the Turkestan trade turned 
-southward to India, and we found the route alive with caravan parties 
-which were braving the icy winds and frequent avalanches on the 
-mountain crests. 
-
-Such a favorable situation makes Leh an exceedingly interesting 
-place for archaeological and ethnographical research. The two principal 
-bazaars of the town are thronged by a multicolored crowd, among 
-which the neatly attired Turkestan Turks are prominent. Huge bales 
-of merchandise, containing Turkestan felts or nimdah, which come 
-from Khotan, Guma, and Yarkend and command good prices on In- 
-dian markets, stand in front of the open shops. Some of these felts are 
-very decorative in design and, as products, arc much superior to similar 
-felts made by the Mongols or even the Chinese. In camp they are indis- 
-pensable, for they serve as floor covering for tents and as bedding for 
-the personnel of the caravans. Quite recently the export of these felts 
-from Turkestan to India greatly increased, and this reacted favorably 
-on the ancient industry. 
-
-The Tibetan nomads of the north bring the soft Tibetan wool out of 
-which Kashmiri artisans make their beautiful pashmina shawls. 
-
-The caravans from Turkestan arrive usually in July and August and 
-start on their return journey in October or even November, before the 
-snow has closed the passes for the winter. The merchandise brought to 
-Leh and Kashmir consists chiefly of Turkestan felts, Chinese and Kho- 
-tancse silks, furs, wool, and leather products such as the Turkestan top 
-boots and charuqs, valued so highly by the Ladaki caravan men. A con- 
-siderable trade is done in horses, and Yarkend caravans usually bring 
-with them a good number of riding horses which they drive unloaded 
-across the passes. The hardy and swift Turkestan horse is greatly appre- 
-ciated in Kashmir and the plains of India, which have never produced 
-a country horse of its own. 
-
-The returning caravans carry loads of European-made goods: prod- 
-ucts of Manchester looms and Bradford woolen mills, British and Ger- 
-man dyestuffs, various articles of haberdashery, and Indian products 
-and spices, such as saffron, which is exported in great quantities from 
-Kashmir to Turkestan and Tibet. 
-
-All this motley crowd of visitors moves, shouts, and gesticulates in 
-the narrow streets and bazaars of Leh. Sitting on the verandah of the 
-
-
-
-KASHMIR-LADAK 
-
-
-23 
-
-dak bungalow one constantly hears the pleasant bells of passing cara- 
-vans and the songs of the Ladaki women and men carrying grass from 
-the fields. At times this continuous flow of men and beasts will sud- 
-denly be interrupted by the trampling of a drove of horses driven by 
-mounted herdsmen. 
-
-In some corners of the bazaars, or in the vicinity of Lamaist temples, 
-one meets red-clad lamas who have traveled hundreds of miles from 
-inner Tibet, selling holy relics and talismans. Curiously enough I have 
-seen Buddhist talismans or srung-wa on Turki caravan men from 
-Karghalik who seemed to be quite convinced of their potency. The 
-black and blue turbaned Baltis are very prominent in the streets of Leh 
-and usually find employment as coolies or caravan men, carrying heavy 
-loads. Occasionally one meets the quaint figures of the Mons, preservers 
-of the ancient Ladaki lore and probably an ethnic remnant of a primi- 
-tive population, which has been submerged by subsequent waves of 
-foreign migrations. 
-
-During our stay in Leh, we made the acquaintance of the son of the 
-Ladaki aqsaqal of Lhasa, a young fellow of considerable acumen, who 
-was on a summer visit to Leh. The goods that he brought consisted of 
-brick tea, Tibetan cloth puru, lama boots manufactured at Dre-pung, 
-and other objects of the Lamaist cult. He even had several Tibetan 
-xylographs for sale, prominent among which was the life story or nam- 
-thar of Je-tsiin Milarepa, Tibet’s great ascetic and poet of the eleventh 
-century a.d. 
-
-Wandering through the streets of Leh, one feels the beating pulse of 
-the great Asia that lies hidden behind the veil of a superficial moderni- 
-zation. 
-
-The native Ladaki population is chiefly agricultural, and numerous 
-farmsteads and villages lie along the Indus Valley and the vast sandy 
-plain on which Leh is situated. In this mountainous country agriculture 
-is possible only in the river valleys and is seldom carried on above an 
-altitude of 12,000 feet. The scarcity of arable land, mostly represented 
-by fluvial fans and river terraces, has limited the agricultural popula- 
-tion to a few river valleys. 
-
-Leh, which is sometimes spelled sLel or sLes, became the permanent 
-residence of the kings of Ladak from the time of the reign of King 
-’Bum-lde (fifteenth century a.d.). The antiquities of Leh consist of 
-payees, stupas, and temples, stone carved images, and ancient graves. 
-
-When one approaches the town of Leh, one perceives from afar the 
-
-
-
-24 TRAILS TO INMOST ASIA 
-
-towering white mass of its great palace, erected about 1620 aj>. by King 
-Seng'ge mam-rgyal, one of the greatest builders of Ladak; he was as- 
-sisted in his work by the Lama sTag-tshang ras-chen, whom he invited 
-to his court.^7 The palace dominates the city, and the houses that cluster 
-round it seem like stone steps leading toward an imposing edifice or 
-altar. The Leh Palace is said to have been built on the model of the 
-great Potala Palace of Lhasa, and indeed there is a slight resemblance, 
-between these two monuments of the Tibetan past. We had the good 
-fortune of passing several days at the Palace of Leh through the cour- 
-tesy of the present Raja of Ladak. 
-
-A broad road, on either side of which rise low walls of unhewn 
-stones, leads to the famous Lion Gate of the King’s Palace. Painted 
-wooden columns support the roof of the entrance. A large stone stair- 
-way leads to the upper rooms of the Palace. It is in a very dilapidated 
-condition and some of the stones forming the steps have rolled down. 
-One has to advance carefully, testing the firmness of the stones. Our 
-servants called it "Sasseri,” comparing the stairway to the difficult 
-mountain trail leading toward the Sasser Pass on the Karakorum route. 
-To the right and left of the stairway gape dark holes in the walls— -for- 
-mer doors leading to the storerooms or servant quarters. After one has 
-climbed to the upper floor, a flash of bright light suddenly pierces the 
-darkness of the corridor — ^it is a side window without a wooden frame 
-or glass, just a square hole in the wall; climbing the stairway in com- 
-plete darkness at night one has to be very careful not to fall out of this 
-window. A little farther on, one enters a vast hall with an earthen floor. 
-Round the walls stretches a kind of portico supported by wooden col- 
-tunns, painted in bright colors and carved. The walls are adorned with 
-numerous images of the green Tara. From here a few stone steps lead 
-to the next floor, where the living quarters are situated. These are typi- 
-cal Tibetan rooms with wooden frames in the large square windows 
-and carved columns that support the ceiling. The doors are massive, 
-with huge iron keys and iron plaques that serve as ornaments. From 
-one of the rooms a passage leads to the roof of the Palace, from which 
-opens a unique view of the city lying at the foot of the Palace, the 
-snowy peaks of the mountain range on the southern side of the Indus 
-Valley, and the wind-swept ridge of the Khardong La over which 
-hover light clouds, the messengers of approaching storm. 
-
-17. For a history of this king of Ladak, sec Dr. Francke, A History of Western Tibet, pp. 
-96 ff. 
-
-
-
-
-
-STONE IMAGE OF MAITREYA IMAGE OF THE GODDESS DUG-KAR 
-
-AT MULBE, LADAK IX THE ZANGSKAR MONASTERY AT LEH 
-
-
-
-KASHMIR-LADAK 25 
-
-At sunset, the whole of the sandy plain and the sand rock mountains 
-that rise on either side of it light up with an intense glow. The town 
-below plunges into a deep violet mist and the rows of white stupas on 
-the plain sparkle like necklaces of precious stones. During this hour the 
-Ladaki men and women tell their evening prayers, and incense smoke 
-rises slowly above every house on the plain. It is during this hour of 
-peace and prayer that the visitor to the capital of the little kingdom be- 
-gins to understand the intrinsic beauty of the country and the irresist- 
-ible force of attraction it exercises on its sons. 
-
-From the roof of the Palace one descends by another stairway to the 
-small royal chapel of the Palace. An officiating priest guards the sacred 
-images and lights the offering lamps of the altar. The principal figure 
-is that of Dug-kar, the Saviouress. The figure is the work of a Ladak 
-artist, who has acquitted himself of his task with considerable success. 
-The thousand-armed goddess holds numerous symbols that reveal to 
-the devotee the omnipotent nature of the deity. Round the walls of the 
-small chapel hang numerous banners, some of which seem to be old 
-and are extremely interesting on account of their style. As Ladak is 
-situated at the junction of several highways of Asia, its art and culture 
-bear an imprint of cosmopolitanism. Some of the painted banners 
-evince a decisive Indo-Persian style, and many of the details seem to be 
-taken from a Mogul miniature. Others again strongly remind one of 
-the great pictorial compositions of Chinese Turkestan. We spent con- 
-siderable time studying the many painted banners under the flickering 
-light of a candle, for it seemed a profanation to disturb the somber 
-chapel with the bright and sharp light of a flashlight. 
-
-Unfortunately the Palace was not the ideal quarter for an expedition 
-with hundreds of cases and bales, which need packing and distribution 
-into pony loads. After several days spent in the fantastic surroundings 
-of the ancient abode of Ladaki kings, we were obliged to return to our 
-former headquarters at the dak bungalow, where we had plenty of 
-space to arrange the pony loads and keep our saddle horses. 
-
-The oldest palace of Leh is situated on the steep rock rNam-rj^al 
-rtse-mo behind the town, and is said to have been erected by King 
-bKra-shis rnam-rgyal {ca. 1520 aj).). Now only ruins remain of this 
-ancient structure, and some of its walls have been used for the construc- 
-tion of the present monastery on the hill. 
-
-Below the hill lies the small hamlet of Chubi, which was founded by 
-tl^e same bKra-shis rnam-rgyal. 
-
-
-
-26 
-
-
-TRAILS TO INMOST ASIA 
-
-
-The present Raja of Ladak dwells in his summer residence at sTog. 
-He receives a small annual pension and leads a retired life. He seldom 
-visits the town and resides in his great town palace only during the 
-New Year feftivities. His aged father has embraced monkhood and de- 
-votes his life to religious work. He is a serene and dignified gentleman, 
-learned in the sacred lore of his country. When he paces down the 
-streets of Leh on his rare visits to the town, many of the people throw 
-themselves down before him and thus greet the scion of the ancient 
-house of Kesar. 
-
-The temples and monasteries of Leh are prominent features of the 
-town itself and its neighborhood. The oldest temple is situated on the 
-rNam-rgyal rtse-mo Hill and is dedicated to Maitreya. According to tra- 
-dition it was built by King ’Bum-lde.*® On the same hill is foimd the 
-interesting temple called mGon-khang and dedicated to the Lords or 
-Dharmapalas of the Four Quarters. It was erected by King bKra-shis 
-rnam-rgyal, the builder of the Palace on the same hill, and of the ham- 
-let Chubi. The temple contains frescoes whose importance is enhanced 
-by the fact that their dates may be given. In the history of Tibetan picto- 
-rial art we are sadly lacking in definite dates to fix the different periods 
-of the artistic evolution of the country. We speak of the different for- 
-eign influences which affected the art of Tibet, but are unable to place 
-them in time. Therefore it is always gratifying to find frescoes or paint- 
-ings which can be definitely dated. I hope to devote a separate work to 
-the wall paintings found in Tibetan monasteries; like everything in 
-Ladak, they evince a strong composite nature, and the artist or artists 
-who executed them were inspired not only by the canonical art of 
-Tibet but were also strongly influenced by the secular art of neighbor- 
-ing countries. Very striking is the fresco representing the family of 
-Ladak kings. The men are attired in Mogul fashion, but the queens 
-are depicted wearing the national Ladak dress. The fresco shows the 
-duality that still exists in the culture of present-day Ladak. 
-
-Below the royal palace of Seng-ge rnam-rgyal stand two temples — 
-one consecrated to the future Buddha Maitreya, the other to Avalokites- 
-vara, the Divine Patron of Tibet. The temple or lha-\hang of Maitreya, 
+9\. *Indian Antiquary*, XXXV, 72 ff.
+
+10\. *Travels in the Himalayan Provinces of Hindustan and Punjab* (London, 1841), II, 17.
+
+11\. Francke, *A History of Western Tibet*, p. 102.
+
+14 TRAILS TO INMOST ASIA
+
+when one enters the edifice, one suddenly sees the colossal statue rising before one’s eyes. It makes a lasting and powerful impression on everyone who visits the spot.
+
+From the chapel we went to visit the house of the local landlord who had erected the chapel of Maitreya. It is situated a little above the road and is a typical Tibetan house, with stables and servants’ quarters on the ground floor and the living quarters on the upper floor. We found the widow of the landlord in her private chapel where she was offering daily prayers for the welfare of the soul of her departed husband. Wealthy Tibetan families very often spend considerable sums in memory of their departed members. Large donations are presented to monasteries, which must pray for the salvation and speedy reincarnation of the departed. The widow of the late landlord of Mulbe employed a lama who spent his days murmuring prayers and rhythmically striking his drum.
+
+The chapel contained some clay and brass images of Sakyamuni, the Teacher Padmasambhava, and Tara, the Saviouress, besides several photographs representing the abbot or *sku-shok* of the Hemis Monastery, the Tashi Lama of Tsang, and the Dalai Lama of Lhasa.
+
+The housemaids were busy grinding barley and pressing oil on the flat roof of the house.
+
+From the landlord’s house we proceeded up the steep crag to the monastery situated on its summit. It is a tiny temple of the usual Tibetan architecture, situated inside a small compound. The *lha-khang* is in charge of an aged priest. Inside the temple stands an altar with a gilded clay image of Padmasambhava. A small library containing the sixteen volumes of the Prajnaparamita or 'Bum is placed along the walls of the temple. This monastery belongs to the Dug-pa sect of the unreformed Nying-ma-pa School of Tibetan Buddhism.
+
+Returning from the monastery, we examined the inscriptions carved on the rock surface. Among them there is an edict promulgated by the King 'Bum-lde and a wedding congratulation to King Jamyang ('Jam-dbyangs) and his queen.
+
+We made an early start next day in order to reach the next stage, Bod-Kharbu.
+
+The road leads across the Namike Pass, at an altitude of 13,000 feet; the ascent is very gradual and after crossing the pass, the trail leads into the valley of Kharbu, interesting for its many ruined castles that crown the barren summits of mountain spins. The place was the scene of con-
+
+15 KASHMIR-LADAK 
+
+siderable warfare in the reign of King Del-den (bDe-ldan rnam-rgyal, 1620-40 A.D.).
+
+The valley bottom is watered by a small rivulet, the Tanjichu, and is covered by verdant barley fields carefully fenced with stone inclosures. We camped in the resthouse of Bod-Kharbu, a small Ladaki village situated at an elevation of some 11,000 feet. On the opposite side of the river stand, high on a steep rock, the important ruins of the castle of sTag-rtse. A little down the valley to the north lies the old castle of Chigtan. The village of Chigtan has also a small lamasery which might be assigned to the eleventh century A.D.
+
+The old town of Kharbu, probably destroyed during the war waged by King Del-den rnam-rgyal against the Khri Sultan of Kartse (about 1620-30 A.D,) lies on the sandstone plateau above the village of Bod-Kharbu. (12) Above the ruined town stands the old castle of Kharbu, also in ruins.
+
+Outside the village in a narrow gorge is situated a small Buddhist temple or lha-khang. We found in it an old lama, worshiping several clay images, the one in the middle of the altar representing Spyan-ras-gzigs Thugs-rje-chen-po, Avalokitesvara, the Merciful Lord. The temple possessed no library of its own, except for some prayer manuals.
+
+The next stage brought us to Lamayuru, the famous monastery on the Kashmir-Ladak route. A view of unique grandeur opens before the traveler from the summit of the Pho-tho La Pass, 14,000 feet above sea level — a vast amphitheater of rugged mountains, sharp rocks, and distant snowy peaks.
+
+An hour’s ride down the gradually descending slope, and the first stupas, standing at the entrance into the narrow gorge, emerge from behind a low sandy spur. On entering the narrow valley, an amazing scene presents itself. High up on steep sandstone rocks stands the picturesque lamasery of Lamayuru. Chorten and monastic cells cluster in the narrow folds of the cliffs. The steep sides of the cliffs are excavated with numerous caves used as storerooms and sometimes living quarters by the inhabitants of the village. Such cave villages are known to exist throughout Tibet and are especially noticeable in the western districts of the country. The present village of Lamayuru is situated at the foot of the cliffs and a little above the resthouse.
+
+We spent an extra day at Lamayuru and visited the monastery. At present it belongs to the ’Bri-khung-pa sect of Lamaism. According to
+
+12\. Francke, *A History of Western Tibet*, p. 98.
+
+i6  TRAILS TO INMOST ASIA
+
+the local monastic tradition, it was founded by the famous mahasiddha Naropa who lived in the ninth century a.d. and with whose name are associated many events in the church history of Ladak. The name of the monastery is said to be a corruption of gYung-drung or Svastika, the synonym of Bon, i.e., the primitive nature religion of Tibet. Dr. Francke relates the following legend about the name of the monastery:
+
+When Naropa . . . arrived at the site the whole valley was filled with a lake which he caused to dry up. The monastery received its name from a plantation of sacrificial grain which miraculously grew into the shape of the Svastika (*gYung-drung*). It is interesting that there are traces of deposits of a former lake all around the mountains of Lamayuru, and it is strange that Drew in his book does not make any mention of them. But the Ladakis must really have a geological instinct, to be able to invent stories of this kind. They have also tales of the existence of former lakes at Leh and at Triloka-nath in Lahul. The name gYung-drung was of course not given by Naropa, but must date back to a time long before he arrived in the country, as it was then the foremost place of the Bon religion which is called gYung-drung Bön. (13)
+
+We visited the *du-khang* or assembly hall in which some twenty monks were reciting prayers — the library of the monastery containing a Kanjiir and Tdnjiir of the Narthang print — and the small courtyard in which the religious dances take place.
+
+The Incarnate Lama of Lamayuru was away, and we were allowed to visit his living rooms, which were, as usual, neat and orderly.
+
+According to the lamas of the monastery, the oldest part of the convent is the temple called Seng-ge sgang, situated at the southern end of the cliff of Lamayuru. The principal image is that of Manjushri or Jam-pe yang. According to a local tradition the Seng-ge sgang temple dates back to the bKa-gdams period, that is the eleventh century A.D. Dr. A. H. Francke, who visited this temple, thinks that the tradition is quite in agreement with the general appearance of the temple. (14)
+
+We also paid a visit to a ruined Bön sanctuary, referred to by Dr. Francke. (15) Unfortxmately the frescoes that once adorned the walls of the edifice were in a very dilapidated condition and one could hardly identify the images represented on them.
+
+On the twenty-third of August we broke camp and started on our further journey, hoping to reach the hamlet of Nuria in one day’s march.
+
+13\. Francke, *A History of Western Tibet*, p. 96.
+
+14\. Ibid,, p. 97.
+
+15\. Ibid,, pp. 97 ff.
+
+17 KASHMIR-LADAK
+
+The trail is rather bad. In several places one has to cross avalanche-swept slopes and sand and gravel continuously drift down into the stream. Several times we had to cross large accumulations of dSbris — traces of a recent avalanche. After three hours’ march we reached the open valley of the Indus and crossed the great river by a suspension bridge to the important village of Khalatse.
+
+Khalatse, the old Dard center, is known for its antiquities, and Dr. A. H. Francke has recorded most of them*® in several of his articles and books. It was formerly a Dard colony, and there still exists here a ruined Dard castle. The Ladak king Lha-chen Nag-lug (1150-75 A.D.) built the important castle of Brag-nag, whose ruins still tower over the village. Dr. Francke has discovered a number of old Kharoshthi, Brahmi and Gupta inscriptions, which present many difficulties to the decipherer.
+
+The modern village of Khalatse is pleasantly situated among apricot groves. After a brief halt at the village, we continued our march toward Nuria (sNyur-la). The trail leads over a stony level ground. The heat in midday was intense. We reached sNyur-la in the afternoon and took up quarters for the night in the small resthouse of the place. 
+
+The march from sNyur-la to Saspola leads across a barren country almost entirely devoid of vegetation. Saspola itself is a large village with numerous tree groves. Across the Indus, some two miles distant, lies the interesting monastery of Alchi, one of the oldest convents of Ladak. This monastery dates back to the time of Rin-chen bzang-po (eleventh century) and has preserved much of its old Indian wood-carvings which recall the finely executed carvings of medieval Kashmir. In the village of Saspola itself there exist two ruined stupas attributed to Rin-chen bzang-po. On the ruined foundation of the largest one has been erected a small monastery, named Cham-pa gom-pa (Byams-pa dgon-pa). It contains a large image of gilded clay of the Bodhisattva Maitreya and several other large images of standing bodhisattvas. According to local tradition, the standing statue of Maitreya was erected by Rin-chen bzang-po himself. Most probably the present statue dates from a comparatively recent time and possibly replaced an older one, which might have dated from the time of the great translator.
+
+16\. "Historische Dokumente von Khalatse," ZDMG, LXI, 583; "The Dards at Khalatse," *MASB*, Vol. I, No. 19; *Antiquities of Indian Tibet*, pp. 97 ff.; *A History of Western Tibet*, pp. 65 ff.
+
+i8 TRAILS TO INMOST ASIA
+
+
+The next march from Saspola to sNye-mo was interesting for several old monasteries. On leaving the village of Saspola, the trail crosses a vast sandy plateau. Not far from the route lies the important monastery of kLu-dkyil, popularly pronounced Likir. It was founded by King Lha-chen rgyal-po (ca. 1050-80 A.D.). The trail descends into the deeper valley and reaches the romantically situated hamlet of Basgo, famous for one of the oldest monasteries of Ladak and for the ancient palace of its kings.
+
+An old temple, founded by King Thse-dbang rnam-rgyal, contains a huge statue of Maitreya, Avalokitesvara, and curious wall frescoes. The ancient palace of Ladak kings has a small monastery of Seljang. It contains a big statue of Bodhisattva Maitreya, said to have been erected by King Seng-ge rnam-rgyal about 1610 a.d. It also contains the ancient royal library of Ladak. So far as I know, its contents were never thoroughly investigated nor the volumes catalogued. Basgo was the scene of considerable fighting when the advancing Mongol troops besieged the Ladak king, bDe-legs rnam-rgyal, who reigned between 1640 and 1680 A.D.
+
+Basgo, with its half-ruined temples and castles built on precipitous cliffs, and the quaint huts of the modern village that cluster between the sanctuaries and the sandstone rocks, makes a deep impression on the visitor; and I still cherish in my memory the picture of this ancient corner of westernmost Tibet. The town is justly said to contain the oldest convents of Ladak.
+
+From Basgo, the trail leads over level stony ground to the collection of farmsteads called sNye-mo. The bungalow proved to be occupied by a party of Emopeans traveling from Leh, and we preferred to pitch our tents in the shady grove outside the bungalow.
+
+Near to sNye-mo lie the ruins of an old fort called Chung-khar, of which only walls remain.
+
+On the twenty-sixth of August we started at an early hour on the last seventeen miles to Leh.
+
+The track leaves the Indus at sNye-mo and crosses a wide plateau surrounded by barren mountains. After three hours’ march, we reached the village of Phyi-dbang, famous for a monastery built by King Bkrashis rnam-rgyal (1500-1532). The monastery belongs to the ’Bri-khung-pa sect and possesses a fine Ihchkjiang or temple.
+
+About two o’clock in the afternoon we reached the important Yellow Hat Monastery of Spi-thug (dPe-thub) built by King ’Bum-lde (fif-
+
+19 KASHMIR-LADAK
+
+teenth century) on a steep rock. This monastery was one of the first Yellow Hat monasteries of Ladak. It possesses a branch, the Zang-skar Monastery, just outside of Leh; and the well-known monastery of Ri-dzong (Ri-rdzong) is also connected with it.
+
+The monastery of Spi-thug enjoys a wide reputation throughout Tibet for the austerity of its monks and the learning of its abbot. It was erected in honor of the great reformer rje-rin-po-che Tsong-kha-pa (1357-1419 A.D.) and a large-sized image of the Saint is found in its du~khang or assembly hall. We decided to visit the monastery on our way and therefore rode up the steep crag on which it stands. We had no difficulty in gaining admission and were very cordially invited in by the abbot and his assistant or umdze. We first were shown round the du-hjtang where some thirty monks were attending divine service. The 
+walls were covered with frescoes, but the extreme darkness inside the hall prevented us from seeing much of them. Before the altar glittered several rows of offering lamps, whose twinkling light illumined from time to time the serene faces of the images.
+
+We were entertained with tea and sweets in the private apartments of the *sku-shok* or Incarnate Lama of the monastery. The *sku-shok* himself was absent at Ri-dzong, where he was undergoing a course of instruction in Buddhist metaphysics. In his absence the monastery was administrated by Lama Lobzang, a pleasant old gentleman of quiet manners, who made a very good impression on all of us. He was one of those erudite lamas who carry in themselves centuries of religious culture.
+
+The private rooms were neat and well furnished in Tibetan style, with painted glass cases containing clay and brass images and a small library of religious texts destined for the private use of the *sku-shok*. His mantle was thrown on his low throne standing at the northern wall of the room. After a pleasant hour spent in the company of the abbot and his assistant, we climbed to the roof of the monastery and enjoyed the magnificent view over the vast and open Indus Valley, north of which lies the capital of Ladak.
+
+The last five miles to Leh led over a stony plain dotted here and there with small groves of trees. Leh, with its bazaar engirded by high walls, its city gates, the towering mass of the palace, and the picturesque crowd that throngs the bazaar and streets, makes a lasting impression. It is one of those towns of higher Asia, which has still preserved its character of an Asiatic caravan center to which stream numerous caravans carrying the products of India, China, Tibet, and Turkestan.
+
+20 TRAILS TO INMOST ASIA
+
+A careful archaeological study of Ladak requires prolonged residence in the country. Whatever we know of the past of the country and its monuments of antiquity, we owe to the labors of Dr. A. H. Francke and his predecessors in the Moravian Mission.
+
+Our expedition remained in the capital of Ladak from August 26 to September 19, 1925, except for several days spent on a journey to the famous Hemis Monastery and other places of interest round the town. Much of the time during this stay was occupied by preparations for the next difficult portion of the journey across the great mountain route to Chinese Turkestan. We had to dismiss all our Kashmiri servants, who were quite unsuitable for a hard mountain journey, and engaged new, experienced men. The problem of transport also gave much anxiety, for it was imperative to get reliable caravan men and good animals. Most of the caravans which reached Leh had very poor animals requiring several weeks of recuperation.
+
+After some search and lengthy consultations with the British aqsaqal of Leh, we signed an agreement with Nazar Bai, a Karghalik caravan man, who possessed thirty-six pack horses in good condition. He had come in July and his drove of horses had been grazing for two months in a garden outside Leh. We needed in all seventy-six pack animals to carry the expedition’s baggage, and there still remained thirty horses to be found in addition to those we already had.
+
+Every day we went round the *serais* or resthouses for Yarkend traders, inquiring for new arrivals or starting caravans. Finally we succeeded in finding the required thirty pack horses, belonging to an Afghan trader, Omar Khan, a resident of Yarkend. His horses had come only recently from the passes and were in poor condition, but the owner promised to feed them well the remaining three weeks and to have them fit by the date of departure. We had to agree, for this was the only solution of our transport problem. On such a difficult and deserted route as the Karakorum trade route, it is always advisable to make use of hired transport and not to risk a caravan of purchased animals. The difficulties of this mountain route, its rarefied atmospheres and absolute barrenness, and the great percentage of caravan animals that perish yearly, make traveling very expensive. The prices for one pack horse range from sixty rupees to eighty rupees from Leh to Yarkend or Khotan. We fixed the price of one horse at seventy-six rupees, with the obligation of carrying the expedition’s baggage in twenty-four days from Leh to Khotan.
+
+21 KASHMIR-LADAK
+
+The caravan men were sturdy Turkis from Karghalik and Khotan, in large chapans or coats, soft leather boots or charuq, and large oval fur caps protecting the wearer from the bitter winds and gales of the highlands. It was strange to hear the strongly guttural sounds of the eastern Turki, so different from the soft Urdu of India and the fluent speech of Lhasa Tibetans. Some of the men knew a little Chinese, and our Chinese interpreter was able to make some sort of conversation with them.
+
+Once the transport problem had been settled, we had more time to inspect the interesting locality of Leh and its vicinity.
+
+The modern city of Leh is situated at the junction of several important central Asian caravan routes, hence its importance for the history of the Indian border country. At least three long and difficult routes connect Leh with Lhasa, the capital of Tibet proper. The first of them crosses the Tibetan uplands and passes north of the great lakes; Ngan-tse tsho, Chyaring tsho (Kya-ring tsho), and Nam tsho, the Tengri-nor of our maps. It joins the great Mongolia-Lhasa route in the important frontier center of Nag-chu dzong (a Tibetan dzong is the administrative center of a district and not a fortress, as is often recorded).
+
+The second of the three routes crosses the Tibetan upland to the holy Kailasa Range and strikes south of the Great Lakes: Dangra yum-tsho, Ngan-tse, and Tengri-nor. Travelers by this route travel direct to Lhasa across the high pass of Go-ring La in the Nyen-chen Thang La Range.
+
+The third route follows the course of the Brahmaputra and passes through Saga dzong, north of the river. From here it strikes either along the bank of the Brahmaputra to Lhartse dzong, or crosses the river and passes through Tingri on the Nepal border. In both cases the route runs through Shigatse to Lhasa. This last route is used by most of the Ladaki traders traveling to Lhasa and by the Embassy from the Maharaja of Kashmir to the Court of Lhasa.
+
+The Karakorum route, aptly called the highest trade route in the world, connects Leh with distant China and the oases of Chinese Turkestan. Traders from Yarkend, Kashgar, and Khotan, the principal oases of southwestern Chinese Turkestan, follow it on their way to India. From Leh the central Asian caravans travel to Kashmir across the Zoji La, or through Zangskar, Lahul, the valley of Kulu and the native states of Mandi to Hoshiarpur and Amritsar, the two great emporiums of Punjab. This Turkestan trade route has increased greatly in importance during the last ten years, and the Government of India has
+
+22 TRAILS TO INMOST ASIA
+
+facilitated by several measures the passage of trading caravans over Indian territory. With the closing of the Russian frontier and the recent txnrest and civil war in western China, the Turkestan trade turned southward to India, and we found the route alive with caravan parties which were braving the icy winds and frequent avalanches on the mountain crests.
+
+Such a favorable situation makes Leh an exceedingly interesting place for archaeological and ethnographical research. The two principal bazaars of the town are thronged by a multicolored crowd, among which the neatly attired Turkestan Turks are prominent. Huge bales of merchandise, containing Turkestan felts or nimdah, which come from Khotan, Guma, and Yarkend and command good prices on Indian markets, stand in front of the open shops. Some of these felts are very decorative in design and, as products, arc much superior to similar felts made by the Mongols or even the Chinese. In camp they are indispensable, for they serve as floor covering for tents and as bedding for the personnel of the caravans. Quite recently the export of these felts from Turkestan to India greatly increased, and this reacted favorably on the ancient industry.
+
+The Tibetan nomads of the north bring the soft Tibetan wool out of which Kashmiri artisans make their beautiful pashmina shawls.
+
+The caravans from Turkestan arrive usually in July and August and start on their return journey in October or even November, before the snow has closed the passes for the winter. The merchandise brought to Leh and Kashmir consists chiefly of Turkestan felts, Chinese and Khotanese silks, furs, wool, and leather products such as the Turkestan top boots and charuqs, valued so highly by the Ladaki caravan men. A considerable trade is done in horses, and Yarkend caravans usually bring with them a good number of riding horses which they drive unloaded across the passes. The hardy and swift Turkestan horse is greatly appreciated in Kashmir and the plains of India, which have never produced a country horse of its own.
+
+The returning caravans carry loads of European-made goods: products of Manchester looms and Bradford woolen mills, British and German dyestuffs, various articles of haberdashery, and Indian products and spices, such as saffron, which is exported in great quantities from Kashmir to Turkestan and Tibet.
+
+All this motley crowd of visitors moves, shouts, and gesticulates in the narrow streets and bazaars of Leh. Sitting on the verandah of the
+
+23 KASHMIR-LADAK
+
+dak bungalow one constantly hears the pleasant bells of passing caravans and the songs of the Ladaki women and men carrying grass from the fields. At times this continuous flow of men and beasts will suddenly be interrupted by the trampling of a drove of horses driven by mounted herdsmen.
+
+In some corners of the bazaars, or in the vicinity of Lamaist temples, one meets red-clad lamas who have traveled hundreds of miles from inner Tibet, selling holy relics and talismans. Curiously enough I have seen Buddhist talismans or srung-wa on Turki caravan men from Karghalik who seemed to be quite convinced of their potency. The black and blue turbaned Baltis are very prominent in the streets of Leh and usually find employment as coolies or caravan men, carrying heavy loads. Occasionally one meets the quaint figures of the Mons, preservers of the ancient Ladaki lore and probably an ethnic remnant of a primitive population, which has been submerged by subsequent waves of foreign migrations.
+
+During our stay in Leh, we made the acquaintance of the son of the Ladaki aqsaqal of Lhasa, a young fellow of considerable acumen, who was on a summer visit to Leh. The goods that he brought consisted of brick tea, Tibetan cloth puru, lama boots manufactured at Dre-pung, and other objects of the Lamaist cult. He even had several Tibetan xylographs for sale, prominent among which was the life story or namthar of Je-tsiin Milarepa, Tibet’s great ascetic and poet of the eleventh century A.D.
+
+Wandering through the streets of Leh, one feels the beating pulse of the great Asia that lies hidden behind the veil of a superficial modernization.
+
+The native Ladaki population is chiefly agricultural, and numerous farmsteads and villages lie along the Indus Valley and the vast sandy plain on which Leh is situated. In this mountainous country agriculture is possible only in the river valleys and is seldom carried on above an altitude of 12,000 feet. The scarcity of arable land, mostly represented by fluvial fans and river terraces, has limited the agricultural population to a few river valleys.
+
+Leh, which is sometimes spelled sLel or sLes, became the permanent residence of the kings of Ladak from the time of the reign of King ’Bum-lde (fifteenth century a.d.). The antiquities of Leh consist of payees, stupas, and temples, stone carved images, and ancient graves. 
+
+When one approaches the town of Leh, one perceives from afar the
+
+24 TRAILS TO INMOST ASIA
+
+towering white mass of its great palace, erected about 1620 A.D. by King Seng'ge mam-rgyal, one of the greatest builders of Ladak; he was assisted in his work by the Lama sTag-tshang ras-chen, whom he invited to his court. (17) The palace dominates the city, and the houses that cluster round it seem like stone steps leading toward an imposing edifice or altar. The Leh Palace is said to have been built on the model of the great Potala Palace of Lhasa, and indeed there is a slight resemblance, between these two monuments of the Tibetan past. We had the good fortune of passing several days at the Palace of Leh through the courtesy of the present Raja of Ladak.
+
+A broad road, on either side of which rise low walls of unhewn stones, leads to the famous Lion Gate of the King’s Palace. Painted wooden columns support the roof of the entrance. A large stone stairway leads to the upper rooms of the Palace. It is in a very dilapidated condition and some of the stones forming the steps have rolled down. One has to advance carefully, testing the firmness of the stones. Our servants called it "Sasseri,” comparing the stairway to the difficult mountain trail leading toward the Sasser Pass on the Karakorum route. To the right and left of the stairway gape dark holes in the walls — former doors leading to the storerooms or servant quarters. After one has climbed to the upper floor, a flash of bright light suddenly pierces the darkness of the corridor — it is a side window without a wooden frame or glass, just a square hole in the wall; climbing the stairway in complete darkness at night one has to be very careful not to fall out of this window. A little farther on, one enters a vast hall with an earthen floor. Round the walls stretches a kind of portico supported by wooden columns, painted in bright colors and carved. The walls are adorned with numerous images of the green Tara. From here a few stone steps lead to the next floor, where the living quarters are situated. These are typical Tibetan rooms with wooden frames in the large square windows and carved columns that support the ceiling. The doors are massive, with huge iron keys and iron plaques that serve as ornaments. From one of the rooms a passage leads to the roof of the Palace, from which opens a unique view of the city lying at the foot of the Palace, the snowy peaks of the mountain range on the southern side of the Indus Valley, and the wind-swept ridge of the Khardong La over which hover light clouds, the messengers of approaching storm.
+
+17\. For a history of this king of Ladak, sec Dr. Francke, *A History of Western Tibet*, pp. 96 ff.
+
+ROYAL PALACE OF LEH 
+
+Painting by Nicholas Roerich
+
+*Roerich Museum, New York*
+
+IMAGE OF THE GODDESS DUG-KAR
+
+IN THE ZANGSKAR MONASTERY AT LEH
+
+STONE IMAGE OF MAITREYA
+
+AT MULBE, LADAK
+
+25 KASHMIR-LADAK
+
+At sunset, the whole of the sandy plain and the sand rock mountains that rise on either side of it light up with an intense glow. The town below plunges into a deep violet mist and the rows of white stupas on the plain sparkle like necklaces of precious stones. During this hour the Ladaki men and women tell their evening prayers, and incense smoke rises slowly above every house on the plain. It is during this hour of peace and prayer that the visitor to the capital of the little kingdom begins to understand the intrinsic beauty of the country and the irresistible force of attraction it exercises on its sons.
+
+From the roof of the Palace one descends by another stairway to the small royal chapel of the Palace. An officiating priest guards the sacred images and lights the offering lamps of the altar. The principal figure is that of Dug-kar, the Saviouress. The figure is the work of a Ladak artist, who has acquitted himself of his task with considerable success. The thousand-armed goddess holds numerous symbols that reveal to the devotee the omnipotent nature of the deity. Round the walls of the small chapel hang numerous banners, some of which seem to be old and are extremely interesting on account of their style. As Ladak is situated at the junction of several highways of Asia, its art and culture bear an imprint of cosmopolitanism. Some of the painted banners evince a decisive Indo-Persian style, and many of the details seem to be taken from a Mogul miniature. Others again strongly remind one of the great pictorial compositions of Chinese Turkestan. We spent considerable time studying the many painted banners under the flickering light of a candle, for it seemed a profanation to disturb the somber chapel with the bright and sharp light of a flashlight.
+
+Unfortunately the Palace was not the ideal quarter for an expedition with hundreds of cases and bales, which need packing and distribution into pony loads. After several days spent in the fantastic surroundings of the ancient abode of Ladaki kings, we were obliged to return to our former headquarters at the dak bungalow, where we had plenty of space to arrange the pony loads and keep our saddle horses.
+
+The oldest palace of Leh is situated on the steep rock rNam-rgyal rtse-mo behind the town, and is said to have been erected by King bKra-shis rnam-rgyal (*ca*. 1520 A.D.). Now only ruins remain of this ancient structure, and some of its walls have been used for the construction of the present monastery on the hill.
+
+Below the hill lies the small hamlet of Chubi, which was founded by the same bKra-shis rnam-rgyal.
+
+26 TRAILS TO INMOST ASIA
+
+The present Raja of Ladak dwells in his summer residence at sTog. He receives a small annual pension and leads a retired life. He seldom visits the town and resides in his great town palace only during the New Year feftivities. His aged father has embraced monkhood and devotes his life to religious work. He is a serene and dignified gentleman, learned in the sacred lore of his country. When he paces down the streets of Leh on his rare visits to the town, many of the people throw themselves down before him and thus greet the scion of the ancient house of Kesar.
+
+The temples and monasteries of Leh are prominent features of the town itself and its neighborhood. The oldest temple is situated on the rNam-rgyal rtse-mo Hill and is dedicated to Maitreya. According to tradition it was built by King ’Bum-lde.*® On the same hill is foimd the interesting temple called mGon-khang and dedicated to the Lords or Dharmapalas of the Four Quarters. It was erected by King bKra-shis rnam-rgyal, the builder of the Palace on the same hill, and of the hamlet Chubi. The temple contains frescoes whose importance is enhanced by the fact that their dates may be given. In the history of Tibetan pictorial art we are sadly lacking in definite dates to fix the different periods of the artistic evolution of the country. We speak of the different foreign influences which affected the art of Tibet, but are unable to place them in time. Therefore it is always gratifying to find frescoes or paintings which can be definitely dated. I hope to devote a separate work to the wall paintings found in Tibetan monasteries; like everything in Ladak, they evince a strong composite nature, and the artist or artists who executed them were inspired not only by the canonical art of Tibet but were also strongly influenced by the secular art of neighboring countries. Very striking is the fresco representing the family of Ladak kings. The men are attired in Mogul fashion, but the queens are depicted wearing the national Ladak dress. The fresco shows the duality that still exists in the culture of present-day Ladak.
+
+Below the royal palace of Seng-ge rnam-rgyal stand two temples — one consecrated to the future Buddha Maitreya, the other to Avalokitesvara, the Divine Patron of Tibet. The temple or lha-\hang of Maitreya, 
 besides containing a huge image of the Future Buddha, has old and in- 
 teresting frescoes. One of them represents the Meditative or Dhyani- 
 Buddhas wearing the princely attire of bodhisattvas. Close to these 
@@ -1578,9 +1066,9 @@ region — ^mostly brachycephalic indexes, some showing a transitional
 type; the agricultural population of the Brahmaputra Valley and south- 
 eastern Tibet — ^mostly brachycephalic indexes. It is clear from the above 
 
-19. Pelliot: Chritiens d'Asie Centrale et d'Extreme Orient. T'oung Pao., XV, 636. 
+1.  Pelliot: Chritiens d'Asie Centrale et d'Extreme Orient. T'oung Pao., XV, 636. 
 
-20. Ibid., I, 68 II. 
+2.  Ibid., I, 68 II. 
 
 
 
