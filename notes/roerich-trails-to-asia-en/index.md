@@ -1161,1441 +1161,391 @@ October 6. We continued our march down the Karakash River. The country suddenly 
 
 On our seventh mile, we came across numerous caves cut in the mountain side. They were said to be used by the local Kirghiz as winter quarters and storerooms. They strikingly resembled the Buddhist cave monasteries of Chinese Turkestan.
 
-A heavy stone trail led to the foot of the Sanju Pass. The river gorge 
-narrowed considerably, the trail running along the river for some dis- 
-tance and then turning into a side valley. At the head of this valley lay 
-a small inclosed spot covered by colossal bowlders and detritus — ^the 
-foot of the Sanju Pass. We pitched our tents as best we could, but had 
-to spend the night head downward. In the evening a storm brought a 
-light, wet snow on the pass^ which drifted about our tents. The yaks 
-which had to carry our baggage across the pass arrived late at night and 
-their black mass almost smashed our camp. Their Kirghiz drivers were 
-unaware of its exact situation, and drove the herd of pack yaks straight 
-into it, tearing tent ropes and tents. We all had to protect our tents from 
-the advancing beasts which, frightened, dashed through the camp and 
-had to be caught on the mountain side. 
+A heavy stone trail led to the foot of the Sanju Pass. The river gorge narrowed considerably, the trail running along the river for some dis- tance and then turning into a side valley. At the head of this valley lay a small inclosed spot covered by colossal bowlders and detritus — the foot of the Sanju Pass. We pitched our tents as best we could, but had to spend the night head downward. In the evening a storm brought a light, wet snow on the pass^ which drifted about our tents. The yaks which had to carry our baggage across the pass arrived late at night and their black mass almost smashed our camp. Their Kirghiz drivers were unaware of its exact situation, and drove the herd of pack yaks straight into it, tearing tent ropes and tents. We all had to protect our tents from the advancing beasts which, frightened, dashed through the camp and had to be caught on the mountain side.
 
-October 7. The empty pack horses left the camp before dawn, in or- 
-der to cross the pass before the yak caravan. They were followed by our 
-party, which also rode on yaks. The ascent to the pass was very steep 
-and in several places the trail was covered by a thin crust of slippery 
-ice. The trail went by a zigzag route. In winter the pass must be ter- 
-rible, for snow and stone avalanches sweep down its steep, jagged slope. 
-It took fully three hours to reach the summit. The trail passed amid 
-sharp rocky crags, and at the very summit there was a broad and deep 
-crevasse, over which the animals had to jump. At this place, one of our 
-followers fell from his yak and bruised his leg. 
+October 7. The empty pack horses left the camp before dawn, in or- der to cross the pass before the yak caravan. They were followed by our party, which also rode on yaks. The ascent to the pass was very steep and in several places the trail was covered by a thin crust of slippery ice. The trail went by a zigzag route. In winter the pass must be ter- rible, for snow and stone avalanches sweep down its steep, jagged slope. It took fully three hours to reach the summit. The trail passed amid sharp rocky crags, and at the very summit there was a broad and deep crevasse, over which the animals had to jump. At this place, one of our followers fell from his yak and bruised his leg.
 
-The descent was gradual and led into a broad valley girded by grass- 
-covered rolling hills. This was a typical nomad highland, here and 
+The descent was gradual and led into a broad valley girded by grass- covered rolling hills. This was a typical nomad highland, here and
 
 50 TRAILS TO INMOST ASIA
 
-there covered by Kirghiz qishlaq or winter quarters. We were now 
-accompanied by the local Kirghiz headman, a brave looking man of 
-about forty, with his match-lock and large fur cap. We continued our 
-journey along the mountain rivulet and soon came across a large Kir- 
-ghiz encampment. The white and light gray felt tents of the Kirghiz 
-looked very inviting and a large crowd of people awaited our arrival. 
-We camped outside the ail and wandered about the tents of the 
-nomads. They were extremely friendly and offered us juicy melons — 
-the first melons that we had seen for years. The women and children 
-were neatly dressed, and the interiors of the felt tents were artfully 
-decorated with carpets and embroidery. Some had large, profusely 
-decorated coffers brought from Andijan. The well-being of the local 
-nomads struck us at once. The Sanju Kirghiz seemed to be much supe- 
-rior to their brothers of the Mongolian Altai and the mountain regions 
-of Jungaria. 
+there covered by Kirghiz qishlaq or winter quarters. We were now accompanied by the local Kirghiz headman, a brave looking man of about forty, with his match-lock and large fur cap. We continued our journey along the mountain rivulet and soon came across a large Kirghiz encampment. The white and light gray felt tents of the Kirghiz looked very inviting and a large crowd of people awaited our arrival. We camped outside the ail and wandered about the tents of the nomads. They were extremely friendly and offered us juicy melons — the first melons that we had seen for years. The women and children were neatly dressed, and the interiors of the felt tents were artfully decorated with carpets and embroidery. Some had large, profusely decorated coffers brought from Andijan. The well-being of the local nomads struck us at once. The Sanju Kirghiz seemed to be much supe- rior to their brothers of the Mongolian Altai and the mountain regions of Jungaria.
 
-The mountain side was alive with cattle and horsemen who came 
-and went, carrying the news of the arrival of strangers. Kirghiz women 
-collected round Mrs. Roerich and wondered at her costume. It was a 
-kindly crowd and the high white headdresses shook in amazement at 
-the camping outfit of the expedition. The local Kirghiz breed mostly 
-yaks and sheep; horses are raised only in insignificant numbers, and 
-camels are only rarely met with. All the camels which we saw grazing 
-on the mountain slopes belonged to wealthy Yarkend or Khotan 
-traders. 
+The mountain side was alive with cattle and horsemen who came and went, carrying the news of the arrival of strangers. Kirghiz women collected round Mrs. Roerich and wondered at her costume. It was a kindly crowd and the high white headdresses shook in amazement at the camping outfit of the expedition. The local Kirghiz breed mostly yaks and sheep; horses are raised only in insignificant numbers, and camels are only rarely met with. All the camels which we saw grazing on the mountain slopes belonged to wealthy Yarkend or Khotan traders.
 
-October 8. The trail followed a stream, the Sanju-su according to 
-its local name. It crossed the river several times and was used only in 
-winter or late autumn. In summer, when the river is flooded and carries 
-a considerable volume of water, another route is used, which follows 
-the crest of the ridge west of the river valley, crossing a low pass and 
-necessitating much climbing. The route along the valley was easy and 
-led in a gradual descent to the Oasis of Sanju. 
+October 8. The trail followed a stream, the Sanju-su according to its local name. It crossed the river several times and was used only in winter or late autumn. In summer, when the river is flooded and carries a considerable volume of water, another route is used, which follows the crest of the ridge west of the river valley, crossing a low pass and necessitating much climbing. The route along the valley was easy and led in a gradual descent to the Oasis of Sanju.
 
-On our way we met several camel caravans slowly moving up the 
-trail on their hard and long journey into the heart of the mountains. 
-After six hours’ march along the dusty trail, we camped close to a 
-lonely tent of a Kirghiz family. The owner brought us some milk and 
-raisins and tried to do what he could to assist us. Willow bushes grew 
-along the banks and a large drove of horses wandered on the green 
-patches of grass at the foot of the hills. To the north a dusty haze hid 
-the plains of Turkestan, the country of the “six cities” or Altyn-shahr. 
+On our way we met several camel caravans slowly moving up the trail on their hard and long journey into the heart of the mountains. After six hours’ march along the dusty trail, we camped close to a lonely tent of a Kirghiz family. The owner brought us some milk and raisins and tried to do what he could to assist us. Willow bushes grew along the banks and a large drove of horses wandered on the green patches of grass at the foot of the hills. To the north a dusty haze hid the plains of Turkestan, the country of the “six cities” or Altyn-shahr.
 
 51 FROM LEH TO KHOTAN 
 
-The local Kirghiz population was under the jurisdiction of the dis- 
-trict officer of Guma. A customs official to supervise the trade along the 
-Sanju route was stationed at Sanju Bazaar, the most populated point of 
-the Sanju Oasis. These were the only Chinese officials in the district and 
-all important matters were usually referred to the district officer at 
-Gvima, who was subordinate to the Governor or Tao-yin of Khotan, a 
-post created only recently. 
+The local Kirghiz population was under the jurisdiction of the dis- trict officer of Guma. A customs official to supervise the trade along the Sanju route was stationed at Sanju Bazaar, the most populated point of the Sanju Oasis. These were the only Chinese officials in the district and all important matters were usually referred to the district officer at Gvima, who was subordinate to the Governor or Tao-yin of Khotan, a post created only recently.
 
-The two Kirghiz who accompanied us proved to be quite decent fel- 
-lows who tried their best to procure fuel and fodder for the caravan. 
-We questioned local inhabitants about possible old ruined sites or l{pne- 
-shahr in the vicinity of the mountains, caves or ancient tombs or 
-mazars. All of us had heard about the ruined cities of the Taklamakan 
-and the rich finds of Sir Aurel Stein around Khotan and east of this 
-oasis. Nothing was known to exist in the mountains north of the Sanju 
-Pass and the only antiquities were Chinese copper coins imported from 
-down country. 
+The two Kirghiz who accompanied us proved to be quite decent fel- lows who tried their best to procure fuel and fodder for the caravan. We questioned local inhabitants about possible old ruined sites or l{pne- shahr in the vicinity of the mountains, caves or ancient tombs or mazars. All of us had heard about the ruined cities of the Taklamakan and the rich finds of Sir Aurel Stein around Khotan and east of this oasis. Nothing was known to exist in the mountains north of the Sanju Pass and the only antiquities were Chinese copper coins imported from down country.
 
-October 9. On the ninth of October we reached the first village of 
-the Sanju Oasis and with it the desert country of Turkestan. The river 
-gorge widened and the high rugged mountains on either side of it be- 
-came low undulating hills that stretched far to the north. The open 
-northern horizon was screened by the everlasting dust haze. We turned 
-southward toward the jagged peaks and bade a last farewell to the 
-kingdom of mountains. There they stood, sparkling snows and dark 
-rock masses enveloped by the same dusty veil. 
+October 9. On the ninth of October we reached the first village of the Sanju Oasis and with it the desert country of Turkestan. The river gorge widened and the high rugged mountains on either side of it be- came low undulating hills that stretched far to the north. The open northern horizon was screened by the everlasting dust haze. We turned southward toward the jagged peaks and bade a last farewell to the kingdom of mountains. There they stood, sparkling snows and dark rock masses enveloped by the same dusty veil.
 
-With the approach to the oasis, it became decidedly hotter, and our 
-sturdy Ladakis threw off their heavy sheepskins to the waist. As if sens- 
-ing an oasis ahead, men and animals moved hurriedly along the dusty 
-loess-covered trail. Suddenly in the distance something dark showed — 
-hazy spots that appeared and disappeared in the trembling air of the 
-desert. Were they trees or bushes } Our Ladakis, who marched ahead of 
-us, shouted loudly “Ja-pa, ja-pa!" “Poplars, poplars!” They were indeed 
-poplars, a whole grove of them at the roadside. 
+With the approach to the oasis, it became decidedly hotter, and our sturdy Ladakis threw off their heavy sheepskins to the waist. As if sens- ing an oasis ahead, men and animals moved hurriedly along the dusty loess-covered trail. Suddenly in the distance something dark showed — hazy spots that appeared and disappeared in the trembling air of the desert. Were they trees or bushes } Our Ladakis, who marched ahead of us, shouted loudly “Ja-pa, ja-pa!" “Poplars, poplars!” They were indeed poplars, a whole grove of them at the roadside.
 
-Before reaching the grove, we passed a huge bowlder. Curious graffiti 
-on its surface attracted our attention. To our great surprise, we saw 
-represented on the stone, ibexes, bowmen, and circles of dancing men — 
-the same figures as appear on stones from Khalatse and other places of 
-western Tibet. Dr. A. H. Francke has demonstrated their ritual use 
-and connection with the ancient primitive nature worship of Tibet. It 
-is difficult to estimate the precise date of these graffiti, for they are made 
+Before reaching the grove, we passed a huge bowlder. Curious graffiti on its surface attracted our attention. To our great surprise, we saw represented on the stone, ibexes, bowmen, and circles of dancing men — the same figures as appear on stones from Khalatse and other places of western Tibet. Dr. A. H. Francke has demonstrated their ritual use and connection with the ancient primitive nature worship of Tibet. It is difficult to estimate the precise date of these graffiti, for they are made
 
 52 TRAILS TO INMOST ASIA
 
-even nowadays. They seem to be fairly widely spread all over western 
-Tibet and the neighboring mountain regions — ^perhaps the work of 
-passing caravans or the ruins of a remote antiquity. The surface of the 
-stone was weathered and the drawings seemed to be old. The Ladakis 
-knew nothing of this particular stone; although many of them had 
-traveled by this route before, they had never noticed it previously. They 
-told us that similar stones with graffiti were fovind throughout Tibet. 
-It is interesting to note that the ibexes were venerated by the ancient 
-Mongols and played a prominent part in their fire cult.* These stones, 
-scattered throughout inner Asia, seem to be remnants of a remote an- 
-tiquity, dating back to a shamanistic form of worship which was uni- 
-versal in the higher regions of Asia. 
+even nowadays. They seem to be fairly widely spread all over western Tibet and the neighboring mountain regions — ^perhaps the work of passing caravans or the ruins of a remote antiquity. The surface of the stone was weathered and the drawings seemed to be old. The Ladakis knew nothing of this particular stone; although many of them had traveled by this route before, they had never noticed it previously. They told us that similar stones with graffiti were fovind throughout Tibet. It is interesting to note that the ibexes were venerated by the ancient Mongols and played a prominent part in their fire cult.* These stones, scattered throughout inner Asia, seem to be remnants of a remote an- tiquity, dating back to a shamanistic form of worship which was uni- versal in the higher regions of Asia.
 
-We were about to halt, when we noticed several horsemen galloping 
-toward us. They proved to be Sanju headmen and a darogha or yoryeh, 
-a messenger sent by the magistrate of Guma. They all dismounted and, 
-striking their beards in the approved fashion of Turkestan, congratu- 
-lated us on our successful arrival. They begged us to ride up to the next 
-poplar grove, where they prepared a dastarXftan or feast for us. On 
-finely designed ntmdah or felts, quantities of fruit and other food were 
-spread — all that the country produced. From afar the fruits seemed like 
-a nature morte painted by some French Impressionist. Heaps of melons 
-and apricots, juicy pears, red and blue tinted eggs, roast chicken, and 
-mutton. Turkestan bread, and tea were also ready. We were obliged, 
-according to custom, to partake of the food, and the grave headmen, in 
-their dark blue and green chapans, formed a semicircle before us. The 
-darogha handed us the large red visiting card of the Guma amhan. 
-His master had ordered him to accompany the expedition to Khotan 
-and to see that We should be properly received by all local authorities 
-along the southern caravan route. This darogha was a soldier of the 
-local garrison, a Turki by nationality, with the old-fashioned uniform 
-of the Chinese imperial troops — a broad black blouse with huge red 
-characters: on his chest *'Hsin-chiang seng” or the “New Dominion,” 
-and on the back, “Guma.” 
+We were about to halt, when we noticed several horsemen galloping toward us. They proved to be Sanju headmen and a darogha or yoryeh, a messenger sent by the magistrate of Guma. They all dismounted and, striking their beards in the approved fashion of Turkestan, congratu- lated us on our successful arrival. They begged us to ride up to the next poplar grove, where they prepared a dastarXftan or feast for us. On finely designed ntmdah or felts, quantities of fruit and other food were spread — all that the country produced. From afar the fruits seemed like a nature morte painted by some French Impressionist. Heaps of melons and apricots, juicy pears, red and blue tinted eggs, roast chicken, and mutton. Turkestan bread, and tea were also ready. We were obliged, according to custom, to partake of the food, and the grave headmen, in their dark blue and green chapans, formed a semicircle before us. The darogha handed us the large red visiting card of the Guma amhan. His master had ordered him to accompany the expedition to Khotan and to see that We should be properly received by all local authorities along the southern caravan route. This darogha was a soldier of the local garrison, a Turki by nationality, with the old-fashioned uniform of the Chinese imperial troops — a broad black blouse with huge red characters: on his chest *'Hsin-chiang seng” or the “New Dominion,” and on the back, “Guma.”
 
-After an hour’s halt, we continued our march down the gradually 
-sloping valley. Poplar and apricot groves were ever5rwhere. Barley and 
-cornfields covered the open plains. Numerous irrigation ditches car- 
-ried the water to the fields, and the whole landscape presented a scene 
-of a thriving agricultural oasis. The first village was situated in a heavy 
+After an hour’s halt, we continued our march down the gradually sloping valley. Poplar and apricot groves were ever5rwhere. Barley and cornfields covered the open plains. Numerous irrigation ditches car- ried the water to the fields, and the whole landscape presented a scene of a thriving agricultural oasis. The first village was situated in a heavy
 
 I. Poppe, Zum Fetter kjdtus bei den Mongolen, Asia Major, II, 135 ff. 
 
 53 FROM LEH TO KHOTAN
 
-grove of poplars, willows, and fruit trees. A neat and gaily dressed 
-crowd of women and men awaited our arrival. A large and shady bagh 
-or garden was reserved for our camp. We pitched our tents under the 
-shady trees, and for the first time in several weeks walked over soft, 
-grassy soil. An inquisitive crowd of villagers moved about the tents, but 
-with dignity, and no one ventured to look inside. We presented the 
-friendly headman with a wrist watch and the old man beamed with 
-satisfaction. He at once reciprocated by sending us huge watermelons, 
-peaches, and pears. 
+grove of poplars, willows, and fruit trees. A neat and gaily dressed crowd of women and men awaited our arrival. A large and shady bagh or garden was reserved for our camp. We pitched our tents under the shady trees, and for the first time in several weeks walked over soft, grassy soil. An inquisitive crowd of villagers moved about the tents, but with dignity, and no one ventured to look inside. We presented the friendly headman with a wrist watch and the old man beamed with satisfaction. He at once reciprocated by sending us huge watermelons, peaches, and pears.
 
-October io. Next morning we marched off, across a thickly popu- 
-lated country. The river flowed in several channels that had cut broad 
-and deep courses in the soft loess of the country. Along these water 
-channels was a dense population and cultivated Helds and orchards. 
-Above the river were low hilly spurs that stretched into the immensity 
-of the desert region, north of the oasis. 
+October 10. Next morning we marched off, across a thickly populated country. The river flowed in several channels that had cut broad and deep courses in the soft loess of the country. Along these water channels was a dense population and cultivated Helds and orchards. Above the river were low hilly spurs that stretched into the immensity of the desert region, north of the oasis.
 
-On the ride through the shady villages we were much impressed by 
-the relative well-being of the population. There were neither Chinese 
-officials nor tradesmen in the roadside hamlets. Outside the hospitable 
-village, another dastarJ{han awaited us. This time it was offered by the 
-former Andijan aqsaqd or elder, who had lost his post on account of 
-political changes in his native country. His peaches were luscious and 
-we thoroughly enjoyed the coolness of his garden house. The owner 
-himself was a tall man, cleanly dressed and of quiet, pleasing manner. 
-He told us that the Roosevelt Expedition had passed this way en route 
-for Yarkend and Kashgar. A cavalcade of begs and headmen accom- 
-panied us on our way for a considerable stretch. Our horses, after yes- 
-terday’s feast on fresh lucern and grain, had completely changed their 
-mood and pranced on the sandy road, raising clouds of suffocating 
-dust. A ride of several hours brought us to the large bazaar of Sanju. 
-This place is a large village with several Chinese shops, in which sit the 
-pale sons of the great Far Eastern country. The heat was very oppres- 
-sive and the bazaar streets were canopied with mats, that prevented the 
-sun rays from penetrating inside and darkened the streets. 
+On the ride through the shady villages we were much impressed by the relative well-being of the population. There were neither Chinese officials nor tradesmen in the roadside hamlets. Outside the hospitable village, another dastarkhhan awaited us. This time it was offered by the former Andijan aqsaqal or elder, who had lost his post on account of political changes in his native country. His peaches were luscious and we thoroughly enjoyed the coolness of his garden house. The owner himself was a tall man, cleanly dressed and of quiet, pleasing manner. He told us that the Roosevelt Expedition had passed this way en route for Yarkend and Kashgar. A cavalcade of begs and headmen accompanied us on our way for a considerable stretch. Our horses, after yesterday’s feast on fresh lucern and grain, had completely changed their mood and pranced on the sandy road, raising clouds of suffocating dust. A ride of several hours brought us to the large bazaar of Sanju. This place is a large village with several Chinese shops, in which sit the pale sons of the great Far Eastern country. The heat was very oppressive and the bazaar streets were canopied with mats, that prevented the sun rays from penetrating inside and darkened the streets.
 
-A dastar\han was offered on a square level place in the very heart of 
-the settlement. We would have preferred a garden outside the village 
-but had to accept the offered accommodations. A loud jingling of bells 
-announced the arrival of the local Chinese custom official — ^a pale 
-yovmg man in a blue silken coat and black skullcap. He dismounted 
-from a prancing iron-gray steed, seated himself in front of our tents 
+A dastarkan was offered on a square level place in the very heart of the settlement. We would have preferred a garden outside the village but had to accept the offered accommodations. A loud jingling of bells announced the arrival of the local Chinese custom official — a pale yovmg man in a blue silken coat and black skullcap. He dismounted from a prancing iron-gray steed, seated himself in front of our tents
 
 54 TRAILS TO INMOST ASIA
 
-and chatted for a considerable time, while he continuously smoked 
-cigarettes. Our Chinese interpreter, true to the old traditions of im- 
-perial China, considering him ill-mannered, whispered to me “Look at 
-his manners!” The officer inquired about our journey and strongly ad- 
-vised us to go to Kashgar first. The Tao-^ai of Kashgar, he said, was a 
-pleasant man with wide experience in European matters; Khotan was 
-indeed a wonderful place, but the new Governor Ma was a troublesome 
-man whom it was better to avoid. 
+and chatted for a considerable time, while he continuously smoked cigarettes. Our Chinese interpreter, true to the old traditions of imperial China, considering him ill-mannered, whispered to me “Look at his manners!” The officer inquired about our journey and strongly advised us to go to Kashgar first. The Tao-^ai of Kashgar, he said, was a pleasant man with wide experience in European matters; Khotan was indeed a wonderful place, but the new Governor Ma was a troublesome man whom it was better to avoid.
 
-We fully appreciated the advice of this friendly young man only 
-after our conflict with the universally feared Ma Shao-wu of Khotan. 
-The official invited us for a dinner at his yamen and took his leave. 
-Professor Roerich and Mrs. Roerich preferred the quiet of our camp 
-and I had to go alone with our interpreter, Mr. Ts’ai. The distance was 
-a very short one but our interpreter insisted that we should ride. And 
-so we rode at good speed the five hundred yards that separated our 
-camp from the poor yamen. Such is etiquette! At the dinner I ques- 
-tioned the official about possible ruined cities in the vicinity of Sanju. 
-According to him, all relics had been taken by European explorers and 
-for several years nothing had appeared on the market. We might find 
-some clay images at Zanguya, our next stage, but nothing substantial. 
-The profession of Tal(lamanchis or treasure seekers in the sands of the 
-Taklamakan Desert was becoming rare and only few people continued 
-to occupy themselves with excavations in its sandy dunes. The official 
-related the story of Dr. Le Coq’s explorations at Kashgar, where his as- 
-sistant penetrated the cave temple of Utsh-Murghan on a rope. Stories 
-about European explorers are a common topic of conversation at dinner 
-parties. It was getting late and we hurried back to our camp to make 
-preparations for tomorrow’s journey. 
+We fully appreciated the advice of this friendly young man only after our conflict with the universally feared Ma Shao-wu of Khotan. The official invited us for a dinner at his yamen and took his leave. Professor Roerich and Mrs. Roerich preferred the quiet of our camp and I had to go alone with our interpreter, Mr. Ts’ai. The distance was a very short one but our interpreter insisted that we should ride. And so we rode at good speed the five hundred yards that separated our camp from the poor yamen. Such is etiquette! At the dinner I questioned the official about possible ruined cities in the vicinity of Sanju. According to him, all relics had been taken by European explorers and for several years nothing had appeared on the market. We might find some clay images at Zanguya, our next stage, but nothing substantial. The profession of Tal(lamanchis or treasure seekers in the sands of the Taklamakan Desert was becoming rare and only few people continued to occupy themselves with excavations in its sandy dunes. The official related the story of Dr. Le Coq’s explorations at Kashgar, where his assistant penetrated the cave temple of Utsh-Murghan on a rope. Stories about European explorers are a common topic of conversation at dinner parties. It was getting late and we hurried back to our camp to make preparations for tomorrow’s journey.
 
-October ii. Soon after leaving the Sanju Bazaar we ascended a vast 
-plateau and before us opened the wide gravel expanse of the southern 
-border of the Taklamakan — ^boundless and burning hot. A well-beaten 
-track, trodden by thousands of caravan animals, led northeast. The 
-plain seemed absolutely deserted except for a lonely horseman who 
-suddenly appeared in the distance. He dismounted, fettered his horse, 
-and spread on the burning sand of the desert a white felt and some 
-melons. He proved to be a poor traveler, who thought it to be his duty 
-to welcome travelers from foreign lands. We alighted from our horses 
-and partook of his melons — z pleasant refreshment in the burning heat 
+October 11. Soon after leaving the Sanju Bazaar we ascended a vast plateau and before us opened the wide gravel expanse of the southern border of the Taklamakan — ^boundless and burning hot. A well-beaten track, trodden by thousands of caravan animals, led northeast. The plain seemed absolutely deserted except for a lonely horseman who suddenly appeared in the distance. He dismounted, fettered his horse, and spread on the burning sand of the desert a white felt and some melons. He proved to be a poor traveler, who thought it to be his duty to welcome travelers from foreign lands. We alighted from our horses and partook of his melons — z pleasant refreshment in the burning heat
 
-KIRGHIZ CIRAVE ON THE KARAKORUM ROUTE 
+KIRGHIZ CIRAVE ON THE KARAKORUM ROUTE
 
-THE TAKLAMAKAN DESERT NEAR KHOTAN 
+THE TAKLAMAKAN DESERT NEAR KHOTAN
 
-THE CHINESE CONVOY OF THE EXPEDH ION 
+THE CHINESE CONVOY OF THE EXPEDH ION
 
-TURKI HEADMEN AND CHINESE SOLDIERS 
+TURKI HEADMEN AND CHINESE SOLDIERS
 
-A VILLAGE CROWD IN CHINESE TURKESTAN 
+A VILLAGE CROWD IN CHINESE TURKESTAN
 
 55 FROM LEH TO KHOTAN
 
-of midday. In return we presented our unknown host with a hunting 
-knife. 
+of midday. In return we presented our unknown host with a hunting knife.
 
-We rode for the whole afternoon across sandy and gravel plains. A 
-faint dusty outline of low barren hills to the south, indicated the great 
-mountain system of the K’un-lun. At sunset, we reached the dusty, 
-filthy village of Zanguya. The vicinity of the great caravan highway 
-was at once noticeable. Gone were the neat village hovels of upper 
-Sanju and the clean dresses of its inhabitants. Everything was dusty at 
-Zanguya and the population seemed to be poor and scornful. A dastar- 
-\han was offered to us and we pitched our camp in a dusty fruit gar- 
-den. Omar Khan’s horses were in such bad state, that their owner had 
-to hire camels to carry our baggage to Khotan. 
+We rode for the whole afternoon across sandy and gravel plains. A faint dusty outline of low barren hills to the south, indicated the great mountain system of the K’un-lun. At sunset, we reached the dusty, filthy village of Zanguya. The vicinity of the great caravan highway was at once noticeable. Gone were the neat village hovels of upper Sanju and the clean dresses of its inhabitants. Everything was dusty at Zanguya and the population seemed to be poor and scornful. A dastarkhan was offered to us and we pitched our camp in a dusty fruit garden. Omar Khan’s horses were in such bad state, that their owner had to hire camels to carry our baggage to Khotan.
 
-October 12. The morning was a very hot one and the long and try- 
-ing march to Pialma was ahead of us. Former travelers have written 
-much about the fatigues of the desert journey to the ancient Kingdom 
-of Jade. On our way we were joined by a Chinese captain journeying 
-on leave to distant Lan-chou in Kansu. He was accompanied by only 
-one servant and his baggage was packed in huge saddlebags — ^always a 
-great nuisance in caravans, for they cause terrible sores on the horses 
-and yaks. The captain talked on different topics: of the walled-up li- 
-brary of Tun-huang, of fabulous palaces near Aksu, of General Anen- 
-kov and his Cossacks, and of Tibetan tribes near Sining-fu. Tired of 
-conversation we kept silent and our new acquaintance started to sing 
-some Chinese ballads. But what songs! Shrill, incongruous soiuids, wild 
-exclamations filled the air of the desert. Horses snorted, and my gray 
-tried persistently to get away from the howling rider. I have heard Chi- 
-nese songs and even learned to appreciate some of the religious tunes of 
-old China, but such a song was a merciless parody on the musical art of 
-the country. Even Ts’ai, the Chinese interpreter, shook his head and 
-seemed depressed. He afterward admitted that the singing captain dis- 
-gusted him. 
+October 12. The morning was a very hot one and the long and trying march to Pialma was ahead of us. Former travelers have written much about the fatigues of the desert journey to the ancient Kingdom of Jade. On our way we were joined by a Chinese captain journeying on leave to distant Lan-chou in Kansu. He was accompanied by only one servant and his baggage was packed in huge saddlebags — ^always a great nuisance in caravans, for they cause terrible sores on the horses and yaks. The captain talked on different topics: of the walled-up library of Tun-huang, of fabulous palaces near Aksu, of General Anenkov and his Cossacks, and of Tibetan tribes near Sining-fu. Tired of conversation we kept silent and our new acquaintance started to sing some Chinese ballads. But what songs! Shrill, incongruous soiuids, wild exclamations filled the air of the desert. Horses snorted, and my gray tried persistently to get away from the howling rider. I have heard Chinese songs and even learned to appreciate some of the religious tunes of old China, but such a song was a merciless parody on the musical art of the country. Even Ts’ai, the Chinese interpreter, shook his head and seemed depressed. He afterward admitted that the singing captain disgusted him.
 
-We marched for ten hours and the burning sun shone pitilessly on 
-the desert road. Late in. the evening we entered the large oasis and vil- 
-lage of Pialma and camped in a garden reserved for our use. 
+We marched for ten hours and the burning sun shone pitilessly on the desert road. Late in. the evening we entered the large oasis and village of Pialma and camped in a garden reserved for our use.
 
-Early in the morning of October 13 we left Pialma for Zawa Kur- 
-ghan. The road from Pialma to Zawa was a very heavy one and led 
-over belts of sand dimes. For the first two hours after leaving Pialma, 
-the road led over a vast gravel plain, and in the clear air of the early 
-dawn the snowy peaks of the K’un-lun were clearly visible. After this 
+Early in the morning of October 13 we left Pialma for Zawa Kurghan. The road from Pialma to Zawa was a very heavy one and led over belts of sand dimes. For the first two hours after leaving Pialma, the road led over a vast gravel plain, and in the clear air of the early dawn the snowy peaks of the K’un-lun were clearly visible. After this
 
 56 TRAILS TO INMOST ASIA
 
-brief stretch of firm road, sand dunes appeared on either side of the 
-trail and the road became difficult and tiresome for both men and cara- 
-van animals. 
+brief stretch of firm road, sand dunes appeared on either side of the trail and the road became difficult and tiresome for both men and caravan animals.
 
-We passed on the route several families of Chinese soldiers traveling 
-to Yarkend. The men were on foot with huge packs on their backs, the 
-women and children on small donkeys. 
+We passed on the route several families of Chinese soldiers traveling to Yarkend. The men were on foot with huge packs on their backs, the women and children on small donkeys.
 
-Before Zawa Kurghan we came upon patches of weathered grass and 
-traces of cultivation. While crossing the numerous dune belts, we sud- 
-denly noticed doves flying eastward. A two-mile march brought us to 
-a wonderful mazar or sanctuary on the Khotan road, known as Kaptar- 
-Mazar or the “Pigeon’s Sanctuary.” Thousands of pigeons live in 
-wooden hovels situated inside an inclosed courtyard. All of them are 
-said to be the offspring of a pair of doves which miraculously appeared 
-from the heart of Imam Shahid Padshah, who died here in a battle. 
-These pigeons are said to guide lost travelers in the desert to a consider- 
-able distance beyond the mazar. An old man served as attendant to the 
-pigeons and we bought from him several pounds of grain to give to 
-them — this is a pious act performed by all travelers along the Khotan 
-route.* 
+Before Zawa Kurghan we came upon patches of weathered grass and traces of cultivation. While crossing the numerous dune belts, we suddenly noticed doves flying eastward. A two-mile march brought us to a wonderful mazar or sanctuary on the Khotan road, known as Kaptar-Mazar or the “Pigeon’s Sanctuary.” Thousands of pigeons live in wooden hovels situated inside an inclosed courtyard. All of them are said to be the offspring of a pair of doves which miraculously appeared from the heart of Imam Shahid Padshah, who died here in a battle. These pigeons are said to guide lost travelers in the desert to a considerable distance beyond the mazar. An old man served as attendant to the pigeons and we bought from him several pounds of grain to give to them — this is a pious act performed by all travelers along the Khotan route.*
 
-Zawa Kurghan is, strictly speaking, the westernmost village of the 
-Khotan Oasis. We camped in a small garden situated behind a serai for 
-travelers. At this stage, we had the great misfortune to lose our faithful 
-Kong-po dog, Amdong. He perished from the heat in the burning des- 
-ert and the Ladaki servant brought in only a lifeless body. 
+Zawa Kurghan is, strictly speaking, the westernmost village of the Khotan Oasis. We camped in a small garden situated behind a serai for travelers. At this stage, we had the great misfortune to lose our faithful Kong-po dog, Amdong. He perished from the heat in the burning desert and the Ladaki servant brought in only a lifeless body.
 
-October 14. The road from Zawa to Khotan goes alongside arable 
-land. Everywhere are seen villages, farmsteads, and mazars. We passed 
-several bazaars with Chinese gates, surmounted by Chinese inscriptions 
-eulogizing the work of former city magistrates of Khotan. Dusty lanes 
-of poplars led to the town itself. We rode through the gate of the Chi- 
-nese city or Han-ch’eng, and at once our small party was surrounded by 
-a dense crowd of Chinese soldiers and traders, who ran after our horses 
-crying and shouting. Soldiers with red and yellow shoulder straps were 
-everywhere, and we were greatly surprised to find such a number of 
-them in the bazaars, but the Ma Ta-jen was said to be a great admirer 
-of the martial art. 
+October 14. The road from Zawa to Khotan goes alongside arable land. Everywhere are seen villages, farmsteads, and mazars. We passed several bazaars with Chinese gates, surmounted by Chinese inscriptions eulogizing the work of former city magistrates of Khotan. Dusty lanes of poplars led to the town itself. We rode through the gate of the Chinese city or Han-ch’eng, and at once our small party was surrounded by a dense crowd of Chinese soldiers and traders, who ran after our horses crying and shouting. Soldiers with red and yellow shoulder straps were everywhere, and we were greatly surprised to find such a number of them in the bazaars, but the Ma Ta-jen was said to be a great admirer of the martial art.
 
-A petty official from the yamen of the Governor met us on the way 
-and led into a dusty garden with Chinese pavilions, which once be- 
-longed to a former city magistrate who had collected a big fortune dur- 
+A petty official from the yamen of the Governor met us on the way and led into a dusty garden with Chinese pavilions, which once belonged to a former city magistrate who had collected a big fortune dur-
 
-1. Stein, Sand'buried Ruins of Khotan, pp. 179 ff. 
+1. Stein, Sand'buried Ruins of Khotan, pp. 179 ff.
 
 57 FROM LEH TO KHOTAN
 
-ing his tenure of office. The place was small and dusty, and was, more- 
-over, situated in the very center of the evil-smelling Chinese city. We 
-expressed our desire to camp in another place and were at once con- 
-ducted to the clean garden of Badruddin Khan, the Afghan aqsaqal of 
-the Indian traders and an old friend and helper of Sir Aurel Stein. The 
-old aqsaqal and his numerous family had chairs and tea arranged for 
-us, and we were glad to meet people who could tell us something about 
-the antiquities of Khotan and new sites discovered in its neighborhood. 
-Badruddin Khan had a small collection of antiquities at his home and 
-he promised to show it to us some day. 
+ing his tenure of office. The place was small and dusty, and was, moreover, situated in the very center of the evil-smelling Chinese city. We expressed our desire to camp in another place and were at once conducted to the clean garden of Badruddin Khan, the Afghan aqsaqal of the Indian traders and an old friend and helper of Sir Aurel Stein. The old aqsaqal and his numerous family had chairs and tea arranged for us, and we were glad to meet people who could tell us something about the antiquities of Khotan and new sites discovered in its neighborhood. Badruddin Khan had a small collection of antiquities at his home and he promised to show it to us some day.
 
-We camped in the garden, but a dense crowd of some three hundred 
-Chinese and Turkis hindered the pitching of the tents. Everyone came 
-to see our Tibetan mastiff, Tumbal. In order to bring the dog alive 
-across the burning desert, we had him chained in a dandy, and four of 
-our Ladakis carried the dog to the town. The entry of the black animal 
-into the Khotan bazaar, sitting erect in his dandy, created a tremendous 
-uproar among the bazaar population. Women screamed and shops 
-were closed. Everyone was certain that the foreigners had brought with 
-them a large black bear. The Governor even sent his private secretary 
-with his visiting card to inquire about the animal. A huge crowd 
-pressed from every side and neither our pack horses with baggage nor 
-our men could enter the compound. I accordingly sent our ya-yeh to the 
-officer conunanding the Khotan garrison to send two or three soldiers 
-to keep the crowd away from the garden. These duly appeared, armed 
-with old Mauser rifles, but their efforts proved vain. The crowd 
-doubled in number and new contingents of infantry soldiers were pour- 
-ing in through the narrow gate of the garden wall. Our young Ladaki 
-bashi suddenly got the brilliant idea of shouting loudly, “The dog has 
-broken its chain!” This had a magical effect. The crowd leftrthe com- 
-pound in a wild stampede. In an instant everyone was gone, even the 
-secretary of the Governor, although we wished him to stay. We tried to 
-get hold of the two soldiers who were sent by the officer commanding 
-the garrison Khotan but the men had fled with the crowd and had left 
-their rifles standing at the garden gate. 
+We camped in the garden, but a dense crowd of some three hundred Chinese and Turkis hindered the pitching of the tents. Everyone came to see our Tibetan mastiff, Tumbal. In order to bring the dog alive across the burning desert, we had him chained in a dandy, and four of our Ladakis carried the dog to the town. The entry of the black animal into the Khotan bazaar, sitting erect in his dandy, created a tremendous uproar among the bazaar population. Women screamed and shops were closed. Everyone was certain that the foreigners had brought with them a large black bear. The Governor even sent his private secretary with his visiting card to inquire about the animal. A huge crowd pressed from every side and neither our pack horses with baggage nor our men could enter the compound. I accordingly sent our ya-yeh to the officer conunanding the Khotan garrison to send two or three soldiers to keep the crowd away from the garden. These duly appeared, armed with old Mauser rifles, but their efforts proved vain. The crowd doubled in number and new contingents of infantry soldiers were pouring in through the narrow gate of the garden wall. Our young Ladaki bashi suddenly got the brilliant idea of shouting loudly, “The dog has broken its chain!” This had a magical effect. The crowd leftrthe compound in a wild stampede. In an instant everyone was gone, even the secretary of the Governor, although we wished him to stay. We tried to get hold of the two soldiers who were sent by the officer commanding the garrison Khotan but the men had fled with the crowd and had left their rifles standing at the garden gate.
 
-We had to post two of our Ladakis in order to prevent a further in- 
-trusion. Our first night in Khotan was by no means pleasant. The air 
-was sticky, and the smells that permeated the city added greatly to its 
-discomforts.
+We had to post two of our Ladakis in order to prevent a further intrusion. Our first night in Khotan was by no means pleasant. The air was sticky, and the smells that permeated the city added greatly to its discomforts.
 
 ### KHOTAN
 
-Ill
+III
 
 KHOTAN
 
-IT was difficult to realize that we had reached Khotan, the ancient 
-Kingdom of Jade, and one of the most thriving oases of the Chinese 
-Province of Hsin-chiang. The modern city with its covered bazaars 
-and dusty lanes, hides the visage of ancient Khotan, once an impor- 
-tant seat of Buddhist learning and emporium of central Asian trade. 
+IT was difficult to realize that we had reached Khotan, the ancient Kingdom of Jade, and one of the most thriving oases of the Chinese Province of Hsin-chiang. The modern city with its covered bazaars and dusty lanes, hides the visage of ancient Khotan, once an important seat of Buddhist learning and emporium of central Asian trade.
 
-In the oldest Chinese Annals, the town is known by the name of Yu- 
-t’ien. The native name was Kustana, or Ch’iu-sa-tan-na in the Chinese 
-transcription (another transcription is Ch’iu-tan). 
+In the oldest Chinese Annals, the town is known by the name of Yu-t’ien. The native name was Kustana, or Ch’iu-sa-tan-na in the Chinese transcription (another transcription is Ch’iu-tan).
 
-Sir Aurel Stein, during his several archaeological expeditions in Kho- 
-tan and its vicinity, has discovered a mass of tablets inscribed in Kha- 
-roshthi, an Indian alphabet current in the northwest of India about the 
-beginning of our era. These documents give us valuable insight into the 
-everyday life of the great trading oases along the southern caravan 
-route, connecting Khotan with distant Tun-huang and the interior of 
-China. 
+Sir Aurel Stein, during his several archaeological expeditions in Khotan and its vicinity, has discovered a mass of tablets inscribed in Kharoshthi, an Indian alphabet current in the northwest of India about the beginning of our era. These documents give us valuable insight into the everyday life of the great trading oases along the southern caravan route, connecting Khotan with distant Tun-huang and the interior of China.
 
-During the pre-Mohammedan period of central Asian history, Kho- 
-tan was inhabited by an Iranian population, which spoke an Iranian 
-dialect conditionally designated by the name of Oriental-Iranian. 
+During the pre-Mohammedan period of central Asian history, Khotan was inhabited by an Iranian population, which spoke an Iranian dialect conditionally designated by the name of Oriental-Iranian.
 
-The ancient city of Khotan and the other important oases along the 
-trade route, had large colonies of Indian merchants, carrying on a con- 
-siderable trade with northwestern India. It was probably these Indian 
-colonies that introduced the Kharoshthi alphabet. The population of 
-Khotan was Buddhist, professing the Mahayana form. Chinese pil- 
-grims, who braved the dangers of the central Asian deserts in quest of 
-knowledge from India, have left us detailed accounts of the thriving 
-state of Buddhism in the Kingdom of Khotan and the wonderful reli- 
-gious zeal of its monarchs. 
+The ancient city of Khotan and the other important oases along the trade route, had large colonies of Indian merchants, carrying on a considerable trade with northwestern India. It was probably these Indian colonies that introduced the Kharoshthi alphabet. The population of Khotan was Buddhist, professing the Mahayana form. Chinese pilgrims, who braved the dangers of the central Asian deserts in quest of knowledge from India, have left us detailed accounts of the thriving state of Buddhism in the Kingdom of Khotan and the wonderful religious zeal of its monarchs.
 
-There is little to glean from Mohammedan sources about the medie- 
-val history of Khotan. It seems to have remained Buddhist even after 
-the Mohammedan conquest of about looo a.d. The Mohammedan au- 
-thor, Gardizi, says that the people of Khotan were Buddhist but he also 
-mentions a Mohammedan cemetery, north of Khotan, and two Chris- 
+There is little to glean from Mohammedan sources about the medieval history of Khotan. It seems to have remained Buddhist even after the Mohammedan conquest of about looo a.d. The Mohammedan author, Gardizi, says that the people of Khotan were Buddhist but he also mentions a Mohammedan cemetery, north of Khotan, and two Chris-
 
 62 TRAILS TO INMOST ASIA
 
-tian churches in the town itself (neither Christian nor Manichean relics 
-have so far been discovered in Khotan). 
+tian churches in the town itself (neither Christian nor Manichean relics have so far been discovered in Khotan).
 
-Ibn-al Athir mentions Kadir Khan Yusuf, who died in 1032 a.d., as 
-the Mohammedan conqueror of Khotan. 
+Ibn-al Athir mentions Kadir Khan Yusuf, who died in 1032 a.d., as the Mohammedan conqueror of Khotan.
 
-During the period from the tenth century to the twelfth century a.d. 
-Khotan was conquered by the Ilek-khans and the Kara-Khitai. From 
-the thirteenth century the ancient kingdom owed allegiance to China 
-and continued a semi-independent existence, under the overlordship of 
-China, until the eighteenth century, when it formed part of the State 
-of the Khodjas (saints). The Khodjas were followed by the Jungar 
-Mongols, who held Khotan until 1758 a.d. when the Oi’rat power 
-crumbled under the decisive blows delivered by the Chinese imperial 
-troops. From that date, Khotan remained under Chinese control except 
-for a brief period beginning in 1863-64 when the oasis was invaded by 
-Yakub Beg. After his violent death in 1877 a.d. Khotan again accepted 
-Chinese sovereignty and has remained ever since under the overlord- 
-ship of China. Such are the outstanding historical facts in the life of the 
-famous oasis. 
+During the period from the tenth century to the twelfth century a.d. Khotan was conquered by the Ilek-khans and the Kara-Khitai. From the thirteenth century the ancient kingdom owed allegiance to China and continued a semi-independent existence, under the overlordship of China, until the eighteenth century, when it formed part of the State of the Khodjas (saints). The Khodjas were followed by the Jungar Mongols, who held Khotan until 1758 a.d. when the Oi’rat power crumbled under the decisive blows delivered by the Chinese imperial troops. From that date, Khotan remained under Chinese control except for a brief period beginning in 1863-64 when the oasis was invaded by Yakub Beg. After his violent death in 1877 a.d. Khotan again accepted Chinese sovereignty and has remained ever since under the overlordship of China. Such are the outstanding historical facts in the life of the famous oasis.
 
-The ruins of the pre-Mohammedan town lie some five miles west of 
-the modern town. Sir Aurel Stein has gathered on its site important 
-collections of small antiquities and coins. The insurmountable obstacle 
-to systematic archaeological excavations lies in the fact that the ancient 
-city is partly re-covered by a modern settlement and some Mohamme- 
-dan cemeteries, which it is impossible to disturb. 
+The ruins of the pre-Mohammedan town lie some five miles west of the modern town. Sir Aurel Stein has gathered on its site important collections of small antiquities and coins. The insurmountable obstacle to systematic archaeological excavations lies in the fact that the ancient city is partly re-covered by a modern settlement and some Mohammedan cemeteries, which it is impossible to disturb.
 
-From time to time landslides uncover terra cotta figurines and masses 
-of ancient coins, which usually fall into the hands of local treasure- 
-seekers. For the past few years the archaeological spoils have been very 
-insignificant. The local people had quickly learned to imitate terra 
-cotta figurines of stupas and even animals, and the Khotan market dis- 
-plays a good number of these spurious antiques. The profession of treas- 
-ure-seekers has almost disappeared and very few people care to visit the 
-desert tracts. 
+From time to time landslides uncover terra cotta figurines and masses of ancient coins, which usually fall into the hands of local treasureseekers. For the past few years the archaeological spoils have been very insignificant. The local people had quickly learned to imitate terra cotta figurines of stupas and even animals, and the Khotan market displays a good number of these spurious antiques. The profession of treasure-seekers has almost disappeared and very few people care to visit the desert tracts.
 
-Some of the local notables, aware of the value of genuine antiques, 
-accumulate for themselves considerable collections of smaller objects 
-with an ultimate view of selling them to wealthy foreigners. In such 
-cases the prices are usually very high and the story is told that the col- 
-lection has been registered by the Indian Archaeological Department. 
-During our stay in Khotan, the veteran Indian aqsaqcd, Badruddin 
-Khan, once the local agent of Sir Aurel Stein, showed us a considerable 
+Some of the local notables, aware of the value of genuine antiques, accumulate for themselves considerable collections of smaller objects with an ultimate view of selling them to wealthy foreigners. In such cases the prices are usually very high and the story is told that the collection has been registered by the Indian Archaeological Department. During our stay in Khotan, the veteran Indian aqsaqcd, Badruddin Khan, once the local agent of Sir Aurel Stein, showed us a considerable
 
 63 KHOTAN
 
-collection of antiquities, gathered by him and his agents at Yotkan, 
-Rawak, Niya, Mazar Imam Jafar Sadik, and distant Miran, all places 
-explored by Sir Aurel Stein. This collection comprised well-preserved 
-stucco heads of Buddhas, jars with handles adorned with human and 
-animal heads, fragments of frescoes, objects in clay, such as votive 
-stupas, offering lamps, animal figures, etc. The collection included sev- 
-eral wooden tablets inscribed in Kharoshthi, torn fragments of a text in 
-Oriental-Iranian, lists of Tibetan writings on paper from the Miran site, 
-containing mostly leave permits for soldiers of the Tibetan garrison in 
-the Miran Fort. (A curious detail is the constant use of the word dpa^ 
-for “soldier”; in the present-day language, the word has the restricted 
-sense of “hero.”) 
+collection of antiquities, gathered by him and his agents at Yotkan, Rawak, Niya, Mazar Imam Jafar Sadik, and distant Miran, all places explored by Sir Aurel Stein. This collection comprised well-preserved stucco heads of Buddhas, jars with handles adorned with human and animal heads, fragments of frescoes, objects in clay, such as votive stupas, offering lamps, animal figures, etc. The collection included several wooden tablets inscribed in Kharoshthi, torn fragments of a text in Oriental-Iranian, lists of Tibetan writings on paper from the Miran site, containing mostly leave permits for soldiers of the Tibetan garrison in the Miran Fort. (A curious detail is the constant use of the word dpa^ for “soldier”; in the present-day language, the word has the restricted sense of “hero.”)
 
-Badruddin Khan had also a large manuscript with leaves bound to- 
-gether, written in the central Asian slanting script, which was said to 
-have come from some locality situated between Aksu and Kuchar. 
+Badruddin Khan had also a large manuscript with leaves bound together, written in the central Asian slanting script, which was said to have come from some locality situated between Aksu and Kuchar.
 
-The price he asked for the whole collection was exorbitant, and not- 
-withstanding protracted negotiations we were unable to lower it. Our 
-limited supply of silver and banknotes, the diflSculty of obtaining a new 
-supply from the outside, and the subsequent difficulties with local au- 
-thorities, forced us to drop the matter. I have heard since that the col- 
-lection has been acquired by some foreign travelers who visited Khotan 
-after our departure. 
+The price he asked for the whole collection was exorbitant, and notwithstanding protracted negotiations we were unable to lower it. Our limited supply of silver and banknotes, the diflSculty of obtaining a new supply from the outside, and the subsequent difficulties with local authorities, forced us to drop the matter. I have heard since that the collection has been acquired by some foreign travelers who visited Khotan after our departure.
 
-The modern oasis of Khotan has about 150,000 inhabitants, with a 
-considerable Chinese colony of officials, their families, traders, and sol- 
-diers. The city consists of two parts, the Kone-shahr or the Old City 
-occupied by the Mohammedan population, and the Yangi-shahr or 
-New City, also called Han-ch’eng, the Walled Chinese City, built in 
-1883. Throughout its history, Khotan was an important trading center ' 
-on the ancient silk route. The fame of Khotan artisans lives to the pres- 
-ent day. Khotan silks, carpets, felts, wool, furs, and jade are still in great 
-demand, and command good prices throughout central Asia, India, 
-and distant China. Before the Revolution of 1917 considerable trade 
-was conducted with Russia through Irkeshtam. 
+The modern oasis of Khotan has about 150,000 inhabitants, with a considerable Chinese colony of officials, their families, traders, and soldiers. The city consists of two parts, the Kone-shahr or the Old City occupied by the Mohammedan population, and the Yangi-shahr or New City, also called Han-ch’eng, the Walled Chinese City, built in 1883. Throughout its history, Khotan was an important trading center ' on the ancient silk route. The fame of Khotan artisans lives to the present day. Khotan silks, carpets, felts, wool, furs, and jade are still in great demand, and command good prices throughout central Asia, India, and distant China. Before the Revolution of 1917 considerable trade was conducted with Russia through Irkeshtam.
 
-Khotan silk manufacture is the largest in the country, and Khotanese 
-silk fabrics are found in all the markets of Chinese Turkestan and a few 
-years ago were exported in considerable quantity to Russian Turkestan 
-through Kashgar and the frontier outpost of irkeshtam. Besides silk 
-fabrics, Khotan is noted for its cotton stuffs, which are exported in large 
-quantities. The Khotanese silk and cotton factories are largely worked 
+Khotan silk manufacture is the largest in the country, and Khotanese silk fabrics are found in all the markets of Chinese Turkestan and a few years ago were exported in considerable quantity to Russian Turkestan through Kashgar and the frontier outpost of irkeshtam. Besides silk fabrics, Khotan is noted for its cotton stuffs, which are exported in large quantities. The Khotanese silk and cotton factories are largely worked
 
 64 TRAILS TO INMOST ASIA
 
-by female and child labor. We knew of several big Khotan merchants 
-who owned some two hundred girls and obliged them to work in their 
-factories. A mild form of slavery is still a distinct feature of Khotanese 
-life. Parents usually have nothing against their daughters or sons being 
-sold to a family of good social standing, where they are well cared for. 
-Many have become slaves through being unable to pay their debts. The 
-usual price for a girl of fourteen is from fifteen to thirty Mexican dol- 
-lars. A child of four is often sold for a couple of dollars. Mohammedan 
-merchants pay regular visits to the Kansu Province, where they buy 
-children under the age of five and transport them to Turkestan to be 
-sold to families. During our crossing of the Kansu Province we once 
-came across a party of boys and girls, all under five, sold to a wealthy 
-Mohammedan merchant. They all were sitting in a courtyard, learning 
-to recite Mohammedan prayers. 
+by female and child labor. We knew of several big Khotan merchants who owned some two hundred girls and obliged them to work in their factories. A mild form of slavery is still a distinct feature of Khotanese life. Parents usually have nothing against their daughters or sons being sold to a family of good social standing, where they are well cared for. Many have become slaves through being unable to pay their debts. The usual price for a girl of fourteen is from fifteen to thirty Mexican dollars. A child of four is often sold for a couple of dollars. Mohammedan merchants pay regular visits to the Kansu Province, where they buy children under the age of five and transport them to Turkestan to be sold to families. During our crossing of the Kansu Province we once came across a party of boys and girls, all under five, sold to a wealthy Mohammedan merchant. They all were sitting in a courtyard, learning to recite Mohammedan prayers.
 
-Besides silk and cotton stuffs, Khotan produces a large quantity of 
-carpets. The old art of carpet weaving was lost long ago and the mod- 
-ern factories produce imitations of Chinese and old Persian carpets. 
-Khotan carpets are found throughout central Asia. The Kirghiz and 
-Torgut traders from Jungaria and Karashahr pay yearly visits to Kho- 
-tan, and carry away a considerable portion of the yearly produce in car- 
-pets, which are used in furnishing felt tents and monasteries. 
+Besides silk and cotton stuffs, Khotan produces a large quantity of carpets. The old art of carpet weaving was lost long ago and the modern factories produce imitations of Chinese and old Persian carpets. Khotan carpets are found throughout central Asia. The Kirghiz and Torgut traders from Jungaria and Karashahr pay yearly visits to Khotan, and carry away a considerable portion of the yearly produce in carpets, which are used in furnishing felt tents and monasteries.
 
-In recent years, Khotan felts have been in great demand. These felts 
-are manufactured all along the southern trade route between Yarkend 
-and Khotan, but the center of manufacture is undoubtedly Khotan. 
-These felts are often vividly colored and have a striking design. Most of 
-the trade is done with India, where the felts are in growing demand, 
-not only for Indian markets, but also for foreign markets. Khotan 
-sheepskins are valued throughout Chinese Turkestan and are com- 
-monly used as winter lining for coats and winter caps. The skins are 
-well tanned and compare favorably with the other fur-producing cen- 
-ters of Turkestan, such as Kashgar, Aksu, and Kuchar. 
+In recent years, Khotan felts have been in great demand. These felts are manufactured all along the southern trade route between Yarkend and Khotan, but the center of manufacture is undoubtedly Khotan. These felts are often vividly colored and have a striking design. Most of the trade is done with India, where the felts are in growing demand, not only for Indian markets, but also for foreign markets. Khotan sheepskins are valued throughout Chinese Turkestan and are commonly used as winter lining for coats and winter caps. The skins are well tanned and compare favorably with the other fur-producing centers of Turkestan, such as Kashgar, Aksu, and Kuchar.
 
-The present jade manufacture is very insignificant. The trade re- 
-ceived a rude shock during the rule of Ma Fu-hsin, the Ti-t'ai of Kash- 
-gar, who ordered the exportation of a number of skilled artisans from 
-Khotan for his jade works in Kashgar. 
+The present jade manufacture is very insignificant. The trade received a rude shock during the rule of Ma Fu-hsin, the Ti-t'ai of Kashgar, who ordered the exportation of a number of skilled artisans from Khotan for his jade works in Kashgar.
 
-As an agricultural center, Khotan occupies an important place. It is 
-well watered and the fertile beds of alluvial loess afford ample oppor- 
-tunity for agriculture.* 
+As an agricultural center, Khotan occupies an important place. It is well watered and the fertile beds of alluvial loess afford ample opportunity for agriculture.*
 
-I. For a detailed account of the physical aspects of the Khotan Oasis, see Sir Aurel Stein's 
-Ancient Khotan, I, 124 ff. 
+I. For a detailed account of the physical aspects of the Khotan Oasis, see Sir Aurel Stein's Ancient Khotan, I, 124 ff.
 
-65 KHOTAN 
+65 KHOTAN
 
-Wheat, corn, barley, and rice are cultivated on an extensive scale. The 
-oasis boasts of many fruit orchards, where apples, pears, apricots, 
-grapes, melons, etc., are grown. 
+Wheat, corn, barley, and rice are cultivated on an extensive scale. The oasis boasts of many fruit orchards, where apples, pears, apricots, grapes, melons, etc., are grown.
 
-The sight of modern Khotan is unattractive for one who is accus- 
-tomed to the rich coloring of the mountain tracts. For hours one rides 
-along dusty lanes, lined with poplars. On either side are half-ruined 
-clay structures — ^farm houses, mazars or tombs, roadside mosques, or 
-endless brick walls which fence off plots of waste land. The covered 
-bazaars are evil smelling and only the exceptional dryness of the cli- 
-mate prevents epidemics. The bazaar streets are narrow and are always 
-blocked by fruitstands and hawkers, who wander through the dense 
-crowd. Most of the shops are open, and the goods are displayed on the 
-stands. Many of the shops are run by women who trade in the name of 
-their husbands. 
+The sight of modern Khotan is unattractive for one who is accustomed to the rich coloring of the mountain tracts. For hours one rides along dusty lanes, lined with poplars. On either side are half-ruined clay structures — ^farm houses, mazars or tombs, roadside mosques, or endless brick walls which fence off plots of waste land. The covered bazaars are evil smelling and only the exceptional dryness of the climate prevents epidemics. The bazaar streets are narrow and are always blocked by fruitstands and hawkers, who wander through the dense crowd. Most of the shops are open, and the goods are displayed on the stands. Many of the shops are run by women who trade in the name of their husbands.
 
-During the crowded bazaar hours, it is almost impossible to ride 
-through the crowds that swarm through the streets. Caravans on 
-horses, mules, donkeys, and camels may block the way for hours, and 
-unbelievable clamor and shouts rise when two caravans collide in the 
-narrow market place. The native manner of getting through a crowd 
-is to beat one’s way through, and this method is extensively used by the 
-Chinese soldiery. Sometimes one hears a loud outcry and sees the crowd 
-flee in all directions, overturning fruitstands. A moment later one sees 
-a carriage approaching, preceded by several mounted soldiers who lash 
-the throng with their long whips. It is surprising that no one takes ob- 
-jection to the treatment, accepting it as one of the prerogatives of offi- 
-cial power. 
+During the crowded bazaar hours, it is almost impossible to ride through the crowds that swarm through the streets. Caravans on horses, mules, donkeys, and camels may block the way for hours, and unbelievable clamor and shouts rise when two caravans collide in the narrow market place. The native manner of getting through a crowd is to beat one’s way through, and this method is extensively used by the Chinese soldiery. Sometimes one hears a loud outcry and sees the crowd flee in all directions, overturning fruitstands. A moment later one sees a carriage approaching, preceded by several mounted soldiers who lash the throng with their long whips. It is surprising that no one takes objection to the treatment, accepting it as one of the prerogatives of official power.
 
-By night the bazaars are lit with oil lamps and Chinese paper lan- 
-terns, making a very colorful picture. 
+By night the bazaars are lit with oil lamps and Chinese paper lanterns, making a very colorful picture.
 
-As to the social life of Khotan, suffice it to say that the town and its 
-populace has not changed since the time of Marco Polo. The account 
-left by the great Venetian is still a true reproduction of Khotanese man- 
-ners and customs. 
+As to the social life of Khotan, suffice it to say that the town and its populace has not changed since the time of Marco Polo. The account left by the great Venetian is still a true reproduction of Khotanese manners and customs.
 
-Our sojourn in Khotan began with busy days. Visits had to be paid 
-to the Tao-fai or Governor, the amban or city magistrate, and the 
-tung-iing, officer commanding the Khotan garrison. We began our 
-visits early in the morning of our first day in Khotan. First we went to 
-the Tao-t’ai yamen. Professor Roerich and I rode on horseback, followed 
-by our Chinese interpreter and preceded by several begs or headmen 
-and Chinese soldiers, who cleared the way through the narrow streets 
+Our sojourn in Khotan began with busy days. Visits had to be paid to the Tao-fai or Governor, the amban or city magistrate, and the tung-iing, officer commanding the Khotan garrison. We began our visits early in the morning of our first day in Khotan. First we went to the Tao-t’ai yamen. Professor Roerich and I rode on horseback, followed by our Chinese interpreter and preceded by several begs or headmen and Chinese soldiers, who cleared the way through the narrow streets
 
 66 TRAILS TO INMOST ASIA
 
-of the Mohammedan $ection of the city. As soon as we appeared, a 
-crowd formed and followed us to the gates of the Governor’s residence. 
-A detachment of infantry was lined up on either side of the large .en- 
-trance gate. The men, in dark gray uniforms with red shoulder straps, 
-presented arms. Then they rushed past us to the next gate, again lined 
-up and again presented arms. This ceremony was performed three 
-times at each of the three gates of the yamen. The Tao^fatmtt us in the 
-inner courtyard of his residence. 
+of the Mohammedan $ection of the city. As soon as we appeared, a crowd formed and followed us to the gates of the Governor’s residence. A detachment of infantry was lined up on either side of the large entrance gate. The men, in dark gray uniforms with red shoulder straps, presented arms. Then they rushed past us to the next gate, again lined up and again presented arms. This ceremony was performed three times at each of the three gates of the yamen. The Tao^fatmtt us in the inner courtyard of his residence.
 
-Ma Shao-wu, the conqueror of Kashgar and the slayer of the 
-was a diminutive man with aquiline features and polite, quiet manners. 
-After the usual ceremonial inquiries about health, the road, etc., he 
-begged us to enter a large room reserved for the occasion. Here tea was 
-served on a small table, around which we took our seats, the subordi- 
-nate officials remaining standing all the time. 
+Ma Shao-wu, the conqueror of Kashgar and the slayer of the was a diminutive man with aquiline features and polite, quiet manners. After the usual ceremonial inquiries about health, the road, etc., he begged us to enter a large room reserved for the occasion. Here tea was served on a small table, around which we took our seats, the subordinate officials remaining standing all the time.
 
-The room was furnished in a strange and incongruous combination 
-of Chinese and European style. In the corner stood the usual large Chi- 
-nese bed, and small Chinese black tables were placed along the wall. 
-The room was full of arms, the presence of which evinced the warlike 
-habits of the Governor. On the walls hung German Mauser pistols in 
-wooden holsters, and Russian Cossack swords. One of the corners of 
-the room was occupied by innumerable wrist watches, a imique collec- 
-tion gathered by the Governor from Russian refugees, when he was the 
-officer commanding the garrison at Uch-Turfan, a city on the Russian 
-Turkestan border. 
+The room was furnished in a strange and incongruous combination of Chinese and European style. In the corner stood the usual large Chinese bed, and small Chinese black tables were placed along the wall. The room was full of arms, the presence of which evinced the warlike habits of the Governor. On the walls hung German Mauser pistols in wooden holsters, and Russian Cossack swords. One of the corners of the room was occupied by innumerable wrist watches, a imique collection gathered by the Governor from Russian refugees, when he was the officer commanding the garrison at Uch-Turfan, a city on the Russian Turkestan border.
 
-Behind each of us stood an armed guardsman of the Governor’s 
-bodyguard; each man was armed with a sword, a pair of Mauser pis- 
-tols, and heavy cartridge belts. An inquisitive crowd of Turki head- 
-men and sectetaries pressed in the doorway. The Governor delivered a 
-brief speech of welcome, telling us how glad he was to honor such dis- 
-tinguished foreigners. He hoped that we would make a prolonged stay 
-in Khotan and rest after all the hardships of the snowy route over the 
-Karakorum. He was ready to grant us every assistance and was himself 
-deeply interested in the past of Khotan. He had heard about the splen- 
-did work achieved by Sir Aurel Stein in this very region and it was his 
-wish to assist scholars from foreign lands in their explorations. During 
-this brief address, couched in such friendly and enlightened terms, I 
-had time to examine the person of the Governor and recall to my mind 
-the recent events of his troubled life. 
+Behind each of us stood an armed guardsman of the Governor’s bodyguard; each man was armed with a sword, a pair of Mauser pistols, and heavy cartridge belts. An inquisitive crowd of Turki headmen and sectetaries pressed in the doorway. The Governor delivered a brief speech of welcome, telling us how glad he was to honor such distinguished foreigners. He hoped that we would make a prolonged stay in Khotan and rest after all the hardships of the snowy route over the Karakorum. He was ready to grant us every assistance and was himself deeply interested in the past of Khotan. He had heard about the splendid work achieved by Sir Aurel Stein in this very region and it was his wish to assist scholars from foreign lands in their explorations. During this brief address, couched in such friendly and enlightened terms, I had time to examine the person of the Governor and recall to my mind the recent events of his troubled life.
 
-Ma Shao-wu belonged to a great and distinguished family of Chinese 
+Ma Shao-wu belonged to a great and distinguished family of Chinese
 
-TUMBAL, THE TIBETAN MASTIFF MA SHAO-WU, GOVERNOR OF KHOTAN 
+TUMBAL, THE TIBETAN MASTIFF MA SHAO-WU, GOVERNOR OF KHOTAN
 
-OF THE EXPEDITION 
+OF THE EXPEDITION
 
-MILITARY GOVERNOR OF KASHGAR 
+MILITARY GOVERNOR OF KASHGAR
 
-KHOTAN 
+KHOTAN
 
-Mohammedans. His father was once the Viceroy of the Yunnan Prov- 
-ince and lost his life in a rebellion against the imperial throne of China. 
-The present Governor of Khotan spent his younger days in distant 
-Yunnan, then was exiled to the torrid desert tracts of western Kansu 
-and Hsin-chiang. This family had produced several outstanding per- 
-sonalities, all of them occupying important posts in Chinese Provincial 
-administration. 
+Mohammedans. His father was once the Viceroy of the Yunnan Province and lost his life in a rebellion against the imperial throne of China. The present Governor of Khotan spent his younger days in distant Yunnan, then was exiled to the torrid desert tracts of western Kansu and Hsin-chiang. This family had produced several outstanding personalities, all of them occupying important posts in Chinese Provincial administration.
 
-Ma Fu-hsin, the murdered Ti-^ai of Kashgar, was one of them and 
-the strong man of Sining, General Ma, belongs to the same line. For 
-many years the present Governor of Khotan was the officer command- 
-ing the garrison of Kashgar and Uch-Turfan. It is during this period 
-that a deep-rooted animosity was shown between him and his elder 
-relative, the Ti-fai of Kashgar. 
+Ma Fu-hsin, the murdered Ti-^ai of Kashgar, was one of them and the strong man of Sining, General Ma, belongs to the same line. For many years the present Governor of Khotan was the officer commanding the garrison of Kashgar and Uch-Turfan. It is during this period that a deep-rooted animosity was shown between him and his elder relative, the Ti-fai of Kashgar.
 
-Ma Ti-t’ai was a characteristic figure in the Chinese administration 
-of the New Dominion. He was a ruthless despot, who knew no mercy 
-for either Chinese or native Turki. He built himself a huge palace in 
-the Chinese town or Han-ch’eng of Kashgar, and had several summer 
-houses in its vicinity. He constructed bridges and roads and planted 
-trees along them. A native daring to hit a tree with his carriage would 
-have the fingers of both hands cut off. The Tt-fai owned large enter- 
-prises outside the city, was interested in oil, and maintained a large 
-jade factory for which he requisitioned the best artisans from Khotan. 
-He had a pitiless way of removing his competitors in commercial enter- 
-prises. The unfortunate men were summoned to the Governor’s palace, 
-and there were put to death or had their hands cut off. Now many of 
-these unfortunate wretches are dead, but some are still begging in the 
-bazaars of Kashgar, evidence of a cruel despot. 
+Ma Ti-t’ai was a characteristic figure in the Chinese administration of the New Dominion. He was a ruthless despot, who knew no mercy for either Chinese or native Turki. He built himself a huge palace in the Chinese town or Han-ch’eng of Kashgar, and had several summer houses in its vicinity. He constructed bridges and roads and planted trees along them. A native daring to hit a tree with his carriage would have the fingers of both hands cut off. The Tt-fai owned large enterprises outside the city, was interested in oil, and maintained a large jade factory for which he requisitioned the best artisans from Khotan. He had a pitiless way of removing his competitors in commercial enterprises. The unfortunate men were summoned to the Governor’s palace, and there were put to death or had their hands cut off. Now many of these unfortunate wretches are dead, but some are still begging in the bazaars of Kashgar, evidence of a cruel despot.
 
-The Ti-t’cd was famous for his harem of some fifty wives. Any pretty 
-peasant girl was in constant danger of being snatched away from her 
-family and taken to the palace of the Governor. When tired of his 
-wives, he iised to present them to his friends and officers who had dis- 
-tinguished themselves in service. He was known for his lavish enter- 
-tainments and for a special brand of strong Chinese brandy, which he 
-served at his dinner parties. 
+The Ti-t’cd was famous for his harem of some fifty wives. Any pretty peasant girl was in constant danger of being snatched away from her family and taken to the palace of the Governor. When tired of his wives, he iised to present them to his friends and officers who had distinguished themselves in service. He was known for his lavish entertainments and for a special brand of strong Chinese brandy, which he served at his dinner parties.
 
-For several years before his fall in 1924, he cherished hopes of becom- 
-ing the independent ruler of Kashgaria and his relations with Yang 
-Tseng-hsin, ^vernor-General of the Hsin-chiang Province, were very 
-strained. 
+For several years before his fall in 1924, he cherished hopes of becoming the independent ruler of Kashgaria and his relations with Yang Tseng-hsin, Governor-General of the Hsin-chiang Province, were very strained.
 
-In 1924 the war clouds began to gather. It was rumored that the 
+In 1924 the war clouds began to gather. It was rumored that the
 
 68 TRAILS TO INMOST ASIA
 
-Ti-t’ai was planning a rebellion against the Governor-General of the 
-Province and the Provincial Government realized the necessity of put- 
-ting a stop to the dangerous activities of the Kashgar war lord. A large 
-force of some 18,000 cavalry and infantry was mustered in Urumchi 
-and the command was intrusted to Erh Tao-yin of Aksu, one of the 
-ablest regional governors of Hsin-chiang. The force started on its 
-march to Kashgar in February, 1924. One should not, however, think 
-that all the 18,000 men were actually in the field. This large number 
-of troops no doubt existed only on paper and the force that arrived 
-in Kashgar amounted to only about five hundred men. In Hsin-chiang 
-the authorities have a curious way of counting their troops. They are 
-not counted by sabers or bayonets, but by their caps — not so many 
-sabers or bayonets, but so many caps. Many of the regiment com- 
-manders have their soldiers only on paper. They have no soldiers, but 
-keep caps for them and the caps are counted in official reports. 
+Ti-t’ai was planning a rebellion against the Governor-General of the Province and the Provincial Government realized the necessity of putting a stop to the dangerous activities of the Kashgar war lord. A large force of some 18,000 cavalry and infantry was mustered in Urumchi and the command was intrusted to Erh Tao-yin of Aksu, one of the ablest regional governors of Hsin-chiang. The force started on its march to Kashgar in February, 1924. One should not, however, think that all the 18,000 men were actually in the field. This large number of troops no doubt existed only on paper and the force that arrived in Kashgar amounted to only about five hundred men. In Hsin-chiang the authorities have a curious way of counting their troops. They are not counted by sabers or bayonets, but by their caps — not so many sabers or bayonets, but so many caps. Many of the regiment commanders have their soldiers only on paper. They have no soldiers, but keep caps for them and the caps are counted in official reports.
 
-Ma Shao-wu, who was the officer commanding the garrison in Uch- 
-Turfan, petitioned the Governor-General to be permitted to participate 
-in the war expedition. In a spectacular dash, he covered the long stretch 
-from Uch-Turfan to Urumchi, the capital of the Province, in seven 
-days. His request was granted and he hurried back to take command 
-of the vanguard of the expeditionary forces. By detour routes in the 
-hills, the vanguard under Ma Shao-wu approached the Chinese city of 
-Kashgar on June i, 1924, and swept through it. The soldiers of the 
-Ti-t’ai were unprepared for an attack and offered but little resistance. 
-The Han-ch’eng was soon occupied by the invaders, who stormed the 
-palace of the Governor. The Ti-t’ai*s son, who occupied the post of 
-Hsieh-fai, fought valiantly and fell dead in the courtyard of his citadel. 
+Ma Shao-wu, who was the officer commanding the garrison in Uch-Turfan, petitioned the Governor-General to be permitted to participate in the war expedition. In a spectacular dash, he covered the long stretch from Uch-Turfan to Urumchi, the capital of the Province, in seven days. His request was granted and he hurried back to take command of the vanguard of the expeditionary forces. By detour routes in the hills, the vanguard under Ma Shao-wu approached the Chinese city of Kashgar on June i, 1924, and swept through it. The soldiers of the Ti-t’ai were unprepared for an attack and offered but little resistance. The Han-ch’eng was soon occupied by the invaders, who stormed the palace of the Governor. The Ti-t’ai*s son, who occupied the post of Hsieh-fai, fought valiantly and fell dead in the courtyard of his citadel.
 
-His father, the aged Ti-t’ai, is said to have offered firm resistance but 
-was eventually overpowered and arrested in one of his private rooms. 
-During the fighting his right arm was shot through by a bullet. The 
-prisoner was led outside the main gate of the citadel, and there cruci- 
-fied on a wooden cross. 
+His father, the aged Ti-t’ai, is said to have offered firm resistance but was eventually overpowered and arrested in one of his private rooms. During the fighting his right arm was shot through by a bullet. The prisoner was led outside the main gate of the citadel, and there crucified on a wooden cross.
 
-Ma Shao-wu personally commanded the firing squad. Eyewitnesses 
-tell that before the execution the victorious Ma Shao-wu approached 
-the crucified Ti-t’ai and shouted to him: “Do you recognize me, Ma 
-Fu-hsin?” “Ma Shao-wu,” groaned the wounded Ti-t’ai. After this very 
-brief dialogue, Ma Shao-wu fired his pistol at the Ti-t’ai, and the blood 
-from the wound is said to have spurted on his coat — a bad sign, accord- 
-ing to the Chinese. In the excitement the soldiers of the firing squad 
+Ma Shao-wu personally commanded the firing squad. Eyewitnesses tell that before the execution the victorious Ma Shao-wu approached the crucified Ti-t’ai and shouted to him: “Do you recognize me, Ma Fu-hsin?” “Ma Shao-wu,” groaned the wounded Ti-t’ai. After this very brief dialogue, Ma Shao-wu fired his pistol at the Ti-t’ai, and the blood from the wound is said to have spurted on his coat — a bad sign, according to the Chinese. In the excitement the soldiers of the firing squad
 
 69 KHOTAN
 
 
-69 
-
-shot at the Tufai without previous orders and almost killed Ma 
-Shao-wu, who stood between them and the wounded man. He had a 
-narrow escape. 
-
-For several days the corpse was exposed to the angry populace who 
-came in thousands to avenge themselves. They spat in the face of the 
-dead man, tore his beard, and threw refuse and stones. After this the 
-body disappeared and its fate is unknown. 
-
-Ma Shao-wu remained master of the city, and foreign residents say 
-that he acquitted himself well of the task and by a scries of stern meas- 
-ures restored order and prevented looting. It was apparently a coveted 
-desire of Ma Shao-wu to remain in Kashgar in place of the slain Ti-t* at, 
-but the Governor-General of the Province was well aware of the danger 
-presented by the successful officer and resolved to appoint him to a 
-more remote section. A separate governorship was accordingly created 
-in Khotan, and Ma Shao-wu was appointed Tao-yin of the new district, 
-which stretched from Karghalik to distant Tun-huang on the Kansu 
-border. 
-
-Erh Tao-yin and his corps of 18,000 men never reached Kashgar and 
-great hostility is said to exist between him and Ma Shao-wu. 
-
-During our stay in Khotan, it was commonly said that Ma Shao-wu 
-had received orders from the Governor-General to send back his troops 
-to Urumchi, but that the newly appointed Governor of Khotan disre- 
-garded the Governor-General’s orders and kept the troops in Khotan. 
-This explained the presence of the great number of troops there. 
-
-Such was the great deed of Ma Shao-wu, for which he became fa- 
-mous throughout the vast Province. It was a family feud of long stand- 
-ing and the last act of the drama is still to be enacted. All during our 
-stay in Khotan, the Tao-t’ at was apprehensive of an advance by General 
-Ma of Sining to avenge the death of his cousin. Troops were said to 
-have been concentrated at Tun-huang and rumors were whispered that 
-General Ma was negotiating with the Provincial Government at Lan- 
-chou for a general advance on Hsin-chiang. 
-
-Such was the background of Ma Shao-wu when we first met him in 
-Khotan. A man of considerable ability and personal courage, but an 
-intriguer and revengeful, he found himself relegated to a distant prov- 
-ince separated from the other inhabited places of Hsin<hiang by vast 
-tracts of desert. 
-
-Our first meeting with the man was very friendly and we had all the 
-prospects of a successful stay in Khotan. We took leave of the Governor 
-
-
-
-TRAILS TO INMOST ASIA 
-
-
-70 
-
-and proceeded to the city magistrate — a typical Chinese official of the 
-interior of China. A faithful instrument of the Governor, he echoed the 
-same readiness to assist us. The tung-ling or officer commanding the 
-garrison at Khotan, whom we visited next, was a young man of pleas- 
-ant manners and during our subsequent troubles occupied a neutral 
-position. Everywhere we were met with the same ceremonies and 
-guards of honor. 
-
-After a strenuous morning we returned to our camp. In the after- 
-noon we received the visit of Ma Tao-t’ai, who was followed by the 
-chih-shih or magistrate and the tung-ling. The Governor arrived in a 
-covered carriage painted green on the outside and lined with violet 
-velvet, drawn by three horses. The cortege was followed by forty cav- 
-alrymen of the Governor’s bodyguard on raven black horses. The body- 
-guard of forty men is said to be maintained by the Tao-t’ai at his own 
-expense. All of the men were heavily armed and presented the pick of 
-Chinese troops in Hsin-chiang. The Governor once more assured us of 
-his good will and urged us to make ourselves comfortable in Khotan. 
-
-It was impossible to stay in the small garden of Badruddin Khan 
-with our big caravan, and we therefore decided to find a suitable house 
-with plenty of ground in which to establish our headquarters. In our 
-search we encountered the first obstacle to be set in our way by the local 
-authorities. We were fortunate in finding a beautifully situated summer 
-house belonging to the late Afghan aqsaqal of Khotan, an ideal place 
-for our headquarters, with extensive grounds, situated three miles from 
-the city itself. We at once decided to rent the house and there establish 
-the expedition headquarters. It was Persian in style and had stood 
-empty since the death of its owner, as his widow lived in her town 
-house. We made known our decision to a native interpreter, Kerim 
-Beg, who was attached to our camp by the local authorities. He seemed 
-very displeased at our choice, and hinted that the Governor would pre- 
-fer to see us living closer to his residence. We thought it very strange 
-and sent our Chinese secretary, Ts’ai, to the Governor’s yamen to in- 
-quire. He soon came back and reported that the Governor had assured 
-him that he had nothing against our living in the summer house of the 
-former Afghan aqsaqal and that the beg had misconstrued his orders. 
-We accordingly instructed Kerim Beg to call on the aqsaqal family to 
-discuss terms. He refused to do so, saying that the family was a very 
-difficult one to deal with. 
-
-After this conversation, several days elapsed without our being able 
-
-
-
-KHOTAN 
-
-
-71 
-
-to settle the matter. It was during this period that we made the ac- 
-quaintance of a local trader, KJiudai Berdi Bai, who became a trusted 
-friend all through the period of our difficulties with local authorities. 
-The matter of renting the house seemed to take a hopeless turn and we 
-decided to negotiate directly with the Afghan aqsaqal’s family. To our 
-great surprise, we found them very eager to rent the house. Someone 
-was trying to prevent us from establishing our headquarters there. Who 
-this dark shadow was, whose hand we found in all our difficulties in 
-Khotan, we were xmable to ascertain. We signed an agreement, paid a 
-month’s rent, and took possession of the house and compound, to the 
-great consternation of Kerim Beg. 
-
-Having established our headquarters, we began to plan our scientific 
-and artistic activities in Khotan and its vicinity. The ancient site of 
-Khotan — ^Yotkan, where from time to time landslides revealed miscel- 
-laneous objects and remains of old structures — ^had to be explored. We 
-also planned for a brief expedition to Mazar Imam Jafar Sadik and to 
-the site of the Rawak stupa where shifting sands had uncovered inter- 
-esting new remains. 
-
-Our Ladakis, these wonderful hillmen, found it difficult to become 
-accustomed to new surroundings and we decided to let them return to 
-their native Ladak. They departed, well recompensed for their splendid 
-services. We heard later on that all of them safely reached Leh, but en- 
-countered great snowdrifts on the Sanju Pass. 
-
-Besides his archaeological work. Professor Roerich intended to ex- 
-tend his artistic work, possibly toward the Karanghu Tagh Mountains 
-and round Khotan. We also were planning our future route to inner 
-China, and had to muster a new caravan of men and animals. Amid 
-this organizing work, clouds gathered for a storm. Our friends, of 
-whom we had many, both among the Chinese and native Chang-t’ou, 
-began to warn us that the Tao-t’ai had been troubled by some of his 
-counselors, who seemed to be conspiring against our expedition. 
-Strange rumors filled the air and no one knew whence they came or 
-who was spreading them. 
-
-For a time, everything was quiet. The Tao-t’ai arranged a dinner of 
-some fifty courses in honor of Professor Roerich, at which all the local 
-officials were present, and also Mr. K. Moldavak, an Armenian gentle- 
-man, who had long been living in Khotan and was one of the closest 
-friends of the local Governor. Mrs. Roerich could not attend the func- 
-tion and the whole dinner of fifty courses was sent to her by an aide to 
-
-
-
-TRAILS TO INMOST ASIA 
-
-
-72 
-
-the Governor. It was a long affair, which started about three o’clock in 
-the afternoon and continued late into the evening. The Chinese played 
-their usual table games, in which the loser had to drink a glass of 
-strong Chinese brandy after each defeat. The Tao-fai entertained his 
-guests with stories of his former exploits and showed photos of his tame 
-leopards, of which he was very proud. 
-
-After dinner, some of the officials present sang Chinese ballads. Un- 
-fortunately none of the singers were experts, and we failed to appreci- 
-ate their singing. The dinner ended late at night and we were led to the 
-courtyard, the Governor heading the procession which was preceded by 
-soldiers carrying Chinese paper lanterns. Our horses stood waiting for 
-us at the inner gate of the yamen. Twenty horsemen of the Governor’s 
-bodyguard escorted us home. Each rider carried a lantern. We rode at 
-quick pace through the streets of Khotan which were crowded, not- 
-withstanding the late hour. The raven black horses of the escoit shied 
-and overthrew several fruitstands. It was a beautiful, cool evening and 
-the usually hazy atmosphere of the desert gave way to a clear transpar- 
-ent sky, against the background of which we could see the sharp snowy 
-outline of the Karanghu Tagh Mountains south of Khotan. 
-
-For several days more our relations with the authorities continued to 
-be outwardly friendly, although there were signs of a growing uneasi- 
-ness in the Governor and his subordinates. 
-
-A few days after the dinner party, the young son of the Governor be- 
-came ill, and Mrs. Roerich had to go to help them. The boy recovered 
-and the Governor afterward mentioned that this aid saved us from 
-further difficulties in Khotan and on the way. 
-
-Khotan, a city of several scores of thousands, has not even a single 
-doctor. The nearest European doctor lives in Yarkend. The usual prac- 
-tice was to send an urgent message inviting Dr. Nystrdm, of the Swed- 
-ish Mission in Yarkend. It took the doctor about five days to reach Kho- 
-tan, traveling day and night on a Chinese cart. 
-
-We applied to the magistrate of the city for permission to sketch and 
-take photos in the city itself and its environs. Permission was refused in 
-both cases, and we were told that they had written for instructions to 
-the Governor-General of the Province. We decided to protest to the 
-Tao-t’ai and remind him of his promise to assist the expedition in its 
-work. 
-
-Meanwhile a new magistrate had arrived from Urumchi and Kash- 
-gar. Disquieting rumors were whispered about. The new magistrate 
-
-
-
-KHOTAN 
-
-
-73 
-
-was violently opposed to foreigners, although he boasted of his modern- 
-ism. 
-
-A few days after his arrival, the Governor with all the Chinese offi- 
-cials came to thank Mrs. Roerich for her help during the illness of 
-the Governor’s son. They came accompanied by an armed escort. From 
-the very beginning of the conversation we felt that the Tao-t’ai and the 
-new magistrate had something on their minds. We invited them to tea 
-in my room and closed the doors so as to prevent the noisy soldiers from 
-entering. Ma Tao-t’ai and the magistrate seemed very uneasy and surly. 
-They examined the room attentively and exchanged brief remarks 
-about our pack cases that were piled along the walls. Suddenly the 
-Tao-t'ai coughed three times, the door swung open and the room was 
-filled with soldiers, who lined up along the walls. The room assumed 
-the appearance of a tribunal. We were much surprised and expressed 
-our astonishment at the conduct of the Governor. The Tao-t’ai smiled 
-and begged us not to pay any attention. I feel sure that the Governor 
-was afraid to remain alone in the room. 
-
-The conversation continued on general topics, when suddenly the 
-new magistrate began to question us about our passports. We once 
-more produced our Peking passports sent us to India from the Chinese 
-Wai-chiao-pu, through Mr. Cheng Lo, the Chinese Ambassador in 
-Peking. The attitude of the Chinese was inexplainable. They scoffingly 
-remarked that our passports were not valid in this Province, that the 
-Peking Government had nothing to say in Hsin-chiang and that Mr. 
-Cheng Lo had no authority to issue letters of introduction. The Chinese 
-assumed a threatening attitude, began to gesticulate, spit on the floor, 
-and scoff. It was quite an unexpected change, but we decided to stand 
-firm and pointed out to them that they had no right to threaten the 
-expedition and disregard our passports. We warned them that we 
-should at once communicate with the British Consul in Kashgar and 
-ask him to request the Governor-General of Hsin-chiang for permis- 
-sion to continue our work unimpeded. After a very heated discussion, 
-the Tao-t’ai and his companions rose and departed for Khotan. 
-
-Mr. Chang, the new magistrate, came the next day and said that a 
-wire had been received from the Governor-General ordering our ex- 
-pedition to return to India via the Sanju Pass. This was an impossi- 
-bility, for the pass was long since closed by the snow, and we at once 
-understood that the telegram was a fraud which originated in the 
-yamen of the Governor. 
-
-
-
-TRAILS TO INMOST ASIA 
-
-
-74 
-
-The visit of the magistrate was enlivened by an episode which caused 
-considerable merriment among our servants. The magistrate had ar- 
-rived in state with a considerable escort of policemen who waited out- 
-side the house. Our Tibetan mastiff, Tumbal, as a precaution was taken 
-away and tied to a tree in the garden. In the midst of our conversation, 
-we suddenly heard a loud outcry followed by a wild trampling of feet. 
-The dog had broken his chain and was slowly and menacingly advanc- 
-ing toward the house door. The policemen, unable to stand the sight, 
-fled, many barricading themselves in our bathroom. The door to the 
-room where we were sitting was open, and we could see the dog com- 
-ing up the steps of the terrace. The magistrate, pale and confused, 
-quickly got on the chair on which he had been sitting and prepared to 
-get on the table where tea was served. It took us some time to explain 
-to the frightened man that the dog was harmless in our presence. 
-
-After this visit of the magistrate, we sent a letter to Major Gillan, the 
-British Consul in Kashgar, asking him to assist the expedition. The 
-letter was sent to the Khotan post office but was returned with a note 
-that the Tao-t^ai had given orders to seize all our correspondence with 
-the British Consul in Kashgar. Our letters, containing telegrams for 
-New York, Paris, and Peking, were similarly returned. The situation 
-was a very grave one, and we were fully aware that it was the begin- 
-ning of a long period of persecution, endless negotiations, and insult. 
-We were cut off from the outside world, and had to find means to send 
-out messages with information of our position. 
-
-Several traders volunteered to carry our letters to the consulate at 
-Kashgar. Besides this, two friendly Kalmucks offered their services. 
-They devised a very ingenious plan, based on their thorough acquaint- 
-ance with local official carelessness. Their plan consisted in waiting pa- 
-tiently with the letter in the street outside the post office. At the very 
-last moment, when the postal messenger would be leading out his horse 
-and fixing the saddlebags, one of the Kalmucks would step out and 
-hand our letter addressed in Turki and Chinese to the British Consul. 
-The Chinese postal official dispatching the mail, would angrily ejacu- 
-late, “Why are you always late?” and without looking at the address 
-would throw the letter into one of the saddlebags. This stratagem in- 
-variably worked and our letters reached their destination. Evidently at 
-Kashgar our letters were promptly delivered. It took us sixteen days to 
-get an answer, which usually came through a private channel. 
-
-On December 29, 1925, the new magistrate and several minor mili- 
-
-
-
-KHOTAN 
-
-
-75 
-
-tary officers, representing the Tao-^ai, came to search our baggage and 
-house. We were said to possess a huge amount of ammunition and 
-some kind of a “shooting wheel” with which we were able to annihilate 
-the whole of the Khotan garrison and the population in less than ten 
-minutes! Our square wooden boxes of preserves from the Cockburn 
-Agency in Kashmir gave rise to the suspicion that we carried large sup- 
-plies of ammunition with us. Our firearms, consisting of two rifles, one 
-double-barreled gun and three revolvers, and one case of ammunition, 
-were sealed and taken away. Professor Roerich, in his book, Altai-Hi- 
-mdaya, has given a detailed description of the ridiculous and fruitless 
-search. 
-
-We decided to leave Khotan at once and go to Kashgar in order to 
-negotiate by wire with the Governor-General for permission to proceed 
-with our work. We also desired the return of our firearms, without 
-which we could not attempt to cross the brigand-infested regions of the 
-interior of China. The authorities gave their silent assent and we hired 
-a camel caravan to carry our baggage to Kashgar. Once more the court- 
-yard of the house and garden were filled with men and kneeling 
-camels — ^a welcome sight to every explorer. 
-
-On January i everything was ready for the start, when suddenly an 
-official from the Tao-t’ai arrived and coolly informed us, “The Tao-t’ai 
-orders you to go to Tun-huang in Kansu and not through Kashgar.” 
-We tried to argue, pointing out the fact that our only firearms had been 
-seized, that money orders were waiting for us at the Chinese post office 
-in Kashgar, that we were expecting answers to our cables. All our 
-words were of no avail, the man only repeated one and the same sen- 
-tence, “Ma Ta-jen changed his mind, and orders your expedition to 
-proceed through the desert to Tun-huang.” He added, however, that 
-we should go and speak to the Tao-t’ai personally. And so we went. A 
-long and tedious conference followed, during which we persistently 
-tried to obtain a written statement explaining the Tao-t’ai's actions. We 
-sat at a small table facing the Tao-t’ai and could see his soldiers behind 
-him making grimaces and pointing their fingers at the Tao-t’ai’s head. 
-
-The Tao-t’ai was adamant in his decision to keep us in Khotan. It is 
-difficult to say what had influenced his change of attitude. Some said 
-that he was possessed by the spirit of the murdered Ti-t’ai of Kashgar 
-and no longer could control himself. Others repeated the story that 
-someone had sowed mistrust in the Tao-t’ai’s mind. Whatever it might 
-
-
-
-76 TRAILS TO INMOST ASIA 
-
-be, it was clear that the situation was a very serious one and that we had 
-to find a solution. 
-
-We returned to our headquarters and drafted a letter to the Consul in 
-Kashgar, informing him of the situation and requesting him to com- 
-municate with the Governor-General in Urumchi. From now on, we 
-received frequent visits from Mr. Chang, magistrate of Khotan. Each 
-day he had another astounding telegram to produce, ordering our im- 
-mediate arrest and deportation. It so happened that every time he came 
-we were able to confront him with a letter from Major Gillan or a tele- 
-gram from America. Friends were acting to help us leave Khotan. 
-
-Our days were spent either working at the headquarters or negotiat- 
-ing with local authorities. These negotiations occupied most of the 
-time, for each visit of the Governor or the magistrate meant five or six 
-hours of continuous conversation. 
-
-On January 20 we received a welcome letter from Major Gillan, 
-notifying us that following his efforts the Governor-General had sent 
-immediate orders for our release from Khotan. This was a piece of wel- 
-come news and all in the expedition headquarters rejoiced at the pros- 
-pect of a march to Kashgar. 
-
-On the evening of the same day, we received the visit of our friend 
-Khudai Berdi Bai, who brought the news that a letter had been received 
-from Urumchi with permission to travel to Kashgar. This was an un- 
-precedented case — that an order from the Governor-General should be 
-announced through a private person. The Governor “lost face” and 
-could not deliver the order personally or through the magistrate. The 
-authorities kept silent. Only the commander of the garrison and the old 
-amban sent us their visiting cards with good wishes for our trip to 
-Kashgar. A military officer with the rank of shao-wei or lieutenant 
-came and inquired about the day of our departure. He was ordered to 
-furnish a guard of mounted soldiers to accompany us to Yarkend. The 
-Chinese seemed uneasy, and somehow conscious of the wrong com- 
-mitted toward the expedition. The actions of the local Khotan authori- 
-ties had almost completely prevented us from carrying out our plans. 
-
-We hurried with our preparations. Most of the baggage had been 
-packed long ago. We now only needed to engage a trustworthy cara- 
-vzn-bashi. Khudai Berdi Bai recommended us to Temur Bai, a wealthy 
-caravaneer owning many horse caravans transporting goods between 
-Khotan and Leh. Temur Bai undertook to furnish us with seventy-four 
-pack horses for six Chinese dollars each, with the understanding that 
-
-
-
-KHOTAN 
-
-
-77 
-
-we should reach Kashgar on the fourteenth day. Besides pack anima ls 
-we were obliged to hire two Chinese carriages or ma-fa at twenty-five 
-dollars for the journey. In one of the carriages our Chinese interpreter 
-Ts’ai had to travef, together with a case of firearms, which were re- 
-turned to us sealed on the eve of our departure. Poor Ts’ai had taken to 
-opium smoking, no doubt depressed by the insulting attitude of the 
-local officials. The aged man was full of his old-time dignity and com- 
-plained bitterly against the revolting methods of the local administra- 
-tion. As a result of the opium, he was so weak that he could not keep 
-himself in the saddle and had to travel in the carriage. He was careful 
-to conceal his habit and smoked only in the dark of the night. 
-
-In the second carriage our Tibetan mastiff, Tumbal, traveled in 
-charge of a servant. 
-
-The three months of detention came to an end and we were looking 
-forward to new regions. Our courtyard was filled with friendly Chang- 
-t’ou who came to say goodbye to the expedition. During our three 
-months’ detention we had made many trusted friends; it is a pleasure 
-to express here our gratitude to all who assisted the expedition during 
-the difficult winter days in Khotan. 
-
-
-
-
-KHOTAN-KASHGAR 
-
-
-
-
-IV 
-
-
-KHOTAN-KASHGAR 
-
-I N the early morning of January 28, 1926, our courtyard and garden 
-were crowded with pack horses and caravan men in heavy sheep- 
-skins and dark red charuqs — ^a scene familiar to anyone who has 
-traveled in the caravan region of Asia. The bustle was great and it 
-took us five hours to start the baggage caravan marching. The tents and 
-the rest of the camp equipment had to go in advance, and for this pur- 
-pose the best horses were given to the camp detachment. This detach- 
-ment had to leave camp last, and arrive at the new camp first. The cara- 
-van men, mostly Turki from Khotan, were sadly lacking in initiative 
-and performed their tasks with surprising carelessness. 
-
-Most of the pack horses were big animals from Yarkend, capable of 
-carrying about two hundred pound loads. Their general condition was 
-good and we could hope to arrive in Kashgar on time. The Turkestan 
-pack saddle is much superior to the wooden pack saddles of Ladak and 
-Tibet. It consists of two thick saddle cloths, on which is fixed the saddle 
-cushion — U-shaped and made of sheepskin or cloth well stuffed with 
-straw. The load is fixed to the saddle by ropes, made of camel’s or 
-sheep’s wool. Travelers are warned not to use hemp ropes of Chinese or 
-European make, for they are apt to cause sores. Ropes made of camel’s 
-wool are very good; those made out of sheep’s wool are much inferior. 
+69
 
-Several mounted soldiers in charge of an aged shao-wei or lieutenant 
-were ordered to escort us as far as Yarkend, the next garrisoned oasis 
-along the southern trade route. They all came and lined up in front of 
-the house, the lieutenant holding the red visiting card of his superior 
-officer in his raised hand. All the men were over fifty, and were dressed 
-in voluminous gray coats and fur caps with large earflaps which, if 
-necessary, could be buttoned in front of the face. Their arms consisted of 
-old Mausers, and the officer had an old Chinese sword. We were much 
-surprised at the age of these warriors, and inquired whether they in- 
-tended to retire from service. The reply was that they had recently been 
-promoted to the cavalry for gallant service! In Hsin-chiang a young 
-soldier has to serve in infantry units, and only after he has passed an age 
+shot at the Tufai without previous orders and almost killed Ma Shao-wu, who stood between them and the wounded man. He had a narrow escape.
 
+For several days the corpse was exposed to the angry populace who came in thousands to avenge themselves. They spat in the face of the dead man, tore his beard, and threw refuse and stones. After this the body disappeared and its fate is unknown.
 
+Ma Shao-wu remained master of the city, and foreign residents say that he acquitted himself well of the task and by a scries of stern measures restored order and prevented looting. It was apparently a coveted desire of Ma Shao-wu to remain in Kashgar in place of the slain Ti-t* at, but the Governor-General of the Province was well aware of the danger presented by the successful officer and resolved to appoint him to a more remote section. A separate governorship was accordingly created in Khotan, and Ma Shao-wu was appointed Tao-yin of the new district, which stretched from Karghalik to distant Tun-huang on the Kansu border.
 
-82 
-
-
-TRAILS TO INMOST ASIA 
+Erh Tao-yin and his corps of 18,000 men never reached Kashgar and great hostility is said to exist between him and Ma Shao-wu.
 
-
-limit or distinguished himself in service is he promoted to the grade of 
-a mounted soldier or ma-p’ing. In Hsin-chiang, as in many other parts 
-of China, a horse is only a means of transportation; a Chinese trooper 
-is taught to sit on a horse, but never to ride it. A beg from Karakash 
-and two daroghas were also delegated to attend to our needs on the 
-journey. They were directed to accompany us to Guma Bazaar, the 
-nearest administrative center on the Khotan-Yarkend route. 
-
-We started only about noon, and rapidly rode through the Moham- 
-medan and Chinese sections of Khotan. It was a bazaar day and the 
-streets were thronged with a multicolored crowd of villagers. Our first 
-stage was Zawa. The baggage caravan arrived late at night and we were 
-obliged to spend several hours waiting for it in the garden of the official 
-resthouse. The night was cool and we warmed ourselves at a huge 
-camp fire made by the local villagers. 
-
-Before starting from Khotan, our Chinese interpreter, Ts’ai ssu-yeh, 
-had made a yellow flag marked with our name abbreviated to “Lo,” 
-stating the official designation of the expedition. This flag was intrusted 
-to a darogha, who galloped ahead of us and planted the flag on the spot 
-selected for our camp. 
-
-In Zawa we found the flag planted on the roof of the resthouse. Ts’ai 
-ssu-yeh was very wise to prepare this flag, for it saved us from many 
-troubles with petty officials, who were always found to respect it even 
-more than our Peking passports. 
-
-In the evening we discovered that our soldiers and some of our Chi- 
-nese servants were confirmed opium smokers. In the morning they 
-were late getting up and considerably handicapped the work about the 
-camp. An opium smoker is a great calamity in an expedition camp and 
-we decided to avail ourselves of the next opportunity to get rid of them. 
-
-The route from Zawa to Pialma has already been described in this 
-volume. A brief halt was made at the Shrine Kum-rabat Padshahim. 
-The modern Mohammedan shrine is situated on the spot of an ancient 
-temple dedicated to sacred rats, built by a king of Khotan to com- 
-memorate his victory over the Hiung-nu, in which he was miraculously 
-assisted by rats which destroyed the ammunition of the enemies.* 
-
-After the Pigeon Shrine, the trail left the sand dune belt and fol- 
-lowed a broad gravel plain. A brief halt was made again to water the 
-
-I. C£. Stein, Ruins of Desert Cathay, I, i66; Beal, Buddhist Records of the Western World, 
-pp. 3*5 ff- 
-
-
-
-
-
-— . i'' 
-
-
-’/ . 
-
-
-v*ij' 
-
-
-THE EXPEDITION HEADQUARTERS IN KHOTAN 
-
-
-
-SUMMER HOUSE IN KARGHALIK 
-
-
-
-
-CHINESE CAVALRY ENTERING KASHCiAR 
-
-
-
-
-
-
-
-
-KHOTAN-KASHGAR 83 
-
-animals at Ak-langar — a desert resthouse built in the days of Yakub 
-Beg. The resthouse has a well of brackish water. 
-
-Pialma, the terminal oasis on the Duwa River, was reached late at 
-night. The stars shone brilliantly when we entered the village. The 
-camp was pitched in a garden belonging to the house of a wealthy land- 
-owner. There was a scarcity of drinking water, as all the water supply 
-had dried up, and we were obliged to thaw the snow. The horses had 
-to be watered at a place four miles distant. 
-
-Late in the evening we had a visit from Dr. Nystrom, of the Swedish 
-Mission in Yarkend. He was hurrying to Khotan where two officers of 
-the Governor’s bodyguard had recently wounded each other. One of 
-the men died shortly after the shooting, but the other recovered and 
-was subsequently executed by order of the Governor. Dr. Nystrom was 
-traveling day and night in a Chinese cart, halting once in twenty-four 
-horns to feed the horses. 
-
-The march from Pialma to Zanguya led over a gravel desert. We in- 
-structed the darogha, who daily galloped ahead of us with a notice of 
-our arrival, to prepare quarters for us in houses of well-to-do villagers 
-and to avoid Chinese official resthouses with their noise and squalor. 
-
-Shortly after our arrival in Zanguya, the lieutenant in charge of our 
-guard arrived and requested me to look at their horses which had be- 
-come unexpectedly ill. We found the animals lying in the stable, unable 
-to stand on their feet. The fat animals, which were always kept in the 
-stable and never given exercise, had succumbed to the fatigues of three 
-days’ marching. It was evident that they could go no farther and had to 
-be left in Zanguya. I therefore advised the distressed lieutenant to hire 
-horses from local peasants and to leave his own horses in charge of a 
-soldier. He followed my advice and on the next morning he and his 
-men were mounted on shaggy creatures with tremendous manes and 
-tails. The local bronchos probably had seldom been ridden before and 
-the escort had an exciting ride to Guma Bazaar. This is an important 
-center with some seven hundred houses and the seat of a magistrate, 
-who controls the vast mountain tracts around Sanju Oasis. It is re- 
-nowned for its numerous orchards and mulberry groves. Its chief local 
-industry is the manufacture of coarse paper. A spacious garden with a 
-summer house was reserved for our camp. The gates of the garden 
-were gaily decorated with red and yellow cloth and a group of local 
-notables was waiting inside the garden. 
-
-Soon after our arrival, we received the visit of the local magistrate. 
-
-
-
-TRAILS TO INMOST ASIA 
-
-
-84 
-
-He was accompanied by his young son and a troop of armed policemen 
-in strange uniforms and old muzzle-loading rifles. The magistrate was 
-greatly concerned over our difBculties in Khotan and hinted that Ma 
-Tao-yin was a man of dangerous habits. An authentic source had told 
-him the story that the Governor of Khotan had stormed our headquar- 
-ters and that he was repelled with heavy losses. How this story origi- 
-nated, it was impossible to learn. Rumors take strange shapes in Chi- 
-nese Turkestan. 
-
-Our servant T’ang, who had fallen ill a few days before, had to be left 
-in care of the local magistrate, who promised to send him back to Kho- 
-tan, as soon as he should feel better. T’ang was a confirmed opium 
-smoker and the last four days of marching through the desert had 
-completely broken down his reserve strength. 
-
-In the evening we were visited by a traveling troop of actors. The 
-tamasha or theatrical entertainment was illumined with torchlights 
-and Chinese paper lanterns. Most of the actors were local Turki, but 
-the subjects of the scenes and the songs were Chinese. These tamasha 
-are a feature of Turkestan life. 
-
-At Guma, we were given another beg and darogha to accompany us 
-to Karghalik. Our original plan was to camp at Cholak-langar, some 
-eighteen miles from Guma, but fresh arrivals at Guma brought the 
-news that the water supply at Cholak had completely dried up. We had 
-to camp at Siligh-langar, some ten miles west of Guma. Siligh-langar 
-consisted of several miserable mud hovels with a small inclosed court- 
-yard filled with piles of firewood and bundles of hay. At night a large 
-camel caravan bound for Tun-huang passed our camp and almost over- 
-turned some. of our tents. The night was pitch dark and the camel 
-drivers were sound asleep in their saddles. The droning sound of bells 
-heralded the approach of the caravan column, marching at good pace. 
-Before we were able to realize what was happening the dark silhouette 
-of the huge caravan had entered our camp and the camels’ feet were 
-tearing our tent ropes. The energetic action of some of our men alone 
-prevented further damage and a stampede of frightened animals. 
-
-Our next stop was Akin-langar, another relay station on the long 
-thirty-four mile stage between Guma and Karghalik. So far we had en- 
-joyed perfect weather, with warm days and cool nights. At Akin-langar 
-the weather suddenly changed. A cold wind started up toward sunset 
-and the temperature dropped below zero. Snow fell during the night 
-and in the morning we found the desert covered by a thin layer of 
+During our stay in Khotan, it was commonly said that Ma Shao-wu had received orders from the Governor-General to send back his troops to Urumchi, but that the newly appointed Governor of Khotan disregarded the Governor-General’s orders and kept the troops in Khotan. This explained the presence of the great number of troops there.
+
+Such was the great deed of Ma Shao-wu, for which he became famous throughout the vast Province. It was a family feud of long standing and the last act of the drama is still to be enacted. All during our stay in Khotan, the Tao-t’ at was apprehensive of an advance by General Ma of Sining to avenge the death of his cousin. Troops were said to have been concentrated at Tun-huang and rumors were whispered that General Ma was negotiating with the Provincial Government at Lanchou for a general advance on Hsin-chiang.
+
+Such was the background of Ma Shao-wu when we first met him in Khotan. A man of considerable ability and personal courage, but an intriguer and revengeful, he found himself relegated to a distant province separated from the other inhabited places of Hsin<hiang by vast tracts of desert.
+
+Our first meeting with the man was very friendly and we had all the prospects of a successful stay in Khotan. We took leave of the Governor
+
+70 TRAILS TO INMOST ASIA
+
+and proceeded to the city magistrate — a typical Chinese official of the interior of China. A faithful instrument of the Governor, he echoed the same readiness to assist us. The tung-ling or officer commanding the garrison at Khotan, whom we visited next, was a young man of pleasant manners and during our subsequent troubles occupied a neutral position. Everywhere we were met with the same ceremonies and guards of honor.
+
+After a strenuous morning we returned to our camp. In the afternoon we received the visit of Ma Tao-t’ai, who was followed by the chih-shih or magistrate and the tung-ling. The Governor arrived in a covered carriage painted green on the outside and lined with violet velvet, drawn by three horses. The cortege was followed by forty cavalrymen of the Governor’s bodyguard on raven black horses. The bodyguard of forty men is said to be maintained by the Tao-t’ai at his own expense. All of the men were heavily armed and presented the pick of Chinese troops in Hsin-chiang. The Governor once more assured us of his good will and urged us to make ourselves comfortable in Khotan.
+
+It was impossible to stay in the small garden of Badruddin Khan with our big caravan, and we therefore decided to find a suitable house with plenty of ground in which to establish our headquarters. In our search we encountered the first obstacle to be set in our way by the local authorities. We were fortunate in finding a beautifully situated summer house belonging to the late Afghan aqsaqal of Khotan, an ideal place for our headquarters, with extensive grounds, situated three miles from the city itself. We at once decided to rent the house and there establish the expedition headquarters. It was Persian in style and had stood empty since the death of its owner, as his widow lived in her town house. We made known our decision to a native interpreter, Kerim Beg, who was attached to our camp by the local authorities. He seemed very displeased at our choice, and hinted that the Governor would prefer to see us living closer to his residence. We thought it very strange and sent our Chinese secretary, Ts’ai, to the Governor’s yamen to inquire. He soon came back and reported that the Governor had assured him that he had nothing against our living in the summer house of the former Afghan aqsaqal and that the beg had misconstrued his orders. We accordingly instructed Kerim Beg to call on the aqsaqal family to discuss terms. He refused to do so, saying that the family was a very difficult one to deal with.
+
+After this conversation, several days elapsed without our being able
+
+71 KHOTAN
+
+to settle the matter. It was during this period that we made the acquaintance of a local trader, KJiudai Berdi Bai, who became a trusted friend all through the period of our difficulties with local authorities. The matter of renting the house seemed to take a hopeless turn and we decided to negotiate directly with the Afghan aqsaqal’s family. To our great surprise, we found them very eager to rent the house. Someone was trying to prevent us from establishing our headquarters there. Who this dark shadow was, whose hand we found in all our difficulties in Khotan, we were xmable to ascertain. We signed an agreement, paid a month’s rent, and took possession of the house and compound, to the great consternation of Kerim Beg.
+
+Having established our headquarters, we began to plan our scientific and artistic activities in Khotan and its vicinity. The ancient site of Khotan — ^Yotkan, where from time to time landslides revealed miscellaneous objects and remains of old structures — ^had to be explored. We also planned for a brief expedition to Mazar Imam Jafar Sadik and to the site of the Rawak stupa where shifting sands had uncovered interesting new remains.
+
+Our Ladakis, these wonderful hillmen, found it difficult to become accustomed to new surroundings and we decided to let them return to their native Ladak. They departed, well recompensed for their splendid services. We heard later on that all of them safely reached Leh, but encountered great snowdrifts on the Sanju Pass.
+
+Besides his archaeological work. Professor Roerich intended to extend his artistic work, possibly toward the Karanghu Tagh Mountains and round Khotan. We also were planning our future route to inner China, and had to muster a new caravan of men and animals. Amid this organizing work, clouds gathered for a storm. Our friends, of whom we had many, both among the Chinese and native Chang-t’ou, began to warn us that the Tao-t’ai had been troubled by some of his counselors, who seemed to be conspiring against our expedition. Strange rumors filled the air and no one knew whence they came or who was spreading them.
+
+For a time, everything was quiet. The Tao-t’ai arranged a dinner of some fifty courses in honor of Professor Roerich, at which all the local officials were present, and also Mr. K. Moldavak, an Armenian gentleman, who had long been living in Khotan and was one of the closest friends of the local Governor. Mrs. Roerich could not attend the function and the whole dinner of fifty courses was sent to her by an aide to
+
+72 TRAILS TO INMOST ASIA
+
+the Governor. It was a long affair, which started about three o’clock in the afternoon and continued late into the evening. The Chinese played their usual table games, in which the loser had to drink a glass of strong Chinese brandy after each defeat. The Tao-fai entertained his guests with stories of his former exploits and showed photos of his tame leopards, of which he was very proud.
+
+After dinner, some of the officials present sang Chinese ballads. Unfortunately none of the singers were experts, and we failed to appreciate their singing. The dinner ended late at night and we were led to the courtyard, the Governor heading the procession which was preceded by soldiers carrying Chinese paper lanterns. Our horses stood waiting for us at the inner gate of the yamen. Twenty horsemen of the Governor’s bodyguard escorted us home. Each rider carried a lantern. We rode at quick pace through the streets of Khotan which were crowded, notwithstanding the late hour. The raven black horses of the escoit shied and overthrew several fruitstands. It was a beautiful, cool evening and the usually hazy atmosphere of the desert gave way to a clear transparent sky, against the background of which we could see the sharp snowy outline of the Karanghu Tagh Mountains south of Khotan.
+
+For several days more our relations with the authorities continued to be outwardly friendly, although there were signs of a growing uneasiness in the Governor and his subordinates.
+
+A few days after the dinner party, the young son of the Governor became ill, and Mrs. Roerich had to go to help them. The boy recovered and the Governor afterward mentioned that this aid saved us from further difficulties in Khotan and on the way.
+
+Khotan, a city of several scores of thousands, has not even a single doctor. The nearest European doctor lives in Yarkend. The usual practice was to send an urgent message inviting Dr. Nystrdm, of the Swedish Mission in Yarkend. It took the doctor about five days to reach Khotan, traveling day and night on a Chinese cart.
+
+We applied to the magistrate of the city for permission to sketch and take photos in the city itself and its environs. Permission was refused in both cases, and we were told that they had written for instructions to the Governor-General of the Province. We decided to protest to the Tao-t’ai and remind him of his promise to assist the expedition in its work.
+
+Meanwhile a new magistrate had arrived from Urumchi and Kashgar. Disquieting rumors were whispered about. The new magistrate
+
+73 KHOTAN
+
+was violently opposed to foreigners, although he boasted of his modernism.
+
+A few days after his arrival, the Governor with all the Chinese officials came to thank Mrs. Roerich for her help during the illness of the Governor’s son. They came accompanied by an armed escort. From the very beginning of the conversation we felt that the Tao-t’ai and the new magistrate had something on their minds. We invited them to tea in my room and closed the doors so as to prevent the noisy soldiers from entering. Ma Tao-t’ai and the magistrate seemed very uneasy and surly. They examined the room attentively and exchanged brief remarks about our pack cases that were piled along the walls. Suddenly the Tao-t'ai coughed three times, the door swung open and the room was filled with soldiers, who lined up along the walls. The room assumed the appearance of a tribunal. We were much surprised and expressed our astonishment at the conduct of the Governor. The Tao-t’ai smiled and begged us not to pay any attention. I feel sure that the Governor was afraid to remain alone in the room.
+
+The conversation continued on general topics, when suddenly the new magistrate began to question us about our passports. We once more produced our Peking passports sent us to India from the Chinese Wai-chiao-pu, through Mr. Cheng Lo, the Chinese Ambassador in Peking. The attitude of the Chinese was inexplainable. They scoffingly remarked that our passports were not valid in this Province, that the Peking Government had nothing to say in Hsin-chiang and that Mr. Cheng Lo had no authority to issue letters of introduction. The Chinese assumed a threatening attitude, began to gesticulate, spit on the floor, and scoff. It was quite an unexpected change, but we decided to stand firm and pointed out to them that they had no right to threaten the expedition and disregard our passports. We warned them that we should at once communicate with the British Consul in Kashgar and ask him to request the Governor-General of Hsin-chiang for permission to continue our work unimpeded. After a very heated discussion, the Tao-t’ai and his companions rose and departed for Khotan.
+
+Mr. Chang, the new magistrate, came the next day and said that a wire had been received from the Governor-General ordering our expedition to return to India via the Sanju Pass. This was an impossibility, for the pass was long since closed by the snow, and we at once understood that the telegram was a fraud which originated in the yamen of the Governor.
+
+74 TRAILS TO INMOST ASIA
+
+The visit of the magistrate was enlivened by an episode which caused considerable merriment among our servants. The magistrate had arrived in state with a considerable escort of policemen who waited outside the house. Our Tibetan mastiff, Tumbal, as a precaution was taken away and tied to a tree in the garden. In the midst of our conversation, we suddenly heard a loud outcry followed by a wild trampling of feet. The dog had broken his chain and was slowly and menacingly advancing toward the house door. The policemen, unable to stand the sight, fled, many barricading themselves in our bathroom. The door to the room where we were sitting was open, and we could see the dog coming up the steps of the terrace. The magistrate, pale and confused, quickly got on the chair on which he had been sitting and prepared to get on the table where tea was served. It took us some time to explain to the frightened man that the dog was harmless in our presence.
+
+After this visit of the magistrate, we sent a letter to Major Gillan, the British Consul in Kashgar, asking him to assist the expedition. The letter was sent to the Khotan post office but was returned with a note that the Tao-t^ai had given orders to seize all our correspondence with the British Consul in Kashgar. Our letters, containing telegrams for New York, Paris, and Peking, were similarly returned. The situation was a very grave one, and we were fully aware that it was the beginning of a long period of persecution, endless negotiations, and insult. We were cut off from the outside world, and had to find means to send out messages with information of our position.
+
+Several traders volunteered to carry our letters to the consulate at Kashgar. Besides this, two friendly Kalmucks offered their services. They devised a very ingenious plan, based on their thorough acquaintance with local official carelessness. Their plan consisted in waiting patiently with the letter in the street outside the post office. At the very last moment, when the postal messenger would be leading out his horse and fixing the saddlebags, one of the Kalmucks would step out and hand our letter addressed in Turki and Chinese to the British Consul. The Chinese postal official dispatching the mail, would angrily ejaculate, “Why are you always late?” and without looking at the address would throw the letter into one of the saddlebags. This stratagem invariably worked and our letters reached their destination. Evidently at Kashgar our letters were promptly delivered. It took us sixteen days to get an answer, which usually came through a private channel.
+
+On December 29, 1925, the new magistrate and several minor mili-
+
+75 KHOTAN
+
+tary officers, representing the Tao-^ai, came to search our baggage and house. We were said to possess a huge amount of ammunition and some kind of a “shooting wheel” with which we were able to annihilate the whole of the Khotan garrison and the population in less than ten minutes! Our square wooden boxes of preserves from the Cockburn Agency in Kashmir gave rise to the suspicion that we carried large supplies of ammunition with us. Our firearms, consisting of two rifles, one double-barreled gun and three revolvers, and one case of ammunition, were sealed and taken away. Professor Roerich, in his book, Altai-Himdaya, has given a detailed description of the ridiculous and fruitless search.
+
+We decided to leave Khotan at once and go to Kashgar in order to negotiate by wire with the Governor-General for permission to proceed with our work. We also desired the return of our firearms, without which we could not attempt to cross the brigand-infested regions of the interior of China. The authorities gave their silent assent and we hired a camel caravan to carry our baggage to Kashgar. Once more the courtyard of the house and garden were filled with men and kneeling camels — ^a welcome sight to every explorer.
+
+On January i everything was ready for the start, when suddenly an official from the Tao-t’ai arrived and coolly informed us, “The Tao-t’ai orders you to go to Tun-huang in Kansu and not through Kashgar.” We tried to argue, pointing out the fact that our only firearms had been seized, that money orders were waiting for us at the Chinese post office in Kashgar, that we were expecting answers to our cables. All our words were of no avail, the man only repeated one and the same sentence, “Ma Ta-jen changed his mind, and orders your expedition to proceed through the desert to Tun-huang.” He added, however, that we should go and speak to the Tao-t’ai personally. And so we went. A long and tedious conference followed, during which we persistently tried to obtain a written statement explaining the Tao-t’ai's actions. We sat at a small table facing the Tao-t’ai and could see his soldiers behind him making grimaces and pointing their fingers at the Tao-t’ai’s head.
+
+The Tao-t’ai was adamant in his decision to keep us in Khotan. It is difficult to say what had influenced his change of attitude. Some said that he was possessed by the spirit of the murdered Ti-t’ai of Kashgar and no longer could control himself. Others repeated the story that someone had sowed mistrust in the Tao-t’ai’s mind. Whatever it might
+
+76 TRAILS TO INMOST ASIA
+
+be, it was clear that the situation was a very serious one and that we had to find a solution.
+
+We returned to our headquarters and drafted a letter to the Consul in Kashgar, informing him of the situation and requesting him to communicate with the Governor-General in Urumchi. From now on, we received frequent visits from Mr. Chang, magistrate of Khotan. Each day he had another astounding telegram to produce, ordering our immediate arrest and deportation. It so happened that every time he came we were able to confront him with a letter from Major Gillan or a telegram from America. Friends were acting to help us leave Khotan.
+
+Our days were spent either working at the headquarters or negotiating with local authorities. These negotiations occupied most of the time, for each visit of the Governor or the magistrate meant five or six hours of continuous conversation.
+
+On January 20 we received a welcome letter from Major Gillan, notifying us that following his efforts the Governor-General had sent immediate orders for our release from Khotan. This was a piece of welcome news and all in the expedition headquarters rejoiced at the prospect of a march to Kashgar.
+
+On the evening of the same day, we received the visit of our friend Khudai Berdi Bai, who brought the news that a letter had been received from Urumchi with permission to travel to Kashgar. This was an unprecedented case — that an order from the Governor-General should be announced through a private person. The Governor “lost face” and could not deliver the order personally or through the magistrate. The authorities kept silent. Only the commander of the garrison and the old amban sent us their visiting cards with good wishes for our trip to Kashgar. A military officer with the rank of shao-wei or lieutenant came and inquired about the day of our departure. He was ordered to furnish a guard of mounted soldiers to accompany us to Yarkend. The Chinese seemed uneasy, and somehow conscious of the wrong committed toward the expedition. The actions of the local Khotan authorities had almost completely prevented us from carrying out our plans.
+
+We hurried with our preparations. Most of the baggage had been packed long ago. We now only needed to engage a trustworthy caravan-bashi. Khudai Berdi Bai recommended us to Temur Bai, a wealthy caravaneer owning many horse caravans transporting goods between Khotan and Leh. Temur Bai undertook to furnish us with seventy-four pack horses for six Chinese dollars each, with the understanding that
+
+77 KHOTAN
+
+we should reach Kashgar on the fourteenth day. Besides pack anima ls we were obliged to hire two Chinese carriages or ma-fa at twenty-five dollars for the journey. In one of the carriages our Chinese interpreter Ts’ai had to travef, together with a case of firearms, which were returned to us sealed on the eve of our departure. Poor Ts’ai had taken to opium smoking, no doubt depressed by the insulting attitude of the local officials. The aged man was full of his old-time dignity and complained bitterly against the revolting methods of the local administration. As a result of the opium, he was so weak that he could not keep himself in the saddle and had to travel in the carriage. He was careful to conceal his habit and smoked only in the dark of the night.
+
+In the second carriage our Tibetan mastiff, Tumbal, traveled in charge of a servant.
+
+The three months of detention came to an end and we were looking forward to new regions. Our courtyard was filled with friendly Chang-t’ou who came to say goodbye to the expedition. During our three months’ detention we had made many trusted friends; it is a pleasure to express here our gratitude to all who assisted the expedition during the difficult winter days in Khotan.
+
+### KHOTAN-KASHGAR
+
+IV
+
+KHOTAN-KASHGAR
+
+IN the early morning of January 28, 1926, our courtyard and garden were crowded with pack horses and caravan men in heavy sheepskins and dark red charuqs — ^a scene familiar to anyone who has traveled in the caravan region of Asia. The bustle was great and it took us five hours to start the baggage caravan marching. The tents and the rest of the camp equipment had to go in advance, and for this purpose the best horses were given to the camp detachment. This detachment had to leave camp last, and arrive at the new camp first. The caravan men, mostly Turki from Khotan, were sadly lacking in initiative and performed their tasks with surprising carelessness.
+
+Most of the pack horses were big animals from Yarkend, capable of carrying about two hundred pound loads. Their general condition was good and we could hope to arrive in Kashgar on time. The Turkestan pack saddle is much superior to the wooden pack saddles of Ladak and Tibet. It consists of two thick saddle cloths, on which is fixed the saddle cushion — U-shaped and made of sheepskin or cloth well stuffed with straw. The load is fixed to the saddle by ropes, made of camel’s or sheep’s wool. Travelers are warned not to use hemp ropes of Chinese or European make, for they are apt to cause sores. Ropes made of camel’s wool are very good; those made out of sheep’s wool are much inferior.
+
+Several mounted soldiers in charge of an aged shao-wei or lieutenant were ordered to escort us as far as Yarkend, the next garrisoned oasis along the southern trade route. They all came and lined up in front of the house, the lieutenant holding the red visiting card of his superior officer in his raised hand. All the men were over fifty, and were dressed in voluminous gray coats and fur caps with large earflaps which, if necessary, could be buttoned in front of the face. Their arms consisted of old Mausers, and the officer had an old Chinese sword. We were much surprised at the age of these warriors, and inquired whether they intended to retire from service. The reply was that they had recently been promoted to the cavalry for gallant service! In Hsin-chiang a young soldier has to serve in infantry units, and only after he has passed an age
+
+82 TRAILS TO INMOST ASIA
+
+limit or distinguished himself in service is he promoted to the grade of a mounted soldier or ma-p’ing. In Hsin-chiang, as in many other parts of China, a horse is only a means of transportation; a Chinese trooper is taught to sit on a horse, but never to ride it. A beg from Karakash and two daroghas were also delegated to attend to our needs on the journey. They were directed to accompany us to Guma Bazaar, the nearest administrative center on the Khotan-Yarkend route.
+
+We started only about noon, and rapidly rode through the Mohammedan and Chinese sections of Khotan. It was a bazaar day and the streets were thronged with a multicolored crowd of villagers. Our first stage was Zawa. The baggage caravan arrived late at night and we were obliged to spend several hours waiting for it in the garden of the official resthouse. The night was cool and we warmed ourselves at a huge camp fire made by the local villagers.
+
+Before starting from Khotan, our Chinese interpreter, Ts’ai ssu-yeh, had made a yellow flag marked with our name abbreviated to “Lo,” stating the official designation of the expedition. This flag was intrusted to a darogha, who galloped ahead of us and planted the flag on the spot selected for our camp.
+
+In Zawa we found the flag planted on the roof of the resthouse. Ts’ai ssu-yeh was very wise to prepare this flag, for it saved us from many troubles with petty officials, who were always found to respect it even more than our Peking passports.
+
+In the evening we discovered that our soldiers and some of our Chinese servants were confirmed opium smokers. In the morning they were late getting up and considerably handicapped the work about the camp. An opium smoker is a great calamity in an expedition camp and we decided to avail ourselves of the next opportunity to get rid of them.
+
+The route from Zawa to Pialma has already been described in this volume. A brief halt was made at the Shrine Kum-rabat Padshahim. The modern Mohammedan shrine is situated on the spot of an ancient temple dedicated to sacred rats, built by a king of Khotan to commemorate his victory over the Hiung-nu, in which he was miraculously assisted by rats which destroyed the ammunition of the enemies.*
+
+After the Pigeon Shrine, the trail left the sand dune belt and followed a broad gravel plain. A brief halt was made again to water the
+
+I. C£. Stein, Ruins of Desert Cathay, I, i66; Beal, Buddhist Records of the Western World, pp. 3*5 ff
+
+THE EXPEDITION HEADQUARTERS IN KHOTAN
+
+SUMMER HOUSE IN KARGHALIK
+
+CHINESE CAVALRY ENTERING KASHCiAR
+
+83 KHOTAN-KASHGAR
+
+animals at Ak-langar — a desert resthouse built in the days of Yakub Beg. The resthouse has a well of brackish water.
+
+Pialma, the terminal oasis on the Duwa River, was reached late at night. The stars shone brilliantly when we entered the village. The camp was pitched in a garden belonging to the house of a wealthy landowner. There was a scarcity of drinking water, as all the water supply had dried up, and we were obliged to thaw the snow. The horses had to be watered at a place four miles distant.
+
+Late in the evening we had a visit from Dr. Nystrom, of the Swedish Mission in Yarkend. He was hurrying to Khotan where two officers of the Governor’s bodyguard had recently wounded each other. One of the men died shortly after the shooting, but the other recovered and was subsequently executed by order of the Governor. Dr. Nystrom was traveling day and night in a Chinese cart, halting once in twenty-four horns to feed the horses.
+
+The march from Pialma to Zanguya led over a gravel desert. We instructed the darogha, who daily galloped ahead of us with a notice of our arrival, to prepare quarters for us in houses of well-to-do villagers and to avoid Chinese official resthouses with their noise and squalor.
+
+Shortly after our arrival in Zanguya, the lieutenant in charge of our guard arrived and requested me to look at their horses which had become unexpectedly ill. We found the animals lying in the stable, unable to stand on their feet. The fat animals, which were always kept in the stable and never given exercise, had succumbed to the fatigues of three days’ marching. It was evident that they could go no farther and had to be left in Zanguya. I therefore advised the distressed lieutenant to hire horses from local peasants and to leave his own horses in charge of a soldier. He followed my advice and on the next morning he and his men were mounted on shaggy creatures with tremendous manes and tails. The local bronchos probably had seldom been ridden before and the escort had an exciting ride to Guma Bazaar. This is an important center with some seven hundred houses and the seat of a magistrate, who controls the vast mountain tracts around Sanju Oasis. It is renowned for its numerous orchards and mulberry groves. Its chief local industry is the manufacture of coarse paper. A spacious garden with a summer house was reserved for our camp. The gates of the garden were gaily decorated with red and yellow cloth and a group of local notables was waiting inside the garden.
+
+Soon after our arrival, we received the visit of the local magistrate.
+
+84 TRAILS TO INMOST ASIA
+
+He was accompanied by his young son and a troop of armed policemen in strange uniforms and old muzzle-loading rifles. The magistrate was greatly concerned over our difBculties in Khotan and hinted that Ma Tao-yin was a man of dangerous habits. An authentic source had told him the story that the Governor of Khotan had stormed our headquarters and that he was repelled with heavy losses. How this story originated, it was impossible to learn. Rumors take strange shapes in Chinese Turkestan.
+
+Our servant T’ang, who had fallen ill a few days before, had to be left in care of the local magistrate, who promised to send him back to Khotan, as soon as he should feel better. T’ang was a confirmed opium smoker and the last four days of marching through the desert had completely broken down his reserve strength.
+
+In the evening we were visited by a traveling troop of actors. The tamasha or theatrical entertainment was illumined with torchlights and Chinese paper lanterns. Most of the actors were local Turki, but the subjects of the scenes and the songs were Chinese. These tamasha are a feature of Turkestan life.
+
+At Guma, we were given another beg and darogha to accompany us to Karghalik. Our original plan was to camp at Cholak-langar, some eighteen miles from Guma, but fresh arrivals at Guma brought the news that the water supply at Cholak had completely dried up. We had to camp at Siligh-langar, some ten miles west of Guma. Siligh-langar consisted of several miserable mud hovels with a small inclosed courtyard filled with piles of firewood and bundles of hay. At night a large camel caravan bound for Tun-huang passed our camp and almost overturned some. of our tents. The night was pitch dark and the camel drivers were sound asleep in their saddles. The droning sound of bells heralded the approach of the caravan column, marching at good pace. Before we were able to realize what was happening the dark silhouette of the huge caravan had entered our camp and the camels’ feet were tearing our tent ropes. The energetic action of some of our men alone prevented further damage and a stampede of frightened animals.
+
+Our next stop was Akin-langar, another relay station on the long thirty-four mile stage between Guma and Karghalik. So far we had enjoyed perfect weather, with warm days and cool nights. At Akin-langar the weather suddenly changed. A cold wind started up toward sunset and the temperature dropped below zero. Snow fell during the night and in the morning we found the desert covered by a thin layer of
