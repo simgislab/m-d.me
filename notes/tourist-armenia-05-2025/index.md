@@ -93,6 +93,8 @@ fediverse: "@username@instance.url"
 
 Потыкать в больше точек с фото можно на [интерактивной карте](https://maxim.nextgis.com/resource/8247/display?panel=layers).
 
+[![armenia-photo-map.png](armenia-photo-map.png)](https://maxim.nextgis.com/resource/8247/display?panel=layers)
+
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo/80)
