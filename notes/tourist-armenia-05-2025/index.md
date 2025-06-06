@@ -33,7 +33,7 @@ fediverse: "@username@instance.url"
 
 ![IMG_20250519_110319.jpg](IMG_20250519_110319.jpg)
 
-Вид с балкона конторы ARPA National Landscape, рядом с Арени
+Вид с балкона конторы Arpa Protected Landscape, ООПТ особой организационной формы. Рядом с Арени
 
 ![IMG_20250519_122110.jpg](IMG_20250519_122110.jpg)
 
