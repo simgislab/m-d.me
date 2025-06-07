@@ -17,7 +17,8 @@ fediverse: "@username@instance.url"
 Turns out there is no good text version of Trails to Inmost Asia. So here it is.
 
 * Based on [Internet Archive version](https://archive.org/details/in.ernet.dli.2015.43990) Roerich's book in TXT format.
-* 
+* Text was edited, page format adapted, excessive line breaks removed
+* Page numbers are preserved
 
 ## The Book
 
@@ -77,7 +78,7 @@ In the country of Tsaidam, George Roerich studied the different dialects of the 
 
 From Tibet, George Roerich brings back a scientific picture of the life and civilizations of the nomads of the High Plateau. During his researches he discovered the existence of an artistic style peculiar to the nomads — primarily animalistic — a style closely related to that of the ancient Scythians and Goths. Thus he presents strong arguments in justification of the theory, concerning the ancient civilization of the nomads, whose territory extended from the Gobi Desert and the border of Korea to the lower Danube and the Carpathian Mountains.
 
-x
+**x**
 
 A most interesting discovery rewarded the efforts of the explorers. On the uplands of Tibet and in the country of the Trans-Himalayas, the expedition carefully studied and photographed many monuments (cromlechs, alinements, menhirs) whose existence had never before been recorded and whose structure evokes most interesting comparisons with our western monuments, especially those of Brittany.
 
@@ -93,7 +94,7 @@ Louis Marin
 
 *Paris, June, 1931.*
 
-xi
+**xi**
 
 ## AUTHOR’S NOTE
 
@@ -109,7 +110,7 @@ The second object of the expedition was to survey the possibilities for new arch
 
 The third object was to secure an extensive collection of ethnographi-
 
-xii
+**xii**
 
 cal and linguistic material, illustrating the culture of these regions. During its long journey along the Tien Shan, the steppe region of Jungaria, the Altai, the mountains of southwestern Mongolia, and the highlands of Tibet, the expedition surveyed numerous archaeological sites; and it is hoped that another expedition may be mustered to carry out extensive excavations of vast necropoli left by nomad tribes, which date back to the period between the &st and eighth centuries a.d. A large collection of Tibetan and Mongolian books was gathered during the expedition’s stay in Mongolia and Tibet.
 
@@ -129,7 +130,7 @@ To His Excellency M. Louis Marin, for his ever helpful assistance and for contri
 
 To my teacher. Professor Jacques Bacot, who first introduced me into the ancient lore of Tibet
 
-xiii
+**xiii**
 
 To my friend, Dr. Georges G. Chklaver, of the University of Paris, for his untiring interest in my exploration work and his trusted friendship.
 
@@ -147,7 +148,7 @@ G. N. R.
 
 *June, 1931.*
 
-xvi
+**xvi**
 
 ## CONTENTS
 
@@ -197,7 +198,7 @@ XIX. From Saga Dzong TO Sikkim 447
 
 Index 491
 
-xvii
+**xvii**
 
 ## LIST OF ILLUSTRATIONS
 
@@ -489,7 +490,7 @@ The expedition column approaching the Trans-Himalayas 417
 
 *Kinchenjunga — The Mountain of the Five Treasures* Painting by Nicholas Roerich, White House, Washington, D.C. 444
 
-### xx TRAILS TO INMOST ASIA
+**xx TRAILS TO INMOST ASIA**
 
 *To face page*
 
@@ -529,7 +530,7 @@ General map of the route of the expedition through central Asia 504
 
 ## KASHMIR-LADAK
 
-### I
+I
 
 KASHMIR-LADAK
 
@@ -541,7 +542,7 @@ The hot season was already approaching and a peculiar and intense glare hung ove
 
 On the evening of the eighth of March we reached RawalpindL Several hours before the cantonment, the train traversed an arid country of sand and stone, cut into numerous canyons. After i night spent at a lo-
 
-4 TRAILS TO INMOST ASIA
+**4 TRAILS TO INMOST ASIA**
 
 cal hotel at Rawalpindi we again resumed our route, but this time in motor cars. Rawalpindi has the atmosphere of alertness of a great military station. Everywhere there are khaki-clad figures; and the town bazaars throng with the colorful crowd of a border country. Fine-looking Hazaras and martial Pathans from the frontier move among the groups of Punjabis and down-country men.
 
@@ -557,7 +558,7 @@ About three o’clock in the afternoon we drove into the native city of Srinagar
 
 We establidied our headquarters at the Nedou Hotel and at once began our preparation for the journey to Ladak and the desert lands of Chinese Turkestan, lying beyond the lofty passes of the Karakmrum
 
-5 KASHMIR-LADAK
+**5 KASHMIR-LADAK**
 
 and Sanju. A difficult and long mountain journey necessitates protracted preparations and every detail must be thoroughly checked personally; a journey such as that from Kashmir to Chinese Turkestan over die highest moimtain route in the world, requires unusual forethought and careful consideration. Srinagar is the last place where such preparations can be made and food supplies obtained. The Kashmiri artisans are famed for their work and, if supervised, turn out serviceable equipment. There are a number of native firms in the city which produce excellent winter outfits and camping furniture. Naturally, the traveler must keep a watchful eye on the execution of his order. All the expedition supplies had to be packed in yaghtans or wooden boxes covered with leather. Tin or iron boxes are of no use in mountain travel, for they easily break.
 
@@ -571,7 +572,7 @@ The departure was fixed for the beginning of August, and, meanwhile, we decided 
 
 I shall not describe the capital or the valley of Kashmir. Concerning them there is a voluminous literature, and the antiquities of the country
 
-6 TRAILS TO INMOST ASIA
+**6 TRAILS TO INMOST ASIA**
 
 have been studied and commented upon by such men as Sir Aurel Stein.
 
@@ -583,7 +584,7 @@ The next day proved to be fine and we had enough time to recross the lake into t
 
 About the fifteenth of April, we moved to Gulmarg, the hill station of Kashmir. Here, in the coolness of the mountains, we could conclude our preparations and study the different problems presented by our coming journey. We arrived early in the season and the hill station was still covered by snow. For a whole week we experienced tremendous thunderstorms. The thunder rolled and crashed in the mountains and the ligh tnin g swept round our house in a large circle, illumining the whole neighborho^ at night. For several days we were completely cut off from the outside world and had to keep to our rooms. Nowhere else did we experience electrical storms of such terrific violence. They were usually followed by hail, and some of the hailstones were of surprising size.
 
-7 KASHMIR-LADAK
+**7 KASHMIR-LADAK**
 
 At Gulmarg we spent the whole of May, June, and July. By the end of July we had received all our outfit and, on the eighth of August, the expedition left Gulmarg for Ganderbal on its long journey to Ladak and Chinese Turkestan.
 
@@ -601,7 +602,7 @@ The Leh Treaty Route was made passable for peaceful caravans by the efforts of C
 
 The route passes Gund and Sonamarg, the summer camping ground of many European visitors. Fine weather accompanied us up to Sonamarg. At Gimd we had a sad experience with our horses which only by a lucky chance did not prove fatal to them. All along the route from Ganderbal to Baltal is a kind of poisonous grass, locally called *gumai*. The horses of the region never touch it, but strange horses often eat it
 
-8 TRAILS TO IMOST ASIA
+**8 TRAILS TO IMOST ASIA**
 
 and perish. Through die negligence of our syces, four of our best horses ate some of this grass and fell ill in the evening. We tried our best to hdp them, but their condition rapidly grew worse. All local remedies were without avail. Finally, we decided to give them a good dose of bicarbonate of soda. This worked wonders. By the next morning all four of the animals were all right and were able to proceed to Sonamarg.
 
@@ -623,7 +624,7 @@ PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
-9 KASHMIR-LADAK
+**9 KASHMIR-LADAK**
 
 ture and covered with luxuriant meadows and pine forests. The great change comes only after the Zoji Pass. We started about six o’clock in the morning and slowly ascended the pass. It presents no difBculty in late summer or autumn. But in winter it is dangerous, and practicable only for men, for its avalanche-swept slopes are covered with ice and snow which may at any time give way and carry the traveler down the precipice. Traffic is closed for the whole of winter and during early spring, dming which time the traveler has to pay special rates to the coolies who agree to iace the peril on the s ummi t of die pass.
 
@@ -758,7 +759,7 @@ We spent an extra day at Lamayuru and visited the monastery. At present it belon
 
 12\. Francke, *A History of Western Tibet*, p. 98.
 
-i6  TRAILS TO INMOST ASIA
+16  TRAILS TO INMOST ASIA
 
 the local monastic tradition, it was founded by the famous mahasiddha Naropa who lived in the ninth century a.d. and with whose name are associated many events in the church history of Ladak. The name of the monastery is said to be a corruption of gYung-drung or Svastika, the synonym of Bon, i.e., the primitive nature religion of Tibet. Dr. Francke relates the following legend about the name of the monastery:
 
@@ -982,7 +983,7 @@ the frequent breaths of cold wind from the mountain summits made us realize that
 
 The son of a local Ladak headman was accompanying us as head servant and proved a devoted and efficient man. Ladakis are wonderful in caravans, always cheerful amid hardships and storms, contented with little, and always ready to perform their work. They march on foot long distances over hard, stony ground that renders animals lame, and yet never complain of fatigue. In our subsequent wanderings, we often remembered our Ladaki caravan men and their devoted service.
 
-### FROM LEH TO KHOTAN THE GREAT KARAKORUM ROUTE
+## FROM LEH TO KHOTAN THE GREAT KARAKORUM ROUTE
 
 II
 
@@ -1272,7 +1273,7 @@ We camped in the garden, but a dense crowd of some three hundred Chinese and Tur
 
 We had to post two of our Ladakis in order to prevent a further intrusion. Our first night in Khotan was by no means pleasant. The air was sticky, and the smells that permeated the city added greatly to its discomforts.
 
-### KHOTAN
+## KHOTAN
 
 III
 
