@@ -14,11 +14,13 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-Turns out there is no good text version of Trails to Inmost Asia. So here it is.
+Turns out there is no good text version of Trails to Inmost Asia. PDFs are not usable for annotating and shared work. So here it is.
 
 * Based on [Internet Archive version](https://archive.org/details/in.ernet.dli.2015.43990) Roerich's book in TXT format.
-* Text was edited, page format adapted, excessive line breaks removed
-* Page numbers are preserved
+* Excessive line breaks removed to adapt for larger screens.
+* Page numbers are preserved for easy reference.
+* Applied proof-reading and formating.
+* [Google Docs version](https://docs.google.com/document/d/1ZvcCOrRze3yLZ7HC0lz-M40sQmiLVOqX7Nz8g7ZXY9s/edit?usp=sharing) - use to download as DOC or PDF or copy for your work online.
 
 ## The Book
 
@@ -1754,7 +1756,7 @@ The local representative of the American firm of Brenner Bros, at Tientsin rende
 
 Spring was rapidly approaching and new grass was appearing in the
 
-2. *'Tibetische Handschriftenfunde aus Turfan/* SPAW (1924).
+2\. *'Tibetische Handschriftenfunde aus Turfan/* SPAW (1924).
 
 101 NORTHERN HIGHWAY TO URUMCHI
 
@@ -1830,7 +1832,7 @@ Toin Lama is considered by his followers to be an incarnation of the well-known 
 
 The Tibetan Government ordered the non-transmigration of the lama’s soul — ^the highest punishment in Tibet. Notwithstanding this strict order, an incarnation of the lama appeared in far distant Turkestan in the princely family of Karashahr Torguts. The deceased lama had prophesied before his execution that he would be reborn in a country of felt tents and huge herds of cattle. The boy born in the princely
 
-3. Three Years in Tibet, chap. iu.
+3\. Three Years in Tibet, chap. iu.
 
 107 NORTHERN HIGHWAY TO URUMCHI
 
@@ -2674,7 +2676,7 @@ April 20 was a hard day for our cars and the personnel of the expedition. The on
 
 The next march was difficult and trying. The trail lay over a barren country of intersected sandy ridges and canyons formed by streams that once flowed from the mountains to the north. Soon after we left our camp, we met the first caravan coming straight from Tibet. It belonged to a wealthy Lhasan merchant, Kusho Kudrupa, one of those “state merchants” who traded in the name of His Holiness the Dalai Lama. He was accompanied by a number of Tibetan retainers and was going to Urga and Peking to buy silks, brocades, and other articles. The cara-
 
-2. I, 201.
+2\. I, 201.
 
 185 URGA—YUM-BEISE KUREN
 
@@ -2746,7 +2748,7 @@ The region is impassable during summer, because of the unbearable heat of the de
 
 It is this extreme deficiency of water which invests by far the greatest portion of the area we are considering, with the character of what I may call “true desert.” Let me stress the word “true” in this expression in order to make it quite clear that the ground over which I shall have to ask you to follow me tonight in tracing historical movements, differs greatly indeed from those deserts with which biblical stories, descriptions of Arabian or South African scenery and the like have made many of us familiar in a certain sense. These “tame deserts,” as I should venture to call them for the sake of distinction, may indeed impress the town dweller, especially if he comes from our centers of congested humanity, with their sense of solitude, emptiness and let me add, peace. But deserts in which whole tribes can wander about for long periods sure to find water and grazing for their flocks at least at certain regular seasons — deserts in which populations driven out from their
 
-3. Ceographied Journd, No. 5, 1925, p. 379,
+3\. Ceographied Journd, No. 5, 1925, p. 379,
 
 191 URGA—YUM-BEISE KUREN
 
@@ -2906,7 +2908,7 @@ The following are fragments from my diary describing the passage of the expediti
 
 Saturday, May 7, 1927. The day promises to be hot. Clouds hover over the horizon. Everywhere sand — sand dunes that stretch far toward the south. We started preparations about noon. The Mongol drivers are watering the camels, fixing the pack saddles and smearing grease over the bloody wounds on the animals’ flanks. The hair rolls up under the saddle and the saddle wears off the skin by constant rubbing. Wounds develop, which soon become open sores and healing becomes almost impossible. About three o’clock in the afternoon the whole cara-
 
-2. Ma-tzu Shan is the Mongol pronunciation of the Chinese Ma-tsung Shan; we retain in the text the Mongol form of the name.
+2\. Ma-tzu Shan is the Mongol pronunciation of the Chinese Ma-tsung Shan; we retain in the text the Mongol form of the name.
 
 208 TRAILS TO INMOST ASIA
 
@@ -3094,7 +3096,7 @@ Ja Lama’s first public appearance in outer Mongolia dates back to
 
 225 JA LAMA, THE MILITANT PRIEST
 
-1890. Professor Pozdneev in his valuable Mongolia and the Mongols^ gave a brief account of the early activity of the lama. During his visit to the important Lamasery of Amur-baishalantu, he heard from a local petty official the story about a great lama vi^ho appeared in Mongolia in the autumn of 1890 and traveled from Dzin-dzilik, frontier station to Uliassutai and from there to Urga. The lama wore a fur cap surmounted by a golden vajra and freely distributed gold and golden coins to poor people. He said everywhere that he was Ten-pei Jal-tsen, son of Temiirsana, who was in his turn the son of the famous Amursana. In other places he maintained that he was not only the descendant of Amursana but also his incarnation and that he reappeared to liberate Mongolia from the Chinese yoke. The nomads easily believed his words and crowds of people gathered on urton or relay stations to greet the Incarnated Lama. They kotowed before him and paid him deep veneration.
+1890\. Professor Pozdneev in his valuable Mongolia and the Mongols^ gave a brief account of the early activity of the lama. During his visit to the important Lamasery of Amur-baishalantu, he heard from a local petty official the story about a great lama vi^ho appeared in Mongolia in the autumn of 1890 and traveled from Dzin-dzilik, frontier station to Uliassutai and from there to Urga. The lama wore a fur cap surmounted by a golden vajra and freely distributed gold and golden coins to poor people. He said everywhere that he was Ten-pei Jal-tsen, son of Temiirsana, who was in his turn the son of the famous Amursana. In other places he maintained that he was not only the descendant of Amursana but also his incarnation and that he reappeared to liberate Mongolia from the Chinese yoke. The nomads easily believed his words and crowds of people gathered on urton or relay stations to greet the Incarnated Lama. They kotowed before him and paid him deep veneration.
 
 Two influential Mongolian Incarnate Lamas, Jahantsa Hutukhtu and Ilgusan Hutukhtu, joined his cause and were afterward suspected by the Chinese authorities. In order to free these high church dignitaries, two simple lamas took upon themselves the guilt and were sentenced to death by the Chinese. On the eve of their execution the lamas poisoned themselves.
 
@@ -4220,7 +4222,7 @@ Della Penna and Nain Singh, one of the ablest native surveyors of the Indian Tri
 
 In the modern colloquial language, the word “Hor” represents a Tibetan ethnic name for nomad tribes of mixed origin that dwell between the Panag-Golok tribes and the Chang-pas of the Great Lake region. The admixture of foreign blood in them is prominent, and we easily discern Mongolian, Turkish, and even Homo alpinus types, the last probably due to an admixture of Iranian or Scythian blood. They have preserved dim recollections of their remote central Asian origin and
 
-2. Ill, II.
+2\. Ill, II.
 
 336 TRAILS TO INMOST ASIA
 
@@ -4294,7 +4296,7 @@ After a short ride, the traveler notices several large black tents in a side val
 
 The Tibetan nomad tent, usually called ha-nag or “black tent” has often been compared to a gigantic spider. It is made of black yak wool, and consists of two halves connected by narrow strips at the places in its roof where the two tent poles are fixed. A hole in the roof is thus left open to let out the smoke. The tent is kept erect by two vertical poles
 
-3. Ijc Tibet Revolte, p. 26.
+3\. Ijc Tibet Revolte, p. 26.
 
 343 THE HOR-PAS AND THEIR COUNTRY
 
@@ -4346,7 +4348,7 @@ The present state of our knowledge permits no conclusions to be made about the e
 
 The costume is universal for all the nomad districts of Tibet. The usual costume of Hor-pa men and women of the poorer class consists of the sheepskin coat. Sometimes a shirt is worn, but most of the nomads wear their sheepskins on the naked body. When working, the heavy and cumbersome coat is thrown down from the right shoulder, which is left bare. Large homespun trousers are often worn by the men. The footgear consists of high boots, kept by a garter under the knee. The leg of such a boot is commonly made of coarse woolen homespun; the sole is made from raw yak hide and its edge is trimmed with yak hair. Sometimes in men’s boots the leg is of red leather. Leather boots are imported from Chien-ch’ang in southwestern Szu-ch’uan Province. Wealthy headmen and lamas are sometimes seen wearing black cowhide boots of Chinese make and pattern. The Mongol boots of black, yellow, or red leather (mostly imported from Russia) with sewn designs of colored leather, are greatly valued and form one of the successful articles of Tibetan import. Among the lamas the legs of the boots are invariably red and the uppers are always of white cotton. The sheepskin coats of the Hor-pas frequently have colored pieces of cloth sewn on the back and round the edges of the coat. Black, blue, dark green, and purple are favorite colors. The laymen prefer black and dark
 
-4. P. 259 of his work on the Third Central Asiatic Expedition (St. Petersburg, 1883).
+4\. P. 259 of his work on the Third Central Asiatic Expedition (St. Petersburg, 1883).
 
 348 TRAILS TO INMOST ASIA
 
@@ -4436,9 +4438,9 @@ There exist two forms of Bon: One the primitive nature worship, full of shamanis
 
 In the first form of Bon, we meet gods of heaven and earth, of sun and moon, of stars and of the four quarters. To this form of Bon belongs the circle of legends about King Kesar, and Dr. A. H. Francke has shown in his valuable monograph on the Tibetan marriage songs^ the mythological character of Kesar and his consort, ’Bru-gu-ma, who
 
-5. J. van Mancn, “Concerning a Bon Image,” JASB, XVIII (1922), 205.
+5\. J. van Mancn, “Concerning a Bon Image,” JASB, XVIII (1922), 205.
 
-6, Tibctische Hochzeitslieder (Hagen and Darmstadt, 1923).
+6\. Tibctische Hochzeitslieder (Hagen and Darmstadt, 1923).
 
 355 THE HOR-PAS AND THEIR COUNTRY
 
@@ -4472,7 +4474,7 @@ The Tsang Province is known for its B6n-po monasteries. At Chatu gompa, a large 
 
 The codification of the Bon doctrine and the creation of the voluminous religious literature dates from the Buddhist period, that is, it is posterior to the ninth century a.d. So far we had no knowledge of the existence of a Bon Kanjiir and Tanjiir. We only surmised that large Bdn-po monasteries undoubtedly possessed large libraries of Bon-po literature. It was the good fortune of our expedition to discover two complete collections of B6n-po scriptures at the B6n-po monastery of Sharugdn, four days northeast of Nag-chu dzong. The Bon Kanjiir or Translated Commandments consists of one hundred and forty large volumes. The collection is evidently an imitation of the Buddhist TripitaXa. It not only has the threefold division of the TripitaXa (Bon-sde-gsum') but imitates the Buddhist Kanjiir in the external arrange-
 
-7. (I^ndon, I 904 )» PP* 271-276.
+7\. (I^ndon, I 904 )» PP* 271-276.
 
 358 TRAILS TO INMOST ASIA
 
@@ -4498,9 +4500,9 @@ The historical background of the legend takes us far back into the past of the g
 
 The nomads of Kham and Hor understand the ballad differently. According to them it is not a production of a single bard, largely due to the imagination of the singer, but is a poetical record of ancient wars that were fought in the past. According to some authors and the collection of heroic songs, entitled rGyal-drung, King Kesar lived in the eighth century a.d. According to still another tradition. King Kesar was
 
-8. On the relation of the Kesar saga to the ancient nature worship of Tibet, see Dr. A. H. Francke, op. cit.. Introduction.
+8\. On the relation of the Kesar saga to the ancient nature worship of Tibet, see Dr. A. H. Francke, op. cit.. Introduction.
 
-9. Globus, LXXVIII, 98. 10. Etnographiches\oe Ohozrenie, XXI, 2.
+9\. Globus, LXXVIII, 98. 10. Etnographiches\oe Ohozrenie, XXI, 2.
 
 II. Gescrica, Asia Major, Vol. Ill, fasc. I, pp. 1-32.
 
@@ -4516,9 +4518,9 @@ The Asiatic Museum of the Russian Academy of Sciences, possesses a Tibetan Kesar
 
 In Tibet and Mongolia, the epic of Kesar is still constantly enriching itself with new songs and episodes. New episodes are added to the old groundwork of the ballad and messianic ideas attached to the figure of Kesar Khan. Kesar is said to return again to earth and lead the nomad tribes against a powerful enemy who will arise to establish the Kingdom of Evil.
 
-12. Ibid., fasc. 2, p. 193.
+12\. Ibid., fasc. 2, p. 193.
 
-13. On literature about the Kesar ballad sec: Laufer, Ocher\ MongoU\oi Uteraturi, ed. Professor V. Vladimirtsoff (Leningrad, 1927), p. 74; I. J. Schmidt, Die Taten Bogda Gesser Chan*s (first published in St. Petersburg and Leipzig in 1893). New edition in the collection "Die heiligen Bucher dcs Nordens,*’ Vol. I (Berlin, 1925).
+13\. On literature about the Kesar ballad sec: Laufer, Ocher\ MongoU\oi Uteraturi, ed. Professor V. Vladimirtsoff (Leningrad, 1927), p. 74; I. J. Schmidt, Die Taten Bogda Gesser Chan*s (first published in St. Petersburg and Leipzig in 1893). New edition in the collection "Die heiligen Bucher dcs Nordens,*’ Vol. I (Berlin, 1925).
 
 361 THE HOR-PAS AND THEIR COUNTRY
 
@@ -4534,7 +4536,7 @@ Then for the study of the reformed Bon, the Bon Kanjiir and Tanjiir are of the u
 
 The B6n-po monastery of Sharugdn was built some twenty years ago. The necessary funds were raised by popular subscription among the five nomad tribes of the western Hor. It is situated in a narrow gorge of granite rocks on the banks of the river Chu-na-khe at the foot of a picturesque granite mountain that shelters the monastery from the prevailing southwest winds of the Tibetan upland.
 
-14. See his Proizvedeniya narodnoi literaturi Buriat, Pt. Ill, Introduction, p. xxvii (Petrograd, *9*8).
+14\. See his Proizvedeniya narodnoi literaturi Buriat, Pt. Ill, Introduction, p. xxvii (Petrograd, *9*8).
 
 362 TRAILS TO INMOST ASIA
 
@@ -4568,9 +4570,9 @@ Another popular deity of the B6n-po Pantheon is the black Garuda or Khyung-nag, 
 
 The rest of the walls of the principal hall are covered with frescoes representing Bdn forms of Vajradhara, Vajrakila, Yamantaka, Demchog, Palden Lhamo, and even a Bdn form of Kalacakra represented on the walls both in its mild and fierce forms. The head lama of the monastery told me that there exist a number of texts on Bdn-po Kalacakra. It would be interesting to compare them to the Kalacakra system of Buddhism. All these deities are seen holding the Bdn vajra with the Svastika symbol and the fruit with the emerging flower. Some of the divinities are depicted with garlands of flowers on their heads. All of
 
-15. A bronze image of the same deity has been described by van Mancn, JASB, XVIII (1922).
+15\. A bronze image of the same deity has been described by van Mancn, JASB, XVIII (1922).
 
-16. Van Manen in his interesting article, p. 210, gives gsang-wa as the name of the god. I think we have to do here with a mystic form of Vajrapani, a gsang>wa'i lha.
+16\. Van Manen in his interesting article, p. 210, gives gsang-wa as the name of the god. I think we have to do here with a mystic form of Vajrapani, a gsang>wa'i lha.
 
 365 THE HOR-PAS AND THEIR COUNTRY
 
@@ -4584,7 +4586,7 @@ The old du-\hang on the opposite side of the courtyard has an altar, a painted w
 
 Above the bookshelves hang a number of masks used in religious dances that take place in summer. An opening in the roof gives access to the flat roof of the du-J{hang. A tree trunk with incised steps serves as a ladder. Every morning at sunrise, a lama ascends to the roof and sounds the conch inviting the monks to the morning service. During one month’s residence at the monastery, we seldom saw religious serv-
 
-17. Concerning the seven a-kjiu, dialectical a-gu, and another group of eighteen a-khu, see Dr. Francke, op. cit., pp. 17 ff.
+17\. Concerning the seven a-kjiu, dialectical a-gu, and another group of eighteen a-khu, see Dr. Francke, op. cit., pp. 17 ff.
 
 366 TRAILS TO INMOST ASIA
 
@@ -4616,7 +4618,7 @@ In historic times Tibetan tribes have had a good deal of intercourse with Irania
 
 The earliest known account of a penetration of foreign central Asian
 
-18. Cf. Professor M. Rostovsteff, The Animal Style in South Russia and China (Princeton, 1929), chap. iv.
+18\. Cf. Professor M. Rostovsteff, The Animal Style in South Russia and China (Princeton, 1929), chap. iv.
 
 368 TRAILS TO INMOST ASIA
 
@@ -4628,7 +4630,7 @@ We are concerned here only with the end of the above passage. A section of the Y
 
 (i) Tinder and Flint Touch. The pouch comes from the western Hor region. It is made of black towed leather, ornamented with brass figures of animals. It is distinctly central Asian, and belongs to the “animal style.” The animal figures represent female deer with their young.
 
-19. Fr. Hirth, “The Story of Chang-K*ien,’JAOS, Vol. 37, 2 (1917), chap. 123, p. 96.
+19\. Fr. Hirth, “The Story of Chang-K*ien,’JAOS, Vol. 37, 2 (1917), chap. 123, p. 96.
 
 FLINT POUCH, T.AHUL, WEST TIBET
 
@@ -4654,7 +4656,7 @@ Such flint pouches and buckles in “animal style” were found by us only among
 
 (5 and 6) Two of the illustrations shown have been taken from a silvered iron pen case from Derge. On this pen case made of massive iron, among ordinary floral ornamentation we see a stylized figure of a sitting deer and a swan. The motif of the sitting deer, elks, or stags is well known in Scythian and Siberian antiquities.*® The figure of the swan is already under the strong influence of Chinese ornamental art. This figure is a product of a Chinese workshop producing art objects for the use of border tribes. It is interesting to note that the swan on our pen case corresponds almost in every detail to the figure of a long-
 
-20. See plates in Gr. Borovka's Scythian Art (New York; Frederick A. Stokes, 1928).
+20\. See plates in Gr. Borovka's Scythian Art (New York; Frederick A. Stokes, 1928).
 
 370 TRAILS TO INMOST ASIA
 
@@ -4666,7 +4668,7 @@ It is difficult to determine what was the use of the plaque. The two square open
 
 In comparing the two plaques, one can readily see the similarity of composition. On both plaques the principal figure is that of an animal standing from right to left with head turned toward the onlooker. It is difficult to say whether the Kozlov plaque represents a yak. I am inclined to think that it represents an aurochs. The treatment of the animal’s fur in both cases is analogical. Both plaques have a background of two stylized trees. The plaque in the S. N. Roerich Collection has as its background two trees branching out over the lion’s head. These trees suggest a country with a warmer climate, whereas the Kozlov plaque has two pine trees that speak of the northern origin of the object. It seems that the two objects depict an animal motij current in the nomad art of inner Asia, but that the lion plaque originated in the
 
-21. The piece was reproduced on Plate VIII of the Preliminary Report, published by the Academy of Sciences, 1925.
+21\. The piece was reproduced on Plate VIII of the Preliminary Report, published by the Academy of Sciences, 1925.
 
 C:ON V FNT rONALI ZKI ) F K J U R F (JF DFFR ON SILVERED IRON FEN C:ASE
 
@@ -4692,9 +4694,9 @@ The ancient plaque in the S. N. Roerich Collection is a striking example of the 
 
 All these objects irrefutably attest the existence of the ancient central Asian nomad art in Tibet. The mountainous character of the country with its inaccessible valleys, helped to preserve many reminiscences of a remote antiquity, and its nomad population treasures much of its central Asian past. So far attention has been paid only to the religious art of Tibet, its colorful painted banners and fine bronzes. Now a new province of Tibetan popular art has been opened, that is the pre-Buddhistic art of Tibetan nomad tribes, relic of a remote past.
 
-22. The Burlington Magazine, XLVIII (April, 1926), pp. 168-185; for the plaque see Plate IV, J, of the same article.
+22\. The Burlington Magazine, XLVIII (April, 1926), pp. 168-185; for the plaque see Plate IV, J, of the same article.
 
-23. The Kozlov plaque was published in the supplementary plates (I) of the Preliminary Report of the Kozlov Expedition (Leningrad, 1925), ed. Academy of Sciences of the U.S.S.R.
+23\. The Kozlov plaque was published in the supplementary plates (I) of the Preliminary Report of the Kozlov Expedition (Leningrad, 1925), ed. Academy of Sciences of the U.S.S.R.
 
 CONVENTIONALIZED FIGURE OF SWAN ON SILVERED IRON PEN CASE FROM AMDO Collection S. Roerich
 
