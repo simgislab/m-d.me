@@ -532,7 +532,7 @@ General map of the route of the expedition through central Asia 504
 
 I
 
-KASHMIR-LADAK
+**KASHMIR-LADAK**
 
 ON the sixth of March, 1925, the expedition left the hill station of Darjeeling, and with it the friendly country of Sikkim. It is always a wonderful experience to travel down the jungle-clad slopes of the eastern Himalayas. The tropical vegetation and the endless stream of hill people who wander along the cart road are full of interest to the traveler. In complete darkness, we reached Siliguri. The train was rolling over the low-lying plain of Bengal --- jungle-clad and fever-infected marshy tracts, and rice fields already flowed. Through the blackness of the tropical night, one could see the strange life proceeding around the glittering lights of numerous fires scattered in the jungle and in front of small village huts, that stood here and there among palm trees. Figures in white turbans and dhoti moved about, and at the railway stations the air resounded with the high-pitched cries of peddlers selling tea, drinking water, and cigarettes. The country seemed alive with intense movement screened by the dusky veil of the night.
 
@@ -833,7 +833,7 @@ After some search and lengthy consultations with the British aqsaqal of Leh, we 
 
 Every day we went round the *serais* or resthouses for Yarkend traders, inquiring for new arrivals or starting caravans. Finally we succeeded in finding the required thirty pack horses, belonging to an Afghan trader, Omar Khan, a resident of Yarkend. His horses had come only recently from the passes and were in poor condition, but the owner promised to feed them well the remaining three weeks and to have them fit by the date of departure. We had to agree, for this was the only solution of our transport problem. On such a difficult and deserted route as the Karakorum trade route, it is always advisable to make use of hired transport and not to risk a caravan of purchased animals. The difficulties of this mountain route, its rarefied atmospheres and absolute barrenness, and the great percentage of caravan animals that perish yearly, make traveling very expensive. The prices for one pack horse range from sixty rupees to eighty rupees from Leh to Yarkend or Khotan. We fixed the price of one horse at seventy-six rupees, with the obligation of carrying the expedition’s baggage in twenty-four days from Leh to Khotan.
 
-21 KASHMIR-LADAK
+**21 KASHMIR-LADAK**
 
 The caravan men were sturdy Turkis from Karghalik and Khotan, in large *chapans* or coats, soft leather boots or *charuq*, and large oval fur caps protecting the wearer from the bitter winds and gales of the highlands. It was strange to hear the strongly guttural sounds of the eastern Turki, so different from the soft Urdu of India and the fluent speech of Lhasa Tibetans. Some of the men knew a little Chinese, and our Chinese interpreter was able to make some sort of conversation with them.
 
@@ -987,9 +987,9 @@ The son of a local Ladak headman was accompanying us as head servant and proved 
 
 II
 
-FROM LEH TO KHOTAN
+**FROM LEH TO KHOTAN**
 
-THE GREAT KARAKORUM ROUTE
+**THE GREAT KARAKORUM ROUTE**
 
 SEPTEMBER 19, 1925 --- a memorable day in the annals of the expedition! A fine autumn morning with a light breeze from the mountains, wonderfully cool and refreshing. A large crowd of local inhabitants gathered to see us start. The crossing of the Khardong Pass, the first mountain pass on the Turkestan route, is usually effected on yaks, which have to be hired from local peasants. The summit of the pass is covered by a glacier and the pack horses have usually a bad time on it. When pack yaks are employed, the pack horses and mules of the caravans are driven empty across the pass. This is the usual custom of the country, no doubt prompted by many years of experience. We decided to follow it and had ordered yaks several days in advance. For some reason or other, only half of the required forty yaks appeared in the early morning at the dak bungalow. We were obliged to wait the whole of the morning and a considerable portion of the afternoon, before all the woolly beasts reached the bungalow’s compound. As is customary, there was much hustle and shouting, the local Ladak headman using his cane rather freely.
 
@@ -1107,7 +1107,7 @@ Our caravan-*bashi*, Nazar Bai, hoped to reach the Karakorum Pass the same day a
 
 We had intended to travel by the Kokyar route to Yarkend and then to Khotan. Nazar Bai strongly advocated the alternate route across the Sanju Pass and we decided to follow his advice. The Sanju route was shorter by six days and there were fewer streams to cross.
 
-September 30. A blizzard had been blowing from early morning and the mountain summits were hidden behind a thick white mist. The ascent to the great Karakorum Pass (18,694 feet) gradual and the pass itself was more like a low ridge on the surrounding high upland.
+September 30. A blizzard had been blowing from early morning and the mountain summits were hidden behind a thick white mist. The ascent to the great Karakorum Pass (18,694 feet) was very gradual and the pass itself was more like a low ridge on the surrounding high upland.
 
 The cold was so intense that we had to cover our faces to protect them from the biting wind and the icy particles that drifted in the air and cut the skin. Mrs. Roerich always found a particular charm in this wild mountain scenery. She stood the journey wonderfully well, and our Chinese interpreter daily wondered at her courage and endurance.
 
@@ -1275,9 +1275,9 @@ We had to post two of our Ladakis in order to prevent a further intrusion. Our f
 
 ## KHOTAN
 
-III
+**III**
 
-KHOTAN
+**KHOTAN**
 
 IT was difficult to realize that we had reached Khotan, the ancient Kingdom of Jade, and one of the most thriving oases of the Chinese Province of Hsin-chiang. The modern city with its covered bazaars and dusty lanes, hides the visage of ancient Khotan, once an important seat of Buddhist learning and emporium of central Asian trade.
 
@@ -1497,9 +1497,9 @@ The three months of detention came to an end and we were looking forward to new 
 
 ## KHOTAN-KASHGAR
 
-IV
+**IV**
 
-KHOTAN-KASHGAR
+**KHOTAN-KASHGAR**
 
 IN the early morning of January 28, 1926, our courtyard and garden were crowded with pack horses and caravan men in heavy sheepskins and dark red charuqs --- a scene familiar to anyone who has traveled in the caravan region of Asia. The bustle was great and it took us five hours to start the baggage caravan marching. The tents and the rest of the camp equipment had to go in advance, and for this purpose the best horses were given to the camp detachment. This detachment had to leave camp last, and arrive at the new camp first. The caravan men, mostly Turki from Khotan, were sadly lacking in initiative and performed their tasks with surprising carelessness.
 
@@ -1666,9 +1666,9 @@ On February 26 the whole of the European colony assembled to see us off. Our car
 
 ## THE GREAT NORTHERN HIGHWAY TO URUMCHI
 
-V
+**V**
 
-THE GREAT NORTHERN HIGHWAY TO URUMCHI
+**THE GREAT NORTHERN HIGHWAY TO URUMCHI**
 
 T he great northern highway of Hsin-chiang has been frequently described by travelers. In two easy stages we reached Faizabad --- a small town with a Chinese magistrate and a small garrison of troops. The road was monotonous --- everywhere sand tracts covered by salt crust, sand dunes, and jimgle, groves of willows and dusty mud-built hamlets. Faizabad is the last settlement of the Kashgar Oasis. Beyond it stretch sandy tracts.
 
@@ -1896,9 +1896,9 @@ In the evening we were all invited to a dinner given by the head of the local br
 
 ## URUMCHI AND JUNGARIA
 
-VI
+**VI**
 
-URUMCHI AND JUNGARIA
+**URUMCHI AND JUNGARIA**
 
 The capital of Hsin-chiang greeted us with a spell of cold days, and icy winds blew across the surrounding plain. Our quarters were quite insufficient to accommodate all oiu: men, baggage and horses. We decided therefore to search for new quarters --- a difficult and almost hopeless task in crowded Urumchi.
 
@@ -2038,9 +2038,9 @@ Two days were spent at the Russian outposts, to have formalities completed. On J
 
 ## MONGOLIA
 
-VII
+**VII**
 
-MONGOLIA
+**MONGOLIA**
 
 T he Siberian Express rushed rapidly through the lowlands of Siberia, with their dark virgin forests of pines and cedars. Early in the morning the train passed Irkutsk and its cathedral, rising against the luminous and transparent sky of early dawn. Then came the beautiful southern shore of the great Lake Baikal with its calm surface girded by mountain ranges. Beyond Baikal, the country became mountainous and the train steamed around forest-clad hills. It was Buriatia, and the Buriats in their pointed fur caps and blue coats became more and more prominent on the station platforms. Late in the evening the train reached Verkhne-Udinsk, the capital of the Buriat Republic. Here we spent three busy days arranging for motor cars to carry us and our baggage to Mongolia.
 
@@ -2492,9 +2492,9 @@ HORSES USED IN RELIGIOUS PROCESSIONS TO CARRY I’HE HOLY IMAGES
 
 ## ORGANIZING THE EXPEDITION
 
-VIII
+**VIII**
 
-ORGANIZING THE EXPEDITION
+**ORGANIZING THE EXPEDITION**
 
 WITH the beginning of March, 1927, busy days began for the expedition. The future route had to be decided upon and men and caravan animals procured. The expedition’s equipment had to be partly renovated, tents overhauled and stores replenished.
 
@@ -2578,9 +2578,9 @@ Our stay in Urga was rapidly drawing to an end and the date of departure, fixed 
 
 ## URGA --- YUM-BEISE KÜREN
 
-IX
+**IX**
 
-URGA --- YUM-BEISE KÜREN
+**URGA --- YUM-BEISE KÜREN**
 
 ON April 13, 1927, everyone in the expedition rose before dawn. We hoped to start early in order to cover as much ground as possible. The first stretch of the route lay along the valley of the Tola River and according to our informants was comparatively easy for laden cars. The three trucks of the expedition were loaded the day before, and there remained the two Dodge touring cars destined for the members of the expedition and their light baggage which was to be tied on the running boards. By eleven o’clock everything was ready and the large gates of the expedition headquarters were opened to let the cars out. Friends, both Europeans and • Mongols, assembled to bid farewell and Godspeed to the members of the expedition. The Mongols were chatting with their relatives, and lamas were seen murmuring their prayers and hanging ceremonial scarfs or \hatags on the expedition cars. Our Tibetans were surrounded by a crowd of their countrymen who had come to see us off. The Tibetan personnel of the expedition was very proud of the rifles and insisted on riding with fixed bayonets, decorated with \hatags attached to the rifle barrel. Our men looked very martial in their khaki fur coats and ammunition belts. The whole presented a colorful scene, in which were blended European and Asiatic elements.
 
@@ -2802,9 +2802,9 @@ On April 30 bright and windless weather brought some relief, after two successiv
 
 ## ACROSS THE SOUTHWESTERN GOBI
 
-X
+**X**
 
-ACROSS THE SOUTHWESTERN GOBI
+**ACROSS THE SOUTHWESTERN GOBI**
 
 T he morning of April 30 greeted us with a strong and steady northeastern wind. Mist veiled the peaks of the Tsagan Obo Mountains and wet snow lashed our faces. The camels arrived at ten o’clock --- a. fine body of stalwart animals in splendid condition. The guide, Lama Sambu, was careful to bring with him only young animals fit for the desert crossing. Most of the camels had had a whole year of grazing and looked remarkably strong. At eleven thirty the expedition caravan started in three long columns on its long track across the Gobi. The camels trod gravely and the large caravan bells on the last camel of each detachment droned dolefully. The lashing wet snow and wind abated toward noon and we had quite a pleasant march over the vast gravel plain, bordered by distant rolling hills that lay south of Tsagan Obo Mountains. The country was monotonous, quite different from the country north of Yum-beise with its branches of the Khangai Mountains stretching far into the desert region.
 
@@ -3064,9 +3064,9 @@ The very day of our arrival we were visited by the local Mongol headman Machen, 
 
 ## JA LAMA, THE MILITANT PRIEST
 
-XI
+**XI**
 
-JA LAMA, THE MILITANT PRIEST
+**JA LAMA, THE MILITANT PRIEST**
 
 T he vastnesses of inner Asia give rise sometimes to strange personalities, who exercise a mysterious influence on their fellow men. I shall relate in the present chapter the story of Ja Lama, reincarnation of Amursana, the great west Mongolian leader of the eighteenth century. Ten-pei Jal-tsen (bsTan-pa’i rgyal-mtshan) or simply Ja Lama was one of the characteristic and leading figures of the Mongol National Revolution in 1911-12. His life is veiled in mystery and no one knows exactly where he came from and what his ambitions were. It is extremely difficult to piece together all the existing information about his life, so varied were his activities and so extensive were his travels. The arena of his activity was the whole of Asia, from Astrakhan to Peking and from Urga to distant India. I succeeded in collecting information about him and his life from Mongol and Tibetan lamas and laymen whom fate brought into contact with the dreaded warrior-priest. This singular personality for some thirty-five years hypnotized the whole of greater Mongolia. Even at present, some six years after the death of the man, Mongols feel an unholy dread of him and worship him as a militant incarnation of one of their national leaders. I have often been asked by Mongols in Khalkha Mongolia and in Tsaidam, whether the man was a bur\han or "divine being," or a mighty brigand chief, incarnation of a powerful demon. The simpleminded nomads are still unable to decide this question and various are the explanations put forth.
 
@@ -3212,9 +3212,9 @@ In our caravan we had a Torgut from Etsin-gol, who had spent several years in th
 
 ## AMONG THE TSAIDAM MONGOLS
 
-XII
+**XII**
 
-AMONG THE TSAIDAM MONGOLS
+**AMONG THE TSAIDAM MONGOLS**
 
 F rom now on began our more or less settled camp life in the higher mountain valleys of Shih-pao-ch’eng and Sharagolji. The local headman was unable to procure camels before August and those camels which were for sale at his encampment were so unsatisfactory that we decided to spend June and July in the higher mountain valleys and start for Tibet in August. Meanwhile we could study the future route and complete our preparations for the great trek across the uplands of Tibet. We decided to buy our own riding horses, but the animals had to be bought from Chinese villagers, for the local Mongol horses were useless on a trip to Tibet.
 
@@ -3450,11 +3450,11 @@ Such are the Kurluk Mongols as we saw, them during our stay in Tsaidam in 1927. 
 
 ## ACROSS TSAIDAM
 
-XIII
+**XIII**
 
-ACROSS TSAIDAM
+**ACROSS TSAIDAM**
 
-A UGUST 19, 1927. This morning I got up long before dawn. The /\ camp was still asleep and the silence was broken only by the / \ measured step of the sentry and the rumination of the camels JL jL tied to the picket ropes. From the darkness emerged the large silhouette of one of our Mongols in charge of the drove of horses and mules. He drove in front of him our animals and their silhouettes formed a black mass outside the camp. The sentry began to build a camp lire and against the background of the flickering flame the burly figures of the Mongols were seen emerging from their tents. The camp suddenly awoke to life and everywhere men were busy with loads and folding tents. The dawn lit up the horizon and long strings of camels began the march toward the mountains south of the valley. The front camels carried on their loads ceremonial scarfs and charm boxes, destined to protect them from evil fortune on the high passes of Tibet. Higher and higher rose the trail and soon a long sandy spur hid the valley. We entered a sandy gorge leading toward the Ulan-daban Pass and camped on a patch of ground covered with vivid green grass. South of the camp rose the violet rocky summits which give the name to the mountain pass. Late in the evening our camp was joined by several Kurluk Mongols en route for Mahai. It is a local custom to travel always accompanied by some friend and the Mongols who joined us in the evening rode in a small band of four.
+AUGUST 19, 1927. This morning I got up long before dawn. The /\ camp was still asleep and the silence was broken only by the / \ measured step of the sentry and the rumination of the camels JL jL tied to the picket ropes. From the darkness emerged the large silhouette of one of our Mongols in charge of the drove of horses and mules. He drove in front of him our animals and their silhouettes formed a black mass outside the camp. The sentry began to build a camp lire and against the background of the flickering flame the burly figures of the Mongols were seen emerging from their tents. The camp suddenly awoke to life and everywhere men were busy with loads and folding tents. The dawn lit up the horizon and long strings of camels began the march toward the mountains south of the valley. The front camels carried on their loads ceremonial scarfs and charm boxes, destined to protect them from evil fortune on the high passes of Tibet. Higher and higher rose the trail and soon a long sandy spur hid the valley. We entered a sandy gorge leading toward the Ulan-daban Pass and camped on a patch of ground covered with vivid green grass. South of the camp rose the violet rocky summits which give the name to the mountain pass. Late in the evening our camp was joined by several Kurluk Mongols en route for Mahai. It is a local custom to travel always accompanied by some friend and the Mongols who joined us in the evening rode in a small band of four.
 
 Next day we broke camp early and resumed our march up the mountain gorge. At the foot of the pass stood ruins of several hovels and traces of a former gold mine.
 
@@ -3628,9 +3628,9 @@ At about two o’clock we left the dismal camp and crossed the broad, gravel pla
 
 ## THE GREAT TIBETAN UPLAND
 
-XIV
+**XIV**
 
-THE GREAT TIBETAN UPLAND
+**THE GREAT TIBETAN UPLAND**
 
 IT took twenty-one days to cross the dreary, inhospitable upland of Tibet. The great upland plains, with an average altitude of some fifteen thousand to sixteen thousand feet, that stretch south of the K’un-lun and north of the Trans-Himalayas, are usually designated by the Tibetan name chang-thang or "northern plain." It is a country of climatic extremes, of burning sun in the rare sunny days of the summer and of bitterly cold nights. The terrific wind storms and the great amplitudes in temperature have contributed toward the formation of the present relief of the country. Once a highly intersected country of towering mountain ranges, the north Tibetan upland of the present epoch is a series of weathered mountain chains which have been considerably leveled, and broad intermontane plains, the home of herds of wild yaks.
 
@@ -3846,13 +3846,13 @@ In the afternoon a salute of eight guns notified the local inhabitants that the 
 
 ## AT THE GATES OF TIBET
 
-THE DETENTION AT CHU-NA-KHE AND THE PERIL OF THE CARAVAN
+**THE DETENTION AT CHU-NA-KHE AND THE PERIL OF THE CARAVAN**
 
-XV
+**XV**
 
-AT THE GATES OF TIBET
+**AT THE GATES OF TIBET**
 
-THE DETENTION AT CHU-NA-KHE AND THE PERIL OF THE CARAVAN
+**THE DETENTION AT CHU-NA-KHE AND THE PERIL OF THE CARAVAN**
 
 The General departed and the great camp lay deserted. Most of the Hor-pa tribesmen who were in attendance on the High Commissioner returned to their pastures. Only the headmen of the five Hor tribes of the region and the Major, So-nam Thop-jyel, with a detachment of soldiers remained in camp to attend us and spy upon our movements. A guard of militia was stationed in our camp and our servants and caravaneers were forbidden to speak to strangers. The militiamen, unkempt fellows in dirty sheepskins, sat continuously outside the tents and watched every movement. The headman in charge of the militia post was an agreeable man, of pleasant manner, and tried his best to assist us. He had the appearance of a south-European with an aquiline nose and long straight hair. He wore a coat of purple puru and a charm box of silver. According to him, the northern Tibetan frontier had been closed since last year.
 
@@ -4176,9 +4176,9 @@ The Major and his soldiery were rapidly losing control over the local nomads and
 
 ## THE HOR-PAS AND THEIR COUNTRY
 
-XVI
+**XVI**
 
-THE HOR-PAS AND THEIR COUNTRY
+**THE HOR-PAS AND THEIR COUNTRY**
 
 The vast mountainous country north of the Nag-chu-ka district of Tibet is known under the name of Hor, and the nomad tribes which inhabit it are called Hor-pas. In order to distinguish it from the Five Hor Principalities (Tib. Hor-sde-lnga) on the Szu-ch’uan border, the region north of Nag-chu-ka is called Nup-hor (Tib. Nub-hor) or western Hor.
 
@@ -4700,9 +4700,9 @@ CONVENTIONALIZED FIGURE OF SWAN ON SILVERED IRON PEN CASE FROM AMDO Collection S
 
 ## NAG-CHU-KA
 
-XVII
+**XVII**
 
-NAG-CHU-KA
+**NAG-CHU-KA**
 
 S HARUGON, January 4, 1928. A cold night, the thermometer at --- 30°C. Toward morning the cold became still more intense, k and we shivered under the canvas of our summer tents. At ' about half-past seven the sun appeared from behind the mountain opposite our camp and relieved us a little. The day promised to be sunny. We took our usual walk in the morning along the bank of the frozen river and noticed lammergeyers sitting on the rocks about the monastery, as if expecting some prey and indeed, toward evening one of the local guardsmen brought the news that the Major’s wife had died that morning. "Sir," he said, "the Major has been oppressing the poor people of the place and did much harm to Your Honor and therefore the protecting gods of the monastery punished him." Several days before I had told the Major that pneumonia could not be cured at such an altitude and in such dreadful conditions.
 
@@ -4948,13 +4948,13 @@ confusion continued until sunset. Tibetan soldiers and we, ourselves, tried in v
 
 ## THE REGION OF THE GREAT LAKES
 
-NAG-CHU DZONG --- SAGA DZONG
+**NAG-CHU DZONG --- SAGA DZONG**
 
-XVIII
+**XVIII**
 
-THE REGION OF THE GREAT LAKES
+**THE REGION OF THE GREAT LAKES**
 
-NAG-CHU DZONG --- SAGA DZONG
+**NAG-CHU DZONG --- SAGA DZONG**
 
 IT was still night when everyone rose and packed his bedding. March 4, 1928, will be remembered by all members of the expedition as the end of their captivity in the inhospitable uplands of Tibet. The dawn was softly coloring the sky and the snow peaks of the Shang-shung Range lay behind a deep blue veil. Columns of smoke were rising above the houses of Nag-chu but the streets were still completely deserted. The yak drivers, or lakto in Tibetan, were taking their tea and tsam-pa, squatting near big fires laid on the pavement outside the gates of the expedition headquarters. The loading of yaks began, and it took us almost three hours to start the heavy caravan. We decided to leave Nag-chu after all the transport with the heavy baggage had gone.
 
@@ -5454,9 +5454,9 @@ Our caravan reached the camp late at night and great anxiety was felt for our ca
 
 ## FROM SAGA DZONG TO SIKKIM
 
-XIX
+**XIX**
 
-FROM SAGA DZONG TO SIKKIM
+**FROM SAGA DZONG TO SIKKIM**
 
 A PRIL 20, 1928. The treasurer of the dzong did not arrive and we /% had to remain at Saga dzong until his arrival. Everyone / % rested after the strenuous journey of the past ten days. Our A. ^ camp was pitched close to the trade route Ladak-Nga-ri-Saga dzong-Lhasa and from early morning we could hear the melodious jingling of bells on the horses and mules of passing travelers. Saga dzong is a governmental relay station on the trade route and the administrative center of a vast district, which borders to the north on the territories of Nag-tshang and Nga-ri; to the south and east on the district governed by Dzong-kha, a fort situated on the Nepal border.
 
