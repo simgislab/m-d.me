@@ -2122,11 +2122,11 @@ the mountain, stands the important monastery of Mahjushri-khit, famous throughou
 
 The city of Urga is spread over a large area, and consists of a permanent settlement surrounded by a large nomadic colony of felt tents, in which most of the Urga citizens live during the cold winter months.
 
-The city is known to Europeans under the name of Urga, which corresponds to the Mongolian word orgo meaning "princely camp, palace." This word is never used by Mongols, although this was probably the case in ancient times, when the valley of the Tola was used as a residence by important church dignitaries. The Mongols invariably call it Ikhe-kiiren or Ikhe-kiira, thjp "Great Monastery." In everyday language it is called simply Kiiren, or by its Sino-Mongolian designation Dakiira (Ta-kiira, Chinese transcription Ta k’u-lun). Under this last name it is generally known to the Tibetans (Ta-khu-re). In November, 1924, the Ikhe-Khuruldan, or the Great National Assembly of Mongolia, changed the name of the city to Ulan Bator Khoto, or the "City of the Red Warrior." But the time-honored name is still universally used.
+The city is known to Europeans under the name of Urga, which corresponds to the Mongolian word orgo meaning "princely camp, palace." This word is never used by Mongols, although this was probably the case in ancient times, when the valley of the Tola was used as a residence by important church dignitaries. The Mongols invariably call it Ikhe-küren or Ikhe-kiira, thjp "Great Monastery." In everyday language it is called simply Küren, or by its Sino-Mongolian designation Dakiira (Ta-kiira, Chinese transcription Ta k’u-lun). Under this last name it is generally known to the Tibetans (Ta-khu-re). In November, 1924, the Ikhe-Khuruldan, or the Great National Assembly of Mongolia, changed the name of the city to Ulan Bator Khoto, or the "City of the Red Warrior." But the time-honored name is still universally used.
 
-The earliest notice about Urga is found in the Mongol chronicle Erdeni-yin erikhe, about the year 1649 aj>. It is said in this passage, that Undiir-Gegen, the first historical Je-tsiin tam-pa Hutukhtu of Khalkha, or the sixteenth incarnation according to the Lamaist tradition, established on his return from Tibet seven monastic colleges or da-tshang (Mongol; aimak^ in the Nom-un Ikhe-kiiren. The Ikhe-kiiren in the valley of the Tola River was probably only a temporary residence of the Incarnate Lama of Khalkha, for Undiir-Gegen himself spent the rest of his life in Jehol, Dolon-nor, and Peking (he died in Peking in 1723). We know that many of his successors on the pontifical throne used to reside in different parts of outer Mongolia. The monastery Ikhe-kiiren itself was not a permanent settlement. Since 1719 A.D. it had constantly changed its site.
+The earliest notice about Urga is found in the Mongol chronicle Erdeni-yin erikhe, about the year 1649 aj>. It is said in this passage, that Undiir-Gegen, the first historical Je-tsiin tam-pa Hutukhtu of Khalkha, or the sixteenth incarnation according to the Lamaist tradition, established on his return from Tibet seven monastic colleges or da-tshang (Mongol; aimak^ in the Nom-un Ikhe-küren. The Ikhe-küren in the valley of the Tola River was probably only a temporary residence of the Incarnate Lama of Khalkha, for Undiir-Gegen himself spent the rest of his life in Jehol, Dolon-nor, and Peking (he died in Peking in 1723). We know that many of his successors on the pontifical throne used to reside in different parts of outer Mongolia. The monastery Ikhe-küren itself was not a permanent settlement. Since 1719 A.D. it had constantly changed its site.
 
-In 1741 A.D. Ikhe-kiiren, or Urga, became the permanent residence of the Je-tsiin tam-pa Hutukhtu. The growth of the monastery begins from that date. In 1756 was established the first Theological School for the study of the tshan-nyid (mtshan-nid') or the higher metaphysics of Buddhism. The school was given the right to confer learned distinctions and lamas began to flock to the monastery. The Chinese were not
+In 1741 A.D. Ikhe-küren, or Urga, became the permanent residence of the Je-tsiin tam-pa Hutukhtu. The growth of the monastery begins from that date. In 1756 was established the first Theological School for the study of the tshan-nyid (mtshan-nid') or the higher metaphysics of Buddhism. The school was given the right to confer learned distinctions and lamas began to flock to the monastery. The Chinese were not
 
 **136 TRAILS TO INMOST ASIA**
 
@@ -2162,13 +2162,13 @@ PACKS OF DOGS IN TFIE STREETS OF URGA
 
 **139 MONGOLIA**
 
-Quite recently attempts were made to adapt the form of a Mongol felt tent to buildings and thus create a national Mongol style. On ^e vast town site of Ulan Bator, across which Mongol horsemen race on their swift steeds, stands a strange building; upon a polygonal foundation rises a huge dome supported by low walls. The whole structure reminds one of a gigantic Mongol felt tent. The outside of the building is decorated with figures of the eight happy signs. It is the national theater of Mongolia and the People’s Club. The architect intended to express the idea of a nomad tent in a monumental creation. So far as I know, this is the first attempt of the kind. During our stay in Urga, the building was still under construction and I did not see the interior arrangements. I do not think that the yurta motive is suited for buildings. The domed structure is too western in character, and at best looks like a Mohammedan mosque without its wonderfully designed lines. The Tibetan architecture is much more monumental and is better adapted to modern requirements. It permits the construction of high buildings without infringing upon the character of the style. Some attempts along this line have already been made in Urga, and it is to be hoped that the Mongol Government will follow this example in erecting new buildings for its secretariats.
+Quite recently attempts were made to adapt the form of a Mongol felt tent to buildings and thus create a national Mongol style. On the vast town site of Ulan Bator, across which Mongol horsemen race on their swift steeds, stands a strange building; upon a polygonal foundation rises a huge dome supported by low walls. The whole structure reminds one of a gigantic Mongol felt tent. The outside of the building is decorated with figures of the eight happy signs. It is the national theater of Mongolia and the People’s Club. The architect intended to express the idea of a nomad tent in a monumental creation. So far as I know, this is the first attempt of the kind. During our stay in Urga, the building was still under construction and I did not see the interior arrangements. I do not think that the yurta motive is suited for buildings. The domed structure is too western in character, and at best looks like a Mohammedan mosque without its wonderfully designed lines. The Tibetan architecture is much more monumental and is better adapted to modern requirements. It permits the construction of high buildings without infringing upon the character of the style. Some attempts along this line have already been made in Urga, and it is to be hoped that the Mongol Government will follow this example in erecting new buildings for its secretariats.
 
 Unfortunately most of the modern buildings in Urga are of an indifferent European style or like miserable Chinese hovels, which do not at all suit the character of the city. The summer palaces of the late Jetsiin tam-pa Hutukhtu, now transformed into a national museum and school, situated some two miles from Urga on the banks of the Tola, are of a mixed style and have no particular interest. The brick walls in Chinese style, in front of the main entrance gates, are riddled with bullets that badly damaged some of the bas-relief --- traces of the severe fighting that took place here in January, 1921.
 
 The rich private collections of the deceased Hutukhtu consisted of a remarkable assortment of things --- valuable sacred images from Tibet and Peking; a considerable library of religious and secular books in Mongol, Tibetan, Chinese, and Manchu; all sorts of European technical devices and curios, cinemas, photographic cameras and field glasses, telescopes; valuable Chinese porcelain and bronzes; a great number of modern European firearms; stores of cigarettes of an unusual length; stuffed animals; and last but not least a small menagerie of wild animals. All these have now been confiscated by the different government departments or sold on the Urga market.
 
-140 TRAILS TO INMOST ASIA
+**140 TRAILS TO INMOST ASIA**
 
 The gilded and brightly painted state carriages of the Hutukhtu were sold at auction and many of them are now plying between Urga and its suburbs as the property of Chinese coachmen. One very often sees these strange state carriages, created by the whim of an oriental ruler, driving through the streets of Urga. These public omnibuses, drawn by two miserable shaggy horses with Chinese and Mongols crowded into them, add much color to the picturesqueness of Urga streets.
 
@@ -2178,15 +2178,15 @@ The Chinese fort, built in 1883, during a sudden mobilization in outer Mongolia,
 
 To the northwest of the large town site are the marketplace and the trading quarters. Here one finds all the principal trading establishments of the city; the Mongolian Central Cooperative Society, the Urga Cooperative Society, and a number of privately owned shops, mostly branches of Harbin firms. A little farther away lies the large Chinese commercial quarter, situated close to the Monastery of Ganden. The narrow streets are lined on both sides by high brick or stone walls, with great gates bearing the name of the firm written in Chinese, Mongol, and Tibetan. As in most of the Chinese houses, the shop itself and the storerooms are situated in the courtyard away from the noise of the streets. The courtyards as a rule are clean and the inside of the shops neat and cozy. Mongol customers spend several hours examining the wares and settling the prices. Tea is invariably offered to customers, and the employees of the firm try their best to induce them to buy or borrow goods.
 
-On the western end of these streets of the Chinese quarter, which all run from east to west, stand numerous small shops of Chinese artisans, silversmiths, metal workers, carpenters, coffin makers, tailors, restaurants; shops trading in religious books and objects of art; fur merchants, etc. Each street has gates at either end, which are closed at night, so that the whole quarter looks like one huge compotmd.
+On the western end of these streets of the Chinese quarter, which all run from east to west, stand numerous small shops of Chinese artisans, silversmiths, metal workers, carpenters, coffin makers, tailors, restaurants; shops trading in religious books and objects of art; fur merchants, etc. Each street has gates at either end, which are closed at night, so that the whole quarter looks like one huge compound.
 
 Round the market and shopping district cluster innumerable houses and hovels, harboring most of the Urga population. Some of the streets are so narrow that only one rider can pass in one direction, and if a
 
-141 MONGOLIA
+**141 MONGOLIA**
 
 motor car ventures into the streets all the traffic coming from the opposite end has to turn back and ride to the crossing place. Sometimes one sees horsemen and camel caravans suddenly turn backward for a considerable distance; it means that a motor car is coming.
 
-Much has been written about the smell and dirt of Urga. In recent years the municipal authorities have tried fheir best to improve the sanitary conditions of the streets by removing refuse heaps and disinfecting the quarters of the poor. Naturally, much remains yet to be done, for Urga streets know no pavements and the drainage system is in its infancy. In the whole of the city there is no water supply, and the growing population is obliged to carry water from the Tola River. In springtime the river water is usually muddy and has an unpleasant smell. Only the dry climate prevents the spread of epidemics.
+Much has been written about the smell and dirt of Urga. In recent years the municipal authorities have tried their best to improve the sanitary conditions of the streets by removing refuse heaps and disinfecting the quarters of the poor. Naturally, much remains yet to be done, for Urga streets know no pavements and the drainage system is in its infancy. In the whole of the city there is no water supply, and the growing population is obliged to carry water from the Tola River. In springtime the river water is usually muddy and has an unpleasant smell. Only the dry climate prevents the spread of epidemics.
 
 Great packs of homeless dogs, huge black animals with shaggy fur, roam in the streets and often attack men. The municipality has endeavored to fight these pests, but has been handicapped by the population which believes it sinful to take life. The city elders had recourse to a wonderful measure. They ordered all the stray dogs to be collected in a huge wooden inclosure, and fed the animals at state expense. This has been an additional cost to the state and has failed to free the city of dogs, which still infest the squares and streets. They are exceedingly fierce and in the evening it is sometimes dangerous to pass the refuse heaps on which they are encamped. I have been obliged to fight a pack of dogs even on horseback, for they jump and try to bite the rider’s feet. A story is related of a sentry who was overpowered by the dogs and devoured by night, despite his rifle and sword. The man tried his best to fight the hungry pack and even killed a number of the dogs, but the rest soon bore him to the ground and tore him to pieces. The only traces left of him were his rifle and sword and part of his coat, which were found the next morning. His cap, boots, and even ammunition belts --- everything was torn to pieces.
 
@@ -2194,15 +2194,15 @@ Similar difficulties are said to have been experienced by the newly established 
 
 The Urga dogs are the scavengers of the city. Mongols seldom bury their dead. Usually the corpses are carried to a valley north of Urga,
 
-142 TRAILS TO INMOST ASIA
+**142 TRAILS TO INMOST ASIA**
 
 where they are thrown on the ground to be devoured by dogs. The animals perform their duty with surprising rapidity and after a few minutes nothing is left but scattered bones. The unpleasant part of the procedure is that the dogs often carry human bones, sometimes whole skulls, into the city. 1 once found a fresh human skull with skin and hair lying by the roadside not far from the house occupied by the expedition. A dog had brought it during the night and then abandoned it.
 
 The Chinese cemetery in Mai-ma-ch’eng, with wooden coffins placed on the ground unburied, presents a horrible spectacle. The dogs arc unable to destroy the bodies because of the coffins and the smell that permeates the place is indescribable. Some of the coffins have fallen to pieces and one can see exposed heads and feet which the dogs hasten to devour. Of course, only the poor deposit their dead in this cemetery; the wealthy families convey the bodies to their native province in China and one often sees camels loaded with huge Chinese coffins on their way to Khalgan.
 
-Urga is the chief transit and distributing point for the whole country. Since 1922 the cooperative movement in Mongolia has begun to spread. The Mongolian Central Cooperative Society or "Moncencoop" at present has about 26 branches, 102 minor branches, and 4 agencies in Moscow, Tientsin, Khalgan, and Khailar. The cooperative movement is financially assisted by the Mongolian Government. During the year 1923-24 the Central Cooperative imported various goods amounting to 531,000 Mexican dollars and exported to the sum of 523,000 Mexican dollars. The last available State Report for the year 1927 shows an export of two million tukjirikj (one tukhri \ --- one Mexican dollar, according to the ratio’ of 1926) and an import of 3,300,000 tukhn\s. Until now the imports have greatly exceeded exports. In order to make the country more self-supporting, the Government of Mongolia has established a tannery at Altin-Bulak with a capital of 420,000 tukhriks. The tannery supplies the army and the population with leather products (saddlery, boots, etc.), sheepskins, and winter felt boots. It is rumored that the Government will establish a second tannery to increase the output. Besides the tannery the Government was conducting negotiations to establish brick works, iron works, etc. To finance all these undertakings, it was proposed to establish a Mongol State Bank. According to the Report of 1927, the Government was also anxious to develop the natural resources of the country and special laws are to be promul-
+Urga is the chief transit and distributing point for the whole country. Since 1922 the cooperative movement in Mongolia has begun to spread. The Mongolian Central Cooperative Society or "Moncencoop" at present has about 26 branches, 102 minor branches, and 4 agencies in Moscow, Tientsin, Khalgan, and Khailar. The cooperative movement is financially assisted by the Mongolian Government. During the year 1923-24 the Central Cooperative imported various goods amounting to 531,000 Mexican dollars and exported to the sum of 523,000 Mexican dollars. The last available State Report for the year 1927 shows an export of two million *tukhriks* (one *tukhrik* --- one Mexican dollar, according to the ratio of 1926) and an import of 3,300,000 *tukhriks*. Until now the imports have greatly exceeded exports. In order to make the country more self-supporting, the Government of Mongolia has established a tannery at Altin-Bulak with a capital of 420,000 *tukhriks*. The tannery supplies the army and the population with leather products (saddlery, boots, etc.), sheepskins, and winter felt boots. It is rumored that the Government will establish a second tannery to increase the output. Besides the tannery the Government was conducting negotiations to establish brick works, iron works, etc. To finance all these undertakings, it was proposed to establish a Mongol State Bank. According to the Report of 1927, the Government was also anxious to develop the natural resources of the country and special laws are to be promul-
 
-143 MONGOLIA
+**143 MONGOLIA**
 
 gated, regulating the granting of concessions to Mongol citizens and foreigners.
 
@@ -2214,7 +2214,7 @@ Notwithstanding the centralizing tendency of the Government, some 1,697 foreign 
 
 Urga is connected by motor roads with the most important trading centers of Mongolia and the border regions of Siberia and China. The chief routes are the Urga-Uliassutai-Kobdo route with a length of 900 miles, the Kiakhta-Urga trade route running over a distance of 180 miles, the Urga-Manchuria route, connecting the Mongol capital with the town of Manchuria on the Chinese Eastern Railway, with a distance of 800 miles, and the Urga-Khalgan trade route covering a distance of 800 miles. In 1918 a regular motor car service was started between Khalgan and Urga by a company consisting of several Europeans and the Chinese Commissioner of Khalgan. These are not motor roads in
 
-144 TRAILS TO INMOST ASIA
+**144 TRAILS TO INMOST ASIA**
 
 our sense of the word; only the Kiakhta-Urga route can boast of such a road, which is in progress of construction. The cars have to travel over steppe country and sand deserts, ford rivers, and climb mountain passes.
 
@@ -2228,45 +2228,45 @@ During the time of the Bogdo Gegen, these Tibetan representatives kept a close w
 
 The vast amount of private property belonging to His Holiness the
 
-145 MONGOLIA
+**145 MONGOLIA**
 
-Dalai Lama necessitated the maintenance of a large controlling apparatus. The official representative had a number of agents in his employ, who toured the coimtry and collected from the population the sums to the payment of which the local population had pledged itself during the Dalai Lama’s visit to Mongolia. Large sums of money were deposited at the Ta-khu-re tsi-khang or barun-sang, the names under which the Tibetan treasury is known to Tibetans and Mongols. The money was often used with great profit in usury and this unofficial occupation was stopped only recently by the Mongolian Government.
+Dalai Lama necessitated the maintenance of a large controlling apparatus. The official representative had a number of agents in his employ, who toured the country and collected from the population the sums to the payment of which the local population had pledged itself during the Dalai Lama’s visit to Mongolia. Large sums of money were deposited at the Ta-khu-re **tsi-khang** or *barun-sang*, the names under which the Tibetan treasury is known to Tibetans and Mongols. The money was often used with great profit in usury and this unofficial occupation was stopped only recently by the Mongolian Government.
 
-It is a well-known fact that Tibetan trade is to a great extent con-; ducted by the State, which employs trade agents and issues trading permits to private traders who are allowed to trade in the name of the Government and are officially designated by the name of shung-gi tshong-pa or government tradesmen.
+It is a well-known fact that Tibetan trade is to a great extent con-; ducted by the State, which employs trade agents and issues trading permits to private traders who are allowed to trade in the name of the Government and are officially designated by the name of *shung-gi* *tshong-pa* or government tradesmen.
 
 Urga has always had a large colony of Tibetans. Tibetan lamas often occupy high positions as doctors, being reputed for their learning. Some of them are Incarnate Lamas of Mongol monasteries, others are spiritual advisors to high officials and thus exercise a good deal of influence. Many of the lamas have abandoned monkhood, married Mongol women, and carry on trade in the precincts of Urga. Such former lamas are usually called tra-lo, or "one who has returned his monastic vows," and form a caste by themselves. The rest of the colony consists of traders who carry on business between Urga, Peking, and Sining. Some of these men were former convicts who escaped from Tibet and now lead an easy life in this hospitable land.
 
 Wealthy Tibetan families used to maintain their own private trade agents, who traded in the name of their masters. The well-known Tibetan statesman, the late Lonchen Shatra, had such an agent in Urga. The man accumulated a considerable fortune and was considered to be one of the richest merchants of the Tibetan colony. During the Mongol Civil War of 1919-22, he lost all his fortune and most of his goods. This disaster had a terrible effect on him. He fell dangerously ill and lost his reason. I used to see him often in the streets of Urga, attired in a fine silk coat with a large fur cap on his head, roaming about the bazaars. When addressed, he repeated only one sentence, "Give me my money back." Curiously enough he remembers the names of all the persons who had harmed him. Later on I learned that he tried to commit suicide with a Tibetan sword and that the Tibetan representative had to place guards in his tent.
 
-146 TRAILS TO INMOST ASIA
+**146 TRAILS TO INMOST ASIA**
 
-In former times, before the Civil War of 191^22, Tibet had an extensive trade with Mongolia. Tibet largely exported holy images, incense made in Lhasa, block-prints of sacred texts, a small quantity of Tibetan furs, ecclesiastical robes, and the prized puru, Tibetan cotton cloth of high quality. The Mongolian export consisted mostly of Chinese silks, foreign wares, Russian leather, hides, furs, and Russian brocades. The present Mongol Government established high custom duties on all articles connected with church worship, and thus brought Mongol-Tibetan commerce practically to a standstill.
+In former times, before the Civil War of 1919-22, Tibet had an extensive trade with Mongolia. Tibet largely exported holy images, incense made in Lhasa, block-prints of sacred texts, a small quantity of Tibetan furs, ecclesiastical robes, and the prized *puru*, Tibetan cotton cloth of high quality. The Mongolian export consisted mostly of Chinese silks, foreign wares, Russian leather, hides, furs, and Russian brocades. The present Mongol Government established high custom duties on all articles connected with church worship, and thus brought Mongol-Tibetan commerce practically to a standstill.
 
 The routes connecting Tibet with Mongolia were for almost a whole decade unsafe for trading caravans. During the season of 1926-27 only two Tibetan caravans reached the Mongol capital and the amount of goods brought by them was so insignificant as to justify the statement that Tibet-Mongol trade does not exist at present and that important trade routes have lost their significance as arteries of central Asian commerce.
 
-The Chinese artisans are mostly mu-ch'ang or carpenters, who build most of the Urga houses, and t’ung-ch’ang or metal workers, who conduct most of the metal industry of the city. Shoemakers or gutulchi in Mongolian, who make the high Mongolian boots with repand points and sell the ornamented boots of high quality imported from Khalgan, are an important class of Chinese craftsmen in the Mongolian capital. Next to the shoemakers come the fur makers or eldurcht who tan skins bought from the Mongols. Sheepskins tanned by Chinese are used as fur lining for costly silk winter coats, worn by wealthy Mongols. The poorer classes prefer to wear sheepskins of Mongol make, whicji are much heavier.but arc said to be warmer and are indispensable on winter journeys in the Gobi. The Chinese tailors or tsai-feng work chiefly for the European and Chinese colonies of the city. The Mongols, unless they prefer the Chinese fashions, favor the Mongol work, which is said to be more durable. Another large class of artisans consists of image makers and silversmiths, who produce bronze or clay images for monasteries and private chapels, and the silver offering cups or silver ornaments. Their work is usually extremely crude and is far from being artistic. Most of these artisans come from Peking or Dolon-nor, where there are large workshops.
+The Chinese artisans are mostly mu-ch'ang or carpenters, who build most of the Urga houses, and t’ung-ch’ang or metal workers, who conduct most of the metal industry of the city. Shoemakers or *gutulchi* in Mongolian, who make the high Mongolian boots with repand points and sell the ornamented boots of high quality imported from Khalgan, are an important class of Chinese craftsmen in the Mongolian capital. Next to the shoemakers come the fur makers or *eldurchi* who tan skins bought from the Mongols. Sheepskins tanned by Chinese are used as fur lining for costly silk winter coats, worn by wealthy Mongols. The poorer classes prefer to wear sheepskins of Mongol make, which are much heavier but arc said to be warmer and are indispensable on winter journeys in the Gobi. The Chinese tailors or tsai-feng work chiefly for the European and Chinese colonies of the city. The Mongols, unless they prefer the Chinese fashions, favor the Mongol work, which is said to be more durable. Another large class of artisans consists of image makers and silversmiths, who produce bronze or clay images for monasteries and private chapels, and the silver offering cups or silver ornaments. Their work is usually extremely crude and is far from being artistic. Most of these artisans come from Peking or Dolon-nor, where there are large workshops.
 
-Besides these image makers, there are in Urga a number of shops usually called by their semi-Tibetan, semi-Chinese name Ri-wo dze-nga-pu-tzu (Tib. Ri-bo rtsedngd), which tr^de in images and other religious
+Besides these image makers, there are in Urga a number of shops usually called by their semi-Tibetan, semi-Chinese name Ri-wo dze-nga-pu-tzu (Tib. *Ri-bo rtse-lnga*), which trade in images and other religious
 
-147 MONGOLIA
+**147 MONGOLIA**
 
 objects manufactured at Dolon-nor or at the famous monastery of Wu-t’ai Shan. Here one can find gilded bronze images of Sakyamuni, the Buddha, the principal yi-dams or titulary deities of the Yellow sect, the Bodhisattvas Avalokitesvara, Manjushri, and Maitreya, the Tara, and sometimes Tsong-kha-pa, the founder of the Yellow Faith. Most of the figures are of a very crude workmanship and present no interest whatsoever. The images produced by the art workshop of the Wu-t’ai Shan Monastery are a little better than those of Dolon-nor.
 
-Painted images are only rarely found in these shops, for most of them are executed on special orders by Mongol lama painters or dzurachtn. The work of these lama artists is far inferior to that of the Kham or Derge artists. The wealthy families of Urga possess some fine examples of Derge or Kham art. The colors on painted banners executed by Mongol artists are crude and the design is generally very poor.
+Painted images are only rarely found in these shops, for most of them are executed on special orders by Mongol lama painters or *dzurachin*. The work of these lama artists is far inferior to that of the Kham or Derge artists. The wealthy families of Urga possess some fine examples of Derge or Kham art. The colors on painted banners executed by Mongol artists are crude and the design is generally very poor.
 
 Besides the sacred images, the Ri-wo dze-nga pu-tzu or shops have a large stock of objects used in temple ceremonies and of lama attires. Here one can find offering lamps of different make and size, bum-pas or vases, peacock feathers, damaru or hand tambourines used in Tantric services, religious trumpets, the large trumpets or dung-chen, conchshells, incense sticks of Tibetan and Chinese makes (sticks coming from the Sera Monastery of Lhasa are especially prized) and thick mattresses or olbo\ used as seats by lamas.
 
 Some of the shops maintain large stocks of books printed at the Wu-t’ai Shan Monastery and at Peking. The printing is usually good, as is also the paper. The Tibetan blocks are in one respect better, --- there are fewer misprints and mistakes in them. The book stocks of the shops consist chiefly of prayer books and service manuals. Books on church history or cho-jung, or treaties on higher metaphysics are only rarely found. The Lam-rim chen-mo of Je-rin-po-che Tsong-kha-pa is the only book of this class frequently seen. The edition found in these shops is that of Wu-t’ai Shan, The Lhasa edition of the Lam-rim is of little use, for the wooden block prints became effaced and the modern prints are hardly readable.
 
-Another collection belonging to the same class of literature is the Chang-sXya pandita’i sung-bum, or the collection of works by the Chang-skya Hutukhtu. It is printed in Peking and contains five large volumes.
+Another collection belonging to the same class of literature is the *Chang-skya pandita’i sung-bum*, or the collection of works by the Chang-skya Hutukhtu. It is printed in Peking and contains five large volumes.
 
-The rnam-thar literature is only poorly represented. In six shops, I
+The *rnam-thar* literature is only poorly represented. In six shops, I
 
-148 TRAILS TO INMOST ASIA
+**148 TRAILS TO INMOST ASIA**
 
-found only one copy of the ^ lo-tsa-wa'i rnam-thar, a Tibetan print, which was left in the shop by a passing Tibetan lama.
+found only one copy of the *Ra lo-tsa-wa'i rnam-thar*, a Tibetan print, which was left in the shop by a passing Tibetan lama.
 
-The different cho~ga or worship manuals and ti-yig l{hirid-yig') or guides to the performance of various rites, are very largely represented and contain the cho-ga of the most important yi^ams or titulary deities, such as Dem-chok, Sung-dii, Yamantaka, and Kye-dorje.
+The different *cho-ga* or worship manuals and *ti-yig* (*'khrid-yig*) or guides to the performance of various rites, are very largely represented and contain the *cho-ga* of the most important *yi-dams* or titulary deities, such as Dem-chok, Sung-dii, Yamantaka, and Kye-dorje.
 
 The Tantric literature is almost wholly absent, except for a few short works containing the essence of the four principal systems of the Tantras.
 
@@ -2276,7 +2276,7 @@ Some good printing establishments are to be found in the Transbaikal Buriat mona
 
 During my travels through central Asia and the Buddhist lands of Mongolia and Tibet, I observed the interesting fact that the lamas often prefer European editions of Buddhist texts. They say that the Tibetan texts printed in Calcutta by the Government Press or the texts published at Petrograd are easier to handle and to carry about than the bulky and sometimes badly printed xylographs of their own countries. With many Mongol and Tibetan lamas I found volumes of the Biblio-
 
-149 MONGOLIA
+**149 MONGOLIA**
 
 theca Buddhica published by the Russian Academy of Sciences --- a striking example of how European scholarship and western methods of printing penetrate and are appreciated by the learned men of Tibet and Mongolia.
 
@@ -2288,17 +2288,17 @@ During the recent years Mongolia has endeavored to extend education into the pro
 
 The problem of teachers is a very perplexing one, for few of the Mongols are able to do well as such and few Europeans are able to acquire a good knowledge of the colloquial language and of local conditions, to enable them to perform their task successfully. Still the country is trying hard and the interest evinced in things American and European is sincere and will undoubtedly bear fruit. A few years ago it was hard to make a nomad boy sit at a school desk and learn geography or natural sciences. The pupils used to find the lessons boring and again and again ran away into the vastness of their native steppes. One should not represent the young Mongols as being unruly and undisciplined. The nomads have a very strong instinct for order and readily obey
 
-150 TRAILS TO INMOST ASIA
+**150 TRAILS TO INMOST ASIA**
 
 their superiors. When on good terms with their superiors they make attentive pupils, and when in the ranks of the army, good soldiers. The reason for their deserting the schools was that the life there was not made attractive and failed to catch their imagination.
 
-The high educational institution of the country is represented by the Ayuting-surgail, which is called the Mongol National University and turns out teachers and future government ofhcials. Its program is far from being extensive and at best corresponds to a high school with the first two years of college. A number of Mongol youths have been sent to Germany, Japan, and Russia to study engineering, agriculture, and military science. Some of them have already returned and are busily engaged in reconstructing Mongolian life on more modern lines. Mongolia is now passing through a transitory state. The nomads of the steppe flock to the town, and large settlements of felt tents or yurtas on the outskirts of a permanent town give evidence of the fact that administrative and trading centers are becoming more and more the focus points of the country’s activities. In a varying degree Mongolia is passing through the same social phase that made thousands of people in America arid Europe move to the cities and forsake parental hearths.
+The high educational institution of the country is represented by the Ayuting-surgail, which is called the Mongol National University and turns out teachers and future government officials. Its program is far from being extensive and at best corresponds to a high school with the first two years of college. A number of Mongol youths have been sent to Germany, Japan, and Russia to study engineering, agriculture, and military science. Some of them have already returned and are busily engaged in reconstructing Mongolian life on more modern lines. Mongolia is now passing through a transitory state. The nomads of the steppe flock to the town, and large settlements of felt tents or yurtas on the outskirts of a permanent town give evidence of the fact that administrative and trading centers are becoming more and more the focus points of the country’s activities. In a varying degree Mongolia is passing through the same social phase that made thousands of people in America arid Europe move to the cities and forsake parental hearths.
 
 The highest scientific institution of the land is the Mongol Scientific Committee. Its chief duty is to collect and record all scientific information about Mongolia, be it concerning an old runic monument or about the mineral wealth of the country. The committee gives the necessary permits to foreign scientific expeditions and is engaged in surveying and exploring the vast land of Mongolia. In time, the committee will undoubtedly possess valuable collections and scientific data. Already a nucleus for a national museum is being formed and the rich private collections of the late Bogdo Gegen, confiscated by the state, form a considerable part of it. Under the able leadership of Dr. T. Z. Jamtsarano, a noted scholar in the field of Mongol literature and folklore, the committee is rapidly collecting material to serve for a comprehensive study of Mongolia and its people.
 
 The two greatest treasures of the committee’s museum and library are the wonderful finds made by General P. K. Kozlov in the Noin ula Mountains and a complete set of a Mongolian printed Tänjür. For a long time scholars have doubted the existence of a Tänjür printed in Mongolian. The Chinese sources tell us that the great Emperor Ch’ienlong ordered a committee of interpreters and scholars to translate the 225 volumes of the Tänjür into Mongolian and prepare block prints for
 
-151 MONGOLIA
+**151 MONGOLIA**
 
 its printing. According to the Chinese sources, this tremendous work was begun about October, 1740, and was ready by December, 1741 --- a truly wonderful achievement, considering the difiEiculties of translating from Tibetan into Mongolian. The complete copy of the Tdnjur, now in the possession of the Scientific Committee, was found in the territory of the Prince Nga-wang, in the vicinity of Khalgan in southeastern Mongolia.
 
@@ -2310,7 +2310,7 @@ Urga presents quite unique opportunities for a student of Tibetan literature, fo
 
 The Scientific Committee has quite recently carried out extensive explorations in outer Mongolia and has surveyed a number of ancient sites. It has also continued the excavations of the tumuli or funeral mounds in the Noin ula Mountains, where valuable finds were made, that threw fresh light on the culture revealed and facilitated the dating
 
-152 TRAILS TO INMOST ASIA
+**152 TRAILS TO INMOST ASIA**
 
 of the discoveries of General P. K. Kozlov. The Noin ula finds are closely related to the antiquities of the Transbaikal Province, brought to light by the Russian archaeologist Dr. Talko-Grincevich. The newly found antiquities form the easternmost end of a vast belt of nomad culture which passed through Minusinsk, Altai (Kotanda), Issik kdl, and the Aralo-Caspian steppes. The groups of tumuli, containing the royal tombs of a nomad people, are situated in the forest-clad valleys of Gujirte, Sudzukte, and Tsurumte in the Noin ula Mountains, north of Urga. Most of the tumuli have been damaged by treasure seekers and many of the things have been stolen. As to whom the tombs belonged, whether to Hiung-nu chiefs or to some other paleo-Asiatic tribes, it is difficult to express an opinion at present.
 
@@ -2320,25 +2320,25 @@ It seems very probable that Chinese artists furnished to the nomads objects in t
 
 The chief interest in Urga lies in its monasteries and other religious
 
-153 MONGOLIA
+**153 MONGOLIA**
 
-edifices. They dominate the city and their glittering gilded roofs add much to its outward appearance. The Ikhe-kiiren is its oldest religious establishment. We have already seen that this was the center round which grew the present city of Urga, and for many decades the official residence of the Je-tsun tam-pa Hutukhtu. It is at present divided into twenty-nine aimaf(s or monastic colleges. Besides these colleges there are at least seven temples consecrated to certain branches of the study of worship. One of the most important is the tshof^-chin (Tib. tshogs-cheti) or the assembly hall of the monastic congregation. According to ecclesiastical tradition, the building of the assembly hall was started by Ondiir-Gegen, the first and most famous Gegen of Urga. It is a square wooden building, many times enlarged during its history to suit the growing congregation of monks. The roof of the structure is crowned by a gilded ganjira in the form of a bum-pa or vase. On the four corners of the roof stand the black and white religious banners or jyal-tsen (Tib. rgyal-mtshari). These banners have a long history. They are usually found on temple roofs in Mongolia and Tibet and date back to a remote nomadic past.
+edifices. They dominate the city and their glittering gilded roofs add much to its outward appearance. The Ikhe-küren is its oldest religious establishment. We have already seen that this was the center round which grew the present city of Urga, and for many decades the official residence of the Je-tsun tam-pa Hutukhtu. It is at present divided into twenty-nine aimaf(s or monastic colleges. Besides these colleges there are at least seven temples consecrated to certain branches of the study of worship. One of the most important is the tshof^-chin (Tib. tshogs-cheti) or the assembly hall of the monastic congregation. According to ecclesiastical tradition, the building of the assembly hall was started by Ondiir-Gegen, the first and most famous Gegen of Urga. It is a square wooden building, many times enlarged during its history to suit the growing congregation of monks. The roof of the structure is crowned by a gilded ganjira in the form of a bum-pa or vase. On the four corners of the roof stand the black and white religious banners or jyal-tsen (Tib. rgyal-mtshari). These banners have a long history. They are usually found on temple roofs in Mongolia and Tibet and date back to a remote nomadic past.
 
-Inside the cathedral, at its northern wall, stands the state throne of the Hutukhtu, and on both sides of the throne are large glass cases with the holy images --- among which are prominent the image of Sakya-muni, the last human Buddha, Tsong-kha-pa, the great reformer of the fourteenth century with his two principal disciples, Khe-dup-je (Tib. mKhas-grub-rje) and Jye-tshap-je (Tib. rGyal-tshab-rje), and the image of Undur-Gegen. Most of these images are made of gilded clay and are covered by cosdy silk garments. Above the glass cases hang numerous religious banners or thang-kas. Most of the paintings are the work of Mongol artists or dzurachin and are far inferior in quality and design to the paintings belonging to the eastern Tibetan school.
+Inside the cathedral, at its northern wall, stands the state throne of the Hutukhtu, and on both sides of the throne are large glass cases with the holy images --- among which are prominent the image of Sakya-muni, the last human Buddha, Tsong-kha-pa, the great reformer of the fourteenth century with his two principal disciples, Khe-dup-je (Tib. mKhas-grub-rje) and Jye-tshap-je (Tib. rGyal-tshab-rje), and the image of Undur-Gegen. Most of these images are made of gilded clay and are covered by costly silk garments. Above the glass cases hang numerous religious banners or thang-kas. Most of the paintings are the work of Mongol artists or *dzurachin* and are far inferior in quality and design to the paintings belonging to the eastern Tibetan school.
 
-The roof of the cathedral is supported by 108 columns, an auspicious number, being the number of volumes in the Känjür. Between the columns are laid out low mattresses or shap-den (Tib. shabs-ldari) for the use of lamas during the services.
+The roof of the cathedral is supported by 108 columns, an auspicious number, being the number of volumes in the Känjür. Between the columns are laid out low mattresses or *shap-den* (Tib. *shabs-ldan*) for the use of lamas during the services.
 
 The temple has a very large treasury or sang, in which are preserved many religious objects dating back to the time of Undur-Gegen. Outside the temple stands a high wooden platform, from which lamas arc summoned by trumpets, called bura-yin shata, or the "platform of the trumpet."
 
 There are only four great assemblies of the clergy, for which use the
 
-154 TRAILS TO INMOST ASIA
+**154 TRAILS TO INMOST ASIA**
 
 assembly hall was primarily built: i, The Assembly of the Clergy on the New Year; 2, The festival of Chonkor duchin; 3, The great Maidari festival in the third and fourth months; 4, The Presentation of Offerings to the Bogdo Gegen (dansil(). With the abolishment of future incarnations of the Hutukhtu, this assembly has been discontinued.
 
-All these great assemblies of the clergy are impressive functions, during which imposing scenes are witnessed. First one sees purple and yellow-clad lamas in high hats and flowing monastic robes, ascending the bura-yin shata or the "platform of the trumpet" and summoning the monks with the deep drawling sounds of their long trumpets or dung-chen. The narrow lanes and streets of the monastic city suddenly fill with purple-clad lamas; imposing gray-haired geshe and gabju (Tib. b^a-bcu) or fully-pledged priests who observe the ten commandments, move in procession to the assembly hall. Young getsul or novices and probationers throng the entrance to the hall. The presiding lamas take up their seats to the left and right, in front of the throne of the Bogdo Gegen, which is usually covered with the red mantle and the ceremonial hat of the Pontiff. The Tsho\-chm Gebkp or the Provost Marshal of the assembly hall takes his seat at the entrance of the hall. The rest of the clergy sit down on the low mattresses spread in rows parallel to the northern wall. At the ends of the rows close to the entrance of the hall, sit the lama musicians with long trumpets, hautboys, and tambours. The service starts, and the low voices intone a chant, occasionally interrupted by the deep sounds of the trumpets and the sharp ringing tones of the hautboys. Tambours rhythmically sounded, join in the service, and sometimes the harrowing sounds of cymbals rise in the semidarkness of the hall. The deep low voices of the elder monks are accompanied by the shrill high voices of the boy novices, who rhythmically shake their heads and bodies while chanting their prayers. It is quite unlike the chants in Tibetan monasteries, but is similar to that of the Tsaidam Mongols. This temple music, a remnant of an ancient past, going back to shamanistic antiquity, is not without a peculiar charm of its own, and never fails to make a deep impression on a visitor.
+All these great assemblies of the clergy are impressive functions, during which imposing scenes are witnessed. First one sees purple and yellow-clad lamas in high hats and flowing monastic robes, ascending the bura-yin shata or the "platform of the trumpet" and summoning the monks with the deep drawling sounds of their long trumpets or dung-chen. The narrow lanes and streets of the monastic city suddenly fill with purple-clad lamas; imposing gray-haired *geshe* and *gabju* (Tib. *bka-bcu*) or fully-pledged priests who observe the ten commandments, move in procession to the assembly hall. Young *getsul* or novices and probationers throng the entrance to the hall. The presiding lamas take up their seats to the left and right, in front of the throne of the Bogdo Gegen, which is usually covered with the red mantle and the ceremonial hat of the Pontiff. The *Tshok-chm Gebkö* or the Provost Marshal of the assembly hall takes his seat at the entrance of the hall. The rest of the clergy sit down on the low mattresses spread in rows parallel to the northern wall. At the ends of the rows close to the entrance of the hall, sit the lama musicians with long trumpets, hautboys, and tambours. The service starts, and the low voices intone a chant, occasionally interrupted by the deep sounds of the trumpets and the sharp ringing tones of the hautboys. Tambours rhythmically sounded, join in the service, and sometimes the harrowing sounds of cymbals rise in the semidarkness of the hall. The deep low voices of the elder monks are accompanied by the shrill high voices of the boy novices, who rhythmically shake their heads and bodies while chanting their prayers. It is quite unlike the chants in Tibetan monasteries, but is similar to that of the Tsaidam Mongols. This temple music, a remnant of an ancient past, going back to shamanistic antiquity, is not without a peculiar charm of its own, and never fails to make a deep impression on a visitor.
 
-The next important temple in the kuren is the Da-ching galba-yin-siima, founded in 1739 during the reign of the Emperor Ch’ien long. The temple was destroyed by fire in 1892, but was subsequently rebuilt. Formerly its compound was used by the Bogdo Gegen, whose yurtas were pitched in it. Tibetan lamas, belonging to the immediate following of the Gegen, ofliciated in the temple. The last Bogdo Gegen spent
+The next important temple in the küren is the Da-ching galba-yin-sümä, founded in 1739 during the reign of the Emperor Ch’ien long. The temple was destroyed by fire in 1892, but was subsequently rebuilt. Formerly its compound was used by the Bogdo Gegen, whose *yurtas* were pitched in it. Tibetan lamas, belonging to the immediate following of the Gegen, officiated in the temple. The last Bogdo Gegen spent
 
 TYPES OF CHINESE IN URGA, A GROUP OF KHALKHA MONGOLS
 
@@ -2346,15 +2346,15 @@ MONGOLIA
 
 NEW YEAR MASQUERADE IN URGA
 
-155 MONGOLIA
+**155 MONGOLIA**
 
-most of his time in his summer palace on the banks of the Tola River. With his death, the temple lost its importance. The temple itself is built in Chinese style and its gilded roof forms one of the attractions in the Xiiren, but its interior is unimportant.
+most of his time in his summer palace on the banks of the Tola River. With his death, the temple lost its importance. The temple itself is built in Chinese style and its gilded roof forms one of the attractions in the küren, but its interior is unimportant.
 
-To the south of the temple compound lies a large open square on which the late Bogdo Gegen used to receive the mandd or "offering" and give blessing to the faithful. At present the middle of the large square is occupied by several triumphal arches in Chinese style, erected in 1883 in honor of the Eighth Incarnation of Je-tsiin tam-pa Hutukhtu. A Chinese inscription and a Mongol translation of it tell of the event.
+To the south of the temple compound lies a large open square on which the late Bogdo Gegen used to receive the *mandal* or "offering" and give blessing to the faithful. At present the middle of the large square is occupied by several triumphal arches in Chinese style, erected in 1883 in honor of the Eighth Incarnation of Je-tsün tam-pa Hutukhtu. A Chinese inscription and a Mongol translation of it tell of the event.
 
-The Barun Orgd or the temple consecrated to Abatai Khan, the reputed introducer of Lamaistic Buddhism into Mongolia, was once a place of importance, but since the transportation of many images to the summer palace of the Bogdo Gegen its importance has rapidly diminished.
+The Barun Örgö or the temple consecrated to Abatai Khan, the reputed introducer of Lamaistic Buddhism into Mongolia, was once a place of importance, but since the transportation of many images to the summer palace of the Bogdo Gegen its importance has rapidly diminished.
 
-The Jude-yin-siima, the temple consecrated to Tantric worship (Tib. rgyud), is another important institution in the \uren. Here are performed the mystic services according to the four principal systems of Tantras.
+The Jude-yin-siima, the temple consecrated to Tantric worship (Tib. *rgyud*), is another important institution in the küren. Here are performed the mystic services according to the four principal systems of Tantras.
 
 The Emchi-yin-slima or the Temple of Doctors is reserved for lamas studying medicine, and regular courses in medical science are delivered there. Many of the professors are graduates of the famous school of medicine in the Chak-po ri in Lhasa. An affiliated religious institution is the great Manla-yin-siima, or the temple in honor of the Healing Buddha. (Tib. sMan-bla). This form of Buddha is extremely popular among the Buddhists in Mongolia and Tibet. Images of the Buddha, both bronzes and painted scrolls, are very numerous in monasteries and private chapels.
 
@@ -2364,7 +2364,7 @@ A special staff of lamas officiates in the temple and a special preparation is r
 
 156 TRAILS TO INMOST ASIA
 
-Astrology. In the temple are found paintings or painted scrolls representing the mandda or the mystic sphere of influence of the Kdacat^ra system or the Wheel of Time. A thorough knowledge of \ar~tsi or astronomy is essential for a correct understanding of the doctrine. This mystic doctrine was introduced into Tibet by the great Dipankara Shrijnana or Atisha, a famous professor from the Indian convent of Vikramashila, in the eleventh century aj>. The doctrine which probably appeared in India about the end of the tenth century A.D. originated in the Realm of Shambhala, a region situated north of Tibet proper.
+Astrology. In the temple are found paintings or painted scrolls representing the *mandala* or the mystic sphere of influence of the *Kalacakra* system or the Wheel of Time. A thorough knowledge of *kar-tsi* or astronomy is essential for a correct understanding of the doctrine. This mystic doctrine was introduced into Tibet by the great Dipankara Shrijnana or Atisha, a famous professor from the Indian convent of Vikramashila, in the eleventh century aj>. The doctrine which probably appeared in India about the end of the tenth century A.D. originated in the Realm of Shambhala, a region situated north of Tibet proper.
 
 The center of the Kalacakra doctrine was the Tashi-lhun-po Monastery. One of the monastic colleges of Tashi-lhun-po was consecrated to the study of Kalacakra and is known under the name of Diin-khor-gyi da-tshang (Tib. Dus-’khor-gyi gra-tshang) or College of Kalacakra. This college was for a long time the chief seat of learning, where specially approved pupils could consecrate their time to the study of the abstruse treatises on the doctrine. Books on the Kalacakra doctrine are given only to trustworthy pupils, and an outsider can obtain books on it only after having obtained a special permission to do so from the Dalai Lama or the clerical authorities of Tibet. Such books are seldom printed and the block prints are preserved at big monastic presses. When a person has received the necessary permission, the book is printed on paper furnished by the applicant, no fee being taken for printing.
 
@@ -2380,9 +2380,9 @@ ONE OF THE PERSONAGES OF THE NEW YEAR DANCE
 
 LAMA DANCES IN URGA
 
-157 MONGOLIA
+**157 MONGOLIA**
 
-^principle of the coming \cipa or cosmic age. Learned abbots and medi'tating lamas are said to be in constant communication with this mystic fraternity, that guides the destinies of the Buddhist world. A western observer is apt to belittle the importance of this name or to relegate the voluminous literature about Shambhala and the still vaster oral tradition into the class of folklore or mythology; but those who have studied both literary and popular Buddhism know the terrific force that this name possesses among the masses of Buddhists of higher Asia. For in the course of history, it has not only inspired religious movements but even moved armies, whose war cry was the name of Shambhala. The Mongol troops of Sukhe Bator, who liberated Mongolia from the troops of General Hsii, composed a march song of their own, which is still sung by Mongol cavalry. The song begins with the words Jang Shambal-in dayin or "The War of northern Shambhala" and calls upon the warriors of Mongolia to rise for the Holy War of liberating the country from oppressing enemies. "Let us all die in this war and be reborn as warriors of Shambal-in Khan," goes the song.
+principle of the coming *kalpa* or cosmic age. Learned abbots and meditating lamas are said to be in constant communication with this mystic fraternity, that guides the destinies of the Buddhist world. A western observer is apt to belittle the importance of this name or to relegate the voluminous literature about Shambhala and the still vaster oral tradition into the class of folklore or mythology; but those who have studied both literary and popular Buddhism know the terrific force that this name possesses among the masses of Buddhists of higher Asia. For in the course of history, it has not only inspired religious movements but even moved armies, whose war cry was the name of Shambhala. The Mongol troops of Sukhe Bator, who liberated Mongolia from the troops of General Hsii, composed a march song of their own, which is still sung by Mongol cavalry. The song begins with the words *Jang Shambal-in dayin* or "The War of northern Shambhala" and calls upon the warriors of Mongolia to rise for the Holy War of liberating the country from oppressing enemies. "Let us all die in this war and be reborn as warriors of Shambal-in Khan," goes the song.
 
 In the past great names in the Buddhist hierarchy of Mongolia and Tibet dedicated whole volumes to the doctrine of Kalacakra and Shambhala. Among them the names of Atisha and Brom-ston, Khe-dup-je, the third Tashi Lama Pal-den ye-she (Tib. dPal-ldan ye-shes), and of Je-tsun Taranatha stand foremost.
 
@@ -2390,7 +2390,7 @@ In our days a vast oral literature, which sometimes takes the form of prophecies
 
 There exist several iconographical representations of Shambhala and the Kalacakra. The King of Shambhala or Rig-den Jye-po is usually represented seated on a throne covered by a cushion. With his left hand placed on his lap he supports the Wheel of Law; his right hand makes the sign of charity (^vara-mudra'), or sometimes is seen holding.the stalk
 
-158 TRAILS TO INMOST ASIA
+**158 TRAILS TO INMOST ASIA**
 
 of a lotus flower which supports the book and sword --- symbols of Manjushri, the Prince of Knowledge. In some ancient paintings, the King is seen attired in a breastplate armor, and wears the pointed helmet. In more modern images, he is seen attired in flowing robes ornamented with rich golden design. At the foot of his throne sit his parents designated under the name of Rig-den Jye-po ’i yab-yum, or, sometimes, instead of them Rig-den pema karpo, the first expounder of Kalacakra doctrine in India, and the Bodhisattva Padmapani.
 
@@ -2400,7 +2400,7 @@ On some paintings beneath the throne of the King of Shambhala is depicted the co
 
 Other images represent the mandala of Shambhala. The King of Shambhala is represented seated in front of one of his palace towers. The palace, a large structure in Sino-Tibetan style, is surrounded by a circle of high snowy mountains, for it is said in the Shambhda lam-yig or "Itinerary of Shambhala" that the Realm of Shambhala is situated in a mountain region sheltered on every side by high snowy ranges.
 
-In the upper corner of such paintings we see the representation of Pal-den ye-she, the third Tashi Lama, holding the monastic bowl and the one-headed form of the yi-dam of Kalacakra (Tib. dPal-dus-kyi ’khor-lo yab-yum). Very often the yi-dam is represented with four heads and twelve or twenty-four arms. The color of his body is invariably blue; his shahfi or yum is dark orange-yellow or sometimes red. The yidam of Kalacakra is frequently represented as a bodhisattva. When represented as such he wears the bodhisattva attire and holds in his folded hands the Wheel of Law or Dharmacakra. In this form the color of his body is yellow ochre. The yi-dam of Kalacakra has been frequently misrepresented in western literature on the subject as a god Kalacakra. In reality the yi-dam of Kalacakra symbolizes the mystic force of the system and is never considered to be a divine being.
+In the upper corner of such paintings we see the representation of Pal-den ye-she, the third Tashi Lama, holding the monastic bowl and the one-headed form of the yi-dam of Kalacakra (Tib. dPal-dus-kyi ’khor-lo yab-yum). Very often the yi-dam is represented with four heads and twelve or twenty-four arms. The color of his body is invariably blue; his *shakti* or *yum* is dark orange-yellow or sometimes red. The yidam of Kalacakra is frequently represented as a bodhisattva. When represented as such he wears the bodhisattva attire and holds in his folded hands the Wheel of Law or Dharmacakra. In this form the color of his body is yellow ochre. The yi-dam of Kalacakra has been frequently misrepresented in western literature on the subject as a god Kalacakra. In reality the yi-dam of Kalacakra symbolizes the mystic force of the system and is never considered to be a divine being.
 
 In the Temple of Astrology in Urga, the lama students are first trained in astronomy and astrology and then initiated into the secrets of
 
@@ -2410,13 +2410,13 @@ TliE TFIIRD TASHI LAMA OV TIBET (1740-80)
 
 Roerich Museum, New Yor\
 
-PILfJRIMS IN FRON'r OF THE MAITRRYA TEMPLE IN URGA
+PILGRIMS IN FRONT OF THE MAITREYA TEMPLE IN URGA
 
-159 MONGOLIA
+**159 MONGOLIA**
 
 Kalacakra. There exists a prescribed order of subjects in which the study of Kalacakra has to be taken up; but as it necessitates a lengthy description of allied Tantric systems, it must be omitted here.
 
-The best temple in the kiiren is dedicated to Maitreya. The huge statue of the coming Buddha was executed by Chinese craftsmen in Dolon-nor. The first temple to accommodate the statue was built in the lifetime of the Fifth Incarnation of the Bogdo Gegen, but it soon fell down and representatives were sent to the Tashi Lama in Tibet to inquire the reason of such a calamity. The Tashi Lama gave the explanation that the image of the future Buddha preferred a temple of Tibetan architecture, and it is said that he himself contributed a general plan for the new temple.
+The best temple in the küren is dedicated to Maitreya. The huge statue of the coming Buddha was executed by Chinese craftsmen in Dolon-nor. The first temple to accommodate the statue was built in the lifetime of the Fifth Incarnation of the Bogdo Gegen, but it soon fell down and representatives were sent to the Tashi Lama in Tibet to inquire the reason of such a calamity. The Tashi Lama gave the explanation that the image of the future Buddha preferred a temple of Tibetan architecture, and it is said that he himself contributed a general plan for the new temple.
 
 The present temple was built in the lifetime of the Seventh Incarnation of Je-tsun tam-pa Hutukhtu. It is a square wooden building with a dome in the middle of the roof, crowned with a ganjira, and the traditional banners or jyal-tsen on the corners. The colossal image of Maitreya, some fifty feet high, stands in the middle of the temple. Behind the figure at the northern wall stand five huge figures of attending bodhisattvas. The other walls are covered with glass cases containing brass images of the thousand Tathagatas.
 
@@ -2424,7 +2424,7 @@ In front of the image of Maitreya stands an altar table with the usual offering 
 
 The rest of the i(uren represents a collection of inclosed compounds surrounded by wooden palisades, in which stand the small wooden hovels or felt tents of the monks. It is a city by itself, standing apart from the rush and dust of modern Ulan Bator. On the southern side of the l(uren is situated a large open square on which stands an open wooden platform, where religious dances are performed by the monks. I witnessed here the Black-Hat dance performed during the New Year festivities. The square was thronged by an eager and ever increasing crowd of spectators. Lamas and laymen in bright yellow, blue, and purple silk coats, Chinese traders in somber black attire, Europeans, Mongol soldiers in khaki overcoats and fur-lined helmets, all stood and
 
-160 TRAILS TO INMOST ASIA
+**160 TRAILS TO INMOST ASIA**
 
 watched some twenty lamas performing the dance. They all were dressed in black coats with green embroidered silk sleeves, over which* they wore rii-jyen (Tib. rus-rgyan) or bone ornaments, and the peculiar black hats which gave the name to the dance.
 
@@ -2440,7 +2440,7 @@ BLACK-HAT DANCER, URGA THE BIG SUBURGHAN OR STUPA
 
 IX FRONT OF THE GAXDEN MONASTERY, URGA
 
-161 MONGOLIA
+**161 MONGOLIA**
 
 with high terraces that rise above the main building. The Chinese roof of the temple with its projecting corners is crowned by a gilded ganjira in the form of a vase or bum-pa. The temple was begun in the lifetime of the eighth Bogdo Gegen and was completed about the end of 1913 after the Mongol Revolution.
 
@@ -2452,23 +2452,23 @@ The present monastery of Ganden was founded in 1809 in the lifetime of the Fourt
 
 During my stay in Urga, I often went to visit the monastery and discuss with lamas the intricate problems of the Buddhist viewpoint on the outside world, --- a kind of projection of one’s inner self. Such learned lamas, holders of the high scholarly degrees in divinity of rap-cham-pa (Tibetan: rab-byams-pd) and lha-ram-pa, usually live with their disciples, who attend to their bodily needs, in Mongol felt tents pitched inside the courtyards of the monastery. The felt tent of a lama is usually much cleaner and sometimes even better furnished than that of a layman of equal means. One day we paid a visit to a learned lha-ram-pa or doctor of divinity, well known in Urga for his great knowledge and general acumen. We were anxious to see him. for
 
-162 TRAILS TO INMOST ASIA
+**162 TRAILS TO INMOST ASIA**
 
 we had heard that he had a deep and sincere interest in western science, and a very sane point of view on the future of the Buddhist doctrine.
 
-On arriving in Ganden, we were ushered into a narrow lane, leading to a small red-painted door with the Mongol number on it. Behind the door lay a small courtyard in which two Mongol tents were pitched: The white tent of the Iha^ram-pa and an ordinary Mongol tent of gray felt for his attendants and disciples. A yoimg lama lifted up the heavy carpet that serves as door in most of the yurtas, when the wooden door is left open. The Ihorram-pa, a man of sixty, was sitting on a low mattress in front of a low table covered with books and papers. He rose from his seat, greeted us, and offered us a seat on a low couch which served him as a bed.
+On arriving in Ganden, we were ushered into a narrow lane, leading to a small red-painted door with the Mongol number on it. Behind the door lay a small courtyard in which two Mongol tents were pitched: The white tent of the Iha^ram-pa and an ordinary Mongol tent of gray felt for his attendants and disciples. A young lama lifted up the heavy carpet that serves as door in most of the yurtas, when the wooden door is left open. The Ihorram-pa, a man of sixty, was sitting on a low mattress in front of a low table covered with books and papers. He rose from his seat, greeted us, and offered us a seat on a low couch which served him as a bed.
 
-The furnishing of his tent was simple but clean and cozy. A large iron stove in the center gave plenty of warmth. An altar with a glass case containing several small images and photos of great lamas, stood at the northern wall of the tent. Near to the altar stood a table and a large wooden case containing the lama’s library. He himself was engaged in translating into Tibetan a Russian textbook on algebra for the use of the monastery lamas. He told us that Buddhism should be renovated in the light of modern science. It was necessary to improve the general education of the lamas. According to him, in times past one met learned lamas, who knew Sanskrit and had a thorough knowledge of the tshan-nyid literature of Buddhism. Now such men arc rare, and most of the lamas content themselves with learning by heart a few proscribed prayer books. The lha-ram-pa was well aware of the fact that unless the church would improve the education of the lamas, the ijniluence of religion would rapidly wane. A question that greatly agitated the clerical masses was that of the Xhuvara}{s or novices. According to the old rule, boys of seven were given away by their parents to a monastery to become lamas. A family that had several sons would always give one of them away. Educated from early boyhood in the precepts and traditions of the Lamaist order, the boys grew into staunch supporters of the church. The new progressive government of Mongolia recently promulgated a law that only boys of eighteen could enter the monastery and that they should do so entirely of their own accord. This was a heavy blow to the church, which suddenly lost its right of recruiting novices among the population. Our informer was, however, of the opinion that the importance lay in quality and not in quantity; let there be fewer lamas, but real ones, learned in the precepts of their religion.
+The furnishing of his tent was simple but clean and cozy. A large iron stove in the center gave plenty of warmth. An altar with a glass case containing several small images and photos of great lamas, stood at the northern wall of the tent. Near to the altar stood a table and a large wooden case containing the lama’s library. He himself was engaged in translating into Tibetan a Russian textbook on algebra for the use of the monastery lamas. He told us that Buddhism should be renovated in the light of modern science. It was necessary to improve the general education of the lamas. According to him, in times past one met learned lamas, who knew Sanskrit and had a thorough knowledge of the tshan-nyid literature of Buddhism. Now such men arc rare, and most of the lamas content themselves with learning by heart a few proscribed prayer books. The lha-ram-pa was well aware of the fact that unless the church would improve the education of the lamas, the influence of religion would rapidly wane. A question that greatly agitated the clerical masses was that of the *khuvaraks* or novices. According to the old rule, boys of seven were given away by their parents to a monastery to become lamas. A family that had several sons would always give one of them away. Educated from early boyhood in the precepts and traditions of the Lamaist order, the boys grew into staunch supporters of the church. The new progressive government of Mongolia recently promulgated a law that only boys of eighteen could enter the monastery and that they should do so entirely of their own accord. This was a heavy blow to the church, which suddenly lost its right of recruiting novices among the population. Our informer was, however, of the opinion that the importance lay in quality and not in quantity; let there be fewer lamas, but real ones, learned in the precepts of their religion.
 
-TEMPLE OF AVALOKITESVARA, CJANDEN MONASl'ERY, URGA
+TEMPLE OF AVALOKITESVARA, GANDEN MONASTERY, URGA
 
 BRONZE INCENSE BURNER
 
 IN FRONT OF THE GANDEN MONASTERY, URGA
 
-ALTAR WITH PHOTOGRAPH OF THE BOGDO CJEGEN, GANDEN MONASTERY, URGA
+ALTAR WITH PHOTOGRAPH OF THE BOGDO GEGEN, GANDEN MONASTERY, URGA
 
-163 MONGOLIA
+**163 MONGOLIA**
 
 The lamas, being the only intellectual class, had to evolve with the time, participate in the life of the nation, and help in the upbuilding of their country. The views of the learned lha-ram-pa, I must add, are shared by a number of monks throughout Mongolia and even Tibet.
 
@@ -2530,7 +2530,7 @@ The next important question was of the route from Urga to Yum-beise. Our intenti
 
 170 TRAILS TO INMOST ASIA
 
-rivers of the upper Selenga Basin, which it crossed on its way. The second route ran from Urga through Nga-Wang kiiren --- the Monastery Tukhumun Dugan-Odzen-Wang-Khara-nidun-Yum-beise. This route had the great advantage of avoiding the difficult rivers of the Selenga Basin, and crossed the Ongin-gol in its upper course. The third route coincided with the second route as far as the monastery of Nga-Wang kiiren. From this point it ran south by southwest in the direction of the lakes Tsagan-nor and Orok-nor; it led over the firm ground of a stone desert, and quicksands and marshy ground were met only in the vicinity of the lakes Tsagan-nor and Orok-nor.
+rivers of the upper Selenga Basin, which it crossed on its way. The second route ran from Urga through Nga-Wang küren --- the Monastery Tukhumun Dugan-Odzen-Wang-Khara-nidun-Yum-beise. This route had the great advantage of avoiding the difficult rivers of the Selenga Basin, and crossed the Ongin-gol in its upper course. The third route coincided with the second route as far as the monastery of Nga-Wang küren. From this point it ran south by southwest in the direction of the lakes Tsagan-nor and Orok-nor; it led over the firm ground of a stone desert, and quicksands and marshy ground were met only in the vicinity of the lakes Tsagan-nor and Orok-nor.
 
 All the above routes led to Yum-beise. It was our intention to continue our journey on motor cars south of Yum-beise. We knew of great difficulties for motor traffic in the mountains south of Yum-beise and were trying to find out another route in order to avoid the rugged mountain ridges with belts of impassable sand dunes south of Yum-beise.
 
@@ -2610,7 +2610,7 @@ Late in the afternoon we passed a couple of Mongol tents with some flocks of she
 
 On April 15 we again made an early start with the hope of reaching Nga-Wang Tseren kuren, a monastery situated not far from the bend of the Tola River toward the northwest. The country presented the same landscape as the day before. Here and there the monotony of the flat grassy hills was broken by rugged masses of granite and porphyry. The road was easy and so even and straight that our cars could make considerable speed, especially on the last stretch of fifteen miles. So far we were following the Sain-Noin route, taken by the Third Asiatic Expedition of the American Museum of Natural History in 1922-23. The geology of the Tola Basin has been studied and described by Professor Charles P. Berkey and Dr. Frederick K. Morris, the geologists of the expedition,* and it is unnecessary to give another description of a region visited many times by American and Russian scientists.
 
-We were forced to camp a little earlier in the day than we had intended, close to a small ravine full of snow. Several Mongol cameleers whom we had met on the way reported that no water was available until we reached Nga-Wang Tseren kiiren, for the Tola River was still
+We were forced to camp a little earlier in the day than we had intended, close to a small ravine full of snow. Several Mongol cameleers whom we had met on the way reported that no water was available until we reached Nga-Wang Tseren küren, for the Tola River was still
 
 I. Sec Berkey & Morris, Geology of Mongolia, pp. 90 £F,
 
@@ -2618,11 +2618,11 @@ I. Sec Berkey & Morris, Geology of Mongolia, pp. 90 £F,
 
 frozen and ran a considerable distance from the route. We had to thaw snow to get drinking water. The night was again bitterly cold, about --- 17°C., but the wind that had started soon after sunset abated toward midnight and the rest of the night was quiet.
 
-On Apru. i6 we drove for two hours over good gravel road before we saw the dugan or cathedral of the Nga-Wang Tseren kiiren on the farther bank of the river. Not far from the monastery we left the river valley and continued our journey across a low ridge --- the easternmost branch of the Dolon-Khara Mountains. About noon we reached the important monastery of Tukhumun Dugan or Dugan-siima, situated north of the salt lake, called Ikhe Tukhum-nor. The lake occupied a shallow depression about four miles long and three miles wide; it was still covered by ice and considerable layers of salt crust were seen on its shores.
+On Apru. i6 we drove for two hours over good gravel road before we saw the dugan or cathedral of the Nga-Wang Tseren küren on the farther bank of the river. Not far from the monastery we left the river valley and continued our journey across a low ridge --- the easternmost branch of the Dolon-Khara Mountains. About noon we reached the important monastery of Tukhumun Dugan or Dugan-siima, situated north of the salt lake, called Ikhe Tukhum-nor. The lake occupied a shallow depression about four miles long and three miles wide; it was still covered by ice and considerable layers of salt crust were seen on its shores.
 
 The monastery is known for its du-khang or assembly hall built in Tibetan style with some good wooden carvings. In the winter months it is almost deserted, but during the summer the number of inmates exceeds 300. The monastery was visited by General P. K. Kozlov on his way to the dead city of Khara-khoto during his memorable expedition of 1907-8. We made only a brief halt in order to inspect the buildings and continued our route to Mishe-Gun.
 
-After a two hours’ ride over good road, during which we crossed several shallow rivulets, we reached the Mishe-Gun kiiren, a large lamasery with a colony of Russian tradesmen living near by. We halted outside the monastery and the settlement to have lunch, and after an hour continued our route southwestward across hilly country. Immediately southwest of the monastery is situated a low but steep pass, and it was only with considerable difficulty that we succeeded in bringing our heavily loaded trucks over it. We drove for some twenty-five miles more over flat ground and camped on the southern shores of two small salt lakes situated in a shallow depression surrounded on all sides by low hills. The ground around the lakes was very saline and in many places swampy.
+After a two hours’ ride over good road, during which we crossed several shallow rivulets, we reached the Mishe-Gun küren, a large lamasery with a colony of Russian tradesmen living near by. We halted outside the monastery and the settlement to have lunch, and after an hour continued our route southwestward across hilly country. Immediately southwest of the monastery is situated a low but steep pass, and it was only with considerable difficulty that we succeeded in bringing our heavily loaded trucks over it. We drove for some twenty-five miles more over flat ground and camped on the southern shores of two small salt lakes situated in a shallow depression surrounded on all sides by low hills. The ground around the lakes was very saline and in many places swampy.
 
 The days were becoming decidedly warmer, and we observed several marmots that had ended their hibernation.
 
@@ -2646,7 +2646,7 @@ The trucks did not reach the river until late in the evening. In complete darkne
 
 Late in the evening the camp was pitched and everyone retired to his tent. The night was clear, the wind having driven away the clouds that hovered over the mountain chains southwest of our camp.
 
-The next morning was spent in bringing over the three trucks. Two of them crossed the river without any mishap but the third stuck in the sand and had to be rescued by riders, who pulled it out. About noon the whole of the expedition convoy assembled on the western bank of the river. We resolved to pay a brief visit to Udzen-Wang and to engage a Mongol guide who knew the route to Yum-beise kiiren. Our motor car drivers, who knew the road up to Ongin-gol pretty well, knew nothing about the remaining stretch to Yum-beise. An hour’s ride brought us to Odzen-Wang, comprising a large lamasery, a local *yamen* or administrative center, and several Russian trading establishments, including a local branch of the Mongol Central Cooperative. While some of us were looking for a good and reliable guide, a big crowd of red-clad lamas, Mongol ofiicials, and laymen assembled around our cars. They were eager to learn where we were going and what were our intentions.
+The next morning was spent in bringing over the three trucks. Two of them crossed the river without any mishap but the third stuck in the sand and had to be rescued by riders, who pulled it out. About noon the whole of the expedition convoy assembled on the western bank of the river. We resolved to pay a brief visit to Udzen-Wang and to engage a Mongol guide who knew the route to Yum-beise küren. Our motor car drivers, who knew the road up to Ongin-gol pretty well, knew nothing about the remaining stretch to Yum-beise. An hour’s ride brought us to Odzen-Wang, comprising a large lamasery, a local *yamen* or administrative center, and several Russian trading establishments, including a local branch of the Mongol Central Cooperative. While some of us were looking for a good and reliable guide, a big crowd of red-clad lamas, Mongol ofiicials, and laymen assembled around our cars. They were eager to learn where we were going and what were our intentions.
 
 After considerable waiting, the required guide was produced --- a
 
@@ -2704,7 +2704,7 @@ We decided to camp on the flat top of a low canyon. The night was exceptionally 
 
 In the early morning we started west again, climbing up and down the numerous canyons and spurs that intersected the southern side of the mountains. Some of the canyons were difiicult to cross. The Mongol guide from Udzen-Wang insisted that we should continue our journey westward.
 
-About three o’clock in the afternoon we succeeded in crossing a low sandy ridge to the southwest and found ourselves in sight of a vast gravel plain with faint outlines of rocky mountains to the far south. Our drivers knew nothing about the route and from the existing maps we could only find the direction of the Yum-beise kiiren. We all were of the opinion that our Mongol guide was a failure and that the old man was guiding us in the wrong direction. I therefore questioned our Tibetan who knew the camel trail well and he was positive that our route lay south across the gravel plain. After a long argument, the Mongol guide confessed that he was guiding us toward the relay station of Yum-beise kiiren. We therefore decided to follow the indications of our Tibetan and cross the plain southward.
+About three o’clock in the afternoon we succeeded in crossing a low sandy ridge to the southwest and found ourselves in sight of a vast gravel plain with faint outlines of rocky mountains to the far south. Our drivers knew nothing about the route and from the existing maps we could only find the direction of the Yum-beise küren. We all were of the opinion that our Mongol guide was a failure and that the old man was guiding us in the wrong direction. I therefore questioned our Tibetan who knew the camel trail well and he was positive that our route lay south across the gravel plain. After a long argument, the Mongol guide confessed that he was guiding us toward the relay station of Yum-beise küren. We therefore decided to follow the indications of our Tibetan and cross the plain southward.
 
 We endeavored to obtain some information from Mongol women, who lived in a felt tent completely hidden in one of the deeper canyons. Their men folk were away and the women knew nothing about the route. We had to rely on the knowledge of our Tibetan.
 
@@ -2728,7 +2728,7 @@ MONCX)L NUNS, SOUTHWEST MONGOLIA
 
 189 URGA --- YUM-BEISE KÜREN
 
-of the long-expected Yum-beise kiiren, situated in a deep valley sur> rounded on all sides by hills that sheltered the monastery from the severe winds which blow during the winter and spring months. It is a collection of white houses in the center of which rise two dtt-kjiangs or assembly halls. A huge crowd of red-clad lamas, on hearing the sound of motor horns, rushed out of the monastery and surrounded our cars. We found no suitable place for camping close to the monastery and were advised to establish our camp outside the monastery in a place locally called Tsagan Tologoi --- "White Head," so named after a mountain west of the monastery. The place chosen for the camp was situated on the banks of a tiny stream, the Tsagan Tologoi-usu. From the northwest and west our camp was well sheltered by the mountains, Tsagan Obo. To the east and south the place overlooked the vast rolling landscape of the Gobi.
+of the long-expected Yum-beise küren, situated in a deep valley sur> rounded on all sides by hills that sheltered the monastery from the severe winds which blow during the winter and spring months. It is a collection of white houses in the center of which rise two dtt-kjiangs or assembly halls. A huge crowd of red-clad lamas, on hearing the sound of motor horns, rushed out of the monastery and surrounded our cars. We found no suitable place for camping close to the monastery and were advised to establish our camp outside the monastery in a place locally called Tsagan Tologoi --- "White Head," so named after a mountain west of the monastery. The place chosen for the camp was situated on the banks of a tiny stream, the Tsagan Tologoi-usu. From the northwest and west our camp was well sheltered by the mountains, Tsagan Obo. To the east and south the place overlooked the vast rolling landscape of the Gobi.
 
 We were obliged to spend several days at Yum-beise in order to arrange our farther journey across the southwestern Gobi to An-hsi chou. Our camel caravan with the gasoline supply reached Yum-beise on the same day we did. It had followed a northern route past Erdeni Dzu and Lama-yin Gegen Monastery and spent several days grazing the camels near Lama-yin Gegen. This explained the delay. Local inhabitants were of the opinion that it would be difficult, almost impossible, for us to continue our journey on motor cars south of Yum-beise. According to them the road was almost impassable, and all former attempts made by Mongol cars to cross the Gobi Desert south of the monastery had met with little success. Considering the poor condition of our cars, we u nani m ously decided to send them back and to continue our journey on camels.
 
@@ -2756,7 +2756,7 @@ The very same words can be applied to the western Gobi, the vast expanse of dese
 
 The nyer-wa of the monastery proposed to follow a caravan trail lying east of the usual caravan route Yum-beise-An-hsi chou. This route had the great advantage of being shorter than the usual one. Until recently it was considered dangerous for caravans on account of the brigand activity in its neighborhood, but considering our armament, the nyer-wa was confident that we could attempt the desert crossing by it. This route was often followed by contrabandists and was well known to some of the monks in the monastery. The nyer-wa promised to produce a reliable guide the next day. The only sure way of crossing a desert is to engage a good guide and intrust him with the selection of camping places and finding of water wells. European maps cannot always be relied upon, and moreover there are no route maps of the region of sufficiently large scale. The only means of finding the correct direction in the Gobi are a good guide and the compass.
 
-The Mongol guides are famous throughout central Asia for their wonderful knowledge of the country. It is an almost supernatural capacity that always helps them to find a passable trail or water well. After our sad experience with the guide from Udzen-Wang to Yumbeise, we all were rather skeptical about these qualities of Mongolian g^uides, but on reaching Shih-pao-ch’eng in the Nan Shan safely, we had to admit that for a whole month of trying desert crossing our Mongol guides --- lamas of the Yum-beise kiiren --- never misled the caravan, always finding water supply in a country that seemed utterly barren.
+The Mongol guides are famous throughout central Asia for their wonderful knowledge of the country. It is an almost supernatural capacity that always helps them to find a passable trail or water well. After our sad experience with the guide from Udzen-Wang to Yumbeise, we all were rather skeptical about these qualities of Mongolian g^uides, but on reaching Shih-pao-ch’eng in the Nan Shan safely, we had to admit that for a whole month of trying desert crossing our Mongol guides --- lamas of the Yum-beise küren --- never misled the caravan, always finding water supply in a country that seemed utterly barren.
 
 Early next morning I went, accompanied by our Tibetan guide, to the monastery to settle with the nyer-wa the cost of hiring the camels from Yum-beise to Shih-pao-ch’eng and the date of our departure.
 
@@ -5976,7 +5976,7 @@ Arab alliance with Tibetans, seventh century, 100; desert, 414
 
 Araki, 213, 238
 
-Architecture --- brick structures and stone hovels, 37, 86, 183, 192, 255, 326, 409, 410, 413, 414, 417, 421, 426, 449, 456, 462, 465, 484; cathedral of Ikhe-kiiren, 153; conical, 173, 417; European influence, Hsin-chiang, 1 04-1 05; Gandcn Monastery, 160-161; Ja Lama*s castle, 212; lack of permanent structures, Tsaidam, 255; Leh Palace, 24 ff.; m^nf-walls, Ladak, 28, 414-415, 417, 428, 449, 456, 461, 485; masonry, 29> 487; mud-built fort, 47, hovels, 264; People’s Club, Mongolia, 139; Red Sect Monastery, 456; Sino-Tibetan, 158, 384; Tibetan houses, 14, 27; two-story buildings, 384; triumphal arches, Urga, 155; Urga Palace, 139; watch towers, 214; white-wash, 456, 460; windows, 24, 27, 117, 383; Yum-beise kiiren, 192; yurta motif, 139, 150; Zangskar, 35
+Architecture --- brick structures and stone hovels, 37, 86, 183, 192, 255, 326, 409, 410, 413, 414, 417, 421, 426, 449, 456, 462, 465, 484; cathedral of Ikhe-küren, 153; conical, 173, 417; European influence, Hsin-chiang, 1 04-1 05; Gandcn Monastery, 160-161; Ja Lama*s castle, 212; lack of permanent structures, Tsaidam, 255; Leh Palace, 24 ff.; m^nf-walls, Ladak, 28, 414-415, 417, 428, 449, 456, 461, 485; masonry, 29> 487; mud-built fort, 47, hovels, 264; People’s Club, Mongolia, 139; Red Sect Monastery, 456; Sino-Tibetan, 158, 384; Tibetan houses, 14, 27; two-story buildings, 384; triumphal arches, Urga, 155; Urga Palace, 139; watch towers, 214; white-wash, 456, 460; windows, 24, 27, 117, 383; Yum-beise küren, 192; yurta motif, 139, 150; Zangskar, 35
 
 Argal as fuel, 288, 314, 405; walls, 299, 406, 410
 
@@ -6616,7 +6616,7 @@ Ibn-al Athir, 62
 
 Ikhe-Khuruldan, Great National Assembly of Mongolia, 135
 
-Ikhe-kiiren, 135 ff.; temples of, 153 ff.
+Ikhe-küren, 135 ff.; temples of, 153 ff.
 
 Ikhe-Tsaidam, 263 ff.
 
@@ -6832,7 +6832,7 @@ Kum-rabat Padshahim, 82
 
 Kun-tu bzang-po, 355
 
-Kiiren, see Ikhe-kiircn
+Küren, see Ikhe-küren
 
 Kusho Kudrupa, 184
 
@@ -7002,7 +7002,7 @@ Mir an, 63
 
 Mirza Mohammad Haidar, 9
 
-Mishc-Gun kiiren, 180
+Mishc-Gun küren, 180
 
 Moguls, 6
 
@@ -7094,7 +7094,7 @@ Ngantse tsho, 426
 
 Nga-wang, Prince, 151
 
-Nga-Wang Tseren kiiren, 180
+Nga-Wang Tseren küren, 180
 
 Nishad and Shalimar, 6
 
@@ -7764,7 +7764,7 @@ Undiir-Gegcn, 153
 
 Uplands of Tibet, see Tibetan uplands
 
-Urga, Mongolia, 134, 178; administration, 136 ff.; Bogdo ula, 134; dog packs, 141 if.; electric light, 138.; Ganden Monastery, 107, 160; history, 134-137, 227 ff., 232; Ikhe-kiiren, 153 fF. Maidari procession, 136, 163; Manjushri-kit monastery, 135, 163; national and state institutions, 139-142, 149 ff., 163; population, 136 ff., 145 ff.; sanitation, 141; trade, 140 ff.
+Urga, Mongolia, 134, 178; administration, 136 ff.; Bogdo ula, 134; dog packs, 141 if.; electric light, 138.; Ganden Monastery, 107, 160; history, 134-137, 227 ff., 232; Ikhe-küren, 153 fF. Maidari procession, 136, 163; Manjushri-kit monastery, 135, 163; national and state institutions, 139-142, 149 ff., 163; population, 136 ff., 145 ff.; sanitation, 141; trade, 140 ff.
 
 Urumchi, Hsin-chiang, 1 15-122
 
@@ -7864,7 +7864,7 @@ Yotkan, 71
 
 Yuan-shih k*ai, 248
 
-Yum-beise kiiren, 189-195; route, 190
+Yum-beise küren, 189-195; route, 190
 
 Yurta motif in building, 139, 150
 
