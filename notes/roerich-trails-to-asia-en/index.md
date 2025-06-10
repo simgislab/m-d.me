@@ -769,7 +769,7 @@ We visited the *du-khang* or assembly hall in which some twenty monks were recit
 
 The Incarnate Lama of Lamayuru was away, and we were allowed to visit his living rooms, which were, as usual, neat and orderly.
 
-According to the lamas of the monastery, the oldest part of the convent is the temple called Seng-ge sgang, situated at the southern end of the cliff of Lamayuru. The principal image is that of Manjushri or Jam-pe yang. According to a local tradition the Seng-ge sgang temple dates back to the bKa-gdams period, that is the eleventh century A.D. Dr. A. H. Francke, who visited this temple, thinks that the tradition is quite in agreement with the general appearance of the temple. (14)
+According to the lamas of the monastery, the oldest part of the convent is the temple called Seng-ge sgang, situated at the southern end of the cliff of Lamayuru. The principal image is that of Mañjushri or Jam-pe yang. According to a local tradition the Seng-ge sgang temple dates back to the bKa-gdams period, that is the eleventh century A.D. Dr. A. H. Francke, who visited this temple, thinks that the tradition is quite in agreement with the general appearance of the temple. (14)
 
 We also paid a visit to a ruined Bön sanctuary, referred to by Dr. Francke. (15) Unfortunately the frescoes that once adorned the walls of the edifice were in a very dilapidated condition and one could hardly identify the images represented on them.
 
@@ -867,7 +867,7 @@ dak bungalow one constantly hears the pleasant bells of passing caravans and the
 
 In some corners of the bazaars, or in the vicinity of Lamaist temples, one meets red-clad lamas who have traveled hundreds of miles from inner Tibet, selling holy relics and talismans. Curiously enough I have seen Buddhist talismans or srung-wa on Turki caravan men from Karghalik who seemed to be quite convinced of their potency. The black and blue turbaned Baltis are very prominent in the streets of Leh and usually find employment as coolies or caravan men, carrying heavy loads. Occasionally one meets the quaint figures of the Mons, preservers of the ancient Ladaki lore and probably an ethnic remnant of a primitive population, which has been submerged by subsequent waves of foreign migrations.
 
-During our stay in Leh, we made the acquaintance of the son of the Ladaki *aqsaqal* of Lhasa, a young fellow of considerable acumen, who was on a summer visit to Leh. The goods that he brought consisted of brick tea, Tibetan cloth puru, lama boots manufactured at Dre-pung, and other objects of the Lamaist cult. He even had several Tibetan xylographs for sale, prominent among which was the life story or namthar of Je-tsiin Milarepa, Tibet’s great ascetic and poet of the eleventh century A.D.
+During our stay in Leh, we made the acquaintance of the son of the Ladaki *aqsaqal* of Lhasa, a young fellow of considerable acumen, who was on a summer visit to Leh. The goods that he brought consisted of brick tea, Tibetan cloth puru, lama boots manufactured at Dre-pung, and other objects of the Lamaist cult. He even had several Tibetan xylographs for sale, prominent among which was the life story or namthar of Je-tsün Milarepa, Tibet’s great ascetic and poet of the eleventh century A.D.
 
 Wandering through the streets of Leh, one feels the beating pulse of the great Asia that lies hidden behind the veil of a superficial modernization.
 
@@ -925,7 +925,7 @@ Below the royal palace of Seng-ge rnam-rgyal stand two temples --- one consecrat
 
 blon). Old clay images and manuscript books are still to be found in the ruins.
 
-North of Leh is situated the small monastery of Zangskar, a branch of the Spi-thug Monastery. It is of comparatively recent date but contains some well-executed images and frescoes. A square courtyard paved with large slabs of stone leads to the chief temple, standing in front of the entrance gate. The first room of the temple contains a clay image of Avalokitesvara, the Merciful Lord. The walls of the temple are covered with modern frescoes of fine execution, painted by a well-known Ladak artist, now an old man residing at the Trikshe Monastery. Behind the first hall is situated a small chapel consecrated to the worship of Dug-kar. Besides the goddess’ image we found a large image of Manjushri or Jam-pe yang, the Prince of Knowledge. The rest of the monastery buildings in the courtyard are occupied by cells and storerooms.
+North of Leh is situated the small monastery of Zangskar, a branch of the Spi-thug Monastery. It is of comparatively recent date but contains some well-executed images and frescoes. A square courtyard paved with large slabs of stone leads to the chief temple, standing in front of the entrance gate. The first room of the temple contains a clay image of Avalokitesvara, the Merciful Lord. The walls of the temple are covered with modern frescoes of fine execution, painted by a well-known Ladak artist, now an old man residing at the Trikshe Monastery. Behind the first hall is situated a small chapel consecrated to the worship of Dug-kar. Besides the goddess’ image we found a large image of Mañjushri or Jam-pe yang, the Prince of Knowledge. The rest of the monastery buildings in the courtyard are occupied by cells and storerooms.
 
 A place well-worth visiting is the town residence of the Hemis *sku-shok* or abbot of the well-known Hemis Monastery. It is in charge of a *nyer-wa* or housekeeper. The s\u-sho\ only seldom resides in it and most of the year the house stands empty. It is a typical Tibetan mansion, and the upper rooms command a fine view of the Indus Valley and the snowy mountains beyond it. As usual the ground floor is reserved for stables, servants’ quarters, and storerooms. On the second floor is situated the kitchen, a cleanly kept place with huge shining brass cauldrons and other kitchen utensils. The living quarters are on the upper floor. These are airy rooms with large square windows. Only one room had glass in the windows, the other had beautifully carved window frames but neither glass nor paper.
 
@@ -1325,7 +1325,7 @@ Besides silk and cotton stuffs, Khotan produces a large quantity of carpets. The
 
 In recent years, Khotan felts have been in great demand. These felts are manufactured all along the southern trade route between Yarkend and Khotan, but the center of manufacture is undoubtedly Khotan. These felts are often vividly colored and have a striking design. Most of the trade is done with India, where the felts are in growing demand, not only for Indian markets, but also for foreign markets. Khotan sheepskins are valued throughout Chinese Turkestan and are commonly used as winter lining for coats and winter caps. The skins are well tanned and compare favorably with the other fur-producing centers of Turkestan, such as Kashgar, Aksu, and Kuchar.
 
-The present jade manufacture is very insignificant. The trade received a rude shock during the rule of Ma Fu-hsin, the Ti-t'ai of Kashgar, who ordered the exportation of a number of skilled artisans from Khotan for his jade works in Kashgar.
+The present jade manufacture is very insignificant. The trade received a rude shock during the rule of Ma Fu-hsin, the *Ti-t'ai* of Kashgar, who ordered the exportation of a number of skilled artisans from Khotan for his jade works in Kashgar.
 
 As an agricultural center, Khotan occupies an important place. It is well watered and the fertile beds of alluvial loess afford ample opportunity for agriculture.*
 
@@ -1447,7 +1447,7 @@ Meanwhile a new magistrate had arrived from Urumchi and Kashgar. Disquieting rum
 
 was violently opposed to foreigners, although he boasted of his modernism.
 
-A few days after his arrival, the Governor with all the Chinese officials came to thank Mrs. Roerich for her help during the illness of the Governor’s son. They came accompanied by an armed escort. From the very beginning of the conversation we felt that the Tao-t’ai and the new magistrate had something on their minds. We invited them to tea in my room and closed the doors so as to prevent the noisy soldiers from entering. Ma Tao-t’ai and the magistrate seemed very uneasy and surly. They examined the room attentively and exchanged brief remarks about our pack cases that were piled along the walls. Suddenly the Tao-t'ai coughed three times, the door swung open and the room was filled with soldiers, who lined up along the walls. The room assumed the appearance of a tribunal. We were much surprised and expressed our astonishment at the conduct of the Governor. The Tao-t’ai smiled and begged us not to pay any attention. I feel sure that the Governor was afraid to remain alone in the room.
+A few days after his arrival, the Governor with all the Chinese officials came to thank Mrs. Roerich for her help during the illness of the Governor’s son. They came accompanied by an armed escort. From the very beginning of the conversation we felt that the Tao-t’ai and the new magistrate had something on their minds. We invited them to tea in my room and closed the doors so as to prevent the noisy soldiers from entering. Ma Tao-t’ai and the magistrate seemed very uneasy and surly. They examined the room attentively and exchanged brief remarks about our pack cases that were piled along the walls. Suddenly the *Tao-t'ai* coughed three times, the door swung open and the room was filled with soldiers, who lined up along the walls. The room assumed the appearance of a tribunal. We were much surprised and expressed our astonishment at the conduct of the Governor. The Tao-t’ai smiled and begged us not to pay any attention. I feel sure that the Governor was afraid to remain alone in the room.
 
 The conversation continued on general topics, when suddenly the new magistrate began to question us about our passports. We once more produced our Peking passports sent us to India from the Chinese Wai-chiao-pu, through Mr. Cheng Lo, the Chinese Ambassador in Peking. The attitude of the Chinese was inexplainable. They scoffingly remarked that our passports were not valid in this Province, that the Peking Government had nothing to say in Hsin-chiang and that Mr. Cheng Lo had no authority to issue letters of introduction. The Chinese assumed a threatening attitude, began to gesticulate, spit on the floor, and scoff. It was quite an unexpected change, but we decided to stand firm and pointed out to them that they had no right to threaten the expedition and disregard our passports. We warned them that we should at once communicate with the British Consul in Kashgar and ask him to request the Governor-General of Hsin-chiang for permission to continue our work unimpeded. After a very heated discussion, the Tao-t’ai and his companions rose and departed for Khotan.
 
@@ -1724,7 +1724,7 @@ MAN, KARASHAHR CHINESE TURKESTAN
 
 **NORTHERN HIGHWAY TO URUMCHI 99**
 
-tribes occupying the higher grazing valleys of the Tekes and Kunges in the central Tien Shan and the steppe country of Jungaria. Nowadays, the oasis conducts an extensive trade with Kalmuck, Torgut, and Oldt tribes, occupying the higher mountain valleys of the Tien Shan and the steppe country round Karashahr. Kuchar is connected with Khotan by a desert route following the bed of Keriya River, and receives by that route its share of Khotan trade.
+tribes occupying the higher grazing valleys of the Tekes and Kunges in the central Tien Shan and the steppe country of Jungaria. Nowadays, the oasis conducts an extensive trade with Kalmuck, Torgut, and Ölöt tribes, occupying the higher mountain valleys of the Tien Shan and the steppe country round Karashahr. Kuchar is connected with Khotan by a desert route following the bed of Keriya River, and receives by that route its share of Khotan trade.
 
 The antiquities of Kuchar have been repeatedly studied by European and Japanese expeditions: first the Russian expeditions under Dr. Klementz and Berezovski on behalf of the Russian Academy of Sciences, then the Japanese expedition of Count Otani; the several German expeditions under the leadership of Professor Griinwedel and Dr. Le Coq; the two expeditions of Sir Aurel Stein and the French expedition of Professor Pelliot. The principal ancient sites of the oasis are situated in three important groups: Kizil, Kumtura, and Kirish. For a detailed study of the ancient wall paintings in the cave shrines, the student may consult the monumental editions of Dr. Le Coq. According to him, the wall paintings in the ruined cave temples of the Kuchar Oasis and those of Turfan (Khojo, Tuyok, Sangim, Bazaklik, Chikkan kol) exhibit several distinct styles of art:
 
@@ -1788,7 +1788,7 @@ Outside the city gates, we were met by the local representative of Brenner Bros.
 
 Karashahr and its bazaar are somewhat different from the rest of the oasis bazaars of Chinese Turkestan. This apparent difference is probably due to the presence in large numbers of Torgut tribesmen, who come to the city from the higher valleys of the T’ien Shan and the neighborhood of Baghrash kol.
 
-Two important Kalmuck tribes populate the Karashahr region; the Torguts and the Khoshuts. The Torguts own much of the land along the foot of the mountains and the summer pasture lands or *yulduz*, situated in the heart of the T’ien Shan. In winter the nomads come down from the higher mountain valleys and settle in the steppe along the foot of the mountains. They are ruled by a hereditary *khan* who has his headquarters in Khoton-sumbul. For the past few years, the tribe has been governed by Toin Lama, an uncle of the young *khan*. The Khoshut tribes populate the region around the Baghrash Lake, southeast of Karashahr, and the mountain tracts in the neighborhood of Ushaktal, a village situated on the Karashahr-Turfan route. The Khoshut tribes are governed by several hereditary princes. Both the tribes breed large herds of horses, camels, and cattle. The horses are prized throughout central Asia and China. The Karashahr horse is a strong animal, about twelve to thirteen hands in height, with well-developed chest, powerful neck, large head (somewhat hook-nosed), and well-built legs. The animal is invaluable and usually has a very fast gait. Most of the Chinese cavalry units in Hsin-chiang are mounted on Karashahr horses, and in earlier times these horses were regularly sent to the imperial court at Peking as tribute from the Kalmuck tribes. Some of the horses are the living descendants of those depicted by T’ang sculptors, creators of the famous clay statuettes of horsemen now adorning the glass cases of our museums.
+Two important Kalmuck tribes populate the Karashahr region; the Torguts and the Khoshuts. The Torguts own much of the land along the foot of the mountains and the summer pasture lands or *yulduz*, situated in the heart of the T’ien Shan. In winter the nomads come down from the higher mountain valleys and settle in the steppe along the foot of the mountains. They are ruled by a hereditary *khan* who has his headquarters in Khoton-sumbul. For the past few years, the tribe has been governed by Toïn Lama, an uncle of the young *khan*. The Khoshut tribes populate the region around the Baghrash Lake, southeast of Karashahr, and the mountain tracts in the neighborhood of Ushaktal, a village situated on the Karashahr-Turfan route. The Khoshut tribes are governed by several hereditary princes. Both the tribes breed large herds of horses, camels, and cattle. The horses are prized throughout central Asia and China. The Karashahr horse is a strong animal, about twelve to thirteen hands in height, with well-developed chest, powerful neck, large head (somewhat hook-nosed), and well-built legs. The animal is invaluable and usually has a very fast gait. Most of the Chinese cavalry units in Hsin-chiang are mounted on Karashahr horses, and in earlier times these horses were regularly sent to the imperial court at Peking as tribute from the Kalmuck tribes. Some of the horses are the living descendants of those depicted by T’ang sculptors, creators of the famous clay statuettes of horsemen now adorning the glass cases of our museums.
 
 It was our intention to visit the Kalmuck encampments and the large monastery of Balgantai-shara-sümä, situated in the mountains north of Khoton-sumbul. From there we intended to cross the Sumunta-daban to Urumchi. The days were becoming hot and we feared the exces-
 
@@ -1814,7 +1814,7 @@ Toïn Lama is an interesting personality in central Asian politics and a few yea
 
 In 1920-22 he began to organize his own troops and invited a Russian instructor, a former officer of the Russian army, who trained a force of four squadrons of Torgut cavalry for him. The Chinese viewed his activities with great apprehension.
 
-In 1924, at the time of the military expedition to Kashgar, Toin Lama was requested by the Urumchi Provincial Government to send his cavalry against Ma Ti-t’ai and to contribute a camel transport for Chinese troops. Toin Lama flatly refused to send his riders, and since that time the Chinese have slowly tightened their grip over him and his tribe. Early in 1925, he was ordered to send his cavalry to Urumchi to resist the expected advance of Marshal Feng Yu-hsiang’s army. The Torguts were always a military reserve for Hsin-chiang, and the au-
+In 1924, at the time of the military expedition to Kashgar, Toïn Lama was requested by the Urumchi Provincial Government to send his cavalry against Ma Ti-t’ai and to contribute a camel transport for Chinese troops. Toïn Lama flatly refused to send his riders, and since that time the Chinese have slowly tightened their grip over him and his tribe. Early in 1925, he was ordered to send his cavalry to Urumchi to resist the expected advance of Marshal Feng Yu-hsiang’s army. The Torguts were always a military reserve for Hsin-chiang, and the au-
 
 **106 TRAILS TO INMOST ASIA**
 
@@ -1822,11 +1822,11 @@ thorities were not slow to take advantage of this time-honored usage. The Russia
 
 The Regent submitted to the Chinese demands and dispatched three of his squadrons to the provincial capital. Two of the squadrons were kept at Urumchi as a special bodyguard of the Governor-General, who usually relied on non-Chinese units. One of the squadrons was sent to distant Charklik on the southern route to Tun-huang, to watch the secret Torgut route to Lhasa in Tibet. For some time past the pilgrim traffic along this route had been completely stopped by orders of the Governor-General, and Karashahr pilgrims were refused permission to leave their native encampments.
 
-At the time of our stay in Khoton-sumbul, Toin Lama was expecting a new move by the Chinese authorities. He had received an invitation to visit Urumchi and settle for some time in a palace presented to him by the Governor-General.
+At the time of our stay in Khoton-sumbul, Toïn Lama was expecting a new move by the Chinese authorities. He had received an invitation to visit Urumchi and settle for some time in a palace presented to him by the Governor-General.
 
-Later on we heard in Urumchi that the Chinese authorities decided to hand over the state seal or *tamgha* to the young *khan*, a boy of thirteen; in this case Toin Lama would have to resign his post and retire to a monastery.
+Later on we heard in Urumchi that the Chinese authorities decided to hand over the state seal or *tamgha* to the young *khan*, a boy of thirteen; in this case Toïn Lama would have to resign his post and retire to a monastery.
 
-Toin Lama is considered by his followers to be an incarnation of the well-known Lama Sengchen Dorjechang, one of the most learned priests in Shigatse. The tragic end of the venerable Lama Sengchen Dorjechang was related in detail by the Japanese traveler, Ekai Kawaguchi .3 The lama was arrested and persecuted by the Lhasan Government on the charge of assisting the explorations of the well-known Indian explorer and Tibetologist, Babu Sarat Chandra Das. He was drowned in June, 1887, in the river Kong-po, after a long period of imprisonment. It is said that the saintly lama, once the preceptor of the Tashi Lama, had foretold his own sad fate in paintings executed by his orders on the walls of his private rooms.
+Toïn Lama is considered by his followers to be an incarnation of the well-known Lama Sengchen Dorjechang, one of the most learned priests in Shigatse. The tragic end of the venerable Lama Sengchen Dorjechang was related in detail by the Japanese traveler, Ekai Kawaguchi .3 The lama was arrested and persecuted by the Lhasan Government on the charge of assisting the explorations of the well-known Indian explorer and Tibetologist, Babu Sarat Chandra Das. He was drowned in June, 1887, in the river Kong-po, after a long period of imprisonment. It is said that the saintly lama, once the preceptor of the Tashi Lama, had foretold his own sad fate in paintings executed by his orders on the walls of his private rooms.
 
 The Tibetan Government ordered the non-transmigration of the lama’s soul --- the highest punishment in Tibet. Notwithstanding this strict order, an incarnation of the lama appeared in far distant Turkestan in the princely family of Karashahr Torguts. The deceased lama had prophesied before his execution that he would be reborn in a country of felt tents and huge herds of cattle. The boy born in the princely
 
@@ -2078,7 +2078,7 @@ In the evening and in full darkness, we reached the river Iro, one of the tribut
 
 tains. In a nearby lamasery the lamas sounded the conchshell for the evening prayer.
 
-Here on the banks of the Iro, a boy was recently born who manifested strange faculties. Mysterious signs accompanied his birth. His mother, a shaman woman, heard mysterious voices, and the boy himself uttered amazing prophecies about the future glory of Buddhist Mongolia. The news of the appearance of the strange child spread like lightning all over Mongolia. The lamas everywhere whispered about the coming of a new incarnation of Je-tsiin tam-pa Hutukhtu. The Government of the Republic was obliged to send out a commission of inquiry and to post proclamations in Urga to calm the population. It is sometimes difficult to discount rumors by printed words and the news about the new Bogdo Gegen continues to agitate the minds of the deeply religious Mongols. This boy is not the only candidate to the vacant throne of the Mongolian Pontiff. There is another --- a boy known to have appeared in inner Mongolia, who is now studying in some of the lamaseries within the Chinese border.
+Here on the banks of the Iro, a boy was recently born who manifested strange faculties. Mysterious signs accompanied his birth. His mother, a shaman woman, heard mysterious voices, and the boy himself uttered amazing prophecies about the future glory of Buddhist Mongolia. The news of the appearance of the strange child spread like lightning all over Mongolia. The lamas everywhere whispered about the coming of a new incarnation of Je-tsün tam-pa Hutukhtu. The Government of the Republic was obliged to send out a commission of inquiry and to post proclamations in Urga to calm the population. It is sometimes difficult to discount rumors by printed words and the news about the new Bogdo Gegen continues to agitate the minds of the deeply religious Mongols. This boy is not the only candidate to the vacant throne of the Mongolian Pontiff. There is another --- a boy known to have appeared in inner Mongolia, who is now studying in some of the lamaseries within the Chinese border.
 
 We started before dawn and drove toward a low pass leading across the forest-clad ridge, south of the river. The newly constructed road was muddy and sandy. Our cars sank deep into the mud and had to be rescued by horsemen.
 
@@ -2118,15 +2118,15 @@ A YOUNG MONGOL EXHIBITING HIS INVENTION: AN AUTOMOBILE
 
 **135 MONGOLIA**
 
-the mountain, stands the important monastery of Mahjushri-khit, famous throughout Mongolia for the austere life of its monks and the learning of its abbot who exercises considerable influence on the political affairs of the country.
+the mountain, stands the important monastery of Mañjushri-khit, famous throughout Mongolia for the austere life of its monks and the learning of its abbot who exercises considerable influence on the political affairs of the country.
 
 The city of Urga is spread over a large area, and consists of a permanent settlement surrounded by a large nomadic colony of felt tents, in which most of the Urga citizens live during the cold winter months.
 
 The city is known to Europeans under the name of Urga, which corresponds to the Mongolian word orgo meaning "princely camp, palace." This word is never used by Mongols, although this was probably the case in ancient times, when the valley of the Tola was used as a residence by important church dignitaries. The Mongols invariably call it Ikhe-küren or Ikhe-kiira, thjp "Great Monastery." In everyday language it is called simply Küren, or by its Sino-Mongolian designation Daküra (Ta-kiira, Chinese transcription Ta k’u-lun). Under this last name it is generally known to the Tibetans (Ta-khu-re). In November, 1924, the Ikhe-Khuruldan, or the Great National Assembly of Mongolia, changed the name of the city to Ulan Bator Khoto, or the "City of the Red Warrior." But the time-honored name is still universally used.
 
-The earliest notice about Urga is found in the Mongol chronicle Erdeni-yin erikhe, about the year 1649 aj>. It is said in this passage, that Undiir-Gegen, the first historical Je-tsiin tam-pa Hutukhtu of Khalkha, or the sixteenth incarnation according to the Lamaist tradition, established on his return from Tibet seven monastic colleges or da-tshang (Mongol; aimak^ in the Nom-un Ikhe-küren. The Ikhe-küren in the valley of the Tola River was probably only a temporary residence of the Incarnate Lama of Khalkha, for Undiir-Gegen himself spent the rest of his life in Jehol, Dolon-nor, and Peking (he died in Peking in 1723). We know that many of his successors on the pontifical throne used to reside in different parts of outer Mongolia. The monastery Ikhe-küren itself was not a permanent settlement. Since 1719 A.D. it had constantly changed its site.
+The earliest notice about Urga is found in the Mongol chronicle Erdeni-yin erikhe, about the year 1649 aj>. It is said in this passage, that Undiir-Gegen, the first historical Je-tsün tam-pa Hutukhtu of Khalkha, or the sixteenth incarnation according to the Lamaist tradition, established on his return from Tibet seven monastic colleges or da-tshang (Mongol; aimak^ in the Nom-un Ikhe-küren. The Ikhe-küren in the valley of the Tola River was probably only a temporary residence of the Incarnate Lama of Khalkha, for Undiir-Gegen himself spent the rest of his life in Jehol, Dolon-nor, and Peking (he died in Peking in 1723). We know that many of his successors on the pontifical throne used to reside in different parts of outer Mongolia. The monastery Ikhe-küren itself was not a permanent settlement. Since 1719 A.D. it had constantly changed its site.
 
-In 1741 A.D. Ikhe-küren, or Urga, became the permanent residence of the Je-tsiin tam-pa Hutukhtu. The growth of the monastery begins from that date. In 1756 was established the first Theological School for the study of the tshan-nyid (mtshan-nid') or the higher metaphysics of Buddhism. The school was given the right to confer learned distinctions and lamas began to flock to the monastery. The Chinese were not
+In 1741 A.D. Ikhe-küren, or Urga, became the permanent residence of the Je-tsün tam-pa Hutukhtu. The growth of the monastery begins from that date. In 1756 was established the first Theological School for the study of the tshan-nyid (mtshan-nid') or the higher metaphysics of Buddhism. The school was given the right to confer learned distinctions and lamas began to flock to the monastery. The Chinese were not
 
 **136 TRAILS TO INMOST ASIA**
 
@@ -2134,7 +2134,7 @@ slow to recognize the growing importance of the monastery. The creation of a per
 
 In the vicinity of the monastery town, a considerable colony of Russian and Chinese merchants was established. The lamas contended that Chinese shopkeepers built their shops too close to the monastery. On several occasions they presented petitions to Peking, but the Chinese authorities were not always ready to limit the number of Chinese shops in the vicinity of the monastery and thus deliver a heavy blow to Chinese trade in Urga. As is done usually, they allowed the matter to drag. The dissatisfied lamas moved the monastery nearer the Tola River, but each time returned to their former grounds. After much delay, the Chinese authorities notified the Chinese merchants that no shops were allowed to hinder the path reserved for the annual Maidari procession. In view of the pressing request of the lamas to move the shops a little farther, a big trading settlement known under the name of Mai-mach’eng was founded some six miles east of the *küren*. These restrictions upon the traders imposed by the lamas gradually disappeared and at present the *küren* is surrounded by numerous shops and big trading establishments.
 
-In the course of years Urga became the religious and administrative center of Mongolia, the seat of the Je-tsiin tam-pa Hutukhtu, and the residence of the Chinese Imperial Commissioner.
+In the course of years Urga became the religious and administrative center of Mongolia, the seat of the Je-tsün tam-pa Hutukhtu, and the residence of the Chinese Imperial Commissioner.
 
 In 1786 A.D. an imperial decree conferred upon the Imperial Commissioner in Urga the right of final decision in the administration of the Tushetu-khan and Setsen Khan *aimaks*, the central and eastern provinces of outer Mongolia.
 
@@ -2164,7 +2164,7 @@ PACKS OF DOGS IN TFIE STREETS OF URGA
 
 Quite recently attempts were made to adapt the form of a Mongol felt tent to buildings and thus create a national Mongol style. On the vast town site of Ulan Bator, across which Mongol horsemen race on their swift steeds, stands a strange building; upon a polygonal foundation rises a huge dome supported by low walls. The whole structure reminds one of a gigantic Mongol felt tent. The outside of the building is decorated with figures of the eight happy signs. It is the national theater of Mongolia and the People’s Club. The architect intended to express the idea of a nomad tent in a monumental creation. So far as I know, this is the first attempt of the kind. During our stay in Urga, the building was still under construction and I did not see the interior arrangements. I do not think that the yurta motive is suited for buildings. The domed structure is too western in character, and at best looks like a Mohammedan mosque without its wonderfully designed lines. The Tibetan architecture is much more monumental and is better adapted to modern requirements. It permits the construction of high buildings without infringing upon the character of the style. Some attempts along this line have already been made in Urga, and it is to be hoped that the Mongol Government will follow this example in erecting new buildings for its secretariats.
 
-Unfortunately most of the modern buildings in Urga are of an indifferent European style or like miserable Chinese hovels, which do not at all suit the character of the city. The summer palaces of the late Jetsiin tam-pa Hutukhtu, now transformed into a national museum and school, situated some two miles from Urga on the banks of the Tola, are of a mixed style and have no particular interest. The brick walls in Chinese style, in front of the main entrance gates, are riddled with bullets that badly damaged some of the bas-relief --- traces of the severe fighting that took place here in January, 1921.
+Unfortunately most of the modern buildings in Urga are of an indifferent European style or like miserable Chinese hovels, which do not at all suit the character of the city. The summer palaces of the late Jetsün tam-pa Hutukhtu, now transformed into a national museum and school, situated some two miles from Urga on the banks of the Tola, are of a mixed style and have no particular interest. The brick walls in Chinese style, in front of the main entrance gates, are riddled with bullets that badly damaged some of the bas-relief --- traces of the severe fighting that took place here in January, 1921.
 
 The rich private collections of the deceased Hutukhtu consisted of a remarkable assortment of things --- valuable sacred images from Tibet and Peking; a considerable library of religious and secular books in Mongol, Tibetan, Chinese, and Manchu; all sorts of European technical devices and curios, cinemas, photographic cameras and field glasses, telescopes; valuable Chinese porcelain and bronzes; a great number of modern European firearms; stores of cigarettes of an unusual length; stuffed animals; and last but not least a small menagerie of wild animals. All these have now been confiscated by the different government departments or sold on the Urga market.
 
@@ -2250,7 +2250,7 @@ Besides these image makers, there are in Urga a number of shops usually called b
 
 **147 MONGOLIA**
 
-objects manufactured at Dolon-nor or at the famous monastery of Wu-t’ai Shan. Here one can find gilded bronze images of Sakyamuni, the Buddha, the principal yi-dams or titulary deities of the Yellow sect, the Bodhisattvas Avalokitesvara, Manjushri, and Maitreya, the Tara, and sometimes Tsong-kha-pa, the founder of the Yellow Faith. Most of the figures are of a very crude workmanship and present no interest whatsoever. The images produced by the art workshop of the Wu-t’ai Shan Monastery are a little better than those of Dolon-nor.
+objects manufactured at Dolon-nor or at the famous monastery of Wu-t’ai Shan. Here one can find gilded bronze images of Sakyamuni, the Buddha, the principal yi-dams or titulary deities of the Yellow sect, the Bodhisattvas Avalokitesvara, Mañjushri, and Maitreya, the Tara, and sometimes Tsong-kha-pa, the founder of the Yellow Faith. Most of the figures are of a very crude workmanship and present no interest whatsoever. The images produced by the art workshop of the Wu-t’ai Shan Monastery are a little better than those of Dolon-nor.
 
 Painted images are only rarely found in these shops, for most of them are executed on special orders by Mongol lama painters or *dzurachin*. The work of these lama artists is far inferior to that of the Kham or Derge artists. The wealthy families of Urga possess some fine examples of Derge or Kham art. The colors on painted banners executed by Mongol artists are crude and the design is generally very poor.
 
@@ -2358,13 +2358,13 @@ The Jude-yin-sümä, the temple consecrated to Tantric worship (Tib. *rgyud*), i
 
 The Emchi-yin-slima or the Temple of Doctors is reserved for lamas studying medicine, and regular courses in medical science are delivered there. Many of the professors are graduates of the famous school of medicine in the Chak-po ri in Lhasa. An affiliated religious institution is the great Manla-yin-sümä, or the temple in honor of the Healing Buddha. (Tib. sMan-bla). This form of Buddha is extremely popular among the Buddhists in Mongolia and Tibet. Images of the Buddha, both bronzes and painted scrolls, are very numerous in monasteries and private chapels.
 
-The Tsurkha-yin-sümä, or the Temple of Astrology, is an important learned institution in the Mongol capital. It was built in 1798 A.D. during the lifetime of the Fourth Incarnation of Je-tsiin tam-pa Hutukhtu. It is held in great sanctity and visitors are not generally allowed to enter it, a special permission being required in order to see the building and the images inside it.
+The Tsurkha-yin-sümä, or the Temple of Astrology, is an important learned institution in the Mongol capital. It was built in 1798 A.D. during the lifetime of the Fourth Incarnation of Je-tsün tam-pa Hutukhtu. It is held in great sanctity and visitors are not generally allowed to enter it, a special permission being required in order to see the building and the images inside it.
 
 A special staff of lamas officiates in the temple and a special preparation is required of those who intend to enter the temple. Each aspirant has to pass several examinations in Lamaist astronomy and allied subjects in order to qualify as a student or member of the Temple of
 
 156 TRAILS TO INMOST ASIA
 
-Astrology. In the temple are found paintings or painted scrolls representing the *mandala* or the mystic sphere of influence of the *Kalacakra* system or the Wheel of Time. A thorough knowledge of *kar-tsi* or astronomy is essential for a correct understanding of the doctrine. This mystic doctrine was introduced into Tibet by the great Dipankara Shrijnana or Atisha, a famous professor from the Indian convent of Vikramashila, in the eleventh century aj>. The doctrine which probably appeared in India about the end of the tenth century A.D. originated in the Realm of Shambhala, a region situated north of Tibet proper.
+Astrology. In the temple are found paintings or painted scrolls representing the *mandala* or the mystic sphere of influence of the *Kalacakra* system or the Wheel of Time. A thorough knowledge of *kar-tsi* or astronomy is essential for a correct understanding of the doctrine. This mystic doctrine was introduced into Tibet by the great Dipankara Shrijñana or Atisha, a famous professor from the Indian convent of Vikramashila, in the eleventh century aj>. The doctrine which probably appeared in India about the end of the tenth century A.D. originated in the Realm of Shambhala, a region situated north of Tibet proper.
 
 The center of the Kalacakra doctrine was the Tashi-lhun-po Monastery. One of the monastic colleges of Tashi-lhun-po was consecrated to the study of Kalacakra and is known under the name of Diin-khor-gyi da-tshang (Tib. Dus-’khor-gyi gra-tshang) or College of Kalacakra. This college was for a long time the chief seat of learning, where specially approved pupils could consecrate their time to the study of the abstruse treatises on the doctrine. Books on the Kalacakra doctrine are given only to trustworthy pupils, and an outsider can obtain books on it only after having obtained a special permission to do so from the Dalai Lama or the clerical authorities of Tibet. Such books are seldom printed and the block prints are preserved at big monastic presses. When a person has received the necessary permission, the book is printed on paper furnished by the applicant, no fee being taken for printing.
 
@@ -2392,9 +2392,9 @@ There exist several iconographical representations of Shambhala and the Kalacakr
 
 **158 TRAILS TO INMOST ASIA**
 
-of a lotus flower which supports the book and sword --- symbols of Manjushri, the Prince of Knowledge. In some ancient paintings, the King is seen attired in a breastplate armor, and wears the pointed helmet. In more modern images, he is seen attired in flowing robes ornamented with rich golden design. At the foot of his throne sit his parents designated under the name of Rig-den Jye-po ’i yab-yum, or, sometimes, instead of them Rig-den pema karpo, the first expounder of Kalacakra doctrine in India, and the Bodhisattva Padmapani.
+of a lotus flower which supports the book and sword --- symbols of Mañjushri, the Prince of Knowledge. In some ancient paintings, the King is seen attired in a breastplate armor, and wears the pointed helmet. In more modern images, he is seen attired in flowing robes ornamented with rich golden design. At the foot of his throne sit his parents designated under the name of Rig-den Jye-po ’i yab-yum, or, sometimes, instead of them Rig-den pema karpo, the first expounder of Kalacakra doctrine in India, and the Bodhisattva Padmapani.
 
-In the lower corner we sometimes see represented Atisha Shrijnana, the introducer of Kalacakra into Tibet.
+In the lower corner we sometimes see represented Atisha Shrijñana, the introducer of Kalacakra into Tibet.
 
 On some paintings beneath the throne of the King of Shambhala is depicted the coming war of Shambhala against the Lalo’i jye-po, the King of the Evil Ones. In it we see the King of Shambhala mounted on a raven black charger defeating the King of the La-los. The details are interesting for they show us all the accouterment of ancient Tibetan warriors --- breastplate armor, helmets with small flags, heavy swords, matchlocks, bow and arrows, and even bamboo guns placed on strange carriages.
 
@@ -2448,7 +2448,7 @@ A richly carved entrance of painted wooden columns leads to the temple. Two rows
 
 Outside the temple of Avalokitesvara are situated the sepulchers of the Bogdo Gegens of Urga. The fifth, the seventh, and the last Bogdo Gegen are entombed here. The Sixth Incarnation has been buried in the monastery of Dam-ba Dorje (Tibetan: Dam-pa Do-rje). To the east of the temple of Avalokitesvara is situated the assembly hall or tsho\chin --- a square wooden building, somewhat like a huge square tent. Services are held daily and when one passes near the hall one usually hears the chants of the monks rising in the frosty air.
 
-The present monastery of Ganden was founded in 1809 in the lifetime of the Fourth Incarnation of Je-tsiin tam-pa Taranatha. Its chief importance lies in the fact, that in it are situated the colleges for the study of tshan-nyid or abhidharma, Buddhist metaphysics, and that here live the most learned monks of Urga.
+The present monastery of Ganden was founded in 1809 in the lifetime of the Fourth Incarnation of Je-tsün tam-pa Taranatha. Its chief importance lies in the fact, that in it are situated the colleges for the study of tshan-nyid or abhidharma, Buddhist metaphysics, and that here live the most learned monks of Urga.
 
 During my stay in Urga, I often went to visit the monastery and discuss with lamas the intricate problems of the Buddhist viewpoint on the outside world, --- a kind of projection of one’s inner self. Such learned lamas, holders of the high scholarly degrees in divinity of rap-cham-pa (Tibetan: rab-byams-pd) and lha-ram-pa, usually live with their disciples, who attend to their bodily needs, in Mongol felt tents pitched inside the courtyards of the monastery. The felt tent of a lama is usually much cleaner and sometimes even better furnished than that of a layman of equal means. One day we paid a visit to a learned lha-ram-pa or doctor of divinity, well known in Urga for his great knowledge and general acumen. We were anxious to see him. for
 
@@ -2476,7 +2476,7 @@ Another picturesque building of Urga is the Chö-jin Lama-yin-sümä, situated i
 
 Such are the principal monasteries and temples of Ulan Bator or Urga. Besides them there exist in the city several resthouses or branch monasteries, belonging to big provincial monastic establishments, and small chapels mostly situated in felt tents, two or three lamas usually officiate in such chapels and look after the property. The Tibetan colony has also a kind of assembly hall of its own for Tibetan monks. This establishment is also in felt tents; and on the eighth, fifteenth, and thirtieth of each month services are held, in which all the clerical members of the colony take part. Several great Tibetan lamas live constantly in Urga. Some of them belonged to the staff of the late Bogdo Gegen and others fled from Tibet as a result of the recent persecutions of the followers of the Tashi Lama.
 
-The most famous monastery in the immediate neighborhood of the Mongol capital is the Manjushri Khit or the monastic retreat of Manjushri. It is situated on the southern slopes of the sacred Bogdo ula and overlooks the Gobi expanse, that stretches to the south of the massive mountain. This monastery is built entirely in Tibetan style and is reputed for the strict discipline of its monks. The Manjushri Khit-in shiretu or Abbot of the Manjushri Khit is reputed for his learning and wields a considerable amount of influence both in secular and clerical circles of Urga.
+The most famous monastery in the immediate neighborhood of the Mongol capital is the Mañjushri Khit or the monastic retreat of Mañjushri. It is situated on the southern slopes of the sacred Bogdo ula and overlooks the Gobi expanse, that stretches to the south of the massive mountain. This monastery is built entirely in Tibetan style and is reputed for the strict discipline of its monks. The Mañjushri Khit-in shiretu or Abbot of the Mañjushri Khit is reputed for his learning and wields a considerable amount of influence both in secular and clerical circles of Urga.
 
 One of the most important events in the religious life of the capital is the Maidari procession, which takes place in the third or fourth month of the Mongol year. It is a very imposing parade, which encircles the city; and huge crowds watch the passing of the image of the coming Buddha. Its approach is heralded by the concentrated look of the crowd and the dim and ever rising sound of trumpets and cymbals and many voices chanting prayers. The air is dusty, and in the yellowish cloud move huge palanquins and state umbrellas carried over the holy images, some of which arc borne by monks, others by richly caparisoned
 
@@ -3988,7 +3988,7 @@ The cold increased and the thermometer registered --- 40°C. before sunrise. The
 
 and the soldier was ordered out of camp. The wounded Hor-pa had to be carried to his tent and treated by our doctor. When the doctor and I entered the tent to apply a bandage to the man’s head, the headman in charge of the post exclaimed, "Such is the treatment accorded by the De-wa-shung to their subjects! Sin be on them!"
 
-The soldiers were perpetually drunk and spent the entire day gambling. The uplifting examples of Je-tsiin Mila and the fiery striving of the great religious reformers of the eighth to fourteenth centuries were irrevocably forgotten by indolent posterity. Nowadays the most learned lamas of the Tibetan lamaseries all come from Mongolia, Derge, and Kham. The people of Lhasa admit their indolence and this fact has already been noticed by Sir Charles Bell in his recent book.* Conversing one day with a learned Tibetan gelong, he said to me: "You wish to find learned monks and true religion. Why go to Lhasa? Lhasa is a mere trading center, where religion became a lucrative trade. Go to the mountains, and in the wilderness you will find lamas learned in the precepts of the Blessed One."
+The soldiers were perpetually drunk and spent the entire day gambling. The uplifting examples of Je-tsün Mila and the fiery striving of the great religious reformers of the eighth to fourteenth centuries were irrevocably forgotten by indolent posterity. Nowadays the most learned lamas of the Tibetan lamaseries all come from Mongolia, Derge, and Kham. The people of Lhasa admit their indolence and this fact has already been noticed by Sir Charles Bell in his recent book.* Conversing one day with a learned Tibetan gelong, he said to me: "You wish to find learned monks and true religion. Why go to Lhasa? Lhasa is a mere trading center, where religion became a lucrative trade. Go to the mountains, and in the wilderness you will find lamas learned in the precepts of the Blessed One."
 
 November 9, 1927. Again a cold day, full of eternal expectation of an answer from Lhasa. Tibet is going through the same evolution that brought the end of old China. The antiquated Manchu order became an unnecessary survival. Most of the young generation who have visited India with her modern trends, are already fired with a desire to build their lives on a new basis and bring about great changes in the antiquated order of things.
 
@@ -4234,9 +4234,9 @@ In the modern colloquial language, the word "Hor" represents a Tibetan ethnic na
 
 even now look more toward Peking and the great lands of central Asia, than toward Lhasa. For them Lhasa is only a temporary ruler, who severed their century-old connection with China.
 
-I shall base my account of the Hor-pas on my personal observations made during a five months’ stay among the five Hor tribes, which dwell north and south of the Thang La Range. They form five *shorka* or tribal divisions, which are designated by the names of Tse-mar, Atak-Memar, Atak-Thomi, Komora, and Paoro.
+I shall base my account of the Hor-pas on my personal observations made during a five months’ stay among the five Hor tribes, which dwell north and south of the Thang La Range. They form five *shorka* or tribal divisions, which are designated by the names of Tse-mar, Atak-Memar, Atak-Thomi, Kömora, and Paoro.
 
-By far the most important of the five is the Tse-mar *shorka* ruled by a pon-po or chief with the title of de-pon (sde-dpon) or district chief, who is considered to be the eldest among the five Hor chiefs. All of these five tribal divisions are of unequal size. Whereas the Tse-mar *shorka* has about a thousand tents with a population of some forty-five hundred to five thousand individuals, the Komora and Paoro tribal divisions have only about four hundred tents each. More populous tribes inhabit the upper course of the Mekong and the lower valleys of the Salween, but as I have already told, the vast mountainous region between the upper course of the Mekong and the Salween is still unexplored and it is impossible to give approximate figures of its population.
+By far the most important of the five is the Tse-mar *shorka* ruled by a pon-po or chief with the title of de-pon (sde-dpon) or district chief, who is considered to be the eldest among the five Hor chiefs. All of these five tribal divisions are of unequal size. Whereas the Tse-mar *shorka* has about a thousand tents with a population of some forty-five hundred to five thousand individuals, the Kömora and Paoro tribal divisions have only about four hundred tents each. More populous tribes inhabit the upper course of the Mekong and the lower valleys of the Salween, but as I have already told, the vast mountainous region between the upper course of the Mekong and the Salween is still unexplored and it is impossible to give approximate figures of its population.
 
 The Hor tribes have so far preserved their tribal organization and enjoy a certain amount of autonomy, which is, however, rapidly passing away. There can be no doubt that the Lhasa Government intends to create a firm administration in the outlying provinces. The High Commissioner is always an official of the fourth grade and is the chief representative of the central government in the region. He tries cases of inter-tribal feuds, supervises the collection of taxes, and insures the safety of trade routes crossing the territory of the region. During the cold winter months he usually resides somewhere in the eastern districts of the region, sometimes at Byi-ru gompa or some other monastery or town. The heavy expenditures incurred by the local population which is obliged to supply foodstuffs, fodder, and fuel for the High Commissioner, his troops and retainers, necessitate frequent changes in official residences. During the summer months the High Commissioner is often found touring in the district. This touring is a source of much trouble to the local population. The tribes have to furnish pack animals, riding horses for the numerous retainers of the Commissioner, organize relay stages at convenient points along the Commissioner’s route and depute hundreds of men and women to attend to the needs of the party. Small officials use these occasions to enrich themselves by taking
 
@@ -4454,7 +4454,7 @@ have a close affinity to the old deities of earth. The primitive Bön doctrine i
 
 The reformed Bön is highly complex. It not only possesses all the deities of the Vajrayana --- or the Tantric form of Buddhism elaborated by Padmasambhava --- but has its own arrangement of the deities.
 
-From my conversations with the Bön-po lamas it appears that the Bön form of Samantabhadra or Bön-sku Kun-tu bzang-po is regarded to be the supreme deity of the Bön-po. He occupies in the sect a position analogical to that of Samantabhadra in the Tantric sects of unreformed Buddhism and the Adi-Buddha in the Kalacakra doctrine of the ninth to eleventh centuries A.D. We have reason to suppose that the Kun-tu bzang-po or "All good" of the reformed Bön represents the ancient Father Heaven of the primitive. Bön. In Bön the Kun-tu bzang-po is associated with Ma-btsiin-pa --- Mother Nature or Mother Earth, a deity, who still preserves much of her primitive character of all-potent Mother Earth. Her images are often found in charm boxes or ga-u worn by Bön-pos.
+From my conversations with the Bön-po lamas it appears that the Bön form of Samantabhadra or Bön-sku Kun-tu bzang-po is regarded to be the supreme deity of the Bön-po. He occupies in the sect a position analogical to that of Samantabhadra in the Tantric sects of unreformed Buddhism and the Adi-Buddha in the Kalacakra doctrine of the ninth to eleventh centuries A.D. We have reason to suppose that the Kun-tu bzang-po or "All good" of the reformed Bön represents the ancient Father Heaven of the primitive. Bön. In Bön the Kun-tu bzang-po is associated with Ma-btsün-pa --- Mother Nature or Mother Earth, a deity, who still preserves much of her primitive character of all-potent Mother Earth. Her images are often found in charm boxes or ga-u worn by Bön-pos.
 
 Besides these supreme deities we hear of a host of other divine beings, most of which are personified nature forces and malignant ghosts. An old deity is Garuda or Cha-khyung (Bya-khyung) which figures on many Bön images and paintings, and probably belongs to the ancient Indo-Tibetan stock of Bön. It would be highly interesting to study the origins of the cult of Garuda in connection with the numerous representations of the eagle and the griffin in the nomad art of central Asia and southern Russia. On Bön frescoes we meet an endless host of *dkar-phyogs lha*, "Gods of the White Quarter" (or "benevolent gods") and *nag-phyogs lha* or "Gods of the Dark Quarter" (malignant deities).
 
@@ -4564,7 +4564,7 @@ The Bön scriptures are imperfectly known and very few Bön images have been stu
 
 The chief place on these wall paintings is occupied by the Bön-po Redeemer, Shen-rap mi-wo. He is usually represented in the aspect of a fully enlightened Buddha, attired in purple monastic robes, austere and somber and devoid of ornaments. His left hand reposes in the sign (*mudra*) of meditation (*dhyani-mudra*) and supports the monastic bowl or patra. His right hand is lowered making the sign of attestation (*bhumisparsha mudra*) and is holding the Bön scepter. The scepter is similar to the Buddhist vajra or dorje, but instead of having a crown on each end, it has a cube with images of the Svastika on the five sides of the cube. The color of the body is yellow ochre and the robe is red and purple, sometimes ornamented with gold or yellow color designs. The similarity to the images of Sakyamuni is evident, the only difference being the Bön-po scepter. To the left of the Founder is usually represented the future teacher of the Bön-pos. He is depicted in the attire of a Buddhist bodhisattva with golden diadem on his head and gold ornaments inlaid with precious stones on his shoulders, arms, and legs. Both the hands repose in the posture of meditation and support the amrita vase or tse-bum filled with amrita or bdiid-rtsi, with the letter "A" on it, which is the Bön-po counterpart of om. The color of the face and body is yellow ochre, sometimes golden. It is the color of the Bodhisattva Maitreya. To the right is often seen the Bön form of the Buddha of Medicine, called by the Bön-pos, Sangs-rgyas sMan-bla. The color of the body, instead of being dark ultramarine blue, as in the Buddhist images, is light yellow. The Bön-po "god of medicine" does not have the aspect of a Buddha, but is attired as a bodhisattva. His hands repo.se in the sign of meditation and support the monastic bowl, with the *udumbara* flower emerging from it.
 
-Another common image on the wall paintings is the Bön counterpart of the white Tara, the goddess Ma-btsiin-pa, Mother Nature. Her raised
+Another common image on the wall paintings is the Bön counterpart of the white Tara, the goddess Ma-btsün-pa, Mother Nature. Her raised
 
 **364 TRAILS TO INMOST ASIA**
 
@@ -4854,7 +4854,7 @@ On the fourth day of our arrival at Nag-chu, I paid a visit to the Civil
 
 **388 TRAILS TO INMOST ASIA**
 
-Governor or nang-so. The old squire lived in an ordinary Tibetan house with two courtyards, his quarters being much inferior to those of his colleague. He told me that he expected an answer from the Government soon, for he "always got favorable answers from Lhasa." The Governor told me most amusing stories of his war experiences in Kham under the Kalon Lama. He complained that European maps of Tibet were very deficient and that the Tibetan Staff had a very hard time planning their campaign. I asked him what kind of maps they used and imagine my stupefaction when the Governor told me that they used a general map of the world and a globe! I tried to explain to him that these maps were quite useless for military purposes and that it is no wonder that they could not recognize the region of their operations on these maps, their scale being too small. The Civil Governor continued to insist that the globe was a very useful thing, as it represented the whole of Jambuling. He also told me that Eric Treichman, British Consular Officer at Tachienlu, carried two small artillery guns in his saddlebags when traveling in Kham!
+Governor or nang-so. The old squire lived in an ordinary Tibetan house with two courtyards, his quarters being much inferior to those of his colleague. He told me that he expected an answer from the Government soon, for he "always got favorable answers from Lhasa." The Governor told me most amusing stories of his war experiences in Kham under the Kalön Lama. He complained that European maps of Tibet were very deficient and that the Tibetan Staff had a very hard time planning their campaign. I asked him what kind of maps they used and imagine my stupefaction when the Governor told me that they used a general map of the world and a globe! I tried to explain to him that these maps were quite useless for military purposes and that it is no wonder that they could not recognize the region of their operations on these maps, their scale being too small. The Civil Governor continued to insist that the globe was a very useful thing, as it represented the whole of Jambuling. He also told me that Eric Treichman, British Consular Officer at Tachienlu, carried two small artillery guns in his saddlebags when traveling in Kham!
 
 According to the Governor, all Europeans had a pernicious custom of taking notes while riding horseback and in this way they got all sorts of useful information about the country.
 
@@ -4978,7 +4978,7 @@ confusion continued until sunset. Tibetan soldiers and we, ourselves, tried in v
 
 **NAG-CHU DZONG --- SAGA DZONG**
 
-IT was still night when everyone rose and packed his bedding. March 4, 1928, will be remembered by all members of the expedition as the end of their captivity in the inhospitable uplands of Tibet. The dawn was softly coloring the sky and the snow peaks of the Shang-shung Range lay behind a deep blue veil. Columns of smoke were rising above the houses of Nag-chu but the streets were still completely deserted. The yak drivers, or lakto in Tibetan, were taking their tea and tsam-pa, squatting near big fires laid on the pavement outside the gates of the expedition headquarters. The loading of yaks began, and it took us almost three hours to start the heavy caravan. We decided to leave Nag-chu after all the transport with the heavy baggage had gone.
+IT was still night when everyone rose and packed his bedding. March 4, 1928, will be remembered by all members of the expedition as the end of their captivity in the inhospitable uplands of Tibet. The dawn was softly coloring the sky and the snow peaks of the Shang-shung Range lay behind a deep blue veil. Columns of smoke were rising above the houses of Nag-chu but the streets were still completely deserted. The yak drivers, or *lakto* in Tibetan, were taking their tea and tsam-pa, squatting near big fires laid on the pavement outside the gates of the expedition headquarters. The loading of yaks began, and it took us almost three hours to start the heavy caravan. We decided to leave Nag-chu after all the transport with the heavy baggage had gone.
 
 At half-past eight everything was finished and the last section of the yak caravan left and disappeared in a narrow gorge across the river. We started, followed by two do-nyers from the dzong, who were to accompany us to Nam-ru. Our Mongol servants who were returning to Tsaidam bade us farewell and presented ceremonial scarfs. They were very sorry to see us depart and feared trouble from the Joint-Governors. They had heard that the Tibetan servants of Dr. Filchner were thrown into prison and apprehended a similar fate. While in Nag-chu, I had spoken to the local authorities on their behalf and they promised to give our men every assistance on their journey to Tsaidam. The expedition issued to them certificates in Tibetan, requesting the Civil and Military Authorities of Tibet to give them adequate help and protection on Tibetan territory, and a high Tibetan lama, who was traveling to Tsaidam, agreed to take them with his caravan. Some four months later, I was gratified to hear that all of them had safely reached their native pasture lands.
 
@@ -5268,7 +5268,7 @@ I. Sir Henry Hayden, Sport and Travel in Tibet, p. 140.
 
 population of nomads living in tents, pitched at the foot of the hills. The local population has almost no knowledge whatsoever of the neighboring regions. They know about Nag-tshang to the east and Chok-chu to the west. An old man remembered two Europeans who had visited the northern shores of the lake, probably Dr. Sven Hedin or Sir Henry Hayden. Our camels were the first that ever reached the place and created an unusual stir among the nomads. Crowds assembled to see the strange animals enter the camp.
 
-April 4. We started at six o’clock notwithstanding some difficulties with relay horses which were placed at our disposal. Half of the animals were quite wild. The others hardly stood on their feet, being exhausted after a snowy winter. The morning was exceptionally warm, the thermometer registering +i2°C. The horizon was hazy, and thick mist hung over the lake and the mountain chains to the east of it.
+April 4. We started at six o’clock notwithstanding some difficulties with relay horses which were placed at our disposal. Half of the animals were quite wild. The others hardly stood on their feet, being exhausted after a snowy winter. The morning was exceptionally warm, the thermometer registering +12°C. The horizon was hazy, and thick mist hung over the lake and the mountain chains to the east of it.
 
 The trail which we were following led southwest across a complicated system of ridges. Toward the north lay a broad latitudinal valley. The caravan of pack yaks with the heavy baggage followed the valley. All of the horsemen with the detachment of yaks carrying the camping outfit, followed the much shorter route along the crest of the ridge. After seven miles’ march, we reached a low pass with a summit marked by stone cairns and *mani*-walls. The view was wonderful and we could see the whole of the vast expanse of the holy Dangra yum-tsho, one of the most beautiful lakes of the Tibetan highlands. Straight toward the south rose the imposing snow-capped meridional range of Tarko La-jyap or Tarko kang-ri. Dr. Sven Hedin has proved that the range should be considered as an isolated massif. The range continued north as far as the gap in the ridge, through which passed the route to Chok-chu. From the summit of the pass, the track turned southward, and suddenly, as is often the case with Tibetan roads, became a broad highway lined on either side by *mani*-walls. The ground was sandy and soft and our animals rapidly trotted toward a group of nomad encampments, which were said to be our destination.
 
@@ -5778,7 +5778,7 @@ Milarepa and his songs are very popular among the population of
 
 Tingri and the neighboring country and legends about Milarepa are often told in the evenings at camp fires and at the hearths of village houses. The author has greatly profited by such conversations with travelers, both traders and lama pilgrims.
 
-In some of the houses at Tingri and the villages of the locality, we found wall paintings representing Milarepa with his right hand lifted up to his right ear, listening to some mysterious voices of nature. He is always pictured sitting in front of a cave with a huge snow mountain in the background. He wears the white garment of his sect, and the ascetic string. Gazelles, leopards, and deer watch the saint, plunged in deep meditation. His teacher, Je-tsiin Marpa, is often represented above him in the clouds, his hands in the dhyani-mudra, the posture of meditation. Another favorite representation pictures the saint in his usual pose, sitting among sharp rocks with snow-capped mountains in the background and the goddess Tshe-ring-ma attending upon him. The saint is seen to be emaciated after the severe penance. The execution of these frescoes is rather crude in design but exquisite in color. Time has softened the too vivid contrasts and hidden the faults of the design. Painted images of Milarepa are common, but bronze statues of him are exceedingly rare. We succeeded in obtaining only one bronze image of the saint, of very crude workmanship.
+In some of the houses at Tingri and the villages of the locality, we found wall paintings representing Milarepa with his right hand lifted up to his right ear, listening to some mysterious voices of nature. He is always pictured sitting in front of a cave with a huge snow mountain in the background. He wears the white garment of his sect, and the ascetic string. Gazelles, leopards, and deer watch the saint, plunged in deep meditation. His teacher, Je-tsün Marpa, is often represented above him in the clouds, his hands in the dhyani-mudra, the posture of meditation. Another favorite representation pictures the saint in his usual pose, sitting among sharp rocks with snow-capped mountains in the background and the goddess Tshe-ring-ma attending upon him. The saint is seen to be emaciated after the severe penance. The execution of these frescoes is rather crude in design but exquisite in color. Time has softened the too vivid contrasts and hidden the faults of the design. Painted images of Milarepa are common, but bronze statues of him are exceedingly rare. We succeeded in obtaining only one bronze image of the saint, of very crude workmanship.
 
 May 6. We made an early start. At six o’clock the caravan left Memo and crossed the vast plain on which the village was situated. After turning a rocky promontory, the trail followed a narrow valley, inclosed on all sides by limestone ridges. At a small village of a dozen hovels, situated on the Phung-chu, the road branched off. One road followed the bank of the river toward a bridge, the other forded the river at the village and turned northeast into the mountains. The second road was much shorter and we decided to ford the river. Having hired two men as guides we began the fording. The river was deep and some of us who were riding on small horses got our feet wet. There was trouble in bringing over the donkey caravan. The water was too high for a laden donkey and some of the larger loads had to be carried across on men’s backs. The bed of the river was sandy and in the rainy season (July-August), swelled considerably. On crossing the river, we entered a highly intersected country of sandy and limestone hills. After two miles the limestone disappeared and we rode past rocky crags and massive witnesses of volcanic activity in a recent geological period. The road was narrow and heavy. After crossing two
 
@@ -6332,7 +6332,7 @@ Daküra, see Urga
 
 Dalai Lama, administration, 156, 181, 184, 385, 397, 468; photographs, 14; private rooms at Shab-den Monastery, 384; property in Mongolia, 144; references to, 168, 217, 226, 241, 263, 265, 287, 297, 300, 301. 307-309, 313-316, 317, 320, 323, 328, 343, 377, 450, 463; ritual, 380
 
-Damaru (see Tambourines)
+*Damaru* (see Tambourines)
 
 Dances, religious, 30, 159-160
 
@@ -6348,43 +6348,43 @@ Dardistan, 10, 12, 17; castles, 13, 17, 18, 24; graves, 29
 
 Daru tsho, 425
 
-Dastarkhan, 52, 53, 55
+*Dastarkhan*, 52, 53, 55
 
 Davis, Malcolm W., xiii
 
-494 TRAILS TO INMOST ASIA
+**494 TRAILS TO INMOST ASIA**
 
 Debates, 485
 
 Decembrist movement, 129
 
-Ded 'Mongols, 218, 257, 263; dictionary, 257
+Ded-Mongols, 218, 257, 263; dictionary, 257
 
 Deer, Buddhist emblem, 193; *motif* in animal style, 368-369
 
 de Filippi, Dr., 44
 
-Del'dan rnam-rgyal, 15, 28
+Del-dan rnam-rgyal, 15, 28
 
 Della Penna, 335
 
-Dergc, art, 147, 195, 254, 256; animal style, 368-369, 371; lamas, 316; Känjür and Tänjür, 138, 15 1, 254; press, 251
+Derge, art, 147, 195, 254, 256; animal style, 368-369, 371; lamas, 316; Känjür and Tänjür, 138, 151, 254; press, 251
 
-Deserts, see under Arab, Gobi, Great Lake Region, Karakum, Taklamakan
+Deserts, *see under* Arab, Gobi, Great Lake Region, Karakum, Taklamakan
 
-Dharmaca^ra, 28, 158
+*Dharmacakra*, 28, 158
 
 Dharmapalas, 26
 
-Dhyani'Buddhas, 26, 476
+Dhyani-Buddhas, 26, 476
 
 Diary, 207 if.
 
 Dictionary, 257
 
-Dipankara Shrijhana. See Atisha
+Dipankara Shrijñana. See Atisha
 
-Doctor of expedition, see under Riabinin
+Doctor of expedition, *see under* Riabinin
 
 Dodge cars, 183
 
@@ -6404,13 +6404,13 @@ Do-ring, 415, 420
 
 Dorje, 461, 490
 
-Dorfe, 299, 363
+*Dorje*, 299, 363
 
 Dragon designs, 362
 
 Dras, 10
 
-Dre-pung Monastery, 23, 224 if., 338, 384, 485
+Dre-pung Monastery, 23, 224 ff., 338, 384, 485
 
 Dri-chu, 284 ff., 334
 
@@ -6430,9 +6430,9 @@ Durand, Col., 7
 
 Du-shi-la, 9
 
-Dzo, II, 41 1, 457, 459
+*Dzo*, 11, 411, 457, 459
 
-Eagle, in Bön frescoes, 365; in animal style, 365* 369. 418
+Eagle, in Bön frescoes, 365; in animal style, 365, 369, 418
 
 Eight happy offerings, 37, 138, 139, 343, 365, 366, 369
 
@@ -6444,11 +6444,11 @@ Elisu-daban Pass, 247, 273 ff.
 
 Elk *motif* in animal style, 369
 
-Emperor Ch’icn-long, 150, 154, 464
+Emperor Ch’ien-long, 150, 154, 464
 
-Equipment, 5, 22-23, 31, 55, 81, 91, 100, 103, i 37 iT-» 169. 170, I 73 -I 74 » 184, 189, i93» 237, 240, 253, 308, 348, 412, 422. *See also* Supplies
+Equipment, 5, 22-23, 31, 55, 81, 91, 100, 103, 137 ff., 169, 170, 173-174, 184, 189, 193, 237, 240, 253, 308, 348, 412, 422. *See also* Supplies
 
-Erdeni-yin eril^he, 135
+*Erdeni-yin erikhe*, 135
 
 Erh Tao-yin, 68-69
 
@@ -6460,11 +6460,9 @@ Factories, carpet, 64; carriage, 90-91; cotton, 63; jade, 67; silk, 63
 
 Fairs, 253, 287
 
-Fan Yao-han, 116; execution of daughter and
+Fan Yao-han, 116; execution of daughter and Fan, 119
 
-Fan, 1 19
-
-Fcldmann, 120
+Feldmann, 120
 
 Felts, 64
 
@@ -6476,7 +6474,7 @@ Filchner, Dr. W., 121, 297, 301, 312, 328, 382, 390, 401, 413
 
 Finnish Mission, 490
 
-Firearms, see Weapons
+Firearms, *see* Weapons
 
 Fire-cult, 12, 52. *See also* Inner Fire
 
@@ -6498,17 +6496,17 @@ Francke, Rev. Dr. A. H., 9, 10, 13; quotation from, 16, 17, 20, 28, 29, 51, 100,
 
 Frescoes, 13, 18, 26, 98, 99, 100, 355, 357, 362, 363, 476; in private houses, 27, 28, 37; technique, 485 ff.
 
-Frontier outposts. See under Militia, also Lhasa administration
+Frontier outposts. *See under* Militia, also Lhasa administration
 
 Fuel, 288, 314, 405
 
-Gabct, Father, 384
+Gabet, Father, 384
 
 Gambling houses, 97
 
 Gandcn Monastery, 107, 160 ff.
 
-Gandhara School, see under Greco-buddhist
+Gandhara School, *see under* Greco-buddhist
 
 Gardens, 6, 36, 37, 53 ff., 83, 86, 89, 98, 101, 109, 482
 
@@ -6532,23 +6530,23 @@ Geysers, 283, 405
 
 Gilded clay images, 14, 17, 485
 
-495 INDEX
+**495 INDEX**
 
-GUgit, 5, 6
+Gilgit, 5, 6
 
 Gillan, Major, xii, 74, 76, 88
 
-Glaciers, 36, 98, 273, 417, 438, 439, 464, 489. See Sasser Pass
+Glaciers, 36, 98, 273, 417, 438, 439, 464, 489. *See* Sasser Pass
 
-GleO'shala, 270
+Glen-shala, 270
 
 Goats, 421
 
-Gobi, 170-171, 185 ff., chap, x; Baga Ma*tzu Shan, 207 ff.; brigands, 185, 190, 205, 207, 213; caravan men, 170--171; diary, 207 ff.; "Gobi," 263; gold diggings, 201 ff., 209; Ja Lama Castle, 211 ff.; legends, 199, 217 ff.; population, 185; research in, 169, 202; Shara>KhuIu$un, 204 ff.; vegetation and fauna, 186, 188, 263-264
+Gobi, 170-171, 185 ff., chap, x; Baga Ma-tzu Shan, 207 ff.; brigands, 185, 190, 205, 207, 213; caravan men, 170-171; diary, 207 ff.; "Gobi," 263; gold diggings, 201 ff., 209; Ja Lama Castle, 211 ff.; legends, 199, 217 ff.; population, 185; research in, 169, 202; Shara-Khulusun, 204 ff.; vegetation and fauna, 186, 188, 263-264
 
 Gold diggings, 201, 209, 244, 261, 367; gold MSS, 316, 358
 
-Golok, 224, 238; discussion of, 29, 268 ff.; 272, 358, 381-382, 385* 39L 422
+Golok, 224, 238; discussion of, 29, 268 ff.; 272, 358, 381-382, 385, 391, 422
 
 Golubin, 309, 323, 328-329, 405, 441
 
@@ -6566,13 +6564,13 @@ Gravel plains, 101-102, 187, 208, 237, 264 ff., 437
 
 Graves, 29, 30, 123, 417. *See also* Burial customs
 
-Great Lakes, region of, chap, xviii; administration, 409-410, 413, 420-421, 434; cattle-breeding and agriculture, 405 ff., 421, 424, 434; climate and topography, 404 ff., 409, 4i4lf-» 420, 427 43L 435 ff-; conical storehouses, 417; customs, dress, and language, 413, 416 ff., 433; desert region, 414; fauna, 414, 418, 426, 429, 432; geysers, 405; graves, 30, 417; ma/M’-walls, 414, 417, 427; mcgalithic monuments, 415 ff., 440 ff.; salt lakes, 405 ff., 415, 418, 435, 439, 453. *See also* Chang-pas, Nam-ru dzong, Saga dzong, Shentsa dzong, Wang-po
+Great Lakes, region of, chap, xviii; administration, 409-410, 413, 420-421, 434; cattle-breeding and agriculture, 405 ff., 421, 424, 434; climate and topography, 404 ff., 409, 414 ff., 420, 427 ff., 431, 435 ff.; conical storehouses, 417; customs, dress, and language, 413, 416 ff., 433; desert region, 414; fauna, 414, 418, 426, 429, 432; geysers, 405; graves, 30, 417; *mani*-walls, 414, 417, 427; megalithic monuments, 415 ff., 440 ff.; salt lakes, 405 ff., 415, 418, 435, 439, 453. *See also* Chang-pas, Nam-ru dzong, Saga dzong, Shentsa dzong, Wang-po
 
 Greco-buddhist art, 99
 
 Grum-Grjimailo, no
 
-Grunwedel, 99, 100, 359
+Grünwedel, 99, 100, 359
 
 Guides, 413
 
@@ -6580,19 +6578,19 @@ Gulmarg, 6
 
 Guma, C. T., 22, 83, 84
 
-Gumai, poison grass, 7, 8
+*Gumai*, poison grass, 7, 8
 
 Gund, 7
 
 Gupta inscriptions, 17
 
-Gur~bum, songs of Milarepa, 475
+*Gur-bum*, songs of Milarepa, 475
 
 Gurkha attacks, 464, 466 ff.
 
 Gushi Khan, 248
 
-Gutul boots, 130
+*Gutul* boots, 130
 
 Gyangtse, 377-378, 466
 
@@ -6600,15 +6598,15 @@ Gyegong La, 441-442
 
 gYung-drung, 16; valley, 420
 
-fiung-drung lha rnams, 356, 358
+*gYung-drung lha rnams*, 356, 358
 
 Hairdresses, Tibet, 348
 
-Han-ch*eng, 56 ff., 63 If., 86 ff.
+Han-ch'eng, 56 ff., 63 ff., 86 ff.
 
-Hapchiga-ulan-miircn, 283
+Hapchiga-ulan-müren, 283
 
-Happy offerings, see under Eight
+Happy offerings, *see under* Eight
 
 Hares, 204, 241
 
@@ -6616,7 +6614,7 @@ Hayden, Sir Henry, 423 ff., 427-428
 
 Headdresses, 48, 256, 348-349, 417, 460
 
-Hedin, Dr. Sven, 291, 335, 425 ff., 431 ff., 436, 438, 44i» 449. 451. 488
+Hedin, Dr. Sven, 291, 335, 425 ff., 431 ff., 436, 438, 441, 449. 451. 488
 
 Hemis Monastery, 20, 27, 30
 
@@ -6628,9 +6626,9 @@ Herons, 289, 454
 
 Hide boats, 453
 
-High Commissioner of Hor, see under Hor
+High Commissioner of Hor, *see under* Hor
 
-Himalayas, 455, 466, 483-484, 487. *See also* Trans-Himal ayas
+Himalayas, 455, 466, 483-484, 487. *See also* Trans-Himalayas
 
 Hittite art, 369, 418
 
@@ -6640,31 +6638,31 @@ Hoopoe, 452
 
 Hor, High Commissioner of, 288, 293 ff.; at camp of, 299 ff., 307 ff., 312, 317, 323, 326, 329, 335-336; resentment of his rule, 375. 391. 394-396
 
-Hor-pas, 29, 185, 291, 305, 340-349. 35i. 375. 382; cattle-breeding, 337-339*. greeting, 292; Kesar saga, 345; militia, 292 ff.; objects in animal style, 368-369, 398; orchestra, 300; tribal administration, 336-339. *See also* Joint Governors
+Hor-pas, 29, 185, 291, 305, 340-349, 351, 375, 382; cattle-breeding, 337-339; greeting, 292; Kesar saga, 345; militia, 292 ff.; objects in animal style, 368-369, 398; orchestra, 300; tribal administration, 336-339. *See also* Joint Governors
 
 Horch, L. L., 173
 
-Horses, 5, 50, 86, 237, 252, 273, 289, 31 1, 336-337. 407. 416, 473; brigand, 360, 407, 416; herds, 424, 425; catching of, 351; short-tailed, 272; winged-horse *motifs*, 28. *See also* Karashahr
+Horses, 5, 50, 86, 237, 252, 273, 289, 311, 336-337, 407, 416, 473; brigand, 360, 407, 416; herds, 424, 425; catching of, 351; short-tailed, 272; winged-horse *motifs*, 28. *See also* Karashahr
 
 Hot Springs, 291-292, 438. *See also* Geysers
 
-Households, Ladak, 14, 19, 37; Tibet, Tibetan Uplands, 41 1. *See also* under Tents
+Households, Ladak, 14, 19, 37; Tibet, Tibetan Uplands, 41 1. *See also under* Tents
 
-Hsin-chiang, 88-122; agriculture, 89, 98; antiquities, 91, 99-100; cave-temples, 98; gamblers, 97; highway, 95 ff.; history, 100, 117-118; militia, 81-82, 120; population, 88, 103 ff., 1 15, 121; Russo-Asiatic Bank, 89, ii8ff.; trade, 89-90. *See also* Toin Lama, Yang Tseng-hsin
+Hsin-chiang, 88-122; agriculture, 89, 98; antiquities, 91, 99-100; cave-temples, 98; gamblers, 97; highway, 95 ff.; history, 100, 117-118; militia, 81-82, 120; population, 88, 103 ff., 115, 121; Russo-Asiatic Bank, 89, 118 ff.; trade, 89-90. *See also* Toïn Lama, Yang Tseng-hsin
 
-Hsin-hsin-sia, no, 117-119
+Hsin-hsin-sia, 110, 117-119
 
-Hue, Father, 384
+Huc, Father, 384
 
-Humboldt Mountains. See under Hungu
+Humboldt Mountains. *See under* Hungu
 
 Hungu Mountains, 242, 244
 
-496 TRAILS TO INMOST ASIA
+**496 TRAILS TO INMOST ASIA**
 
 Hunting yaks, 273, 276; prohibited in Tibet, 309. 385. 409
 
-Hutukhtu, Chang'skya, 224; Ilgusan, 225; Jahantsa, 225; Je-tsiin tam>pa, 132, 135 H., i 53 > 155
+Hutukhtu, Chang-skya, 224; Ilgusan, 225; Jahantsa, 225; Je-tsün tam-pa, 132, 135 ff., 153, 155
 
 Ibex, 214; symbol in fire cult, 12, 51, 52, 214
 
@@ -6694,7 +6692,7 @@ Indo-Tibetan Bön, 355
 
 Inner Fire, hidden science of, 474 ff.
 
-Inscriptions, 13, 14, 17, 28, 44, 51, 56, 96. Sec also Stone inscriptions
+Inscriptions, 13, 14, 17, 28, 44, 51, 56, 96. *See also* Stone inscriptions
 
 Iranian influence in art of Central Asia and Tibet, 49, 99, 367; MSS, 61--63; population in Khotan, 61
 
@@ -6714,7 +6712,7 @@ Jair Mountains, archaeological possibilities, 123; brigands, 124
 
 Ja Lama, 190, 205; expedition at castle of, 209 ff., chap, xi
 
-Jam-pe yang, see Mahjushri
+Jam-pe yang, *see* Mañjushri
 
 Jamtsarano, R. J., 149 ff., 178, 361
 
@@ -6722,17 +6720,17 @@ Jamyang (’Jam-dbyangs), 14
 
 Jam-yang she-pa, 121
 
-Jc-tsiin Marpa, 476
+Je-tsün Marpa, 476
 
-Je-tsiin Mila, 316
+Je-tsün Mila, 316
 
-Je-tsiin Milarepa, 23, 27. *See also* Milarcpa
+Je-tsün Milarepa, 23, 27. *See also* Milarepa
 
-Je-tsiin tam-pa Hutukhtu, 132, 135, 139, 153, 155
+Je-tsün tam-pa Hutukhtu, 132, 135, 139, 153, 155
 
-Joint-Governors of Nag-chu, 285, 294, 306 ff., 320, 323, 324; at expedition camp, 375 ff., at Nag-chu, 387, 397» 4"
+Joint-Governors of Nag-chu, 285, 294, 306 ff., 320, 323, 324; at expedition camp, 375 ff., at Nag-chu, 387, 397, 411
 
-Journey to Lhasa and Central Tibet (Sarat Chandra Das), 357
+*Journey to Lhasa and Central Tibet* (Sarat Chandra Das), 357
 
 Jungaria, 50; nomad migrations, 122 ff., 125, 248
 
@@ -6744,23 +6742,23 @@ Kadir Khan Jusuf, 62
 
 Kadru, 394* 403» 421. 487
 
-Kailasa Mountain, Megalithic monuments, 355* 416; pilgrimages to, 414 ff. *See also* Naro, 27
+Kailasa Mountain, Megalithic monuments, 355, 416; pilgrimages to, 414 ff. *See also* Naro, 27
 
 Kalacakra system, 156 ff., 364, 485
 
 Kalmucks, 74, 99 ff., 115, 124-125; tribes, 103
 
-Kalon Lama, 377, 471
+Kalön Lama, 377, 471
 
 Kampa dzong, 487-488
 
 Kam-rong La Pass, 297-298
 
-Kanjur and Tänjür, Buddhist: 16, 138, 148, 159. I95» 254, 31^317. 328, 485; Bön: 328, 357-358; MSS in gold, 316-317
+Kanjur and Tänjür, Buddhist: 16, 138, 148, 159, 195, 254, 316-317, 328, 485; Bön: 328, 357-358; MSS in gold, 316-317
 
 Kansu horses, 237
 
-K*ang-hsi, 360
+K'ang-hsi, 360
 
 Kaptar-Mazar (Pigeon’s Sanctuary), 56, 82
 
@@ -6768,7 +6766,7 @@ Kara-Khitai, 62
 
 Kara-Kirghizes, 97 ff. *See also* Kirghiz
 
-Karakorum Route, ii, 20, 21, 35 ff., 44
+Karakorum Route, 11, 20, 21, 35 ff., 44
 
 Karakum Desert, 87
 
@@ -6776,7 +6774,7 @@ Karashahr, horse center, 92, 1 03-1 09, 119-120, 226
 
 Karghalik, 23, 85
 
-Kargil, I2
+Kargil, 12
 
 Karma-pa sect, 436
 
@@ -6792,9 +6790,9 @@ Kentei Mountain system, discovery of textiles in animal style, 133
 
 Kesar Saga, 26, 345, 354, 358 ff., 361, 365, 375; frescoes, 28; MSS and sword presented to Dr. G. Roerich, 390; temples, 350, 360
 
-Khalatsc, 17
+Khalatse, 17
 
-Kham, 147, 151, 226, 3x6
+Kham, 147, 151, 226, 316
 
 Khambu woman, 456
 
@@ -6820,17 +6818,17 @@ Khara-nom, 366. *See also* Black Faith
 
 Kharbu, 14-15
 
-497 INDEX
+**497 INDEX**
 
 Khardong Pass, 24, 35-36; stone image of Maitreya, 28
 
-Kharmik,, 186, 263
+*Kharmik*, 186, 263
 
 Kharoshthi inscriptions, 17; tablets, 61, 63
 
-Khashkar>in daban Pass, 241-242
+Khashkar-in daban Pass, 241-242
 
-Khe-dup-jc, 153, 157, 485
+Khe-dup-je, 153, 157, 485
 
 Khorebin lamas, 266, 276
 
@@ -6842,15 +6840,15 @@ Khoton-sumbul, 103 ff.
 
 Khri Sultan of Kartse, 15
 
-Khri-srong lde*u-btsan, 360
+Khri-srong lde'u-btsan, 360
 
 Khudai Berdi Bai, 71 ff.
 
 Kiakhta, 131, 225
 
-Kings, bDc'lcgs rnam-rgyal, 18 bKra>shis rnam-rgyal, 18, 25, 26 *Bum-ldc, 14, 18, 23, 26 Del -dan rnam-rgyal, 15, 28 Jamyang, 14 K*ang'hsi, 360 Kesar, 26 ff., 345 ff., 375-376 Khri-srong Ide'u-btsan, see Ti-srong Lang-darma, 160, 353 Lha-chen rgyal-po, 18 Rin-chen bzang-po, 917 Seng-ge rnam-rgyal, 16, 18, 24 Srong-btsan-sgam-po, 12, 353, 360 Thsc-dbang rnam-rgyal, 18 Ti-srong dc’ut sen, 353, 360
+Kings, bDe'legs rnam-rgyal, 18 bKra-shis rnam-rgyal, 18, 25, 26 'Bum-lde, 14, 18, 23, 26 Del-dan rnam-rgyal, 15, 28 Jamyang, 14 K'ang-hsi, 360 Kesar, 26 ff., 345 ff., 375-376 Khri-srong lde'u-btsan, *see* Ti-srong Lang-darma, 160, 353 Lha-chen rgyal-po, 18 Rin-chen bzang-po, 917 Seng-ge rnam-rgyal, 16, 18, 24 Srong-btsan-sgam-po, 12, 353, 360 Thse-dbang rnam-rgyal, 18 Ti-srong de’ut sen, 353, 360
 
-Kirghiz, 48 ff., 64, 102, 115^., 1 24-1 25, 213 ff., 351. *See also* Kara-
+Kirghiz, 48 ff., 64, 102, 115 ff., 124-125, 213 ff., 351. *See also* Kara-
 
 Kiytun-shirik, 290
 
@@ -6866,13 +6864,13 @@ Kokoshili Range, 282 ff.
 
 Koko-tono Cliff, 272
 
-Komora (Hor-pa tribe), 336
+Kömora (Hor-pa tribe), 336
 
 Kone-shahr, 51, 63, 86
 
 Kong-po dogs, 394
 
-Kordashevski, Col. N. V., 244 ff., 267, 274, 298-299, 320, 381, 387. 393* 396, 402, 404, 480, 483
+Kordashevski, Col. N. V., 244 ff., 267, 274, 298-299, 320, 381, 387, 393, 396, 402, 404, 480, 483
 
 Kozlov, Gen. P. K., 168-169, 180, 184, 204; discovery of objects and textiles in animal style, 133, 151-152, 370; Ja Lama as guide, 226
 
@@ -6888,7 +6886,7 @@ Kum-rabat Padshahim, 82
 
 Kun-tu bzang-po, 355
 
-Küren, see Ikhe-küren
+Küren, *see* Ikhe-küren
 
 Kusho Kudrupa, 184
 
@@ -6896,15 +6894,19 @@ Labrang, 151
 
 Lachen Valley, 489-490
 
-Ladak, architecture, 19, 24 ff.; frescoes, 13, 18, 26, 27, 28, 30; household, 14; libraries, 14, 15, 16, 18; population, 8, 19, 23, 29, 31, 71; Raja of, 26; songs, 361; sprinkling of yak milk, 35; Treaty Route, 7-8. See Lch Lahul, Bön-po songs, 361 haKiOy 351
+Ladak, architecture, 19, 24 ff.; frescoes, 13, 18, 26, 27, 28, 30; household, 14; libraries, 14, 15, 16, 18; population, 8, 19, 23, 29, 31, 71; Raja of, 26; songs, 361; sprinkling of yak milk, 35; Treaty Route, 7-8. See Leh
+
+Lahul, Bön-po songs, 361 
+
+*Lakto* 351
 
 Lama cameleers, 313; ceremony on Thang La, 291; Kingdom of Tibet, 283, 335; musicians, 154, 392; tents, 192, 255
 
-Lama Khe-dup, 323; Lobzang Mingyur Dorje, xiii; Lobzang, 19; Pal-den ye-she, 157; Paldor jc, 160 ff.; Rig-den jam-pe dak-pa, 156; Rig-den Jye-po, 156 tf.; Rig-dzin, 323; Sambu, 193, 199; Sengchen Dorjechang, 106; Shakju, 151; sTag-tshang ras-chen, 24; Urgyen, 357. *See also* under Dalai, Ja, Kalon, Khorchin, Panchen, Ta, Tantric, Tibetan, Toin
+Lama Khe-dup, 323; Lobzang Mingyur Dorje, xiii; Lobzang, 19; Pal-den ye-she, 157; Paldorje, 160 ff.; Rig-den jam-pe dak-pa, 156; Rig-den Jye-po, 156 ff.; Rig-dzin, 323; Sambu, 193, 199; Sengchen Dorjechang, 106; Shakju, 151; sTag-tshang ras-chen, 24; Urgyen, 357. *See also* under Dalai, Ja, Kalön, Khorchin, Panchen, Ta, Tantric, Tibetan, Toïn
 
 Lamaism, 15, 99, 133, 255
 
-Lama-yin Gegcn, 189
+Lama-yin Gegen, 189
 
 Lamayuru, 15-16. *See also* Narthang
 
@@ -6924,7 +6926,7 @@ Le Coq, Dr., 54, 91, 98, 99, 100
 
 Legends and beliefs: arrowheads, 351, 418; attainment of longevity, 380; Bön, 356 ff., 358; concerning Buddha, 356-357; "earth poison,*’ 241; Gobi, 181, 199, 217-218; Kesar, 358 ff.; concerning Milarepa, 474; Pigeon’s Sanctuary, 56; Saga dzong, 451; Shambhala, 157; Thang La, 290; Trans-Himalayas, 436; Zoji Pass, 9
 
-Leh, Ladak, archaeological possibilities, 20, 22, 23, 29, 30; Christians, 28-29; evening prayers, 25; frescoes, 26, 27; Hemis Monastery, 27; household, 27; Islam mosque, 29; f7ia^/-wall, 28; Moravian Mission, 20, 415; palace, 24 ff.; population, 23; Raja, 24, 26; temples, 26; trade, 21, 22
+Leh, Ladak, archaeological possibilities, 20, 22, 23, 29, 30; Christians, 28-29; evening prayers, 25; frescoes, 26, 27; Hemis Monastery, 27; household, 27; Islam mosque, 29; *mani*-wall, 28; Moravian Mission, 20, 415; palace, 24 ff.; population, 23; Raja, 24, 26; temples, 26; trade, 21, 22
 
 Leopard, 253
 
@@ -6936,9 +6938,9 @@ Lha-chen rgyal-po, 18
 
 Lhasa, Tibet, administration, 285, 311, 316,
 
-498 TRAILS TO INMOST ASIA
+**498 TRAILS TO INMOST ASIA**
 
-335 ff*. 339. 375. 377-378. 385. 397. 4>*. 458, 462, 468, 477, 479; anecdotes, 389; Drc-pung Monastery, 23, 224 if., 338, 384, 485; militia, 352, 466; pilgrims to, 382, 452; printing, 147, 151, 167, 316, 317; sanitation, 387; School of Medicine, 155; Sera Monastery, 147, 366, 406. *See also* Passports
+335 ff., 339, 375, 377-378, 385, 397, 412, 458, 462, 468, 477, 479; anecdotes, 389; Dre-pung Monastery, 23, 224 ff., 338, 384, 485; militia, 352, 466; pilgrims to, 382, 452; printing, 147, 151, 167, 316, 317; sanitation, 387; School of Medicine, 155; Sera Monastery, 147, 366, 406. *See also* Passports
 
 Lichtmann, Mr. and Mrs. M., 173, 178
 
@@ -6950,27 +6952,27 @@ Ling-chi, 119
 
 Ling-kar, 487
 
-Lion, *motif* in animal style, 370; in Bön paintings, 365; in Buddhist paintings, 247, 343* 375; on nomad tents, 343; on stupas, 28
+Lion, *motif* in animal style, 370; in Bön paintings, 365; in Buddhist paintings, 247, 343* 375; on nomad tents, 343; on *stupas*, 28
 
 Lion Gate, Leh, 24
 
 Lonchen Shatra, 145
 
-L6n-po, 37
+Lön-po, 37
 
-Lung-tum-mo, 474 ff.
+*Lung-tum-mo*, 474 ff.
 
 Lynx, 253
 
 Ma, General, 38, 67, 69, u8, 269
 
-Ma-btsiin-pa, 355, 363, 366
+Ma-btsün-pa, 355, 363, 366
 
 Ma-ch’i, 119, 121
 
-Ma Fu-hsin (Ti-rW), 38, 64, 67 ff.
+Ma Fu-hsin (*Ti-t'ai*), 38, 64, 67 ff.
 
-Ma-Shao-wu (Tao-t'ai), 54, 65-76, 119
+Ma-Shao-wu (*Tao-t'ai*), 54, 65-76, 119
 
 Ma Ta-jen, 56, 87
 
@@ -6984,9 +6986,9 @@ Mahai, Tsaidam, 243-244, 250
 
 Mahayana, 10, 61, 358, 490
 
-Maidari procession, 136, 154', 163-164
+Maidari procession, 136, 154, 163-164
 
-Mai-ma-ch*eng, 136; cemetery, 142
+Mai-ma-ch'eng, 136; cemetery, 142
 
 Maitreya, images and temples, 10, 13-14, 17, 18, 26, 28 ff., 38, 98, 147, 159, 217 ff., 363-364, 384
 
@@ -6996,13 +6998,15 @@ Maltese crosses, 28
 
 Man-la, 485
 
-Manchu archery, 464; Kesar proclaimed Divine Protector of, 360; rule in Tibet, 316 A/tfm-walls, 28, 414, 417, 427, 449, 456, 461, 485
+Manchu archery, 464; Kesar proclaimed Divine Protector of, 360; rule in Tibet, 316
 
-Mani inscriptions, 419
+*Mani*-walls, 28, 414, 417, 427, 449, 456, 461, 485
+
+*Mani* inscriptions, 419
 
 Manji, 490
 
-Manjushri, 16, 27, 147; symbols of, 158; -kbit, 135, 163
+Mañjushri, 16, 27, 147; symbols of, 158; -khit, 135, 163
 
 Maps, 169, 191, 263, 282, 286-287, 335, 423; Tibetan use of, 388
 
@@ -7014,7 +7018,7 @@ Marin, M. Louis, Preface, xii
 
 Marmots, 180
 
-Masks, lama, 365; protection against storms^ 341 (*See also* Pomades)
+Masks, lama, 365; protection against storms 341 (*See also* Pomades)
 
 Masonry, 29, 487
 
@@ -7024,21 +7028,21 @@ Mauser pistols, 340
 
 Mazar Imam Jafar Sadik, 63, 71
 
-Mazars, definition, 48
+*Mazars*, definition, 48
 
-Mecca, pilgrims to, ii, 42, 44, 48
+Mecca, pilgrims to, 11, 42, 44, 48
 
-Medicine, men, 10 1; School of, Lhasa, 155; Temple of Doctors, Urga, 155
+Medicine, men, 101; School of, Lhasa, 155; Temple of Doctors, Urga, 155
 
 Meditation, hermitages, 475; periods set aside by Tibetan monks, 457
 
 Megalithic monuments, 355, 415 ff., 440 ff., 451
 
-Melons, 50. See Watermelons
+Melons, 50. *See* Watermelons
 
 Memo, 472 ff.
 
-Men, Beasts and Gods (Ossendowski), 223
+*Men, Beasts and Gods* (Ossendowski), 223
 
 Men-dongs, 28, 291
 
@@ -7052,27 +7056,27 @@ Middle Ages, 256
 
 Milarepa, 23, 29, 358, 473
 
-Militia, Chinese, 124, 481; Chinese Turkestan, 68; Hsin-chiang, 81, 115, 120-121; Mongolia, 130-133, 251-252; Tibet, 285 ff., 292 ff., 299, 305. 316, 349. 352-353. 376, 386, 449, 466, 470-471; Torgut, 102, 227; Tsaidam, 251-252
+Militia, Chinese, 124, 481; Chinese Turkestan, 68; Hsin-chiang, 81, 115, 120-121; Mongolia, 130-133, 251-252; Tibet, 285 ff., 292 ff., 299, 305, 316, 349, 352-353, 376, 386, 449, 466, 470-471; Torgut, 102, 227; Tsaidam, 251-252
 
-Mir an, 63
+Miran, 63
 
 Mirza Mohammad Haidar, 9
 
-Mishc-Gun küren, 180
+Mishe-Gun küren, 180
 
 Moguls, 6
 
-Mohammedans, 4, 61-64, 86, 96, 115, 249 ff.; iconoclasts, 98; medicine men, 10 1. *See also* Tungans
+Mohammedans, 4, 61-64, 86, 96, 115, 249 ff.; iconoclasts, 98; medicine men, 101. *See also* Tungans
 
 Moldavak, K., 71
 
 Mongol Central Cooperative, 140 ff., 182
 
-Mongolia, agriculture, 143, 319; fauna, 188, 204, 214-215; history and administration, 122, 130 ff., 223 ff., 230, 233, 251, 311; militia, 130, 151; national institutions, 139-142, 1 49-1 50, 163, 182, 233; Sangin Veterinary Station, 178; tents, 192 ff.; trade, 140-142, 145-146, 182, 218, 339; tribes, 231, 248 ff.; tumuli, 184; types, 131, 185, 189, 191, 218, 227, 255, 312-313, 316, 322. *See also* Gobi, Tsaidam, Urga
+Mongolia, agriculture, 143, 319; fauna, 188, 204, 214-215; history and administration, 122, 130 ff., 223 ff., 230, 233, 251, 311; militia, 130, 151; national institutions, 139-142, 149-150, 163, 182, 233; Sangin Veterinary Station, 178; tents, 192 ff.; trade, 140-142, 145-146, 182, 218, 339; tribes, 231, 248 ff.; tumuli, 184; types, 131, 185, 189, 191, 218, 227, 255, 312-313, 316, 322. *See also* Gobi, Tsaidam, Urga
 
-Mongolia and the Mongols (Pozdneev), 225
+*Mongolia and the Mongols* (Pozdneev), 225
 
-Mdn-lam chem-po, 266
+Mön-lam chem-po, 266
 
 Mons, 23
 
@@ -7086,25 +7090,25 @@ Morris, Dr. F. K., 179
 
 Morshead, Captain, 377
 
-499 INDEX
+**499 INDEX**
 
-Mother Nature, See Ma-btsiin-pa
+Mother Nature, *See* Ma-btsün-pa
 
-Mt. Everest, see under Everest
+Mt. Everest, *see under* Everest
 
-Mt. Kailasa, see under Kailasa
+Mt. Kailasa, *see under* Kailasa
 
-Mud-buijt fort, hovels, 47, 264
+Mud-built fort, hovels, 47, 264
 
-Mulbe, Ladak, i3> 14
+Mulbe, Ladak, 13, 14
 
 Mulberries, 83
 
 Murchu tsho, 425
 
-Musicians, lama, 154, 392; traveling, 88 , 424
+Musicians, lama, 154, 392; traveling, 88, 424
 
-Nag-chu, 238; annual fair, 287, 339; expedition stay in, 383-402; New Year festivities, 391 if.; routes to, 292; sanitation, 387; Shab-den Monastery, 287, 384, 388
+Nag-chu, 238; annual fair, 287, 339; expedition stay in, 383-402; New Year festivities, 391 ff.; routes to, 292; sanitation, 387; Shab-den Monastery, 287, 384, 388
 
 Nag-chu-ka, Chap. 12
 
@@ -7114,7 +7118,7 @@ Nain Singh, 335, 425, 427-428
 
 Nam-ru dzong, 379, 409 if.
 
-Naro Bon-chung (Naropa), 9, 16, 27, 358, 474
+Naro Bön-chung (Naropa), 9, 16, 27, 358, 474
 
 Narthang publications, 16, 138, 254, 475, 485
 
@@ -7166,11 +7170,11 @@ Nya-rong-was, 29, 347 ff.
 
 Nya-shing tsho, 406 ff.
 
-Nying-ma-pa, see Red sect
+Nying-ma-pa, *see* Red sect
 
 Nystrom, Dr., 72, 83
 
-ObO Tibetan New Year rite, 393; definition, 242. *See also* Stone cairns
+*Obo*, Tibetan New Year rite, 393; definition, 242. *See also* Stone cairns
 
 Ochir, 403, 461, 490
 
@@ -7178,13 +7182,13 @@ Oil lamps, Khotan, 65
 
 Oirat tribes, 62, 226, 248 ff.
 
-Oldt tribes, 99 ff.
+Ölöt tribes, 99 ff.
 
 Omar Khan, 20 ff .
 
 Onions, 468
 
-Opium, 77, 82, 84, 92, 205; as soldiers* pay, Hsin-chiang, 121
+Opium, 77, 82, 84, 92, 205; as soldiers' pay, Hsin-chiang, 121
 
 Oracle, state, 163
 
@@ -7192,7 +7196,7 @@ Orchards, 83, 101, 109
 
 Orchestra, Hor-pas, 300 ff.
 
-Oriental -Iranian MSS, Khotan, 61-63
+Oriental-Iranian MSS, Khotan, 61-63
 
 Ossendowski, F., 223
 
@@ -7200,11 +7204,11 @@ Otani, Count, 98, 99
 
 Otter, 407
 
-Pa-bon lha, 380
+Pa-bön lha, 380
 
 Padmasambhava, 14, 354-355
 
-Painted banners. See Banners
+Painted banners. *See* Banners
 
 Paintings, Bön, 355. *See also* Frescoes
 
@@ -7212,13 +7216,13 @@ Palaces, Leh, 24 ff.; Ma Tit’ai, 67; Potala, 24, 138; Sain Noin Khan, 140; Uru
 
 Pal-den Lhamo, cult of, 364, 451
 
-Pal -den ye-shc, 157
+Pal-den ye-she, 157
 
-Pal -dor je, 160 ff.
+Pal-dor je, 160 ff.
 
 Paleo-Asiatic tribes, 367
 
-P*an, Mr., 96
+P'an, Mr., 96
 
 Panags, 29; attack, 274 ff. *See also* Goloks
 
@@ -7238,7 +7242,7 @@ Partridges, 461
 
 Pashmina shawls, 22
 
-Passports, to Hsin-chiang, 73 ff., to inner Tibet, 168, Nag-chu to Sikkim, 409; difficulties with, 172, 238, 294 ff., 301, 306, 312, 316, 320, 324, 328-329, 379, 388 ff., 392, 395» 4". 422, 428, 441, 488
+Passports, to Hsin-chiang, 73 ff., to inner Tibet, 168, Nag-chu to Sikkim, 409; difficulties with, 172, 238, 294 ff., 301, 306, 312, 316, 320, 324, 328-329, 379, 388 ff., 392, 395, 411, 422, 428, 441, 488
 
 Peaches, 53
 
@@ -7252,13 +7256,13 @@ Pelliot, Professor Paul, 96 ff., 100, 358
 
 Pen case with *motifs* in animal style, 369
 
-P*cng, General, 305
+P'eng, General, 305
 
 Pereira, General, 320, 378
 
 Phallic images, 208
 
-500 TRAILS TO INMOST ASIA
+**500 TRAILS TO INMOST ASIA**
 
 Photographs, 14, 72, 139, 192, 479, 486
 
@@ -7306,7 +7310,7 @@ Precipitation, Tibet, 282-283
 
 Printing, 63, 129, 138, 147, 151, 167, 316, 317. *See also* under Dcrge, Kumbum, Narthang
 
-Private houses, see Households
+Private houses, *see* Households
 
 Prjevalski, i68, 242, 271, 347
 
@@ -7336,7 +7340,7 @@ Red sect, 14, 38, 357. 45^, 466, 481
 
 Reincarnation, 14, 106, 107, 156, 223, 226
 
-Religious banners. See Banners
+Religious banners. *See* Banners
 
 Renaissance, links with Orient, 90
 
@@ -7388,7 +7392,7 @@ Russo-Asiatic Bank, Kashgar, 89; Urumchi, 1 18, 120, 121
 
 Ryder, Captain, 449
 
-Sacrifices, see Bön
+Sacrifices, *see* Bön
 
 Saga dzong, 379, 431, 445-451; believed abode of deities, 451; cult of Pal -den Lhamo, 451
 
@@ -7434,7 +7438,7 @@ Satar Khan, 8
 
 Schmidt, I. J., 360
 
-Science, see under Mongolia
+Science, *see under* Mongolia
 
 Sculpture, combination with frescoes, 486. *See also* Clay statuettes. Stone images
 
@@ -7550,7 +7554,7 @@ Spi-thug, 18-19
 
 Spongy stones, 263
 
-Springs, see Hot Springs
+Springs, *see* Hot Springs
 
 Spyan-ras-gzigs Thugs-rje-chen-po, 15. *See also* Avalokitesvara
 
@@ -7574,9 +7578,9 @@ Storehouses, conical stone huts at Ratri, 417
 
 Storms, no, 194, 201, 287, 404, 415, 420-421, 423-425
 
-Stucco figures on Buddhist stupas, 28; heads of Buddha, 63
+Stucco figures on Buddhist *stupas*, 28; heads of Buddha, 63
 
-Stupas, 12, 25, 28; replaced by mazars in Chinese Turkestan, 48, 131, 210, 307;
+*Stupas*, 12, 25, 28; replaced by mazars in Chinese Turkestan, 48, 131, 210, 307;
 
 Sharugdn, 362; Tibetan uplands, 456, 461, 467, 481, 485
 
@@ -7590,11 +7594,11 @@ Supplies, cost of, 264-265, 310, 329, 380, 381, 387. 397. 412, 452, 484
 
 Svastika, ii, 16, 353, 356, 358, also Bön
 
-Sven Hedin. See under Hedin
+Sven Hedin. *See under* Hedin
 
-Swan *motif* in animal style, 369, 370; on stupas, 28
+Swan *motif* in animal style, 369, 370; on *stupas*, 28
 
-Swastika. See Svastika
+Swastika. *See* Svastika
 
 Swedish Mission, Kashgar, 38, 72; Yarkcnd, 83. 87
 
@@ -7602,7 +7606,7 @@ Swords, Tibetan, 285, 349 ff., 350, 368, 390, 411, 413
 
 Taklamakan Desert, 51, 54 ff.; quotation from Stein, 190
 
-Ta-khu-re. See Urga
+Ta-khu-re. *See* Urga
 
 Ta Lamas, 224
 
@@ -7660,11 +7664,11 @@ Tcijiner Mongols, 249, 250, 263, 266, 268; agriculture, 254, 269; Golok raids, 2
 
 Temur Bai, 88
 
-Ten-pei Jal-tsen. See Ja Lama
+Ten-pei Jal-tsen. *See* Ja Lama
 
 Tents, Canadian, 173; Chinese, 173; Kirghiz, 50; Kurluk, 254-255; lama, 162; Mongol, 137, 162, 174; nomad, 342 ff.; Tibetan (Hor), 299, 342 ff.; Tsaidam, 238, 254, 343; Willesden, 5
 
-Teri-namtsho. See Ting-ri lam-tsho, 435
+Teri-namtsho. *See* Ting-ri lam-tsho, 435
 
 Terra cotta figurines, 62
 
@@ -7672,13 +7676,13 @@ Teu-gser-po, 29
 
 Textiles, in animal style, 152, 368
 
-Thang-kas, See Banners
+Thang-kas, *See* Banners
 
 Thang La, approach of, 284 ff.; ascent, 290 ff.; ceremony on summit, 291; eastern offshoots not yet crossed by Americans or Europeans, 334; 335. 338. 340. 346 ff., 383. 385
 
 Theatrical entertainments, 84, 85
 
-Third Central Asiatic Expedition. See American Museum of Natural History
+Third Central Asiatic Expedition. *See* American Museum of Natural History
 
 Thog-ldc-jo, 13
 
@@ -7690,9 +7694,9 @@ Thse-dbang rnam-rgyal, 18
 
 Tibet, *See also* Ladak
 
-Tibetan mastiff. See Tumbal
+Tibetan mastiff. *See* Tumbal
 
-Tibetan uplands. Chap, xiv ff.; administration, 184, 297. 309, 312, 336 ff., 348, 377-378, 386, 397, 409, 410, 413, 420-421, 434. 449, 451-452, 458, 463. 466, 468, 469, 473. 477-478; architecture, 139, 417, 421, 456, 459-460, 462, 465, 484-485; art, 355, 357, 362 ff., 368-369, 398, 418, 476, 485 ff.; cattle-breeding and agriculture, 290, 292-293, 308, 337 ff., 351, 380, 405 ff., 421, 424, 434, 451, 453, 457-458, 468, 472, 478; climate and topography, 277, 282 ff., 291-292, 321, 380, 382 ff., 388, 404. 405, 409, 414 ff-, 420, 427 ff-. 431, 435 ff-, 453 ff-. 465, 476, 484; customs, dress, and language, 249, 295, 305-306, 325, 344, 346, 358, 380, 413, 416 ff., 432 ff., 441, 451, 454, 456, 460, 462, 467, 475. 478; dogs, 309, 324, 342, 421, 453, 478; fairs, 287; fauna, 282, 284, 286, 407, 414, 418, 426, 429, 432; ferries, 453, 462; hermits, 474 ff.; history, 99-100, 248, 251, 335; Kesar Saga, 345 ff., 350, 360; lamas, 283, 316, 335, 474 ff.; literature and printing, 63, 147, 151, 167, 316, 317; medicine, 155; megalithic monuments, 355, 415 ff., 440 ff., 451; militia, 285 ff., 292 ff., 316, 349. 352-353. 376, 386, 449. 466, 470-471; roads, 427; silverware, 343; stupas and *mani*-walls, 414, 427, 461, 485; swords, 285, 349 ff-. 360, 368, 390, 41 1 ; trade, 144 ff., 167 ff., 310, 339, 453; trumpets, 300, 474. *See also* Chang-pas, Goloks, Great Lakes region, Hor-pas, Lhasa, Trans-Himalayas
+Tibetan uplands. Chap, xiv ff.; administration, 184, 297. 309, 312, 336 ff., 348, 377-378, 386, 397, 409, 410, 413, 420-421, 434. 449, 451-452, 458, 463. 466, 468, 469, 473. 477-478; architecture, 139, 417, 421, 456, 459-460, 462, 465, 484-485; art, 355, 357, 362 ff., 368-369, 398, 418, 476, 485 ff.; cattle-breeding and agriculture, 290, 292-293, 308, 337 ff., 351, 380, 405 ff., 421, 424, 434, 451, 453, 457-458, 468, 472, 478; climate and topography, 277, 282 ff., 291-292, 321, 380, 382 ff., 388, 404. 405, 409, 414 ff-, 420, 427 ff-. 431, 435 ff-, 453 ff-. 465, 476, 484; customs, dress, and language, 249, 295, 305-306, 325, 344, 346, 358, 380, 413, 416 ff., 432 ff., 441, 451, 454, 456, 460, 462, 467, 475. 478; dogs, 309, 324, 342, 421, 453, 478; fairs, 287; fauna, 282, 284, 286, 407, 414, 418, 426, 429, 432; ferries, 453, 462; hermits, 474 ff.; history, 99-100, 248, 251, 335; Kesar Saga, 345 ff., 350, 360; lamas, 283, 316, 335, 474 ff.; literature and printing, 63, 147, 151, 167, 316, 317; medicine, 155; megalithic monuments, 355, 415 ff., 440 ff., 451; militia, 285 ff., 292 ff., 316, 349. 352-353. 376, 386, 449. 466, 470-471; roads, 427; silverware, 343; *stupas* and *mani*-walls, 414, 427, 461, 485; swords, 285, 349 ff-. 360, 368, 390, 41 1 ; trade, 144 ff., 167 ff., 310, 339, 453; trumpets, 300, 474. *See also* Chang-pas, Goloks, Great Lakes region, Hor-pas, Lhasa, Trans-Himalayas
 
 503 INDEX
 
@@ -7716,7 +7720,7 @@ Tobacco, 86, 241
 
 Toghrak-dong, cave shrines, 97
 
-Toin Lama, believed reincarnation of Lama Sengchen Dorjechang, 106-107; headquarters, 1 04-1 05; history, 103 ff.; progressive attitude, 104-105. *See also* under Torguts
+Toïn Lama, believed reincarnation of Lama Sengchen Dorjechang, 106-107; headquarters, 1 04-1 05; history, 103 ff.; progressive attitude, 104-105. *See also* under Torguts
 
 Tokharian manuscripts, 97
 
@@ -7778,7 +7782,7 @@ Tukhumun Dugan, 180
 
 Tumbal, 57, 74
 
-Tumuli, of Mongolian steppe, 184. *See also*, Barrows, Graves, Mazars, Stupas
+Tumuli, of Mongolian steppe, 184. *See also*, Barrows, Graves, Mazars, *Stupas*
 
 Tum-mo, 474 ff.
 
@@ -7798,7 +7802,7 @@ Turquoise, 256, 348-349, 417, 460
 
 Turu-baihu, 248
 
-Tushe-Gun Lama. See Ja Lama
+Tushe-Gun Lama. *See* Ja Lama
 
 Tuya bushes, 203
 
@@ -7812,15 +7816,15 @@ Cdzen-Wang, 182-183
 
 Uighur art, 98, 99
 
-Ulan Bator Khoto, see Urga
+Ulan Bator Khoto, *see* Urga
 
 Uliassutai, captured by Ja Lama, 227; his head displayed in square, 233
 
 Undiir-Gegcn, 153
 
-Uplands of Tibet, see Tibetan uplands
+Uplands of Tibet, *see* Tibetan uplands
 
-Urga, Mongolia, 134, 178; administration, 136 ff.; Bogdo ula, 134; dog packs, 141 if.; electric light, 138.; Ganden Monastery, 107, 160; history, 134-137, 227 ff., 232; Ikhe-küren, 153 fF. Maidari procession, 136, 163; Manjushri-kit monastery, 135, 163; national and state institutions, 139-142, 149 ff., 163; population, 136 ff., 145 ff.; sanitation, 141; trade, 140 ff.
+Urga, Mongolia, 134, 178; administration, 136 ff.; Bogdo ula, 134; dog packs, 141 if.; electric light, 138.; Ganden Monastery, 107, 160; history, 134-137, 227 ff., 232; Ikhe-küren, 153 fF. Maidari procession, 136, 163; Mañjushri-kit monastery, 135, 163; national and state institutions, 139-142, 149 ff., 163; population, 136 ff., 145 ff.; sanitation, 141; trade, 140 ff.
 
 Urumchi, Hsin-chiang, 1 15-122
 
@@ -7852,7 +7856,7 @@ Vulur Lake, 6
 
 Wahaba Wanganu, 7
 
-Wall paintings, see Frescoes
+Wall paintings, *see* Frescoes
 
 Walls, 428, 487: *See also* Mani~
 
@@ -7878,9 +7882,9 @@ Willesden tents, 5
 
 Willows, II, 50 ff., 482
 
-Windstorms, see Storms
+Windstorms, *see* Storms
 
-Wines, see Ardki* Barley, Chang
+Wines, *see* Ardki* Barley, Chang
 
 Wolves, 43, 183, 204, 253, 254, 309
 
@@ -7900,7 +7904,7 @@ Yang-lde-jo, 13
 
 Yang Tseng'hsin, 67, 89, 106; meeting with 117 ff., 121; policies, 118; statue in own honor, 121
 
-Yang-tze, see Dri-chu
+Yang-tze, *see* Dri-chu
 
 Yangi-shahr, 63
 
