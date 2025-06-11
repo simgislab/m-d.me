@@ -14,15 +14,15 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-Turns out there is no good text version of Roerich's Trails to Inmost Asia. PDFs are not usable for annotating and shared work and contain tons of errors. So here it is.
+Turns out there is no good text version of Roerich's Trails to Inmost Asia. Available PDFs and Internet Archive TXT files are not usable for annotating and shared work and contain tons of errors. So here it is.
 
 * Based on [Internet Archive version](https://archive.org/details/in.ernet.dli.2015.43990) Roerich's book in TXT format.
 * Excessive line breaks removed to adapt for larger screens.
 * Page numbers are preserved for easy reference.
 * Lots of small edits and formatting.
-* [Google Docs version](https://docs.google.com/document/d/1ZvcCOrRze3yLZ7HC0lz-M40sQmiLVOqX7Nz8g7ZXY9s/edit?usp=sharing) - use to download as DOC or PDF or copy for your work online.
+* [Google Docs version](https://docs.google.com/document/d/1ZvcCOrRze3yLZ7HC0lz-M40sQmiLVOqX7Nz8g7ZXY9s/edit?usp=sharing) - use to download as DOC or PDF or make a copy for your work online.
 
-## The Book
+## Book start
 
 TRAILS TO INMOST ASIA
 
@@ -84,7 +84,7 @@ From Tibet, George Roerich brings back a scientific picture of the life and civi
 
 A most interesting discovery rewarded the efforts of the explorers. On the uplands of Tibet and in the country of the Trans-Himalayas, the expedition carefully studied and photographed many monuments (cromlechs, alinements, menhirs) whose existence had never before been recorded and whose structure evokes most interesting comparisons with our western monuments, especially those of Brittany.
 
-Because of his knowledge of the languages and customs of the countries, George Roerich visited Buddhist monasteries, usually completely forbidden to strangers; he discovered a complete collection of the sacred books of die Bön-po religion, three hundred volumes, which constitute an inestimable treasure for the history of religions and oriental research.
+Because of his knowledge of the languages and customs of the countries, George Roerich visited Buddhist monasteries, usually completely forbidden to strangers; he discovered a complete collection of the sacred books of the Bön-po religion, three hundred volumes, which constitute an inestimable treasure for the history of religions and oriental research.
 
 During these five years. Professor Nicholas Roerich painted nearly five hundred pictures; the collection presents a unique panorama of the least-known regions of the great Asiatic continent.
 
@@ -102,19 +102,19 @@ Louis Marin
 
 INNER Asia with its towering mountain ranges and limitless deserts and steppes, a country of great climatic extremes, and the cradle of hardy nomad tribes that once shook the frontiers of China and of the Near Eastern countries, has always been an endless lure to the explorer. In the past a brilliant line of men inaugurated the fight for geographical discoveries in the forbidden lands of Asia. The story of their achievement is one of the most fascinating pages in the history of such explorations. Besides securing valuable scientific information and opening new regions for the progress of humanity, they upheld that spirit of adventure to which our civilization owes its spread. Their example made it possible for others to continue the hazardous task of conquest of distant and unknown lands.
 
-In inner Asia we are able to survey one of the grandest mountain systems of the world; to journey for months across waterless deserts of sand dnd stone and upland plains; and to study the vestiges of a past culture that once linked ancient China with the countries of the Mediterranean basin.
+In inner Asia we are able to survey one of the grandest mountain systems of the world; to journey for months across waterless deserts of sand and stone and upland plains; and to study the vestiges of a past culture that once linked ancient China with the countries of the Mediterranean basin.
 
 The vast, undrained area of inner Asia is buttressed on the south by the mighty Trans-Himalayas, and the bleak highlands of the successive ranges of the Karakorum. Its northern frontier is formed by the Altai and the mountain chains along the southern rim of the Siberian lowlands. To the east and west this great inner basin is open, toward vast expanses of desert and steppe that comprise the Great Mongolian Gobi and the steppe lands of Russian Turkestan.
 
 This inner region of Asia the Roerich Central Asian Expedition, under the leadership of Professor Nicholas Roerich, traveled and explored for almost five successive years. The chief object of the expedition was to create a pictorial record of lands and peoples of inner Asia; the five hundred paintings by Professor Roerich, brought back by the expedition and now on permanent exhibition in the Roerich Museum at New York, constitute a unique achievement of this purpose.
 
-The second object of the expedition was to survey the possibilities for new archaeological explorations and thus to prepare the way for future enterprises in die same region.
+The second object of the expedition was to survey the possibilities for new archaeological explorations and thus to prepare the way for future enterprises in the same region.
 
 The third object was to secure an extensive collection of ethnographi-
 
 <a id="xii">**xii**</a>
 
-cal and linguistic material, illustrating the culture of these regions. During its long journey along the T'ien Shan, the steppe region of Jungaria, the Altai, the mountains of southwestern Mongolia, and the highlands of Tibet, the expedition surveyed numerous archaeological sites; and it is hoped that another expedition may be mustered to carry out extensive excavations of vast necropoli left by nomad tribes, which date back to the period between the &st and eighth centuries A.D. A large collection of Tibetan and Mongolian books was gathered during the expedition's stay in Mongolia and Tibet.
+cal and linguistic material, illustrating the culture of these regions. During its long journey along the T'ien Shan, the steppe region of Jungaria, the Altai, the mountains of southwestern Mongolia, and the highlands of Tibet, the expedition surveyed numerous archaeological sites; and it is hoped that another expedition may be mustered to carry out extensive excavations of vast necropoli left by nomad tribes, which date back to the period between the first and eighth centuries A.D. A large collection of Tibetan and Mongolian books was gathered during the expedition's stay in Mongolia and Tibet.
 
 In sending out this expedition into the field, the Trustees of the Roerich Museum felt the growing necessity of an active American participation in a work which for several decades had attracted the attention of prominent scientists in Great Britain, France, Germany, Japan, and Russia.
 
@@ -166,7 +166,7 @@ II. From Leh to Khotan. The Great Karakorum Route 33
 
 III. Khotan 59
 
-IV. Khotan-Kashgar 79
+IV. Khotan --- Kashgar 79
 
 V. The Great Northern Highway to Urumchi 93
 
@@ -188,15 +188,15 @@ XIII. Across Tsaidam 259
 
 XIV. The Great Tibetan Upland 279
 
-XV. At the Gates of Tibet. The Detention at Chu-NaKhe and the Peril of the Caravan 303
+XV. At the Gates of Tibet. The Detention at Chu-Na-Khe and the Peril of the Caravan 303
 
 XVI. The Hor-pas AND Their Country 331
 
-XVII. Nao-chu-ka 373
+XVII. Nag-chu-ka 373
 
 XVIII. The Region of the Great Lakes --- Nag-chu Dzong --- Saga Dzong 399
 
-XIX. From Saga Dzong TO Sikkim 447
+XIX. From Saga Dzong to Sikkim 447
 
 Index 491
 
@@ -210,9 +210,9 @@ Srinagar, Kashmir 8
 
 Sonamarg, Kashmir 8
 
-*Maitreya on the Road* Painting by Nicholas Roerich. Roerich Museum, New York 9
+*Maitreya on the Road* 9 Painting by Nicholas Roerich. Roerich Museum, New York
 
-*Royal Palace at Leh* Painting by Nicholas Roerich. Roerich Museum, New York 24
+*Royal Palace at Leh* 24 Painting by Nicholas Roerich. Roerich Museum, New York
 
 Stone image of Maitreya at Mulbe, Ladak 25
 
@@ -222,7 +222,7 @@ Professor Nicholas Roerich At work in the Raja's Palace in Leh, Ladak 30
 
 The Tik-tse Monastery, Ladak 30
 
-*The Monastery of Sheh, Ladak* Painting by Nicholas Roerich. Roerich Museum, New York 31
+*The Monastery of Sheh, Ladak* 31 Painting by Nicholas Roerich. Roerich Museum, New York
 
 Crossing the Khardong La 46
 
@@ -336,7 +336,7 @@ Lama musicians, Urga 157
 
 Lama dances in Urga 157
 
-Altar with painted image of dPal-Idan Ye-shes, the third Tashi Lama of Tibet (1740-80), Roerich Museum, New York 158
+Altar with painted image of dPal-ldan Ye-shes, the third Tashi Lama of Tibet (1740-80), Roerich Museum, New York 158
 
 Temple of Maitreya, Urga 159
 
@@ -406,7 +406,7 @@ Tsaidam Mongol woman 269
 
 A Tsaidam Mongol 269
 
-*The Thang La* Painting by Nicholas Roerich. Roerich Museum, New York 290
+*The Thang La* 290 Painting by Nicholas Roerich. Roerich Museum, New York
 
 Before the Thang La 291
 
@@ -446,19 +446,19 @@ Brass buckle, Ching-kar, Nam-ru District, North Tibet 368
 
 Flint pouch, Lahul, West Tibet From the collection of S. N. Roerich 368
 
-Eker on brass charm box From the collection of S. N. Roerich 369
+Deer on brass charm box From the collection of S. N. Roerich 369
 
 *To face page*
 
 Photograph of deer on brass charm box 369
 
-Conventionalized figure of deer on silvered iron pen case From the collection of S. N. Roerich 370
+Conventionalized figure of deer on silvered iron pen case 370 From the collection of S. N. Roerich
 
 Photograph of deer on silvered iron pen case 370
 
-Metal plaque from Derge From the S. N. Roerich collection 371
+Metal plaque from Derge 371 From the S. N. Roerich collection
 
-Metal plaque from the Noin ula Mountains From the Kozlov finds 371
+Metal plaque from the Noin ula Mountains 371 From the Kozlov finds
 
 Conventionalized figure of swan (end piece) 372
 
@@ -488,7 +488,7 @@ Crossing the Tarkö tsang-po 417
 
 The expedition column approaching the Trans-Himalayas 417
 
-*Kinchenjunga --- The Mountain of the Five Treasures* Painting by Nicholas Roerich, White House, Washington, D.C. 444
+*Kinchenjunga --- The Mountain of the Five Treasures* 444 Painting by Nicholas Roerich, White House, Washington, D.C.
 
 <a id="xx">**xx TRAILS TO INMOST ASIA**</a>
 
@@ -510,17 +510,17 @@ Tingri 476
 
 Shekar dzong 476
 
-*Stupa at Chung-tü* Painting by Nicholas Roerich. Roerich Museum^ New York 477
+*Stupa at Chung-tü* 477 Painting by Nicholas Roerich. Roerich Museum, New York
 
 *To face page*
 
-*Royal Monastery of Chung-tü, near Sa-skya* Painting by Nicholas Roerich. Roerich Museum, New York 482
+*Royal Monastery of Chung-tü, near Sa-skya* 482 Painting by Nicholas Roerich. Roerich Museum, New York
 
 Kampa dzong 483
 
 Kampa dzong 483
 
-*Ling-kar* Painting by Nicholas Roerich. Roerich Museum, New York 486
+*Ling-kar* 486 Painting by Nicholas Roerich. Roerich Museum, New York
 
 Lepcha hillman, Sikkim 487
 
@@ -540,7 +540,7 @@ Early in the morning the train rolled into the large station of Sealdah. A trave
 
 The hot season was already approaching and a peculiar and intense glare hung over the horizon.
 
-On the evening of the eighth of March we reached Rawalpindi Several hours before the cantonment, the train traversed an arid country of sand and stone, cut into numerous canyons. After i night spent at a lo-
+On the evening of the eighth of March we reached Rawalpindi Several hours before the cantonment, the train traversed an arid country of sand and stone, cut into numerous canyons. After a night spent at a lo-
 
 <a id="4">**4 TRAILS TO INMOST ASIA**</a>
 
@@ -548,19 +548,19 @@ cal hotel at Rawalpindi we again resumed our route, but this time in motor cars.
 
 The motor road to Srinagar through Murree has been so often described that I need not dwell too long on this portion of our journey. It is one of the finest motor roads in the world, and the scenery is at times magnificent. Rising gradually, at Murree the road reaches the altitude of some seven thousand feet above sea level.
 
-We spent the night in the resthouse at Garhi, a small village on Kashmir territory at an altitude of 2,628 feet. In the evening we admired the Mohammedan festival of Bakr-Id, when the whole countryside was acclaiming the advent of the spring. Flaming circles of men brandishing torches were moving about the hillside on the opposite river bank, and above them towered the somber silhouettes of the mountains. An unforgettable picture of Indian spring!
+We spent the night in the resthouse at Garhi, a small village on Kashmir territory at an altitude of 2,628 feet. In the evening we admired the Mohammedan festival of *Bakr-Id*, when the whole countryside was acclaiming the advent of the spring. Flaming circles of men brandishing torches were moving about the hillside on the opposite river bank, and above them towered the somber silhouettes of the mountains. An unforgettable picture of Indian spring!
 
 Next morning brought us to Uri, a picturesque village and fort situated at an altitude of 4,370 feet. The mountain landscape near Uri was of outstanding beauty; patches of snow intensified the deep blue coloring of the surrounding mountains. After Uri, we passed the ruined temple of Brankutri, similar to the other temples of Kashmir dating back to the Indian Middle Ages. About noon we drove through the small town of Baramulla. The day was beautifully clear and we obtained a fine view of the Nanga Parbat, towering to a height of 26,900 feet.
 
 For the few miles outside of the city of Srinagar, there runs one of the most beautiful drives in the world, bordered with rows of high poplars. All around lies the famous Kashmir Valley, engirded by lofty snowy mountains.
 
-About three o'clock in the afternoon we drove into the native city of Srinagar, and were at once assailed by a motley crowd of Kashmiris, yelling and crying, abusing each other, offering goods: Kashmiri products, houseboats, shikaras, and other attractions of Kashmir. It was a sad sight.
+About three o'clock in the afternoon we drove into the native city of Srinagar, and were at once assailed by a motley crowd of Kashmiris, yelling and crying, abusing each other, offering goods: Kashmiri products, houseboats, *shikaras*, and other attractions of Kashmir. It was a sad sight.
 
 We established our headquarters at the Nedou Hotel and at once began our preparation for the journey to Ladak and the desert lands of Chinese Turkestan, lying beyond the lofty passes of the Karakorum
 
 **5 KASHMIR-LADAK**
 
-and Sanju. A difficult and long mountain journey necessitates protracted preparations and every detail must be thoroughly checked personally; a journey such as that from Kashmir to Chinese Turkestan over die highest mountain route in the world, requires unusual forethought and careful consideration. Srinagar is the last place where such preparations can be made and food supplies obtained. The Kashmiri artisans are famed for their work and, if supervised, turn out serviceable equipment. There are a number of native firms in the city which produce excellent winter outfits and camping furniture. Naturally, the traveler must keep a watchful eye on the execution of his order. All the expedition supplies had to be packed in yaghtans or wooden boxes covered with leather. Tin or iron boxes are of no use in mountain travel, for they easily break.
+and Sanju. A difficult and long mountain journey necessitates protracted preparations and every detail must be thoroughly checked personally; a journey such as that from Kashmir to Chinese Turkestan over the highest mountain route in the world, requires unusual forethought and careful consideration. Srinagar is the last place where such preparations can be made and food supplies obtained. The Kashmiri artisans are famed for their work and, if supervised, turn out serviceable equipment. There are a number of native firms in the city which produce excellent winter outfits and camping furniture. Naturally, the traveler must keep a watchful eye on the execution of his order. All the expedition supplies had to be packed in *yaghtans* or wooden boxes covered with leather. Tin or iron boxes are of no use in mountain travel, for they easily break.
 
 The winter outfit for the cold weather on the mountain passes and the winter in Chinese Turkestan consisted of fur coats lined with *pashmina*, Gilgit fur boots, fur caps, fur socks, and fur sleeping bags. We also ordered several tents of waterproof Willesden canvas with warm pattoo lining. These tents had to be specially constructed to withstand the rough traveling and the mountain gales. They consisted of two flies, the outer fly reaching the ground to prevent the strong wind of the higher uplands from penetrating beneath and lifting the tent. The tent poles were of thick bamboo with strong metal joints, and the tent pegs of galvanized iron.
 
@@ -578,7 +578,7 @@ have been studied and commented upon by such men as Sir Aurel Stein.
 
 Comparing the beauties of nature, and the unique gardens of Nishad and Shalimar laid out by the Great Moguls Akbar and Jehangir with the sad realities of the native city of Srinagar, one is always struck by the deep contrast. We were glad to leave the "Indian Venice" and to feel ourselves again in the open country of the beautiful valley. We hired a large house boat, *The Monarch*, belonging to a sympathetic Kashmiri, Sobra Wanganu, and started for a short trip to Vulur Lake.
 
-The trip along the channels offers little of interest. The boat slowly moves past low-lying banks. The water channels are narrow and the water not always clear. The big lake of Vulur lies engirded by high mountain ranges and in fine weather wonderful shadows play on the mountain sides. We landed at Bandipur, a small village with some commissariat barracks, lying at the head of the Gilgit Road that leads across Gilgit, Hunza, and Sarikol to Kashgar and the Tarim basin. We experienced a violent windstorm on the lake, which broke all the ropes by which the boat was secured to the shore and almost carried it away into the open. The boatmen spent several anxious hours fighting the storm. The house boats are not seagoing and never venture into the open in windy weather. The dunga boat, in which our Chinese interpreter and servants wae staying, had its roof carried away by the wind. Since boatmen considered our position very unsafe, we had to curtail our visit on the lake.
+The trip along the channels offers little of interest. The boat slowly moves past low-lying banks. The water channels are narrow and the water not always clear. The big lake of Vulur lies engirded by high mountain ranges and in fine weather wonderful shadows play on the mountain sides. We landed at Bandipur, a small village with some commissariat barracks, lying at the head of the Gilgit Road that leads across Gilgit, Hunza, and Sarikol to Kashgar and the Tarim basin. We experienced a violent windstorm on the lake, which broke all the ropes by which the boat was secured to the shore and almost carried it away into the open. The boatmen spent several anxious hours fighting the storm. The house boats are not seagoing and never venture into the open in windy weather. The *dunga* boat, in which our Chinese interpreter and servants were staying, had its roof carried away by the wind. Since boatmen considered our position very unsafe, we had to curtail our visit on the lake.
 
 The next day proved to be fine and we had enough time to recross the lake into the channel. The afternoon was stormy again, but we were not affected by it.
 
@@ -588,29 +588,29 @@ About the fifteenth of April, we moved to Gulmarg, the hill station of Kashmir. 
 
 At Gulmarg we spent the whole of May, June, and July. By the end of July we had received all our outfit and, on the eighth of August, the expedition left Gulmarg for Ganderbal on its long journey to Ladak and Chinese Turkestan.
 
-Ganderbal is conveniently reached by motor cars. It is the starting point of the Ladak Treaty Route. Our caravans consisted of eighty-two pack ponies which were to carry our loads up to Dras on the Ladak side 0^ the Zoji Pass - an alarming number considering the difficulties of obtaining sufficient forage.
+Ganderbal is conveniently reached by motor cars. It is the starting point of the Ladak Treaty Route. Our caravans consisted of eighty-two pack ponies which were to carry our loads up to Dras on the Ladak side of the Zoji Pass --- an alarming number considering the difficulties of obtaining sufficient forage.
 
 We reached Ganderbal late in the evening of the same day, and found our caravan men already camping in the courtyard of the resthouse. Great camp fires illumined the faces of the men and the long rows of caravan animals.
 
 Next morning, August 9, we rose early but were somewhat delayed by the unloading of the supplies from the boats which had carried them from Srinagar. The men were new to caravan work and had to be directed in every detail. Our headman, Wahaba Wanganu, was a cold-blooded and remarkably efficient man who kept the rest of the expedition servants well in hand.
 
-Late in the afternoon the whole caravan moved out of Ganderbal. We drove by motor as far as the little village of Nunner, then moxmted our horses and crossed the Sindh near Wayil. The route follows the right bank of the river for about two miles, and it was a pleasant ride past flowering meadows.
+Late in the afternoon the whole caravan moved out of Ganderbal. We drove by motor as far as the little village of Nunner, then mounted our horses and crossed the Sindh near Wayil. The route follows the right bank of the river for about two miles, and it was a pleasant ride past flowering meadows.
 
 Kangan is a small village with a large bungalow, where we found several other travelers. The route from Kangan to Baltal at the foot of Zoji Pass has been often described, and I shall limit myself to a few comments.
 
-The Leh Treaty Route was made passable for peaceful caravans by the efforts of Colonel Durand's column in 1891. The Kashmir State takes a great interest in this route, and the transport and supplies are carefully organized. State granaries and spacious serais or resthouses for trading caravans are maintained at various stages along the route.
+The Leh Treaty Route was made passable for peaceful caravans by the efforts of Colonel Durand's column in 1891. The Kashmir State takes a great interest in this route, and the transport and supplies are carefully organized. State granaries and spacious *serais* or resthouses for trading caravans are maintained at various stages along the route.
 
-The route passes Gund and Sonamarg, the summer camping ground of many European visitors. Fine weather accompanied us up to Sonamarg. At Gimd we had a sad experience with our horses which only by a lucky chance did not prove fatal to them. All along the route from Ganderbal to Baltal is a kind of poisonous grass, locally called *gumai*. The horses of the region never touch it, but strange horses often eat it
+The route passes Gund and Sonamarg, the summer camping ground of many European visitors. Fine weather accompanied us up to Sonamarg. At Gund we had a sad experience with our horses which only by a lucky chance did not prove fatal to them. All along the route from Ganderbal to Baltal is a kind of poisonous grass, locally called *gumai*. The horses of the region never touch it, but strange horses often eat it
 
-**8 TRAILS TO IMOST ASIA**
+**8 TRAILS TO INMOST ASIA**
 
-and perish. Through die negligence of our syces, four of our best horses ate some of this grass and fell ill in the evening. We tried our best to hdp them, but their condition rapidly grew worse. All local remedies were without avail. Finally, we decided to give them a good dose of bicarbonate of soda. This worked wonders. By the next morning all four of the animals were all right and were able to proceed to Sonamarg.
+and perish. Through the negligence of our syces, four of our best horses ate some of this grass and fell ill in the evening. We tried our best to help them, but their condition rapidly grew worse. All local remedies were without avail. Finally, we decided to give them a good dose of bicarbonate of soda. This worked wonders. By the next morning all four of the animals were all right and were able to proceed to Sonamarg.
 
 On the road we met the first party of Ladakis on their way to Srinagar. They were dressed in the usual gray homespun --- the universal clothing of Tibetan laity. Soon after our arrival at Sonamarg, which is situated at an altitude of some 8,600 feet, it began to rain heavily and continued to do so for the whole night. We had to stay at the dak bungalow for the entire morning, starting only about two o'clock in the afternoon, after the rain had subsided somewhat. Sonamarg, said to be the loveliest spot in Kashmir, did not strike us as a place of exceptional natural beauty. We saw some fine meadows surrounded on all sides with pine forests, but the neighboring mountains were hidden behind an impenetrable veil of mist and clouds that hovered over the peaks.
 
 The trail was slippery and our pack animals had a hard time on it. After three hours' march, we reached Baltal, situated amid a birch and pine forest. The bungalow was occupied by visitors from Srinagar, and we preferred to pitch our own camp on a fine meadow outside the resthouse.
 
-The rain started again toward evening and continued for the rest of the night. In the early morning a party of Balti pony men arrived from the pass and reported a landslide there. This bad news m^ant that we would have to stay for the day at Baltal and send up men to clear the road of the debris. We sent our chief shi\an, Satar Khan, and ten of our pony men out to the pass with spades to repair the trail. Toward noon the rain started again with renewed force and the dismal weather continued until late into the evening. Everything was wet and we had to take the greatest precautions to keep our boxes with food supplies dry. Our men returned toward evening, and reported that the road was clear but that several other places were threatened by avalanches if the rain continued. Luckily for us it stopped toward evening, and by five o'clock in the morning the sky was beautifully clear.
+The rain started again toward evening and continued for the rest of the night. In the early morning a party of Balti pony men arrived from the pass and reported a landslide there. This bad news meant that we would have to stay for the day at Baltal and send up men to clear the road of the debris. We sent our chief *shikari*, Satar Khan, and ten of our pony men out to the pass with spades to repair the trail. Toward noon the rain started again with renewed force and the dismal weather continued until late into the evening. Everything was wet and we had to take the greatest precautions to keep our boxes with food supplies dry. Our men returned toward evening, and reported that the road was clear but that several other places were threatened by avalanches if the rain continued. Luckily for us it stopped toward evening, and by five o'clock in the morning the sky was beautifully clear.
 
 The route from Ganderbal to Baltal runs though a typical Kashmir mountain country with well-watered hillsides, receiving plenty of mois-
 
@@ -628,33 +628,33 @@ PAINTING BY NICHOLAS ROERICH
 
 ture and covered with luxuriant meadows and pine forests. The great change comes only after the Zoji Pass. We started about six o'clock in the morning and slowly ascended the pass. It presents no difficulty in late summer or autumn. But in winter it is dangerous, and practicable only for men, for its avalanche-swept slopes are covered with ice and snow which may at any time give way and carry the traveler down the precipice. Traffic is closed for the whole of winter and during early spring, during which time the traveler has to pay special rates to the coolies who agree to face the peril on the summit of the pass.
 
-The Zoji La route was already known in ancient times. The first mention of the route is made by the Chinese pilgrim Wu-k'ung who visited Kashmir between 751-790 A.D. and mentions the route to Tibet across the Zoji Pass.(1) It has witnessed numerous conflicts in the past. In the fourteenth century came the Turks and shortly after them, the Ladaki Prince Rin-chen, who swept into the Kashmir Valley.(2) In 1532 A.D. the f^ous Mirza Mohammad Haidar entered the valley of Kashmir and successfully fought near the pass. (3)
+The Zoji La route was already known in ancient times. The first mention of the route is made by the Chinese pilgrim Wu-k'ung who visited Kashmir between 751-790 A.D. and mentions the route to Tibet across the Zoji Pass.(1) It has witnessed numerous conflicts in the past. In the fourteenth century came the Turks and shortly after them, the Ladaki Prince Rin-chen, who swept into the Kashmir Valley.(2) In 1532 A.D. the famous Mirza Mohammad Haidar entered the valley of Kashmir and successfully fought near the pass.(3)
 
-The Zoji Pass (11,300 feet) possesses another name of Du-shi-la (dus-bshi-la). According to the Rev. Dr. A. H. Francke ,4 the name is a contracted form of the name of the goddess Du-shi lha-mo, the wife of the *siddha* Naropa. According to the popular story related by Dr. Francke, Naropa had to leave her behind because of her Kashmiri smell. The goddess, in disgust, turned her back upon Ladak, and this caused Ladak to dry up and Kashmir to become a verdant valley.
+The Zoji Pass (11,300 feet) possesses another name of Du-shi-la (dus-bshi-la). According to the Rev. Dr. A. H. Francke (4) the name is a contracted form of the name of the goddess Du-shi lha-mo, the wife of the *siddha* Naropa. According to the popular story related by Dr. Francke, Naropa had to leave her behind because of her Kashmiri smell. The goddess, in disgust, turned her back upon Ladak, and this caused Ladak to dry up and Kashmir to become a verdant valley.
 
 On ascending the pass, the landscape changed completely. We now entered the typical Tibetan mountain country. Barren mountain ridges rose on both sides and between them lay a broad upland plain covered by stone bowlders and scant grazing lands.
 
-At Mitsahoi, on the ninth mile, we stopped for an hour and then resumed our march toward the broad plain on which lies the resthouse of Matayan. The day had become overcast and heavy gray clouds hung over the mountain peaks. The last six miles to Matayan we rode in a pouring rain that made the path slippery, and we were glad to reach die resthouse and camp for the night.
+At Mitsahoi, on the ninth mile, we stopped for an hour and then resumed our march toward the broad plain on which lies the resthouse of Matayan. The day had become overcast and heavy gray clouds hung over the mountain peaks. The last six miles to Matayan we rode in a pouring rain that made the path slippery, and we were glad to reach the resthouse and camp for the night.
 
 Next day we continued our march to Dras. Passing through the
 
-1. Cf. Chavannes and Levi, "L'Itineraire d'Ou k'ong," *Journal Asiat*. (1895), pp. 341-384; Stein, *Ancient Geography of Kashmir*, p. 93.
+1\. Cf. Chavannes and Levi, "L'Itineraire d'Ou k'ong," *Journal Asiat*. (1895), pp. 341-384; Stein, *Ancient Geography of Kashmir*, p. 93.
 
-2. Cf. A. H. Francke, *A History of Western Tibet*, pp. 68 ff.
+2\. Cf. A. H. Francke, *A History of Western Tibet*, pp. 68 ff.
 
-3. *Tarikh-i-Rasidi*, tr. Elias and Ross, pp. 423 ff.
+3\. *Tarikh-i-Rasidi*, tr. Elias and Ross, pp. 423 ff.
 
-4. *Antiquities of Indian Tibet*, I, 107.
+4\. *Antiquities of Indian Tibet*, I, 107.
 
 **10 TRAILS TO INMOST ASIA**
 
 small hamlet of Prandes we saw several homesteads, surrounded by barley fields, which looked like small strongholds. After an hour's ride from Prandes, we entered the open valley of Dras.
 
-Dras, properly speaking, is a series of small hamlets scattered over the broad valley watered by the Dras River. The population consists of Dards and Balds.
+Dras, properly speaking, is a series of small hamlets scattered over the broad valley watered by the Dras River. The population consists of Dards and Baltis.
 
 Near to the bungalow stands the modern Dogra Fort. Ruins of several old strongholds are scattered over the valley and the foot of the hills. The Tibetan name for Dras is Hembabs. The altitude is about 10,000 feet.
 
-For me the chief interest in Dras lay in the Buddhist stone sculptures, found on the roadside outside the villages of Dras. They are four in all and have been described by Sir Alexander Cunningham, who took them to represent female deities, and by Dr. Francke, who correctly described them in his *Antiquities of Indian Tibet* (5) The first small stone represents a figure of a horseman, probably the portrait of a local raja who erected the two bodhisattva images as recorded in the Sharada inscription on the reverse of the stone. The stone next to the first one represents the Bodhisattva Maitreya. The Bodhisattva is represented standing and attired in the princely costume of a rajakumara or royal prince. In his raised right hand he holds a rosary and his left hand supports a vase or bum-pa. On his head he wears the diadem (*mukuta*). Below the principal figure one sees figures of devotees. On the right corner of the stone there is a Sharada inscription, which is unfortunately very much damaged.
+For me the chief interest in Dras lay in the Buddhist stone sculptures, found on the roadside outside the villages of Dras. They are four in all and have been described by Sir Alexander Cunningham, who took them to represent female deities, and by Dr. Francke, who correctly described them in his *Antiquities of Indian Tibet* (5) The first small stone represents a figure of a horseman, probably the portrait of a local *raja* who erected the two bodhisattva images as recorded in the Sharada inscription on the reverse of the stone. The stone next to the first one represents the Bodhisattva Maitreya. The Bodhisattva is represented standing and attired in the princely costume of a *rajakumara* or royal prince. In his raised right hand he holds a rosary and his left hand supports a vase or *bum-pa*. On his head he wears the diadem (*mukuta*). Below the principal figure one sees figures of devotees. On the right corner of the stone there is a Sharada inscription, which is unfortunately very much damaged.
 
 I have already noticed elsewhere (6) that the cult of Maitreya was associated with the spread of Mahayana.
 
@@ -667,11 +667,11 @@ The fourth stone represents a lotus flower. Dr. Francke dates the images approxi
 At Dras we had to change our transport. This necessitated long nego-
 
 5\. I, 105 ff.
-6\. Tibetan Paintings (Geuthner: Paris, 1925).
+6\. *Tibetan Paintings* (Geuthner: Paris, 1925).
 
 **11 KASHMIR-LADAK**
 
-tiations with the local headmen, who had to supply pack animals. Thanks to the excellent organization of the relay service on the route, travelers usually find their transport ready for them. In our case we required at least seventy pack animals --- a large number for the scant population along the route. By the evening everything was settled, and pack horses and dzo (a crossbreed between a yak and a cow) began to pour into the dak bungalow's compound. In the morning we went through the usual "ceremony" of the distribution of our loads by the headmen among the pony drivers. Dark-turbaned men swarmed in the courtyard and the loading was accompanied by the usual loud cries and occasional wrangles. I must credit the Ladakis and Baltis with remarkably quick loading.
+tiations with the local headmen, who had to supply pack animals. Thanks to the excellent organization of the relay service on the route, travelers usually find their transport ready for them. In our case we required at least seventy pack animals --- a large number for the scant population along the route. By the evening everything was settled, and pack horses and *dzo* (a crossbreed between a yak and a cow) began to pour into the dak bungalow's compound. In the morning we went through the usual "ceremony" of the distribution of our loads by the headmen among the pony drivers. Dark-turbaned men swarmed in the courtyard and the loading was accompanied by the usual loud cries and occasional wrangles. I must credit the Ladakis and Baltis with remarkably quick loading.
 
 Leaving Dras, the trail skirts barley fields fenced by low stone walls, and descends toward the Dras River.
 
@@ -679,9 +679,9 @@ The small hamlet of Dundelthang was the scene of a recent tragedy. An American t
 
 The valley narrows and the path follows the left bank of the river that flows through a fine gorge. We reached Shimsha Kharbu late in the afternoon and camped for the night in the resthouse, pleasantly situated in a garden of willows. Above the bungalow stand the ruins of a castle said to have belonged to Khri Sultan of Sod, a place near Kargil. In Shimsha Kharbu, Ladakis are already more prominent.
 
-In the serai close to the bungalow we found a small caravan of Yarkend traders and some pilgrims from Kashgar on their way to distant Mecca. Since the Great War most of these pilgrims travel across the high passes of the Karakorum, and then through Bombay and by sea. Many die on these journeys, but a great many return to occupy an honored place in their communities.
+In the *serai* close to the bungalow we found a small caravan of Yarkend traders and some pilgrims from Kashgar on their way to distant Mecca. Since the Great War most of these pilgrims travel across the high passes of the Karakorum, and then through Bombay and by sea. Many die on these journeys, but a great many return to occupy an honored place in their communities.
 
-The next march brought us to the thriving little town of Kargil, the last big settlement in the Dard district. At Kharal there is a good suspension bridge. From here a road branches off to Skardo, and crosses the river, whereas the trail to Kargil follows up the bank of the Sum River.
+The next march brought us to the thriving little town of Kargil, the last big settlement in the Dard district. At Kharal there is a good suspension bridge. From here a road branches off to Skardo, and crosses the river, whereas the trail to Kargil follows up the bank of the Suru River.
 
 In Dong-ga, which is situated between Shimsha Kharbu and Chanigund, there is a bowlder with many carvings, representing ibex, archers, and swastika figures. These stone carvings are widespread over Ladak and the neighboring mountain countries and are found as far as
 
@@ -715,7 +715,7 @@ Mulbe boasts of an old Dard castle, two monasteries, and several important inscr
 
 From the outside, the image is hidden by trees and the chapel, but
 
-8\. Cf. ibid., I, 103 ff
+8\. Cf. *ibid.*, I, 103 ff
 
 9\. *Indian Antiquary*, XXXV, 72 ff.
 
@@ -733,13 +733,13 @@ The chapel contained some clay and brass images of Sakyamuni, the Teacher Padmas
 
 The housemaids were busy grinding barley and pressing oil on the flat roof of the house.
 
-From the landlord's house we proceeded up the steep crag to the monastery situated on its summit. It is a tiny temple of the usual Tibetan architecture, situated inside a small compound. The *lha-khang* is in charge of an aged priest. Inside the temple stands an altar with a gilded clay image of Padmasambhava. A small library containing the sixteen volumes of the Prajnaparamita or 'Bum is placed along the walls of the temple. This monastery belongs to the Dug-pa sect of the unreformed Nying-ma-pa School of Tibetan Buddhism.
+From the landlord's house we proceeded up the steep crag to the monastery situated on its summit. It is a tiny temple of the usual Tibetan architecture, situated inside a small compound. The *lha-khang* is in charge of an aged priest. Inside the temple stands an altar with a gilded clay image of Padmasambhava. A small library containing the sixteen volumes of the Prajñaparamita or 'Bum is placed along the walls of the temple. This monastery belongs to the Dug-pa sect of the unreformed Nying-ma-pa School of Tibetan Buddhism.
 
 Returning from the monastery, we examined the inscriptions carved on the rock surface. Among them there is an edict promulgated by the King 'Bum-lde and a wedding congratulation to King Jamyang ('Jam-dbyangs) and his queen.
 
 We made an early start next day in order to reach the next stage, Bod-Kharbu.
 
-The road leads across the Namike Pass, at an altitude of 13,000 feet; the ascent is very gradual and after crossing the pass, the trail leads into the valley of Kharbu, interesting for its many ruined castles that crown the barren summits of mountain spins. The place was the scene of con-
+The road leads across the Namike Pass, at an altitude of 13,000 feet; the ascent is very gradual and after crossing the pass, the trail leads into the valley of Kharbu, interesting for its many ruined castles that crown the barren summits of mountain spurs. The place was the scene of con-
 
 **15 KASHMIR-LADAK**
 
@@ -749,11 +749,11 @@ The valley bottom is watered by a small rivulet, the Tanjichu, and is covered by
 
 The old town of Kharbu, probably destroyed during the war waged by King Del-den rnam-rgyal against the Khri Sultan of Kartse (about 1620-30 A.D,) lies on the sandstone plateau above the village of Bod-Kharbu. (12) Above the ruined town stands the old castle of Kharbu, also in ruins.
 
-Outside the village in a narrow gorge is situated a small Buddhist temple or lha-khang. We found in it an old lama, worshiping several clay images, the one in the middle of the altar representing Spyan-ras-gzigs Thugs-rje-chen-po, Avalokitesvara, the Merciful Lord. The temple possessed no library of its own, except for some prayer manuals.
+Outside the village in a narrow gorge is situated a small Buddhist temple or *lha-khang*. We found in it an old lama, worshiping several clay images, the one in the middle of the altar representing Spyan-ras-gzigs Thugs-rje-chen-po, Avalokitesvara, the Merciful Lord. The temple possessed no library of its own, except for some prayer manuals.
 
 The next stage brought us to Lamayuru, the famous monastery on the Kashmir-Ladak route. A view of unique grandeur opens before the traveler from the summit of the Pho-tho La Pass, 14,000 feet above sea level --- a vast amphitheater of rugged mountains, sharp rocks, and distant snowy peaks.
 
-An hour's ride down the gradually descending slope, and the first *stupas*, standing at the entrance into the narrow gorge, emerge from behind a low sandy spur. On entering the narrow valley, an amazing scene presents itself. High up on steep sandstone rocks stands the picturesque lamasery of Lamayuru. Chorten and monastic cells cluster in the narrow folds of the cliffs. The steep sides of the cliffs are excavated with numerous caves used as storerooms and sometimes living quarters by the inhabitants of the village. Such cave villages are known to exist throughout Tibet and are especially noticeable in the western districts of the country. The present village of Lamayuru is situated at the foot of the cliffs and a little above the resthouse.
+An hour's ride down the gradually descending slope, and the first *stupas*, standing at the entrance into the narrow gorge, emerge from behind a low sandy spur. On entering the narrow valley, an amazing scene presents itself. High up on steep sandstone rocks stands the picturesque lamasery of Lamayuru. *Chorten* and monastic cells cluster in the narrow folds of the cliffs. The steep sides of the cliffs are excavated with numerous caves used as storerooms and sometimes living quarters by the inhabitants of the village. Such cave villages are known to exist throughout Tibet and are especially noticeable in the western districts of the country. The present village of Lamayuru is situated at the foot of the cliffs and a little above the resthouse.
 
 We spent an extra day at Lamayuru and visited the monastery. At present it belongs to the 'Bri-khung-pa sect of Lamaism. According to
 
@@ -761,11 +761,12 @@ We spent an extra day at Lamayuru and visited the monastery. At present it belon
 
 **16 TRAILS TO INMOST ASIA**
 
-the local monastic tradition, it was founded by the famous mahasiddha Naropa who lived in the ninth century A.D. and with whose name are associated many events in the church history of Ladak. The name of the monastery is said to be a corruption of gYung-drung or Svastika, the synonym of Bön, i.e., the primitive nature religion of Tibet. Dr. Francke relates the following legend about the name of the monastery:
+the local monastic tradition, it was founded by the famous *mahasiddha* Naropa who lived in the ninth century A.D. and with whose name are associated many events in the church history of Ladak. The name of the monastery is said to be a corruption of *gYung-drung* or Svastika, the synonym of Bön, i.e., the primitive nature religion of Tibet. Dr. Francke relates the following legend about the name of the monastery:
 
-> When Naropa . . . arrived at the site the whole valley was filled with a lake which he caused to dry up. The monastery received its name from a plantation of sacrificial grain which miraculously grew into the shape of the Svastika (*gYung-drung*). It is interesting that there are traces of deposits of a former lake all around the mountains of Lamayuru, and it is strange that Drew in his book does not make any mention of them. But the Ladakis must really have a geological instinct, to be able to invent stories of this kind. They have also tales of the existence of former lakes at Leh and at Triloka-nath in Lahul. The name gYung-drung was of course not given by Naropa, but must date back to a time long before he arrived in the country, as it was then the foremost place of the Bön religion which is called gYung-drung Bön. (13)
+> When Naropa . . . arrived at the site the whole valley was filled with a lake which he caused to dry up. The monastery received its name from a plantation of sacrificial grain which miraculously grew into the shape of the Svastika (*gYung-drung*). It is interesting that there are traces of deposits of a former lake all around the mountains of Lamayuru, and it is strange that Drew in his book does not make any mention of them. But the Ladakis must really have a geological instinct, to be able to invent stories of this kind. They have also tales of the existence of former lakes at Leh and at Triloka-nath in Lahul. The name *gYung-drung* was of course not given by Naropa, but must date back to a time long before he arrived in the country, as it was then the foremost place of the Bön religion which is called *gYung-drung* Bön. (13)
 
-We visited the *du-khang* or assembly hall in which some twenty monks were reciting prayers --- the library of the monastery containing a Känjür and Tänjür of the Narthang print --- and the small courtyard in which the religious dances take place.
+We visited the *du-khang* or assembly hall in which some twenty monks were reciting prayers --- the library of 
+the monastery containing a *Känjür* and *Tänjür* of the Narthang print --- and the small courtyard in which the religious dances take place.
 
 The Incarnate Lama of Lamayuru was away, and we were allowed to visit his living rooms, which were, as usual, neat and orderly.
 
@@ -773,7 +774,7 @@ According to the lamas of the monastery, the oldest part of the convent is the t
 
 We also paid a visit to a ruined Bön sanctuary, referred to by Dr. Francke. (15) Unfortunately the frescoes that once adorned the walls of the edifice were in a very dilapidated condition and one could hardly identify the images represented on them.
 
-On the twenty-third of August we broke camp and started on our further journey, hoping to reach the hamlet of Nuria in one day's march.
+On the twenty-third of August we broke camp and started on our further journey, hoping to reach the hamlet of Nurla in one day's march.
 
 13\. Francke, *A History of Western Tibet*, p. 96.
 
@@ -787,11 +788,11 @@ The trail is rather bad. In several places one has to cross avalanche-swept slop
 
 Khalatse, the old Dard center, is known for its antiquities, and Dr. A. H. Francke has recorded most of them (16) in several of his articles and books. It was formerly a Dard colony, and there still exists here a ruined Dard castle. The Ladak king Lha-chen Nag-lug (1150-75 A.D.) built the important castle of Brag-nag, whose ruins still tower over the village. Dr. Francke has discovered a number of old Kharoshthi, Brahmi and Gupta inscriptions, which present many difficulties to the decipherer.
 
-The modern village of Khalatse is pleasantly situated among apricot groves. After a brief halt at the village, we continued our march toward Nuria (sNyur-la). The trail leads over a stony level ground. The heat in midday was intense. We reached sNyur-la in the afternoon and took up quarters for the night in the small resthouse of the place.
+The modern village of Khalatse is pleasantly situated among apricot groves. After a brief halt at the village, we continued our march toward Nurla (sNyur-la). The trail leads over a stony level ground. The heat in midday was intense. We reached sNyur-la in the afternoon and took up quarters for the night in the small resthouse of the place.
 
 The march from sNyur-la to Saspola leads across a barren country almost entirely devoid of vegetation. Saspola itself is a large village with numerous tree groves. Across the Indus, some two miles distant, lies the interesting monastery of Alchi, one of the oldest convents of Ladak. This monastery dates back to the time of Rin-chen bzang-po (eleventh century) and has preserved much of its old Indian wood-carvings which recall the finely executed carvings of medieval Kashmir. In the village of Saspola itself there exist two ruined *stupas* attributed to Rin-chen bzang-po. On the ruined foundation of the largest one has been erected a small monastery, named Cham-pa gom-pa (Byams-pa dgon-pa). It contains a large image of gilded clay of the Bodhisattva Maitreya and several other large images of standing bodhisattvas. According to local tradition, the standing statue of Maitreya was erected by Rin-chen bzang-po himself. Most probably the present statue dates from a comparatively recent time and possibly replaced an older one, which might have dated from the time of the great translator.
 
-16\. "Historische Dokumente von Khalatse," ZDMG, LXI, 583; "The Dards at Khalatse," *MASB*, Vol. I, No. 19; *Antiquities of Indian Tibet*, pp. 97 ff.; *A History of Western Tibet*, pp. 65 ff.
+16\. "Historische Dokumente von Khalatse," *ZDMG*, LXI, 583; "The Dards at Khalatse," *MASB*, Vol. I, No. 19; *Antiquities of Indian Tibet*, pp. 97 ff.; *A History of Western Tibet*, pp. 65 ff.
 
 **18 TRAILS TO INMOST ASIA**
 
@@ -815,7 +816,7 @@ About two o'clock in the afternoon we reached the important Yellow Hat Monastery
 
 teenth century) on a steep rock. This monastery was one of the first Yellow Hat monasteries of Ladak. It possesses a branch, the Zang-skar Monastery, just outside of Leh; and the well-known monastery of Ri-dzong (Ri-rdzong) is also connected with it.
 
-The monastery of Spi-thug enjoys a wide reputation throughout Tibet for the austerity of its monks and the learning of its abbot. It was erected in honor of the great reformer rje-rin-po-che Tsong-kha-pa (1357-1419 A.D.) and a large-sized image of the Saint is found in its *du-khang* or assembly hall. We decided to visit the monastery on our way and therefore rode up the steep crag on which it stands. We had no difficulty in gaining admission and were very cordially invited in by the abbot and his assistant or *umdze*. We first were shown round the *du-khang* where some thirty monks were attending divine service. The walls were covered with frescoes, but the extreme darkness inside the hall prevented us from seeing much of them. Before the altar glittered several rows of offering lamps, whose twinkling light illumined from time to time the serene faces of the images.
+The monastery of Spi-thug enjoys a wide reputation throughout Tibet for the austerity of its monks and the learning of its abbot. It was erected in honor of the great reformer rJe-rin-po-che Tsong-kha-pa (1357-1419 A.D.) and a large-sized image of the Saint is found in its *du-khang* or assembly hall. We decided to visit the monastery on our way and therefore rode up the steep crag on which it stands. We had no difficulty in gaining admission and were very cordially invited in by the abbot and his assistant or *umdze*. We first were shown round the *du-khang* where some thirty monks were attending divine service. The walls were covered with frescoes, but the extreme darkness inside the hall prevented us from seeing much of them. Before the altar glittered several rows of offering lamps, whose twinkling light illumined from time to time the serene faces of the images.
 
 We were entertained with tea and sweets in the private apartments of the *sku-shok* or Incarnate Lama of the monastery. The *sku-shok* himself was absent at Ri-dzong, where he was undergoing a course of instruction in Buddhist metaphysics. In his absence the monastery was administrated by Lama Lobzang, a pleasant old gentleman of quiet manners, who made a very good impression on all of us. He was one of those erudite lamas who carry in themselves centuries of religious culture.
 
@@ -839,7 +840,7 @@ The caravan men were sturdy Turkis from Karghalik and Khotan, in large *chapans*
 
 Once the transport problem had been settled, we had more time to inspect the interesting locality of Leh and its vicinity.
 
-The modern city of Leh is situated at the junction of several important central Asian caravan routes, hence its importance for the history of the Indian border country. At least three long and difficult routes connect Leh with Lhasa, the capital of Tibet proper. The first of them crosses the Tibetan uplands and passes north of the great lakes; Ngan-tse tsho, Chyaring tsho (Kya-ring tsho), and Nam tsho, the Tengri-nor of our maps. It joins the great Mongolia-Lhasa route in the important frontier center of Nag-chu dzong (a Tibetan dzong is the administrative center of a district and not a fortress, as is often recorded).
+The modern city of Leh is situated at the junction of several important central Asian caravan routes, hence its importance for the history of the Indian border country. At least three long and difficult routes connect Leh with Lhasa, the capital of Tibet proper. The first of them crosses the Tibetan uplands and passes north of the great lakes; Ngan-tse tsho, Chyaring tsho (Kya-ring tsho), and Nam tsho, the Tengri-nor of our maps. It joins the great Mongolia-Lhasa route in the important frontier center of Nag-chu dzong (a Tibetan *dzong* is the administrative center of a district and not a fortress, as is often recorded).
 
 The second of the three routes crosses the Tibetan upland to the holy Kailasa Range and strikes south of the Great Lakes: Dangra yum-tsho, Ngan-tse, and Tengri-nor. Travelers by this route travel direct to Lhasa across the high pass of Go-ring La in the Nyen-chen Thang La Range.
 
@@ -851,7 +852,7 @@ The Karakorum route, aptly called the highest trade route in the world, connects
 
 facilitated by several measures the passage of trading caravans over Indian territory. With the closing of the Russian frontier and the recent unrest and civil war in western China, the Turkestan trade turned southward to India, and we found the route alive with caravan parties which were braving the icy winds and frequent avalanches on the mountain crests.
 
-Such a favorable situation makes Leh an exceedingly interesting place for archaeological and ethnographical research. The two principal bazaars of the town are thronged by a multicolored crowd, among which the neatly attired Turkestan Turks are prominent. Huge bales of merchandise, containing Turkestan felts or *nimdah*, which come from Khotan, Guma, and Yarkend and command good prices on Indian markets, stand in front of the open shops. Some of these felts are very decorative in design and, as products, arc much superior to similar felts made by the Mongols or even the Chinese. In camp they are indispensable, for they serve as floor covering for tents and as bedding for the personnel of the caravans. Quite recently the export of these felts from Turkestan to India greatly increased, and this reacted favorably on the ancient industry.
+Such a favorable situation makes Leh an exceedingly interesting place for archaeological and ethnographical research. The two principal bazaars of the town are thronged by a multicolored crowd, among which the neatly attired Turkestan Turks are prominent. Huge bales of merchandise, containing Turkestan felts or *nimdah*, which come from Khotan, Guma, and Yarkend and command good prices on Indian markets, stand in front of the open shops. Some of these felts are very decorative in design and, as products, are much superior to similar felts made by the Mongols or even the Chinese. In camp they are indispensable, for they serve as floor covering for tents and as bedding for the personnel of the caravans. Quite recently the export of these felts from Turkestan to India greatly increased, and this reacted favorably on the ancient industry.
 
 The Tibetan nomads of the north bring the soft Tibetan wool out of which Kashmiri artisans make their beautiful *pashmina* shawls.
 
@@ -865,21 +866,21 @@ All this motley crowd of visitors moves, shouts, and gesticulates in the narrow 
 
 dak bungalow one constantly hears the pleasant bells of passing caravans and the songs of the Ladaki women and men carrying grass from the fields. At times this continuous flow of men and beasts will suddenly be interrupted by the trampling of a drove of horses driven by mounted herdsmen.
 
-In some corners of the bazaars, or in the vicinity of Lamaist temples, one meets red-clad lamas who have traveled hundreds of miles from inner Tibet, selling holy relics and talismans. Curiously enough I have seen Buddhist talismans or srung-wa on Turki caravan men from Karghalik who seemed to be quite convinced of their potency. The black and blue turbaned Baltis are very prominent in the streets of Leh and usually find employment as coolies or caravan men, carrying heavy loads. Occasionally one meets the quaint figures of the Mons, preservers of the ancient Ladaki lore and probably an ethnic remnant of a primitive population, which has been submerged by subsequent waves of foreign migrations.
+In some corners of the bazaars, or in the vicinity of Lamaist temples, one meets red-clad lamas who have traveled hundreds of miles from inner Tibet, selling holy relics and talismans. Curiously enough I have seen Buddhist talismans or *srung-wa* on Turki caravan men from Karghalik who seemed to be quite convinced of their potency. The black and blue turbaned Baltis are very prominent in the streets of Leh and usually find employment as coolies or caravan men, carrying heavy loads. Occasionally one meets the quaint figures of the Mons, preservers of the ancient Ladaki lore and probably an ethnic remnant of a primitive population, which has been submerged by subsequent waves of foreign migrations.
 
-During our stay in Leh, we made the acquaintance of the son of the Ladaki *aqsaqal* of Lhasa, a young fellow of considerable acumen, who was on a summer visit to Leh. The goods that he brought consisted of brick tea, Tibetan cloth *puru*, lama boots manufactured at Dre-pung, and other objects of the Lamaist cult. He even had several Tibetan xylographs for sale, prominent among which was the life story or namthar of Je-tsün Milarepa, Tibet's great ascetic and poet of the eleventh century A.D.
+During our stay in Leh, we made the acquaintance of the son of the Ladaki *aqsaqal* of Lhasa, a young fellow of considerable acumen, who was on a summer visit to Leh. The goods that he brought consisted of brick tea, Tibetan cloth *puru*, lama boots manufactured at Dre-pung, and other objects of the Lamaist cult. He even had several Tibetan xylographs for sale, prominent among which was the life story or *nam-thar* of Je-tsün Milarepa, Tibet's great ascetic and poet of the eleventh century A.D.
 
 Wandering through the streets of Leh, one feels the beating pulse of the great Asia that lies hidden behind the veil of a superficial modernization.
 
 The native Ladaki population is chiefly agricultural, and numerous farmsteads and villages lie along the Indus Valley and the vast sandy plain on which Leh is situated. In this mountainous country agriculture is possible only in the river valleys and is seldom carried on above an altitude of 12,000 feet. The scarcity of arable land, mostly represented by fluvial fans and river terraces, has limited the agricultural population to a few river valleys.
 
-Leh, which is sometimes spelled sLel or sLes, became the permanent residence of the kings of Ladak from the time of the reign of King 'Bum-lde (fifteenth century A.D.). The antiquities of Leh consist of payees, *stupas*, and temples, stone carved images, and ancient graves.
+Leh, which is sometimes spelled sLel or sLes, became the permanent residence of the kings of Ladak from the time of the reign of King 'Bum-lde (fifteenth century A.D.). The antiquities of Leh consist of palaces, *stupas*, and temples, stone carved images, and ancient graves.
 
 When one approaches the town of Leh, one perceives from afar the
 
 **24 TRAILS TO INMOST ASIA**
 
-towering white mass of its great palace, erected about 1620 A.D. by King Seng'ge mam-rgyal, one of the greatest builders of Ladak; he was assisted in his work by the Lama sTag-tshang ras-chen, whom he invited to his court. (17) The palace dominates the city, and the houses that cluster round it seem like stone steps leading toward an imposing edifice or altar. The Leh Palace is said to have been built on the model of the great Potala Palace of Lhasa, and indeed there is a slight resemblance, between these two monuments of the Tibetan past. We had the good fortune of passing several days at the Palace of Leh through the courtesy of the present Raja of Ladak.
+towering white mass of its great palace, erected about 1620 A.D. by King Seng-ge rnam-rgyal, one of the greatest builders of Ladak; he was assisted in his work by the Lama sTag-tshang ras-chen, whom he invited to his court. (17) The palace dominates the city, and the houses that cluster round it seem like stone steps leading toward an imposing edifice or altar. The Leh Palace is said to have been built on the model of the great Potala Palace of Lhasa, and indeed there is a slight resemblance, between these two monuments of the Tibetan past. We had the good fortune of passing several days at the Palace of Leh through the courtesy of the present Raja of Ladak.
 
 A broad road, on either side of which rise low walls of unhewn stones, leads to the famous Lion Gate of the King's Palace. Painted wooden columns support the roof of the entrance. A large stone stairway leads to the upper rooms of the Palace. It is in a very dilapidated condition and some of the stones forming the steps have rolled down. One has to advance carefully, testing the firmness of the stones. Our servants called it "Sasseri," comparing the stairway to the difficult mountain trail leading toward the Sasser Pass on the Karakorum route. To the right and left of the stairway gape dark holes in the walls --- former doors leading to the storerooms or servant quarters. After one has climbed to the upper floor, a flash of bright light suddenly pierces the darkness of the corridor --- it is a side window without a wooden frame or glass, just a square hole in the wall; climbing the stairway in complete darkness at night one has to be very careful not to fall out of this window. A little farther on, one enters a vast hall with an earthen floor. Round the walls stretches a kind of portico supported by wooden columns, painted in bright colors and carved. The walls are adorned with numerous images of the green Tara. From here a few stone steps lead to the next floor, where the living quarters are situated. These are typical Tibetan rooms with wooden frames in the large square windows and carved columns that support the ceiling. The doors are massive, with huge iron keys and iron plaques that serve as ornaments. From one of the rooms a passage leads to the roof of the Palace, from which opens a unique view of the city lying at the foot of the Palace, the snowy peaks of the mountain range on the southern side of the Indus Valley, and the wind-swept ridge of the Khardong La over which hover light clouds, the messengers of approaching storm.
 
@@ -915,29 +916,33 @@ Below the hill lies the small hamlet of Chubi, which was founded by the same bKr
 
 The present Raja of Ladak dwells in his summer residence at sTog. He receives a small annual pension and leads a retired life. He seldom visits the town and resides in his great town palace only during the New Year festivities. His aged father has embraced monkhood and devotes his life to religious work. He is a serene and dignified gentleman, learned in the sacred lore of his country. When he paces down the streets of Leh on his rare visits to the town, many of the people throw themselves down before him and thus greet the scion of the ancient house of Kesar.
 
-The temples and monasteries of Leh are prominent features of the town itself and its neighborhood. The oldest temple is situated on the rNam-rgyal rtse-mo Hill and is dedicated to Maitreya. According to tradition it was built by King 'Bum-lde.*® On the same hill is foimd the interesting temple called mGon-khang and dedicated to the Lords or Dharmapalas of the Four Quarters. It was erected by King bKra-shis rnam-rgyal, the builder of the Palace on the same hill, and of the hamlet Chubi. The temple contains frescoes whose importance is enhanced by the fact that their dates may be given. In the history of Tibetan pictorial art we are sadly lacking in definite dates to fix the different periods of the artistic evolution of the country. We speak of the different foreign influences which affected the art of Tibet, but are unable to place them in time. Therefore it is always gratifying to find frescoes or paintings which can be definitely dated. I hope to devote a separate work to the wall paintings found in Tibetan monasteries; like everything in Ladak, they evince a strong composite nature, and the artist or artists who executed them were inspired not only by the canonical art of Tibet but were also strongly influenced by the secular art of neighboring countries. Very striking is the fresco representing the family of Ladak kings. The men are attired in Mogul fashion, but the queens are depicted wearing the national Ladak dress. The fresco shows the duality that still exists in the culture of present-day Ladak.
+The temples and monasteries of Leh are prominent features of the town itself and its neighborhood. The oldest temple is situated on the rNam-rgyal rtse-mo Hill and is dedicated to Maitreya. According to tradition it was built by King 'Bum-lde.(18) On the same hill is found the interesting temple called mGon-khang and dedicated to the Lords or Dharmapalas of the Four Quarters. It was erected by King bKra-shis rnam-rgyal, the builder of the Palace on the same hill, and of the hamlet Chubi. The temple contains frescoes whose importance is enhanced by the fact that their dates may be given. In the history of Tibetan pictorial art we are sadly lacking in definite dates to fix the different periods of the artistic evolution of the country. We speak of the different foreign influences which affected the art of Tibet, but are unable to place them in time. Therefore it is always gratifying to find frescoes or paintings which can be definitely dated. I hope to devote a separate work to the wall paintings found in Tibetan monasteries; like everything in Ladak, they evince a strong composite nature, and the artist or artists who executed them were inspired not only by the canonical art of Tibet but were also strongly influenced by the secular art of neighboring countries. Very striking is the fresco representing the family of Ladak kings. The men are attired in Mogul fashion, but the queens are depicted wearing the national Ladak dress. The fresco shows the duality that still exists in the culture of present-day Ladak.
 
-Below the royal palace of Seng-ge rnam-rgyal stand two temples --- one consecrated to the future Buddha Maitreya, the other to Avalokitesvara, the Divine Patron of Tibet. The temple or lha-\hang of Maitreya, besides containing a huge image of the Future Buddha, has old and interesting frescoes. One of them represents the Meditative or Dhyani-Buddhas wearing the princely attire of bodhisattvas. Close to these temples lie the ruins of the house of a former minister of Ladak (bKa-
+Below the royal palace of Seng-ge rnam-rgyal stand two temples --- one consecrated to the future Buddha 
+Maitreya, the other to Avalokitesvara, the Divine Patron of Tibet. The temple or *lha-khang* of Maitreya, 
+besides containing a huge image of the Future Buddha, has old and interesting frescoes. One of them represents 
+the Meditative or Dhyani-Buddhas wearing the princely attire of bodhisattvas. Close to these temples lie the 
+ruins of the house of a former minister of Ladak (*bKa-*
 
 18\. Francke, *Antiquities of Indian Tibet*, I, 76.
 
 **27 KASHMIR-LADAK**
 
-blon). Old clay images and manuscript books are still to be found in the ruins.
+*blon*). Old clay images and manuscript books are still to be found in the ruins.
 
 North of Leh is situated the small monastery of Zangskar, a branch of the Spi-thug Monastery. It is of comparatively recent date but contains some well-executed images and frescoes. A square courtyard paved with large slabs of stone leads to the chief temple, standing in front of the entrance gate. The first room of the temple contains a clay image of Avalokitesvara, the Merciful Lord. The walls of the temple are covered with modern frescoes of fine execution, painted by a well-known Ladak artist, now an old man residing at the Trikshe Monastery. Behind the first hall is situated a small chapel consecrated to the worship of Dug-kar. Besides the goddess' image we found a large image of Mañjushri or Jam-pe yang, the Prince of Knowledge. The rest of the monastery buildings in the courtyard are occupied by cells and storerooms.
 
-A place well-worth visiting is the town residence of the Hemis *sku-shok* or abbot of the well-known Hemis Monastery. It is in charge of a *nyer-wa* or housekeeper. The s\u-sho\ only seldom resides in it and most of the year the house stands empty. It is a typical Tibetan mansion, and the upper rooms command a fine view of the Indus Valley and the snowy mountains beyond it. As usual the ground floor is reserved for stables, servants' quarters, and storerooms. On the second floor is situated the kitchen, a cleanly kept place with huge shining brass cauldrons and other kitchen utensils. The living quarters are on the upper floor. These are airy rooms with large square windows. Only one room had glass in the windows, the other had beautifully carved window frames but neither glass nor paper.
+A place well-worth visiting is the town residence of the Hemis *sku-shok* or abbot of the well-known Hemis Monastery. It is in charge of a *nyer-wa* or housekeeper. The *sku-shok* only seldom resides in it and most of the year the house stands empty. It is a typical Tibetan mansion, and the upper rooms command a fine view of the Indus Valley and the snowy mountains beyond it. As usual the ground floor is reserved for stables, servants' quarters, and storerooms. On the second floor is situated the kitchen, a cleanly kept place with huge shining brass cauldrons and other kitchen utensils. The living quarters are on the upper floor. These are airy rooms with large square windows. Only one room had glass in the windows, the other had beautifully carved window frames but neither glass nor paper.
 
-Some of the private houses of Leh contain interesting frescoes in the living rooms. In one such house I remember having seen frescoes illustrating the life of Je-tsun Milarepa, his encounter with the Bön magician Naropa on the holy Kailasa Mountain, and other equally famous episodes of the Saint's life. The same room had another very curious fresco representing the Emperor of China and the arrival of a Ladaki embassy to the Imperial Court of China. Unfortunately there was no inscription to explain or date the painting. The owner of the house called the fresco *rGyn-nag-gi* *kong-ma chen-po*, i.e., "The Emperor of China." It is the second historical fresco which I found in Ladak. No doubt there exist others. The art of fresco painting is still cultivated in Ladak and the Ladaki artists produce sometimes works of art which
+Some of the private houses of Leh contain interesting frescoes in the living rooms. In one such house I remember having seen frescoes illustrating the life of Je-tsün Milarepa, his encounter with the Bön magician Naropa on the holy Kailasa Mountain, and other equally famous episodes of the Saint's life. The same room had another very curious fresco representing the Emperor of China and the arrival of a Ladaki embassy to the Imperial Court of China. Unfortunately there was no inscription to explain or date the painting. The owner of the house called the fresco *rGyn-nag-gi kong-ma chen-po*, i.e., "The Emperor of China." It is the second historical fresco which I found in Ladak. No doubt there exist others. The art of fresco painting is still cultivated in Ladak and the Ladaki artists produce sometimes works of art which
 
 **28 TRAILS TO INMOST ASIA**
 
 compare favorably to those of the central Tibetan school, with its rigidity of composition and design.
 
-In the village of Changspa, situated in the vicinity of Leh, Dr. Francke has discovered interesting frescoes illustrating one of the important episodes of the Kesar Saga. The wall paintings are found in the summer residence of a family of *bKa-blon* or ministers. They represent the war of Jang or Jang-dmag, a country in the east of Tibet against which King Kesar waged war. Kesar frescoes are extremely rare throughout Tibet, and it is gratifying to know that Dr. Francke had those of Changspa copied.
+In the village of Changspa, situated in the vicinity of Leh, Dr. Francke has discovered interesting frescoes illustrating one of the important episodes of the Kesar Saga. The wall paintings are found in the summer residence of a family of *bKa-blon* or ministers. They represent the war of Jang or lJang-dmag, a country in the east of Tibet against which King Kesar waged war. Kesar frescoes are extremely rare throughout Tibet, and it is gratifying to know that Dr. Francke had those of Changspa copied.
 
-The capital of Ladak abounds in *stupas*, *mani*-walls or *men-dongs*, and stone-cut images. On the large plain outside Leh stands the longest *mani*-wall of the country, with large *stupas* on its extremities. It was built by King Del-dan rnam-rgyal (1620-40 A.D.). The Ladak *stupas* are characterized by painted stucco figures on their foundations. Sometimes these represent winged horses, lions, peacocks, or swans. Rock-cut images abound in Leh and along the trails that lead to the town. At the village of Changspa are found two important stone images, one representing the Buddha Sakyamuni and the other the Future Buddha. Sakyamuni is depicted standing with both hands making the sign of instruction (dharmacakra-mudra). The Buddha is assisted by Maitreya and Padmapani, represented on either side of the chief figure. The second figure represents Maitreya holding the rosary and the vase or bum-pa. It is interesting to note that the Ladak images of Maitreya all hold the rosary in the right hand, instead of the stalk of the lotus flower, as is the case on central Tibetan bronzes. The rosary seems to belong to an older tradition. On the route to Khardong Pass stands a stone image of Maitreya holding the rosary in his right hand and the vase in his left.
+The capital of Ladak abounds in *stupas*, *mani*-walls or *men-dongs*, and stone-cut images. On the large plain outside Leh stands the longest *mani*-wall of the country, with large *stupas* on its extremities. It was built by King Del-dan rnam-rgyal (1620-40 A.D.). The Ladak *stupas* are characterized by painted stucco figures on their foundations. Sometimes these represent winged horses, lions, peacocks, or swans. Rock-cut images abound in Leh and along the trails that lead to the town. At the village of Changspa are found two important stone images, one representing the Buddha Sakyamuni and the other the Future Buddha. Sakyamuni is depicted standing with both hands making the sign of instruction (*dharmacakra-mudra*). The Buddha is assisted by Maitreya and Padmapani, represented on either side of the chief figure. The second figure represents Maitreya holding the rosary and the vase or *bum-pa*. It is interesting to note that the Ladak images of Maitreya all hold the rosary in the right hand, instead of the stalk of the lotus flower, as is the case on central Tibetan bronzes. The rosary seems to belong to an older tradition. On the route to Khardong Pass stands a stone image of Maitreya holding the rosary in his right hand and the vase in his left.
 
 A separate and curious group of monuments is formed by the Maltese crosses with inscriptions found in the vicinity of Drang-tse, a village on the Pangkong Lake. The inscriptions accompanying the cross figures were recognized to be Soghdian. It remains to be determined during what period these crosses were erected and the reason that they are found in such a remote place as Drang-tse on the Pangkong-tsho. It seems very probable that there existed a floating Nestorian Christian population in Ladak during the eighth to tenth centuries A.D. when Nestorian colonies were numerous along the trade routes of Turkestan, and other regions of central Asia. Whether the Nestorian visitors to
 
@@ -1011,7 +1016,7 @@ The descent was steep and slippery. A glacier lay along the northern slope. We a
 
 **37 FROM LEH TO KHOTAN**
 
-tion indicated the Shayok Valley, where lay the village of Khalsar, the meeting place of our caravan. We did not mount our horses, but continued our journey on yaks. After two hours' ride, we entered the Shayok Valley with its verdant bottom and sharply outlined rocks. For the last five miles, the road was flat and easy. About five o'clock in the afternoon, we were within view of the village of Khalsar, and soon noticed our caravan-*bashis*, Nazar Bai and Omar Khan, waiting for us outside the village. Two hours later we were encamped in the small but shady garden of the serai and were checking up our loads, as they arrived on yaks. From then on, for twenty-two days, the horses had to carry the loads and climb the forbidding heights of the mountain passes.
+tion indicated the Shayok Valley, where lay the village of Khalsar, the meeting place of our caravan. We did not mount our horses, but continued our journey on yaks. After two hours' ride, we entered the Shayok Valley with its verdant bottom and sharply outlined rocks. For the last five miles, the road was flat and easy. About five o'clock in the afternoon, we were within view of the village of Khalsar, and soon noticed our caravan-*bashis*, Nazar Bai and Omar Khan, waiting for us outside the village. Two hours later we were encamped in the small but shady garden of the *serai* and were checking up our loads, as they arrived on yaks. From then on, for twenty-two days, the horses had to carry the loads and climb the forbidding heights of the mountain passes.
 
 Next day, September 21, we continued our march along the Shayok Valley. The country was gorgeous in its coloring --- flaming yellow and red sandstone rocks and granites rose above the bright green spots of the valley bottom.
 
@@ -1257,7 +1262,7 @@ We passed on the route several families of Chinese soldiers traveling to Yarkend
 
 Before Zawa Kurghan we came upon patches of weathered grass and traces of cultivation. While crossing the numerous dune belts, we suddenly noticed doves flying eastward. A two-mile march brought us to a wonderful mazar or sanctuary on the Khotan road, known as Kaptar-Mazar or the "Pigeon's Sanctuary." Thousands of pigeons live in wooden hovels situated inside an inclosed courtyard. All of them are said to be the offspring of a pair of doves which miraculously appeared from the heart of Imam Shahid Padshah, who died here in a battle. These pigeons are said to guide lost travelers in the desert to a considerable distance beyond the mazar. An old man served as attendant to the pigeons and we bought from him several pounds of grain to give to them --- this is a pious act performed by all travelers along the Khotan route.*
 
-Zawa Kurghan is, strictly speaking, the westernmost village of the Khotan Oasis. We camped in a small garden situated behind a serai for travelers. At this stage, we had the great misfortune to lose our faithful Kong-po dog, Amdong. He perished from the heat in the burning desert and the Ladaki servant brought in only a lifeless body.
+Zawa Kurghan is, strictly speaking, the westernmost village of the Khotan Oasis. We camped in a small garden situated behind a *serai* for travelers. At this stage, we had the great misfortune to lose our faithful Kong-po dog, Amdong. He perished from the heat in the burning desert and the Ladaki servant brought in only a lifeless body.
 
 October 14. The road from Zawa to Khotan goes alongside arable land. Everywhere are seen villages, farmsteads, and mazars. We passed several bazaars with Chinese gates, surmounted by Chinese inscriptions eulogizing the work of former city magistrates of Khotan. Dusty lanes of poplars led to the town itself. We rode through the gate of the Chinese city or Han-ch'eng, and at once our small party was surrounded by a dense crowd of Chinese soldiers and traders, who ran after our horses crying and shouting. Soldiers with red and yellow shoulder straps were everywhere, and we were greatly surprised to find such a number of them in the bazaars, but the Ma Ta-jen was said to be a great admirer of the martial art.
 
@@ -2046,7 +2051,7 @@ The Siberian Express rushed rapidly through the lowlands of Siberia, with their 
 
 Early on the morning of September 9 we left Verkhne-Udinsk in two Dodge cars, crossed the broad Selenga on a ferry, and continued our journey along the motor road to Troitskosavsk, the last Russian frontier town, once a wealthy colony of tea merchants. After two hours' ride, the country became more wooded and we skirted fine pine forests. Unfortunately the day was dull and rain clouds hovered over the horizon. Drizzling rain and cold winds made the journey far from pleasant. The road was soft and in several places we had to drive over the steppe in order to avoid the sandy and muddy route, which was still under repair. For the whole of the distance from Verkhne-Udinsk to the frontier, it was almost deserted. Only once or twice did we see Buriats on horseback or in small two-wheeled carriages.
 
-In die afternoon we passed the Geese Lake with the famous Geese Lake Monastery or da-tshang (Tib. gra-tshang'). This is the reputed seat of Buddhist learning in Transbaikalia, residence of the Buriat Pandita *khan-po*, with a well-known printing establishment that issues fine xylographs, greatly in demand throughout Buddhist Siberia, the Astrakhan steppes, and Mongolia.
+In the afternoon we passed the Geese Lake with the famous Geese Lake Monastery or da-tshang (Tib. gra-tshang'). This is the reputed seat of Buddhist learning in Transbaikalia, residence of the Buriat Pandita *khan-po*, with a well-known printing establishment that issues fine xylographs, greatly in demand throughout Buddhist Siberia, the Astrakhan steppes, and Mongolia.
 
 In the afternoon we reached the small Cossack settlement of Selenginsk with its old church and several old houses dating back to the time of the Decembrist movement, many of whose leaders were exiled
 
@@ -2270,7 +2275,7 @@ The different *cho-ga* or worship manuals and *ti-yig* (*'khrid-yig*) or guides 
 
 The Tantric literature is almost wholly absent, except for a few short works containing the essence of the four principal systems of the Tantras.
 
-The purely historical literature, consisting of different cho-jung or deb-ther, is only rarely found. It is a known fact that the large and rarer editions have to be acquired from lamas, but it is always difficult to persuade the owner to part with the books. The printing establishments of the Urga monasteries are not very active. During the lifetime of the fourth incarnation of the Bogdo Gegen, block prints for seventy-two volumes of a Tibetan Känjür were made, but after the death of die Gegen, the work was discontinued and there is no likelihood that it will be resumed.
+The purely historical literature, consisting of different cho-jung or deb-ther, is only rarely found. It is a known fact that the large and rarer editions have to be acquired from lamas, but it is always difficult to persuade the owner to part with the books. The printing establishments of the Urga monasteries are not very active. During the lifetime of the fourth incarnation of the Bogdo Gegen, block prints for seventy-two volumes of a Tibetan Känjür were made, but after the death of the Gegen, the work was discontinued and there is no likelihood that it will be resumed.
 
 Some good printing establishments are to be found in the Transbaikal Buriat monasteries, in which some useful works on metaphysics are printed and some original lexicographical works in the form of Mongol-Tibetan dictionaries are edited. These editions are only seldom found at Urga. Before the closing of the Mongol-Chinese border, the bookselling shops received fresh supplies of books from Peking. At that time one could find valuable Chinese, Mongol, Tibetan, and Manchu dictionaries, and Mongol translations of Chinese literary works, such as the description of Hsiian-tsang's travels across central Asia to distant India in quest of knowledge and original Buddhist texts. Now this time is gone, and with the high custom duty on the import of religious objects and texts the number of such objects and books imported yearly has greatly diminished and rare editions and costly bronzes have almost completely disappeared from the market.
 
@@ -2322,7 +2327,7 @@ The chief interest in Urga lies in its monasteries and other religious
 
 **153 MONGOLIA**
 
-edifices. They dominate the city and their glittering gilded roofs add much to its outward appearance. The Ikhe-küren is its oldest religious establishment. We have already seen that this was the center round which grew the present city of Urga, and for many decades the official residence of the Je-tsun tam-pa Hutukhtu. It is at present divided into twenty-nine aimaf(s or monastic colleges. Besides these colleges there are at least seven temples consecrated to certain branches of the study of worship. One of the most important is the tshof^-chin (Tib. tshogs-cheti) or the assembly hall of the monastic congregation. According to ecclesiastical tradition, the building of the assembly hall was started by Ondiir-Gegen, the first and most famous Gegen of Urga. It is a square wooden building, many times enlarged during its history to suit the growing congregation of monks. The roof of the structure is crowned by a gilded ganjira in the form of a bum-pa or vase. On the four corners of the roof stand the black and white religious banners or jyal-tsen (Tib. rgyal-mtshari). These banners have a long history. They are usually found on temple roofs in Mongolia and Tibet and date back to a remote nomadic past.
+edifices. They dominate the city and their glittering gilded roofs add much to its outward appearance. The Ikhe-küren is its oldest religious establishment. We have already seen that this was the center round which grew the present city of Urga, and for many decades the official residence of the Je-tsün tam-pa Hutukhtu. It is at present divided into twenty-nine aimaf(s or monastic colleges. Besides these colleges there are at least seven temples consecrated to certain branches of the study of worship. One of the most important is the tshof^-chin (Tib. tshogs-cheti) or the assembly hall of the monastic congregation. According to ecclesiastical tradition, the building of the assembly hall was started by Ondiir-Gegen, the first and most famous Gegen of Urga. It is a square wooden building, many times enlarged during its history to suit the growing congregation of monks. The roof of the structure is crowned by a gilded ganjira in the form of a bum-pa or vase. On the four corners of the roof stand the black and white religious banners or jyal-tsen (Tib. rgyal-mtshari). These banners have a long history. They are usually found on temple roofs in Mongolia and Tibet and date back to a remote nomadic past.
 
 Inside the cathedral, at its northern wall, stands the state throne of the Hutukhtu, and on both sides of the throne are large glass cases with the holy images --- among which are prominent the image of Sakya-muni, the last human Buddha, Tsong-kha-pa, the great reformer of the fourteenth century with his two principal disciples, Khe-dup-je (Tib. mKhas-grub-rje) and Jye-tshap-je (Tib. rGyal-tshab-rje), and the image of Undur-Gegen. Most of these images are made of gilded clay and are covered by costly silk garments. Above the glass cases hang numerous religious banners or thang-kas. Most of the paintings are the work of Mongol artists or *dzurachin* and are far inferior in quality and design to the paintings belonging to the eastern Tibetan school.
 
@@ -2384,9 +2389,9 @@ LAMA DANCES IN URGA
 
 principle of the coming *kalpa* or cosmic age. Learned abbots and meditating lamas are said to be in constant communication with this mystic fraternity, that guides the destinies of the Buddhist world. A western observer is apt to belittle the importance of this name or to relegate the voluminous literature about Shambhala and the still vaster oral tradition into the class of folklore or mythology; but those who have studied both literary and popular Buddhism know the terrific force that this name possesses among the masses of Buddhists of higher Asia. For in the course of history, it has not only inspired religious movements but even moved armies, whose war cry was the name of Shambhala. The Mongol troops of Sukhe Bator, who liberated Mongolia from the troops of General Hsii, composed a march song of their own, which is still sung by Mongol cavalry. The song begins with the words *Jang Shambal-in dayin* or "The War of northern Shambhala" and calls upon the warriors of Mongolia to rise for the Holy War of liberating the country from oppressing enemies. "Let us all die in this war and be reborn as warriors of Shambal-in Khan," goes the song.
 
-In the past great names in the Buddhist hierarchy of Mongolia and Tibet dedicated whole volumes to the doctrine of Kalacakra and Shambhala. Among them the names of Atisha and Brom-ston, Khe-dup-je, the third Tashi Lama Pal-den ye-she (Tib. dPal-ldan ye-shes), and of Je-tsun Taranatha stand foremost.
+In the past great names in the Buddhist hierarchy of Mongolia and Tibet dedicated whole volumes to the doctrine of Kalacakra and Shambhala. Among them the names of Atisha and Brom-ston, Khe-dup-je, the third Tashi Lama Pal-den ye-she (Tib. dPal-ldan ye-shes), and of Je-tsün Taranatha stand foremost.
 
-In our days a vast oral literature, which sometimes takes the form of prophecies, songs, nam-thar or legends, and lam-yig or itineraries, comes into being, and numerous bards sing the ballad of the future war of Shambhala, which will mark the downfall of evil. Let us not diminish the importance of this awakening force, that is treasured in the tents of the nomads and the numerous monasteries of Lamaist central Asia. Let us reserve our opinion till the time when all the vast literature of Kalacakra will be translated and adequately commented upon and the vast oral tradition of Buddhism studied and traced to its sources. I hope in a future volume to trace the development of the Kalacakra doctrine and literature and to study in detail its influence upon the masses of Buddhist central Asia.
+In our days a vast oral literature, which sometimes takes the form of prophecies, songs, *nam-thar* or legends, and lam-yig or itineraries, comes into being, and numerous bards sing the ballad of the future war of Shambhala, which will mark the downfall of evil. Let us not diminish the importance of this awakening force, that is treasured in the tents of the nomads and the numerous monasteries of Lamaist central Asia. Let us reserve our opinion till the time when all the vast literature of Kalacakra will be translated and adequately commented upon and the vast oral tradition of Buddhism studied and traced to its sources. I hope in a future volume to trace the development of the Kalacakra doctrine and literature and to study in detail its influence upon the masses of Buddhist central Asia.
 
 There exist several iconographical representations of Shambhala and the Kalacakra. The King of Shambhala or Rig-den Jye-po is usually represented seated on a throne covered by a cushion. With his left hand placed on his lap he supports the Wheel of Law; his right hand makes the sign of charity (^vara-mudra'), or sometimes is seen holding.the stalk
 
@@ -2418,7 +2423,7 @@ Kalacakra. There exists a prescribed order of subjects in which the study of Kal
 
 The best temple in the küren is dedicated to Maitreya. The huge statue of the coming Buddha was executed by Chinese craftsmen in Dolon-nor. The first temple to accommodate the statue was built in the lifetime of the Fifth Incarnation of the Bogdo Gegen, but it soon fell down and representatives were sent to the Tashi Lama in Tibet to inquire the reason of such a calamity. The Tashi Lama gave the explanation that the image of the future Buddha preferred a temple of Tibetan architecture, and it is said that he himself contributed a general plan for the new temple.
 
-The present temple was built in the lifetime of the Seventh Incarnation of Je-tsun tam-pa Hutukhtu. It is a square wooden building with a dome in the middle of the roof, crowned with a ganjira, and the traditional banners or jyal-tsen on the corners. The colossal image of Maitreya, some fifty feet high, stands in the middle of the temple. Behind the figure at the northern wall stand five huge figures of attending bodhisattvas. The other walls are covered with glass cases containing brass images of the thousand Tathagatas.
+The present temple was built in the lifetime of the Seventh Incarnation of Je-tsün tam-pa Hutukhtu. It is a square wooden building with a dome in the middle of the roof, crowned with a ganjira, and the traditional banners or jyal-tsen on the corners. The colossal image of Maitreya, some fifty feet high, stands in the middle of the temple. Behind the figure at the northern wall stand five huge figures of attending bodhisattvas. The other walls are covered with glass cases containing brass images of the thousand Tathagatas.
 
 In front of the image of Maitreya stands an altar table with the usual offering lamps, the eight happy symbols, and large incense pots. In the middle of the altar is placed a framed representation of the Samsara^ ca\ra or the Wheel of Life. Massive wooden columns painted in bright colors support a gallery on which are placed shelves or kjin-ra, containing two complete sets of the Känjür and Tänjür. Outside the temple stand numerous prayer wheels, and pilgrims usually walk around the temple and put the wheels into motion.
 
@@ -3798,7 +3803,7 @@ that the passport was probably with the kjian-po of Nag-chu and that the *khan-p
 
 In the evening the official visitors left our camp and rode at quick pace toward the mountain south of the valley. The next day we spent in camp, waiting for an answer from the High Commissioner. The local nomads suddenly became much more restrained for they were forbidden to trade or communicate with us. Milk, butter, and fuel were furnished by the headmen. We spent the day rearranging loads and doctoring the sores on the backs of our animals. According to the headman, strict rules had been introduced since last year, and nobody was allowed to pass the frontier without a permit from the Dalai Lama, who always fixed the date of departure of caravans from Nag-chu. These strict regulations not only concerned foreigners --- Mongols, Chinese or other nationalities --- but also Tibetans coming from Mongolia or China after a long residence in these countries.
 
-Late in the afternoon, we were visited by two headmen attired in red *puru* coats and Homburger hats, carrying Tibetan swords, ornamented with semiprecious stones. They brought the news that the High Commissioner of Hor, Kusho Kapshdpa, and the Joint-Governors of Nag-chu invited us to move at once to Chu-na-khe and Nag-chu. The two men again prepared to draft a report but this time we made a strong protest and told them that three reports were enough. They smiled and dropped the matter.
+Late in the afternoon, we were visited by two headmen attired in red *puru* coats and Homburger hats, carrying Tibetan swords, ornamented with semiprecious stones. They brought the news that the High Commissioner of Hor, Kusho Kapshöpa, and the Joint-Governors of Nag-chu invited us to move at once to Chu-na-khe and Nag-chu. The two men again prepared to draft a report but this time we made a strong protest and told them that three reports were enough. They smiled and dropped the matter.
 
 Next morning we rose long before dawn, and by six o'clock the whole caravan, escorted by the two headmen, was marching southward. I had spent a very bad night and felt terribly weak. The great strain of the previous days, frequent night watches, tiresome marches and endless negotiations with frontier authorities for three days, had been completely exhausting. The trail crossed the valley of Sheng-di and ascended a low pass. From this point as far as Kam-rong La stretched a highly intersected country with grassy hills and side glens.
 
@@ -3878,7 +3883,7 @@ October 23, 1927. The day was mild, and happily for us there was no piercing win
 
 **307 AT THE GATES OF TIBET**
 
-sang La. On the southern edge of the depression stood a high *stupa* or chorten and the place was sometimes called Chorten-thang, "The Plain of the Stupa" or Chorten kar-po, "The White Stupa." Under this last name the place was known to Tsaidam Mongols.
+sang La. On the southern edge of the depression stood a high *stupa* or *chorten* and the place was sometimes called Chorten-thang, "The Plain of the Stupa" or Chorten kar-po, "The White Stupa." Under this last name the place was known to Tsaidam Mongols.
 
 North of us lay the Tibetan camp, where the Major stayed with his soldiery and the Hor headmen. The depression was watered by a small rivulet that rises on the northern slopes of the Ta-sang La and then flows eastward. The depression of Chu-na-khe is exposed to all winds and the southwest wind was sometimes of such violence that it was impossible to stand outside the tent. To make our summer tents warmer, we covered them with felts taken from the camel packsaddles. The baggage of the expedition was piled up in one heap in the center of the camp and a Hor-pa was supposed to guard it during the night.
 
@@ -3928,7 +3933,7 @@ deplorable condition. A horse, a mule, and one camel had perished and six more w
 
 For the first time in twenty-two days, we saw a tea caravan on yaks coming from Szu-ch'uan. It belonged to a wealthy lama, who himself accompanied his caravan, riding on a diminutive black pony. He was greatly surprised to see a European camp and stood and watched us for a long time until one of the militia ordered him to move away.
 
-For the past four years the Tibetan trade with Mongolia and western China has greatly diminished. The caravans and pilgrims from Mongolia were coming only in small numbers and the number of traders from Sining was insignificant. Since the Chinese Civil War, traders prefer the sea route of Calcutta-Shanghai. The old caravan routes connecting Tibet with inner China and Mongolia are losing their importance and Kalimpong and Calcutta are Tibet's only outlet to the outer world. Autumn is the season for camel caravans from Mongolia. In former years the routes were thronged but now they lie almost completely deserted. We did not meet any caravans while traversing die Tibetan upland and only a small number of caravans passed our camp at Chu-na-khe.
+For the past four years the Tibetan trade with Mongolia and western China has greatly diminished. The caravans and pilgrims from Mongolia were coming only in small numbers and the number of traders from Sining was insignificant. Since the Chinese Civil War, traders prefer the sea route of Calcutta-Shanghai. The old caravan routes connecting Tibet with inner China and Mongolia are losing their importance and Kalimpong and Calcutta are Tibet's only outlet to the outer world. Autumn is the season for camel caravans from Mongolia. In former years the routes were thronged but now they lie almost completely deserted. We did not meet any caravans while traversing the Tibetan upland and only a small number of caravans passed our camp at Chu-na-khe.
 
 October 31, 1927. Again a sunny day. The morning was bitterly cold and columns of smoke rose from every tent in the Tibetan camp. The thermometer registered --- 25 °C. The Major made his daily visit and brought thirty-two pounds of butter sewn into a yak hide, which cost twelve ngu-sangs, and several locally made felts of a very inferior quality. We also bought two yaks for thirteen Mexican dollars. The Major informed us that he had received word from a famous Tantric lama, that according to the lama's divination, the government reply would be received in four or five days.
 
@@ -4468,7 +4473,7 @@ Each mountain pass possesses a lha of its own and some of these deities are know
 
 The dud or 'dre are malignant spirits always bent upon mischief. They will drive away horses at night and thus cause a delay to travelers. Some of the localities along the great caravan routes are famous for the activity of demons or tong-dre and the caravan men take special precautions to prevent the stampede of their horses and mules.
 
-All these Bön divinities, who rule the destinies of men, are designated by the general name of *gYung-drung lha rnams* or the "Gods of the Svastika." The word gYung-drung or "Svastika" is not only synonymous with Bön, but often stands for Byang-chub or Bod hi, which is enlightenment in Bön terminology. The will and teachings of these gods were delivered to mankind by the teacher Shen-rap or Shen-rap mi-wo "the man Shen-rap." We have seen several Bön-po texts on the life of this teacher. His legendary life has been strongly influenced by the Buddha legend. Take for example the scene of the lament of the old Brahman gSal-khyab-'od-ldan, as related in the gSer-myig, who is too old to hear the future teaching of the newly born Redeemer, and the analogical episode in the life of Buddha, --- the visit of the rishi Asita to the newly born Bodhisattva.
+All these Bön divinities, who rule the destinies of men, are designated by the general name of *gYung-drung lha rnams* or the "Gods of the Svastika." The word *gYung-drung* or "Svastika" is not only synonymous with Bön, but often stands for Byang-chub or Bod hi, which is enlightenment in Bön terminology. The will and teachings of these gods were delivered to mankind by the teacher Shen-rap or Shen-rap mi-wo "the man Shen-rap." We have seen several Bön-po texts on the life of this teacher. His legendary life has been strongly influenced by the Buddha legend. Take for example the scene of the lament of the old Brahman gSal-khyab-'od-ldan, as related in the gSer-myig, who is too old to hear the future teaching of the newly born Redeemer, and the analogical episode in the life of Buddha, --- the visit of the rishi Asita to the newly born Bodhisattva.
 
 The story of the youth of Shen-rap has much in common with the
 
@@ -4476,7 +4481,7 @@ The story of the youth of Shen-rap has much in common with the
 
 respective episodes of the Buddha legend. The work of the Redeemer Shen-rap was continued on earth by a succession of teachers, who are usually represented on frescoes attired in the monastic costume of the Nying-ma-pas, or unreformed Buddhists. We are as yet unable to say much about this line of Bön-po teachers. It seems likely that the establishment of Bön monastic fraternities was started only during the Buddhist period. The primitive Bön religion had no monasteries. The Bön monastery is an adaptation of a Buddhist model and the monastic rules are largely taken from Buddhist sources. Large Bön-po monasteries exist in the Jya-de Province and northeastern Kham. The region of Nup-hor counts at least three monastic establishments.
 
-The Tsang Province is known for its Bön-po monasteries. At Chatu gompa, a large village in western Tsang, there are three large Bön-po monasteries. Several famed Bön monasteries and hermitages or *ri-tö* (*ri-khrod*) are reported to exist on the Nepalo-Tibetan border. Sarat Chandra Das in his *Journey to Lhasa and Central Tibet* (7) gives a brief description of a well-known Bön-po monastery, Ri-jyal chen-tar (Ri-rgyal gchan-dar), visited by his companion Lama Urgyen. Unfortunately the author does not describe in detail the images and frescoes seen by Lama Urgyen in the monastery. We possess only scant information about the literature of the Bön-pos. The literary monuments of the Bön-pos can be conveniently described under the following four headings: (i) The two great Bön collections of sacred texts, in all some three hundred volumes; (2) national epics, heroic songs and some rnam-thar or legendary history; (3) popular songs; (4) incantation books, manuals on magic rituals.
+The Tsang Province is known for its Bön-po monasteries. At Chatu gompa, a large village in western Tsang, there are three large Bön-po monasteries. Several famed Bön monasteries and hermitages or *ri-tö* (*ri-khrod*) are reported to exist on the Nepalo-Tibetan border. Sarat Chandra Das in his *Journey to Lhasa and Central Tibet* (7) gives a brief description of a well-known Bön-po monastery, Ri-jyal chen-tar (Ri-rgyal gchan-dar), visited by his companion Lama Urgyen. Unfortunately the author does not describe in detail the images and frescoes seen by Lama Urgyen in the monastery. We possess only scant information about the literature of the Bön-pos. The literary monuments of the Bön-pos can be conveniently described under the following four headings: (i) The two great Bön collections of sacred texts, in all some three hundred volumes; (2) national epics, heroic songs and some *rnam-thar* or legendary history; (3) popular songs; (4) incantation books, manuals on magic rituals.
 
 The codification of the Bön doctrine and the creation of the voluminous religious literature dates from the Buddhist period, that is, it is posterior to the ninth century A.D. So far we had no knowledge of the existence of a Bön Känjür and Tänjür. We only surmised that large Bön-po monasteries undoubtedly possessed large libraries of Bön-po literature. It was the good fortune of our expedition to discover two complete collections of Bön-po scriptures at the Bön-po monastery of Sharugön, four days northeast of Nag-chu dzong. The Bön Känjür or Translated Commandments consists of one hundred and forty large volumes. The collection is evidently an imitation of the Buddhist TripitaXa. It not only has the threefold division of the TripitaXa (Bön-sde-gsum') but imitates the Buddhist Känjür in the external arrange-
 
@@ -4534,7 +4539,7 @@ During the lengthy stay among the nomads of Hor, the expedition succeeded in col
 
 The well-known Mongol scholar Ts. J. Jamtsarano points to the fact that the verbal version of the Kesar ballad is considerably larger than the written one.*4 It seems as if the nomad tribes of Mongolia and Tibet, agitated by some hidden unrest, seek inspiration in the ancient lore of their past.
 
-Besides the great epic of Kesar, several rnam-thar or legendary histories are said to exist among the Bön-po population. None of them is printed. If they are found, they will furnish important data on the religious, cultural, and historical evolution of the Bön doctrine. A large number of popular songs exist among the Bön-pos. Dr. A. H. Francke collected a good many of them during his long stay in Ladak and Lahul. Properly studied and analyzed, they too may furnish important facts.
+Besides the great epic of Kesar, several *rnam-thar* or legendary histories are said to exist among the Bön-po population. None of them is printed. If they are found, they will furnish important data on the religious, cultural, and historical evolution of the Bön doctrine. A large number of popular songs exist among the Bön-pos. Dr. A. H. Francke collected a good many of them during his long stay in Ladak and Lahul. Properly studied and analyzed, they too may furnish important facts.
 
 Many incantation books and magic manuals exist in manuscript form. Some of them are utterly untranslatable, others necessitate a vast, detailed knowledge of the Bön-po Pantheon. A knowledge of the Bön-po mandalas or mystic spheres of influence is essential for a proper understanding of these texts.
 
@@ -4770,7 +4775,7 @@ For the past few years the climate of the Tibetan uplands has been changing rapi
 
 **381 NAG-CHU-KA**
 
-Portniagin was still suffering and the Colonel again fell ill. It looked as if we would be unable to make a long and difficult journey and would have to fight our way to India by the shortest route. After the departure of the Joint-Governors, we were busily occupied packing our yaghtans, repairing saddlery and patching the tents. On January 18, some of the yaks from the Paoro nomads reached Sharugon. For one hundred pack yaks needed by the expedition up to Nag-chu, we would have to pay two hundred ngii-sangs. The price of a horse was twenty-five ngu-sangs, as there were no horses left in the region. We decided to go on our own horses, sixteen of which were still in condition to be ridden. The Major, greatly afflicted by the death of his wife, took no interest in the proceedings. The day was occupied with the almost hopeless task of extracting the iron pegs of the tents. The pegs were frozen hard into the ground and we had to thaw the ground with lire.
+Portniagin was still suffering and the Colonel again fell ill. It looked as if we would be unable to make a long and difficult journey and would have to fight our way to India by the shortest route. After the departure of the Joint-Governors, we were busily occupied packing our *yaghtans*, repairing saddlery and patching the tents. On January 18, some of the yaks from the Paoro nomads reached Sharugon. For one hundred pack yaks needed by the expedition up to Nag-chu, we would have to pay two hundred ngii-sangs. The price of a horse was twenty-five ngu-sangs, as there were no horses left in the region. We decided to go on our own horses, sixteen of which were still in condition to be ridden. The Major, greatly afflicted by the death of his wife, took no interest in the proceedings. The day was occupied with the almost hopeless task of extracting the iron pegs of the tents. The pegs were frozen hard into the ground and we had to thaw the ground with lire.
 
 On January 19, everyone rose very early. The day promised to be line. Having distributed the baggage among the different headmen who supplied yaks for the caravan, we started. Thus ended a four months' stay in the land of Hor. The Colonel was still very weak and asked us to leave him behind at Sharugon to await his end, but we persuaded him to mount his horse and to try to follow the caravan.
 
@@ -4868,7 +4873,7 @@ Government professed to have no knowledge whatever of our detention and desired 
 
 The kjtan-po told us that formerly the religion of Russia had been somewhat similar to the religion of Tibet, but since the victory of the Reds, there was no religion in Russia. Present-day Russia was ruled by a man who killed the Tsagan-bator Khan with a revolver. Pictures of this man were to be seen everywhere and his name was Nenin. This man on committing the deed, climbed a high tree and proclaimed from the top of it that Tsagan-bator Khan was no more, and that the religions of Yisu (Jesus) and Buddha had been destroyed. But, unfortunately for him, a woman possessing the knowledge of Red and White customs, who was formerly the wife of a big official under the Tsagan-bator Khan, was still alive, and resolved to revenge the death of the great Khan. She approached the man ruling Russia and shot him dead, after which she committed suicide! That is the story of the Russian Revolution according to Lhasa.
 
-According to the *khan-po*, the Emperor of China was a lay disciple of the Dalai Lama, and his empire a dependency of Tibet. He was very sorry about the present change of government in China, for the country lost the unique opportunity to profit from the advices of the All-knowing Presence. Indeed, the Chinese rebelled against Tibet in 1911 and multitudes of their warriors appeared in Lhasa, but the Inner Protector by his incomparable power of discrimination and the bravery of his countless troops, punished the insolent Chinamen. Formerly the Mongols were subjects or miser of the Lhasan Government, but lately they had tried to shake off the authority of His Holiness and abolished the incarnation of Je-tsun tam-pa, who had been Tibet's Vice-Regent in Mongolia. After this enlightening conversation with the Governor I re-
+According to the *khan-po*, the Emperor of China was a lay disciple of the Dalai Lama, and his empire a dependency of Tibet. He was very sorry about the present change of government in China, for the country lost the unique opportunity to profit from the advices of the All-knowing Presence. Indeed, the Chinese rebelled against Tibet in 1911 and multitudes of their warriors appeared in Lhasa, but the Inner Protector by his incomparable power of discrimination and the bravery of his countless troops, punished the insolent Chinamen. Formerly the Mongols were subjects or miser of the Lhasan Government, but lately they had tried to shake off the authority of His Holiness and abolished the incarnation of Je-tsün tam-pa, who had been Tibet's Vice-Regent in Mongolia. After this enlightening conversation with the Governor I re-
 
 **390 TRAILS TO INMOST ASIA**
 
@@ -4902,7 +4907,7 @@ On February 16 the much-delayed caravan of supplies arrived and the Joint-Govern
 
 On the evening of the next day, I visited the hjian-po, and had a long talk about the arrangements for our future caravan. The Government agreed to let us pay the whole sum due for the caravan through the British authorities in Sikkim. I tried to obtain some information about the country we were to cross. According to the *khan-po*, we should have to travel some six days over territory belonging to the Nag-chu district. Nag-chu had a population of twelve thousand, chiefly engaged in breeding yaks. The district of Nam-ru was much less populated, having only about one thousand families. This district breeds sheep. The neighboring district of Nag-tshang was known to produce very good cattle and its population consists of some ten thousand inhabitants. The Governor was apprehending an advance by the troops of Feng Yu-hsiang from Kansu and had been trying to secure help from the Tungan Governor of Sining.
 
-Next day (February 20), we witnessed the ceremony of burning the torma or offerings to the spirits of the place, performed before the New Year. The first ceremony took place at the house of the *khan-po*. We were invited and allowed to take photographs of the procession. At the head, two lamas carried the torma. They were followed by the chief lama, dressed in a red mantle and having the sha-ser or yellow hat of his sect on his head. He was followed by a number of lamas, all carrying objects used in the ceremonies. The lamas were followed by lama musicians carrying drums and long trumpets called dung-chen and Tibetan hautboys. The dead sound of the drums accompanied the procession, which was escorted by a troop of local headmen in brightly colored dresses with green and red turbans on their heads. They all
+Next day (February 20), we witnessed the ceremony of burning the *torma* or offerings to the spirits of the place, performed before the New Year. The first ceremony took place at the house of the *khan-po*. We were invited and allowed to take photographs of the procession. At the head, two lamas carried the *torma*. They were followed by the chief lama, dressed in a red mantle and having the sha-ser or yellow hat of his sect on his head. He was followed by a number of lamas, all carrying objects used in the ceremonies. The lamas were followed by lama musicians carrying drums and long trumpets called dung-chen and Tibetan hautboys. The dead sound of the drums accompanied the procession, which was escorted by a troop of local headmen in brightly colored dresses with green and red turbans on their heads. They all
 
 A STREET IN NAGCHU
 
@@ -4916,11 +4921,11 @@ GRAZING YAKS ON THE TIBETAN UPLAND
 
 **393 NAG-CHU-KA**
 
-carried swords, and matchlocks with smoking wicks. The procession slowly moved to the street in front of the Governor's house. The torma, after a short service, accompanied by the clamor of tambourines, was precipitated into a great fire laid out on the pavement. The headmen fired their guns into the fire and with loud outcry brandished their swords. After the ceremony, a wild scene followed --- beggars and prisoners with shackles on their legs precipitated themselves into the fire and tore from each other in a wild fight portions of the burning tormas. Possessors of such pieces of torma are said to be immune from bullets.
+carried swords, and matchlocks with smoking wicks. The procession slowly moved to the street in front of the Governor's house. The *torma*, after a short service, accompanied by the clamor of tambourines, was precipitated into a great fire laid out on the pavement. The headmen fired their guns into the fire and with loud outcry brandished their swords. After the ceremony, a wild scene followed --- beggars and prisoners with shackles on their legs precipitated themselves into the fire and tore from each other in a wild fight portions of the burning *tormas*. Possessors of such pieces of *torma* are said to be immune from bullets.
 
 After the ceremony, we all paid a visit to the kjtan-po. The Joint-Governors were seated on high seats near the wall, attired in garments of Chinese brocade. They offered us some rice and Tibetan tea. According to the New Year etiquette common to Chinese and Tibetans, everyone should be merry and no serious conversations are held. The Governor chose our Colonel as the object of his jokes and called him his "dear beloved brother," insisting that the Colonel should present him with his watch. It would be too tedious to repeat here all the Governor's jokes. The poor Colonel became very tired of all this merrymaking. The festivities at the house of the *khan-po* were followed by a similar ceremony at the residence of the Civil Governor, only everything was on a smaller scale.
 
-In the afternoon a big ceremony took place in the monastery. A long procession of monks moved across the monastery courtyard preceded by the lama provost or Geko Lama. The big trumpets or dung-chen were placed on the roof of the du-hjiang and from there filled the air with their deep, ringing sound. The torma was burned on the chief square of Nag-chu. Merrymaking and occasional firing continued until late in the evening.
+In the afternoon a big ceremony took place in the monastery. A long procession of monks moved across the monastery courtyard preceded by the lama provost or Geko Lama. The big trumpets or dung-chen were placed on the roof of the du-hjiang and from there filled the air with their deep, ringing sound. The *torma* was burned on the chief square of Nag-chu. Merrymaking and occasional firing continued until late in the evening.
 
 February 22, 1928. Today was the Tibetan New Year. The *khan-po* held a reception in the afternoon and everybody was invited to attend ; a very tiresome function, with tea drinking and endless New Year compliments. Later in the afternoon an exceptional quiet pervaded the city. I inquired the reason and was told that all the good citizens of Nag-chu were hopelessly drunk, and were slumbering after the day's exertions. Toward evening beggars went round the place singing New Year songs. The next day the Governors would proceed in a procession to the top of a nearby hill and lay the foundation of a new obo --- a rite performed every year at Nag-chu-ka. With this ceremony the local New
 
@@ -4928,7 +4933,7 @@ February 22, 1928. Today was the Tibetan New Year. The *khan-po* held a receptio
 
 Year's festivities would end and everyone would resume routine work, although the officials and the richer people would continue to enjoy themselves for a whole month.
 
-Our preparations for departure were well advanced. All the yaghtans had been carefully roped and put in the courtyard of the headquarters so as to prevent breakage by yaks. Horses were shod for the long journey and received an extra pound of food daily. The Civil Governor, in return for our presents, presented us with a young Kong-po wolfhound by the name of Kadru. These Kong-po dogs are greatly valued in Tibet, although their manners are not always pleasant. When young they are very troublesome and will attack sheep and poultry. Usually two varieties of dogs are found, a big one of slender build with well-developed legs, and very fast, and a second variety of a heavier build. The latter reminds one of the Finnish dogs employed in hunting squirrels.
+Our preparations for departure were well advanced. All the *yaghtans* had been carefully roped and put in the courtyard of the headquarters so as to prevent breakage by yaks. Horses were shod for the long journey and received an extra pound of food daily. The Civil Governor, in return for our presents, presented us with a young Kong-po wolfhound by the name of Kadru. These Kong-po dogs are greatly valued in Tibet, although their manners are not always pleasant. When young they are very troublesome and will attack sheep and poultry. Usually two varieties of dogs are found, a big one of slender build with well-developed legs, and very fast, and a second variety of a heavier build. The latter reminds one of the Finnish dogs employed in hunting squirrels.
 
 On February 26, two soldiers of the Major came to inform us that the yaks were due that day and that the Major himself would leave Nag-chu the following day. In the afternoon the Major appeared and spoke of his intention to leave Nag-chu. He was drunk as usual and this made him a little more outspoken. He revealed to us that just before our arrival at Chu-na-khe, the Civil Governor had visited the High Commissioner of Hor, and settled with him the question of our going direct to Nag-chu. According to the Major, it was decided to let us visit Nag-chu at once, but then the Civil Governor returned to Nag-chu and had a conference with the kjian-po, the result being that he subsequently pretended to know nothing of our coming. What the reason was for such a change of attitude the Major could not tell us. According to him, such actions could have been necessitated by supplementary orders received from Lhasa.
 
@@ -5086,7 +5091,7 @@ The courtyard of the dzong was densely packed with bales of wool and butter, all
 
 ushered into a small room which was the apartment of the dzong-p 'dn. The official himself, a young man of about thirty, was seated on a low seat near an altar, on which stood a clay figure of Sakyamuni, the Buddha. Behind the altar hung several thang-\as or painted images representing Avalokitesvara in his four-armed manifestation, the white -Tara, and Yamantaka. Heavy silver cups and an offering lamp stood in front of the images. On the wall opposite the window hung a large collection of firearms. Tibetan officials are passionate buyers of arms and pay exorbitant prices. The dzong-pbn of Nam-ru had in his collection about thirty Russian service rifles, several Japanese Arisaka rifles and German Mausers, besides several German Mauser pistols and Nagan revolvers. A number of richly adorned Tibetan swords hung with the firearms. Among them I noticed short Bhutanese daggers, long, double-hiked swords carried on the back by Tibetan foot soldiers, and several long, heavy sabers or sho-lang. I asked the dzong-pbn what use he made of this quantity of arms. He smiled and replied that in case of necessity he had to protect the dzong.
 
-We were seated on a long bench near the window on the right hand of the Governor and Tibetan tea was served on a low table in front of us. The dzong-pbn was the brother of the wife of the Governor of Nag-chu and pretended to be our friend and well-wisher. He informed us that the passport or lam-yig from Lhasa had not yet been received and that he did not really know what to do with us. But as we were recommended to him by the authorities of Nag-chu, he would send us off to the next dzong. He had not received letters about us and was unaware of our coming. Wc should have to remain for one day at Nam-ru and give him time to collect the necessary animals for our caravan. We urged him to hasten our departure and to speak at once with the chieftains and the local headmen. The headmen were accordingly invited. The chieftain maintained that we should have to pay high prices for the caravan animals as it was not the proper season for travel. The local population had no pack animals in the vicinity of the dzong, except some dzo kept near the tents. Because of the heavy snowfalls during winter, most of the nomads decamped toward the north and were staying at places four or five days' journey from here. It would take some fifteen days to get to Nag-tshang and caravan animals would have to be changed on each stage. This was a great inconvenience, for in case the headmen on the stages would be unable to supply us with a suffi-
+We were seated on a long bench near the window on the right hand of the Governor and Tibetan tea was served on a low table in front of us. The dzong-pbn was the brother of the wife of the Governor of Nag-chu and pretended to be our friend and well-wisher. He informed us that the passport or lam-yig from Lhasa had not yet been received and that he did not really know what to do with us. But as we were recommended to him by the authorities of Nag-chu, he would send us off to the next dzong. He had not received letters about us and was unaware of our coming. Wc should have to remain for one day at Nam-ru and give him time to collect the necessary animals for our caravan. We urged him to hasten our departure and to speak at once with the chieftains and the local headmen. The headmen were accordingly invited. The chieftain maintained that we should have to pay high prices for the caravan animals as it was not the proper season for travel. The local population had no pack animals in the vicinity of the dzong, except some *dzo* kept near the tents. Because of the heavy snowfalls during winter, most of the nomads decamped toward the north and were staying at places four or five days' journey from here. It would take some fifteen days to get to Nag-tshang and caravan animals would have to be changed on each stage. This was a great inconvenience, for in case the headmen on the stages would be unable to supply us with a suffi-
 
 **412 TRAILS TO INMOST ASIA**
 
@@ -5220,11 +5225,11 @@ March 29. All night loud shouts of herdsmen announced the arrival
 
 **423 THE REGION OF THE GREAT LAKES**
 
-of parties of pack yaks. Long strings of yaks formed a black wall around the camp. We started at seven o'clock and having skirted a limestone spur northwest of the dzong, headed across the gravel plain toward .the southwestern shore of the Chyaring tsho Lake. The plain was watered by the Tag-lung tsang-po, a river that emptied into the Chyaring tsho. We found the river still frozen hard and had no difficulty in crossing it. The trail crossed several old moraines descending toward the lake and, ascending a low spur, entered into a highly intersected mountain region immediately south of the lake. The trail climbed the crest of the range, towering above the lake shore, which lay about three hundred feet below the trail.
+of parties of pack yaks. Long strings of yaks formed a black wall around the camp. We started at seven o'clock and having skirted a limestone spur northwest of the *dzong*, headed across the gravel plain toward .the southwestern shore of the Chyaring tsho Lake. The plain was watered by the Tag-lung tsang-po, a river that emptied into the Chyaring tsho. We found the river still frozen hard and had no difficulty in crossing it. The trail crossed several old moraines descending toward the lake and, ascending a low spur, entered into a highly intersected mountain region immediately south of the lake. The trail climbed the crest of the range, towering above the lake shore, which lay about three hundred feet below the trail.
 
 We crossed a low pass, the Laptse nagri (the Laptse na-mo La of Sir Henry Hayden's map), from which we obtained a fine view of the lake and the surrounding country. The mountains were close to the lake shore, which occupied a depression some forty miles long with an elevation of 15448 feet. At this time of the year the lake was still covered with a crust of ice, except its southwest corner, which with its dark blue surface formed a sharp contrast to the white expanse of ice on the lake.
 
-While descending from the pass, we met a group of horsemen escorting four men on foot with their hands tied behind their backs. These were robbers who had recently murdered a party of traders and were now being taken by the local tribal militia to the dzo 7 ig. One of the militia told us the story of the outrage. The traders were staying for the night in a nomad tent, and while asleep, were brutally murdered with swords by the nomads of the locality. All their goods were taken away. The robbers were unable to keep the affair secret and the brigandage was discovered. The local authorities dispatched a detachment of militia to arrest the murderers. This was soon accomplished and the criminals were sent to the dzong to suffer an adequate punishment. Such cases were reported to take place frequently along the route, for the nomads easily and rapidly turned into robbers. The usual victims are traders and this accounts for the fact that all of the rich caravans have an armed escort.
+While descending from the pass, we met a group of horsemen escorting four men on foot with their hands tied behind their backs. These were robbers who had recently murdered a party of traders and were now being taken by the local tribal militia to the *dzong*. One of the militia told us the story of the outrage. The traders were staying for the night in a nomad tent, and while asleep, were brutally murdered with swords by the nomads of the locality. All their goods were taken away. The robbers were unable to keep the affair secret and the brigandage was discovered. The local authorities dispatched a detachment of militia to arrest the murderers. This was soon accomplished and the criminals were sent to the *dzong* to suffer an adequate punishment. Such cases were reported to take place frequently along the route, for the nomads easily and rapidly turned into robbers. The usual victims are traders and this accounts for the fact that all of the rich caravans have an armed escort.
 
 We camped for the night at the foot of a spur situated to the southwest of a valley open toward the Chyaring tsho. The place, which was a relay station for dispatch riders, was called Ngan-dzom and was fifteen miles from Shentsa dzong. It was famous for strong winds. This reputation was soon justified for about noon a southwest wind started
 
@@ -5594,7 +5599,7 @@ monastery had a forlorn appearance. The once multicolored portal of the temple w
 
 We were accompanied by a Tibetan, whose interest in us was two-fold. First, he was trying to sell us a horse belonging to his master, and secondly, he was delighted to have a chat with foreigners whom he greatly respected. According to him, one of the great advantages of foreigners was that they were straightforward people, keeping strictly to their word, whereas his own countrymen were somewhat unreliable and great liars, even when there was no necessity for it. "Look here, Sir," said the Tibetan, "now I am talking to Your Honor and there is no need of my telling a lie, but still it is difficult for me to refrain from this and I have constantly to remind myself, ‘Speak truthfully, speak truthfully!' " When asked for the reason for such a strange national character, he scratched his ear and replied "Kug-pa re" --- "Stupidity."
 
-The Nga-ri-Lhasa highway passed just outside the village and there was a continuous coming and going. Riders on mules or horses with bells and huge saddlebags, small caravans on donkeys and dzo carrying firewood, wandering lamas and beggars --- all moved in a continuous stream along the narrow track called the Lhasa *jya-lam* or highway.
+The Nga-ri-Lhasa highway passed just outside the village and there was a continuous coming and going. Riders on mules or horses with bells and huge saddlebags, small caravans on donkeys and *dzo* carrying firewood, wandering lamas and beggars --- all moved in a continuous stream along the narrow track called the Lhasa *jya-lam* or highway.
 
 It was our intention to "buy several pack mules or horses to carry our tents. Some fine animals, mostly Kong-po mules, were brought for sale, but the prices were extraordinarily high, about two hundred Mexican dollars for each mule.
 
@@ -7300,7 +7305,7 @@ Po-yul revolt, 470
 
 Pozdneev, Professor, 184, 225
 
-Prajnaparamita library, 14
+Prajñaparamita library, 14
 
 Prayer flags, 255, 291, 366, 410, 419, 424
 
