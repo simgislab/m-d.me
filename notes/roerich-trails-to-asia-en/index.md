@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-Turns out there is no good text version of Trails to Inmost Asia. PDFs are not usable for annotating and shared work. So here it is.
+Turns out there is no good text version of Roerich's Trails to Inmost Asia. PDFs are not usable for annotating and shared work and contain tons of errors. So here it is.
 
 * Based on [Internet Archive version](https://archive.org/details/in.ernet.dli.2015.43990) Roerich's book in TXT format.
 * Excessive line breaks removed to adapt for larger screens.
@@ -80,7 +80,7 @@ In the country of Tsaidam, George Roerich studied the different dialects of the 
 
 From Tibet, George Roerich brings back a scientific picture of the life and civilizations of the nomads of the High Plateau. During his researches he discovered the existence of an artistic style peculiar to the nomads --- primarily animalistic --- a style closely related to that of the ancient Scythians and Goths. Thus he presents strong arguments in justification of the theory, concerning the ancient civilization of the nomads, whose territory extended from the Gobi Desert and the border of Korea to the lower Danube and the Carpathian Mountains.
 
-**x**
+<a id="x">**x**</a>
 
 A most interesting discovery rewarded the efforts of the explorers. On the uplands of Tibet and in the country of the Trans-Himalayas, the expedition carefully studied and photographed many monuments (cromlechs, alinements, menhirs) whose existence had never before been recorded and whose structure evokes most interesting comparisons with our western monuments, especially those of Brittany.
 
@@ -96,7 +96,7 @@ Louis Marin
 
 *Paris, June, 1931.*
 
-**xi**
+<a id="xi">**xi**</a>
 
 ## AUTHOR'S NOTE
 
@@ -112,7 +112,7 @@ The second object of the expedition was to survey the possibilities for new arch
 
 The third object was to secure an extensive collection of ethnographi-
 
-**xii**
+<a id="xii">**xii**</a>
 
 cal and linguistic material, illustrating the culture of these regions. During its long journey along the T'ien Shan, the steppe region of Jungaria, the Altai, the mountains of southwestern Mongolia, and the highlands of Tibet, the expedition surveyed numerous archaeological sites; and it is hoped that another expedition may be mustered to carry out extensive excavations of vast necropoli left by nomad tribes, which date back to the period between the &st and eighth centuries A.D. A large collection of Tibetan and Mongolian books was gathered during the expedition's stay in Mongolia and Tibet.
 
@@ -132,7 +132,7 @@ To His Excellency M. Louis Marin, for his ever helpful assistance and for contri
 
 To my teacher. Professor Jacques Bacot, who first introduced me into the ancient lore of Tibet
 
-**xiii**
+<a id="xiii">**xiii**</a>
 
 To my friend, Dr. Georges G. Chklaver, of the University of Paris, for his untiring interest in my exploration work and his trusted friendship.
 
@@ -150,7 +150,7 @@ G. N. R.
 
 *June, 1931.*
 
-**xvi**
+<a id="xvi">**xvi**</a>
 
 ## CONTENTS
 
@@ -288,7 +288,7 @@ Taoist Temple in Urumchi, Capital of Hsin-chiang 122
 
 The monument of Yang Tseng-hsin, Governor-General of Hsin-chiang, in Urumchi 122
 
-**xviii TRAILS TO INMOST ASIA**
+<a id="xviii">**xviii TRAILS TO INMOST ASIA**</a>
 
 *To face page*
 
@@ -396,7 +396,7 @@ At the foot of the Ulan-daban Pass 268
 
 The Ulan-daban Pass 268
 
-**xix LIST OF ILLUSTRATIONS**
+<a id="xix">**xix LIST OF ILLUSTRATIONS**</a>
 
 *To face page*
 
@@ -490,7 +490,7 @@ The expedition column approaching the Trans-Himalayas 417
 
 *Kinchenjunga --- The Mountain of the Five Treasures* Painting by Nicholas Roerich, White House, Washington, D.C. 444
 
-**xx TRAILS TO INMOST ASIA**
+<a id="xx">**xx TRAILS TO INMOST ASIA**</a>
 
 *To face page*
 
@@ -542,7 +542,7 @@ The hot season was already approaching and a peculiar and intense glare hung ove
 
 On the evening of the eighth of March we reached Rawalpindi Several hours before the cantonment, the train traversed an arid country of sand and stone, cut into numerous canyons. After i night spent at a lo-
 
-**4 TRAILS TO INMOST ASIA**
+<a id="4">**4 TRAILS TO INMOST ASIA**</a>
 
 cal hotel at Rawalpindi we again resumed our route, but this time in motor cars. Rawalpindi has the atmosphere of alertness of a great military station. Everywhere there are khaki-clad figures; and the town bazaars throng with the colorful crowd of a border country. Fine-looking Hazaras and martial Pathans from the frontier move among the groups of Punjabis and down-country men.
 
@@ -7556,7 +7556,7 @@ Springs, *see* Hot Springs
 
 Spyan-ras-gzigs Thugs-rje-chen-po, 15. *See also* Avalokitesvara
 
-Srinagar, 4-5
+Srinagar, [4-5](#4)
 
 Srong-btsan-sgam-po, 12, 353, 360
 
@@ -7856,9 +7856,9 @@ Wahaba Wanganu, 7
 
 Wall paintings, *see* Frescoes
 
-Walls, 428, 487: *See also* *Mani*-
+Walls, 428, 487. *See also* *Mani*-
 
-Wang-po, 353» 425* 428
+Wang-po, 353, 425, 428
 
 Watermelons, 52, 53, 65
 
@@ -7876,7 +7876,7 @@ White camels, 200
 
 White Mongols, 231
 
-Willesden tents, 5
+Willesden tents, [5](#5)
 
 Willows, 11, 50 ff., 482
 
@@ -7926,7 +7926,7 @@ Yum-beise küren, 189-195; route, 190
 
 Yurta *motif* in building, 139, 150
 
-Zangskar Monastery, 19, 27; ponies, 5
+Zangskar Monastery, 19, 27; ponies, [5](#5)
 
 Zawa Kurghan, 56
 
