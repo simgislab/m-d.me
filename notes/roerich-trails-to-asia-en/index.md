@@ -25,7 +25,7 @@ Turns out there is no good text version of Roerich's Trails to Inmost Asia. Avai
 
 ## Book contents
 
-![01-roerich.png](01-roerich.png)
+![001-roerich.png](001-roerich.png)
 
 PROFESSOR NICHOLAS ROERICH
 
@@ -621,15 +621,15 @@ The rain started again toward evening and continued for the rest of the night. I
 
 The route from Ganderbal to Baltal runs though a typical Kashmir mountain country with well-watered hillsides, receiving plenty of mois-
 
-![02-srinagar.png](02-srinagar.png)
+![002-srinagar.png](002-srinagar.png)
 
 SRINAGAR, KASHMIR
 
-![03-sonamarg.png](03-sonamarg.png)
+![003-sonamarg.png](003-sonamarg.png)
 
 SONAMARG, KASHMIR
 
-![04-maitreya.png](04-maitreya.png)
+![004-maitreya.png](004-maitreya.png)
 
 MAITREYA ON THE ROAD
 
@@ -898,7 +898,7 @@ A broad road, on either side of which rise low walls of unhewn stones, leads to 
 
 17\. For a history of this king of Ladak, sec Dr. Francke, *A History of Western Tibet*, pp. 96 ff.
 
-![05-royal-palace-leh.png](05-royal-palace-leh.png)
+![005-royal-palace-leh.png](005-royal-palace-leh.png)
 
 ROYAL PALACE OF LEH
 
@@ -906,13 +906,13 @@ Painting by Nicholas Roerich
 
 *Roerich Museum, New York*
 
-![06-dugkar.png](06-dugkar.png)
+![006-dugkar.png](006-dugkar.png)
 
 IMAGE OF THE GODDESS DUG-KAR
 
 IN THE ZANGSKAR MONASTERY AT LEH
 
-![07-stone-maitreya.png](07-stone-maitreya.png)
+![007-stone-maitreya.png](007-stone-maitreya.png)
 
 STONE IMAGE OF MAITREYA
 
@@ -984,17 +984,17 @@ The road along the Indus Valley is extremely picturesque. The vivid green of its
 
 The autumn was rapidly setting in. Yellow leaves in the gardens and
 
-![08-roerich-at-work.png](08-roerich-at-work.png)
+![008-roerich-at-work.png](008-roerich-at-work.png)
 
 PROFESSOR NICHOLAS ROERICH
 
 AT WORK IN THE RAJA's PALACE IN LEH, LADAK
 
-![09-tik-tse.png](09-tik-tse.png)
+![009-tik-tse.png](009-tik-tse.png)
 
 THE TIK-TSE MONASTERY, LADAK
 
-![10-sheh-ladak.png](10-sheh-ladak.png)
+![010-sheh-ladak.png](010-sheh-ladak.png)
 
 THE MONASTERY OF SHEH, LADAK
 
@@ -1158,19 +1158,19 @@ we had reached the summit of the pass, a violent cold wind accompanied by a snow
 
 Soon complete darkness enveloped the weathered rocks of the gorge. Nazar Bai rode ahead in search of a suitable grazing ground for the night, and his broad-shouldered figure mounted on his swift raven steed disappeared into the darkness. We continued marching until a very late hour. The men were murmuring and the animals were tired after the fatiguing struggle across the pass. My watch showed nine o'clock, then ten o'clock. Still no traces of Nazar Bai. The murmurs among the caravan drivers became louder. Was the old Nazar Bai mad to make men and animals march for more than twelve hours? It was getting impossible to ride because of the darkness. Myself and one of our syces went ahead of the caravan to find the trail. We went on foot, leading our horses behind us. Suddenly we found ourselves in water.
 
-![11-khardong-la.png](11-khardong-la.png)
+![011-khardong-la.png](011-khardong-la.png)
 
 CROSSING THE KHARDONG LA
 
-![12-suget-pass.png](12-suget-pass.png)
+![012-suget-pass.png](012-suget-pass.png)
 
 THE EXPEDITION CARAVAN BEFORE THE SUGET PASS
 
-![13-types-of-turki.png](13-types-of-turki.png)
+![013-types-of-turki.png](013-types-of-turki.png)
 
 TYPES OF TURKI NATIVES
 
-![14-kirgiz.png](14-kirgiz.png)
+![014-kirgiz.png](014-kirgiz.png)
 
 SANJU KIRGHIZ MEN AND WOMEN
 
@@ -1262,13 +1262,21 @@ We fully appreciated the advice of this friendly young man only after our confli
 
 October 11. Soon after leaving the Sanju Bazaar we ascended a vast plateau and before us opened the wide gravel expanse of the southern border of the Taklamakan --- boundless and burning hot. A well-beaten track, trodden by thousands of caravan animals, led northeast. The plain seemed absolutely deserted except for a lonely horseman who suddenly appeared in the distance. He dismounted, fettered his horse, and spread on the burning sand of the desert a white felt and some melons. He proved to be a poor traveler, who thought it to be his duty to welcome travelers from foreign lands. We alighted from our horses and partook of his melons --- a pleasant refreshment in the burning heat
 
+![015-kirgiz-grave.png](015-kirgiz-grave.png)
+
 KIRGHIZ GRAVE ON THE KARAKORUM ROUTE
 
+![016-taklamakan.png](016-taklamakan.png)
+
 THE TAKLAMAKAN DESERT NEAR KHOTAN
+
+![017-village-crowd.png](017-village-crowd.png)
 
 THE CHINESE CONVOY OF THE EXPEDITION
 
 TURKI HEADMEN AND CHINESE SOLDIERS
+
+![018-convoy.png](018-convoy.png)
 
 A VILLAGE CROWD IN CHINESE TURKESTAN
 
@@ -1392,11 +1400,19 @@ Behind each of us stood an armed guardsman of the Governor's bodyguard; each man
 
 Ma Shao-wu belonged to a great and distinguished family of Chinese
 
+![019-ma-shao-wu.png](019-ma-shao-wu.png)
+
 MA SHAO-WU, GOVERNOR OF KHOTAN
+
+![020-tumbal.png](020-tumbal.png)
 
 TUMBAL, THE TIBETAN MASTIFF OF THE EXPEDITION
 
+![021-ma-titai-crux.png](021-ma-titai-crux.png)
+
 THE CRUCIFIED MA TI T'AI
+
+![022-ma-titai.png](022-ma-titai.png)
 
 MA TI T'AI
 
@@ -1562,15 +1578,25 @@ The route from Zawa to Pialma has already been described in this volume. A brief
 
 After the Pigeon Shrine, the trail left the sand dune belt and followed a broad gravel plain. A brief halt was made again to water the
 
-1\. C£. Stein, Ruins of Desert Cathay, I, i66; Beal, Buddhist Records of the Western World, pp. 3*5 ff
+1\. Cf. Stein, *Ruins of Desert Cathay*, I, 166; Beal, *Buddhist Records of the Western World*, pp. 315 ff.
+
+![023-hq-khotan.png](023-hq-khotan.png)
 
 THE EXPEDITION HEADQUARTERS IN KHOTAN
 
+![024-karghalik.png](024-karghalik.png)
+
 SUMMER HOUSE IN KARGHALIK
+
+![025-crossing-yarkend.png](025-crossing-yarkend.png)
 
 CROSSING THE YARKEND DARYA
 
+![026-river-yangi.png](026-river-yangi.png)
+
 RIVER VIEW NEAR YANGI-HISSAR
+
+![027-chinese-cavalry.png](027-chinese-cavalry.png)
 
 CHINESE CAVALRY ENTERING KASHGAR
 
@@ -1672,11 +1698,19 @@ The next shop was a true monetary museum. The owner kept in stock various coins 
 
 Kashgar boasts of a carriage factory which supplies covered carriages of an antiquated pattern to all officials throughout the vast Dominion. These strange looking carriages are usually painted in bright colors.
 
+![028-market.png](028-market.png)
+
 MARKET SCENE IN KASHGAR
+
+![029-kashgar-river.png](029-kashgar-river.png)
 
 KASHGAR FROM THE RIVER
 
+![030-caves-toghrak.png](030-caves-toghrak.png)
+
 CAVES WITH REMAINS OF BUDDHIST FRESCOES AT TOGHRAK-DONG
+
+![031-kizil.png](031-kizil.png)
 
 THE EXPEDITION CARTS ARRIVING AT KIZIL, CHINESE TURKESTAN
 
@@ -1756,11 +1790,19 @@ The Oasis of Kuchar, the town with its wide lanes of poplars, and the active pop
 
 Kuchar is by far the most important trading center along the caravan route from Kashgar to Urumchi. The abundant supply of glacier water, carried down the two rivers of the oasis, and the numerous springs of subsoil water make the oasis an ideal place for cultivation and an important fruit growing center of the whole Province. From early times, Kuchar was known as an emporium of Chinese trade, with nomad
 
+![032-sandstone.png](032-sandstone.png)
+
 SANDSTONE ON THE ROAD TO KUCHAR
+
+![033-carts-kuchar.png](033-carts-kuchar.png)
 
 EXPEDITION CARTS ON THE WAY TO KUCHAR
 
+![034-boy.png](034-boy.png)
+
 TRAVELING BOY-MUSICIAN IN CHINESE TURKESTAN
+
+![035-medicine-man.png](035-medicine-man.png)
 
 A TRAVELING NATIVE MEDICINE MAN, KARASHAHR
 
@@ -1898,11 +1940,19 @@ Next day we rode back to Karashahr and paid a visit to the magistrate. The offic
 
 We experienced some difficulty in finding carts for our baggage and pack animals for our camp outfit. At the last hour before our departure, four Chinese carts were hired to transport our baggage to Urumchi and ten mules belonging to a trader from Ku-ch'eng for our camp outfit.
 
+![036-washing-wool.png](036-washing-wool.png)
+
 WASHING WOOL AT KARASHAHR, CHINESE TURKESTAN
+
+![037-caravan-wool.png](037-caravan-wool.png)
 
 CAMEL CARAVAN WITH WOOL FOR TIENTSIN
 
+![038-river-toksun.png](038-river-toksun.png)
+
 RIVER VIEW NEAR TOKSUN
+
+![039-route-tien-shan.png](039-route-tien-shan.png)
 
 A DIFFICULT ROUTE IN THE TIEN SHAN
 
@@ -2042,11 +2092,19 @@ For almost two thousand years wave upon wave of indomitable nomad tribes stamped
 
 As in mountain regions where the displacement of a single stone often carries down thousands of stones in an avalanche, so with nomad tribes. In the history of the nomads, we see a tribe growing in prosperity and encroaching on the grazing grounds of its neighbors. By conquest and raids it collects around itself neighboring tribes that.
 
+![040-taoist.png](040-taoist.png)
+
 TAOIST TEMPLE IN URUMCHI, CAPITAL OF HSIN-CHIANG
+
+![041-yang-tseng-hsin.png](041-yang-tseng-hsin.png)
 
 THE MONUMENT OF YANG TSENG-HSIN, GOVERNOR-GENERAL OF HSIN-CHIANG, IN URUMCHI
 
+![042-jungaria.png](042-jungaria.png)
+
 ACROSS JUNGARIA; AN ACCIDENT ON THE WAY
+
+![043-caravan-jungaria.png](043-caravan-jungaria.png)
 
 THE CARAVAN OF THE EXPEDITION IN THE GRASS-COUNTRY OF JUNGARIA
 
@@ -2108,11 +2166,19 @@ Next day we rode out to the frontier post to have our passports stamped. After a
 
 We had to spend a considerable time in the office of the Mongol Frontier Commissioner, who was absent. It was a small wooden house of semi-Chinese, semi-European architecture. Long tables filled the rooms and on high tabourets sat the Mongol clerks. Most of them were dressed in the national Mongol coats with large red and yellow sashes and the large Mongol boots with repand toes or *gutul*. They quietly smoked their long Chinese pipes and attentively scrutinized us. One of them walked about the room, stopped in front of us, and pensively re-
 
+![044-car-river.png](044-car-river.png)
+
 A CAR CROSSING A FLOODED RIVER
+
+![045-urga.png](045-urga.png)
 
 ULAN BATOR OR URGA, CAPITAL OF MONGOLIA
 
+![046-zun-kuren.png](046-zun-kuren.png)
+
 ZUN-KÜREN IN URGA
+
+![047-tseren-dorje.png](047-tseren-dorje.png)
 
 TSEREN DORJE, HEAD OF THE MONGOLIAN GOVERNMENT
 
@@ -2162,11 +2228,19 @@ The only wooded part of the vicinity is the magnificent Bogdo ula --- the true n
 
 To a naturalist, the forest reserves of the Bogdo ula are of unique interest. Here on the forest-clad slopes of the holy mountain he can study the fauna of Mongolia and observe many of the larger animals, which have become almost extinct in other parts of Mongolia. The law forbidding hunting and the cutting of trees is still enforced by the Republican Government of Mongolia, which maintains police posts in the numerous gorges on the mountain side. On the southern slope of
 
+![048-camel-carriage.png](048-camel-carriage.png)
+
 A CAMEL CARRIAGE, URGA
+
+![049-sledges.png](049-sledges.png)
 
 SLEDGES IN WINTER
 
-YAK CARTS IN URCA
+![050-yak-carts.png](050-yak-carts.png)
+
+YAK CARTS IN URGA
+
+![051-young-mongol-auto.png](051-young-mongol-auto.png)
 
 A YOUNG MONGOL EXHIBITING HIS INVENTION: AN AUTOMOBILE
 
@@ -2210,11 +2284,19 @@ The art of printing was introduced into Tibet from China. The first Tibetan book
 
 In many of the tents inhabited by officials and other educated Mongols, we found electric lights. Furniture of European make is seldom seen. Most of the Mongols squat on the floor or use thick mattresses laid out along the walls of the tent. Large wooden boxes, often painted in bright colors --- red, yellow, or blue --- serve as storerooms, and usually stand on both sides of the door. Many of the European colony prefer to live in such tents, for they find them much warmer in winter and better protection from the bitterly cold winter winds that sweep the valley of the Tola.
 
+![052-lamas-camels.png](052-lamas-camels.png)
+
 MONGOLS AND CAMELS
+
+![052-mongols-camels.png](052-mongols-camels.png)
 
 LAMAS RIDING ON CAMELS, URGA
 
+![053-club-urga.png](053-club-urga.png)
+
 THE PEOPLE'S CLUB AT URGA, MONGOLIA
+
+![054-dogs.png](054-dogs.png)
 
 PACKS OF DOGS IN THE STREETS OF URGA
 
@@ -2398,11 +2480,19 @@ All these great assemblies of the clergy are impressive functions, during which 
 
 The next important temple in the *küren* is the Da-ching galba-yin-sümä, founded in 1739 during the reign of the Emperor Ch'ien long. The temple was destroyed by fire in 1892, but was subsequently rebuilt. Formerly its compound was used by the Bogdo Gegen, whose *yurtas* were pitched in it. Tibetan lamas, belonging to the immediate following of the Gegen, officiated in the temple. The last Bogdo Gegen spent
 
+![055-khalkha-mongols.png](055-khalkha-mongols.png)
+
 A GROUP OF KHALKHA MONGOLS
+
+![056-chinese-urga.png](056-chinese-urga.png)
 
 TYPES OF CHINESE IN URGA, MONGOLIA
 
+![057-new-year-urga.png](057-new-year-urga.png)
+
 A NEW YEAR CROWD IN URGA
+
+![058-masquerade-urga.png](058-masquerade-urga.png)
 
 NEW YEAR MASQUERADE IN URGA
 
@@ -2432,13 +2522,21 @@ The Grand Lama of Tashi-lhun-po was in his Second Incarnation Rig-den jam-pe dak
 
 Since the departure of the present Tashi Lama in 1923, the doctrine received a powerful new impulse, and numerous Kalacakra colleges were established by His Holiness himself in inner Mongolia and Buddhist China. Even in distant Buriatia is to be observed the same movement. Most of the monasteries establish special Kalacakra colleges with a special staff of lamas to officiate in them. Shambhala is not only considered to be the abode of hidden Buddhist learning, it is the guiding
 
+![059-new-year-dances.png](059-new-year-dances.png)
+
 NEW YEAR DANCES IN URGA
+
+![060-mahayana-hoshang.png](060-mahayana-hoshang.png)
 
 MAHAYANA HOSHANG
 
 ONE OF THE PERSONAGES OF THE NEW YEAR DANCE
 
+![061-lama-musicians.png](061-lama-musicians.png)
+
 LAMA MUSICIANS, URGA
+
+![062-lama-dances.png](062-lama-dances.png)
 
 LAMA DANCES IN URGA
 
