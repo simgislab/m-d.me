@@ -16,14 +16,20 @@ fediverse: "@username@instance.url"
 
 Turns out there is no good text version of Roerich's Trails to Inmost Asia. Available PDFs and Internet Archive TXT files are not usable for annotating and shared work and contain tons of errors. So here it is.
 
-* Based on [Internet Archive version](https://archive.org/details/in.ernet.dli.2015.43990) Roerich's book in TXT format.
+* Based on Roerich's book in TXT format from [Internet Archive](https://archive.org/details/in.ernet.dli.2015.43990).
 * Excessive line breaks removed to adapt for larger screens.
 * Page numbers are preserved for easy reference.
 * Lots of small edits and formatting.
 * Typos in the source text were not fixed.
 * [Google Docs version](https://docs.google.com/document/d/1ZvcCOrRze3yLZ7HC0lz-M40sQmiLVOqX7Nz8g7ZXY9s/edit?usp=sharing) - use to download as DOC or PDF or make a copy for your work online.
 
-## Book start
+## Book contents
+
+![01-roerich.png](01-roerich.png)
+
+PROFESSOR NICHOLAS ROERICH
+
+LEADER OF THE EXPEDITION
 
 TRAILS TO INMOST ASIA
 
@@ -615,9 +621,15 @@ The rain started again toward evening and continued for the rest of the night. I
 
 The route from Ganderbal to Baltal runs though a typical Kashmir mountain country with well-watered hillsides, receiving plenty of mois-
 
+![02-srinagar.png](02-srinagar.png)
+
 SRINAGAR, KASHMIR
 
+![03-sonamarg.png](03-sonamarg.png)
+
 SONAMARG, KASHMIR
+
+![04-maitreya.png](04-maitreya.png)
 
 MAITREYA ON THE ROAD
 
@@ -886,15 +898,21 @@ A broad road, on either side of which rise low walls of unhewn stones, leads to 
 
 17\. For a history of this king of Ladak, sec Dr. Francke, *A History of Western Tibet*, pp. 96 ff.
 
+![05-royal-palace-leh.png](05-royal-palace-leh.png)
+
 ROYAL PALACE OF LEH
 
 Painting by Nicholas Roerich
 
 *Roerich Museum, New York*
 
+![06-dugkar.png](06-dugkar.png)
+
 IMAGE OF THE GODDESS DUG-KAR
 
 IN THE ZANGSKAR MONASTERY AT LEH
+
+![07-stone-maitreya.png](07-stone-maitreya.png)
 
 STONE IMAGE OF MAITREYA
 
@@ -966,11 +984,17 @@ The road along the Indus Valley is extremely picturesque. The vivid green of its
 
 The autumn was rapidly setting in. Yellow leaves in the gardens and
 
+![08-roerich-at-work.png](08-roerich-at-work.png)
+
 PROFESSOR NICHOLAS ROERICH
 
 AT WORK IN THE RAJA's PALACE IN LEH, LADAK
 
+![09-tik-tse.png](09-tik-tse.png)
+
 THE TIK-TSE MONASTERY, LADAK
+
+![10-sheh-ladak.png](10-sheh-ladak.png)
 
 THE MONASTERY OF SHEH, LADAK
 
@@ -1134,11 +1158,19 @@ we had reached the summit of the pass, a violent cold wind accompanied by a snow
 
 Soon complete darkness enveloped the weathered rocks of the gorge. Nazar Bai rode ahead in search of a suitable grazing ground for the night, and his broad-shouldered figure mounted on his swift raven steed disappeared into the darkness. We continued marching until a very late hour. The men were murmuring and the animals were tired after the fatiguing struggle across the pass. My watch showed nine o'clock, then ten o'clock. Still no traces of Nazar Bai. The murmurs among the caravan drivers became louder. Was the old Nazar Bai mad to make men and animals march for more than twelve hours? It was getting impossible to ride because of the darkness. Myself and one of our syces went ahead of the caravan to find the trail. We went on foot, leading our horses behind us. Suddenly we found ourselves in water.
 
+![11-khardong-la.png](11-khardong-la.png)
+
 CROSSING THE KHARDONG LA
+
+![12-suget-pass.png](12-suget-pass.png)
 
 THE EXPEDITION CARAVAN BEFORE THE SUGET PASS
 
+![13-types-of-turki.png](13-types-of-turki.png)
+
 TYPES OF TURKI NATIVES
+
+![14-kirgiz.png](14-kirgiz.png)
 
 SANJU KIRGHIZ MEN AND WOMEN
 
@@ -4566,7 +4598,7 @@ The nomads of Kham and Hor understand the ballad differently. According to them 
 
 8\. On the relation of the Kesar saga to the ancient nature worship of Tibet, see Dr. A. H. Francke, *op. cit.*, Introduction.
 
-9\. *Globus*, LXXVIII, 98. 
+9\. *Globus*, LXXVIII, 98.
 
 10\. *Etnographicheskoe Obozrenie*, XXI, 2.
 
@@ -4762,7 +4794,7 @@ All these objects irrefutably attest the existence of the ancient central Asian 
 
 23\. The Kozlov plaque was published in the supplementary plates (I) of the *Preliminary Report of the Kozlov Expedition* (Leningrad, 1925), ed. Academy of Sciences of the U.S.S.R.
 
-CONVENTIONALIZED FIGURE OF SWAN ON SILVERED IRON PEN CASE FROM AMDO 
+CONVENTIONALIZED FIGURE OF SWAN ON SILVERED IRON PEN CASE FROM AMDO
 
 *Collection S. Roerich*
 
@@ -6228,7 +6260,7 @@ Bronzes, 28, 29, 30, 475
 
 Buddha, 247, 356-357, 485-486; cave shrine, 218
 
-Buddhism, 9, 10, 23, 37, 61, 131, 133-134, 147, 190, 226, 343 ff., 357; courses in metaphysics, 19, 129, 135, 148 ff.; eight happy offerings, 37, 138-139, 343, 365-366, 369; influence on Bön faith, 354 ff., 362; *Känjür* and *Tänjür*, 16, 138, 148, 159, 195, 254, 317, 328, 485; literature, 137, i47 ff., 357; MSS written in gold, 316; Milarepa, 473 ff.; ornamentation, 28 ff., 98, 153 ff., 193, 343, 362; *stupas*, 131. *See also* under Frescoes, Tantric, Wheel, Yellow Faith
+Buddhism, 9, 10, 23, 37, 61, 131, 133-134, 147, 190, 226, 343 ff., 357; courses in metaphysics, 19, 129, 135, 148 ff.; eight happy offerings, 37, 138-139, 343, 365-366, 369; influence on Bön faith, 354 ff., 362; *Känjür* and *Tänjür*, 16, 138, 148, 159, 195, 254, 317, 328, 485; literature, 137, 147 ff., 357; MSS written in gold, 316; Milarepa, 473 ff.; ornamentation, 28 ff., 98, 153 ff., 193, 343, 362; *stupas*, 131. *See also* under Frescoes, Tantric, Wheel, Yellow Faith
 
 Bulatov, Capt., 229
 
@@ -6272,9 +6304,9 @@ Carts, Chinese, 91
 
 Cast iron statue, Yang, 121
 
-Castles, Chig'tan, 25; Dard, 13, 17, 18, 24; Dogra, 12; Ja Lama, 211 ff., 233; Sod, 11, 12. *See also* Palaces
+Castles, Chig-tan, 25; Dard, 13, 17, 18, 24; Dogra, 12; Ja Lama, 211 ff., 233; Sod, 11, 12. *See also* Palaces
 
-Catle breeding, 50, 179, 252-253, 334; chief wealth of Tibet, 337-338; taxes, 410, 449
+Cattle breeding, 50, 179, 252-253, 334; chief wealth of Tibet, 337-338; taxes, 410, 449
 
 Caucasus, 367 ff., 418
 
@@ -6304,7 +6336,7 @@ Chang-skya Hutukhtu *yamen*, 224
 
 *Chang-skya pandita'i sung-bum*, 147
 
-Chang-*thang, see* Tibetan Uplands
+*Chang-thang, see* Tibetan Uplands
 
 Chanting, 154, 161
 
@@ -6320,7 +6352,7 @@ Ch'ien-long, 150, 154, 464
 
 Chig-tan, 15
 
-Chinese Annals, 61, 99, 100, 368; burial customs, 1 1 6, 142; carts, 91; fresco, 27; gold diggings, 209, 244; inscription, 56, 96; militia, 124, 481; neo-animal style, 367. Chinese in C. Turkestan, 52 ff., 87 ff.; in Hsin-chiang, 62 if.; in Jungaria, 124; in Mongolia, 136, 140, 146, 204, 218, 227, 230; in Tibet, 138, 299, 312, 335, 336, 339, 375, 464, 468, 481; in Tsaidam, 244 ff., 265. *See also* Tungans
+Chinese Annals, 61, 99, 100, 368; burial customs, 116, 142; carts, 91; fresco, 27; gold diggings, 209, 244; inscription, 56, 96; militia, 124, 481; neo-animal style, 367. Chinese in C. Turkestan, 52 ff., 87 ff.; in Hsin-chiang, 62 ff.; in Jungaria, 124; in Mongolia, 136, 140, 146, 204, 218, 227, 230; in Tibet, 138, 299, 312, 335, 336, 339, 375, 464, 468, 481; in Tsaidam, 244 ff., 265. *See also* Tungans
 
 Chinese Turkestan, agriculture, 52-53; caves, 49; country house, 27; greeting, 52; hospitality, 37, 52 ff.; Karakorum Route, 11, 20-21, 35 ff.; Kirghiz, 48 ff.; militia, 68, 81, 115, 120-121; passes, 39 ff., 45-46; songs, 37; Taklamakan Desert, 51, 54 ff. *See also* Hsin-chiang, Turkestan, Turkis
 
@@ -6396,7 +6428,7 @@ Dangra yum-tsho, 427-428
 
 d'Anville, 438
 
-Dara-£ke, 161
+Dara-Eke, 161
 
 Dardistan, 10, 12, 17; castles, 13, 17, 18, 24; graves, 29
 
@@ -6436,7 +6468,7 @@ Diary, 207 if.
 
 Dictionary, 257
 
-Dipankara Shrijñana. See Atisha
+Dipankara Shrijñana. *See* Atisha
 
 Doctor of expedition, *see under* Riabinin
 
@@ -6558,7 +6590,7 @@ Gabet, Father, 384
 
 Gambling houses, 97
 
-Gandcn Monastery, 107, 160 ff.
+Ganden Monastery, 107, 160 ff.
 
 Gandhara School, *see under* Greco-buddhist
 
@@ -6606,7 +6638,7 @@ Golubin, 309, 323, 328-329, 405, 441
 
 Gomang garpön, 285, 296, 376
 
-Gong-kar, 377. *See also* under Joint-Governors
+Gong-kar, 377. *See also under* Joint-Governors
 
 Goose, gray, 183, 188, 204, 429, 453, 456, 472
 
@@ -6618,11 +6650,11 @@ Gravel plains, 101-102, 187, 208, 237, 264 ff., 437
 
 Graves, 29, 30, 123, 417. *See also* Burial customs
 
-Great Lakes, region of, chap, xviii; administration, 409-410, 413, 420-421, 434; cattle-breeding and agriculture, 405 ff., 421, 424, 434; climate and topography, 404 ff., 409, 414 ff., 420, 427 ff., 431, 435 ff.; conical storehouses, 417; customs, dress, and language, 413, 416 ff., 433; desert region, 414; fauna, 414, 418, 426, 429, 432; geysers, 405; graves, 30, 417; *mani*-walls, 414, 417, 427; megalithic monuments, 415 ff., 440 ff.; salt lakes, 405 ff., 415, 418, 435, 439, 453. *See also* Chang-pas, Nam-ru dzong, Saga dzong, Shentsa dzong, Wang-po
+Great Lakes, region of, chap. xviii; administration, 409-410, 413, 420-421, 434; cattle-breeding and agriculture, 405 ff., 421, 424, 434; climate and topography, 404 ff., 409, 414 ff., 420, 427 ff., 431, 435 ff.; conical storehouses, 417; customs, dress, and language, 413, 416 ff., 433; desert region, 414; fauna, 414, 418, 426, 429, 432; geysers, 405; graves, 30, 417; *mani*-walls, 414, 417, 427; megalithic monuments, 415 ff., 440 ff.; salt lakes, 405 ff., 415, 418, 435, 439, 453. *See also* Chang-pas, Nam-ru dzong, Saga dzong, Shentsa dzong, Wang-po
 
 Greco-buddhist art, 99
 
-Grum-Grjimailo, no
+Grum-Grjimailo, 110
 
 Grünwedel, 99, 100, 359
 
@@ -6668,7 +6700,7 @@ Hayden, Sir Henry, 423 ff., 427-428
 
 Headdresses, 48, 256, 348-349, 417, 460
 
-Hedin, Dr. Sven, 291, 335, 425 ff., 431 ff., 436, 438, 441, 449. 451. 488
+Hedin, Dr. Sven, 291, 335, 425 ff., 431 ff., 436, 438, 441, 449, 451, 488
 
 Hemis Monastery, 20, 27, 30
 
@@ -6690,7 +6722,7 @@ Hodgson, Brian, 438
 
 Hoopoe, 452
 
-Hor, High Commissioner of, 288, 293 ff.; at camp of, 299 ff., 307 ff., 312, 317, 323, 326, 329, 335-336; resentment of his rule, 375. 391. 394-396
+Hor, High Commissioner of, 288, 293 ff.; at camp of, 299 ff., 307 ff., 312, 317, 323, 326, 329, 335-336; resentment of his rule, 375, 391, 394-396
 
 Hor-pas, 29, 185, 291, 305, 340-349, 351, 375, 382; cattle-breeding, 337-339; greeting, 292; Kesar saga, 345; militia, 292 ff.; objects in animal style, 368-369, 398; orchestra, 300; tribal administration, 336-339. *See also* Joint Governors
 
@@ -6700,7 +6732,7 @@ Horses, 5, 50, 86, 237, 252, 273, 289, 311, 336-337, 407, 416, 473; brigand, 360
 
 Hot Springs, 291-292, 438. *See also* Geysers
 
-Households, Ladak, 14, 19, 37; Tibet, Tibetan Uplands, 41 1. *See also under* Tents
+Households, Ladak, 14, 19, 37; Tibet, Tibetan Uplands, 411. *See also under* Tents
 
 Hsin-chiang, 88-122; agriculture, 89, 98; antiquities, 91, 99-100; cave-temples, 98; gamblers, 97; highway, 95 ff.; history, 100, 117-118; militia, 81-82, 120; population, 88, 103 ff., 115, 121; Russo-Asiatic Bank, 89, 118 ff.; trade, 89-90. *See also* Toïn Lama, Yang Tseng-hsin
 
@@ -6714,7 +6746,7 @@ Hungu Mountains, 242, 244
 
 **496 TRAILS TO INMOST ASIA**
 
-Hunting yaks, 273, 276; prohibited in Tibet, 309. 385. 409
+Hunting yaks, 273, 276; prohibited in Tibet, 309. 385, 409
 
 Hutukhtu, Chang-skya, 224; Ilgusan, 225; Jahantsa, 225; Je-tsün tam-pa, 132, 135 ff., 153, 155
 
@@ -6748,7 +6780,7 @@ Inner Fire, hidden science of, 474 ff.
 
 Inscriptions, 13, 14, 17, 28, 44, 51, 56, 96. *See also* Stone inscriptions
 
-Iranian influence in art of Central Asia and Tibet, 49, 99, 367; MSS, 61--63; population in Khotan, 61
+Iranian influence in art of Central Asia and Tibet, 49, 99, 367; MSS, 61-63; population in Khotan, 61
 
 Iron keys, 24
 
@@ -6794,7 +6826,7 @@ Jye-tshap-je, 153, 485
 
 Kadir Khan Jusuf, 62
 
-Kadru, 394* 403» 421. 487
+Kadru, 394, 403, 421, 487
 
 Kailasa Mountain, Megalithic monuments, 355, 416; pilgrimages to, 414 ff. *See also* Naro, 27
 
@@ -6824,7 +6856,7 @@ Karakorum Route, 11, 20, 21, 35 ff., 44
 
 Karakum Desert, 87
 
-Karashahr, horse center, 92, 1 03-1 09, 119-120, 226
+Karashahr, horse center, 92, 103-109, 119-120, 226
 
 Karghalik, 23, 85
 
@@ -6978,7 +7010,7 @@ Lazarist fathers, 384
 
 Le Coq, Dr., 54, 91, 98, 99, 100
 
-Legends and beliefs: arrowheads, 351, 418; attainment of longevity, 380; Bön, 356 ff., 358; concerning Buddha, 356-357; "earth poison,*' 241; Gobi, 181, 199, 217-218; Kesar, 358 ff.; concerning Milarepa, 474; Pigeon's Sanctuary, 56; Saga dzong, 451; Shambhala, 157; Thang La, 290; Trans-Himalayas, 436; Zoji Pass, 9
+Legends and beliefs: arrowheads, 351, 418; attainment of longevity, 380; Bön, 356 ff., 358; concerning Buddha, 356-357; "earth poison," 241; Gobi, 181, 199, 217-218; Kesar, 358 ff.; concerning Milarepa, 474; Pigeon's Sanctuary, 56; Saga dzong, 451; Shambhala, 157; Thang La, 290; Trans-Himalayas, 436; Zoji Pass, 9
 
 Leh, Ladak, archaeological possibilities, 20, 22, 23, 29, 30; Christians, 28-29; evening prayers, 25; frescoes, 26, 27; Hemis Monastery, 27; household, 27; Islam mosque, 29; *mani*-wall, 28; Moravian Mission, 20, 415; palace, 24 ff.; population, 23; Raja, 24, 26; temples, 26; trade, 21, 22
 
@@ -7098,7 +7130,7 @@ Memo, 472 ff.
 
 *Men, Beasts and Gods* (Ossendowski), 223
 
-Men-dongs, 28, 291
+*Men-dongs*, 28, 291
 
 Menhirs, 355, 415 ff., 440-441
 
@@ -7176,7 +7208,7 @@ Naro Bön-chung (Naropa), 9, 16, 27, 358, 474
 
 Narthang publications, 16, 138, 254, 475, 485
 
-Na-tra La, 4 13-4 14
+Na-tra La, 413-414
 
 Nature worship, 353 if. *See also* Bön
 
@@ -7226,7 +7258,7 @@ Nya-shing tsho, 406 ff.
 
 Nying-ma-pa, *see* Red sect
 
-Nystrom, Dr., 72, 83
+Nyström, Dr., 72, 83
 
 *Obo*, Tibetan New Year rite, 393; definition, 242. *See also* Stone cairns
 
@@ -7366,7 +7398,7 @@ Printing, 63, 129, 138, 147, 151, 167, 316, 317. *See also* under Derge, Kumbum,
 
 Private houses, *see* Households
 
-Prjevalski, i68, 242, 271, 347
+Prjevalski, 168, 242, 271, 347
 
 *Puru*, Tibetan cloth, 23, 348
 
@@ -7382,7 +7414,7 @@ Ratri, 417, 420
 
 Rats, shrine, 82
 
-Ravens, 41, 309, 31 1
+Ravens, 41, 309, 311
 
 Rawak, C. T., 63, 71
 
@@ -7420,7 +7452,7 @@ Rinchen bzang-po, 9, 17
 
 Rockhill, W., 271-272, 376
 
-Roerich, Professor Nicholas, 31, 54, 65, 71, 75, 87, 120, 133, 178, I94, 211, 212, 239, 244 ff., 274, 289, 295, 298 ff., 309, 319, 325, 328, 387, 390, 394, 396; discovery, ancient graves, 417, 443, 473, 477, 483-484
+Roerich, Professor Nicholas, 31, 54, 65, 71, 75, 87, 120, 133, 178, 194, 211, 212, 239, 244 ff., 274, 289, 295, 298 ff., 309, 319, 325, 328, 387, 390, 394, 396; discovery, ancient graves, 417, 443, 473, 477, 483-484
 
 Roerich, Mrs. N., 31, 40, 44, 50, 54, 72-73, 104, 173, 194, 206, 217, 239, 241, 244, 267, 272, 299, 306 ff., 308, 328; discovery, brass buckle with animal *motif*, 418, 472; tribute to, 173
 
@@ -7674,17 +7706,17 @@ Tambourines, in Tantric services, 147; theatrical performances, 84, 85
 
 T'ang sculptors, 103
 
-T*ang, 84
+T'ang, 84
 
-*Tänjür*, 150. *See also* *Känjür*
+*Tänjür*, 150. *See also Känjür*
 
-Tantras of the Cods of the Sun of Wisdom, 354
+*Tantras of the Cods of the Sun of Wisdom*, 354
 
 Tantric Buddhism, 147, 155 ff., 306, 355, 485; lamas, 310, 320, 349
 
 Tao, Mr. M. Y., 89, 91
 
-Tara, 14, 24, 147, 238, 363-364. 411. 485; images, 24, 238, 411; paintings, 363-364, 485
+Tara, 14, 24, 147, 238, 363-364. 411, 485; images, 24, 238, 411; paintings, 363-364, 485
 
 Tarbagatai, 124
 
@@ -7794,7 +7826,7 @@ Tree *motifs* in animal style, 369, 370-371
 
 Treichman, Eric, 388
 
-*Tripizaka*, 138, 357, 388
+*Tripitaka*, 138, 357, 388
 
 Trumpets, 300, 474
 
@@ -7838,7 +7870,7 @@ Tumuli, of Mongolian steppe, 184. *See also*, Barrows, Graves, *Mazars*, *Stupas
 
 *Tum-mo*, 474 ff.
 
-Tungans, 96, X15, 121, 124, 392
+Tungans, 96, 115, 121, 124, 392
 
 Turfan, 99-100
 
@@ -7910,7 +7942,7 @@ Wahaba Wanganu, 7
 
 Wall paintings, *see* Frescoes
 
-Walls, 428, 487. *See also* *Mani*-
+Walls, 428, 487. *See also Mani*-
 
 Wang-po, 353, 425, 428
 
@@ -7966,7 +7998,7 @@ Yarkend, chief *entrepot* of Indian and A 1 trade, 86; felts, 22; horses, 86; pr
 
 Yarkend darya, 86
 
-Yellow Faith (Gelük-pa), 248, 255, 349, 359, 392 ff. (New Year) ; Yellow Hat Monasteries, 18-19, 27, 30, 477 ff., 484-485
+Yellow Faith (Gelük-pa), 248, 255, 349, 359, 392 ff. (New Year); Yellow Hat Monasteries, 18-19, 27, 30, 477 ff., 484-485
 
 Yetts, Percival, 371
 
@@ -7984,6 +8016,6 @@ Zangskar Monastery, 19, 27; ponies, [5](#5)
 
 Zawa Kurghan, 56
 
-Zi-beads, 460
+*Zi*-beads, 460
 
 Zoji Pass, 7 ff.
