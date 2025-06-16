@@ -5464,11 +5464,19 @@ The megalithic monuments discovered by the expedition are completely unknown to 
 
 March 23. At the start, we had some trouble with local horses, which had never seen camels before and dashed in all directions. Some time passed before we were able to bring all the animals back to camp. The route followed a mountain gorge, which stretched in a southwesterly direction. Wind-eroded granite massifs rose on either side of the gorge. The path led across a low, sandy ridge, from whose top we looked over a broad grass valley dotted by encampments. The valley was inclosed by high, sandy ridges with eroded surfaces. After crossing the valley, we entered a system of low, sandy ridges, deeply cut by dry river beds.
 
+![131-cromlechs-do-ring.png](131-cromlechs-do-ring.png)
+
 SAND-BURIED CROMLECHS AND ALINEMENT AT DO-RING, SOUTHWEST OF PANG-GONG LAKE
+
+![132-grave-nag-tshan.png](132-grave-nag-tshan.png)
 
 ANCIENT GRAVE IN NAG-TSHANG
 
+![133-crossing-tarko.png](133-crossing-tarko.png)
+
 CROSSING THE TARKÖ TSANG-PO
+
+![134-approaching-trans-himalayas.png](134-approaching-trans-himalayas.png)
 
 THE EXPEDITION COLUMN APPROACHING THE TRANS-HIMALAYAS
 
@@ -5784,11 +5792,17 @@ April 19. We started at seven o'clock and retraced our steps, until we had reach
 
 The ascent to the pass was very steep and our poor animals had a very hard time. They often had to stop to regain their wind. From the summit one could see three valleys, the Tsuk-chung on the northeast.
 
+![135-kinchenjunga.png](135-kinchenjunga.png)
+
 KINCHENJUNGA --- THE MOUNTAIN OF THE FIVE TREASURIES
 
 PAINTING BY NICHOLAS ROERICH, WHITE HOUSE WASHINCTON, D. C.
 
+![136-saga-dzong.png](136-saga-dzong.png)
+
 SAGA DZONG
+
+![137-trans-himalayas-saga-dzong.png](137-trans-himalayas-saga-dzong.png)
 
 THE TRANS-HIMALAYAS FROM SAGA DZONG
 
@@ -5868,11 +5882,19 @@ April 26. We made an early start, for everyone in the caravan was eager to reach
 
 We followed the valley for another four miles and then camped on a level spot on the bank of a tiny mountain stream emptying into the Tsang-po. Here two tents were pitched for us by order of the *yu-pön* or headman of Yanju. The place was known under the name of Phur. Fine, multicolored rocks rose on either side of the narrow valley. The dark coloring of basalt alternated with bands of bright red and purple limes, on whose background were scattered the bright green spots of juniper shrubs. Snow was still lying in sheltered ravines. The Yanju men who brought the tents refused to supply fuel and fodder on the ground that they did not desire to serve Ja-gar *phyi-lings* or Indian *phyi-lings*. We ordered their names to be taken and reported to the local authorities at Yanju. After this stern threat the fuel and fodder ap-
 
+![138-brahmaputra.png](138-brahmaputra.png)
+
 CROSSING THE BRAHMAPUTRA
+
+![139-saga-jo-chung.png](139-saga-jo-chung.png)
 
 THE SNOW-PEAK SAGA JO-CHUNG
 
+![140-tsang-po.png](140-tsang-po.png)
+
 THE VALLEY OF THE TSANG-PO
+
+![141-chatu-gompa.png](141-chatu-gompa.png)
 
 CHATU GOMPA IN THE VALLEY OF THE TSANG-PO
 
@@ -6104,9 +6126,15 @@ In some of the houses at Tingri and the villages of the locality, we found wall 
 
 May 6. We made an early start. At six o'clock the caravan left Memo and crossed the vast plain on which the village was situated. After turning a rocky promontory, the trail followed a narrow valley, inclosed on all sides by limestone ridges. At a small village of a dozen hovels, situated on the Phung-chu, the road branched off. One road followed the bank of the river toward a bridge, the other forded the river at the village and turned northeast into the mountains. The second road was much shorter and we decided to ford the river. Having hired two men as guides we began the fording. The river was deep and some of us who were riding on small horses got our feet wet. There was trouble in bringing over the donkey caravan. The water was too high for a laden donkey and some of the larger loads had to be carried across on men's backs. The bed of the river was sandy and in the rainy season (July-August), swelled considerably. On crossing the river, we entered a highly intersected country of sandy and limestone hills. After two miles the limestone disappeared and we rode past rocky crags and massive witnesses of volcanic activity in a recent geological period. The road was narrow and heavy. After crossing two
 
+![142-tingri.png](142-tingri.png)
+
 TINGRI
 
+![143-shekar-dzong.png](143-shekar-dzong.png)
+
 SHEKAR DZONG
+
+![144-stupa-chung-tu.png](144-stupa-chung-tu.png)
 
 *STUPA* AT CHUNG-TÜ
 
@@ -6178,13 +6206,19 @@ A camp was pitched for us outside the headman's house on a patch of level ground
 
 May 12. In the morning the headman unexpectedly refused to supply caravan animals. He said that the Governor of Shekar knew perfectly well that Tashi-gang was not on the main road to Ting-kye and that Tashi-gang was exempt from relay or *ula* service by special order from His Holiness the Dalai Lama. The two officials from She-kar who were escorting us as far as Ting-kye, were unable to persuade
 
+![145-chung-tu.png](145-chung-tu.png)
+
 ROYAL MONASTERY OF CHUNG-TÜ, NEAR SA-SKYA
 
 PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
+![146-kampa-dzong-1.png](146-kampa-dzong-1.png)
+
 KAMPA DZONG
+
+![147-kampa-dzong-2.png](147-kampa-dzong-2.png)
 
 KAMPA DZONG
 
@@ -6224,13 +6258,19 @@ May 14. It was not easy to start the new caravan, for the baggage had to be agai
 
 The day was cloudy and the Himalayas were hidden behind an impenetrable veil of mist. Distant thunder roared in the mountains and occasional rain and wet snow fell during the morning. After two hours of hustle, we left the camp with the last section of the caravan. The
 
+![148-ling-kar.png](148-ling-kar.png)
+
 LING-KAR
 
 PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
+![149-lepcha-sikkim.png](149-lepcha-sikkim.png)
+
 LEPCHA HILLMAN, SIKKIM
+
+![150-pema-yangtze.png](150-pema-yangtze.png)
 
 THE MONASTERY OF PEMA-YANGTZE IN SIKKIM
 
