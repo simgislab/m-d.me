@@ -3980,13 +3980,19 @@ The ascent was long but not too steep. *Kyangs* grazing in the vicinity of the p
 
 The summit of the pass was crowned by a stone cairn and a *men-*
 
+![095-thang-la.png](095-thang-la.png)
+
 THE THANG LA
 
 PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
+![096-before-thang-la.png](096-before-thang-la.png)
+
 BEFORE THE THANG LA
+
+![097-decent-thang-la.png](097-decent-thang-la.png)
 
 THE DESCENT FROM THE THANG LA
 
@@ -4150,11 +4156,19 @@ One of our Mongols in charge of our caravan animals, returned to camp and report
 
 October 27, 1927. The day was again sunny but bitterly cold, the thermometer registering -20°C. Late in the afternoon a messenger
 
+![098-tibetan-nomads.png](098-tibetan-nomads.png)
+
 TIBETAN NOMADS
+
+![099-nomad-camp.png](099-nomad-camp.png)
 
 A NOMAD CAMP
 
+![100-tibetan-soldiers.png](100-tibetan-soldiers.png)
+
 TIBETAN SOLDIERS, STATIONED AS GUARDS IN THE EXPEDITION CAMP AT CHU NA-KHE
+
+![101-camp-chu-na-khe.png](101-camp-chu-na-khe.png)
 
 EXPEDITION CAMP DURING THE DETENTION AT CHU-NA-KHE
 
@@ -4218,11 +4232,19 @@ The next day one of our Torguts arrived at our camp and reported that the horses
 
 The Major paid us a visit and brought ten small bags of grain for our horses and one bag of *tsam-pa* for the expedition personnel. These provisions were collected with great difficulty from the local population, which was short of grain and other supplies. We again asked the Major to permit us to sell our animals to traders and pilgrims at Nag-chu but he made the same reply that he had no power to do so without permission from the Government, which had forbidden him to allow us to trade with local people. We were supposed to receive our rations from the Government. The Major told us an amusing story which showed well the mental attitude of the Tibetan authorities. The expedition had brought from Su-chou one rooster and two hens. The fowls were fed on grain, but as we needed all the available grain for our animals, we presented them to the Major. The disappearance of the birds from our camp was quickly noticed and somehow reported to the Joint-Governors of Nag-chu. The Major had addressed a letter to the Joint-Governors saying that according to his observations we were religious
 
+![102-camp-snow.png](102-camp-snow.png)
+
 EXPEDITION CAMP BURIED IN SNOW AT CHU-NA-KHE
+
+![103-camp-chu-na-khe.png](103-camp-chu-na-khe.png)
 
 EXPEDITION CAMP AT CHU-NA-KHE
 
+![104-perishing-caravan.png](104-perishing-caravan.png)
+
 THE PERISHING CARAVAN
+
+![105-tibetan-guard.png](105-tibetan-guard.png)
 
 A TIBETAN GUARD IN THE EXPEDITION CAMP AT CHU-NA-KHE
 
@@ -4374,11 +4396,19 @@ The road to Sharugön was free from snow. After a two hours' ride, we reached th
 
 The head lama of the monastery paid us a visit and brought some milk as a present. He said that the monks did not object to our stay in
 
+![106-stupa-sharugon.png](106-stupa-sharugon.png)
+
 *STUPA* AT SHARUGÖN
+
+![107-monastery-sharugon.png](107-monastery-sharugon.png)
 
 MONASTERY AT SHARUGÖN
 
+![108-bon-po-sharugon.png](108-bon-po-sharugon.png)
+
 THE BÖN-PO MONASTERY AT SHARUGÖN
+
+![109-camp-sharugon.png](109-camp-sharugon.png)
 
 EXPEDITION CAMP AT SHARUGÖN
 
@@ -4858,9 +4888,15 @@ The present Bön-po population is not very strict in the observance of Bön rite
 
 Some of the Bön-po lamas in the Hor region are quite wealthy, possessing large herds of yaks, flocks of sheep, and well-furnished, private libraries. They all live in tents. Sometimes two or three tents are put together to form one tent long enough to quarter all the family and some of the servants. Many of such lama householders are successful traders and sell tea bricks to the population, which they receive from Ssu-ch'uan, and other commodities. The local nomads profess great respect toward them and invariably address them as *Kusho rimpoche* or *lama-la*. Precious Sir, or Venerable Teacher. All the Bön-po laymen wear charm boxes or *ga-u* on their necks and across the shoulder, and turn prayer wheels in an opposite direction. Close to their tents stand big poles with prayer flags and one sometimes sees yak and horse tails fixed to the poles.
 
+![110-women-hor.png](110-women-hor.png)
+
 WOMEN OF HOR IN THE REGIN OF NUP-HOR
 
+![111-tinder-pouch-1.png](111-tinder-pouch-1.png)
+
 TINDER AND FLINT POUCH. HOR REGION, NORTH TIBET
+
+![112-tinder-pouch-2.png](112-tinder-pouch-2.png)
 
 TINDER AND FLINT POUCH, HOR REGION, NORTH TIBET
 
