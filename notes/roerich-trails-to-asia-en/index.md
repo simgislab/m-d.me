@@ -14,7 +14,11 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-Turns out there is no good text version of Roerich's Trails to Inmost Asia. Available PDFs and Internet Archive TXT files are not usable for annotating and shared work and contain tons of errors. So here it is.
+Original source: 
+
+> Roerich, N. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
+
+Turns out there is no good text version of Roerich's Trails to Inmost Asia. Available PDFs and Internet Archive TXT files are not usable for annotating and shared work. TXT contains lots of errors. So here it is.
 
 * Based on Roerich's book in TXT format from [Internet Archive](https://archive.org/details/in.ernet.dli.2015.43990).
 * Excessive line breaks removed to adapt for larger screens.
@@ -31,7 +35,7 @@ PROFESSOR NICHOLAS ROERICH
 
 LEADER OF THE EXPEDITION
 
-TRAILS TO INMOST ASIA
+**TRAILS TO INMOST ASIA**
 
 PUBLISHED ON THE FOUNDATION ESTABLISHED
 
@@ -43,17 +47,17 @@ PROFESSOR NICHOLAS ROERICH
 
 LEADER OE THE EXPEDITION
 
-TRAILS TO
+**TRAILS TO**
 
-INMOST ASIA
+**INMOST ASIA**
 
-FIVE YEARS OF EXPLORATION WITH THE
+**FIVE YEARS OF EXPLORATION WITH THE**
 
-ROERICH CENTRAL ASIAN EXPEDITION
+**ROERICH CENTRAL ASIAN EXPEDITION**
 
-BY
+**BY**
 
-GEORGE N. ROERICH
+**GEORGE N. ROERICH**
 
 WITH A PREFACE BY LOUIS MARIN
 
