@@ -4924,15 +4924,23 @@ We are concerned here only with the end of the above passage. A section of the Y
 
 19\. Fr. Hirth, "The Story of Chang-K'ien, *JAOS*, Vol. 37, 2 (1917), chap. 123, p. 96.
 
+![113-buckle-ching-kar.png](113-buckle-ching-kar.png)
+
 BRASS BUCKLE, CHING-KAR, NAM-RU DISTRICT, NORTH TIBET
+
+![114-flint-pouch-lahul.png](114-flint-pouch-lahul.png)
 
 FLINT POUCH, LAHUL, WEST TIBET
 
 FROM THE COLLECTION OF S. N. ROERICH
 
+![115-deer-charm-box.png](115-deer-charm-box.png)
+
 DEER ON BRASS CHARM BOX
 
 FROM THE COLLECTION OF S. N. ROERICH
+
+![116-photo-deer-charm-box.png](116-photo-deer-charm-box.png)
 
 PHOTOGRAPH OF DEER ON BRASS CHARM BOX
 
@@ -4964,15 +4972,23 @@ In comparing the two plaques, one can readily see the similarity of composition.
 
 21\. The piece was reproduced on Plate VIII of the Preliminary Report, published by the Academy of Sciences, 1925.
 
+![117-conventionalized-deer.png](117-conventionalized-deer.png)
+
 CONVENTIONALIZED FIGURE OF DEER ON SILVERED IRON PEN CASE
 
 FROM THE COLLECTION OF S. N. ROERICH
 
+![118-photo-deer-pen-case.png](118-photo-deer-pen-case.png)
+
 PHOTOGRAPH OF DEER ON SILVERED IRON PEN CASE
+
+![119-plaque-derge.png](119-plaque-derge.png)
 
 METAL PLAQUE FROM DERGE
 
 FROM THE COLLECTION OF S. N. ROERICH
+
+![120-plaque-noin-ula.png](120-plaque-noin-ula.png)
 
 METAL PLAQUE FROM THE NOIN ULA MOUNTAINS
 
@@ -4991,6 +5007,8 @@ All these objects irrefutably attest the existence of the ancient central Asian 
 22\. *The Burlington Magazine*, XLVIII (April, 1926), pp. 168-185; for the plaque see Plate IV, J, of the same article.
 
 23\. The Kozlov plaque was published in the supplementary plates (I) of the *Preliminary Report of the Kozlov Expedition* (Leningrad, 1925), ed. Academy of Sciences of the U.S.S.R.
+
+![121-conventionalized-swan.png](121-conventionalized-swan.png)
 
 CONVENTIONALIZED FIGURE OF SWAN ON SILVERED IRON PEN CASE FROM AMDO
 
@@ -5094,13 +5112,21 @@ The Nag-chu *dzong* is situated some one hundred and fifty miles north of Lhasa 
 
 1\. Huc and Gabet, *Travels in Tartary, Thibet, and China*, ed. Professor Peiliot (London, 1928), pp. 161 *et seq*.
 
+![122-hq-nagchu.png](122-hq-nagchu.png)
+
 HEADQUARTERS OF THE EXPEDITION AT NAGCHU
 
 THE AMERICAN FLAG SHOWN WAS THE FIRST EVER TO FLY IN TIBET
 
+![123-hq-nagchu-2.png](123-hq-nagchu-2.png)
+
 HEADQUARTERS OF THE EXPEDITION AT NAGCHU
 
+![124-nagchu-dzong.png](124-nagchu-dzong.png)
+
 NAGCHU DZONG
+
+![125-shab-den-nagchu.png](125-shab-den-nagchu.png)
 
 SHAB-DEN MONASTERY AT NAGCHU
 
@@ -5190,13 +5216,23 @@ On the evening of the next day, I visited the *khan-po*, and had a long talk abo
 
 Next day (February 20), we witnessed the ceremony of burning the *torma* or offerings to the spirits of the place, performed before the New Year. The first ceremony took place at the house of the *khan-po*. We were invited and allowed to take photographs of the procession. At the head, two lamas carried the *torma*. They were followed by the chief lama, dressed in a red mantle and having the *sha-ser* or yellow hat of his sect on his head. He was followed by a number of lamas, all carrying objects used in the ceremonies. The lamas were followed by lama musicians carrying drums and long trumpets called *dung-chen* and Tibetan hautboys. The dead sound of the drums accompanied the procession, which was escorted by a troop of local headmen in brightly colored dresses with green and red turbans on their heads. They all
 
+![126-street-nagchu.png](126-street-nagchu.png)
+
 A STREET IN NAGCHU
+
+![127-burning-torma.png](127-burning-torma.png)
 
 BURNING THE *TORMA* OR NEW YEAR OFFERING
 
+![128-nag-chu-ka.png](128-nag-chu-ka.png)
+
 NAG-CHU-KA, TIBETAN UPLAND
 
+![129-stone-hovel.png](129-stone-hovel.png)
+
 A STONE HOVE ON THE TIBETAN UPLAND
+
+![130-grzing-yaks.png](130-grzing-yaks.png)
 
 GRAZING YAKS ON THE TIBETAN UPLAND
 
