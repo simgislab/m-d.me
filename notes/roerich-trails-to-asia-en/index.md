@@ -2564,13 +2564,19 @@ In the upper corner of such paintings we see the representation of Pal-den ye-sh
 
 In the Temple of Astrology in Urga, the lama students are first trained in astronomy and astrology and then initiated into the secrets of
 
+![063-altar.png](063-altar.png)
+
 ALTAR WITH PAINTED IMAGE OF D PAL-LDAN YE-SHES
 
 THE THIRD TASHI LAMA OF TIBET (1740-80)
 
 *Roerich Museum, New York*
 
+![064-maitreya-urga.png](064-maitreya-urga.png)
+
 TEMPLE OF MAITREYA, URGA
+
+![065-pilgrims-maitreya.png](065-pilgrims-maitreya.png)
 
 PILGRIMS IN FRONT OF THE MAITREYA TEMPLE IN URGA
 
@@ -2596,15 +2602,23 @@ They rushed in pursuit and overtook Pal-dorje on the way, but instead of a Bön 
 
 On the northwest of Urga stands the great monastery of Ganden, the seat of higher Buddhist learning. When entering Urga by the Kiakhta route, one sees this huge square block of small wooden hovels and palisades, over which towers the great temple or *lha-khang* of Aryabalo or Avalokitesvara. Outside the monastery on its northern and eastern extremities stand twenty-eight white *stupas* which protect the approaches to the monastery. Narrow lanes on either side of which rise gray wooden palisades, sheltering the monk's quarters, lead to the center of the monastery where is situated the great temple of the Bodhisattva Avalokitesvara. It is a huge building in the Sino-Mongolian style.
 
+![066-black-hat-dance.png](066-black-hat-dance.png)
+
 THE BLACK-HAT DANCE, URGA
 
+![067-dance-progress.png](067-dance-progress.png)
+
 DANCE IN PROGRESS
+
+![068-black-hat-dancer.png](068-black-hat-dancer.png)
+
+BLACK-HAT DANCER, URGA
+
+![069-suburghan.png](069-suburghan.png)
 
 THE BIG *SUBURGHAN* OR *STUPA*
 
 IN FRONT OF THE GANDEN MONASTERY, URGA
-
-BLACK-HAT DANCER, URGA
 
 **161 MONGOLIA**
 
@@ -2626,13 +2640,21 @@ On arriving in Ganden, we were ushered into a narrow lane, leading to a small re
 
 The furnishing of his tent was simple but clean and cozy. A large iron stove in the center gave plenty of warmth. An altar with a glass case containing several small images and photos of great lamas, stood at the northern wall of the tent. Near to the altar stood a table and a large wooden case containing the lama's library. He himself was engaged in translating into Tibetan a Russian textbook on algebra for the use of the monastery lamas. He told us that Buddhism should be renovated in the light of modern science. It was necessary to improve the general education of the lamas. According to him, in times past one met learned lamas, who knew Sanskrit and had a thorough knowledge of the *tshan-nyid* literature of Buddhism. Now such men are rare, and most of the lamas content themselves with learning by heart a few proscribed prayer books. The *lha-ram-pa* was well aware of the fact that unless the church would improve the education of the lamas, the influence of religion would rapidly wane. A question that greatly agitated the clerical masses was that of the *khuvaraks* or novices. According to the old rule, boys of seven were given away by their parents to a monastery to become lamas. A family that had several sons would always give one of them away. Educated from early boyhood in the precepts and traditions of the Lamaist order, the boys grew into staunch supporters of the church. The new progressive government of Mongolia recently promulgated a law that only boys of eighteen could enter the monastery and that they should do so entirely of their own accord. This was a heavy blow to the church, which suddenly lost its right of recruiting novices among the population. Our informer was, however, of the opinion that the importance lay in quality and not in quantity; let there be fewer lamas, but real ones, learned in the precepts of their religion.
 
+![070-avalokitesvara.png](070-avalokitesvara.png)
+
 TEMPLE OF AVALOKITESVARA, GANDEN MONASTERY, URGA
+
+![071-incense-burner.png](071-incense-burner.png)
 
 BRONZE INCENSE BURNER
 
 IN FRONT OF THE GANDEN MONASTERY, URGA
 
+![072-altar-ganden.png](072-altar-ganden.png)
+
 TEMPLE ALTAR, GANDEN MONASTERY, URGA
+
+![073-photo-bogdo-gegen.png](073-photo-bogdo-gegen.png)
 
 ALTAR WITH PHOTOGRAPH OF THE BOGDO GEGEN, GANDEN MONASTERY, URGA
 
@@ -2652,11 +2674,19 @@ One of the most important events in the religious life of the capital is the Mai
 
 horses. The long trumpets send out their deep sonorous notes and are accompanied by the clear ringing tones of the hautboys and clarinets. Now and then is heard the clashing sound of cymbals, deadened by the drums. A thousand feet trample on the dusty road. Majestic abbots in high lama hats and purple mantles, young *getsul* or novices in shabby garments, officials and commoners, all in one huge crowd follow the image of the One who incarnates all the hopes of Buddhist Mongolia. Some of the onlookers prostrate themselves in the dust before the passing images, others murmur prayers and jostle each other to get nearer to the images. This procession is the passing of old Mongolia, the country of Incarnate Lamas and gorgeously fantastic garments --- the colorful costumes of the crowd and the deep purple clerical robes are sharply contrasted with the somber khaki uniforms of the Mongol cavalrymen who line the path of the procession --- symbols of old and new Mongolia.
 
+![074-mongol-lamas.png](074-mongol-lamas.png)
+
 TYPES OF MONGOL LAMAS
+
+![075-dara-eke-consort.png](075-dara-eke-consort.png)
 
 DARA-EKE, THE CONSORT OF THE LAST BOGDO GEGEN
 
+![076-gates-cho-jin.png](076-gates-cho-jin.png)
+
 GATES OF CHÖ-JIN LAMA-YIN-SÜMÄ
+
+![077-horses-procession.png](077-horses-procession.png)
 
 HORSES USED IN RELIGIOUS PROCESSIONS TO CARRY THE HOLY IMAGES
 
@@ -2890,11 +2920,19 @@ We started next day with the object of reaching Yum-beise küren. After we left 
 
 The last portion of the road to Yum-beise was exceedingly hard for cars. The country was a highly intersected mountainous region and the dry river beds presented great obstacles for wheeled vehicles. After reaching the top of a steep ridge, we suddenly found ourselves in sight
 
+![078-expedition-cars.png](078-expedition-cars.png)
+
 THE EXPEDITION CARS IN THE VALLEY OF THE TOLA RIVER, MONGOLIA
+
+![079-cars-crossing-ongin.png](079-cars-crossing-ongin.png)
 
 EXPEDITION CARS CROSSING THE ONGIN-GOL, SOUTHWEST MONGOLIA
 
+![080-yum-beise.png](080-yum-beise.png)
+
 MONASTERY OF YUM-BEISE
+
+![081-mongol-nuns.png](081-mongol-nuns.png)
 
 MONGOL NUNS, SOUTHWEST MONGOLIA
 
@@ -3124,13 +3162,21 @@ We started in the afternoon. The ground became moist and we crossed large patche
 
 We dispatched our reconnoitering party ahead to find a camping
 
+![082-starting-yum-beise.png](082-starting-yum-beise.png)
+
 EXPEDITION CARAVAN STARTING FROM YUM-BEISE
+
+![083-camp-gobi.png](083-camp-gobi.png)
 
 CAMP IN THE MONGOLIAN GOBI
 
+![084-watchtower-gobi.png](084-watchtower-gobi.png)
+
 AN ANCIENT CHINESE WATCHTOWER IN THE SOUTHERN GOBI
 
-THE CASTEE OF JA LAMA
+![085-castle-ja-lama.png](085-castle-ja-lama.png)
+
+THE CASTLE OF JA LAMA
 
 **211 ACROSS THE SOUTHWESTERN GOBI**
 
@@ -3436,11 +3482,19 @@ On that day everything in camp was ready for the departure but no camels appeare
 
 We did not go far this day, and halted after an hour's ride in a broad ravine with a tiny stream. We protested to the headman and told him that we needed the remaining twelve camels. He got terribly excited and threatened to throw down our loads. We warned him that unless he agreed to supply immediately the twelve remaining camels, we
 
+![086-camp-shih-pao.png](086-camp-shih-pao.png)
+
 EXPEDITION CAMP AT SHIH-PAO-CH'ENG IN THE NAN SHAN MOUNTAINS
+
+![087-camel-caravan.png](087-camel-caravan.png)
 
 THE CAMEL CARAVAN
 
+![088-camp-sharagolji.png](088-camp-sharagolji.png)
+
 EXPEDITION CAMP AT SHARAGOLJI
+
+![089-lama-tsaidam.png](089-lama-tsaidam.png)
 
 THE CHIEF LAMA OF THE TSAIDAM MONGOLS
 
@@ -3710,15 +3764,25 @@ The Mongol encampments were numerous but we noticed that some of the families li
 
 Only a month before our passage, during a Mongol tribal meeting, the Goloks made a fresh raid on Neiji and penetrated as far as the Bure-yin-gol. The Mongol headmen of Teijiner were informed by Mongol
 
+![090-foot-ulan-daban.png](090-foot-ulan-daban.png)
+
 AT THE FOOT OF THE ULAN-DABAN PASS
 
+![091-ulan-daban.png](091-ulan-daban.png)
+
 THE ULAN-DABAN PASS
+
+![092-camp-bure-yin.png](092-camp-bure-yin.png)
 
 EXPEDITION CAMP
 
 IN THE VALLEY OF BURE-YIN-GOL, TSAIDAM
 
+![093-tsaidam-mongol.png](093-tsaidam-mongol.png)
+
 A TSAIDAM MONGOL
+
+![094-tsaidam-mongol-woman.png](094-tsaidam-mongol-woman.png)
 
 TSAIDAM MONGOL WOMAN
 
