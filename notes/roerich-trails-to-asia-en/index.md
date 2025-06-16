@@ -1,8 +1,8 @@
 ---
 title: "Roerich. Trails to Inmost Asia"
 date: "2025-06-07"
-summary: "OCR and editing of the source text."
-description: "OCR and editing of the source text."
+summary: "Editing and formatting of the source text."
+description: "Editing and formatting of the source text."
 toc: true
 autonumber: false
 math: false
@@ -14,13 +14,13 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-Original source: 
+Original source:
 
 > Roerich, N. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
 
 Turns out there is no good text version of Roerich's Trails to Inmost Asia. Available PDFs and Internet Archive TXT files are not usable for annotating and shared work. TXT contains lots of errors. So here it is.
 
-* Based on Roerich's book in TXT format from [Internet Archive](https://archive.org/details/in.ernet.dli.2015.43990).
+* Based on Roerich's book in PDF and TXT format from [Internet Archive](https://archive.org/details/in.ernet.dli.2015.43990).
 * Excessive line breaks removed to adapt for larger screens.
 * Page numbers are preserved for easy reference.
 * Lots of small edits and formatting.
