@@ -1,8 +1,8 @@
 ---
 title: "Roerich. Trails to Inmost Asia"
 date: "2025-06-07"
-summary: "Editing and formatting of the source text."
-description: "Editing and formatting of the source text."
+summary: "Editing and formatting of the source 1931 text."
+description: "Editing and formatting of the source 1931 text."
 toc: true
 autonumber: false
 math: false
@@ -21,15 +21,16 @@ Turns out there is no good text version of Roerich's Trails to Inmost Asia. Avai
 
 Original source:
 
-> Roerich, N. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
+> Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
 
 ## List of changes
 
-* Excessive line breaks removed to adapt for modern screens.
-* Page numbers are adjusted and preserved for easy reference.
 * Lots (hundreds) of small edits, original formatting is preserved.
+* Excessive line breaks removed to adapt for modern screens.
+* Page headers are adjusted and preserved for easy reference and linking.
 * Typos in the source text are not fixed with the exception of an incorrect link to Rin-chen bzang-po in the index (should be 17, was 917).
-* Interactive index added.
+* Clickable index added.
+* Clickable list of illustrations added.
 * [Google Docs version](https://docs.google.com/document/d/1ZvcCOrRze3yLZ7HC0lz-M40sQmiLVOqX7Nz8g7ZXY9s/edit?usp=sharing) - use to download as DOC or PDF or make a copy for your work online.
 
 ## Book contents
@@ -212,7 +213,7 @@ XVI. The Hor-pas AND Their Country [331](#331)
 
 XVII. Nag-chu-ka [373](#373)
 
-XVIII. The Region of the Great Lakes --- Nag-chu Dzong --- Saga Dzong (399)[#399]
+XVIII. The Region of the Great Lakes --- Nag-chu Dzong --- Saga Dzong [399](#399)
 
 XIX. From Saga Dzong to Sikkim [447](#447)
 
@@ -226,327 +227,327 @@ Professor Nicholas Roerich Leader of the Expedition *Frontispiece*
 
 *To face page*
 
-Srinagar, Kashmir 8
+Srinagar, Kashmir [8](#8)
 
-Sonamarg, Kashmir 8
+Sonamarg, Kashmir [8](#8)
 
-*Maitreya on the Road* 9 Painting by Nicholas Roerich. Roerich Museum, New York
+*Maitreya on the Road* [9](#9) Painting by Nicholas Roerich. Roerich Museum, New York
 
-*Royal Palace at Leh* 24 Painting by Nicholas Roerich. Roerich Museum, New York
+*Royal Palace at Leh* [24](#24) Painting by Nicholas Roerich. Roerich Museum, New York
 
-Stone image of Maitreya at Mulbe, Ladak 25
+Stone image of Maitreya at Mulbe, Ladak [25](#25)
 
-Image of the Goddess Dug-kar In the Zangskar Monastery at Leh 25
+Image of the Goddess Dug-kar In the Zangskar Monastery at Leh [25](#25)
 
-Professor Nicholas Roerich At work in the Raja's Palace in Leh, Ladak 30
+Professor Nicholas Roerich At work in the Raja's Palace in Leh, Ladak [30](#30)
 
-The Tik-tse Monastery, Ladak 30
+The Tik-tse Monastery, Ladak [30](#30)
 
-*The Monastery of Sheh, Ladak* 31 Painting by Nicholas Roerich. Roerich Museum, New York
+*The Monastery of Sheh, Ladak* [31](#31) Painting by Nicholas Roerich. Roerich Museum, New York
 
-Crossing the Khardong La 46
+Crossing the Khardong La [46](#46)
 
-The expedition caravan before the Suget Pass 46
+The expedition caravan before the Suget Pass [46](#46)
 
-Sanju Kirghiz men and women 47
+Sanju Kirghiz men and women [47](#47)
 
-Types of Turki natives 47
+Types of Turki natives [47](#47)
 
-Kirghiz grave on the Karakorum Route 54
+Kirghiz grave on the Karakorum Route [54](#54)
 
-The Taklamakan Desert near Khotan 54
+The Taklamakan Desert near Khotan [54](#54)
 
-The Chinese convoy of the expedition: Turki headmen and Chinese soldiers 55
+The Chinese convoy of the expedition: Turki headmen and Chinese soldiers [55](#55)
 
-A village crowd in Chinese Turkestan 55
+A village crowd in Chinese Turkestan [55](#55)
 
 *To face page*
 
-Tumbal, the Tibetan mastiff of the expedition 66
+Tumbal, the Tibetan mastiff of the expedition [66](#66)
 
-Ma Shao-wu, Governor of Khotan 66
+Ma Shao-wu, Governor of Khotan [66](#66)
 
-Ma Ti-t'ai, Military Governor of Kashgar 67
+Ma Ti-t'ai, Military Governor of Kashgar [67](#67)
 
-The crucified Ma Ti-t'ai 67
+The crucified Ma Ti-t'ai [67](#67)
 
-The expedition headquarters in Khotan 82
+The expedition headquarters in Khotan [82](#82)
 
-Summer house in Karghalik 82
+Summer house in Karghalik [82](#82)
 
-Crossing the Yarkend darya 83
+Crossing the Yarkend darya [83](#83)
 
-River view near Yangi-hissar 83
+River view near Yangi-hissar [83](#83)
 
-Chinese cavalry entering Kashgar 83
+Chinese cavalry entering Kashgar [83](#83)
 
-Market scene in Kashgar 90
+Market scene in Kashgar [90](#90)
 
-Kashgar from the river 90
+Kashgar from the river [90](#90)
 
-Caves with remains of Buddhist frescoes at Toghrak-dong 91
+Caves with remains of Buddhist frescoes at Toghrak-dong [91](#91)
 
-The expedition carts arriving at Kizil, Chinese Turkestan 91
+The expedition carts arriving at Kizil, Chinese Turkestan [91](#91)
 
-Sandstone on the road to Kuchar 98
+Sandstone on the road to Kuchar [98](#98)
 
-Expedition carts on the way to Kuchar 98
+Expedition carts on the way to Kuchar [98](#98)
 
-A traveling native medicine man, Karashahr 99
+A traveling native medicine man, Karashahr [99](#99)
 
-Traveling boy-musician in Chinese Turkestan 99
+Traveling boy-musician in Chinese Turkestan [99](#99)
 
-Washing wool at Karashahr, Chinese Turkestan 108
+Washing wool at Karashahr, Chinese Turkestan [108](#108)
 
-Camel caravan with wool for Tientsin 108
+Camel caravan with wool for Tientsin [108](#108)
 
-River view near Toksun 109
+River view near Toksun [109](#109)
 
-A difficult route in the T'ien Shan 109
+A difficult route in the T'ien Shan [109](#109)
 
-Taoist Temple in Urumchi, Capital of Hsin-chiang 122
+Taoist Temple in Urumchi, Capital of Hsin-chiang [122](#122)
 
-The monument of Yang Tseng-hsin, Governor-General of Hsin-chiang, in Urumchi 122
+The monument of Yang Tseng-hsin, Governor-General of Hsin-chiang, in Urumchi [122](#122)
 
 <a id="xviii">**xviii TRAILS TO INMOST ASIA**</a>
 
 *To face page*
 
-Across Jungaria; an accident on the way 123
+Across Jungaria; an accident on the way [123](#123)
 
-The caravan of the expedition in the grass-country of Jungaria 123
+The caravan of the expedition in the grass-country of Jungaria [123](#123)
 
-A car crossing a flooded river 130
+A car crossing a flooded river [130](#130)
 
-Ulan Bator or Urga, capital of Mongolia 130
+Ulan Bator or Urga, capital of Mongolia [130](#130)
 
-Zün-küren in Urga 131
+Zün-küren in Urga [131](#131)
 
-Tseren Dorje, head of the Mongolian Government 131
+Tseren Dorje, head of the Mongolian Government [131](#131)
 
-A camel carriage, Urga 134
+A camel carriage, Urga [134](#134)
 
-Sledges in winter 134
+Sledges in winter [134](#134)
 
-Yak carts in Urga 135
+Yak carts in Urga [135](#135)
 
-A young Mongol exhibiting his invention: an automobile 135
+A young Mongol exhibiting his invention: an automobile [135](#135)
 
-Mongols and camels 138
+Mongols and camels [138](#138)
 
-Lamas riding on camels, Urga 138
+Lamas riding on camels, Urga [138](#138)
 
-The People's Club at Urga, Mongolia 139
+The People's Club at Urga, Mongolia [139](#139)
 
-Packs of dogs in the streets of Urga 139
+Packs of dogs in the streets of Urga [139](#139)
 
-Types of Chinese in Urga, Mongolia 154
+Types of Chinese in Urga, Mongolia [154](#154)
 
-A group of Khalkha Mongols 154
+A group of Khalkha Mongols [154](#154)
 
-A New Year crowd in Urga 155
+A New Year crowd in Urga [155](#155)
 
-New Year masquerade in Urga 155
+New Year masquerade in Urga [155](#155)
 
-New Year dances in Urga 156
+New Year dances in Urga [156](#156)
 
-Mahayana Hoshang, one of the personages of the New Year dance 156
+Mahayana Hoshang, one of the personages of the New Year dance [156](#156)
 
-Lama musicians, Urga 157
+Lama musicians, Urga [157](#157)
 
-Lama dances in Urga 157
+Lama dances in Urga [157](#157)
 
-Altar with painted image of dPal-ldan Ye-shes, the third Tashi Lama of Tibet (1740-80), Roerich Museum, New York 158
+Altar with painted image of dPal-ldan Ye-shes, the third Tashi Lama of Tibet (1740-80) [158](#158) Roerich Museum, New York
 
-Temple of Maitreya, Urga 159
+Temple of Maitreya, Urga [159](#159)
 
-Pilgrims in front of the Maitreya Temple in Urga 159
+Pilgrims in front of the Maitreya Temple in Urga [159](#159)
 
-The Black-Hat dance, Urga 160
+The Black-Hat dance, Urga [160](#160)
 
-Dance in progress 160
+Dance in progress [160](#161)
 
-Black-Hat dancer, Urga 161
+Black-Hat dancer, Urga [161](#161)
 
 *To face page*
 
-The big *suburghan or stupa* in front of the Ganden Monastery, Urga 161
+The big *suburghan or stupa* in front of the Ganden Monastery, Urga [161](#161)
 
-Temple of Avalokitesvara, Ganden Monastery, Urga 162
+Temple of Avalokitesvara, Ganden Monastery, Urga [162](#162)
 
-Bronze incense burner in front of the Ganden Monastery, Urga 162
+Bronze incense burner in front of the Ganden Monastery, Urga [162](#162)
 
-Temple altar, Ganden Monastery, Urga 163
+Temple altar, Ganden Monastery, Urga [163](#163)
 
-Altar with photograph of the Bogdo Gegen, Ganden Monastery, Urga 163
+Altar with photograph of the Bogdo Gegen, Ganden Monastery, Urga [163](#163)
 
-Dara-Eke, the consort of the last Bogdo Gegen 164
+Dara-Eke, the consort of the last Bogdo Gegen [164](#164)
 
-Types of Mongol lamas 164
+Types of Mongol lamas [164](#164)
 
-Gates of Chö-jin Lama-yin-sümä 165
+Gates of Chö-jin Lama-yin-sümä [165](#165)
 
-Horses used in religious processions to carry the holy images 165
+Horses used in religious processions to carry the holy images [165](#165)
 
-The expedition cars in the valley of the Tola River, Mongolia 188
+The expedition cars in the valley of the Tola River, Mongolia [188](#188)
 
-Expedition cars crossing the Ongin-gol. Southwest Mongolia 188
+Expedition cars crossing the Ongin-gol. Southwest Mongolia [188](#188)
 
-Monastery of Yum-beise 189
+Monastery of Yum-beise [189](#189)
 
-Mongol nuns, Southwest Mongolia 189
+Mongol nuns, Southwest Mongolia [189](#189)
 
-Expedition caravan starting from Yum-beise 210
+Expedition caravan starting from Yum-beise [210](#210)
 
-Camp in the Mongolian Gobi 210
+Camp in the Mongolian Gobi [210](#210)
 
-An ancient Chinese watchtower in the southern Gobi 211
+An ancient Chinese watchtower in the southern Gobi [211](#211)
 
-The castle of Ja Lama 211
+The castle of Ja Lama [211](#211)
 
-Expedition camp at Shih-pao-ch'eng in the Nan Shan Mountains 240
+Expedition camp at Shih-pao-ch'eng in the Nan Shan Mountains [240](#240)
 
-The camel caravan 240
+The camel caravan [240](#240)
 
-Expedition camp at Sharagolji 241
+Expedition camp at Sharagolji [241](#241)
 
-The Chief Lama of the Tsaidam Mongols 241
+The Chief Lama of the Tsaidam Mongols [241](#241)
 
-At the foot of the Ulan-daban Pass 268
+At the foot of the Ulan-daban Pass [268](#268)
 
-The Ulan-daban Pass 268
+The Ulan-daban Pass [268](#268)
 
 <a id="xix">**xix LIST OF ILLUSTRATIONS**</a>
 
 *To face page*
 
-Expedition camp in the valley of the Bure-yin-gol, Tsaidam 268
+Expedition camp in the valley of the Bure-yin-gol, Tsaidam [268](#268)
 
-Tsaidam Mongol woman 269
+Tsaidam Mongol woman [269](#269)
 
-A Tsaidam Mongol 269
+A Tsaidam Mongol [269](#269)
 
-*The Thang La* 290 Painting by Nicholas Roerich. Roerich Museum, New York
+*The Thang La* [290](#290) Painting by Nicholas Roerich. Roerich Museum, New York
 
-Before the Thang La 291
+Before the Thang La [291](#291)
 
-The descent from the Thang La 291
+The descent from the Thang La [291](#291)
 
-Tibetan nomads 308
+Tibetan nomads [308](#308)
 
-A nomad camp 308
+A nomad camp [308](#308)
 
-Tibetan soldiers, stationed as guards in the expedition camp at Chu-na-khe 309
+Tibetan soldiers, stationed as guards in the expedition camp at Chu-na-khe [309](#309)
 
-Expedition camp during the detention at Chu-na-khe 309
+Expedition camp during the detention at Chu-na-khe [309](#309)
 
-Expedition camp at Chu-na-khe 314
+Expedition camp at Chu-na-khe [314](#314)
 
-Expedition camp buried in snow at Chu-na-khe 314
+Expedition camp buried in snow at Chu-na-khe [314](#314)
 
-The perishing caravan 315
+The perishing caravan [315](#315)
 
-A Tibetan guard in the expedition camp at Chu-na-khe 315
+A Tibetan guard in the expedition camp at Chu-na-khe [315](#315)
 
-*Stupa* at Sharugön 326
+*Stupa* at Sharugön [326](#326)
 
-Monastery at Sharugön 326
+Monastery at Sharugön [326](#326)
 
-The Bön-po Monastery at Sharugön 327
+The Bön-po Monastery at Sharugön [327](#327)
 
-Expedition camp at Sharugön 327
+Expedition camp at Sharugön [327](#327)
 
-Women of Hor in the region of Nup-hor 366
+Women of Hor in the region of Nup-hor [366](#366)
 
-Tinder and flint pouch, Hor region, North Tibet 367
+Tinder and flint pouch, Hor region, North Tibet [367](#367)
 
-Tinder and flint pouch, Hor region, North Tibet 367
+Tinder and flint pouch, Hor region, North Tibet [367](#367)
 
-Brass buckle, Ching-kar, Nam-ru District, North Tibet 368
+Brass buckle, Ching-kar, Nam-ru District, North Tibet [368](#368)
 
-Flint pouch, Lahul, West Tibet From the collection of S. N. Roerich 368
+Flint pouch, Lahul, West Tibet From the collection of S. N. Roerich [368](#368)
 
-Deer on brass charm box From the collection of S. N. Roerich 369
+Deer on brass charm box From the collection of S. N. Roerich [369](#369)
 
 *To face page*
 
-Photograph of deer on brass charm box 369
+Photograph of deer on brass charm box [369](#369)
 
-Conventionalized figure of deer on silvered iron pen case 370 From the collection of S. N. Roerich
+Conventionalized figure of deer on silvered iron pen case [370](#370) From the collection of S. N. Roerich
 
-Photograph of deer on silvered iron pen case 370
+Photograph of deer on silvered iron pen case [370](#370)
 
 Metal plaque from Derge 371 From the S. N. Roerich collection
 
-Metal plaque from the Noin ula Mountains 371 From the Kozlov finds
+Metal plaque from the Noin ula Mountains [371](#371) From the Kozlov finds
 
-Conventionalized figure of swan (end piece) 372
+Conventionalized figure of swan (end piece) [372](#372)
 
-Headquarters of the expedition at Nag-chu 384
+Headquarters of the expedition at Nag-chu [384](#384)
 
-Headquarters of the expedition at Nag-chu 384
+Headquarters of the expedition at Nag-chu [384](#384)
 
-Nag-chu dzong 385
+Nag-chu dzong [385](#385)
 
-Shab-den Monastery at Nag-chu 385
+Shab-den Monastery at Nag-chu [385](#385)
 
-A street in Nag-chu 392
+A street in Nag-chu [392](#392)
 
-Burning the *torma* or New Year offering 392
+Burning the *torma* or New Year offering [392](#392)
 
-Nag-chu-ka, Tibetan upland 393
+Nag-chu-ka, Tibetan upland [393](#393)
 
-A stone hovel on the Tibetan upland 393
+A stone hovel on the Tibetan upland [393](#393)
 
-Grazing yaks on the Tibetan upland 393
+Grazing yaks on the Tibetan upland [393](#393)
 
-Sand-buried cromlechs and alinement at Do-ring, Southwest of Pang-gong Lake 416
+Sand-buried cromlechs and alinement at Do-ring, Southwest of Pang-gong Lake [416](#416)
 
-Ancient grave in Nag-tshang 416
+Ancient grave in Nag-tshang [416](#416)
 
-Crossing the Tarkö tsang-po 417
+Crossing the Tarkö tsang-po [417](#417)
 
-The expedition column approaching the Trans-Himalayas 417
+The expedition column approaching the Trans-Himalayas [417](#417)
 
-*Kinchenjunga --- The Mountain of the Five Treasures* 444 Painting by Nicholas Roerich, White House, Washington, D.C.
+*Kinchenjunga --- The Mountain of the Five Treasures* [444](#444) Painting by Nicholas Roerich, White House, Washington, D.C.
 
 <a id="xx">**xx TRAILS TO INMOST ASIA**</a>
 
 *To face page*
 
-Saga dzong 445
+Saga dzong [445](#445)
 
-The Trans-Himalayas from Saga dzong 445
+The Trans-Himalayas from Saga dzong [445](#445)
 
-Crossing the Brahmaputra 454
+Crossing the Brahmaputra [454](#454)
 
-The snow-peak Saga Jo-chung 454
+The snow-peak Saga Jo-chung [454](#454)
 
-The valley of the Tsang-po 455
+The valley of the Tsang-po [455](#455)
 
-Chatu gompa in the valley of the Tsang-po 455
+Chatu gompa in the valley of the Tsang-po [455](#455)
 
-Tingri 476
+Tingri [476](#476)
 
-Shekar dzong 476
+Shekar dzong [476](#476)
 
-*Stupa at Chung-tü* 477 Painting by Nicholas Roerich. Roerich Museum, New York
+*Stupa at Chung-tü* [477](#477) Painting by Nicholas Roerich. Roerich Museum, New York
 
 *To face page*
 
-*Royal Monastery of Chung-tü, near Sa-skya* 482 Painting by Nicholas Roerich. Roerich Museum, New York
+*Royal Monastery of Chung-tü, near Sa-skya* [482](#482) Painting by Nicholas Roerich. Roerich Museum, New York
 
-Kampa dzong 483
+Kampa dzong [483](#483)
 
-Kampa dzong 483
+Kampa dzong [483](#483)
 
-*Ling-kar* 486 Painting by Nicholas Roerich. Roerich Museum, New York
+*Ling-kar* [486](#486) Painting by Nicholas Roerich. Roerich Museum, New York
 
-Lepcha hillman, Sikkim 487
+Lepcha hillman, Sikkim [487](#487)
 
-The Monastery of Pema-yangtze in Sikkim 487
+The Monastery of Pema-yangtze in Sikkim [487](#487)
 
-General map of the route of the expedition through central Asia 504
+General map of the route of the expedition through central Asia [504](#504)
 
 <a id="1"></a>
 <a id="3"></a>
@@ -5071,6 +5072,8 @@ All these objects irrefutably attest the existence of the ancient central Asian 
 
 23\. The Kozlov plaque was published in the supplementary plates (I) of the *Preliminary Report of the Kozlov Expedition* (Leningrad, 1925), ed. Academy of Sciences of the U.S.S.R.
 
+<a id="372"></a>
+
 ![121-conventionalized-swan.png](121-conventionalized-swan.png)
 
 CONVENTIONALIZED FIGURE OF SWAN ON SILVERED IRON PEN CASE FROM AMDO
@@ -6508,7 +6511,7 @@ Baga Tsaidam Lake, [266](#266)
 
 Baghrash Lake, [103](#103)
 
-Bailey, Col. F. M., xii, [311](#311), [320](#320), [323](#323), [328](#328), [377](#377), [488](#488); reception by, [490](#490)
+Bailey, Col. F. M., [xii](#xii), [311](#311), [320](#320), [323](#323), [328](#328), [377](#377), [488](#488); reception by, [490](#490)
 
 Bakr-Id, [4](#4)
 
@@ -6708,7 +6711,7 @@ Chinghiz Khan, [134](#134), [169](#169)
 
 Ching-kar, [418](#418)
 
-Chklaver, Dr. Georges, xiii
+Chklaver, Dr. Georges, [xiii](#xiii)
 
 *Cho-ga*, worship manual, [148](#148)
 
@@ -6724,7 +6727,7 @@ Chu, Mr. George, [88](#88)
 
 Chubi, [25](#25), [26](#26)
 
-Chu-na-khe, [288](#288); detention and suffering of expedition at, chap, xv; Hor High Commissioner's camp, [298](#298) ff., [341](#341)
+Chu-na-khe, [288](#288); detention and suffering of expedition at, chap. xv; Hor High Commissioner's camp, [298](#298) ff., [341](#341)
 
 Chung-khar fort, [18](#18)
 
@@ -6784,7 +6787,7 @@ Daru tsho, [425](#425)
 
 *Dastarkhan*, [52](#52), [53](#53), [55](#55)
 
-Davis, Malcolm W., xiii
+Davis, Malcolm W., [xiii](#xiii)
 
 <a id="494">**494 TRAILS TO INMOST ASIA**</a>
 
@@ -6968,7 +6971,7 @@ Gilded clay images, [14](#14), [17](#17), [485](#485)
 
 Gilgit, [5](#5), [6](#6)
 
-Gillan, Major, xii, [74](#74), [76](#76), [88](#88)
+Gillan, Major, [xii](#xii), [74](#74), [76](#76), [88](#88)
 
 Glaciers, [36](#36), [98](#98), [273](#273), [417](#417), [438](#438), [439](#439), [464](#464), [489](#489). *See* Sasser Pass
 
@@ -6976,7 +6979,7 @@ Glen-shala, [270](#270)
 
 Goats, [421](#421)
 
-Gobi, [170](#170)–[171](#171), [185](#185) ff., chap, x; Baga Ma-tzu Shan, [207](#207) ff.; brigands, [185](#185), [190](#190), [205](#205), [207](#207), [213](#213); caravan men, [170](#170)–[171](#171); diary, [207](#207) ff.; "Gobi," [263](#263); gold diggings, [201](#201) ff., [209](#209); Ja Lama Castle, [211](#211) ff.; legends, [199](#199), [217](#217) ff.; population, [185](#185); research in, [169](#169), [202](#202); Shara-Khulusun, [204](#204) ff.; vegetation and fauna, [186](#186), [188](#188), [263](#263)–[264](#264)
+Gobi, [170](#170)–[171](#171), [185](#185) ff., chap. x; Baga Ma-tzu Shan, [207](#207) ff.; brigands, [185](#185), [190](#190), [205](#205), [207](#207), [213](#213); caravan men, [170](#170)–[171](#171); diary, [207](#207) ff.; "Gobi," [263](#263); gold diggings, [201](#201) ff., [209](#209); Ja Lama Castle, [211](#211) ff.; legends, [199](#199), [217](#217) ff.; population, [185](#185); research in, [169](#169), [202](#202); Shara-Khulusun, [204](#204) ff.; vegetation and fauna, [186](#186), [188](#188), [263](#263)–[264](#264)
 
 Gold diggings, [201](#201), [209](#209), [244](#244), [261](#261), [367](#367); gold MSS, [316](#316), [358](#358)
 
@@ -7144,7 +7147,7 @@ Jahantsa Hutukhtu, [225](#225)
 
 Jair Mountains, archaeological possibilities, [123](#123); brigands, [124](#124)
 
-Ja Lama, [190](#190), [205](#205); expedition at castle of, [209](#209) ff., chap, xi
+Ja Lama, [190](#190), [205](#205); expedition at castle of, [209](#209) ff., chap. xi
 
 Jam-pe yang, *see* Mañjushri
 
@@ -7336,7 +7339,7 @@ Lahul, Bön-po songs, [361](#361)
 
 Lama cameleers, [313](#313); ceremony on Thang La, [291](#291); Kingdom of Tibet, [283](#283), [335](#335); musicians, [154](#154), [392](#392); tents, [192](#192), [255](#255)
 
-Lama Khe-dup, [323](#323); Lobzang Mingyur Dorje, xiii; Lobzang, [19](#19); Pal-den ye-she, [157](#157); Paldorje, [160](#160) ff.; Rig-den jam-pe dak-pa, [156](#156); Rig-den Jye-po, [156](#156) ff.; Rig-dzin, [323](#323); Sambu, [193](#193), [199](#199); Sengchen Dorjechang, [106](#106); Shakju, [151](#151); sTag-tshang ras-chen, [24](#24); Urgyen, [357](#357). *See also* under Dalai, Ja, Kalön, Khorchin, Panchen, Ta, Tantric, Tibetan, Toïn
+Lama Khe-dup, [323](#323); Lobzang Mingyur Dorje, [xiii](#xiii); Lobzang, [19](#19); Pal-den ye-she, [157](#157); Paldorje, [160](#160) ff.; Rig-den jam-pe dak-pa, [156](#156); Rig-den Jye-po, [156](#156) ff.; Rig-dzin, [323](#323); Sambu, [193](#193), [199](#199); Sengchen Dorjechang, [106](#106); Shakju, [151](#151); sTag-tshang ras-chen, [24](#24); Urgyen, [357](#357). *See also* under Dalai, Ja, Kalön, Khorchin, Panchen, Ta, Tantric, Tibetan, Toïn
 
 Lamaism, [15](#15), [99](#99), [133](#133), [255](#255)
 
@@ -7448,7 +7451,7 @@ Mara, [486](#486)
 
 Marco Polo, [65](#65); Range, [273](#273), [276](#276)–[277](#277), [352](#352)
 
-Marin, M. Louis, Preface, xii
+Marin, M. Louis, Preface, [xii](#xii)
 
 Marmots, [180](#180)
 
@@ -7806,9 +7809,9 @@ Roerich, Mrs. N., [31](#31), [40](#40), [44](#44), [50](#50), [54](#54), [72](#7
 
 Roerich, S., [173](#173); collections of objects in animal style, [369](#369)–[371](#371)
 
-Roerich Central Asian Expedition, xi, xii
+Roerich Central Asian Expedition, [xi](#xi), [xii](#xii)
 
-Roerich Museum, xii, [133](#133), [167](#167)
+Roerich Museum, [xii](#xii), [133](#133), [167](#167)
 
 Roosevelt Expedition, [53](#53)
 
@@ -7944,7 +7947,7 @@ Shrines, to pigeons, [82](#82)–[83](#83); to sacred rats, [82](#82). *See also
 
 Siberian antiquities, [367](#367)–[369](#369)
 
-Sikkim, xii; arrival of expedition at, [489](#489)–[490](#490)
+Sikkim, [xii](#xii); arrival of expedition at, [489](#489)–[490](#490)
 
 Silk factories, [63](#63)
 
