@@ -570,7 +570,7 @@ About three o'clock in the afternoon we drove into the native city of Srinagar, 
 
 We established our headquarters at the Nedou Hotel and at once began our preparation for the journey to Ladak and the desert lands of Chinese Turkestan, lying beyond the lofty passes of the Karakorum
 
-**5 KASHMIR-LADAK**
+<a id="5">**5 KASHMIR-LADAK**
 
 and Sanju. A difficult and long mountain journey necessitates protracted preparations and every detail must be thoroughly checked personally; a journey such as that from Kashmir to Chinese Turkestan over the highest mountain route in the world, requires unusual forethought and careful consideration. Srinagar is the last place where such preparations can be made and food supplies obtained. The Kashmiri artisans are famed for their work and, if supervised, turn out serviceable equipment. There are a number of native firms in the city which produce excellent winter outfits and camping furniture. Naturally, the traveler must keep a watchful eye on the execution of his order. All the expedition supplies had to be packed in *yaghtans* or wooden boxes covered with leather. Tin or iron boxes are of no use in mountain travel, for they easily break.
 
@@ -584,7 +584,7 @@ The departure was fixed for the beginning of August, and, meanwhile, we decided 
 
 I shall not describe the capital or the valley of Kashmir. Concerning them there is a voluminous literature, and the antiquities of the country
 
-**6 TRAILS TO INMOST ASIA**
+<a id="6">**6 TRAILS TO INMOST ASIA**
 
 have been studied and commented upon by such men as Sir Aurel Stein.
 
@@ -596,7 +596,7 @@ The next day proved to be fine and we had enough time to recross the lake into t
 
 About the fifteenth of April, we moved to Gulmarg, the hill station of Kashmir. Here, in the coolness of the mountains, we could conclude our preparations and study the different problems presented by our coming journey. We arrived early in the season and the hill station was still covered by snow. For a whole week we experienced tremendous thunderstorms. The thunder rolled and crashed in the mountains and the lightning swept round our house in a large circle, illumining the whole neighborhood at night. For several days we were completely cut off from the outside world and had to keep to our rooms. Nowhere else did we experience electrical storms of such terrific violence. They were usually followed by hail, and some of the hailstones were of surprising size.
 
-**7 KASHMIR-LADAK**
+<a id="7">**7 KASHMIR-LADAK**</a>
 
 At Gulmarg we spent the whole of May, June, and July. By the end of July we had received all our outfit and, on the eighth of August, the expedition left Gulmarg for Ganderbal on its long journey to Ladak and Chinese Turkestan.
 
@@ -614,7 +614,7 @@ The Leh Treaty Route was made passable for peaceful caravans by the efforts of C
 
 The route passes Gund and Sonamarg, the summer camping ground of many European visitors. Fine weather accompanied us up to Sonamarg. At Gund we had a sad experience with our horses which only by a lucky chance did not prove fatal to them. All along the route from Ganderbal to Baltal is a kind of poisonous grass, locally called *gumai*. The horses of the region never touch it, but strange horses often eat it
 
-**8 TRAILS TO INMOST ASIA**
+<a id="8">**8 TRAILS TO INMOST ASIA**</a>
 
 and perish. Through the negligence of our syces, four of our best horses ate some of this grass and fell ill in the evening. We tried our best to help them, but their condition rapidly grew worse. All local remedies were without avail. Finally, we decided to give them a good dose of bicarbonate of soda. This worked wonders. By the next morning all four of the animals were all right and were able to proceed to Sonamarg.
 
@@ -642,7 +642,7 @@ PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
-**9 KASHMIR-LADAK**
+<a id="9">**9 KASHMIR-LADAK**</a>
 
 ture and covered with luxuriant meadows and pine forests. The great change comes only after the Zoji Pass. We started about six o'clock in the morning and slowly ascended the pass. It presents no difficulty in late summer or autumn. But in winter it is dangerous, and practicable only for men, for its avalanche-swept slopes are covered with ice and snow which may at any time give way and carry the traveler down the precipice. Traffic is closed for the whole of winter and during early spring, during which time the traveler has to pay special rates to the coolies who agree to face the peril on the summit of the pass.
 
@@ -664,7 +664,7 @@ Next day we continued our march to Dras. Passing through the
 
 4\. *Antiquities of Indian Tibet*, I, 107.
 
-**10 TRAILS TO INMOST ASIA**
+<a id="10">**10 TRAILS TO INMOST ASIA**</a>
 
 small hamlet of Prandes we saw several homesteads, surrounded by barley fields, which looked like small strongholds. After an hour's ride from Prandes, we entered the open valley of Dras.
 
@@ -687,7 +687,7 @@ At Dras we had to change our transport. This necessitated long nego-
 5\. I, 105 ff.
 6\. *Tibetan Paintings* (Geuthner: Paris, 1925).
 
-**11 KASHMIR-LADAK**
+<a id="11">**11 KASHMIR-LADAK**</a>
 
 tiations with the local headmen, who had to supply pack animals. Thanks to the excellent organization of the relay service on the route, travelers usually find their transport ready for them. In our case we required at least seventy pack animals --- a large number for the scant population along the route. By the evening everything was settled, and pack horses and *dzo* (a crossbreed between a yak and a cow) began to pour into the dak bungalow's compound. In the morning we went through the usual "ceremony" of the distribution of our loads by the headmen among the pony drivers. Dark-turbaned men swarmed in the courtyard and the loading was accompanied by the usual loud cries and occasional wrangles. I must credit the Ladakis and Baltis with remarkably quick loading.
 
@@ -703,7 +703,7 @@ The next march brought us to the thriving little town of Kargil, the last big se
 
 In Dong-ga, which is situated between Shimsha Kharbu and Chanigund, there is a bowlder with many carvings, representing ibex, archers, and swastika figures. These stone carvings are widespread over Ladak and the neighboring mountain countries and are found as far as
 
-**12 TRAILS TO INMOST ASIA**
+<a id="12">**12 TRAILS TO INMOST ASIA**</a>
 
 the Sanju Oasis on the northern side of the Sanju Pass. They belong to the primitive nature religion of Tibet, usually designated by the name of Bön. (7) The ibex is very popular in the ancient fire cult of the Mongols, and is connected with the idea of fecundity. It seems that these stone carvings belonging to a remote common religious period of inner Asia.
 
@@ -721,7 +721,7 @@ Close to the village there is a cave monastery of considerable interest.
 
 7\. The bowlder was reproduced in Francke's *Antiquities of Indian Tibet*, I, 44.
 
-**13 KASHMIR-LADAK**
+<a id="13">**13 KASHMIR-LADAK**</a>
 
 According to a local tradition, the monastery was built by two local chiefs, Thog-lde-jo and Yang-lde-jo. (8)
 
@@ -741,7 +741,7 @@ From the outside, the image is hidden by trees and the chapel, but
 
 11\. Francke, *A History of Western Tibet*, p. 102.
 
-**14 TRAILS TO INMOST ASIA**
+<a id="14">**14 TRAILS TO INMOST ASIA**</a>
 
 when one enters the edifice, one suddenly sees the colossal statue rising before one's eyes. It makes a lasting and powerful impression on everyone who visits the spot.
 
@@ -759,7 +759,7 @@ We made an early start next day in order to reach the next stage, Bod-Kharbu.
 
 The road leads across the Namike Pass, at an altitude of 13,000 feet; the ascent is very gradual and after crossing the pass, the trail leads into the valley of Kharbu, interesting for its many ruined castles that crown the barren summits of mountain spurs. The place was the scene of con-
 
-**15 KASHMIR-LADAK**
+<a id="15">**15 KASHMIR-LADAK**</a>
 
 siderable warfare in the reign of King Del-den (bDe-ldan rnam-rgyal, 1620-40 A.D.).
 
@@ -777,7 +777,7 @@ We spent an extra day at Lamayuru and visited the monastery. At present it belon
 
 12\. Francke, *A History of Western Tibet*, p. 98.
 
-**16 TRAILS TO INMOST ASIA**
+<a id="16">**16 TRAILS TO INMOST ASIA**</a>
 
 the local monastic tradition, it was founded by the famous *mahasiddha* Naropa who lived in the ninth century A.D. and with whose name are associated many events in the church history of Ladak. The name of the monastery is said to be a corruption of *gYung-drung* or Svastika, the synonym of Bön, i.e., the primitive nature religion of Tibet. Dr. Francke relates the following legend about the name of the monastery:
 
@@ -799,7 +799,7 @@ On the twenty-third of August we broke camp and started on our further journey, 
 
 15\. Ibid,, pp. 97 ff.
 
-**17 KASHMIR-LADAK**
+<a id="17">**17 KASHMIR-LADAK**</a>
 
 The trail is rather bad. In several places one has to cross avalanche-swept slopes and sand and gravel continuously drift down into the stream. Several times we had to cross large accumulations of *debris* --- traces of a recent avalanche. After three hours' march we reached the open valley of the Indus and crossed the great river by a suspension bridge to the important village of Khalatse.
 
@@ -811,7 +811,7 @@ The march from sNyur-la to Saspola leads across a barren country almost entirely
 
 16\. "Historische Dokumente von Khalatse," *ZDMG*, LXI, 583; "The Dards at Khalatse," *MASB*, Vol. I, No. 19; *Antiquities of Indian Tibet*, pp. 97 ff.; *A History of Western Tibet*, pp. 65 ff.
 
-**18 TRAILS TO INMOST ASIA**
+<a id="18">**18 TRAILS TO INMOST ASIA**</a>
 
 The next march from Saspola to sNye-mo was interesting for several old monasteries. On leaving the village of Saspola, the trail crosses a vast sandy plateau. Not far from the route lies the important monastery of kLu-dkyil, popularly pronounced Likir. It was founded by King Lha-chen rgyal-po (ca. 1050-80 A.D.). The trail descends into the deeper valley and reaches the romantically situated hamlet of Basgo, famous for one of the oldest monasteries of Ladak and for the ancient palace of its kings.
 
@@ -829,7 +829,7 @@ The track leaves the Indus at sNye-mo and crosses a wide plateau surrounded by b
 
 About two o'clock in the afternoon we reached the important Yellow Hat Monastery of Spi-thug (dPe-thub) built by King 'Bum-lde (fif-
 
-**19 KASHMIR-LADAK**
+<a id="19">**19 KASHMIR-LADAK**</a>
 
 teenth century) on a steep rock. This monastery was one of the first Yellow Hat monasteries of Ladak. It possesses a branch, the Zang-skar Monastery, just outside of Leh; and the well-known monastery of Ri-dzong (Ri-rdzong) is also connected with it.
 
@@ -841,7 +841,7 @@ The private rooms were neat and well furnished in Tibetan style, with painted gl
 
 The last five miles to Leh led over a stony plain dotted here and there with small groves of trees. Leh, with its bazaar engirded by high walls, its city gates, the towering mass of the palace, and the picturesque crowd that throngs the bazaar and streets, makes a lasting impression. It is one of those towns of higher Asia, which has still preserved its character of an Asiatic caravan center to which stream numerous caravans carrying the products of India, China, Tibet, and Turkestan.
 
-**20 TRAILS TO INMOST ASIA**
+<a id="20">**20 TRAILS TO INMOST ASIA**</a>
 
 A careful archaeological study of Ladak requires prolonged residence in the country. Whatever we know of the past of the country and its monuments of antiquity, we owe to the labors of Dr. A. H. Francke and his predecessors in the Moravian Mission.
 
@@ -851,7 +851,7 @@ After some search and lengthy consultations with the British *aqsaqal* of Leh, w
 
 Every day we went round the *serais* or resthouses for Yarkend traders, inquiring for new arrivals or starting caravans. Finally we succeeded in finding the required thirty pack horses, belonging to an Afghan trader, Omar Khan, a resident of Yarkend. His horses had come only recently from the passes and were in poor condition, but the owner promised to feed them well the remaining three weeks and to have them fit by the date of departure. We had to agree, for this was the only solution of our transport problem. On such a difficult and deserted route as the Karakorum trade route, it is always advisable to make use of hired transport and not to risk a caravan of purchased animals. The difficulties of this mountain route, its rarefied atmospheres and absolute barrenness, and the great percentage of caravan animals that perish yearly, make traveling very expensive. The prices for one pack horse range from sixty rupees to eighty rupees from Leh to Yarkend or Khotan. We fixed the price of one horse at seventy-six rupees, with the obligation of carrying the expedition's baggage in twenty-four days from Leh to Khotan.
 
-**21 KASHMIR-LADAK**
+<a id="21">**21 KASHMIR-LADAK**</a>
 
 The caravan men were sturdy Turkis from Karghalik and Khotan, in large *chapans* or coats, soft leather boots or *charuq*, and large oval fur caps protecting the wearer from the bitter winds and gales of the highlands. It was strange to hear the strongly guttural sounds of the eastern Turki, so different from the soft Urdu of India and the fluent speech of Lhasa Tibetans. Some of the men knew a little Chinese, and our Chinese interpreter was able to make some sort of conversation with them.
 
@@ -865,7 +865,7 @@ The third route follows the course of the Brahmaputra and passes through Saga dz
 
 The Karakorum route, aptly called the highest trade route in the world, connects Leh with distant China and the oases of Chinese Turkestan. Traders from Yarkend, Kashgar, and Khotan, the principal oases of southwestern Chinese Turkestan, follow it on their way to India. From Leh the central Asian caravans travel to Kashmir across the Zoji La, or through Zangskar, Lahul, the valley of Kulu and the native states of Mandi to Hoshiarpur and Amritsar, the two great emporiums of Punjab. This Turkestan trade route has increased greatly in importance during the last ten years, and the Government of India has
 
-**22 TRAILS TO INMOST ASIA**
+<a id="22">**22 TRAILS TO INMOST ASIA**</a>
 
 facilitated by several measures the passage of trading caravans over Indian territory. With the closing of the Russian frontier and the recent unrest and civil war in western China, the Turkestan trade turned southward to India, and we found the route alive with caravan parties which were braving the icy winds and frequent avalanches on the mountain crests.
 
@@ -879,7 +879,7 @@ The returning caravans carry loads of European-made goods: products of Mancheste
 
 All this motley crowd of visitors moves, shouts, and gesticulates in the narrow streets and bazaars of Leh. Sitting on the verandah of the
 
-**23 KASHMIR-LADAK**
+<a id="23">**23 KASHMIR-LADAK**</a>
 
 dak bungalow one constantly hears the pleasant bells of passing caravans and the songs of the Ladaki women and men carrying grass from the fields. At times this continuous flow of men and beasts will suddenly be interrupted by the trampling of a drove of horses driven by mounted herdsmen.
 
@@ -895,7 +895,7 @@ Leh, which is sometimes spelled sLel or sLes, became the permanent residence of 
 
 When one approaches the town of Leh, one perceives from afar the
 
-**24 TRAILS TO INMOST ASIA**
+<a id="24">**24 TRAILS TO INMOST ASIA**</a>
 
 towering white mass of its great palace, erected about 1620 A.D. by King Seng-ge rnam-rgyal, one of the greatest builders of Ladak; he was assisted in his work by the Lama sTag-tshang ras-chen, whom he invited to his court. (17) The palace dominates the city, and the houses that cluster round it seem like stone steps leading toward an imposing edifice or altar. The Leh Palace is said to have been built on the model of the great Potala Palace of Lhasa, and indeed there is a slight resemblance, between these two monuments of the Tibetan past. We had the good fortune of passing several days at the Palace of Leh through the courtesy of the present Raja of Ladak.
 
@@ -923,7 +923,7 @@ STONE IMAGE OF MAITREYA
 
 AT MULBE, LADAK
 
-**25 KASHMIR-LADAK**
+<a id="25">**25 KASHMIR-LADAK**</a>
 
 At sunset, the whole of the sandy plain and the sand rock mountains that rise on either side of it light up with an intense glow. The town below plunges into a deep violet mist and the rows of white *stupas* on the plain sparkle like necklaces of precious stones. During this hour the Ladaki men and women tell their evening prayers, and incense smoke rises slowly above every house on the plain. It is during this hour of peace and prayer that the visitor to the capital of the little kingdom begins to understand the intrinsic beauty of the country and the irresistible force of attraction it exercises on its sons.
 
@@ -935,7 +935,7 @@ The oldest palace of Leh is situated on the steep rock rNam-rgyal rtse-mo behind
 
 Below the hill lies the small hamlet of Chubi, which was founded by the same bKra-shis rnam-rgyal.
 
-**26 TRAILS TO INMOST ASIA**
+<a id="26">**26 TRAILS TO INMOST ASIA**</a>
 
 The present Raja of Ladak dwells in his summer residence at sTog. He receives a small annual pension and leads a retired life. He seldom visits the town and resides in his great town palace only during the New Year festivities. His aged father has embraced monkhood and devotes his life to religious work. He is a serene and dignified gentleman, learned in the sacred lore of his country. When he paces down the streets of Leh on his rare visits to the town, many of the people throw themselves down before him and thus greet the scion of the ancient house of Kesar.
 
@@ -945,7 +945,7 @@ Below the royal palace of Seng-ge rnam-rgyal stand two temples --- one consecrat
 
 18\. Francke, *Antiquities of Indian Tibet*, I, 76.
 
-**27 KASHMIR-LADAK**
+<a id="27">**27 KASHMIR-LADAK**</a>
 
 *blon*). Old clay images and manuscript books are still to be found in the ruins.
 
@@ -955,7 +955,7 @@ A place well-worth visiting is the town residence of the Hemis *sku-shok* or abb
 
 Some of the private houses of Leh contain interesting frescoes in the living rooms. In one such house I remember having seen frescoes illustrating the life of Je-tsün Milarepa, his encounter with the Bön magician Naropa on the holy Kailasa Mountain, and other equally famous episodes of the Saint's life. The same room had another very curious fresco representing the Emperor of China and the arrival of a Ladaki embassy to the Imperial Court of China. Unfortunately there was no inscription to explain or date the painting. The owner of the house called the fresco *rGyn-nag-gi kong-ma chen-po*, i.e., "The Emperor of China." It is the second historical fresco which I found in Ladak. No doubt there exist others. The art of fresco painting is still cultivated in Ladak and the Ladaki artists produce sometimes works of art which
 
-**28 TRAILS TO INMOST ASIA**
+<a id="28">**28 TRAILS TO INMOST ASIA**</a>
 
 compare favorably to those of the central Tibetan school, with its rigidity of composition and design.
 
@@ -965,7 +965,7 @@ The capital of Ladak abounds in *stupas*, *mani*-walls or *men-dongs*, and stone
 
 A separate and curious group of monuments is formed by the Maltese crosses with inscriptions found in the vicinity of Drang-tse, a village on the Pangkong Lake. The inscriptions accompanying the cross figures were recognized to be Soghdian. It remains to be determined during what period these crosses were erected and the reason that they are found in such a remote place as Drang-tse on the Pangkong-tsho. It seems very probable that there existed a floating Nestorian Christian population in Ladak during the eighth to tenth centuries A.D. when Nestorian colonies were numerous along the trade routes of Turkestan, and other regions of central Asia. Whether the Nestorian visitors to
 
-**29 KASHMIR-LADAK**
+<a id="29">**29 KASHMIR-LADAK**</a>
 
 Ladak were merchants or pilgrims, it is impossible to determine at present. In the country round Ladak and Kashmir are found curious legends of a Christian character, which are at present current among the Mohammedan population of the two provinces. They may be remnants of a Nestorian past. The Nestorian Christians were known all over central Asia under the name of *ärkägün-arghun*, and it is interesting to note that the half-caste population of Ladak, born of a Turki father and a Ladaki mother, is designated by the same word pronounced *arghun*. (19) The Nestorians were known in the Mongol Empire under the name of Tarsa and Ärkägün. The origin of *ärkägün* is difficult to establish.
 
@@ -979,7 +979,7 @@ It is as yet impossible to determine what people constructed the Leh graves. Dr.
 
 20\. *Ibid*., I, 68 II.
 
-**30 TRAILS TO INMOST ASIA**
+<a id="30">**30 TRAILS TO INMOST ASIA**</a>
 
 that the dolichocephalic population had been preserved along the Tibetan border, whereas the center of the country had been conquered at some early date by a brachycephalic race. I am inclined to think that the graves at Teu-gser-po were left by the ancient stratum of dolichocephalic tribes of Tibet. It is interesting to note that the Leh graves are popularly called "nomad graves," and it is precisely among the nomad population that we find the dolichocephalic type with fine features and straight hair. Unfortunately the missionaries were obliged to stop their excavations and a great many of these graves are still unexplored. It will be very instructive to compare the Ladak graves to the analogous graves found in the lake region north of the Trans-Himalayas.
 
@@ -1007,7 +1007,7 @@ PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
-**31 KASHMIR-LADAK**
+<a id="31">**31 KASHMIR-LADAK**</a>
 
 the frequent breaths of cold wind from the mountain summits made us realize that it was advisable to hurry our departure. For several days the town had been filled with reports that snowstorms were beginning on the high passes and our caravan-*bashis* pressed us to start before the early snow would block the passes. Professor Roerich had completed his series of paintings on Ladak and its sanctuaries, and we could begin our final preparations for the difficult journey ahead of us. We were short of men, and it seemed very difficult to engage suitable ones for the long journey to Khotan. We sent a notice to the bazaars that men were needed, and daily crowds of them came to the dak bungalow. Out of this motley collection of Baltis, Ladakis, Kashmiris, Arghuns, and Turkis, Mrs. Roerich chose several promising men, who proved very helpful on our track to Chinese Turkestan. Two of them had the distinction of serving under Dr. Sven Hedin during his expedition of 1907-8, and several others had been previously employed as caravan men on the Karakorum route. They all knew the way well and were fully prepared to face the difficulties and dangers of the mountain journey. Most of them had been several times in Yarkend or Khotan and spoke fluently the eastern Turki. We engaged them as far as Khotan and promised to pay their journey home. Besides his pay each of the men received a warm fur coat, a winter fur cap, and a pair of soft *charuq* boots with felt socks. Two tents were provided to shelter the personnel of the expedition during the night, but for the whole of the journey many of the men preferred to sleep in the open or under the flies of our own tents.
 
@@ -1029,7 +1029,7 @@ After we had passed the last Ladaki village and barley fields, a group of Ladaki
 
 For three hours we climbed the mountain. With each step, the coun-
 
-**36 TRAILS TO INMOST ASIA**
+<a id="36">**36 TRAILS TO INMOST ASIA**</a>
 
 try became more and more barren. The verdant gardens and fields of Ladak lay behind; and ahead of us towered the rugged mountains, their crests covered with glaciers and snow. Large bowlders hung over the mountain slopes, and we crossed vast masses of *debris* carried down the towering heights. Our caravan of pack horses under Nazar Bai and Omar Khan went ahead, with orders to wait for us at the northern side of the Khardong La in the small hamlet of Khalsar.
 
@@ -1039,7 +1039,7 @@ The fine morning of September 20 was a distinct contrast to the previous dismal 
 
 The descent was steep and slippery. A glacier lay along the northern slope. We all had to dismount and walk down the pass. One of our pack yaks preferred to glide down the glacier and with amazing agility dashed down its steep slope. We all were sure that it would crash with its load against the huge bowlders that filled the narrow ravine below. But the animal suddenly turned at the critical point and self-contentedly joined its comrades on the trail. We had to walk a considerable distance down the pass. Far in the distance, a tiny green strip of vegeta-
 
-**37 FROM LEH TO KHOTAN**
+<a id="37">**37 FROM LEH TO KHOTAN**</a>
 
 tion indicated the Shayok Valley, where lay the village of Khalsar, the meeting place of our caravan. We did not mount our horses, but continued our journey on yaks. After two hours' ride, we entered the Shayok Valley with its verdant bottom and sharply outlined rocks. For the last five miles, the road was flat and easy. About five o'clock in the afternoon, we were within view of the village of Khalsar, and soon noticed our caravan-*bashis*, Nazar Bai and Omar Khan, waiting for us outside the village. Two hours later we were encamped in the small but shady garden of the *serai* and were checking up our loads, as they arrived on yaks. From then on, for twenty-two days, the horses had to carry the loads and climb the forbidding heights of the mountain passes.
 
@@ -1051,7 +1051,7 @@ We were anxious to reach Panamik, the last settlement on the Karakorum route, an
 
 Soon after Tirit the road turned into the valley of Nubra and led past numerous farmsteads, hamlets, and monasteries. It was lively with the sound of caravan bells; strings of horses and donkeys wearily moved toward Ladak. They were accompanied by dusty drivers, with their faces blackened by the winds and gales of the uplands. Days of hard traveling were behind them and they were hurrying to Leh to enjoy a much-needed rest.
 
-**38 TRAILS TO INMOST ASIA**
+<a id="38">**38 TRAILS TO INMOST ASIA**</a>
 
 On our way we visited the interesting monastery of Sandoling, which is only seldom mentioned in books on Ladak. The trail crossed the dry bed of a torrent, strewn with bowlders that once were swept from the mountain side. The assembly hall of the monastery contained a large image of Maitreya and fine large painted banners representing the same bodhisattva. The convent possesses the finest collection of religious banners which we had seen in Ladak. The head lama of the monastery was absent and the young novices were slow and lazy in the discharge of their religious duties.
 
@@ -1067,7 +1067,7 @@ We camped on the edge of a plateau strewn with bowlders and much detritus. A Lad
 
 Long before dawn we heard the loud cries of *"Long, long, long!"* --- "Arise, arise, arise!" --- in the Ladaki camp, and camp fires soon flashed in the dark, showing shaggy figures drinking their morning tea and *tsam-pa* (parched barley flour). In the twilight, the dark mass of the yak caravan left the camp site and started for the pass. We followed it on our horses. The trail up the pass presented no difficulties, but the precipitous stone slopes and the numerous skeletons of men who had
 
-**39 FROM LEH TO KHOTAN**
+<a id="39">**39 FROM LEH TO KHOTAN**</a>
 
 fallen on the sharp rocks below spoke of the dangers of the pass. Our caravan had also to pay its toll. The fine Badakhshani stallion belonging to Omar Khan, frightened by something, jumped suddenly and instantly crashed down the stone slope. It landed on the rocks beneath, still alive. A bullet from one of our rifles put an end to its agony.
 
@@ -1079,7 +1079,7 @@ September 25, 1925. We made a short march up the valley at the foot of the Sasse
 
 The night was without wind and exceptionally quiet. Our horses roamed about the camp seeking some signs of weathered grass that showed here and there from beneath the snow. In the morning we
 
-**40 TRAILS TO INMOST ASIA**
+<a id="40">**40 TRAILS TO INMOST ASIA**</a>
 
 woke up to find ourselves and our tents covered deep. The snow had continued for the whole of the night and thick mists hid the crest of the pass. Omar Khan was completely disheartened by the loss of three of his best animals and viewed the prospect with much apprehension. His colleague, Nazar Bai, on the contrary, was cheerful and only expressed the wish that we had crossed the pass a day earlier, before the beginning of the snow blizzard. This indeed had been the suggestion of Mrs. Roerich, who the previous day had insisted that we reach the foot of the Sasser Pass. Nazar Bai's horses were strong and well fed and he could risk long and trying marches across snowbound passes. Omar Khan was in quite a different position. His horses were comparatively weak and his caravan men a turbulent lot. In the caravan, much depends on the drivers who look after the horses, load them, and follow them on the march. A bad and reckless caravan man will often ruin the animals intrusted to his charge and will never think of helping them over difficult places. We urged Omar Khan to try his best to be careful of his animals and not to allow them to graze on the poisonous grass that abounds in the mountains.
 
@@ -1087,7 +1087,7 @@ To add to our difficulties, the iron tent pegs proved to be frozen hard into the
 
 By ten o'clock the caravan began to ascend the pass. For an hour the sun lighted the snow-covered summits and the vast snowy expanses of the mountain slopes were a mass of sparkling colors. We could hardly look ahead of us, so intense was the glow of the snow in the sun. Everyone had to put on snow goggles. A cold blast of wind brought a sudden and sharp change. A small cloud was seen rising on the summit of the pass; it grew nearer and nearer and in a few moments our column was enveloped in a severe snow blizzard. Notwithstanding the terrific force
 
-**41 FROM LEH TO KHOTAN**
+<a id="41">**41 FROM LEH TO KHOTAN**</a>
 
 of the wind that raged around us, raising huge clouds of snow, we hurried on.
 
@@ -1103,7 +1103,7 @@ One of our men had an attack of mountain sickness and fell from his horse not fa
 
 Finally, we reached the northern edge of the glacier, and began the long-awaited descent. A barren black mountain country stretched northward. A long, gradual decline leads to the Sasser Serai, a miserable looking blockhouse with several stone inclosures. Quite unexpectedly, we saw some large Bactrian camels grazing on the scant shrubs that covered the almost bare slopes. These hardy animals belonged to one of our caravan-*bashis*, Omar Khan, and were grazing here until a caravan of horses should bring loads to be carried to Tur-
 
-**42 TRAILS TO INMOST ASIA**
+<a id="42">**42 TRAILS TO INMOST ASIA**</a>
 
 kestan. Camels carry loads across the Karakorum as far as the Sasser Serai. Here they have to stop, because the slippery glacier cap of the pass is impracticable for them. Some of our Ladakis had never seen camels before and there were endless exclamations of *"A-tsi tindre,"* or "O such ones!" --- а common Tibetan exclamation of surprise. Many of our riding horses, especially those from Zangskar and Ladak, snorted and turned backward.
 
@@ -1117,7 +1117,7 @@ Once across the river, we hurried our horses to warm them after the cold bath. B
 
 We came out of the canyon into a region of undulating hills of black earth with very marshy ground. Small pools of water stood in the shallow depressions between the hills. The country gradually rose and we
 
-**43 FROM LEH TO KHOTAN**
+<a id="43">**43 FROM LEH TO KHOTAN**</a>
 
 soon emerged on a broad upland plain. Snowy mountains rose on either side of it. We camped near a small brook of fresh water. The air was frosty and the pools and small depressions were all covered by a thin crust of ice.
 
@@ -1129,7 +1129,7 @@ We moved off very early in order to cross the Dapsang Pass and cover as much as 
 
 The Dapsang Plain was a vast undulating upland plain, rising to a great altitude. On the southwest and southeast rose mighty, snowy
 
-**44 TRAILS TO INMOST ASIA**
+<a id="44">**44 TRAILS TO INMOST ASIA**</a>
 
 giants, among which the Dapsang Peak towered to a height of some 22,000 feet. To the west, an imposing snowy mass of several giant peaks rose toward the great heights of the Masherbrum and other peaks of its group. Ahead of us, dark rocky hills hid behind the main chain of the Karakorum. On our way, we passed a stone with a Latin inscription erected by the Italian expedition of Dr. de Filippi in 1914-15. A story is told that the Italian explorers buried hundreds of treasure cases here.
 
@@ -1147,7 +1147,7 @@ We descended from the pass into a broad valley watered by a tiny stream. A small
 
 We continued our journey to a place called Balti-brangsa, a place of-
 
-**45 FROM LEH TO KHOTAN**
+<a id="45">**45 FROM LEH TO KHOTAN**</a>
 
 ten used as a camp by passing caravans and covered with carcasses and bones. We made only a brief halt and then started again in order to reach Baksum-Bulak. Balti-brangsa was situated at the foot of a low ridge, south of a shallow depression in the surrounding upland plain; the lowest point of the depression was occupied by a small lake.
 
@@ -1157,7 +1157,7 @@ The next march brought us across a series of upland plains covered here and ther
 
 October 2. Nazar Bai was eager to cross the Suget Pass (17,000 feet) the same day and to reach the Chinese frontier outposts of Suget Karaul as quickly as possible. We broke camp very early, about six o'clock in the morning, and plunged into the mountains across the plain. For several hours we followed the course of a small rivulet that flowed from the pass and disappeared in the gravel plain southwest of the massive eminence. The ascent to the pass was very gradual. The southern slope was free from snow. The landscape presented a succession of ridges, along the edge of which wound the path. The summit of the pass was broad and flat, covered with numerous bowlders. To the east and west rose great snowy peaks towering to a height of some 20,000 feet. Before
 
-**46 TRAILS TO INMOST ASIA**
+<a id="46">**46 TRAILS TO INMOST ASIA**</a>
 
 we had reached the summit of the pass, a violent cold wind accompanied by a snow blizzard greeted us. The surrounding mountains disappeared behind a thick veil of mist, and one could only dimly see the men moving immediately ahead. On reaching the northern slope, we found it blocked by snow several feet deep. A trading caravan on mules was stranded on the edge, its drivers uncertain what next to attempt. There could not be any question about returning to the southern side of the pass; we had to find a path down the snow covered slope. After a brief consultation it was decided to unload the mules and send them down to find a suitable trail for the rest of the caravan. The hardy animals acquitted themselves of their task splendidly. Belly-deep in snow, they descended the steep slope and reached the narrow gorge at the foot of the pass. They were followed by our loaded caravan animals and ourselves. The air resounded with cries of *"Hosh, hosh!"* and *"Kabhardah, kabhardah!"* Horses stumbled, men crept behind them, holding on to the tails of the animals. Sometimes the moving column would send a huge block of snow down the slope. When we reached the foot of the pass and looked up, we saw the whole mountain side covered by a dark crawling string of pack animals and men. We were fortunate not to lose any of our animals or men during this dangerous crossing. Preoccupied with the difficulties of the trail, we had no time to admire the severe mountain panorama that opened before us. Dark, almost black, jagged peaks, rimmed with sparkling snow, stood out in sharp contrast to the dismal gray sky. The wind was raging in the gorge at the foot of the pass, dispersing the snow in fantastic designs on the mountain slopes. "By the grace of God, we came down," shouted our Moslem caravan drivers, when we had reached the stony bottom.
 
@@ -1179,7 +1179,7 @@ TYPES OF TURKI NATIVES
 
 SANJU KIRGHIZ MEN AND WOMEN
 
-**47 FROM LEH TO KHOTAN**
+<a id="47">**47 FROM LEH TO KHOTAN**</a>
 
 We had been marching along the bank of a tiny mountain rivulet, which suddenly became a considerable stream and crossed our path. There was nothing to do but mount our tired horses and cross the stream. In the darkness ahead of us we heard shouts. It was Nazar Bai, who had found a camping ground. The tired caravan moved into the camp. Weary men quarreled among themselves, the Ladakis accusing the Turkis of dark intentions. This day we had spent fourteen hours on horseback.
 
@@ -1189,7 +1189,7 @@ The trail led down a sandrock gorge into a vast broad plain in which the Chinese
 
 The officer commanding the fort gave us a very hearty reception. His staff consisted of a Turki interpreter and some twenty militia, mobilized from among the local Kirghiz. During our visit to the fort, the personnel of the fort garrison was absent in the mountains and the population of the fort consisted of the Chinese frontier officer, the interpreter and his wife. Besides us, another Yarkendi caravan was camping in the fort courtyard. After the usual formalities were over and our passports had been examined, the frontier officer dispatched a rider to Sanju and farther to Guma, announcing our arrival and ordering the local population along the route to keep everything ready for our coming. We decided to stay but one day at the fort and to continue the journey the following day. Late into the night large camp fires illumined the fort walls and burly figures of men were squatting round them.
 
-**48 TRAILS TO INMOST ASIA**
+<a id="48">**48 TRAILS TO INMOST ASIA**</a>
 
 telling each other fresh news from Yarkend, Leh, and Kashmir. Here was the true Asia of the caravans, in which even the most prosaic news assumes the shape of heroic legends, that are told and retold along the great trade routes.
 
@@ -1203,7 +1203,7 @@ October 5. We continued our journey down the Karakash Valley. The road was stony
 
 The country was becoming much more populated. Besides parties of pilgrims to Mecca, hurrying southward before the snow might block the passes, small groups of Kirghiz men and women were seen moving about the valley. Terraced fields of barley lay on both banks of the river and our hungry animals received daily rations of hay. Toward the evening heavy dust clouds, that crept from behind the mountain ranges
 
-**49 FROM LEH TO KHOTAN**
+<a id="49">**49 FROM LEH TO KHOTAN**</a>
 
 to the north, appeared over the mountain crest and blew across the valley. We were approaching the great desert basin of inner Asia, and each breath of wind brought dust from its vast sandy expanses.
 
@@ -1217,7 +1217,7 @@ October 7. The empty pack horses left the camp before dawn, in order to cross th
 
 The descent was gradual and led into a broad valley girded by grass-covered rolling hills. This was a typical nomad highland, here and
 
-**50 TRAILS TO INMOST ASIA**
+<a id="50">**50 TRAILS TO INMOST ASIA**</a>
 
 there covered by Kirghiz *qishlaq* or winter quarters. We were now accompanied by the local Kirghiz headman, a brave looking man of about forty, with his match-lock and large fur cap. We continued our journey along the mountain rivulet and soon came across a large Kirghiz encampment. The white and light gray felt tents of the Kirghiz looked very inviting and a large crowd of people awaited our arrival. We camped outside the *ail* and wandered about the tents of the nomads. They were extremely friendly and offered us juicy melons --- the first melons that we had seen for years. The women and children were neatly dressed, and the interiors of the felt tents were artfully decorated with carpets and embroidery. Some had large, profusely decorated coffers brought from Andijan. The well-being of the local nomads struck us at once. The Sanju Kirghiz seemed to be much superior to their brothers of the Mongolian Altai and the mountain regions of Jungaria.
 
@@ -1227,7 +1227,7 @@ October 8. The trail followed a stream, the Sanju-su according to its local name
 
 On our way we met several camel caravans slowly moving up the trail on their hard and long journey into the heart of the mountains. After six hours' march along the dusty trail, we camped close to a lonely tent of a Kirghiz family. The owner brought us some milk and raisins and tried to do what he could to assist us. Willow bushes grew along the banks and a large drove of horses wandered on the green patches of grass at the foot of the hills. To the north a dusty haze hid the plains of Turkestan, the country of the "six cities" or Altyn-shahr.
 
-**51 FROM LEH TO KHOTAN**
+<a id="51">**51 FROM LEH TO KHOTAN**</a>
 
 The local Kirghiz population was under the jurisdiction of the district officer of Guma. A customs official to supervise the trade along the Sanju route was stationed at Sanju Bazaar, the most populated point of the Sanju Oasis. These were the only Chinese officials in the district and all important matters were usually referred to the district officer at Guma, who was subordinate to the Governor or *Tao-yin* of Khotan, a post created only recently.
 
@@ -1239,7 +1239,7 @@ With the approach to the oasis, it became decidedly hotter, and our sturdy Ladak
 
 Before reaching the grove, we passed a huge bowlder. Curious graffiti on its surface attracted our attention. To our great surprise, we saw represented on the stone, ibexes, bowmen, and circles of dancing men --- the same figures as appear on stones from Khalatse and other places of western Tibet. Dr. A. H. Francke has demonstrated their ritual use and connection with the ancient primitive nature worship of Tibet. It is difficult to estimate the precise date of these graffiti, for they are made
 
-**52 TRAILS TO INMOST ASIA**
+<a id="52">**52 TRAILS TO INMOST ASIA**</a>
 
 even nowadays. They seem to be fairly widely spread all over western Tibet and the neighboring mountain regions --- perhaps the work of passing caravans or the ruins of a remote antiquity. The surface of the stone was weathered and the drawings seemed to be old. The Ladakis knew nothing of this particular stone; although many of them had traveled by this route before, they had never noticed it previously. They told us that similar stones with graffiti were found  throughout Tibet. It is interesting to note that the ibexes were venerated by the ancient Mongols and played a prominent part in their fire cult. (1) These stones, scattered throughout inner Asia, seem to be remnants of a remote antiquity, dating back to a shamanistic form of worship which was universal in the higher regions of Asia.
 
@@ -1249,7 +1249,7 @@ After an hour's halt, we continued our march down the gradually sloping valley. 
 
 1\. Poppe, *Zum Feuerkultus bei den Mongolen, Asia Major*, II, 135 ff.
 
-**53 FROM LEH TO KHOTAN**
+<a id="53">**53 FROM LEH TO KHOTAN**</a>
 
 grove of poplars, willows, and fruit trees. A neat and gaily dressed crowd of women and men awaited our arrival. A large and shady *bagh* or garden was reserved for our camp. We pitched our tents under the shady trees, and for the first time in several weeks walked over soft, grassy soil. An inquisitive crowd of villagers moved about the tents, but with dignity, and no one ventured to look inside. We presented the friendly headman with a wrist watch and the old man beamed with satisfaction. He at once reciprocated by sending us huge watermelons, peaches, and pears.
 
@@ -1259,7 +1259,7 @@ On the ride through the shady villages we were much impressed by the relative we
 
 A *dastarkhan* was offered on a square level place in the very heart of the settlement. We would have preferred a garden outside the village but had to accept the offered accommodations. A loud jingling of bells announced the arrival of the local Chinese custom official --- a pale young man in a blue silken coat and black skullcap. He dismounted from a prancing iron-gray steed, seated himself in front of our tents
 
-**54 TRAILS TO INMOST ASIA**
+<a id="54">**54 TRAILS TO INMOST ASIA**</a>
 
 and chatted for a considerable time, while he continuously smoked cigarettes. Our Chinese interpreter, true to the old traditions of imperial China, considering him ill-mannered, whispered to me "Look at his manners!" The officer inquired about our journey and strongly advised us to go to Kashgar first. The *Tao-t'ai* of Kashgar, he said, was a pleasant man with wide experience in European matters; Khotan was indeed a wonderful place, but the new Governor Ma was a troublesome man whom it was better to avoid.
 
@@ -1285,7 +1285,7 @@ TURKI HEADMEN AND CHINESE SOLDIERS
 
 A VILLAGE CROWD IN CHINESE TURKESTAN
 
-**55 FROM LEH TO KHOTAN**
+<a id="55">**55 FROM LEH TO KHOTAN**</a>
 
 of midday. In return we presented our unknown host with a hunting knife.
 
@@ -1297,7 +1297,7 @@ We marched for ten hours and the burning sun shone pitilessly on the desert road
 
 Early in the morning of October 13 we left Pialma for Zawa Kurghan. The road from Pialma to Zawa was a very heavy one and led over belts of sand dimes. For the first two hours after leaving Pialma, the road led over a vast gravel plain, and in the clear air of the early dawn the snowy peaks of the K'un-lun were clearly visible. After this
 
-**56 TRAILS TO INMOST ASIA**
+<a id="56">**56 TRAILS TO INMOST ASIA**</a>
 
 brief stretch of firm road, sand dunes appeared on either side of the trail and the road became difficult and tiresome for both men and caravan animals.
 
@@ -1313,7 +1313,7 @@ A petty official from the *yamen* of the Governor met us on the way and led into
 
 2\. Stein, *Sand-buried Ruins of Khotan*, pp. 179 ff.
 
-**57 FROM LEH TO KHOTAN**
+<a id="57">**57 FROM LEH TO KHOTAN**</a>
 
 ing his tenure of office. The place was small and dusty, and was, moreover, situated in the very center of the evil-smelling Chinese city. We expressed our desire to camp in another place and were at once conducted to the clean garden of Badruddin Khan, the Afghan *aqsaqal* of the Indian traders and an old friend and helper of Sir Aurel Stein. The old *aqsaqal* and his numerous family had chairs and tea arranged for us, and we were glad to meet people who could tell us something about the antiquities of Khotan and new sites discovered in its neighborhood. Badruddin Khan had a small collection of antiquities at his home and he promised to show it to us some day.
 
@@ -1339,7 +1339,7 @@ The ancient city of Khotan and the other important oases along the trade route, 
 
 There is little to glean from Mohammedan sources about the medieval history of Khotan. It seems to have remained Buddhist even after the Mohammedan conquest of about 1000 A.D. The Mohammedan author, Gardizi, says that the people of Khotan were Buddhist but he also mentions a Mohammedan cemetery, north of Khotan, and two Chris-
 
-**62 TRAILS TO INMOST ASIA**
+<a id="62">**62 TRAILS TO INMOST ASIA**</a>
 
 tian churches in the town itself (neither Christian nor Manichean relics have so far been discovered in Khotan).
 
@@ -1353,7 +1353,7 @@ From time to time landslides uncover terra cotta figurines and masses of ancient
 
 Some of the local notables, aware of the value of genuine antiques, accumulate for themselves considerable collections of smaller objects with an ultimate view of selling them to wealthy foreigners. In such cases the prices are usually very high and the story is told that the collection has been registered by the Indian Archaeological Department. During our stay in Khotan, the veteran Indian *aqsaqal*, Badruddin Khan, once the local agent of Sir Aurel Stein, showed us a considerable
 
-**63 KHOTAN**
+<a id="63">**63 KHOTAN**</a>
 
 collection of antiquities, gathered by him and his agents at Yotkan, Rawak, Niya, Mazar Imam Jafar Sadik, and distant Miran, all places explored by Sir Aurel Stein. This collection comprised well-preserved stucco heads of Buddhas, jars with handles adorned with human and animal heads, fragments of frescoes, objects in clay, such as votive *stupas*, offering lamps, animal figures, etc. The collection included several wooden tablets inscribed in Kharoshthi, torn fragments of a text in Oriental-Iranian, lists of Tibetan writings on paper from the Miran site, containing mostly leave permits for soldiers of the Tibetan garrison in the Miran Fort. (A curious detail is the constant use of the word *dpa-o* for "soldier"; in the present-day language, the word has the restricted sense of "hero.")
 
@@ -1365,7 +1365,7 @@ The modern oasis of Khotan has about 150,000 inhabitants, with a considerable Ch
 
 Khotan silk manufacture is the largest in the country, and Khotanese silk fabrics are found in all the markets of Chinese Turkestan and a few years ago were exported in considerable quantity to Russian Turkestan through Kashgar and the frontier outpost of Irkeshtam. Besides silk fabrics, Khotan is noted for its cotton stuffs, which are exported in large quantities. The Khotanese silk and cotton factories are largely worked
 
-**64 TRAILS TO INMOST ASIA**
+<a id="64">**64 TRAILS TO INMOST ASIA**</a>
 
 by female and child labor. We knew of several big Khotan merchants who owned some two hundred girls and obliged them to work in their factories. A mild form of slavery is still a distinct feature of Khotanese life. Parents usually have nothing against their daughters or sons being sold to a family of good social standing, where they are well cared for. Many have become slaves through being unable to pay their debts. The usual price for a girl of fourteen is from fifteen to thirty Mexican dollars. A child of four is often sold for a couple of dollars. Mohammedan merchants pay regular visits to the Kansu Province, where they buy children under the age of five and transport them to Turkestan to be sold to families. During our crossing of the Kansu Province we once came across a party of boys and girls, all under five, sold to a wealthy Mohammedan merchant. They all were sitting in a courtyard, learning to recite Mohammedan prayers.
 
@@ -1379,7 +1379,7 @@ As an agricultural center, Khotan occupies an important place. It is well watere
 
 1\. For a detailed account of the physical aspects of the Khotan Oasis, see Sir Aurel Stein's *Ancient Khotan*, I, 124 ff.
 
-**65 KHOTAN**
+<a id="65">**65 KHOTAN**</a>
 
 Wheat, corn, barley, and rice are cultivated on an extensive scale. The oasis boasts of many fruit orchards, where apples, pears, apricots, grapes, melons, etc., are grown.
 
@@ -1393,7 +1393,7 @@ As to the social life of Khotan, suffice it to say that the town and its populac
 
 Our sojourn in Khotan began with busy days. Visits had to be paid to the *Tao-t'ai* or Governor, the *amban* or city magistrate, and the *tung-ling*, officer commanding the Khotan garrison. We began our visits early in the morning of our first day in Khotan. First we went to the *Tao-t'ai yamen*. Professor Roerich and I rode on horseback, followed by our Chinese interpreter and preceded by several *begs* or headmen and Chinese soldiers, who cleared the way through the narrow streets
 
-**66 TRAILS TO INMOST ASIA**
+<a id="66">**66 TRAILS TO INMOST ASIA**</a>
 
 of the Mohammedan section of the city. As soon as we appeared, a crowd formed and followed us to the gates of the Governor's residence. A detachment of infantry was lined up on either side of the large entrance gate. The men, in dark gray uniforms with red shoulder straps, presented arms. Then they rushed past us to the next gate, again lined up and again presented arms. This ceremony was performed three times at each of the three gates of the *yamen*. The *Tao-t'ai* met us in the inner courtyard of his residence.
 
@@ -1423,7 +1423,7 @@ MA TI T'AI
 
 MILITARY GOVERNOR OF KASHGAR
 
-**67 KHOTAN**
+<a id="67">**67 KHOTAN**</a>
 
 Mohammedans. His father was once the Viceroy of the Yunnan Province and lost his life in a rebellion against the imperial throne of China. The present Governor of Khotan spent his younger days in distant Yunnan, then was exiled to the torrid desert tracts of western Kansu and Hsin-chiang. This family had produced several outstanding personalities, all of them occupying important posts in Chinese Provincial administration.
 
@@ -1437,7 +1437,7 @@ For several years before his fall in 1924, he cherished hopes of becoming the in
 
 In 1924 the war clouds began to gather. It was rumored that the
 
-**68 TRAILS TO INMOST ASIA**
+<a id="68">**68 TRAILS TO INMOST ASIA**</a>
 
 *Ti-t'ai* was planning a rebellion against the Governor-General of the Province and the Provincial Government realized the necessity of putting a stop to the dangerous activities of the Kashgar war lord. A large force of some 18,000 cavalry and infantry was mustered in Urumchi and the command was intrusted to Erh Tao-yin of Aksu, one of the ablest regional governors of Hsin-chiang. The force started on its march to Kashgar in February, 1924. One should not, however, think that all the 18,000 men were actually in the field. This large number of troops no doubt existed only on paper and the force that arrived in Kashgar amounted to only about five hundred men. In Hsin-chiang the authorities have a curious way of counting their troops. They are not counted by sabers or bayonets, but by their caps --- not so many sabers or bayonets, but so many caps. Many of the regiment commanders have their soldiers only on paper. They have no soldiers, but keep caps for them and the caps are counted in official reports.
 
@@ -1447,7 +1447,7 @@ His father, the aged *Ti-t'ai*, is said to have offered firm resistance but was 
 
 Ma Shao-wu personally commanded the firing squad. Eyewitnesses tell that before the execution the victorious Ma Shao-wu approached the crucified *Ti-t'ai* and shouted to him: "Do you recognize me, Ma Fu-hsin?" "Ma Shao-wu," groaned the wounded *Ti-t'ai*. After this very brief dialogue, Ma Shao-wu fired his pistol at the *Ti-t'ai*, and the blood from the wound is said to have spurted on his coat --- a bad sign, according to the Chinese. In the excitement the soldiers of the firing squad
 
-**69 KHOTAN**
+<a id="69">**69 KHOTAN**</a>
 
 shot at the *Ti-t'ai* without previous orders and almost killed Ma Shao-wu, who stood between them and the wounded man. He had a narrow escape.
 
@@ -1465,7 +1465,7 @@ Such was the background of Ma Shao-wu when we first met him in Khotan. A man of 
 
 Our first meeting with the man was very friendly and we had all the prospects of a successful stay in Khotan. We took leave of the Governor
 
-**70 TRAILS TO INMOST ASIA**
+<a id="70">**70 TRAILS TO INMOST ASIA**</a>
 
 and proceeded to the city magistrate --- a typical Chinese official of the interior of China. A faithful instrument of the Governor, he echoed the same readiness to assist us. The *tung-ling* or officer commanding the garrison at Khotan, whom we visited next, was a young man of pleasant manners and during our subsequent troubles occupied a neutral position. Everywhere we were met with the same ceremonies and guards of honor.
 
@@ -1475,7 +1475,7 @@ It was impossible to stay in the small garden of Badruddin Khan with our big car
 
 After this conversation, several days elapsed without our being able
 
-**71 KHOTAN**
+<a id="71">**71 KHOTAN**</a>
 
 to settle the matter. It was during this period that we made the acquaintance of a local trader, Khudai Berdi Bai, who became a trusted friend all through the period of our difficulties with local authorities. The matter of renting the house seemed to take a hopeless turn and we decided to negotiate directly with the Afghan *aqsaqal's* family. To our great surprise, we found them very eager to rent the house. Someone was trying to prevent us from establishing our headquarters there. Who this dark shadow was, whose hand we found in all our difficulties in Khotan, we were unable to ascertain. We signed an agreement, paid a month's rent, and took possession of the house and compound, to the great consternation of Kerim Beg.
 
@@ -1487,7 +1487,7 @@ Besides his archaeological work. Professor Roerich intended to extend his artist
 
 For a time, everything was quiet. The *Tao-t'ai* arranged a dinner of some fifty courses in honor of Professor Roerich, at which all the local officials were present, and also Mr. K. Moldavak, an Armenian gentleman, who had long been living in Khotan and was one of the closest friends of the local Governor. Mrs. Roerich could not attend the function and the whole dinner of fifty courses was sent to her by an aide to
 
-**72 TRAILS TO INMOST ASIA**
+<a id="72">**72 TRAILS TO INMOST ASIA**</a>
 
 the Governor. It was a long affair, which started about three o'clock in the afternoon and continued late into the evening. The Chinese played their usual table games, in which the loser had to drink a glass of strong Chinese brandy after each defeat. The *Tao-t'ai* entertained his guests with stories of his former exploits and showed photos of his tame leopards, of which he was very proud.
 
@@ -1503,7 +1503,7 @@ We applied to the magistrate of the city for permission to sketch and take photo
 
 Meanwhile a new magistrate had arrived from Urumchi and Kashgar. Disquieting rumors were whispered about. The new magistrate
 
-**73 KHOTAN**
+<a id="73">**73 KHOTAN**</a>
 
 was violently opposed to foreigners, although he boasted of his modernism.
 
@@ -1513,7 +1513,7 @@ The conversation continued on general topics, when suddenly the new magistrate b
 
 Mr. Chang, the new magistrate, came the next day and said that a wire had been received from the Governor-General ordering our expedition to return to India *via* the Sanju Pass. This was an impossibility, for the pass was long since closed by the snow, and we at once understood that the telegram was a fraud which originated in the *yamen* of the Governor.
 
-**74 TRAILS TO INMOST ASIA**
+<a id="74">**74 TRAILS TO INMOST ASIA**</a>
 
 The visit of the magistrate was enlivened by an episode which caused considerable merriment among our servants. The magistrate had arrived in state with a considerable escort of policemen who waited outside the house. Our Tibetan mastiff, Tumbal, as a precaution was taken away and tied to a tree in the garden. In the midst of our conversation, we suddenly heard a loud outcry followed by a wild trampling of feet. The dog had broken his chain and was slowly and menacingly advancing toward the house door. The policemen, unable to stand the sight, fled, many barricading themselves in our bathroom. The door to the room where we were sitting was open, and we could see the dog coming up the steps of the terrace. The magistrate, pale and confused, quickly got on the chair on which he had been sitting and prepared to get on the table where tea was served. It took us some time to explain to the frightened man that the dog was harmless in our presence.
 
@@ -1523,7 +1523,7 @@ Several traders volunteered to carry our letters to the consulate at Kashgar. Be
 
 On December 29, 1925, the new magistrate and several minor mili-
 
-**75 KHOTAN**
+<a id="75">**75 KHOTAN**</a>
 
 tary officers, representing the *Tao-t'ai*, came to search our baggage and house. We were said to possess a huge amount of ammunition and some kind of a "shooting wheel" with which we were able to annihilate the whole of the Khotan garrison and the population in less than ten minutes! Our square wooden boxes of preserves from the Cockburn Agency in Kashmir gave rise to the suspicion that we carried large supplies of ammunition with us. Our firearms, consisting of two rifles, one double-barreled gun and three revolvers, and one case of ammunition, were sealed and taken away. Professor Roerich, in his book, *Altai-Himalaya*, has given a detailed description of the ridiculous and fruitless search.
 
@@ -1533,7 +1533,7 @@ On January 1 everything was ready for the start, when suddenly an official from 
 
 The *Tao-t'ai* was adamant in his decision to keep us in Khotan. It is difficult to say what had influenced his change of attitude. Some said that he was possessed by the spirit of the murdered *Ti-t'ai* of Kashgar and no longer could control himself. Others repeated the story that someone had sowed mistrust in the *Tao-t'ai's* mind. Whatever it might
 
-**76 TRAILS TO INMOST ASIA**
+<a id="76">**76 TRAILS TO INMOST ASIA**</a>
 
 be, it was clear that the situation was a very serious one and that we had to find a solution.
 
@@ -1547,7 +1547,7 @@ On the evening of the same day, we received the visit of our friend Khudai Berdi
 
 We hurried with our preparations. Most of the baggage had been packed long ago. We now only needed to engage a trustworthy caravan-*bashi*. Khudai Berdi Bai recommended us to Temur Bai, a wealthy caravaneer owning many horse caravans transporting goods between Khotan and Leh. Temur Bai undertook to furnish us with seventy-four pack horses for six Chinese dollars each, with the understanding that
 
-**77 KHOTAN**
+<a id="77">**77 KHOTAN**</a>
 
 we should reach Kashgar on the fourteenth day. Besides pack anima ls we were obliged to hire two Chinese carriages or *ma-fa* at twenty-five dollars for the journey. In one of the carriages our Chinese interpreter Ts'ai had to travel, together with a case of firearms, which were returned to us sealed on the eve of our departure. Poor Ts'ai had taken to opium smoking, no doubt depressed by the insulting attitude of the local officials. The aged man was full of his old-time dignity and complained bitterly against the revolting methods of the local administration. As a result of the opium, he was so weak that he could not keep himself in the saddle and had to travel in the carriage. He was careful to conceal his habit and smoked only in the dark of the night.
 
@@ -1567,7 +1567,7 @@ Most of the pack horses were big animals from Yarkend, capable of carrying about
 
 Several mounted soldiers in charge of an aged *shao-wei* or lieutenant were ordered to escort us as far as Yarkend, the next garrisoned oasis along the southern trade route. They all came and lined up in front of the house, the lieutenant holding the red visiting card of his superior officer in his raised hand. All the men were over fifty, and were dressed in voluminous gray coats and fur caps with large earflaps which, if necessary, could be buttoned in front of the face. Their arms consisted of old Mausers, and the officer had an old Chinese sword. We were much surprised at the age of these warriors, and inquired whether they intended to retire from service. The reply was that they had recently been promoted to the cavalry for gallant service! In Hsin-chiang a young soldier has to serve in infantry units, and only after he has passed an age
 
-**82 TRAILS TO INMOST ASIA**
+<a id="82">**82 TRAILS TO INMOST ASIA**</a>
 
 limit or distinguished himself in service is he promoted to the grade of a mounted soldier or *ma-p'ing*. In Hsin-chiang, as in many other parts of China, a horse is only a means of transportation; a Chinese trooper is taught to sit on a horse, but never to ride it. A *beg* from Karakash and two *daroghas* were also delegated to attend to our needs on the journey. They were directed to accompany us to Guma Bazaar, the nearest administrative center on the Khotan-Yarkend route.
 
@@ -1605,7 +1605,7 @@ RIVER VIEW NEAR YANGI-HISSAR
 
 CHINESE CAVALRY ENTERING KASHGAR
 
-**83 KHOTAN-KASHGAR**
+<a id="83">**83 KHOTAN-KASHGAR**</a>
 
 animals at Ak-langar --- a desert resthouse built in the days of Yakub Beg. The resthouse has a well of brackish water.
 
@@ -1619,7 +1619,7 @@ Shortly after our arrival in Zanguya, the lieutenant in charge of our guard arri
 
 Soon after our arrival, we received the visit of the local magistrate.
 
-**84 TRAILS TO INMOST ASIA**
+<a id="84">**84 TRAILS TO INMOST ASIA**</a>
 
 He was accompanied by his young son and a troop of armed policemen in strange uniforms and old muzzle-loading rifles. The magistrate was greatly concerned over our difficulties in Khotan and hinted that Ma Tao-yin was a man of dangerous habits. An authentic source had told him the story that the Governor of Khotan had stormed our headquarters and that he was repelled with heavy losses. How this story originated, it was impossible to learn. Rumors take strange shapes in Chinese Turkestan.
 
@@ -1631,7 +1631,7 @@ At Guma, we were given another *beg* and *darogha* to accompany us to Karghalik.
 
 Our next stop was Akin-langar, another relay station on the long thirty-four mile stage between Guma and Karghalik. So far we had enjoyed perfect weather, with warm days and cool nights. At Akin-langar the weather suddenly changed. A cold wind started up toward sunset and the temperature dropped below zero. Snow fell during the night and in the morning we found the desert covered by a thin layer of
 
-**85 KHOTAN-KASHGAR**
+<a id="85">**85 KHOTAN-KASHGAR**</a>
 
 snow. The day was dull and heavy clouds hovered over the graveled expanse of the desert. A bitterly cold northwest wind made progress difficult and we were relieved when we entered the cultivation zone of Besh-arik.
 
@@ -1643,7 +1643,7 @@ At Posgam we encountered a group of Shikarpuri money lenders and several traders
 
 On February 6, we started very early in order to reach Yarkend in the forenoon. Some five miles from Posgam, we met a servant of the Ladak *aqsaqal* who sent us a message inviting us to stay in his sum-
 
-**86 TRAILS TO INMOST ASIA**
+<a id="86">**86 TRAILS TO INMOST ASIA**</a>
 
 met house situated in the suburb of Yarkend --- an invitation which we gladly accepted. We crossed the Yarkend darya on rafts. It took us fully two hours to bring across our saddle horses and the detachment of pack horses with the camping outfit. We hurried to Yarkend through dusty lanes lined with *toghraks* or desert poplars on either side.
 
@@ -1653,7 +1653,7 @@ Yarkend impressed us as being a much more active and thriving place than Khotan.
 
 Most of the Yarkend trade is conducted with India and the Indian
 
-**87 KHOTAN-KASHGAR**
+<a id="87">**87 KHOTAN-KASHGAR**</a>
 
 colony is the largest foreign colony in the oasis. The Chinese local authorities did their best to assist us with relay horses and travel arrangements. The local magistrate, a Cantonese by birth, was a superior type of official, keen to interest himself in the objects of geographical and archaeological research. The magistrate assured us that letters about our coming were received from Peking and that he could not understand the attitude of the Khotan authorities; according to him, Ma Ta-jen had become insane after the shooting at Kashgar.
 
@@ -1667,7 +1667,7 @@ It was a beautifully clear morning when we started from Yarkend. The snowy mount
 
 Our first stage led past the cultivated fields and hamlets of Yarkend Oasis. We reached Kok-rabat early in the day. A large crowd of local peasants surrounded the camp and dispersed only at dusk. Some strange rumors had reached the village and local people were anxious to see the newcomers. Next day we were in Kizil Bazaar --- a half-ruined village with a vast desert plain called Karakum or "Black Sands." The
 
-**88 TRAILS TO INMOST ASIA**
+<a id="88">**88 TRAILS TO INMOST ASIA**</a>
 
 next stage to Yangi-hissar lay across a desert country intersected by hamlets with small patches of cultivation.
 
@@ -1681,7 +1681,7 @@ Not far from the Kashgar bridge we were greeted by several *chaprassis* or order
 
 We rode straight to the consulate, where we received a friendly welcome from Major and Mrs. Gillan. It was strange to behold our dusty selves in the civilized surroundings of a western home. The consulate, overlooking the Tumen River, has an ideal situation and commands a good view of its banks. Our first day in Kashgar passed in conversation. We had to relate the story of all our difficulties in Khotan and discuss our future plans. A telegram had to be sent to the Governor-General in Urumchi announcing our arrival in Kashgar, and Mr. George Chu, late interpreter with the Chinese Labor Corps in France during the Great War and now Chinese secretary to the consulate, promised
 
-**89 KHOTAN-KASHGAR**
+<a id="89">**89 KHOTAN-KASHGAR**</a>
 
 to interview the Kashgar *Tao-yin* and Mr. M. Y. Tao, his foreign secretary, with the view of obtaining necessary permissions for us.
 
@@ -1695,7 +1695,7 @@ The thronged bazaars of Kashgar and the vast amount of European, Indian, and Chi
 
 Every morning we went for a stroll or a ride in the Kashgar streets and bazaars. In the early hours of the morning, before the dust haze had enveloped the horizon, we could clearly see the Kashgar Range southwest of the city, towering from a height of some 18,000 feet to more than 25,000 feet. The city with its gardens and plantations of rice along the banks of the Tumen River and the background of snowy mountains presented a typical picture of a central Asian town.
 
-**90 TRAILS TO INMOST ASIA**
+<a id="90">**90 TRAILS TO INMOST ASIA**</a>
 
 The Kashgar bazaars, roofed with sacking and straw mats, were full of attractions to the visitor. These narrow, dark streets were a genuine ethnographical museum in which the student reveled in searching for new types. Here was a dark shop with Bukhara and Khiva wares and Samarkand carpets. A dark-bearded Andijani merchant sat among his colorfully ornamented coffers; these remind one of the early Renaissance coffers in Italy. The wonderful period of the early Italian Renaissance had many links with the countries of the distant Orient. In another shop a white-bearded Afghan offered the products of his native land and Indian spices. His neighbor was a Chinese trader selling large Chinese spectacles with massive frames. Unfortunately these old-time spectacles give way nowadays to the far more practical snow goggles from India. In remote parts of central Asia, the large Chinese spectacles are one of the attributes of official standing and Kirghiz and Mongol princes and headmen always wear them, regardless of whether they need them or not.
 
@@ -1719,7 +1719,7 @@ CAVES WITH REMAINS OF BUDDHIST FRESCOES AT TOGHRAK-DONG
 
 THE EXPEDITION CARTS ARRIVING AT KIZIL, CHINESE TURKESTAN
 
-**91 KHOTAN-KASHGAR**
+<a id="91">**91 KHOTAN-KASHGAR**</a>
 
 such as vivid green, ochre, or blue, and as a rule are lined with violet or dark red velvet.
 
@@ -1735,7 +1735,7 @@ On February 19 the much delayed reply came from the Governor-General. His Excell
 
 We were obliged to change our Indian rupees into Urumchi *lans* or *liangs* with the value of one-third of the Kashgar *sar*, for the oases or *pei-lu* along the northern route accept only the Urumchi *lan*. In buying Urumchi *lans* one has to be very careful to get genuine ones. Sometimes
 
-**92 TRAILS TO INMOST ASIA**
+<a id="92">**92 TRAILS TO INMOST ASIA**</a>
 
 the banknotes are so torn that new pieces are pasted to them regardless of the serial numbers.
 
@@ -1759,7 +1759,7 @@ On March 3, we entered the large and important Oasis of Maral-bashi, connected b
 
 Our next stop was Ak-tumshuk or simply Tumshuk. On leaving the cultivation zone of Maral-bashi and Char-bagh Bazaar, a small hamlet some fifteen miles northeast of Maral-bashi, we emerged on a vast
 
-**96 TRAILS TO INMOST ASIA**
+<a id="96">**96 TRAILS TO INMOST ASIA**</a>
 
 sandy plain covered by shrubs. The stage was a very long one, about thirty miles, and we reached the village of Tumshuk at about eleven o'clock at night. Not far from the village stands a Chinese inscription dating back to the time of the reconquest of the New Dominion in 1877. North and southeast of Tumshuk lie important ruins. The ancient sites were excavated by the eminent French sinologist, Professor Paul Pelliot, during his expedition in 1906-8.
 
@@ -1773,7 +1773,7 @@ We left Aksu on March 11 and after a tiresome march reached the small village of
 
 From Kara-khuduk, or Kara-yulghun we marched to Toghrak-dong, a lonely spot at the foot of a sandstone ridge. For the whole day the
 
-**97 NORTHERN HIGHWAY TO URUMCHI**
+<a id="97">**97 NORTHERN HIGHWAY TO URUMCHI**</a>
 
 route passed over vast gravel plains, intersected by low ridges of sandstone. Toghrak-dong is interesting for several cave shrines, situated in the side of a sandstone cliff, not far from the local relay station. The plastering that once covered the walls and the ceiling, and the frescoes, have been destroyed by the vandalism of Mohammedan iconoclasts. Some of the caves have crumbled down. The site was probably a small Buddhist *vihara*, built in the cliff. As most of the ancient ruined monasteries and shrines along the southern slopes of the T'ien Shan, the caves of Toghrak-dong command a fine view of the rugged ridges that stretch far into the desert.
 
@@ -1783,7 +1783,7 @@ The route from Kushtimi to Bai led over cultivated grounds on the left bank of t
 
 In the vicinity of Bai, Professor Paul Pelliot discovered Tokharian manuscripts in the Kuchean dialect. He also found fragments of route permits, which were brilliantly analyzed by M. Sylvain Levi, Professor of Sanskrit at the College de France and the Ecole des Hautes Etudes, Paris.
 
-**98 TRAILS TO INMOST ASIA**
+<a id="98">**98 TRAILS TO INMOST ASIA**</a>
 
 Our next stage was Kizil-örtang. Southeast of the present hamlet of Kizil are situated the important *ming-öi* or cave temples, with frescoes dating back to the fifth and eighth centuries A.D. The caves were visited by Professor Pelliot and thoroughly explored by Dr. Le Coq during his expedition in 1905.
 
@@ -1831,7 +1831,7 @@ V. The fifth style, called Tibetan by Dr. Le Coq, is met only in Turfan and is o
 
 1\. *Auf Hellas Spuren in Ost-Turkestan*, p. 12.
 
-100 TRAILS TO INMOST ASIA
+<a id="100">**100 TRAILS TO INMOST ASIA**</a>
 
 of China contain a mass of information about the Tibetan tribes of the border. We know about their tribal movements, their alliances with the powerful Hiung-nu, a paleo-Asiatic tribe occupying the steppes of modern Mongolia, and their occasional raids on Chinese territory.
 
@@ -1845,7 +1845,7 @@ Spring was rapidly approaching and new grass was appearing in the
 
 2\. "Tibetische Handschriftenfunde aus Turfan," *SPAW* (1924).
 
-**101 NORTHERN HIGHWAY TO URUMCHI**
+<a id="101">**101 NORTHERN HIGHWAY TO URUMCHI**</a>
 
 gardens and the orchards. It was becoming decidedly warmer and we had to hurry to reach Urumchi before the flood period.
 
@@ -1861,7 +1861,7 @@ Next day a long march of some fifty miles brought us to Chadir, a small oasis ea
 
 From Chadir we traveled along the trade route, stopping at Charchi and Tim. The route led mostly over sandy tracts covered by scant shrubs and intersected by patches of gravel desert. To the north the mountains became more visible, stretching their rugged spurs far into the desert plain. Between Charchi and Tim, we met on the way an interesting young Turki. He was one of those medicine men, adepts of old shamanistic beliefs, who survived among a fanatical Mohammedan population and are popularly called by the name *baksha* or "teacher," The young native was riding on horseback and carried with him a large tambour, which he struck rhythmically, sometimes singing an incantation in Turki.
 
-**102 TRAILS TO INMOST ASIA**
+<a id="102">**102 TRAILS TO INMOST ASIA**</a>
 
 On March 26 we passed along the northern outskirts of the Korla Oasis, and turned northeast following the courses of the Konche darya. The trail led over a plain of piedmont gravel, gradually rising toward the mountains. It was on this plain that we met the first Torguts. Three horsemen suddenly appeared from behind a low spur and rapidly rode toward us. All three were dressed in blue coats and two had black handkerchiefs on their heads. They were mounted on fine Torgut horses and attentively examined our caravan. *"Ta saïn bantï,"* was their greeting, and we told them of our intention to visit the headquarters of their Ruler. *"Dza, dza, dza,"* nodded the riders, and in a cloud of dust disappeared in the distance. Among the Mongol nomad tribes a good rider will always speed his horse to show off its pace.
 
@@ -1871,7 +1871,7 @@ We camped on the bank of the river not far from a grove of trees. The air was wo
 
 We passed the village of Shorchuk, in the vicinity of which are situated important ruins, explored by German and British expeditions. After five hours' ride, we reached the Karashahr darya and had to spend a considerable time waiting for the rafts to come from the other bank of the river. Several caravans with bales of merchandise were waiting on the bank to be taken across. The rafts were manned by Torguts, rough fellows in shaggy coats and long pigtails. Among the crowd we noticed several Kirghiz from Prjevalsky on the Issik köl, who were now grazing their flocks of sheep in the mountain tracts north of Karashahr.
 
-**103 NORTHERN HIGHWAY TO URUMCHI**
+<a id="103">**103 NORTHERN HIGHWAY TO URUMCHI**</a>
 
 Outside the city gates, we were met by the local representative of Brenner Bros., who guided us to the house and garden reserved for our use. The place was situated not far from the town palace of the Torgut Lama Regent, and had the advantage of being conveniently placed on the route to Khoton-sumbul, the headquarters of Toïn Lama, the Lama Regent of the Karashahr Torguts and one of the outstanding personalities of Hsin-chiang.
 
@@ -1881,7 +1881,7 @@ Two important Kalmuck tribes populate the Karashahr region; the Torguts and the 
 
 It was our intention to visit the Kalmuck encampments and the large monastery of Balgantai-shara-sümä, situated in the mountains north of Khoton-sumbul. From there we intended to cross the Sumuntä-daban to Urumchi. The days were becoming hot and we feared the exces-
 
-**104 TRAILS TO INMOST ASIA**
+<a id="104">**104 TRAILS TO INMOST ASIA**</a>
 
 sive heat of the Turfan depression and its effect on Mrs. Roerich, who always suffered from heat. While in Kashgar, we notified the Governor-General in Urumchi of our intention and were assured by local authorities that the Provincial Government would certainly grant permission.
 
@@ -1891,7 +1891,7 @@ We returned to our camp with an impression that the authorities had nothing agai
 
 Khoton-sumbul was situated in the steppe northwest of Karashahr. A cart road led to the settlement and the country seemed to be thickly populated by nomads. Their felt tents and large herds of horses and cattle were seen everywhere. Khoton-sumbul itself was a small settlement of whitewashed brick buildings with clean broad streets and a small bazaar. The Regent's palace was built in European style, and a
 
-**105 NORTHERN HIGHWAY TO URUMCHI**
+<a id="105">**105 NORTHERN HIGHWAY TO URUMCHI**</a>
 
 number of other buildings in semi-European architecture indicated his progressive attitude.
 
@@ -1905,7 +1905,7 @@ In 1920-22 he began to organize his own troops and invited a Russian instructor,
 
 In 1924, at the time of the military expedition to Kashgar, Toïn Lama was requested by the Urumchi Provincial Government to send his cavalry against Ma Ti-t'ai and to contribute a camel transport for Chinese troops. Toïn Lama flatly refused to send his riders, and since that time the Chinese have slowly tightened their grip over him and his tribe. Early in 1925, he was ordered to send his cavalry to Urumchi to resist the expected advance of Marshal Feng Yu-hsiang's army. The Torguts were always a military reserve for Hsin-chiang, and the au-
 
-**106 TRAILS TO INMOST ASIA**
+<a id="106">**106 TRAILS TO INMOST ASIA**</a>
 
 thorities were not slow to take advantage of this time-honored usage. The Russian instructor was arrested while on a visit to Urumchi and deported from Hsin-chiang, and a Chinese officer sent to take command of the troops.
 
@@ -1921,7 +1921,7 @@ The Tibetan Government ordered the non-transmigration of the lama's soul --- the
 
 3\. *Three Years in Tibet*, chap. iii.
 
-**107 NORTHERN HIGHWAY TO URUMCHI**
+<a id="107">**107 NORTHERN HIGHWAY TO URUMCHI**</a>
 
 family of the Torguts had the same slight deformity of the knee, which was a peculiar mark of the deceased lama. The news of the appearance of the new incarnation caused considerable indignation in Lhasa; and when the boy's mother brought him to Lhasa to initiate him into monkhood at one of the great Lhasan monasteries, he was refused admittance.
 
@@ -1935,7 +1935,7 @@ Our firearms were sealed in a case, but we decided to carry on and to hold firml
 
 "Come on, let us disarm the foreigners!" shouted someone in the crowd. The crowd made a move forward but then fell back again. "They will open fire!" shouted someone again, and the crowd again
 
-**108 TRAILS TO INMOST ASIA**
+<a id="108">**108 TRAILS TO INMOST ASIA**</a>
 
 retreated. Our firearms were deposited in my tent, and two of our camp servants mounted guard over them with axes. In an emergency we intended to open the case and arm ourselves. A number of our camp servants stood by in a line ready to receive firearms if the crowd attacked the camp. The Chinese officer, who was delegated by the Karashahr magistrate to protect us, appeared on the scene and urged us to return to Karashahr, pointing out the threatening attitude of the Torguts. We again refused to do so unless a written statement was given to us. The crowd once more became excited, and some of the younger men, evidently under the strong influence of alcohol, urged them to mob the foreigners. The tension increased, and we were already prepared to defend ourselves with arms in hand. The Chinese officer was summoned and ordered to disperse the crowd, and told that in case he would not do it himself we would have to. He was greatly surprised at our firm stand and ordered his soldiers in front of our camp. We witnessed an exciting scene. The Chinese soldiers with whips and rifles were pushing the crowd, who slowly withdrew. Suddenly the Torguts became again friendly and hinted that the whole affair was a provocation, staged by the officers in order to make us return.
 
@@ -1961,7 +1961,7 @@ RIVER VIEW NEAR TOKSUN
 
 A DIFFICULT ROUTE IN THE TIEN SHAN
 
-**109 NORTHERN HIGHWAY TO URUMCHI**
+<a id="109">**109 NORTHERN HIGHWAY TO URUMCHI**</a>
 
 On April 2 we left Karashahr, and the same day reached the hamlet of Tawilgha and camped for the night. The road led over dusty sand tracts, covered by shrubs and jungle. The next march to Ushaktal took us over very much the same kind of country. The days were hot and swarms of mosquitoes worried men and animals. To the north rose rugged mountains. From the village of Ushaktal a mountain route, much used by local Khoshuts, leads to Urumchi. The route was deserted for the most part, but occasionally a lonely Kalmuck rider smoking his long pipe would appear on the steppe and then again vanish in the jungle.
 
@@ -1975,7 +1975,7 @@ We reached Toksun about five o'clock in the afternoon, after seven hours of marc
 
 Next morning we broke camp earlier than usual in order to leave as soon as possible the burning plain round Toksun. After a hot ride across the stony plain, we camped at a lonely and half-ruined resthouse, standing amid low hills. It was refreshing to find oneself again in the cool air of the rugged mountains of the eastern Tien Shan.
 
-**110 TRAILS TO INMOST ASIA**
+<a id="110">**110 TRAILS TO INMOST ASIA**</a>
 
 The road was deserted for the greater part of the day, except for one large camel caravan bound for Kashgar. The head camel, a huge animal, almost black, carried on its load a gaily decorated standard --- a horse's tail with multicolored pieces of cloth, attached to a long pole. After a long march of some eleven hours we camped at Ta-p'an-ch'eng, a small town with a mixed population of Chinese and Turki.
 
@@ -1987,7 +1987,7 @@ Approaching' the city, the road suddenly became crowded with traffic, as if nume
 
 At the gates of the city we were met by representatives of the firm of Brenner Bros., who escorted us to a house reserved for the expedition. It was situated in the former Russian Concession, which consisted of one
 
-**111 NORTHERN HIGHWAY TO URUMCHI**
+<a id="111">**111 NORTHERN HIGHWAY TO URUMCHI**</a>
 
 broad street of small European houses. Before we had entered the courtyard, a Chinese officer came and tried to requisition our carts for military purposes. We protested and after a long argument succeeded in persuading him to delay the matter.
 
@@ -2009,7 +2009,7 @@ The Kirghiz tribesmen from neighboring districts, riding through the streets in 
 
 The walled Chinese town with endless rows of shops displaying red-paper advertisements, and crowds of black-robed Chinese, was typical. The shops were well supplied with all sorts of Chinese and even European goods brought to Urumchi by camel caravans over the long six
 
-**116 TRAILS TO INMOST ASIA**
+<a id="116">**116 TRAILS TO INMOST ASIA**</a>
 
 months' route across the Mongolian Gobi. Prominent among the Chinese shops were the Chinese undertakers' establishments, with huge wooden coffins, painted red, that lined the street. Every respectable Chinese has to be buried in his native province, and these huge sarcophagi serve to transport corpses of deceased merchants and other members of the Chinese colony to their native places in distant China.
 
@@ -2023,7 +2023,7 @@ After our visit to Mr. Cavalieri, accompanied by Chu Ta-hen, we went to pay a ca
 
 The Governor's residence consisted of several well-isolated buildings
 
-**117 URUMCHI AND JUNGARIA**
+<a id="117">**117 URUMCHI AND JUNGARIA**</a>
 
 and inclosed courtyards. The gates were carefully guarded by patrols of heavily armed men. At one of the gates we noticed a heap of soldiers' caps ready for distribution to recruits. In another courtyard we found half a company of infantry, lined up with numerous banners and several buglers. The detachment was about to march to Hsin-hsin-hsia. The Governor's *yamen* seemed to us to be in a very dilapidated condition. The glass in many of the windows on the ground floor was broken and dirty paper and rags had been pasted on the window frames. Numerous retainers roamed about the courtyards and villainous bodyguards, armed with Mauser pistols and swords, were on duty at the entrance to the *yamen*.
 
@@ -2031,7 +2031,7 @@ We were received by the Governor-General in his private study --- a small room c
 
 The frontiers of Hsin-chiang were practically closed and any foreigners, even Chinese from China proper, were viewed with great suspicion and often arrested and deported. Especially abhorrent to him was the class of Chinese who had received education at foreign univer-
 
-**118 TRAILS TO INMOST ASIA**
+<a id="118">**118 TRAILS TO INMOST ASIA**</a>
 
 sities and was now trying to propagate modern ideas in China. A man of old-time ideas, he was unable to visualize a modern China, built up on modern lines. He considered the Province as his private estate and his administration was reactionary, without even the acceptable qualities of the old imperial system. During his rule Hsin-chiang enjoyed what might be called a superficial economic prosperity, but in reality this policy of complete isolation was slowly strangling the Province, as was already apparent in its organism. Factories and large commercial enterprises were strictly forbidden, for they necessitated the employment of large bodies of workmen, who might form the nucleus of a workers' class in Hsin-chiang and thus endanger the social structure of the Province. In his determination to keep Hsin-chiang isolated, the Governor-General refused permission to construct better roads and the use of motor traffic and airplanes for quick communication with the outside world.
 
@@ -2043,7 +2043,7 @@ Governor Yang was famous for his ruthlessness with his enemies. There were count
 
 For many years past a latent discontent had been known to exist in the masses of the people and official circles. In 1924 General Ma, *Ti-t'ai* of Kashgar, was captured and executed by orders of the Governor-General. The murdered *Ti-t'ai* was a cousin of the famous Ma-ch'i, Frontier
 
-**119 URUMCHI AND JUNGARIA**
+<a id="119">**119 URUMCHI AND JUNGARIA**</a>
 
 Commissioner and Governor of Sining who since 1915 had held sway on the Sino-Tibetan border. During our stay in Urumchi, General Ma was said to be preparing an advance on Hsin-chiang. Governor Yang had to mobilize his troops and form a defense line along the Hsin-chiang-Kansu border. It is difficult to say how thoroughly these war preparations were carried out. Arrivals from Kansu told us that Hsin-hsin-hsia and the troops stationed there were in a terrible plight, destitute of almost everything, and that soldiers were deserting in large numbers, infesting the neighboring mountains, and causing panic among the population.
 
@@ -2055,7 +2055,7 @@ An order from Peking appointed Fan Governor-General of Hsin-chiang. But fate was
 
 We had a long interview with the Governor-General, who placed all the blame for our detention on the local officials at Khotan. According to him Ma Shao-wu, the *Tao-yin* of Khotan, was completely out of control, and the Governor-General vividly compared Khotan to a robbers' nest. The Karashahr Torguts were famous bandits, and it was no wonder we had trouble with them. We suggested that the magistrate in
 
-**120 TRAILS TO INMOST ASIA**
+<a id="120">**120 TRAILS TO INMOST ASIA**</a>
 
 Karashahr was the ultimate cause of all our trouble in that city and Governor Yang appeared greatly surprised and shook his head, expressing his deep condemnation. His Excellency assured us that here in Urumchi we were free to do anything we liked.
 
@@ -2069,7 +2069,7 @@ From now on our days passed in excursions about the capital and frequent meeting
 
 According to the law of Hsin-chiang a man with a small private property was exempt from military service. As the result of this rule, the Provincial army consisted of vagabonds and beggars who had been
 
-**121 URUMCHI AND JUNGARIA**
+<a id="121">**121 URUMCHI AND JUNGARIA**</a>
 
 collected by order of the Governor-General. The usual method of procuring the required number of fighters was to make a raid on all the night clubs and gambling houses in the city and its vicinity. The men found in them were at once arrested and sent to the military barracks. The soldiers' monthly pay in Hsin-chiang amounted to five *lans* or about three Mexican dollars. Very often the men were paid in opium. The troops were equipped with firearms of such variety that it was almost impossible to supply them with ammunition.
 
@@ -2083,7 +2083,7 @@ On May 10 the city was decorated with flags and the soldiers stopped their daily
 
 On May 11 at luncheon at the Russo-Asiatic Bank, we met Dr. W. Filchner, the well-known German explorer and author of several books on northeastern Tibet and China. He told us of his difficulties with local authorities who refused to recognize the scientific aim of his expedi-
 
-**122 TRAILS TO INMOST ASIA**
+<a id="122">**122 TRAILS TO INMOST ASIA**</a>
 
 tion to fill in some of the existing gaps in the magnetic surveys of central Asia.
 
@@ -2113,7 +2113,7 @@ ACROSS JUNGARIA; AN ACCIDENT ON THE WAY
 
 THE CARAVAN OF THE EXPEDITION IN THE GRASS-COUNTRY OF JUNGARIA
 
-**123 URUMCHI AND JUNGARIA**
+<a id="123">**123 URUMCHI AND JUNGARIA**</a>
 
 either conquered or allied, join themselves to their powerful neighbor as their overlord. Asia has seen again and again the rise of nomad tribes whose impulse sent rolling the mighty waves of tribal migrations. These great upheavals in the heart of Asia, which brought destruction and famine to many countries of Europe and the Near East and were described by contemporary writers as the Scourge of God, not only marked the downfall of the Classical World but also heralded the dark periods of the early Middle Ages. The violent shock of the Mongol invasion of the thirteenth century A.D., that terrified the whole of Europe, made a powerful imprint on the mentality of the epoch and paved the way for the later Renaissance Period.
 
@@ -2123,7 +2123,7 @@ The archaeology of nomad central Asia is still in its infancy and the hundreds o
 
 One of the objects of the expedition was to survey and record the existence of funeral mounds and other vestiges of nomad culture, not yet recorded in scientific literature, along the northern rim of the T'ien Shan Mountains, the Jair Mountains, and the Altai. The ancient sites along the great trade routes south of the Celestial Mountains have been thoroughly excavated by a number of archaeological expeditions and there is little chance for sensational discoveries along the well-trodden paths. There remains the great central Asiatic nomad culture, whose vast province once stretched from the steppes of South Russia to the very confines of China. All along the northern rim of the inland basin of Chinese Turkestan lie vast groups of barrows hiding treasures of nomad rulers of the past, for a nomad chief was placed in his grave accompanied by all the earthly possessions dear to his heart. All along the border country of Mongolia and Jungaria are found numerous
 
-**124 TRAILS TO INMOST ASIA**
+<a id="124">**124 TRAILS TO INMOST ASIA**</a>
 
 groups of funeral mounds. The unsettled conditions of the region and the frequent brigandage have as yet prevented detailed and extensive archaeological explorations.
 
@@ -2139,7 +2139,7 @@ Beyond the Jair Mountains, the country became more mountainous; we were rapidly 
 
 On May 26 we reached Dürbüljin, a small town situated east of Chuguchak --- the emporium of frontier trade. Next day we set out
 
-**125 URUMCHI AND JUNGARIA**
+<a id="125">**125 URUMCHI AND JUNGARIA**</a>
 
 toward the Siberian border. The road led over a vast expanse of rolling hills, covered by splendid grazing lands. The country was populated almost exclusively by Kirghiz, although Kalmuck encampments were numerous in the region of the Sawur Mountains. We passed on our way several Kirghiz winter quarters or *qishlaqs*, situated in well-sheltered side valleys. This ideal nomad country, affording pasturage to immense herds of horses and cattle, has always been a favorite grazing land for nomad tribes. It abounds in barrows, surrounded by concentric rounds of standing stone slabs, and other vestiges of the nomad past.
 
@@ -2161,7 +2161,7 @@ In the afternoon we passed the Geese Lake with the famous Geese Lake Monastery o
 
 In the afternoon we reached the small Cossack settlement of Selenginsk with its old church and several old houses dating back to the time of the Decembrist movement, many of whose leaders were exiled
 
-**130 TRAILS TO INMOST ASIA**
+<a id="130">**130 TRAILS TO INMOST ASIA**</a>
 
 to this frontier settlement. A few miles above Selenginsk, we crossed the Selenga a second time. The crossing was dangerous, for the current is very swift and there is no ferry. The cars are carried across on boats --- one car at a time. One of our cars almost slid into the river through a careless movement of the driver, but the boatmen rescued it in time.
 
@@ -2187,7 +2187,7 @@ ZUN-KÜREN IN URGA
 
 TSEREN DORJE, HEAD OF THE MONGOLIAN GOVERNMENT
 
-**131 MONGOLIA**
+<a id="131">**131 MONGOLIA**</a>
 
 marked "America!" One of the clerks, a young *bichechi* or secretary, read aloud from a big scroll of paper. These Mongol clerks have a curious way of reading correspondence and documents aloud with a peculiar intonation. Sometimes one sees several of them sitting together and repeating aloud the texts of documents they are writing. One always recognizes a *yamen* or government secretariat by the peculiar buzzing sound of voices coming through the open windows and doors. These governmental clerks are a class by themselves, the lay intellectuals of Mongolia.
 
@@ -2197,7 +2197,7 @@ The crests of the hills are crowned with pine forests, which form a dark line ag
 
 In the evening and in full darkness, we reached the river Iro, one of the tributaries of the Selenga. On the northern bank of the river stood a number of Mongol felt tents, occupied by Russian and Chinese workmen. We persuaded the ferryman to take us over and camped in the open, close to some wretched Mongol tents, from which emerged two old women covered with rags. The night was cold and we had to light camp fires. White mist rose from the river surface and enveloped the farther bank. To the south rose dark silhouettes of forest-clad moun-
 
-**132 TRAILS TO INMOST ASIA**
+<a id="132">**132 TRAILS TO INMOST ASIA**</a>
 
 tains. In a nearby lamasery the lamas sounded the conchshell for the evening prayer.
 
@@ -2209,7 +2209,7 @@ From the summit of the pass one has a broad vista over the undulating country of
 
 From Bain-gol the road led over fine grazing lands. Herds of horses and camels wandered on the slopes of the hills. We passed ruined stone hovels --- ruins of Chinese farmsteads destroyed during the civil war of 1919-21. The mountainous country continued up to the Khara-gol, an-
 
-**133 MONGOLIA**
+<a id="133">**133 MONGOLIA**</a>
 
 other important tributary of the Selenga, which waters a broad valley with a flat bottom. A wooden bridge spans the river, by which we camped for the night. It was clear but exceptionally cold, and in the morning the small pools of water were covered with a thin crust of ice.
 
@@ -2223,7 +2223,7 @@ Modern Urga is a city of deep contrasts, typical of a country that is experienci
 
 Ancient Lamaist Urga presents great interest to a student of Bud-
 
-**134 TRAILS TO INMOST ASIA**
+<a id="134">**134 TRAILS TO INMOST ASIA**</a>
 
 dhism. Urga or Ulan Bator Khoto, the capital of autonomous Mongolia and the greatest city of outer Mongolia, is situated at the confluence of the rivers Tola and Selbi, some one hundred and seventy miles from Kiakhta on the Siberian border. It is situated in the territory of the Tushetu-khan *aimak*, or province. As one emerges from the Dolan-dabhur Mountains, northwest of Urga, one sees the city lying in the broad valley of the Tola River, extending about twenty miles from east to west and some nine miles north to south. The entire valley is dominated by the massive Bogdo ula, which rises south of the valley and forms the southern boundary of forests in this part of Mongolia. From the east the valley of the Tola is sheltered by the low ridges of Bain-khutul, which rise to a considerable height at some distance from Urga. To the north of the valley lies the highly intersected mountain group of Chingiltu ula and its northwestern branch of Dolan-dabhur. To the west rise the mountains of Sangi-yin ula. The valley is open to the southwest, toward the upper course of the Tola.
 
@@ -2249,7 +2249,7 @@ YAK CARTS IN URGA
 
 A YOUNG MONGOL EXHIBITING HIS INVENTION: AN AUTOMOBILE
 
-**135 MONGOLIA**
+<a id="135">**135 MONGOLIA**</a>
 
 the mountain, stands the important monastery of Mañjushri-khit, famous throughout Mongolia for the austere life of its monks and the learning of its abbot who exercises considerable influence on the political affairs of the country.
 
@@ -2261,7 +2261,7 @@ The earliest notice about Urga is found in the Mongol chronicle *Erdeni-yin erik
 
 In 1741 A.D. Ikhe-küren, or Urga, became the permanent residence of the Je-tsün tam-pa Hutukhtu. The growth of the monastery begins from that date. In 1756 was established the first Theological School for the study of the *tshan-nyid* (*mtshan-ñid*) or the higher metaphysics of Buddhism. The school was given the right to confer learned distinctions and lamas began to flock to the monastery. The Chinese were not
 
-**136 TRAILS TO INMOST ASIA**
+<a id="136">**136 TRAILS TO INMOST ASIA**</a>
 
 slow to recognize the growing importance of the monastery. The creation of a permanent center of administration and religious life was of great importance to them for it facilitated the difficult task of controlling the then turbulent Mongolian tribes. In 1741 they created the post of *shandzotba* (a word borrowed from Tibetan, *chän-dzö-pa*, *phyag-mdzod-pa*) intrusted with the supervision of the large estates of the Hutukhtu and his serfs. In 1758, following the defeat of the Oïrat power, the Chinese Government established an Imperial Resident in Urga, who was officially directed to assist the *shandzotba* in administrating Urga. This official was intrusted with all frontier affairs. Three years later, in 1761, a Manchu official was appointed to assist the First Resident who until then was always a Mongol prince. Ikhe-küren and the adjacent trade settlement gradually changed into a permanent settlement. In 1779 a petition was presented to Peking to allow the monastery to settle permanently on the banks of the Selbi River.
 
@@ -2271,7 +2271,7 @@ In the course of years Urga became the religious and administrative center of Mo
 
 In 1786 A.D. an imperial decree conferred upon the Imperial Commissioner in Urga the right of final decision in the administration of the Tushetu-khan and Setsen Khan *aimaks*, the central and eastern provinces of outer Mongolia.
 
-**137 MONGOLIA**
+<a id="137">**137 MONGOLIA**</a>
 
 During the nineteenth century, Urga rapidly grew in importance. Through its gates passed most of the tea trade going from Kiakhta to Peking. The yearly export to Siberia greatly increased and an important colony of Russian merchants was established in the city. Urga thus became the chief *entrepot* of Mongol-Russian trade. In 1863 an imperial Russian consulate was created, and from that date Urga acquired that cosmopolitan character which is characteristic of the present-day Ulan Bator.
 
@@ -2279,7 +2279,7 @@ The Chinese colony was also a powerful factor in the development of the Mongol c
 
 Such is the brief history of the city. Every new arrival is struck by its peculiar half-permanent, half-nomadic character. The city is the result of a transition period during which the country has abandoned its past but has not as yet absorbed western civilization. Within the boundary of the old settlement, a new city is growing with electric lights and motor car traffic. Amid imposing temples with their roofs aglitter in the bright Mongolian sun, are scattered miserable hovels. The high wooden palisades, that serve as inclosures for most of the Urga houses, give a monotonous character to the narrow streets. Gray, weathered, wooden palisades and red-painted gates, distinguished only by small wooden plates on which are written the house numbers in Mongolian --- such is the Urga street. Inside these wooden palisades is usually a large courtyard with a small one-storied house of Russian or Chinese architecture. If the courtyard belongs to a Mongol or Buriat, a Mongol felt tent, or several of them, are pitched beside the house. A Mongol uses the house only during the summer; during the cold winter he has his quarters in the warm felt tent with wooden floor and an iron or brick stove. If large and clean, such winter tents look very cozy. Very often, in the families of wealthy citizens, they are covered with thick white felt ornamented on the edges. Inside such a tent one finds a low seat, which is used as a bed by night, or a bed of European or Chinese make. In the center of the tent is usually the stove with an iron chimney going through an opening in the roof. Besides the bed of the owner, one usually finds a glass case with sacred images, serving as an altar. Before the
 
-**138 TRAILS TO INMOST ASIA**
+<a id="138">**138 TRAILS TO INMOST ASIA**</a>
 
 images stand the "eight happy offerings" --- seven metal cups arranged in a row with their water offering, in the middle of the row, a burning lamp or *chökung*. In wealthy houses such offering cups are made of heavy silver and are richly ornamented. In poorer households they are replaced by simple brass cups.
 
@@ -2305,7 +2305,7 @@ THE PEOPLE'S CLUB AT URGA, MONGOLIA
 
 PACKS OF DOGS IN THE STREETS OF URGA
 
-**139 MONGOLIA**
+<a id="139">**139 MONGOLIA**</a>
 
 Quite recently attempts were made to adapt the form of a Mongol felt tent to buildings and thus create a national Mongol style. On the vast town site of Ulan Bator, across which Mongol horsemen race on their swift steeds, stands a strange building; upon a polygonal foundation rises a huge dome supported by low walls. The whole structure reminds one of a gigantic Mongol felt tent. The outside of the building is decorated with figures of the eight happy signs. It is the national theater of Mongolia and the People's Club. The architect intended to express the idea of a nomad tent in a monumental creation. So far as I know, this is the first attempt of the kind. During our stay in Urga, the building was still under construction and I did not see the interior arrangements. I do not think that the *yurta* motive is suited for buildings. The domed structure is too western in character, and at best looks like a Mohammedan mosque without its wonderfully designed lines. The Tibetan architecture is much more monumental and is better adapted to modern requirements. It permits the construction of high buildings without infringing upon the character of the style. Some attempts along this line have already been made in Urga, and it is to be hoped that the Mongol Government will follow this example in erecting new buildings for its secretariats.
 
@@ -2313,7 +2313,7 @@ Unfortunately most of the modern buildings in Urga are of an indifferent Europea
 
 The rich private collections of the deceased Hutukhtu consisted of a remarkable assortment of things --- valuable sacred images from Tibet and Peking; a considerable library of religious and secular books in Mongol, Tibetan, Chinese, and Manchu; all sorts of European technical devices and curios, cinemas, photographic cameras and field glasses, telescopes; valuable Chinese porcelain and bronzes; a great number of modern European firearms; stores of cigarettes of an unusual length; stuffed animals; and last but not least a small menagerie of wild animals. All these have now been confiscated by the different government departments or sold on the Urga market.
 
-**140 TRAILS TO INMOST ASIA**
+<a id="140">**140 TRAILS TO INMOST ASIA**</a>
 
 The gilded and brightly painted state carriages of the Hutukhtu were sold at auction and many of them are now plying between Urga and its suburbs as the property of Chinese coachmen. One very often sees these strange state carriages, created by the whim of an oriental ruler, driving through the streets of Urga. These public omnibuses, drawn by two miserable shaggy horses with Chinese and Mongols crowded into them, add much color to the picturesqueness of Urga streets.
 
@@ -2327,7 +2327,7 @@ On the western end of these streets of the Chinese quarter, which all run from e
 
 Round the market and shopping district cluster innumerable houses and hovels, harboring most of the Urga population. Some of the streets are so narrow that only one rider can pass in one direction, and if a
 
-**141 MONGOLIA**
+<a id="141">**141 MONGOLIA**</a>
 
 motor car ventures into the streets all the traffic coming from the opposite end has to turn back and ride to the crossing place. Sometimes one sees horsemen and camel caravans suddenly turn backward for a considerable distance; it means that a motor car is coming.
 
@@ -2339,7 +2339,7 @@ Similar difficulties are said to have been experienced by the newly established 
 
 The Urga dogs are the scavengers of the city. Mongols seldom bury their dead. Usually the corpses are carried to a valley north of Urga,
 
-**142 TRAILS TO INMOST ASIA**
+<a id="142">**142 TRAILS TO INMOST ASIA**</a>
 
 where they are thrown on the ground to be devoured by dogs. The animals perform their duty with surprising rapidity and after a few minutes nothing is left but scattered bones. The unpleasant part of the procedure is that the dogs often carry human bones, sometimes whole skulls, into the city. I once found a fresh human skull with skin and hair lying by the roadside not far from the house occupied by the expedition. A dog had brought it during the night and then abandoned it.
 
@@ -2347,7 +2347,7 @@ The Chinese cemetery in Mai-ma-ch'eng, with wooden coffins placed on the ground 
 
 Urga is the chief transit and distributing point for the whole country. Since 1922 the coöperative movement in Mongolia has begun to spread. The Mongolian Central Coöperative Society or "Moncencoop" at present has about 26 branches, 102 minor branches, and 4 agencies in Moscow, Tientsin, Khalgan, and Khailar. The coöperative movement is financially assisted by the Mongolian Government. During the year 1923-24 the Central Coöperative imported various goods amounting to 531,000 Mexican dollars and exported to the sum of 523,000 Mexican dollars. The last available State Report for the year 1927 shows an export of two million *tukhriks* (one *tukhrik* --- one Mexican dollar, according to the ratio of 1926) and an import of 3,300,000 *tukhriks*. Until now the imports have greatly exceeded exports. In order to make the country more self-supporting, the Government of Mongolia has established a tannery at Altin-Bulak with a capital of 420,000 *tukhriks*. The tannery supplies the army and the population with leather products (saddlery, boots, etc.), sheepskins, and winter felt boots. It is rumored that the Government will establish a second tannery to increase the output. Besides the tannery the Government was conducting negotiations to establish brick works, iron works, etc. To finance all these undertakings, it was proposed to establish a Mongol State Bank. According to the Report of 1927, the Government was also anxious to develop the natural resources of the country and special laws are to be promul-
 
-**143 MONGOLIA**
+<a id="143">**143 MONGOLIA**</a>
 
 gated, regulating the granting of concessions to Mongol citizens and foreigners.
 
@@ -2359,7 +2359,7 @@ Notwithstanding the centralizing tendency of the Government, some 1,697 foreign 
 
 Urga is connected by motor roads with the most important trading centers of Mongolia and the border regions of Siberia and China. The chief routes are the Urga-Uliassutai-Kobdo route with a length of 900 miles, the Kiakhta-Urga trade route running over a distance of 180 miles, the Urga-Manchuria route, connecting the Mongol capital with the town of Manchuria on the Chinese Eastern Railway, with a distance of 800 miles, and the Urga-Khalgan trade route covering a distance of 800 miles. In 1918 a regular motor car service was started between Khalgan and Urga by a company consisting of several Europeans and the Chinese Commissioner of Khalgan. These are not motor roads in
 
-**144 TRAILS TO INMOST ASIA**
+<a id="144">**144 TRAILS TO INMOST ASIA**</a>
 
 our sense of the word; only the Kiakhta-Urga route can boast of such a road, which is in progress of construction. The cars have to travel over steppe country and sand deserts, ford rivers, and climb mountain passes.
 
@@ -2373,7 +2373,7 @@ During the time of the Bogdo Gegen, these Tibetan representatives kept a close w
 
 The vast amount of private property belonging to His Holiness the
 
-**145 MONGOLIA**
+<a id="145">**145 MONGOLIA**</a>
 
 Dalai Lama necessitated the maintenance of a large controlling apparatus. The official representative had a number of agents in his employ, who toured the country and collected from the population the sums to the payment of which the local population had pledged itself during the Dalai Lama's visit to Mongolia. Large sums of money were deposited at the Ta-khu-re *tsi-khang* or *barun-sang*, the names under which the Tibetan treasury is known to Tibetans and Mongols. The money was often used with great profit in usury and this unofficial occupation was stopped only recently by the Mongolian Government.
 
@@ -2383,7 +2383,7 @@ Urga has always had a large colony of Tibetans. Tibetan lamas often occupy high 
 
 Wealthy Tibetan families used to maintain their own private trade agents, who traded in the name of their masters. The well-known Tibetan statesman, the late Lönchen Shatra, had such an agent in Urga. The man accumulated a considerable fortune and was considered to be one of the richest merchants of the Tibetan colony. During the Mongol Civil War of 1919-22, he lost all his fortune and most of his goods. This disaster had a terrible effect on him. He fell dangerously ill and lost his reason. I used to see him often in the streets of Urga, attired in a fine silk coat with a large fur cap on his head, roaming about the bazaars. When addressed, he repeated only one sentence, "Give me my money back." Curiously enough he remembers the names of all the persons who had harmed him. Later on I learned that he tried to commit suicide with a Tibetan sword and that the Tibetan representative had to place guards in his tent.
 
-**146 TRAILS TO INMOST ASIA**
+<a id="146">**146 TRAILS TO INMOST ASIA**</a>
 
 In former times, before the Civil War of 1919-22, Tibet had an extensive trade with Mongolia. Tibet largely exported holy images, incense made in Lhasa, block-prints of sacred texts, a small quantity of Tibetan furs, ecclesiastical robes, and the prized *puru*, Tibetan cotton cloth of high quality. The Mongolian export consisted mostly of Chinese silks, foreign wares, Russian leather, hides, furs, and Russian brocades. The present Mongol Government established high custom duties on all articles connected with church worship, and thus brought Mongol-Tibetan commerce practically to a standstill.
 
@@ -2393,7 +2393,7 @@ The Chinese artisans are mostly *mu-ch'ang* or carpenters, who build most of the
 
 Besides these image makers, there are in Urga a number of shops usually called by their semi-Tibetan, semi-Chinese name *Ri-wo dze-nga-pu-tzu* (Tib. *Ri-bo rtse-lnga*), which trade in images and other religious
 
-**147 MONGOLIA**
+<a id="147">**147 MONGOLIA**</a>
 
 objects manufactured at Dolon-nor or at the famous monastery of Wu-t'ai Shan. Here one can find gilded bronze images of Sakyamuni, the Buddha, the principal *yi-dams* or titulary deities of the Yellow sect, the Bodhisattvas Avalokitesvara, Mañjushri, and Maitreya, the Tara, and sometimes Tsong-kha-pa, the founder of the Yellow Faith. Most of the figures are of a very crude workmanship and present no interest whatsoever. The images produced by the art workshop of the Wu-t'ai Shan Monastery are a little better than those of Dolon-nor.
 
@@ -2407,7 +2407,7 @@ Another collection belonging to the same class of literature is the *Chang-skya 
 
 The *rnam-thar* literature is only poorly represented. In six shops, I
 
-**148 TRAILS TO INMOST ASIA**
+<a id="148">**148 TRAILS TO INMOST ASIA**</a>
 
 found only one copy of the *Ra lo-tsa-wa'i rnam-thar*, a Tibetan print, which was left in the shop by a passing Tibetan lama.
 
@@ -2421,7 +2421,7 @@ Some good printing establishments are to be found in the Transbaikal Buriat mona
 
 During my travels through central Asia and the Buddhist lands of Mongolia and Tibet, I observed the interesting fact that the lamas often prefer European editions of Buddhist texts. They say that the Tibetan texts printed in Calcutta by the Government Press or the texts published at Petrograd are easier to handle and to carry about than the bulky and sometimes badly printed xylographs of their own countries. With many Mongol and Tibetan lamas I found volumes of the *Biblio*-
 
-**149 MONGOLIA**
+<a id="149">**149 MONGOLIA**</a>
 
 *theca Buddhica* published by the Russian Academy of Sciences --- a striking example of how European scholarship and western methods of printing penetrate and are appreciated by the learned men of Tibet and Mongolia.
 
@@ -2433,7 +2433,7 @@ During the recent years Mongolia has endeavored to extend education into the pro
 
 The problem of teachers is a very perplexing one, for few of the Mongols are able to do well as such and few Europeans are able to acquire a good knowledge of the colloquial language and of local conditions, to enable them to perform their task successfully. Still the country is trying hard and the interest evinced in things American and European is sincere and will undoubtedly bear fruit. A few years ago it was hard to make a nomad boy sit at a school desk and learn geography or natural sciences. The pupils used to find the lessons boring and again and again ran away into the vastness of their native steppes. One should not represent the young Mongols as being unruly and undisciplined. The nomads have a very strong instinct for order and readily obey
 
-**150 TRAILS TO INMOST ASIA**
+<a id="150">**150 TRAILS TO INMOST ASIA**</a>
 
 their superiors. When on good terms with their superiors they make attentive pupils, and when in the ranks of the army, good soldiers. The reason for their deserting the schools was that the life there was not made attractive and failed to catch their imagination.
 
@@ -2443,7 +2443,7 @@ The highest scientific institution of the land is the Mongol Scientific Committe
 
 The two greatest treasures of the committee's museum and library are the wonderful finds made by General P. K. Kozlov in the Noin ula Mountains and a complete set of a Mongolian printed *Tänjür*. For a long time scholars have doubted the existence of a *Tänjür* printed in Mongolian. The Chinese sources tell us that the great Emperor Ch'ien-long ordered a committee of interpreters and scholars to translate the 225 volumes of the *Tänjür* into Mongolian and prepare block prints for
 
-**151 MONGOLIA**
+<a id="151">**151 MONGOLIA**</a>
 
 its printing. According to the Chinese sources, this tremendous work was begun about October, 1740, and was ready by December, 1741 --- a truly wonderful achievement, considering the difficulties of translating from Tibetan into Mongolian. The complete copy of the *Tänjür*, now in the possession of the Scientific Committee, was found in the territory of the Prince Nga-wang, in the vicinity of Khalgan in southeastern Mongolia.
 
@@ -2455,7 +2455,7 @@ Urga presents quite unique opportunities for a student of Tibetan literature, fo
 
 The Scientific Committee has quite recently carried out extensive explorations in outer Mongolia and has surveyed a number of ancient sites. It has also continued the excavations of the tumuli or funeral mounds in the Noin ula Mountains, where valuable finds were made, that threw fresh light on the culture revealed and facilitated the dating
 
-**152 TRAILS TO INMOST ASIA**
+<a id="152">**152 TRAILS TO INMOST ASIA**</a>
 
 of the discoveries of General P. K. Kozlov. The Noin ula finds are closely related to the antiquities of the Transbaikal Province, brought to light by the Russian archaeologist Dr. Talko-Grincevich. The newly found antiquities form the easternmost end of a vast belt of nomad culture which passed through Minusinsk, Altai (Kotanda), Issik köl, and the Aralo-Caspian steppes. The groups of tumuli, containing the royal tombs of a nomad people, are situated in the forest-clad valleys of Gujirte, Sudzukte, and Tsurumte in the Noin ula Mountains, north of Urga. Most of the tumuli have been damaged by treasure seekers and many of the things have been stolen. As to whom the tombs belonged, whether to Hiung-nu chiefs or to some other paleo-Asiatic tribes, it is difficult to express an opinion at present.
 
@@ -2465,7 +2465,7 @@ It seems very probable that Chinese artists furnished to the nomads objects in t
 
 The chief interest in Urga lies in its monasteries and other religious
 
-**153 MONGOLIA**
+<a id="153">**153 MONGOLIA**</a>
 
 edifices. They dominate the city and their glittering gilded roofs add much to its outward appearance. The Ikhe-küren is its oldest religious establishment. We have already seen that this was the center round which grew the present city of Urga, and for many decades the official residence of the Je-tsün tam-pa Hutukhtu. It is at present divided into twenty-nine *aimaks* or monastic colleges. Besides these colleges there are at least seven temples consecrated to certain branches of the study of worship. One of the most important is the *tshok-chin* (Tib. *tshogs-chen*) or the assembly hall of the monastic congregation. According to ecclesiastical tradition, the building of the assembly hall was started by Ündür-Gegen, the first and most famous Gegen of Urga. It is a square wooden building, many times enlarged during its history to suit the growing congregation of monks. The roof of the structure is crowned by a gilded *gañjira* in the form of a *bum-pa* or vase. On the four corners of the roof stand the black and white religious banners or *jyal-tsen* (Tib. *rgyal-mtshan*). These banners have a long history. They are usually found on temple roofs in Mongolia and Tibet and date back to a remote nomadic past.
 
@@ -2477,7 +2477,7 @@ The temple has a very large treasury or *sang*, in which are preserved many reli
 
 There are only four great assemblies of the clergy, for which use the
 
-**154 TRAILS TO INMOST ASIA**
+<a id="154">**154 TRAILS TO INMOST ASIA**</a>
 
 assembly hall was primarily built: 1, The Assembly of the Clergy on the New Year; 2, The festival of Chönkor duchin; 3, The great Maidari festival in the third and fourth months; 4, The Presentation of Offerings to the Bogdo Gegen (*dansik*). With the abolishment of future incarnations of the Hutukhtu, this assembly has been discontinued.
 
@@ -2501,7 +2501,7 @@ A NEW YEAR CROWD IN URGA
 
 NEW YEAR MASQUERADE IN URGA
 
-**155 MONGOLIA**
+<a id="155">**155 MONGOLIA**</a>
 
 most of his time in his summer palace on the banks of the Tola River. With his death, the temple lost its importance. The temple itself is built in Chinese style and its gilded roof forms one of the attractions in the *küren*, but its interior is unimportant.
 
@@ -2517,7 +2517,7 @@ The Tsurkha-yin-sümä, or the Temple of Astrology, is an important learned inst
 
 A special staff of lamas officiates in the temple and a special preparation is required of those who intend to enter the temple. Each aspirant has to pass several examinations in Lamaist astronomy and allied subjects in order to qualify as a student or member of the Temple of
 
-156 TRAILS TO INMOST ASIA
+<a id="156">**156 TRAILS TO INMOST ASIA**</a>
 
 Astrology. In the temple are found paintings or painted scrolls representing the *mandala* or the mystic sphere of influence of the *Kalacakra* system or the Wheel of Time. A thorough knowledge of *kar-tsi* or astronomy is essential for a correct understanding of the doctrine. This mystic doctrine was introduced into Tibet by the great Dipankara Shrijñana or Atisha, a famous professor from the Indian convent of Vikramashila, in the eleventh century A.D. The doctrine which probably appeared in India about the end of the tenth century A.D. originated in the Realm of Shambhala, a region situated north of Tibet proper.
 
@@ -2545,7 +2545,7 @@ LAMA MUSICIANS, URGA
 
 LAMA DANCES IN URGA
 
-**157 MONGOLIA**
+<a id="157">**157 MONGOLIA**</a>
 
 principle of the coming *kalpa* or cosmic age. Learned abbots and meditating lamas are said to be in constant communication with this mystic fraternity, that guides the destinies of the Buddhist world. A western observer is apt to belittle the importance of this name or to relegate the voluminous literature about Shambhala and the still vaster oral tradition into the class of folklore or mythology; but those who have studied both literary and popular Buddhism know the terrific force that this name possesses among the masses of Buddhists of higher Asia. For in the course of history, it has not only inspired religious movements but even moved armies, whose war cry was the name of Shambhala. The Mongol troops of Sukhe Bator, who liberated Mongolia from the troops of General Hsü, composed a march song of their own, which is still sung by Mongol cavalry. The song begins with the words *Jang Shambal-in dayin* or "The War of northern Shambhala" and calls upon the warriors of Mongolia to rise for the Holy War of liberating the country from oppressing enemies. "Let us all die in this war and be reborn as warriors of Shambal-in Khan," goes the song.
 
@@ -2555,7 +2555,7 @@ In our days a vast oral literature, which sometimes takes the form of prophecies
 
 There exist several iconographical representations of Shambhala and the Kalacakra. The King of Shambhala or Rig-den Jye-po is usually represented seated on a throne covered by a cushion. With his left hand placed on his lap he supports the Wheel of Law; his right hand makes the sign of charity (*vara-mudra*), or sometimes is seen holding the stalk
 
-**158 TRAILS TO INMOST ASIA**
+<a id="158">**158 TRAILS TO INMOST ASIA**</a>
 
 of a lotus flower which supports the book and sword --- symbols of Mañjushri, the Prince of Knowledge. In some ancient paintings, the King is seen attired in a breastplate armor, and wears the pointed helmet. In more modern images, he is seen attired in flowing robes ornamented with rich golden design. At the foot of his throne sit his parents designated under the name of Rig-den Jye-po 'i yab-yum, or, sometimes, instead of them Rig-den pema karpo, the first expounder of Kalacakra doctrine in India, and the Bodhisattva Padmapani.
 
@@ -2585,7 +2585,7 @@ TEMPLE OF MAITREYA, URGA
 
 PILGRIMS IN FRONT OF THE MAITREYA TEMPLE IN URGA
 
-**159 MONGOLIA**
+<a id="159">**159 MONGOLIA**</a>
 
 Kalacakra. There exists a prescribed order of subjects in which the study of Kalacakra has to be taken up; but as it necessitates a lengthy description of allied Tantric systems, it must be omitted here.
 
@@ -2597,7 +2597,7 @@ In front of the image of Maitreya stands an altar table with the usual offering 
 
 The rest of the *küren* represents a collection of inclosed compounds surrounded by wooden palisades, in which stand the small wooden hovels or felt tents of the monks. It is a city by itself, standing apart from the rush and dust of modern Ulan Bator. On the southern side of the *küren* is situated a large open square on which stands an open wooden platform, where religious dances are performed by the monks. I witnessed here the Black-Hat dance performed during the New Year festivities. The square was thronged by an eager and ever increasing crowd of spectators. Lamas and laymen in bright yellow, blue, and purple silk coats, Chinese traders in somber black attire, Europeans, Mongol soldiers in khaki overcoats and fur-lined helmets, all stood and
 
-**160 TRAILS TO INMOST ASIA**
+<a id="160">**160 TRAILS TO INMOST ASIA**</a>
 
 watched some twenty lamas performing the dance. They all were dressed in black coats with green embroidered silk sleeves, over which they wore *rü-jyen* (Tib. *rus-rgyan*) or bone ornaments, and the peculiar black hats which gave the name to the dance.
 
@@ -2625,7 +2625,7 @@ THE BIG *SUBURGHAN* OR *STUPA*
 
 IN FRONT OF THE GANDEN MONASTERY, URGA
 
-**161 MONGOLIA**
+<a id="161">**161 MONGOLIA**</a>
 
 with high terraces that rise above the main building. The Chinese roof of the temple with its projecting corners is crowned by a gilded *gañjira* in the form of a vase or *bum-pa*. The temple was begun in the lifetime of the eighth Bogdo Gegen and was completed about the end of 1913 after the Mongol Revolution.
 
@@ -2637,7 +2637,7 @@ The present monastery of Ganden was founded in 1809 in the lifetime of the Fourt
 
 During my stay in Urga, I often went to visit the monastery and discuss with lamas the intricate problems of the Buddhist viewpoint on the outside world, --- a kind of projection of one's inner self. Such learned lamas, holders of the high scholarly degrees in divinity of *rap-cham-pa* (Tibetan: *rab-'byams-pa*) and *lha-ram-pa*, usually live with their disciples, who attend to their bodily needs, in Mongol felt tents pitched inside the courtyards of the monastery. The felt tent of a lama is usually much cleaner and sometimes even better furnished than that of a layman of equal means. One day we paid a visit to a learned *lha-ram-pa* or doctor of divinity, well known in Urga for his great knowledge and general acumen. We were anxious to see him, for
 
-**162 TRAILS TO INMOST ASIA**
+<a id="162">**162 TRAILS TO INMOST ASIA**</a>
 
 we had heard that he had a deep and sincere interest in western science, and a very sane point of view on the future of the Buddhist doctrine.
 
@@ -2663,7 +2663,7 @@ TEMPLE ALTAR, GANDEN MONASTERY, URGA
 
 ALTAR WITH PHOTOGRAPH OF THE BOGDO GEGEN, GANDEN MONASTERY, URGA
 
-**163 MONGOLIA**
+<a id="163">**163 MONGOLIA**</a>
 
 The lamas, being the only intellectual class, had to evolve with the time, participate in the life of the nation, and help in the upbuilding of their country. The views of the learned *lha-ram-pa*, I must add, are shared by a number of monks throughout Mongolia and even Tibet.
 
@@ -2675,7 +2675,7 @@ The most famous monastery in the immediate neighborhood of the Mongol capital is
 
 One of the most important events in the religious life of the capital is the Maidari procession, which takes place in the third or fourth month of the Mongol year. It is a very imposing parade, which encircles the city; and huge crowds watch the passing of the image of the coming Buddha. Its approach is heralded by the concentrated look of the crowd and the dim and ever rising sound of trumpets and cymbals and many voices chanting prayers. The air is dusty, and in the yellowish cloud move huge palanquins and state umbrellas carried over the holy images, some of which are borne by monks, others by richly caparisoned
 
-**164 TRAILS TO INMOST ASIA**
+<a id="164">**164 TRAILS TO INMOST ASIA**</a>
 
 horses. The long trumpets send out their deep sonorous notes and are accompanied by the clear ringing tones of the hautboys and clarinets. Now and then is heard the clashing sound of cymbals, deadened by the drums. A thousand feet trample on the dusty road. Majestic abbots in high lama hats and purple mantles, young *getsul* or novices in shabby garments, officials and commoners, all in one huge crowd follow the image of the One who incarnates all the hopes of Buddhist Mongolia. Some of the onlookers prostrate themselves in the dust before the passing images, others murmur prayers and jostle each other to get nearer to the images. This procession is the passing of old Mongolia, the country of Incarnate Lamas and gorgeously fantastic garments --- the colorful costumes of the crowd and the deep purple clerical robes are sharply contrasted with the somber khaki uniforms of the Mongol cavalrymen who line the path of the procession --- symbols of old and new Mongolia.
 
@@ -2709,7 +2709,7 @@ From the outset it was impossible to say in what direction we would be able to c
 
 The next possible route was along the much trodden trade highway Gyangtse-Chumbi-Sikkim. Finally there remained the several routes across southwestern Tibet leading to Almora and Simla in the British Himalayas. The long and difficult route to Ladak and the eastern route through Chamdo and Bathang to Szu-ch'uan were from the beginning
 
-**168 TRAILS TO INMOST ASIA**
+<a id="168">**168 TRAILS TO INMOST ASIA**</a>
 
 rejected, both on account of their difficulty and the fact that they have already been followed by several European expeditions.
 
@@ -2721,7 +2721,7 @@ In February, 1927, the Tibetan representative sent a telegraphic request to Lhas
 
 Meanwhile another Tibetan caravan of traders was about to start from Urga. An additional letter was sent with this caravan informing the Lhasan and frontier authorities of our coming. It was difficult to obtain reliable information about routes leading from Mongolia to Tibet. The well-known route, Urga-Gurbun-Saikhan Mountains, Alashan, followed by the famous Prjevalski and General Kozlov during their memorable campaigns, was closed on account of political
 
-**169 ORGANIZING THE EXPEDITION**
+<a id="169">**169 ORGANIZING THE EXPEDITION**</a>
 
 troubles. There remained the caravan route Yum-beise --- An-hsi, but this route was very little known, except by a limited number of Tibetan traders and Mongolian lamas who had been on pilgrimage to Lhasa.
 
@@ -2733,7 +2733,7 @@ There remained still another route, once followed by Potanin in 1899. This route
 
 The next important question was of the route from Urga to Yum-beise. Our intentions were to use motor cars on this portion of our journey. There are several routes from Urga to Yum-beise which are passable for motor cars, but nothing definite about them was known at Urga. The first route ran from Urga through Dzain-shabi --- Lama-yin Gegen --- Yum-beise. This route was almost impassable during the spring and summer months because of numerous rivers, the Orkhon and the
 
-**170 TRAILS TO INMOST ASIA**
+<a id="170">**170 TRAILS TO INMOST ASIA**</a>
 
 rivers of the upper Selenga Basin, which it crossed on its way. The second route ran from Urga through Nga-Wang küren --- the Monastery Tukhumun Dugan --- Üdzen-Wang --- Khara-nidun --- Yum-beise. This route had the great advantage of avoiding the difficult rivers of the Selenga Basin, and crossed the Ongin-gol in its upper course. The third route coincided with the second route as far as the monastery of Nga-Wang küren. From this point it ran south by southwest in the direction of the lakes Tsagan-nor and Orok-nor; it led over the firm ground of a stone desert, and quicksands and marshy ground were met only in the vicinity of the lakes Tsagan-nor and Orok-nor.
 
@@ -2743,13 +2743,13 @@ It was impossible to say from the beginning how many days we should have to trav
 
 Another reason for hastening our departure was the approaching end of the camel season. In case we were unable to proceed on our motor cars farther than Yum-beise, we would have to hire camels there to continue the journey. If we delayed our departure from Urga, we would arrive at Yum-beise in May and it would be impossible to obtain camel transport. The caravan season for camels begins in the second half of August and continues through the whole of winter until April or even May. It runs through the coldest period of the year and the number of frozen men or men disfigured by frozen faces, ears, and limbs is appalling. I once happened to see a big caravan of Tibetans and Mongols coming from Tibet in midwinter. The men had left Sining in September and for four months had fought their way across the wind-swept expanses of the Gobi. Many of them contracted pneumonia and died a
 
-**171 ORGANIZING THE EXPEDITION**
+<a id="171">**171 ORGANIZING THE EXPEDITION**</a>
 
 few stages south of Urga. Even these men, hardened as they were to the dismal conditions of traveling, could not endure the trial. Those who remained alive had their noses and cheeks frozen and long strips of blackened skin hung down their faces. Fearful swollen and blackened feet and hands, with evil-smelling wounds in which gangrene was rapidly developing, were ample proofs of their sufferings. Notwithstanding the terrible physical condition of the caravan, the men were cheerful and even held the opinion that the journey was a very successful one, for the caravan had crossed by the robber-infested region north of Kansu unmolested. Such is the reasoning of these tradesmen, who would stand almost anything provided their goods and caravan animals arrived intact. These desert crossings must have a special lure for them, for again and again they brave the perils of a Gobi winter and travel hundreds of miles in order to sell a few pieces of Tibetan country-made cloth or incense sticks. This could not be the mere pursuit of profit, for Mongol-Tibetan trade has never developed to a large extent. We have to look for an explanation in the nature of the desert itself, which exercises a strange, almost uncanny influence on any one who has once traveled over its expanses. The sailor is ever attracted by the sea, but the desert has its caravan man, who again and again returns to its vast unforgettable spaces and freedom.
 
 In Urga, as in any of the big central Asian trading cities, the caravan men are a special caste of people, who play the part of seaport sailors. Among this class of caravan men, which is nowadays joined by the numerous *confrerie* of motor car drivers, you meet a unique collection of human types. Here are Russians, Germans, French, Mongols, Chinese, Tartars from Chinese Turkestan, Kirghizes, and Tibetans --- men of different nationalities and different social standing, sons of prominent statesmen, former military men, tradesmen, and hunters, contrabandists, and former culprits, who seek security in the freedom of the desert. All this motley crowd of people fill the guest houses of Urga, always on the lookout for some job. A leader of an expedition has to be constantly on his guard in dealing with this sort of people. They will come and see him, will assure him of their best intentions, call him father or brother, as the case may be, and will promise to be obedient followers ready for any emergency. I have no doubt that most of these men possess a considerable amount of personal courage and that in the course of their lives many of them took part in bloody affairs; but for a scientific expedition, whose object is research and not adventure or conquest of new
 
-**172 TRAILS TO INMOST ASIA**
+<a id="172">**172 TRAILS TO INMOST ASIA**</a>
 
 regions, such men are dangerous and sometimes may ruin the whole undertaking.
 
@@ -2759,7 +2759,7 @@ In a month we gathered a sufficient number of men, who were engaged as camp serv
 
 In Urga the expedition was joined by Mr. Portniagin of Harbin, a
 
-**173 ORGANIZING THE EXPEDITION**
+<a id="173">**173 ORGANIZING THE EXPEDITION**</a>
 
 young man of considerable experience in hard traveling across the Mongolian Gobi and of considerable personal courage.
 
@@ -2769,7 +2769,7 @@ On March 28 we had the great joy of greeting our American coworkers, Mr. and Mrs
 
 The old expedition tents needed considerable repair in order to stand another journey across the desert. All the wooden tent pegs, suitable for soft and sandy ground, had to be replaced by iron pegs, the only suitable material for the stony ground of the desert. We also bought several Chinese *mai-han* or tents made of blue cloth and supported by two poles and one horizontal bar; these have a wonderful oval shape and stand firmly during windstorms. They are generally used by caravans, their only defect being that they are cold and not waterproof. We did not take Mongol felt tents, for these with their wooden frames require a considerable time to pitch and become exceedingly heavy after a rain or snowstorm. During our subsequent detention on the cold Tibetan up-
 
-**174 TRAILS TO INMOST ASIA**
+<a id="174">**174 TRAILS TO INMOST ASIA**</a>
 
 lands, we often regretted not having at least one winter felt tent. The repair of the old tents and the strengthening of new tents took a considerable time and a full month elapsed before everything, pegs, ropes, tent bags, etc., was ready and of the required quality.
 
@@ -2791,7 +2791,7 @@ ON April 13, 1927, everyone in the expedition rose before dawn. We hoped to star
 
 Suddenly a disagreeable surprise was sprung by one of the motor car drivers. The man had forgotten to renew his Mongol passport and obtain a frontier pass for his car. Two weeks before our departure we had warned the drivers to have all their papers ready before April 13. Only two days before I had asked the men if they had done so and they all assured me that they had passports for themselves and frontier passes for their cars. The whole affair was very disagreeable for we had to postpone our departure until late in the afternoon and rush to the Government Transport Office to get the required passes without which the custom authorities would not allow the expedition cars to leave the city. There was no probability that the required motor car passes would be obtained in such a short time. The usual procedure took about three or four days. But thanks to the untiring help of our Mongol friends and
 
-**178 TRAILS TO INMOST ASIA**
+<a id="178">**178 TRAILS TO INMOST ASIA**</a>
 
 the courtesy of the Mongolian Minister of Finance, they were issued and signed.
 
@@ -2805,7 +2805,7 @@ For the first five miles the route was good, notwithstanding the melting snow th
 
 After considerable hustle in the darkness, all the tents were pitched and we could look for a well-deserved rest after a tiresome day. Some six miles away on the farther bank of the river we could see the dim lights of the Sangin Veterinary Station. Southeast of our camp rose the western offshoots of the massive Bogdo ula and toward the southwest were the dim outlines of rolling hills, through which lay the valley of
 
-**179 URGA --- YUM-BEISE KÜREN**
+<a id="179">**179 URGA --- YUM-BEISE KÜREN**</a>
 
 the Tola. The night was beautifully clear but bitterly cold, the thermometer registering some -25 °C.
 
@@ -2819,7 +2819,7 @@ We were forced to camp a little earlier in the day than we had intended, close t
 
 1\. See Berkey & Morris, *Geology of Mongolia*, pp. 90 ff.
 
-**180 TRAILS TO INMOST ASIA**
+<a id="180">**180 TRAILS TO INMOST ASIA**</a>
 
 frozen and ran a considerable distance from the route. We had to thaw snow to get drinking water. The night was again bitterly cold, about -17°C., but the wind that had started soon after sunset abated toward midnight and the rest of the night was quiet.
 
@@ -2833,7 +2833,7 @@ The days were becoming decidedly warmer, and we observed several marmots that ha
 
 Next day we again struck an upland desert, imperceptibly rising toward the southwest where lay the mountain country of the Khangai. A cold piercing western wind blistered our faces and penetrated the heavy fur coats. The ground was stony and firm and the convoy of cars
 
-**181 URGA --- YUM-BEISE KÜREN**
+<a id="181">**181 URGA --- YUM-BEISE KÜREN**</a>
 
 kept well together. We crossed a succession of rolling hills among which rose solitary weathered cliffs and sharply cut crags. In one of the valleys lying between two low ridges our first car, in which I rode, ran into a strange oblong object, wrapped in rags and deposited on the trail. I jumped out to remove it and found it was the corpse of a small child wrapped in weathered cloth and partly devoured by wolves. The nomad Mongols throw the bodies of their dead children on a nearby route, so that passing travelers may offer prayers for their souls. On the twentieth mile we passed a huge human figure of stone --- one of those figures which abound on the steppe country of northern Mongolia and Jungaria north of the T'ien Shan Mountains. These figures probably represented funeral monuments of departed chieftains, which as a rule are represented holding in their hand a chalice with a burning flame --- a sign possibly related to the ancient fire cult of the Mongols.
 
@@ -2843,7 +2843,7 @@ Some miles away from the spot where we had found the stone image, we came across
 
 Later in the afternoon we reached the northern branch of the Ongin-gol. Before reaching the river, the trail crossed a vast gravel plain with firm ground. The crossing was situated close to three Mongol felt tents and their occupants were eager to assist us. Our three trucks stayed behind, delayed by an accident with a tire, and we decided to cross the
 
-**182 TRAILS TO INMOST ASIA**
+<a id="182">**182 TRAILS TO INMOST ASIA**</a>
 
 river in our touring cars and await the rest of the column on its farther bank. It flowed through a broad flat valley, and had several arms. Its bottom was covered with gravel and for the most part was firm. Only my car ran into a sand bank and had to be rescued.
 
@@ -2855,7 +2855,7 @@ The next morning was spent in bringing over the three trucks. Two of them crosse
 
 After considerable waiting, the required guide was produced --- a
 
-**183 URGA --- YUM-BEISE KÜREN**
+<a id="183">**183 URGA --- YUM-BEISE KÜREN**</a>
 
 wrinkled old man of sixty, who wore a lama fur hat and some discolored yellow rags that served him for a coat We were told that he was an experienced guide who knew the country well.
 
@@ -2869,7 +2869,7 @@ Some of the most important rivers of Mongolia, like the Orkhon, rise in the Khan
 
 After crossing the Tatsa-gol, an insignificant stream in its upper course, we continued our way along the southern foot of the Artsa ula Range. Not far from an old ruined Chinese stone hut, which was used as a storehouse for a Chinese trading company, one of our cars had a rather bad accident, and we had to stay behind to repair it.
 
-**184 TRAILS TO INMOST ASIA**
+<a id="184">**184 TRAILS TO INMOST ASIA**</a>
 
 While the driver was busy with the car, I made a short trip round the country and discovered a large number of ancient tumuli or barrows. There were eighteen large ones and six smaller ones. All of them had stone cairns on their tops and were surrounded by concentric rounds of stone slabs. These were probably the tumuli described by Professor Pozdneev in his work *Mongolia and the Mongols*(2) (in Russian), although the exact geographical position of the barrows was not indicated by the Russian scholar and explorer. Judging from their outward appearance, the tumuli were quite analogous to those of Noin ula Mountains, excavated by the Kozlov Expedition.
 
@@ -2881,7 +2881,7 @@ The next march was difficult and trying. The trail lay over a barren country of 
 
 2\. I, 201.
 
-**185 URGA --- YUM-BEISE KÜREN**
+<a id="185">**185 URGA --- YUM-BEISE KÜREN**</a>
 
 van men reported strong bands of brigands in the Gobi Desert north of An-hsi chou. Among the caravan drivers, we found two Kurluk Mongols from northern Tsaidam --- a graybeard and a young man of twenty. For some reason or other they had decided to leave their native country and go to Urga. We observed their strange costumes and the picturesque shirts with turned down collars edged with otter fur. The men wore pointed hats and large leather trousers. They examined our cars --- the first they had ever seen --- but were doubtful whether we should be able to reach Yum-beise, for the route we were using was never before covered by cars or any other wheeled conveyance.
 
@@ -2891,7 +2891,7 @@ There seems to be a perceptible difference between the type of Mongols of the gr
 
 On April 21 we broke camp early in order to find our way through the intricate mountain system, and cross the muddy Toin-gol. Most of us had to walk in order to help out the cars. For considerable stretches of sandy plains the cars had to be pushed, with planks and canvas sheets put under the wheels to give them a grip. It is a marvel that they did cover this difficult ground and stand the severe test. About eleven o'clock in the morning we reached the Toin-gol --- a river difficult to ford because of its muddy bottom. We had to stop and find a suitable place. After a long search one was discovered, but the river bank was too steep to allow the cars to enter the water. We had to make a route
 
-**186 TRAILS TO INMOST ASIA**
+<a id="186">**186 TRAILS TO INMOST ASIA**</a>
 
 and level the steep bank. After three hours' hard work, all five cars were safely brought across the river.
 
@@ -2901,7 +2901,7 @@ About five o'clock in the afternoon we decided to camp for the night on a level 
 
 Next day we again made an early start and drove, following the indications of our Mongol guide, westward up the dry river bed. After an hour of heavy road, we turned into a side valley and ascended a low mountain spur that seemed to be a suitable pass across the ridge that barred our passage. We hoped, having crossed it, to find our way into the vast gravel plain that lay south of it. Our expectations were vain, for behind the pass we found the same intersected mountain country of rugged sand hills with scant outcroppings of granite. The only outlet open was a narrow mountain valley leading west. We followed it for some five miles till we came to a small circular valley sheltered on all sides by mountains. It was evident that there was no practicable road farther ahead. The Mongol guide continued to insist that we should cross the mountains southwest of the valley. This was easier said than done for most of the mountain side was steep and rugged. We could not possibly climb the steep ascent. Myself and a driver ascended one of the nearby hills, from which we could easily orient ourselves. We found a
 
-**187 URGA --- YUM-BEISE KÜREN**
+<a id="187">**187 URGA --- YUM-BEISE KÜREN**</a>
 
 heavy but passable track on the very edge of a narrow canyon and the driver was of the opinion that we could risk a passage. We accordingly descended and guided our cars up the steep hillside and the difficult track that lay along the edge of the ridge. We had to advance very cautiously, for one faulty movement on the part of the driver would send the car down into the canyon. After the light cars were brought over, the heavy trucks ascended with the help of the men. Sand and stones rolled down when the heavily loaded trucks climbed the mountain, men were pulling from in front and behind, and it was a great relief when all the trucks had safely arrived at the summit. We found ourselves in sight of the sandy plain with faint outlines of rocky mountains far to the southwest. Before reaching the plain we had to cross several successive ravines full of sand, in which our cars stuck more than once. The mountain ridge from which we descended continued far into the desert plain south of it, stretching its sandy spurs for a considerable distance.
 
@@ -2913,7 +2913,7 @@ About three o'clock in the afternoon we succeeded in crossing a low sandy ridge 
 
 We endeavored to obtain some information from Mongol women, who lived in a felt tent completely hidden in one of the deeper canyons. Their men folk were away and the women knew nothing about the route. We had to rely on the knowledge of our Tibetan.
 
-**188 TRAILS TO INMOST ASIA**
+<a id="188">**188 TRAILS TO INMOST ASIA**</a>
 
 We started again about five o'clock in the afternoon and drove over good firm ground across the plain. It was a pleasure to be able to drive fast again, after all the trials of the previous days. We observed for the first time large herds of wild asses, some two hundred in all (*Equus hemionus*). The animals stood motionless watching our movements and then suddenly dashed in wild speed across the trail. We followed one of the animals in our car and it was surprising to see the speed it developed.
 
@@ -2941,7 +2941,7 @@ MONASTERY OF YUM-BEISE
 
 MONGOL NUNS, SOUTHWEST MONGOLIA
 
-**189 URGA --- YUM-BEISE KÜREN**
+<a id="189">**189 URGA --- YUM-BEISE KÜREN**</a>
 
 of the long-expected Yum-beise küren, situated in a deep valley surrounded on all sides by hills that sheltered the monastery from the severe winds which blow during the winter and spring months. It is a collection of white houses in the center of which rise two *du-khangs* or assembly halls. A huge crowd of red-clad lamas, on hearing the sound of motor horns, rushed out of the monastery and surrounded our cars. We found no suitable place for camping close to the monastery and were advised to establish our camp outside the monastery in a place locally called Tsagan Tologoi --- "White Head," so named after a mountain west of the monastery. The place chosen for the camp was situated on the banks of a tiny stream, the Tsagan Tologoi-usu. From the northwest and west our camp was well sheltered by the mountains, Tsagan Obo. To the east and south the place overlooked the vast rolling landscape of the Gobi.
 
@@ -2951,7 +2951,7 @@ Among the chief obstacles to motor car traffic across the southwestern Gobi are 
 
 Along the foot of these desert mountains stretch large belts of sand dunes and alluvial fans, often difficult to cross by car. Some time before a Mongol car had reconnoitered the route south of Yum-beise and, fol-
 
-**190 TRAILS TO INMOST ASIA**
+<a id="190">**190 TRAILS TO INMOST ASIA**</a>
 
 lowing a roundabout way, succeeded in reaching a point some four miles north of Shara-Khulusun. Farther south the car was unable to go; it was a light touring vehicle carrying two men and the necessary supply of gasoline.
 
@@ -2963,7 +2963,7 @@ The region is impassable during summer, because of the unbearable heat of the de
 
 3\. *Geographical Journal*, No. 5, 1925, p. 379.
 
-**191 URGA --- YUM-BEISE KÜREN**
+<a id="191">**191 URGA --- YUM-BEISE KÜREN**</a>
 
 > seats or harassed by foes can safely seek refuge for a time, are not such as face us in most parts of the high basin between the Celestial Mountains and the K'un-lun.
 
@@ -2977,7 +2977,7 @@ Early next morning I went, accompanied by our Tibetan guide, to the monastery to
 
 The Yum-beise Monastery was situated about a mile north of our camp. It consisted of several narrow streets, on either side of which rose
 
-**192 TRAILS TO INMOST ASIA**
+<a id="192">**192 TRAILS TO INMOST ASIA**</a>
 
 brick walls with small narrow gates leading into courtyards where stood the lamas' houses or tents. The monastery has a population of some 500 lamas, who throng the streets and the large courtyards in front of the temples. In the center of the monastery lay a spacious square, on the western side of which stood the chief monastery buildings, two *du-khangs* or assembly halls. They were constructed in Tibetan style. The structure itself was built of bricks, and the front portion had terraces supported by eight wooden columns with the usual floral design painted in bright colors. The four corners of the temples were crowned by the usual *jyal-tsen* or "victory banners," and on the roof over the principal entrance stood the customary emblem --- the Wheel of Law and the two deer. Behind the temple rose the gilded roofs of the chapel containing the sacred images. The roof was surmounted by a gilded *gañjira* in form of a vase or *bum-pa*.
 
@@ -2987,7 +2987,7 @@ Many of the courtyards had small storerooms, where the wealthier lamas kept thei
 
 The *nyer-wa* met us in his tent and after the usual reciprocal compli-
 
-**193 URGA --- YUM-BEISE KÜREN**
+<a id="193">**193 URGA --- YUM-BEISE KÜREN**</a>
 
 ments and polite inquiries about health and road, we started to talk business. The treasurer said that it was extremely difficult to find camels, for the season was late and very soon the desert would be impassable for camel caravans. He was quite willing to let us have his own camels, about twenty in all, but the rest of the required number of camels we would have to hire from some wealthy lamas in the monastery.
 
@@ -2997,7 +2997,7 @@ After fixing the price and the date of departure, we returned to the ramp and th
 
 Toward sunset a violent northeast wind set in and soon turned into a wild storm. Thick clouds of sand passed over the camp, penetrating the tents. We all had to seek cover and close the tent entrances. A miserable
 
-**194 TRAILS TO INMOST ASIA**
+<a id="194">**194 TRAILS TO INMOST ASIA**</a>
 
 night it was! The sand accumulated in huge quantities round the tents, forming high ramparts. The noise made by the outer tent fly striking the inner flap was so great that it made sleep almost impossible. Toward dawn the strength of the wind doubled and I felt my tent cracking and then suddenly dropping on me. The two flaps broke down and I was buried under them and under sand that rapidly accumulated over the *debris*. After some exertion I managed to creep from under my tent and find my way out. The whole country was hidden behind an impenetrable yellow veil and the wind blew with unabating force. Our camp presented a strange appearance. The servants' tent was blown down, but the inmates slept quietly under the canvas. Portniagin's tent was about to go and was balancing on its pole and one peg that managed to remain in the ground. The doctor's tent had most of its pegs out, and it was a miracle that it still resisted the storm. Professor and Mrs. Roerich's tent stood firmly against the blast. Portniagin and I went round the camp fastening ropes and fixing tent pegs. Suddenly a wild crash was heard, as if hundreds of unseen riders had dashed across the camp, destroying everything in their stormy passage. The kitchen tent flew upward and all the water basins and buckets with a loud rattle were carried away over the stony surface. This was the climax. Everyone in the camp woke up. One could hear voices shouting, "What happened?" "Fix my tent!" "Can't get out!" After sunrise the force of the wind abated, and we were able to restore order in the camp. It was evident that we could not remain any longer on this windy spot. We found another suitable place at the foot of the Tsagan Obo Mountains, and Professor Roerich gave the order to move camp.
 
@@ -3005,7 +3005,7 @@ The new spot was well sheltered from the northwest and northeast by high hills. 
 
 The next night and day were quiet and we all went to visit the monastery. In the large assembly hall we found a crowd of lamas and novices busy painting wooden covers (*leg-shing*) for the 333 volumes of
 
-**195 URGA --- YUM-BEISE KÜREN**
+<a id="195">**195 URGA --- YUM-BEISE KÜREN**</a>
 
 the *Känjür* and *Tänjür*. The assembly hall of the monastery had the usual arrangement inside. The northern wall was occupied by the state throne of the Incarnated Lama of the monastery and several glass cases containing brass and clay images of crude workmanship. The other walls were occupied by the monastery library. Between the wooden columns supporting the roof were spread the low mattresses that serve as seats for the lamas during religious services. We noticed only a few painted banners. A big one hanging on one of the columns displayed a black and white drawing of the *mandala* or mystic sphere of influence of Shambhala, said to have been presented to the monastery by order of the late Bogdo Gegen. The rest of the banners were painted in bright colors, but of very inferior design. We searched in vain for the finely executed banners from eastern Tibet and Derge. Most of the brass images in the glass cases either came from Urga or from Dolon-nor. We were surprised to find such a paucity of really good things. The *küren* situated on the caravan route to Tibet should possess better examples of Tibetan religious art.
 
@@ -3031,7 +3031,7 @@ Next day we made an early start and by eight o'clock the camels were watered and
 
 After crossing the gravel plain in a southerly direction, we entered low sandy hills that stretched for more than five miles. These hills bor-
 
-**200 TRAILS TO INMOST ASIA**
+<a id="200">**200 TRAILS TO INMOST ASIA**</a>
 
 dered the gravel plain on the southeast and south. South of this belt of sandstone hills and sand dunes lay a broad sandy plain covered by loess and *deresün* grass (*Lasiagrostis splendens*). We found here several Mongol encampments belonging to the same *khoshun* as the Yumbeise Monastery. As in all frontier districts of central Asia, the population of the tents was extremely varied. We came across Torguts from the Mongolian Altai, Khalkha Mongols from at least half a dozen *khoshun* or tribal divisions and several Amdo Tibetans, who had settled in the district. Some of them proved to be former lamas of the great Kumbum Monastery in the Sining district of Kansu Province.
 
@@ -3043,7 +3043,7 @@ After leaving Khara Boro, the route crossed several sandy ridges which were freq
 
 The day's march was unusually long for we had to reach a well situ-
 
-**201 ACROSS THE SOUTHWESTERN GOBI**
+<a id="201">**201 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 ated in the mountains which rose on the south. Toward seven o'clock we halted for the night on a small gravel plateau sheltered by low rolling hills. Toward the north and northeast the plateau was open and we could see the rugged outline of the distant Bain Ündür Mountains. The place of the camp bore the significant name of Dzogo-usu, which means "the tasted water." *Dzogo* is a polite Mongol expression meaning "to partake." The formal term is used because the Dalai Lama had camped here during his memorable flight from Lhasa in 1904. His Holiness followed the same route but in the opposite direction. The local Mongols remember this important event and have given the former camps of the Dalai Lama fanciful names to distinguish them.
 
@@ -3053,7 +3053,7 @@ By sunset we emerged from the hills and camped on the northern border of a grave
 
 Next day we again moved south following the dry bed of a river that once flowed from the mountains into the plain to the south. The days were decidedly hotter and the camels began to lose patches of hair. After eight hours' march across a gravel plain, we halted for the night
 
-**202 TRAILS TO INMOST ASIA**
+<a id="202">**202 TRAILS TO INMOST ASIA**</a>
 
 at a desert well of brackish water with a foul taste. All around rose low sandhills. Far to the south stood the mountains of Shara-Khulusun, a mysterious place which all of us were eager to visit. According to our guides, Shara-Khulusun was a narrow wooded gorge with a small stream of mountain water running through it. Many were the stories told about this lonely oasis situated in the heart of the Gobi Desert.
 
@@ -3063,7 +3063,7 @@ The country northeast of our route --- the region of Sain-Noin, the country arou
 
 Thus far, it had been our usual practice to start in the afternoon, letting the camels graze on the *saksaul* shrubs found in the mountains, during the entire morning. On May 5 we decided to make an early start in order to reach the Oasis of Shara-Khulusun and give our camels plenty of time to graze in the forest of the oasis. The day proved exceptionally hot. Far toward the south, the barren mountains of Shara-Khulusun rose in a dust-haze atmosphere. For the first two hours the camel trail led over broad patches of sand-backed mud covered with shrinkage cracks and intersected with strips of gravel. The level plain was cut by a low ridge of limestone and sand dunes. Our progress between hills was very slow, for the ground in the shallow depressions was muddy and the camels often sank into the sand.
 
-**203 ACROSS THE SOUTHWESTERN GOBI**
+<a id="203">**203 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 Leaving the sand ridge behind us we rode into a broad sand valley gradually ascending toward the southwest. For some six miles, the trail continued along a dry river bed with large accumulations of *debris* from the neighboring cliffs of sandstone. Then it again emerged on a gravel plain slowly rising toward the Shara-Khulusun Mountains, now clearly silhouetted against the sky. For a considerable distance, the gravel plain was only the gigantic dry bed of some mighty torrent that once swept from the mountains over the plain. Bowlders, *debris*, and dried tree trunks blocked the passage. The Mongol guides assured us that even nowadays, during the period of summer rains, the water of the Shara-Khulusun-gol rose and a powerful stream swept down on the plain. The summer rains in the Gobi region generally occur in July and August and are devastating. An excessive rainfall of several days will form and swell into a torrent, which carries *debris* down into the plain and cuts deep gorges in the mountain. Several months later we experienced such a terrific torrent, preceded by several rainy nights, in the arid mountains of Nan Shan.
 
@@ -3073,7 +3073,7 @@ The cameleers quickly unloaded the camels and drove them off into the thick bush
 
 We decided to pitch our tents in the grove and returned to the other bank of the river. The camels carrying tents were not yet unloaded but the cameleers violently protested against taking the camels across the river. According to them, the proper camping place was on the near side of the river and not on the other. It is surprising how these caravan
 
-**204 TRAILS TO INMOST ASIA**
+<a id="204">**204 TRAILS TO INMOST ASIA**</a>
 
 men grow accustomed to one particular place and will always camp on one and the same spot. After long arguing we forced the drivers to bring the camels across under guard of half our men. The stream was almost dry and presented no difficulties for communication between the two camps.
 
@@ -3085,7 +3085,7 @@ Higher up the gorge of Shara-Khulusun, we discovered several ruined houses and o
 
 1\. Carruthers, Unknown Mongolia, II, 518
 
-**205 ACROSS THE SOUTHWESTERN GOBI**
+<a id="205">**205 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 or temple. In several places the river banks were occupied by terraced fields. Our Mongol guides told us that this was formerly a small Chinese settlement. The Chinese used to come here from An-hsi to grow the opium poppy. Now for several decades the valley has been abandoned.
 
@@ -3097,7 +3097,7 @@ It was already late in the evening, about nine o'clock, and completely dark, whe
 
 It was impossible to protect the two camps at once, and I therefore decided to leave the baggage camp under the guard of four of our rifle-
 
-**206 TRAILS TO INMOST ASIA**
+<a id="206">**206 TRAILS TO INMOST ASIA**</a>
 
 men and with the rest of the men to occupy a line south of our second camp. This position allowed us not only to protect the two camps by rifle fire but made it easy for us to charge the enemy in case they would venture into the open to attack our camp with the heavy baggage.
 
@@ -3105,7 +3105,7 @@ We spent long, tense moments, for the firing did not continue, but from the nois
 
 The Tibetan returned after a prolonged absence and related his experiences with the strangers. He found their camp higher up the gorge. It was a large caravan from Koko-khoto which was traveling to Ku-ch'eng and Urumchi. On his approach to the camp, all the men sitting round the camp fire sprang up, extinguished the fire and received him in complete silence. When he appeared in their midst, they begged him not to harm them, for they were persuaded that he was a member of a large band of brigands camping in the gorge. They even promised him a large reward in money or goods. They were deadly afraid and he had some difficulty before he was able to explain to them that we were a scientific expedition. At last, they believed him and told him that they took us for a robber camp and that the heads of their caravan, a Chinaman and a Tartar from Kulja, rode toward our camp and fired the shots to scare us! This is the usual maneuver of Chinese caravans. In dangerous places they usually fire in the air, or at suspicious looking persons in order to scare them. It was lucky that we all were in the second camp for if we had been in camp No. 1, we would certainly have returned the fire and possibly caused losses. We all went back to our tents happy that the whole affair had turned out so well. Many of our men were a little
 
-**207 ACROSS THE SOUTHWESTERN GOBI**
+<a id="207">**207 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 disappointed --- they preferred to fight real brigands and not scared traders.
 
@@ -3123,7 +3123,7 @@ Saturday, May 7, 1927. The day promises to be hot. Clouds hover over the horizon
 
 2\. Ma-tzu Shan is the Mongol pronunciation of the Chinese Ma-tsung Shan; we retain in the text the Mongol form of the name.
 
-**208 TRAILS TO INMOST ASIA**
+<a id="208">**208 TRAILS TO INMOST ASIA**</a>
 
 van in three columns begins the march toward the south. After crossing the belt of sand dunes, which usually cover the approaches of the mountain ridges of the Gobi, the caravan comes on the immense plain of the gravel-covered Gobi. The black surface of the stone desert sparkles with deep opal shades. Mirages flicker in the burning air --- lakes and islands covered by vegetation.
 
@@ -3135,7 +3135,7 @@ We try to cover as much ground as possible. How majestic are the dawn and sunset
 
 A burning hot day follows the quiet starry night. It is difficult to imagine the burning heat that emanates from the stony surface of the desert. We decide to start earlier notwithstanding the heat, in order to
 
-**209 ACROSS THE SOUTHWESTERN GOBI**
+<a id="209">**209 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 reach sooner the promised well. The camels, which during winter are able to travel six or seven days without a drop of water, in springtime suffer badly from thirst. They become drowsy and the air resounds with their drawling cry. Their eyes become watery and dull.
 
@@ -3149,7 +3149,7 @@ We decide, therefore, to take all possible precautions and to send out reconnoit
 
 The next day (May 9) we gave our camels a brief rest, starting only at four o'clock in the afternoon. The path ascended a flat promontory and entered a narrow gorge. In some places we found weathered grass
 
-**210 TRAILS TO INMOST ASIA**
+<a id="210">**210 TRAILS TO INMOST ASIA**</a>
 
 and traces of horses' hoofs. Evidently men were near. Our guides often ascended nearby hills and attentively examined the country.
 
@@ -3183,7 +3183,7 @@ AN ANCIENT CHINESE WATCHTOWER IN THE SOUTHERN GOBI
 
 THE CASTLE OF JA LAMA
 
-**211 ACROSS THE SOUTHWESTERN GOBI**
+<a id="211">**211 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 place for the night. The tall silhouettes of our men on their camels disappeared in the darkness. We knew that we were in the vicinity of the fortress of Ja Lama which was still occupied by some of his men. The caravan moved in a compact column and riders were deputed to protect the flanks.
 
@@ -3197,7 +3197,7 @@ In the early morning we had the rather unexpected surprise of finding the dreade
 
 All our persuasions were vain and we had to proceed alone. It was decided that we should make signs with our rifles from the top of the watch tower in case the fortress was found deserted. Firing on our part would mean that we met with some resistance. We quickly advanced and occupied the first watch tower, from where we could easily observe the fortress. It seemed completely deserted. We then entered the first courtyard. Dead silence. Neither dogs nor men, only heaps of rubbish left by former occupants. The second courtyard was also empty. The
 
-**212 TRAILS TO INMOST ASIA**
+<a id="212">**212 TRAILS TO INMOST ASIA**</a>
 
 castle itself stands on a low hill, its back to a low ridge that forms part of the Baga Ma-tzu Shan. The principal building, which served as residence of Ja Lama himself, is a two-storied square house with a flat roof having small tower-like projections on each of the four corners. Two courtyards surrounded by high brick walls lead to it. In the courtyards are situated the guard's quarters, stables, and storerooms. The house itself has a large door. On the ground floor is a large hall with a hearth in the middle. A small stone staircase leads to the second floor, where the private rooms of Ja Lama were situated. At the time of our visit, the fortress was in complete decay. The rooms and ceilings were blackened by fire. The windows had no frames and the condition of the floors was such that they could support only two or three men at a time. The courtyards were full of rubbish and dirt, with skeletons of cattle and dogs.
 
@@ -3207,7 +3207,7 @@ After investigating the rest of the fortress, and the neighboring watch towers, 
 
 Our camel drivers discovered in the valley below a Chinese caravan from Koko-khoto bound for Ku-ch'eng. They were traveling traders from Koko-khoto who had previously signed a "safety agreement" with the brigands. We sent one of our men to speak to the Chinamen. He found in their tent a suspicious looking armed Torgut, who inquired how many men we had with us and the number of our rifles. He proved to be one of Ja Lama's followers and had his encampment in the hills west of the castle. He told our man that there were several families of former robbers living in the neighborhood. He complained of being short of ammunition and used an old matchlock for which
 
-**213 ACROSS THE SOUTHWESTERN GOBI**
+<a id="213">**213 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 he could prepare some himself. His Mauser carbine lay idle in his tent, for he could not procure sufficient cartridges. According to him, some two hundred men still haunt the hills north and southwest of Ma-tzu Shan.
 
@@ -3217,7 +3217,7 @@ The robbers seemed much impressed by our arms and after a short visit departed. 
 
 About three o'clock in the afternoon we broke camp and for a considerable time skirted the Baga Ma-tzu Shan. After a two hours' march we entered a narrow mountain valley stretching north and south and followed it along the bank of a small rivulet called Balgantai. The river was dry but is said to carry a considerable volume of water during the rainy season. We camped on a level patch of ground close to a small brook of fresh water. We met a party of Torguts on a hunting expedition, one of which was our acquaintance of yesterday. One of the men had his right ear cut off and the whole company had something unpleasant about them. Our men regained their courage and laughed at
 
-**214 TRAILS TO INMOST ASIA**
+<a id="214">**214 TRAILS TO INMOST ASIA**</a>
 
 the armament of the Torguts. The Torguts informed us that most of their people decamped toward the north for they feared an advance by the Chinese troops of General Feng, which were marching to Hami.
 
@@ -3235,7 +3235,7 @@ We halted for the night near a small brook, coming from beneath a rock which was
 
 On May 15 we left behind us the Pei Shan Hills that rise north of the lowland of Kansu. The last hills were crowned with a ruined Chinese watch tower that once protected these desert tracts. Under the burning sun the caravan moved straight toward the south across the boundless gravel desert. To the east stretched the low ridge of Po-hsien Shan. Far to the south stood the faint outlines of the northern ramparts of the Nan Shan Mountains. The plain was arid without either a brook or well, but in the distance one could see the glimmering formations of
 
-**215 ACROSS THE SOUTHWESTERN GOBI**
+<a id="215">**215 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 Chinese villages and gardens. The Province of Kansu was drawing nearer.
 
@@ -3247,7 +3247,7 @@ By three o'clock in the afternoon the caravan noiselessly marched off toward the
 
 The imperial highway, connecting Peking with Urumchi, the capital of the New Dominion, is a series of deep-cut wheel tracks. Here near An-hsi it looked exactly the same as in other parts of Chinese Turkestan. We expected to see troops moving along the route but saw nothing of them although we had been told of their presence in large numbers along the route. At this early hour the road was completely deserted. A telegraph line on small miserable poles follows the route, connecting Hsin-chiang with Peking.
 
-**216 TRAILS TO INMOST ASIA**
+<a id="216">**216 TRAILS TO INMOST ASIA**</a>
 
 We camped about noon in a small forest growing on the banks of a tributary stream of Su-lo ho. The *nyer-wa* went to see some of his Chinese friends in a Chinese village near by and the caravan rested in the shade of the forest. The heat was oppressive and a yellow veil left behind by a passing sand storm hung over the locality. The *nyer-wa* returned at four o'clock with the report that all was well along the route to Shih-pao-ch'eng and that we should start immediately in order to reach our destination for the day.
 
@@ -3257,7 +3257,7 @@ The Mongols came out to meet us and were extremely friendly. They were Khalkha M
 
 Our doctor, who was attired in a purple Mongolian coat of Tibetan *puru*, was taken by everybody for a lama and people came to ask blessings from him. In every camp there was a great demand for the doctor
 
-**217 ACROSS THE SOUTHWESTERN GOBI**
+<a id="217">**217 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 and his medicine chest. We pitched only two tents and the rest of the party slept under the open sky. It was a wonderful starry night with the snows of the Tsagan Chuluta standing out clear on the dark opal sky.
 
@@ -3267,7 +3267,7 @@ Next morning we continued to follow the river gorge which broadened as the mount
 
 Next to a large Chinese farm we passed a fine forest of spruce not far from which towers a rock with an ancient stone image of Maitreya, probably dating back to the period preceding the tenth century A.D. On his way to Mongolia, the Dalai Lama declared this stone image to have miraculously appeared on the surface of the rock and ordered a small
 
-**218 TRAILS TO INMOST ASIA**
+<a id="218">**218 TRAILS TO INMOST ASIA**</a>
 
 chapel to be erected over it. The image represents a standing Maitreya and is now an object of worship among the local Mongols.
 
@@ -3281,7 +3281,7 @@ We camped late in the evening on a small plateau on the bank of the river. On th
 
 The next morning we made an early start and by ten o'clock the caravan column was moving up the river valley. The vegetation was still scanty, with here and there shrubs of juniper and small willow bushes. The gorge broadened and we once more perceived in the distance the majestic Tsagan Chuluta. In front of it lay a vast plain --- the Oasis of Shih-pao-ch'eng. On our way we passed several fields worked by a few Chinese settlers who lease the land from the local Mongol headmen.
 
-**219 ACROSS THE SOUTHWESTERN GOBI**
+<a id="219">**219 ACROSS THE SOUTHWESTERN GOBI**</a>
 
 The river branched into numerous channels that cut the marshy plain. Behind the dark line of the oasis lay expanses of piedmont gravel with scant shrubs. I rode ahead to find ground for our camp. With great difficulty we went through the swamps of the oasis. Several times the camel of our Tibetan guide sank knee-deep and my own horse fell into the mud. After an hour's search we found a temporary place for camp on a sandy plateau overlooking one of the many tributary channels of the river. The rest of the caravan column slowly moved into the camp and we pitched our tents. It was the end of our camel journey and we had to let the camel drivers go and take over the loads. One of the camel drivers had been ill for several days and now asked our doctor to give him some medicine. The doctor discovered pneumonia and a weak heart. The man was beyond hope of recovery and died the next day.
 
@@ -3301,7 +3301,7 @@ This fantastic personality was a very versatile man. He built castles in the hea
 
 He is credited with having possessed miraculous power which, however, did not help him when he was shot dead by a Mongol officer. A portrait of him was given by F. Ossendowski in his *Men, Beasts, and*
 
-**224 TRAILS TO INMOST ASIA**
+<a id="224">**224 TRAILS TO INMOST ASIA**</a>
 
 *Gods* where he appears as lama avenger under the name of Tushe-Gun Lama.
 
@@ -3317,7 +3317,7 @@ Ja Lama had many stories to tell about his extensive travels in India, China, Ti
 
 Ja Lama's first public appearance in outer Mongolia dates back to
 
-**225 JA LAMA, THE MILITANT PRIEST**
+<a id="225">**225 JA LAMA, THE MILITANT PRIEST**</a>
 
 1890\. Professor Pozdneev in his valuable *Mongolia and the Mongols* (1) gave a brief account of the early activity of the lama. During his visit to the important Lamasery of Amur-baishalantu, he heard from a local petty official the story about a great lama who appeared in Mongolia in the autumn of 1890 and traveled from Dzin-dzilik, frontier station to Uliassutai and from there to Urga. The lama wore a fur cap surmounted by a golden *vajra* and freely distributed gold and golden coins to poor people. He said everywhere that he was Ten-pei Jal-tsen, son of Temürsana, who was in his turn the son of the famous Amursana. In other places he maintained that he was not only the descendant of Amursana but also his incarnation and that he reappeared to liberate Mongolia from the Chinese yoke. The nomads easily believed his words and crowds of people gathered on *urtön* or relay stations to greet the Incarnated Lama. They kotowed before him and paid him deep veneration.
 
@@ -3329,7 +3329,7 @@ The Chinese contented themselves with the examination of his papers and finally 
 
 1. 1, 45.
 
-**226 TRAILS TO INMOST ASIA**
+<a id="226">**226 TRAILS TO INMOST ASIA**</a>
 
 From Kobdo he traveled back to Uliassutai and then to Urga where he was for the second time arrested and deported to Kiakhta.
 
@@ -3341,7 +3341,7 @@ After this he disappears for another ten years. We are in complete ignorance as 
 
 It was said since 1890 that Ja Lama was an incarnation of the great Amursana (who died in 1755 A.D.). An ancient prophecy was whispered that at the time of the new war of liberation between Mongols and Chinese, a leader would appear under the name of Ten-pei Jal-tsen, who would be the true incarnation of Amursana and would restore the old kingdom of the Oïrat. All who know the magic influence exercised by prophecies among Buddhists of inner Asia, will easily understand the success of Ja Lama. His reappearance in the Kobdo district caused a great stir among the nomad population. Crowds of people
 
-**227 JA LAMA, THE MILITANT PRIEST**
+<a id="227">**227 JA LAMA, THE MILITANT PRIEST**</a>
 
 gathered round the new leader, who continued to preach fervently the holy war against the oppressing Chinese.
 
@@ -3355,7 +3355,7 @@ On August 6, 1912, the fortress of Kobdo fell and the city was burned and its Ch
 
 The Chinese authorities of the adjacent Hsin-chiang Province were greatly alarmed by the success of the militant priest and troops were dispatched in all haste from Ku-ch'eng and Shara-sümä. They did not
 
-**228 TRAILS TO INMOST ASIA**
+<a id="228">**228 TRAILS TO INMOST ASIA**</a>
 
 reach Kobdo, but camped at a place called Tsagan Tonke, some two hundred miles southwest of Kobdo, and remained there for the winter. The Mongol troops under Ja Lama and his allies remained in a fortified camp on the Mongol side of the Ulan-daban Pass but dispersed in 1913 after the withdrawal of the Chinese troops. The German traveler H. Consten in his recently published book on Mongolia, *Die Weideplätze der Mongolen*, Vol. II, gives a vivid description of the Mongol fortified camp at the Ulan-daban. He did not meet Ja Lama personally but was very much impressed by the rigid discipline in the camp and the general cleanliness and order of the place, quite unusual among Mongols. He was told that it was under the complete control of Ja Lama, who took strong measures to keep it clean and the troops disciplined.
 
@@ -3367,7 +3367,7 @@ He was extremely cruel to his enemies and seldom trusted his followers. It is to
 
 Ja Lama continued to rule his *khoshun* until 1914 when a misunder-
 
-**229 JA LAMA, THE MILITANT PRIEST**
+<a id="229">**229 JA LAMA, THE MILITANT PRIEST**</a>
 
 standing with the officer commanding the Russian consular guard in Kobdo resulted in his sudden arrest and deportation to Russia.
 
@@ -3379,7 +3379,7 @@ He was first imprisoned in the Tomsk Prison for one year and afterward exiled to
 
 The Urga Government felt rather uneasy about the reappearance of
 
-**230 TRAILS TO INMOST ASIA**
+<a id="230">**230 TRAILS TO INMOST ASIA**</a>
 
 the militant monk and issued orders for his immediate arrest. Ja Lama was forced to leave Mongolian territory. He chose for his new camp a secluded place on the northern slopes of the Baga Ma-tzu Shan some 250 miles south of Yum-beise-sümä in the very heart of the Mongolian Gobi. Many of his former followers flocked to his new camp and he soon had about 500 tents around him.
 
@@ -3393,7 +3393,7 @@ After the defeat of Baron Ungern's troops by the Mongol National forces in the s
 
 His influence was still great among the nomads of the Kobdo region, and he was planning a campaign against Urga in order to crush the op-
 
-**231 JA LAMA, THE MILITANT PRIEST**
+<a id="231">**231 JA LAMA, THE MILITANT PRIEST**</a>
 
 position of the Mongol Government to his warlike plans. He still cherished the hope to reconstruct a mighty state in inner Asia, including Mongolia, Tibet, and Chinese Turkestan.
 
@@ -3407,7 +3407,7 @@ Caravan animals and goods were usually confiscated and the personnel of the cara
 
 A Tibetan trade agent, who went to Mongolia to trade on behalf of the Tashi-lhun-po labrang, was caught on his way to Yum-beise, and imprisoned in the fortified camp of Ja Lama. He never recovered his freedom but died in captivity. A survivor of his caravan told me that
 
-**232 TRAILS TO INMOST ASIA**
+<a id="232">**232 TRAILS TO INMOST ASIA**</a>
 
 most of the caravan men had been slaughtered and that those who were spared had their ears cut off and had to work as Ja Lama's slaves.
 
@@ -3419,7 +3419,7 @@ In September, 1922, an extensive political plot was discovered in Urga and a num
 
 After again defeating the troops under Baron Ungern, the Mongols, in order to pacify their southwestern border, decided to exterminate Ja Lama and his bands. A Russo-Mongolian detachment searched the Gobi for him and even penetrated as far as the Nan Shan, north of the Koko-nor. In the beginning of 1923, the Urga Government dispatched
 
-**233 JA LAMA, THE MILITANT PRIEST**
+<a id="233">**233 JA LAMA, THE MILITANT PRIEST**</a>
 
 several squadrons of cavalry under the command of Balden Dorje (dPal-ldan rDo-rje) a noted Mongolian military leader, to check the movement of Ja Lama. The troops expected to meet with a strong resistance and advanced carefully in order not to alarm the enemy's posts. Balden Dorje decided to take the fortress by stratagem, instead of storming it. Leaving his troops encamped some two days' journey from the fortress of Ja Lama, Balden Dorje and a soldier rode to the camp. They pretended to be pilgrims and requested to be allowed to present a ceremonial scarf to Ja Lama. For some reason they were allowed to appear before him. They met him in a Mongol tent pitched in the courtyard of his castle. Balden Dorje approached the lama with a ceremonial scarf and shot him with a pistol hidden beneath it. Ja Lama fell dead. His followers were unable to offer resistance, for Ja Lama, in common with many other Asiatic leaders, kept all the arms and ammunition in his tent and distributed them to his followers only when needed. The tent with the arsenal was held by Balden Dorje and his companion, and the panic-stricken followers had no choice but to submit or disperse.
 
@@ -3429,7 +3429,7 @@ Ja Lama's head was cut off and carried on a lance to Uliassutai, where it was ex
 
 It was difficult to recognize in the weathered black remnant the head of the strong man of Mongolia. A broad face, with prominent cheekbones and a flat nose. A rather dark skin and cropped white hair --- such was the likeness of Ja Lama at the time of his death. The Mongolian Scientific Committee possesses a portrait of Ja Lama, executed by his court painter. The portrait depicts a middle-aged man of robust build,
 
-**234 TRAILS TO INMOST ASIA**
+<a id="234">**234 TRAILS TO INMOST ASIA**</a>
 
 attired in a gorgeous coat. Ja Lama was fond of gorgeous attire and has often been seen dressed in a European uniform underneath a Mongolian coat which he used as an overcoat. The man is dead, but the memory of him still lives among the nomads of Mongolia.
 
@@ -3449,7 +3449,7 @@ Our camp on the plateau was found untenable for two reasons; during the rains th
 
 Shih-pao-ch'eng is a vast oasis, that stretches north of the Tsagan Chuluta. It is a vast depression situated in a gravel plain stretching toward the barren mountain ridges that encompass the plain from south and north, leaving a gap open toward the village Ch'ang-ma, situated west of the plain. The oasis itself is a series of swamps situated along the banks of the river, which is fed by many subsoil springs. The numerous Mongol encampments or *ails* were situated on patches of firm, dry ground along the banks of the main river channel. In the
 
-**238 TRAILS TO INMOST ASIA**
+<a id="238">**238 TRAILS TO INMOST ASIA**</a>
 
 summer the oasis is covered by fine grazing, which grows on the saline grounds of the river terraces.
 
@@ -3459,7 +3459,7 @@ The oasis and the mountain grazing grounds belong to the Kurluk Mongols. Local M
 
 After an hour's conversation, we settled the question of camels for the future caravan. The headman agreed to hire his camels as far as Nag-chu, the first Tibetan village on the northern caravan route. He told me that they had received disquieting news from Teijiner in southern Tsaidam, where bands of armed Goloks or Panags had attacked and plundered the Mongol encampments in the valley of the Neiji River. He insisted on the necessity of having with the caravan a large detachment of men-at-arms and proposed to supply them. He also informed me that since last year, his Prince had received a request from Lhasa not to allow any European travelers to proceed there. This order had nothing to do with us, for we were in possession of Tibetan passports and letters of introduction and were even accompanied by a Ti-
 
-**239 AMONG THE TSAIDAM MONGOLS**
+<a id="239">**239 AMONG THE TSAIDAM MONGOLS**</a>
 
 betan government servant, deputed by the Tibetan representative in Urga, to escort the expedition to Tibet.
 
@@ -3475,7 +3475,7 @@ One evening we suddenly saw our Tibetan guide riding toward the camp on a fine b
 
 Portniagin soon left us for a trip to Ch'ang-ma and Su-chou in the Kansu Province. Besides the buying of provisions he was intrusted with the sending and receiving of cables from America. He remained absent for fully two weeks and returned with a pair of fine horses, only to be
 
-**240 TRAILS TO INMOST ASIA**
+<a id="240">**240 TRAILS TO INMOST ASIA**</a>
 
 sent again to Ch'ang-ma to buy pack mules for the expedition. We had decided to have a mule detachment in our caravan to transport the camping outfit.
 
@@ -3503,7 +3503,7 @@ EXPEDITION CAMP AT SHARAGOLJI
 
 THE CHIEF LAMA OF THE TSAIDAM MONGOLS
 
-**241 AMONG THE TSAIDAM MONGOLS**
+<a id="241">**241 AMONG THE TSAIDAM MONGOLS**</a>
 
 would have to inform his ruling Prince of his conduct. This threat had the desired effect, for on the next day we obtained our forty-two camels.
 
@@ -3513,7 +3513,7 @@ Next day we were unable to continue our journey. Mrs. Roerich felt indisposed an
 
 During the day I made a brief excursion up the mountain valley in the direction of the pass. The slopes of the mountain were covered with turf and the hares (*Lepus tolai*) were very numerous. A little farther up from our camp the valley branched; one way led directly to the
 
-**242 TRAILS TO INMOST ASIA**
+<a id="242">**242 TRAILS TO INMOST ASIA**</a>
 
 pass, the other struck south and was sheltered by high mountains. In the upper part of this second valley lay another pass, difficult of access and therefore only seldom used.
 
@@ -3521,7 +3521,7 @@ On June 22, Mrs. Roerich having completely recovered, we ascended the pass on a 
 
 The night was bitterly cold and water froze inside the tents. During the day we made a brief excursion into the valley of the river, which rose in the Gurbun-daban Mountains and flowed toward the northeast. In June the volume of water carried by the river was insignificant. It was said to increase considerably in the rainy period, that is in July and August. The day before our departure, the water in the river suddenly became muddy --- a sign of a snow or rainfall in the mountains. We observed wild asses or *kyangs* and flocks of turpans on the river banks. A hunting party was organized and after a two hours' absence from the camp returned with two fine *kyangs*. The meat of the animals
 
-**243 AMONG THE TSAIDAM MONGOLS**
+<a id="243">**243 AMONG THE TSAIDAM MONGOLS**</a>
 
 was surprisingly palatable and from then on often appeared on our table.
 
@@ -3535,7 +3535,7 @@ Next day I rode off to reconnoiter a new place for our camp. The river proved to
 
 In this camp we had to spend six weeks waiting for the beginning of the camel caravan season. Portniagin, who had returned from Ch'ang-ma with twenty mules for our caravan, left again for Mahai in
 
-**244 TRAILS TO INMOST ASIA**
+<a id="244">**244 TRAILS TO INMOST ASIA**</a>
 
 Tsaidam to buy camels for the journey to Tibet. I shall not describe the life of our camp day by day. Most of the days were spent in excursions in the neighboring mountains. The Hungu Mountains were famous for gold diggings carried on by Chinese peasants, who came every summer to spend a couple of months in the river gorges of the mountains, washing the auriferous sand. During their stay they lived in caves, excavated in the flanks of the mountains, and carefully avoided contact with local Mongols, who viewed with suspicion the activities of the gold diggers.
 
@@ -3547,7 +3547,7 @@ On July 28 we were unexpectedly joined by Colonel N. V. Kordashevski, who had be
 
 In the evening of the same day our camp was almost carried away by a terrific flood. Several days before, we heard a strange noise in the mountains and local Mongols told us that heavy rains were falling in the mountains. In the evening of the 28th the noise suddenly became louder and before we were able to realize what was happening, the tiny brook was transformed into a mighty stream and rushed through our camp carrying with it tents and camp furniture. We were all sitting in Mrs. Roerich's tent, talking to Colonel Kordashevski, when suddenly we heard the loud shouts of the doctor; "Water, water!" The cry was followed by a terrible crash, as if a thunderstorm had struck the camp. We all rushed outside and saw our kitchen tent, dining tent, and my own tent, carried away by a flood that in a few minutes had excavated a deep and broad channel. We all rushed to the rescue of our tents, and spent about two hours waist deep in the water, fighting the rushing stream. Thanks to the untiring zeal of the expedition personnel, most of the baggage and all three tents were saved. Many minor objects were carried down the stream and buried deep in sand.
 
-**245 AMONG THE TSAIDAM MONGOLS**
+<a id="245">**245 AMONG THE TSAIDAM MONGOLS**</a>
 
 After three hours the water suddenly subsided and the brook became again a small stream of muddy water. But the landscape had changed completely. The patches of green grass in front of our camp, on which we grazed our horses and mules, were covered by a thick layer of sand. The stream had excavated a deep channel in the sand slope and lakes were formed in the valley. The river Shara-gol had flooded the valley and carried away many Mongol encampments, cattle, and sheep. The Mongols assured us that they did not remember another flood of such violence and many had lost all they possessed.
 
@@ -3557,7 +3557,7 @@ On the 9th of August the expedition camp was unexpectedly visited by a Chinese o
 
 On the arrival, the *t'ung-shih* and his escort were politely but firmly told that they must dismount from their horses and that the soldiers must wait outside the camp, guarded by several of our armed men. The
 
-**246 TRAILS TO INMOST ASIA**
+<a id="246">**246 TRAILS TO INMOST ASIA**</a>
 
 official and his men were greatly staggered by our firm attitude and submitted to our demands. The soldiers remained outside and the *t'ung-shih*, accompanied by me, proceeded to our camp, where he was met by Professor Roerich and the rest of the expedition members. He was offered a seat in the tent, facing the open entrance, which enabled him to see what was taking place outside. Every time he looked through the entrance a band of our men would march or ride past. The movement of armed men was kept up all during the visit of the Sining official. He got an impression that we had at least two hundred men under our command and whispered to his aid that we were too strong. He examined our passports and found them correct. During the lengthy negotiation that followed, the *t'ung-shih* inquired about our future route and finally delivered to us a certificate, permitting us to carry our baggage through territory belonging to the Governor of Sining.
 
@@ -3565,7 +3565,7 @@ The southern border of the Sining or Ch'ing-hai district was at Jyekundo in Tibe
 
 A few days before our departure a strange occurrence caused considerable excitement among the Mongol personnel of the expedition. It was a beautiful evening and the broad valley of Shara-gol was plunged into the deep violet mist of the setting sun. The summits of the jagged mountain wall on the farther side of the river shone brilliantly in sharp contrast to the dark shades of the valley. It was a typical sunset picture of central Asian highlands, which never fails to strike the traveler with the richness of its color. The sandy plain in front of the expedition camp lay deserted and the Mongol herds had moved toward their encampments. Suddenly a horseman appeared in the distance. He rode fast and his mount, a fine type of Mongol horse, showed signs of fatigue. He was evidently coming from afar. He rushed into the camp and requested to be allowed to speak to the leader of the expedition in a
 
-**247 AMONG THE TSAIDAM MONGOLS**
+<a id="247">**247 AMONG THE TSAIDAM MONGOLS**</a>
 
 closed tent. Questioned by the sentry on duty, he refused to give his name, and the object of his mission. The mysterious stranger was a young man, dressed in a gorgeous silk and golden brocaded costume. Never again did we see a man so splendidly attired. He seemed to have stepped out of an ancient Tibetan painting of royal donors presenting their offerings to Buddha, the Lion among Men. One has to be careful in inner Asia nowadays. The man might have been a leader of a brigand band, who came to spy on the forces of the expedition. Local bandits are known to use tactics like this. We decided, however, to give him a chance to speak to the leader and led him to the tent.
 
@@ -3577,7 +3577,7 @@ On August 18 the leader of the expedition made a final inspection of our loads a
 
 On the northeast of Tibet lies a vast stretch of country for the most part covered by desert. This desolate region, intensely hot in summer and as cold in winter, bears the Tibetan name of Tsha-dam, that is "salt marsh," better known in its Mongol form Tsaidam. This dreaded salt marsh stretches for more than 200 miles from west to east, with an average elevation of 8,000 feet, forsaken by animal life, a land of unapproachable salt lakes and bottomless salt pits, engirded by quicksands and ridges of sand dunes. On the west it borders upon an elevated des-
 
-**248 TRAILS TO INMOST ASIA**
+<a id="248">**248 TRAILS TO INMOST ASIA**</a>
 
 ert plateau called by local nomads Serthang. On the east it gradually rises toward the higher plateaus of Koko-nor. Toward the north and south barren and wind-eroded mountain ridges form its natural boundaries. To the north is a succession of mighty mountain ranges belonging to the Nan Shan Mountain system, to the south a mountain country gradually rising toward the great highlands of northern Tibet. Scanty vegetation exists in the river valleys. The rest of the region, the mountain slopes and the vast loess and gravel-covered plains, are characterized by desert flora common to the central Gobi. This uninviting country with scanty pasture grounds, is inhabited by Mongol tribes, the Khoshuts, who swept over the region in the beginning of the seventeenth century A.D. when the intrepid Bogdo Gushi Khan (a Mongol rendering of the Chinese title *kuo-shih*) carried his arms to the Koko-nor and to Lhasa and deprived the last king of Tsang of his throne, thus establishing the hieratic rule in Tibet.
 
@@ -3587,7 +3587,7 @@ Administratively the whole of Tsaidam forms a part of the Koko-nor District or C
 
 I. *The Meng-ku-yu-mu-chih*, published in 1867.
 
-**249 AMONG THE TSAIDAM MONGOLS**
+<a id="249">**249 AMONG THE TSAIDAM MONGOLS**</a>
 
 Mohammedan General of Sining, who still retains his authority over the large district.
 
@@ -3597,7 +3597,7 @@ In 1926 a *t'ung-shih* from Sining, who paid his annual visit to the Kurluk Mong
 
 Living in close proximity to the Tibetan tribes of the mountains, the Mongols adopted many of their customs, their costume and sometimes even their language. The true Mongol type of strong physique is found among the Khoshut Mongols of Kurluk, who preserved to a greater extent their native tongue and customs. On the south of the great salt marsh of Tsaidam, in the Teijiner district, there is a type of Mongol of slight build and more delicate features --- a mixed race of Amdo-was, Panags, and Khoshuts. To the east of Tsaidam, in the country round Koko-nor, the Khoshut Mongols are gradually being overpowered by the more virile races of Goloks and Panags, who are the indisputable masters of the mountain country south of the Koko-nor. This continuous pressure exercised by the warlike Tibetan tribes, their summer raids and the frequent punitive expeditions undertaken by the Mongols into the neighboring mountains, deeply affected the character of the Mongols and made a lasting imprint on the spiritual and everyday life of the nomads. Attired in his semi-Mongol-semi-Tibetan costume trimmed with fur, with the pointed hat of the Panags or the Tibetan turban, with Tibetan sword and magazine rifle of a foreign make, the
 
-**250 TRAILS TO INMOST ASIA**
+<a id="250">**250 TRAILS TO INMOST ASIA**</a>
 
 Tsaidam Mongol guards his cattle under the ever present danger of a robber raid by Tibetan nomads. The passes leading across the mountains south of Tsaidam have to be continuously watched and the tribal organization provides for militia patrols to scout the slopes of the mountains and the gorges.
 
@@ -3611,7 +3611,7 @@ These Kurluk Mongols are ruled by a hereditary Prince with the Chinese title of 
 
 The Kurluk Mongols have to pay to their Prince an annual tax of
 
-**251 AMONG THE TSAIDAM MONGOLS**
+<a id="251">**251 AMONG THE TSAIDAM MONGOLS**</a>
 
 ten Mexican dollars per tent, and supply the necessary contingents for the tribal militia. Besides this, they have to supply riding and pack animals to all the state officials and other persons authorized to use animals on relay stations. The people are not allowed to pay their annual tax in cattle, and this is a source of great difficulties for the nomads who are always short of silver. In order to realize some money, they have to sell horses, camels, and sheep at very low prices. The Chinese traders, who usually visit the country during the summer, are well aware of this urgent need of silver and make huge profits by buying cattle and products of the nomad households at ridiculously low prices. The Mongols understand their hopeless position very well and this makes them hate their Chinese rulers. This squeezing of the country of all its natural products attained tremendous proportions in outer Mongolia and was one of the chief causes of the Mongol revolt of 1911 following the proclamation of the Chinese Republic.
 
@@ -3619,7 +3619,7 @@ The second obligation toward their Prince, is the military service for all men c
 
 The hillmen of northeastern Tibet became a much more formidable foe and the troops of the Mohammedan General of Sining have a very hard time on the border in keeping the always turbulent tribes from raiding the cultivated areas south of Sining. Ammunition is still very scarce among Tsaidam Mongols and good rifle ammunition of foreign make is highly valued and big prices are offered. Most of the ammunition is Chinese-made and is very unsatisfactory.
 
-**252 TRAILS TO INMOST ASIA**
+<a id="252">**252 TRAILS TO INMOST ASIA**</a>
 
 The Prince is considered to be the chief commanding officer of the tribal militia and is styled *Tserig-in Jan-jun*. The whole force is divided into squadrons or *sumun*, commanded by local headmen --- *dzangins*. In the exercise of their military authority, each headman is assisted by a militia chief, who is in direct control of the men. The militia receives no military training whatsoever. There is an annual muster of the militia in July, when prizes are given for the best horsemanship and marksmanship. Each squadron has a standard or flag, a red triangle, fixed at its base to a long staff.
 
@@ -3629,7 +3629,7 @@ This mounted militia has almost no military value, unless trained by European in
 
 The Kurluk Mongols, as all the Tsaidam Mongols, are essentially a cattle-breeding tribe. Cattle is the chief article of export and quantities of horses, camels, and sheep are annually sold to the Chinese traders. The Tsaidam horse is usually a well-built animal of about, twelve hands and his only serious defect lies in its fragile hoofs. The animal is bred on the soft saline ground of Tsaidam and is quite unsuitable for long marches on hard, stony grounds. For this reason all travelers to Tibet try to get Tangut horses or Sining ponies, a hardy breed, invaluable on long distances. The horses coming from Serthang are better adapted for stony roads. The Tsaidam camel in comparison to the north Mongolian camel is of a slight build and its carrying capacity is much smaller when compared with that of the northern camel. The animal has the great advantage of standing the rarefied air of the mountains
 
-**253 AMONG THE TSAIDAM MONGOLS**
+<a id="253">**253 AMONG THE TSAIDAM MONGOLS**</a>
 
 well, and is therefore employed for carrying merchandise on the northern trade route to Tibet. Especially fine are the camels from the mountain districts of Ch'ing-hai. A Tsaidam camel crossed the whole of Tibet with the Roerich Expedition and safely reached Gangtok in Sikkim after ten months of exceptional hardships.
 
@@ -3643,7 +3643,7 @@ The Mongols seldom visit An-hsi or Su-chou; most of the trade is carried on by C
 
 Whenever their Mongol customers propose to make payment, they try their best to postpone the payment of the debt and continue to collect the interest in cattle, which they sell on the big cattle markets of
 
-**254 TRAILS TO INMOST ASIA**
+<a id="254">**254 TRAILS TO INMOST ASIA**</a>
 
 Kansu. Each bargain ends in drunkenness, the drunken Mongol wallows on the floor of the tent, and the Chinese counts the profits of his lucrative trade. Sometimes fate turns against them and infuriated Mongols burn their tents with all the merchandise, but such storms very seldom happen, for the Chinese traders proceed with their business very cleverly, adopting the costume and habits of the Mongols, making offerings to lamaseries and continuously telling their beads. They usually pay a small interest for their trade to the local headman and thus secure his protection.
 
@@ -3655,7 +3655,7 @@ Some of the headmen and wealthy Mongols who possess large herds of camels hire t
 
 The Kurluk Mongols live in Mongol felt tents which are generally somewhat smaller than those of the Khalkha Mongols, which are covered with felt of a much inferior quality. The interior of such tents usually consists of heaps of old household rubbish piled all along the walls. Near the wall opposite the entrance stands a kind of altar with offering lamps burning day and night before the images. The images are almost hidden under ceremonial scarfs or *khatag* which hang from their shoulders. In the tents of rich Mongols one sometimes finds copies of the *Känjür* and *Tänjür*, usually of the Derge print, which is far superior to that of Narthang in Tibet proper. The images usually come
 
-**255 AMONG THE TSAIDAM MONGOLS**
+<a id="255">**255 AMONG THE TSAIDAM MONGOLS**</a>
 
 from Derge, or the Wu-t'ai Shan in Shan-hsi. Some of them are of very high craftsmanship.
 
@@ -3667,7 +3667,7 @@ The Tsaidam Mongols, generally speaking, erect permanent structures. At the Oasi
 
 The national attire of the Tsaidam Mongols compares favorably with
 
-**256 TRAILS TO INMOST ASIA**
+<a id="256">**256 TRAILS TO INMOST ASIA**</a>
 
 the national costume of other Mongol tribes. There is something dignified about a Mongol walking or riding his horse, something that reminds one of our own Middle Ages. The costume consists of a shirt with a turned down collar. The shirt is red, blue, or yellow, but rarely white. The collar and the sleeves are trimmed with fur. The trousers are broad, blue or brown, of the common Sino-Mongolian style. A large, heavy coat trimmed with leopard fur or lynx is usually worn. In summer it is a light coat called *kemelik*, in winter a fur-lined one. Blue and red seem to be favorite colors. Mongol leather boots and numerous heavy charm boxes or *ga-u* complete the attire. The headdress consists of a small white felt hat with brim turned upward and edged with a narrow strip of silk brocade. Long Tibetan swords and daggers of Derge make, richly inlaid with coral and turquoise are always carried by the men. A Tsaidam Mongol is very fond of arms. When entering the tent of a friend, the arms are always left behind at the entrance.
 
@@ -3675,7 +3675,7 @@ One seldom meets good craftsmen among them. All the work is usually done by Chin
 
 The Mongols very seldom sing and the number of their songs is rather small. The chief occasions for singing are marriages and the New Year festivities. The themes are poor, as most of the Mongol songs are improvisations for the occasion. The songs are about the horse of the singer, his family, and cattle. More numerous are the religious songs of an edifying character, in which are sung the beauty of the monastery and the wise words of the *baksha* or spiritual teacher. There is one interesting complaint of a Mongol who went soldiering in a distant land.
 
-**257 AMONG THE TSAIDAM MONGOLS**
+<a id="257">**257 AMONG THE TSAIDAM MONGOLS**</a>
 
 Historical ballads are very rarely heard. I succeeded in writing down portions of a ballad about Bogdo Gushi Khan, his youth and his conquest of Tibet. The ballad is purely descriptive and lacks action.
 
@@ -3695,7 +3695,7 @@ Next day we broke camp early and resumed our march up the mountain gorge. At the
 
 The pass, situated at an altitude of some 17,000 feet was not difficult and we crossed it without leaving behind a single animal. From its summit opened a wide panorama of mountains and rocky crags, covered here and there by patches of snow. The descent was gradual and led into a broad sandy valley, covered by scant grass. After a long march across the plain, which seemed endless, we reached the bank of the Ikhe Khaltin-gol and crossed one of its channels. The camp was pitched on a level patch of ground situated between the two channels
 
-**262 TRAILS TO INMOST ASIA**
+<a id="262">**262 TRAILS TO INMOST ASIA**</a>
 
 of the river. We were obliged to stay a whole day in the river valley, because of our camels which reached the camp only late at night. The valley was surrounded by a high mountainous country. Southeast of it lay the vast snow fields of Chakhalda. Its southern rim was formed by low ridges, known under the name of Urge-daban ula, which merged into the Chakha-daban ula Mountains. Toward the southwest the mountains known to the natives by the name of Tsagan-obotu rose imperceptibly. All these ridges forming the southern rim of the river valley were branches of the southern Koko-nor Ridge.
 
@@ -3705,7 +3705,7 @@ On August 23 we crossed the river and passed through a succession of sandy hills
 
 In the night the thermometer registered -2°C. before sunrise and the brook was covered by a thin crust of ice. Beyond the camp the path followed the same gorge, which narrowed approaching the pass. The ascent to the pass was easy. The summit was marked by a stone cairn and the scenery was full of intrinsic beauty. Everywhere rose high, precipitous, jagged rocks. Below were the deep blue shades of a mountain valley not yet lit by the sun, and above, the purple and red colors of granite and sandstone mountain walls that sheltered the valley. On the summit of the pass, we met a Khalkha Mongol who used to be a frequent visitor to our camp in Sharagolji. He was returning from a trip to Kurluk-nor and wished us success on our long trek across Tibet. The descent from the pass was short and led into a narrow mountain valley.
 
-**263 ACROSS TSAIDAM**
+<a id="263">**263 ACROSS TSAIDAM**</a>
 
 the bottom of which was thickly covered with bowlders and gravel. On both sides rose wind-eroded rocks and so-called "spongy stones." After a two hours' ride, the valley widened, the hills retreated to the background and the trail crossed sandy tracts covered by shrubs of *kharmik*. We halted at a place called Arshan-bulak, situated in a gorge of sandstone. The brook flowed through the middle of a large river bed. On the map of the Russian General Staff the place is called Mu-bulak, "The Bad Spring," but since 1904 when His Holiness the Dalai Lama halted at this brook during his flight to Mongolia, the place became known under the name of Arshan-bulak, "The Holy Spring." Arshan-bulak is situated at an altitude of 12,040 feet.
 
@@ -3715,7 +3715,7 @@ For some time the trail followed the gorge, through which flowed the rivulet iss
 
 The *nyer-wa* ("commercial agent") did not arrive and we decided to stay a couple of days on the river banks and buy some camels. It is interesting to note that the local Khoshut Mongols, who call themselves Ded-Mongols, call the region round the great salt lakes of Ikhe-Tsaidam and Baga Tsaidam "Tsaidam." The region round Kurluk-nor is known under the general name of "Gobi," according to the character of the region. The salt desert marked Tsaidam on our maps is commonly known by the name of "Shala" or dead desert. The Teijiner district is usually called "Teijiner" and the name "Tsaidam" is seldom applied to it.
 
-**264 TRAILS TO INMOST ASIA**
+<a id="264">**264 TRAILS TO INMOST ASIA**</a>
 
 The Tibetan *nyer-wa* arrived on the 29th of August. He was accompanied by the Mahai *teiji*, a local noble from Mahai, who brought with him five fine camels and several horses for sale. We were obliged to buy the five camels at the high price of eighty Mexican dollars (about $40) each.
 
@@ -3725,7 +3725,7 @@ We left Ichi on August 30. Having crossed the river, the trail led across a vast
 
 Our next march was a short one. The day promised to be warm and we broke camp early in order to cover the distance during the cool morning hours. The trail followed the northern shore of the lake. The ground was strongly saline and in some places swampy. Numerous Mongol encampments were situated at places where there were springs of fresh water. After a march of some six miles we reached a collection of mud-built hovels called *Tsaidam-in baishin* or "The House of Tsai-
 
-**265 ACROSS TSAIDAM**
+<a id="265">**265 ACROSS TSAIDAM**</a>
 
 dam." The place was said to be the administrative center of the lake district. The village consisted of a one-story *du-khang* or assembly hall for the monks, who gathered here during festivals, of several storehouses belonging to local Mongols and two or three houses occupied by Chinese traders from Sining. We met here some old acquaintances, the *nyer-wa* ("treasurer") of the Kumbum Monastery who had once visited us at Sharagolji and the Mongol headman of the Ikhe-Tsaidam who was here to offer us some camels for sale. We bought from him a pair of fine young camels. During the day we were visited by a Mongol *geshe* or learned lama, who was returning from Lhasa to his native monastery of Dzain Shabi in Khalkha Mongolia. He boasted of being a close friend of the Dalai Lama, and ended his visit by selling us one of his horses for the moderate price of forty Mexican dollars. In the afternoon we were forced to remain in our tents because of a strong wind, that blew dense clouds of sand dust.
 
@@ -3735,7 +3735,7 @@ Not far from our camp was a stone throne of the Dalai Lama, who passed here in 1
 
 During the night some of our horses were scared by *kyangs* or wild asses and stampeded toward the Ikhe Tsaidam-in-nor. A search round the Baga Tsaidam proved fruitless and two of our Torguts rode off to Ikhe-Tsaidam. The caravan made only a short march and halted again on the southwest shore of the lake. Close to the camp we discovered a brook of fresh water. Our runaway horses reached the camp only late in the afternoon and in such an exhausted condition that we decided to stay another day at the lake and to send our camel caravan ahead, to give it time to cross the salt desert of central Tsaidam. Because of a total absence of fresh water on the way, horses and mules could cover the distance only in one non-stop march. To halt for the night meant the
 
-**266 TRAILS TO INMOST ASIA**
+<a id="266">**266 TRAILS TO INMOST ASIA**</a>
 
 loss of most of the animals, who suffered terribly from the salt evaporations of the ground. The camels which could stand the absence of water for at least three days, could travel more leisurely.
 
@@ -3749,7 +3749,7 @@ About noon we halted at the last brook of fresh water, flowing from a gorge in t
 
 Our camels had left us the day before and we were traveling now with only a light column of horses and mules carrying the camp outfit and some of the necessary supplies. Our temporary camp was visited by two Teijiner Mongols who came from across the desert. Their costumes with red turbans were the same as those of the Kurluk Mongols, but the features of the two men were quite different and they recalled the nomads of northeastern Tibet. They communicated to us the bad news that the brook of fresh water at Olun-bulak on the other side of the desert had dried up and that we would have to go to Koko-aral, a place
 
-**267 ACROSS TSAIDAM**
+<a id="267">**267 ACROSS TSAIDAM**</a>
 
 farther away, in the territory of Teijiner Mongols. The men were very excited about the recent fighting on the Sino-Tibetan border and related in detail a fight that had taken place only two weeks before.
 
@@ -3757,7 +3757,7 @@ At five o'clock in the afternoon the signal was given to start and everyone sadd
 
 At sunrise we were again on the march. To the south rose the Neiji-Andak Mountains, the northern buttresses of the great Tibetan uplands. The day proved to be very hot and our tired animals could hardly move their feet. We had to walk considerable distances. About noon we decided to halt among shrubs of juniper. Mrs. Roerich again had a slight heart attack which always came during hot days. Our Colonel continued the march in order to rejoin the camel caravan which was probably camping somewhere south of us. At six o'clock in the evening we resumed our march. The landscape changed and we rode past a thick jungle of juniper shrubs. Splendid pastures covered the saline ground. It became dark so suddenly that we almost lost our direction. Three lights high above the ground attracted our attention, but we could not tell what they were. Could it possibly be a Mongol encampment? Suddenly we saw emerging from the darkness the tall figure of our Colonel. He had arranged these lights in order to guide us to the camp, which was pitched on the banks of a small stream, the Jal-tsen-gol. We
 
-**268 TRAILS TO INMOST ASIA**
+<a id="268">**268 TRAILS TO INMOST ASIA**</a>
 
 decided to remain in camp for the next day and give our animals a good rest.
 
@@ -3791,7 +3791,7 @@ A TSAIDAM MONGOL
 
 TSAIDAM MONGOL WOMAN
 
-**269 ACROSS TSAIDAM**
+<a id="269">**269 ACROSS TSAIDAM**</a>
 
 patrols of the presence of Golok bands in the valley and Mongol militia was ordered to fight the invaders. The Mongols were superior in numbers but the Goloks put up a brave resistance and three Mongols lost their lives in the fight. The Goloks lost six men and several horses. The dead bodies were still lying near the road and the local Mongols apprehended a Golok punitive expedition.
 
@@ -3801,7 +3801,7 @@ We pitched our camp on the bank of the Bure-yin-gol. Several Mongols passed us c
 
 The next day we made a short march of some seven miles along the Bure-yin-gol. The trail followed the bank of the river and sometimes ascended the river terraces. We passed several barley fields cultivated by Teijiner Mongols and several Mongol women and men on horseback, carrying spades. We camped on the bank of the same river which sud-
 
-**270 TRAILS TO INMOST ASIA**
+<a id="270">**270 TRAILS TO INMOST ASIA**</a>
 
 denly broadened and whose channel occupied the bottom of a flat canyon-like valley.
 
@@ -3809,7 +3809,7 @@ On September 9 we started late in the afternoon, at about six o'clock, in order 
 
 We passed on the way three dead bodies of Mongols and two horses. One of the bodies had a large sword wound in the head and the other two apparently died from bullets. One of the horses had a huge slice cut from the. side and the other was shot through the head. The men's bodies were stripped of their clothes and ravens had picked out their eyes. It was a gruesome sight and our Mongols were visibly oppressed by it, except the Torguts who cold-bloodedly examined the bodies and remarked on the way that each of the men had found his death. We were told that farther ahead lay six bodies of dead Goloks and I was particularly anxious to see them in order to ascertain their tribes. Our search for these six bodies proved fruitless. It was dark, and perhaps the Goloks had carried their dead away, as is their custom. The sandy surface of the plain still bore traces of a violent fight; it was covered with hoofprints of galloping horses. Examining these traces one could easily tell the story of the fight. The Goloks hid themselves behind small hillocks and from there attacked the approaching Mongol mili-
 
-**271 ACROSS TSAIDAM**
+<a id="271">**271 ACROSS TSAIDAM**</a>
 
 tia. A fight followed and three Mongols, whose bodies we had seen, were killed. Then the militia countercharged the Goloks and there was a short cavalry fight, after which the Goloks galloped away toward the mountains, and the Mongol militia pursued them.
 
@@ -3819,7 +3819,7 @@ Next morning we started again, tired as we were after an almost sleepless night.
 
 At the time of our passage the Shuge-yin-gol was a river flowing between high banks and had a large volume of water. It rises in the Shuge-yin ula, southeast of the Neiji Valley. Along the course of the river passed a route to Sining, often used by robber bands of Panags or Goloks. From the Shuge-yin-gol we crossed a low, sandy spur with enormous masses of *debris* that swept into the river and we again descended into the valley of the Neiji River. We camped on a grassy spot with some willow brush called Sain-tohoi or Nogon-tohoi (the Tsagan-tohoi of Prjevalski and Rockhill). This seemed a favorite camping ground for caravans for we found many fireplaces and abundant camel and yak dung.
 
-**272 TRAILS TO INMOST ASIA**
+<a id="272">**272 TRAILS TO INMOST ASIA**</a>
 
 The Mongol guide advised us to keep strict vigil during the night and following his advice, I spent the whole night on the river terrace above the camp, watching the trail coming from the Shuga Valley. A strong guard was also placed with the horses and mules. The camels were as usual tied to picket ropes. The Golok robbers almost never steal camels, for it is difficult to get away with them. They usually drive away horses and mules. A good protection against horse thieves is to cut the horses' tails. According to the central Asian nomads, a horse with a short tail is an ignominious thing and a man who would have to ride such a creature would feel himself dishonored. I know of a case in Mongolia, when a band of horse thieves attacked a drove of horses belonging to a Russian merchant. The best horses in the drove had their tails cut in cavalry fashion and the thieves did not touch them but drove away all the other horses with long tails and manes!
 
@@ -3829,7 +3829,7 @@ Having passed the cornice of Koko-tono Cliff, we crossed a succession of low, sa
 
 Approaching our camping place, Mrs. Roerich suddenly noticed some camels and men in the bushes. The Colonel and I went at once to reconnoiter the neighborhood. We expected to meet some travelers or herdsmen but to our astonishment the men moved away and we found fireplaces, which apparently had been deserted only a few hours before. Who were the men? Travelers or herdsmen, or perhaps robbers spying upon us? We pushed a reconnoitering party along the river banks and searched the willow overgrowth, but without success. On the river silt,
 
-**273 ACROSS TSAIDAM**
+<a id="273">**273 ACROSS TSAIDAM**</a>
 
 close to the banks of the river, we discovered some fresh hoofprints. The horses were not shod and the riders apparently forded the river. We decided to double the night sentries and formed a plan to protect our camp in case of a night attack. Toward evening another reconnoitering party was mustered, which searched the surrounding country, but without result.
 
@@ -3839,11 +3839,11 @@ At our camping place we again discovered fresh fireplaces, abandoned a few hours
 
 On September 13 came the expected clash. It was a dull day and heavy gray clouds hovered over the mountains. The caravan trail followed the right bank of the Neiji River. Amid drifting clouds, mist and towering mountain summits, we could from time to time see the snowy peaks and glaciers of the Marco Polo Range. This day the column of
 
-**274 TRAILS TO INMOST ASIA**
+<a id="274">**274 TRAILS TO INMOST ASIA**</a>
 
 the expedition marched in the usual order; ahead of the column, a small vanguard under European command; then the leader with the rest of the European members and several Mongols of our convoy; next came the mule detachment with light baggage and munition cases. The mules were followed at some distance by the heavy baggage column on camels in three detachments. The camel column was protected by several armed horsemen and was in charge of one of the Europeans. As soon as we had reached the northern slope of the Elisu-daban Pass, the place mentioned by the mysterious lama at Sharagolji, we suddenly noticed a detachment of horsemen dash across the trail toward the plateau to the left of our route. Who were they? Were they trying to outflank us? Many questions flashed through the mind but there was no time to think. The horsemen were coming toward us at great speed and the dry ground of the plateau resounded under the hoofs of their horses. All were armed with modern rifles and swords and some carried lances. Our Mongol guide, pale, and widely swinging his arms, dashed backward toward the river. His last words were *"Arangan, arangan"* --- robbers! He was the only one to abandon his post; the rest of the men showed an unusual courage. The clash seemed inevitable. The leader ordered us to occupy a firing position on the crest of the hill. The vanguard which covered the maneuver of the rest of the column was recalled to the main force. Everyone occupied his position and one heard the loading of rifles. On our left flank our mounted Torguts prepared to outflank the enemy. Loud war cries resounded in the air. An intense moment, when all the inner forces of a man were strained to the utmost. "At three hundred yards, we fire!" shouted our Colonel, commanding the fighting force of the expedition and everyone prepared to press the trigger at the signal. But the enemy riders seemed to waver. A few moments more, and they stopped in a compact mass. We saw the swords thrust into the scabbards. Several of them dismounted and they began to talk among themselves. Our resolute attitude made the brigands realize that they were dealing with a strongly armed caravan and a cavalry charge in open country would result in considerable loss to them. They accordingly stopped and sent men to talk the matter over. We advanced and as a precautionary measure, our riders surrounded the brigand detachment. Never before did we see such inhuman, brutal faces. Most of the brigands were young men armed with swords and modern rifles. An old man with a gray beard was the leader
 
-**275 ACROSS TSAIDAM**
+<a id="275">**275 ACROSS TSAIDAM**</a>
 
 of the band. They admitted their intention. The superiority of our firearms made them change their mind.
 
@@ -3857,7 +3857,7 @@ We took all necessary precautions on this march to the Neiji Pass. Our scouts oc
 
 Near the summit one of our reconnoitering parties came across a
 
-**276 TRAILS TO INMOST ASIA**
+<a id="276">**276 TRAILS TO INMOST ASIA**</a>
 
 small detachment of yesterday's robbers, who were again spying upon our movements and were *en route* for the southern side of the pass. They were dispersed without difficulty and the caravan continued its march.
 
@@ -3867,7 +3867,7 @@ Our rear guard brought in the news that they had seen parties of mounted Panags 
 
 I was trying to keep myself warm by walking about the camp. Wet snow lashed the face and stuck to the eyes almost blinding one. Suddenly one of the sentries approached me and reported that a line of
 
-**277 ACROSS TSAIDAM**
+<a id="277">**277 ACROSS TSAIDAM**</a>
 
 men was crawling toward our camp. We hurried to the stream and saw on the other bank dark spots slowly moving toward us. They looked exactly like men crawling in snow. The Mongol sentries were ready to fire and it was difficult to tell them not to discharge their rifles. In order to find out who the strangers were, I decided to send out our two dogs. The dogs were accordingly brought to the spot and sent toward the moving black spots. Loudly barking they rushed across the stream and the black spots suddenly began to run. They proved to be several bears coming to the river to drink.
 
@@ -3889,7 +3889,7 @@ Our first night on the Tibetan upland passed in dead silence, everyone resting a
 
 The trail followed a mountain valley, sheltered by low hills of undulating relief. A tiny stream, called by our Mongol guides the Angar Dakchin-gol, flowed through the valley. After a long march across a sandy country, we camped on the bank of a fresh water lake, fed by summer rains. Some of our men who searched the neighborhood for fuel, reported having seen horsemen in the neighboring hills. This meant that we would have to be again on our guard, and be especially vigilant during the night. However, the night passed, quiet and windless, and we woke up the next morning to see our camp and the countryside buried under snow. Heavy gray clouds hung over the horizon and the air was damp and chilly. The snow falls seemed to have begun early this year. Leaving camp we followed a narrow camel trail across a sandy plain covered by scant coarse grass. About noon we reached the
 
-**282 TRAILS TO INMOST ASIA**
+<a id="282">**282 TRAILS TO INMOST ASIA**</a>
 
 banks of the river Chu-mar. It was shallow and flowed in several channels with swampy bottoms. We spent some time searching for a fording place and one of our Mongols, with his horse, sank deep into the river bed, and had to be rescued. After the river, the trail led over belts of sand dunes. The camp was pitched on the shores of another lake of rain water. The countryside abounded in such lakes, the presence of which indicated the heavy rainfall that the region must have received during the months of July and August.
 
@@ -3899,7 +3899,7 @@ We forded a small stream, flowing west by east, and not indicated on the existin
 
 In the evening a herd of wild yaks descended from the hills into the river valley and grazed in the vicinity of our camp. We suddenly heard
 
-**283 THE GREAT TIBETAN UPLAND**
+<a id="283">**283 THE GREAT TIBETAN UPLAND**</a>
 
 a tremendous noise of falling stones, like an avalanche --- a crash, and the dull sound of hundreds of trampling hoofs. A mass of yaks was coming down the steep slope of the mountain. In a few seconds the banks of the river were black with yaks. The superb beasts grazed on its banks and drank the fresh mountain water. The huge bulls, the guardians and leaders of the herd, stood with lowered horns, ready to charge.
 
@@ -3909,7 +3909,7 @@ Next day the trail continued toward the southwest, across sandy dunes and large 
 
 Descending toward the Hapchiga-ulan-müren River we noticed something white on the farther bank of the river, at the foot of the hills. From the distance it looked like a Tibetan tent used by officials or wealthy traders. We accordingly thought it advisable to send out a reconnoitering party ahead of us. The Hapchiga-ulan-müren River was quite half a mile wide and in the early summer was difficult to cross. The bottom was muddy and the banks were full of quicksands. On its northern bank rose a river terrace, quite some sixty feet high. At this time of the year the river was much reduced, and flowed in several rather narrow channels, separated from each other by swampy islands. The white spot on the opposite bank proved to be a huge geyser, with a crater of saline crust, fully thirty feet high. The opening of the crater was triangular. We camped for the night on a plateau, situated at the foot of the northernmost offshoots of the Dungbudra Mountains. Dur-
 
-**284 TRAILS TO INMOST ASIA**
+<a id="284">**284 TRAILS TO INMOST ASIA**</a>
 
 ing the day's march, we were forced to abandon two of our animals, a horse and a pack mule.
 
@@ -3921,13 +3921,13 @@ The day which had been fine since morning, suddenly became dull and cloudy, and 
 
 On September 24 we continued our march in a westerly direction.
 
-**285 THE GREAT TIBETAN UPLAND**
+<a id="285">**285 THE GREAT TIBETAN UPLAND**</a>
 
 Soon after leaving the camp, the trail emerged on a vast sandy plain. To the south rose the mighty Thang La --- a mass of eternal snows, one of the highest and most important ranges of Tibet. To the east of the track lay numerous salt lakes, which gave to the plain the Mongol name of Olun-nor, or "Many Lakes." The Tibetan name is Sang-jya jya-lam, for it is the junction of two important caravan routes of Tibet: the route from Tsaidam by which we were coming, and the trade route from Sining. After a two hours' march across the plain we noticed a black tent at the foot of the hills stretching south of the plain. We at once sent out a reconnoitering party, which soon returned with the report that this was an outpost of Tibetan militia. We saw a horseman leaving the tent in all haste and galloping to the southwest. Soon a group of militiamen with their chief approached the caravan, and the chief invited us to stop for the day and inquired about our passports. These were shown to him and, after a lengthy examination, the chief found them in order and promised to send a report at once to his superior, posted with a detachment of militia on the Sining route. He also said he would dispatch mounted messengers to Nag-chu announcing our arrival.
 
 The militia outpost consisted of ten men, who were all tribesmen from the Nag-chu-ka district. They were an unkempt lot, with long, matted hair and gray, almost black, sheepskin coats. Their armament consisted of Tibetan swords and matchlocks. Two of them had long Tibetan spears. The chief of the outpost wore a green Homburger hat and could write with some difficulty. He drafted a long report about us and inquired the number of our firearms and the number of riding and pack animals in our caravan. The men of the outpost were very civil and said that they had heard of our coming several weeks before. The chief of the outpost told us that mounted messengers covered the distance between Sang-jya jya-lam and Nag-chu in four days. He also informed us that the two Joint-Governors of Nag-chu had recently been changed and that at present the district was governed by the well-known Go-mang garpön, the former Tibetan trade agent at Sining. Who the new civil governor or nang-so was, they could not tell us. The militiamen told our Mongols that the trade route was closely watched and that numerous militia outposts, supported by regular troops had been stationed along the route to Lhasa. According to them, four Russians were held up at Sheng-di. These four strangers were preparing a survey of the country and came from Sining. They were negotiating
 
-**286 TRAILS TO INMOST ASIA**
+<a id="286">**286 TRAILS TO INMOST ASIA**</a>
 
 with the Lhasa Government for permission to visit Lhasa, which so far had been refused.
 
@@ -3939,7 +3939,7 @@ It took us fully one hour to cross the river, which is noted for its swampy trea
 
 There are two roads across the Dri-chu, the eastern and the western. Both are indicated on the map of Tibet. The western route shortens the journey to Thang La by one day. We decided to follow the western route. Far to the south rose the snowy mountain of Buhu-mangna, also called Thang La te-tse in Tibetan. South of it towered the snow peaks and glaciers of the main range of the Thang La. We were unable to reach Dri-chu on the same day, and camped on the bank of a tiny stream with brackish water of a most unpleasant taste. A violent wind came up soon after we had pitched our camp and hail swept across the plain. The wind abated toward sunset and the night was clear and warm.
 
-**287 THE GREAT TIBETAN UPLAND**
+<a id="287">**287 THE GREAT TIBETAN UPLAND**</a>
 
 We decided to push on toward Nag-chu as fast as we could in order to arrive there before the yearly fair, held at Nag-chu at the end of September and the beginning of October. The fair is usually preceded by religious dances in the Shab-den Monastery, and is attended by a large number of people from Lhasa, Kham, and the Pon-chu Valley, and even from distant Nga-ri and Ladak. The fair is one of the important events in the life of the region and we were very eager to attend it.
 
@@ -3953,7 +3953,7 @@ Close to the camp we observed a large, brown bear. There were now many of them. 
 
 Next morning we had great difficulty finding the trail. The surrounding mountains were buried under deep snow and thick mist hid the summits. After several hours of wandering, we emerged on a broad valley, covered by snow, and ascended a low col with a steep, but short
 
-**288 TRAILS TO INMOST ASIA**
+<a id="288">**288 TRAILS TO INMOST ASIA**</a>
 
 ascent. From the summit of the col we saw the same dull snow-covered landscape. Mountains were to be seen everywhere. It was impossible to tell the exact route, and after some consultation, our guides decided to follow the broad valley southeast of the pass. We accordingly descended into the valley and followed it for some three miles, going all the time in a southwesterly direction, until we had reached a former camping place, probably once occupied by a militia post. The ground was free from snow and stones, and was surrounded by a low stone wall made of bowlders and sod. Heaps of fuel made the place so inviting that we decided to camp there for the night. During wet weather it was impossible to procure dry argal (yak dung) and the large supply of it at this place was extremely welcome.
 
@@ -3961,7 +3961,7 @@ During the day we had the misfortune to lose two of our horses. Mrs. Roerich's b
 
 Next day our guides mistook the direction and we marched far to the west, and finally had to camp in a small circular mountain valley, covered by several feet of snow. It was impossible to find the right track to the Thang La Pass because of the mist that hid the mountains. We sent out our Tibetan guide to search for local nomads in a side glen. We had fortunately noticed several herds of domestic yaks grazing on the mountain slopes. While our Tibetan was absent, a small party of us crossed the rivulet to reconnoiter the country. We found a local man, wearing a pair of green snow goggles, and a long Tibetan sword. We persuaded him to accompany us to our camp and took him across the river on horseback. He thought that we were Mongols, for he had never seen Europeans. According to him we were some four miles from the right track to the Thang La and he promised to guide us the next day. He informed us that a big Tibetan outpost of some thirty cavalry was stationed not far from Karka. We had missed it in the snowstorm, having taken a much more westerly course. According to him the High Commissioner of Hor was stationed with two companies of infantry and several mountain guns at a place called Chu-na-khe, five days distant from our present camp. He also mentioned the fact
 
-**289 THE GREAT TIBETAN UPLAND**
+<a id="289">**289 THE GREAT TIBETAN UPLAND**</a>
 
 that large reinforcements of local militia were being mobilized and that the local population was wondering at these military preparations.
 
@@ -3973,7 +3973,7 @@ On October 2 we began the ascent toward the Thang La Pass. An early start was ma
 
 After a two hours' march we climbed a low col, not indicated on the existing maps of the region. Its summit was crowned by a stone cairn with several flag staffs adorned with multicolored pieces of cloth. From the pass we descended into a broad mountain valley, southwest of the col. The surrounding landscape was arctic in its severity. Everywhere rose high snow peaks, which stood out clearly in the cold, rarefied atmosphere. Several salt lakes were seen to the southeast of the path. The
 
-**290 TRAILS TO INMOST ASIA**
+<a id="290">**290 TRAILS TO INMOST ASIA**</a>
 
 track ran southwest and crossed another low ridge, crowned by eight stone cairns. We camped, after a twenty-two mile march over an elevated mountain country. The grazing was comparatively good but the cold was intense. The frosty day was followed by a clear, but bitterly cold night and our sentries froze in their heavy fur coats.
 
@@ -4001,7 +4001,7 @@ BEFORE THE THANG LA
 
 THE DESCENT FROM THE THANG LA
 
-**291 THE GREAT TIBETAN UPLAND**
+<a id="291">**291 THE GREAT TIBETAN UPLAND**</a>
 
 *dong* or stone wall decorated with prayer flags and ceremonial scarfs. On reaching the summit, all the Mongols and Tibetans dismounted and the lamas intoned a chant. They burned incense and their deep sonorous voices rose high in the serene atmosphere of the lofty pass. The descent was not steep and a sea of mountains and snow peaks unfolded before us. As far as the eyes could see, rose snow-clad mountains. In the distance stood the snowy Shang-shung Ridge, a northern continuation of the lofty Nyen-chen Thang La Range, itself a part of the Trans-Himalayas first traced on the map by the great Swedish explorer. Dr. Sven Hedin. The traveler is enormously relieved when he sees the dreaded pass behind him and great is his enthusiasm at the sight of endless mountain ranges, of sublime grandeur, that bar the road to the holy city of Tibet and of the entire Lamaist world.
 
@@ -4021,7 +4021,7 @@ We halted for the night at the foot of a rock on the left bank of the Yag-ra Riv
 
 Next morning we resumed our march along the river valley. After some five miles, the trail crossed a low spur and led into a broad valley, which again narrowed and soon became a mountain gorge, cutting through a low ridge. We camped in the gorge, after some fifteen miles of easy marching. Some of our animals were still tired after the heavy march across the Thang La, and we had to be careful with them. Our
 
-**293 THE GREAT TIBETAN UPLAND**
+<a id="293">**293 THE GREAT TIBETAN UPLAND**</a>
 
 camp was visited by two young Hor-pas armed with Russian service rifles of 1899. The rifle butts were manufactured at Nag-chu. They told us that the four foreigners who were detained at Sheng-di were allowed to proceed to Nag-chu after two weeks of negotiations. They expressed their doubts as to whether we should be permitted to proceed farther south and soon left our camp. Our caravaneers were of the opinion that these men were spies sent out by the Hor High Commissioner to reconnoiter our movements and strength. Two Hor women, a mother and daughter, came to our camp and presented us with some yak milk and butter. In return they received some dried Turkestan grapes. They were very anxious to learn whether we had seen Goloks on the route coming from Sining and complained that Golok brigands made attacks on the local nomads. To protect themselves, the local Hor-pas had to decamp and move to distant mountain valleys. We also tried to exchange some of our Mongol horses for local horses, the price of which was about twenty-five *ngü-sangs* each. Our supplies were rapidly coming to an end and we had to buy butter and *tsam-pa* to keep us alive until Nag-chu. The price of ten *khe* of butter (one *khe* is approximately five pounds) was twenty-five *ngü-sangs*.
 
@@ -4029,7 +4029,7 @@ On October 6, 1927, we broke camp very early in order to reach Sheng-di before n
 
 We decided to halt, for it was our intention to enter the country peacefully, without forcing our way through a region protected by militia outposts. Sheng-di was a vast latitudinal valley with flat bottom, covered by good pastures in the short summer months. We found all the grass destroyed by the caravans from inner Mongolia, Tsaidam, and China which are usually detained in this valley, pending the re-
 
-**294 TRAILS TO INMOST ASIA**
+<a id="294">**294 TRAILS TO INMOST ASIA**</a>
 
 ceipt of permission to proceed to Nag-chu. The ground of the valley was covered by swamps and in the evening the air was cold and damp. Some three miles from our camp was a small lake called locally Yang-tse-ma tsho, situated at the foot of the hills.
 
@@ -4037,7 +4037,7 @@ The whole of the local population came into camp. Young men, with long tresses o
 
 A militia guard of four men was placed in our camp and a white tent was pitched outside the camp. The official explanation given us was that the tent and men were placed in our camp to protect our animals and baggage during the night. In reality the men were placed there to spy upon our every movement. We did not protest, hoping that this strange attitude would soon change. We were still confident of our Tibetan passports and the good intentions of the Tibetan Government. We were permitted to buy milk and butter but were forbidden to sell or exchange our caravan animals. We protested against such an infringement on our personal liberty, but the headman excused himself, saying that he was acting under orders from higher authorities. According to him the four Russians who were detained at Tsom-ra had a Japanese among them and they were allowed to visit Nag-chu only because the *khan-po* of Nag-chu was a personal friend of theirs. They were refused permission to proceed toward Lhasa and would probably have to proceed to Sining or Ladak.
 
-**295 THE GREAT TIBETAN UPLAND**
+<a id="295">**295 THE GREAT TIBETAN UPLAND**</a>
 
 The first night spent at Sheng-di was cold and the air very damp. In the early morning we again received a visit from the local headman, who informed us that several officials from the High Commissioner of Hor and the Nag-chu Joint-Governors were coming to visit us and discuss the matter of our further route. At about ten o'clock in the morning we heard the jingling of bells in the distance, and soon noticed several horsemen rapidly nearing our camp. One of the riders was a non-commissioned officer or *she-ngo* of the Tibetan regular army, accompanied by several soldiers in uniforms. They dismounted at a distance from our camp and held a lengthy discussion with local headmen, during which they drank numerous cups of tea and examined our baggage and tents. After a long conversation with the headmen, the *she-ngo* started for our camp. He rode an iron-gray Tibetan pony, under an English saddle. A fur cap of foreign make adorned his head. Over his uniform he wore a coat of black velvet and a sheepskin. He was accompanied by a young soldier in uniform and puttees. Over the uniform the man wore a homespun Tibetan coat and a large Tibetan fur bonnet protected his head. He was armed with a Lee-Enfield rifle, adorned with ceremonial scarfs or *khatags*, that hung from the barrel. He wore several cartridge belts which play an important part in a Tibetan attire. Both of the men were terribly shy and from the first were silent.
 
@@ -4045,7 +4045,7 @@ The officer soon retired to our servants' tent and started to write a long repor
 
 At about two o'clock we again heard the bells heralding the arrival of more visitors of official rank. This time it was a *do-nyer* or representative of the Joint-Governors of Nag-chu accompanied by two petty officials from the *dzong* or fort of Nag-chu. Dismounting from their horses, the new visitors came at once to our camp and introduced themselves to Professor Roerich. They all said *"salam"* and one even added "good morning." They were offered seats outside Professor Roerich's tent and a long and tedious conversation began. The *do-nyer* introduced himself as one knowing all the customs and ways of foreigners
 
-**296 TRAILS TO INMOST ASIA**
+<a id="296">**296 TRAILS TO INMOST ASIA**</a>
 
 and expressed his desire to draft another detailed report. He said that he was specially deputed for this purpose by the Nag-chu *khan-po* or Go-mang garpön who was his master and superior. According to him, the *khan-po* was a very severe man, and if he should be slow in discharging his duties, he would certainly be punished. After this brief introduction, he begged us to help him in drafting the report. "What were your intentions in coming to Tibet?" was their first question. "This is an American expedition, sponsored by several American institutions," was our reply. "Ameri Ameri, Ameri-Khan," repeated the *do-nyer* several times and suddenly snatched his pen and rapidly wrote something on a long scroll of paper. I was able to read the first lines of his report from behind his back and to my great amazement read the following statement: "On such a date of the Tibetan eighth month of the Fire Hare Year, arrived at Sheng-di King Ameri, whose object is to study Buddhism and acquire sacred scriptures and images." We protested, and tried to explain to him that "American" could not be interpreted as Ameri-Khan but the *do-nyer* dismissed our protest saying that he knew some Mongolian and everyone knew that "khan" meant "king" in Mongolian and that he therefore was quite sure of the correctness of his happy explanation. Our protest only confirmed his idea that he was on the right track and that we only tried to conceal from him the true standing of our leader whose name was "Ameri" and whose rank was designated by the Mongol word "khan." He moreover requested to have a photo of each of the members of the expedition and a group photo of the whole expedition. All these photographs, together with his report would be presented to His Holiness, the Lord All-Knowing, who would then order his ministers to inquire into our case.
 
@@ -4053,7 +4053,7 @@ We mentioned to the *do-nyer* the fact that we were in possession of a Tibetan p
 
 Quite unexpectedly the camp was visited by the two militiamen who had carried our passport from Olun-nor to Nag-chu. We questioned them and they certified that the passport was handed over to the Joint-Governors of Nag-chu. The *do-nyer* seemed confused and explained
 
-**297 THE GREAT TIBETAN UPLAND**
+<a id="297">**297 THE GREAT TIBETAN UPLAND**</a>
 
 that the passport was probably with the *khan-po* of Nag-chu and that the *khan-po* did not think it necessary to speak about it to his subordinate. The *do-nyer* again counted our caravan animals and loads, and after completing his report, departed from our camp. He told us that the foreigners who were traveling ahead of us were a party of four men, one Japanese, one American, and two Germans. He could not tell us their names, but told us that they had taken many photographs and were collecting insects. It was apparently a scientific expedition. We thought of Dr. Filchner, who with one assistant had been working for some time past in the region of Sining.
 
@@ -4063,7 +4063,7 @@ Late in the afternoon, we were visited by two headmen attired in red *puru* coat
 
 Next morning we rose long before dawn, and by six o'clock the whole caravan, escorted by the two headmen, was marching southward. I had spent a very bad night and felt terribly weak. The great strain of the previous days, frequent night watches, tiresome marches and endless negotiations with frontier authorities for three days, had been completely exhausting. The trail crossed the valley of Sheng-di and ascended a low pass. From this point as far as Kam-rong La stretched a highly intersected country with grassy hills and side glens.
 
-**298 TRAILS TO INMOST ASIA**
+<a id="298">**298 TRAILS TO INMOST ASIA**</a>
 
 We passed a yak caravan on our way. These yak caravans are very slow on the march and make only nine or ten miles a day. The two headmen who were to accompany us to Chu-na-khe, stayed behind and we proceeded alone.
 
@@ -4077,7 +4077,7 @@ The High Commissioner's camp was situated in the northeastern corner of the Chu-
 
 Our party rode in the following order: first, a Mongol from our escort with the expedition's flag, then came Professor Roerich, the Colonel, and myself. We were followed by three armed Mongols with rifles
 
-**299 THE GREAT TIBETAN UPLAND**
+<a id="299">**299 THE GREAT TIBETAN UPLAND**</a>
 
 slung over their shoulders. Tibetan officials rode behind them. On the way I had another attack and was forced to stay behind with one of the Mongols. A Tibetan official galloped back to our camp to bring the doctor. A little later we were joined by Mrs. Roerich, the doctor and Mr. Portniagin, who remained with me while Professor Roerich and the Colonel proceeded to the General. After the doctor had given me another dose of digitalis, I felt somewhat better but was still too weak to ride to the General's camp. A Tibetan officer and several soldiers arrived from there and insisted that I should come to see the General. The men endeavored to carry me on rifles used as stretchers, but this did not work well and they had to leave me. Meanwhile the General sent another messenger urging me to come as soon as possible. It was his private secretary, a young Tibetan whom I had met in Darjeeling in 1924. I made a final attempt to reach the General's camp on the doctor's horse, an animal with an exceptionally even pace, and this time was successful.
 
@@ -4085,7 +4085,7 @@ The General's camp was a nomad city of black tents. In the center stood the spac
 
 Kusho Kapshöpa, the High Commissioner of Hor, or Hor chyi-chyap (Hor spyi-khyab) --- a young man of twenty-four --- was seated on a raised platform covered with leopard skins. He was attired in a long coat of yellow Chinese silk and wore the usual official fur cap, surmounted by a golden *dorje* or thunderbolt inlaid with precious stones --- a sign of his high military rank. A massive golden ring with a large emerald adorned the General's hand. In front of him stood the usual Tibetan low table with the silver teacup and inkstand and other writ-
 
-**300 TRAILS TO INMOST ASIA**
+<a id="300">**300 TRAILS TO INMOST ASIA**</a>
 
 ing implements. To the central pole of the tent was tied his personal standard (carried before him in processions), and his sword in a green leather sheath. To the left of the General sat two young officials, wearing official fur caps and silk robes. On a lower seat sat a Tibetan officer with the rank of a *ru-pön* (ru-dpon) or major. We were invited to sit down on the right of the General, on a platform covered with furs and carpets. Servants in purple robes brought tea, dry fruit, and biscuits imported from India.
 
@@ -4093,7 +4093,7 @@ After the usual ceremonial inquiries about health, the difficulties experienced 
 
 On reaching our camp, the soldiers again saluted their General, who made a general inspection of the camp. Our tents attracted his special attention and he inquired whether we were prepared to sell some of them. After a brief stay the General returned to his camp and invited us to move closer to it in order to facilitate negotiations.
 
-**301 THE GREAT TIBETAN UPLAND**
+<a id="301">**301 THE GREAT TIBETAN UPLAND**</a>
 
 Early next morning we moved and pitched our tents within a quarter of a mile of the Tibetan camp. In the afternoon we again paid a visit to the General. The High Commissioner assured us that in two days we should be able to proceed farther and that the delay was temporary, in order to give the civil authorities time to prepare everything along our route. The General again spoke of Dr. Filchner and his work. Professor Roerich pointed out that Chu-na-khe was a very unsuitable place for a long stay. The General replied that the great men of the West had the same miraculous powers as the great Incarnated Lamas of Tibet and were able to endure tremendous hardships and that he felt confident that nothing would happen to us. The General added that he was willing to admit that it was impossible for him to detain such prominent people as Professor Roerich and that he was anxious to honor the expedition. He had given orders to his orchestra of pipers and drummers to play daily in our camp. Late in the afternoon the General and his assistants paid us another visit and examined our baggage. "The baggage of great men must be examined by officers of the highest rank," observed the General, "and that is why I came today." Everything was checked up and all our arms carefully examined. A long report was drafted and dispatched at once to His Holiness the Dalai Lama, who was anxious to hear about us. In the evening the pipers and drummers played for us again and sounded the retreat.
 
@@ -4101,7 +4101,7 @@ Next morning the General entertained us with a luncheon of Chinese and Tibetan d
 
 The General summoned all the local headmen to his tent and made them solemnly promise that they would do their best to serve us and
 
-**302 TRAILS TO INMOST ASIA**
+<a id="302">**302 TRAILS TO INMOST ASIA**</a>
 
 supply us with all necessities. A guard of militia would be posted in our camp to protect us and our baggage from robbers and the local population. It was impossible to argue any more, for the General turned a deaf ear to all our protests. We had to return to our camp and await an answer from Lhasa, which was promised in fourteen days.
 
@@ -4123,7 +4123,7 @@ The route from Nag-chu to Lhasa was strictly guarded by military posts, who stop
 
 The Major, Sd-nam Thop-jyel, paid us an official visit and inquired about our needs. He told us he was confident that an answer from the Government of Lhasa would be received soon and that we should be allowed to cross the territory of inner Tibet. He had many stories to tell about his military adventures. He had received his rank during the Sino-Tibetan war of 1918 and was present at the siege of Ri-wo-che and Chamdo. He had met the Chinese commandant of the Chamdo fortress, General P'eng, and even remembered having seen our old Chinese interpreter, Ts'ai, who was taken prisoner at Ri-wo-che. The Major advised us to send all our animals to pastures with good grass, situated
 
-**306 TRAILS TO INMOST ASIA**
+<a id="306">**306 TRAILS TO INMOST ASIA**</a>
 
 some eight miles northwest of Chu-na-khe. He promised to send four men to guard our horses and mules. As no fodder was available and the supply of grain was very scant, we were forced to agree, much against our will. Many of the animals never returned to the camp and perished from exposure and want of fodder. We received only their tails, which were brought back to our camp as proofs that the animals had died.
 
@@ -4137,7 +4137,7 @@ Next day, heavy snow covered the ground and the surrounding hills and deprived t
 
 October 23, 1927. The day was mild, and happily for us there was no piercing wind. As there was no hope of moving quickly, we decided to improve our camp as much as possible and protect ourselves from the approaching winter days. The situation of the camp was bad and something had to be done to improve it. Chu-na-khe is a depression situated at an altitude of 15,500 feet and sheltered on every side by low, grassy hills on which herds of domestic yaks and flocks of sheep graze during the summer months. To the south of the depression lay the col of Ta-
 
-**307 AT THE GATES OF TIBET**
+<a id="307">**307 AT THE GATES OF TIBET**</a>
 
 sang La. On the southern edge of the depression stood a high *stupa* or *chorten* and the place was sometimes called Chorten-thang, "The Plain of the Stupa" or Chorten kar-po, "The White Stupa." Under this last name the place was known to Tsaidam Mongols.
 
@@ -4147,7 +4147,7 @@ The Major paid us his daily visit and we told him our intention to negotiate wit
 
 Late in the evening some of our Mongols and Tibetans obtained barley wine from the Tibetan camp and got drunk. A fight followed and we were forced to restore order by arresting the men and imposing a heavy fine. People are easily irritated at high altitudes and it was very difficult to maintain strict discipline among the men because of the demoralizing proximity to the Major's camp with all its attractions of wine and Indian cigarettes, sold secretly by the soldiery against the strict orders of His Holiness the Dalai Lama.
 
-**308 TRAILS TO INMOST ASIA**
+<a id="308">**308 TRAILS TO INMOST ASIA**</a>
 
 October 24, 1927. Heavy snow fell during the night and we were awakened by the noise made by our Mongols who were clearing the tents of snow and making footpaths in the camp. Unless we succeeded in getting a sufficient supply of grain from Nag-chu, the condition of our caravan animals would become critical. The Major came to make a list of all our requirements and read us his letter to the Joint-Governors of Nag-chu. According to him the delay was caused by the fact that the Nag-chu officials had received a severe reprimand from the Government for letting in strangers who had come ahead of us. He advised us to send some present to the Joint-Governors, for this would make them friendly. We accordingly wrote a letter to the Joint-Governors and told them about our position, Mrs. Roerich's health, and of our firm intention to reach India by the shortest route. The letter was sent with a present of a silver table set and a pair of field glasses.
 
@@ -4177,7 +4177,7 @@ TIBETAN SOLDIERS, STATIONED AS GUARDS IN THE EXPEDITION CAMP AT CHU NA-KHE
 
 EXPEDITION CAMP DURING THE DETENTION AT CHU-NA-KHE
 
-**309 AT THE GATES OF TIBET**
+<a id="309">**309 AT THE GATES OF TIBET**</a>
 
 from Nag-chu arrived with a letter from the Joint-Governors, addressed personally to Professor Roerich. The Joint-Governors, who are commonly known under the compound name of Nag-chu khän-nang-nyi, thanked us for the presents and informed us that they expected an answer from the Government soon. They had not written to the Government themselves, for our case was taken up by the Hor High Commissioner, who was responsible for the delay.
 
@@ -4191,7 +4191,7 @@ Another nuisance was the ravens that swarmed around the camp. Their impertinence
 
 Golubin went to inspect our caravan animals and found them in a
 
-**310 TRAILS TO INMOST ASIA**
+<a id="310">**310 TRAILS TO INMOST ASIA**</a>
 
 deplorable condition. A horse, a mule, and one camel had perished and six more were reported to be near their end. The weathered grass was quite insufficient and the supply of grain was too small to give adequate rations to the animals. A horse or a mule received only about two pounds daily. The camels were not accustomed to eat grain and were rapidly losing their strength. We asked the Major for permission to sell some of the animals. But he replied that he could not allow us to sell them until the Government had sent an answer. The answer was not forthcoming and the situation was assuming a grave aspect. The health of several members of our expedition was beginning to give considerable anxiety. Many complained of heart trouble. We were short of warm clothing and had to buy felts and sheepskins to make winter coats and winter boots.
 
@@ -4201,13 +4201,13 @@ For the past four years the Tibetan trade with Mongolia and western China has gr
 
 October 31, 1927. Again a sunny day. The morning was bitterly cold and columns of smoke rose from every tent in the Tibetan camp. The thermometer registered -25 °C. The Major made his daily visit and brought thirty-two pounds of butter sewn into a yak hide, which cost twelve *ngü-sangs*, and several locally made felts of a very inferior quality. We also bought two yaks for thirteen Mexican dollars. The Major informed us that he had received word from a famous Tantric lama, that according to the lama's divination, the government reply would be received in four or five days.
 
-**311 AT THE GATES OF TIBET**
+<a id="311">**311 AT THE GATES OF TIBET**</a>
 
 The next day was warm with a bright sun and a cloudless sky. The hard, frozen snow began to melt under the warm rays of the sun and large pools of water stood about the camp. In the early morning a large caravan of camels passed northward. Our Mongol cameleers went out to speak to the travelers but were prevented by the militiamen. The Mongols became terribly excited and complained to us against this infringement on their personal liberty. I had a heated argument with the head of the militia post, as the result of which our Mongols were finally permitted to go to meet the passing caravan.
 
 The caravan consisted of Tsaidam and Khalkha Mongols *en route* for their native lands. An Alashan Mongol Prince was traveling with the caravan and he gave our Mongols some interesting information on our predicament and the attitude of Tibetan authorities toward us. He told us that the authorities were unable to decide whether we should be allowed to proceed farther or ordered to return and that the Government of Lhasa was waiting for more information. The Tibetans were greatly alarmed for someone had spread the rumor that we were a large body of Mongol cavalry. Troops were rushed to the border and the Government even dispatched several mounted guns to check our advance. According to the Prince, all Mongols contemplated leaving Lhasa, where authorities were oppressing the Mongol colony. The Hor headmen had told our men that they could not understand the policy of the Lhasa Government and that our forced stay in Chu-na-khe was a great calamity to the local nomad population which had to supply us with fuel and food and maintain a large body of men and horses; all the money received from us for the supplies was taken by the Major and that very little was left for them. Whether true or not, their words were significant and showed that our detention was not caused by local authorities and conditions, but was ordered by higher authorities in the Government. At a meeting of all the members of the expedition, we decided to send a new request to the Joint-Governors of Nag-chu and ask them to transmit telegrams by wire from Lhasa to the United States and to Colonel F. M. Bailey, the British Political Officer in Sikkim. The position of the caravan was becoming desperate. Daily a horse or mule was found dying. Packs of hungry dogs infested the neighborhood and large flocks of ravens circled around the camp. The poor caravan animals were given only one pound of grain a day and no grass whatsoever. At night the hungry animals wandered about the camp and we observed a peculiarity of horses and mules. When about to die, the ani-
 
-**312 TRAILS TO INMOST ASIA**
+<a id="312">**312 TRAILS TO INMOST ASIA**</a>
 
 mals would invariably try to enter the tents, as if searching for a more sheltered place. In the morning we often found horses and mules dead and our Mongols, greatly attached to the animals, complained violently against the attitude of the Tibetan authorities.
 
@@ -4217,7 +4217,7 @@ November 4, 1927. A fine morning with a slight wind from the southwest which bro
 
 The rate of exchange of Chinese dollars was improving and we received sixteen *shos* and five *karmas*, that is, one *ngü-sang*, six *shos* and five *karmas* for one silver dollar. During this season of the year, Mon-
 
-**313 AT THE GATES OF TIBET**
+<a id="313">**313 AT THE GATES OF TIBET**</a>
 
 gol pilgrims and Tibetan traders were returning to Sining and Tsaidam and there was a growing demand for Chinese silver currency.
 
@@ -4227,7 +4227,7 @@ Our camp was visited by a Tsaidam Mongol from Mahai who was traveling from Lhasa
 
 The Mongol told us that it was extremely difficult to reach Lhasa at present. Great numbers of troops were stationed along the route and
 
-**314 TRAILS TO INMOST ASIA**
+<a id="314">**314 TRAILS TO INMOST ASIA**</a>
 
 two mountain guns had recently been acquired by the Government. It was the same story which we had already heard from passing caravans. Five large caravans of Mongols were for some unknown reason detained at Nag-chu and the caravan animals had nothing to eat, because of exceptionally heavy snowfalls.
 
@@ -4253,7 +4253,7 @@ THE PERISHING CARAVAN
 
 A TIBETAN GUARD IN THE EXPEDITION CAMP AT CHU-NA-KHE
 
-**315 AT THE GATES OF TIBET**
+<a id="315">**315 AT THE GATES OF TIBET**</a>
 
 people abstaining from killing animals. To this he received the reply, that his statement was not correct as we had apparently eaten the rooster and the two hens, which according to their private information, had disappeared from our camp. The Major was so excited by this false implication that he sent another letter, informing the Joint-Governors that the rooster and hens were given to him and were now in his custody. The wind howled on the passes and half-frozen messengers were forging ahead through the snow, carrying letters about a rooster and two hens that had disappeared from the strangers' camp!
 
@@ -4263,7 +4263,7 @@ The next day was cold and sunny. Again no messenger from Lhasa. It seemed hopele
 
 The cold increased and the thermometer registered -40°C before sunrise. The doctor notified the Major that several of our men were suffering from bad colds, which could easily develop into pneumonia, if we had to stay longer at these altitudes. Many of us complained of our hearts and were given stimulants. Some of the Mongols had swollen and disfigured faces and limbs, and could hardly move. Our lamas were murmuring prayers and burning incense. Several of them were in a serious condition and succumbed to the hardships. Lhasa was no longer an attraction to them and they spoke of returning to Tsaidam and Kumbum. They remembered old prophecies, in which it was said that with the departure of the Tashi Lama religion would disappear from Tibet and only a shell would remain. Men were becoming irritable, and fights occurred often. This day a soldier came to our camp and gave an order to one of our militiamen, who was slow to execute it and the infuriated soldier seized a huge stone and struck the poor Hor-pa on the head. The man dropped to the ground and the soldier prepared to deliver another blow. Our intervention stopped the fight
 
-**316 TRAILS TO INMOST ASIA**
+<a id="316">**316 TRAILS TO INMOST ASIA**</a>
 
 and the soldier was ordered out of camp. The wounded Hor-pa had to be carried to his tent and treated by our doctor. When the doctor and I entered the tent to apply a bandage to the man's head, the headman in charge of the post exclaimed, "Such is the treatment accorded by the *De-wa-shung* to their subjects! Sin be on them!"
 
@@ -4277,7 +4277,7 @@ The manuscripts of the *Känjür* written in gold are very expensive and only a 
 
 1\. *Tibet, Past and Present* (Oxford Press, 1924).
 
-**317 AT THE GATES OF TIBET**
+<a id="317">**317 AT THE GATES OF TIBET**</a>
 
 whole volumes in order to scratch off the gold. Some of these manuscripts have exceptionally fine wooden covers, carved with figures of Buddhas and other *motifs* of Tibetan religious ornamentation. These manuscript *Känjürs* are important for text-critical work, for many of them are dated and show ancient orthographies. The great monasteries of Tashi-lhun-po and Lhasa possess excellent manuscript copies with dates, and finely carved wooden boards that serve as bindings.
 
@@ -4289,7 +4289,7 @@ Before sunrise on November 10 the thermometer registered twenty degrees below ze
 
 November 11 was a cold, windy day with drifting snow. Heavy clouds hovered over the hills heralding a snowfall for the night. The chief headman of the region unexpectedly brought back our letter addressed to His Holiness the Dalai Lama and sent by us on October 28. He told a strange and incredible story --- that the letter had been lost by the messenger and that another traveler had picked it up. We requested him to send the letter once more and to punish the previous messenger for carelessness. A messenger with the letter galloped away the same day. A big caravan of Mongols on camels passed northward. Our men had a talk with the caravaneers, who proved to be lamas from Barun and Dzun dzassak in eastern Tsaidam. According to them their caravan had been detained for twenty-one days at Nag-chu. Rumors were current along the Lhasa route, that north of Nag-chu stood a foreign
 
-**318 TRAILS TO INMOST ASIA**
+<a id="318">**318 TRAILS TO INMOST ASIA**</a>
 
 general with a strong cavalry force. In Nag-chu people spoke about a big *Noyon* or Prince who had come from China.
 
@@ -4301,7 +4301,7 @@ November 13. The snowfall brought a change in the weather and temperature. The d
 
 November 14. A cloudy morning with gray clouds drifting from the southwest. In the afternoon an unusually heavy snowfall buried the camp completely and resulted in many deaths among our caravan animals. Our camp was now surrounded by corpses of horses, mules, and camels. Ravens and big packs of dogs were feasting on them. Every
 
-**319 AT THE GATES OF TIBET**
+<a id="319">**319 AT THE GATES OF TIBET**</a>
 
 morning our men had to drag away the fresh corpse of an animal which had died during the night.
 
@@ -4315,7 +4315,7 @@ November 17. In the night another snowfall added to our discomfort and a warm mo
 
 November 18. A cold and clear day followed dismal days and nights with snowfalls. The thermometer registered 35°C. below zero in the morning and a low temperature prevailed throughout the day. A messenger reached Chu-na-khe with the report that a letter from Lhasa was due to arrive in four days. Professor Roerich was still suffering and the attitude of the Major caused considerable irritation among our camp servants.
 
-**320 TRAILS TO INMOST ASIA**
+<a id="320">**320 TRAILS TO INMOST ASIA**</a>
 
 November 19. A sunny, bright day. In the early morning one of our best horses died. The poor animal had a long agony and hungry dogs sat round it, waiting for the end. The Mongol who rode the horse was heartbroken and kept the head of the dying animal in his hands until the end came.
 
@@ -4327,7 +4327,7 @@ November 22. A windless cold morning was followed by a windy afternoon. The sout
 
 The following day a gale blew from early morning and the thermometer registered -25°C. Nothing was heard about the messenger who was said to be on his way from Lhasa. Some of the militiamen spent the entire day watching the route. Every new arrival from Nag-chu was questioned but all professed utter ignorance of any messenger
 
-**321 AT THE GATES OF TIBET**
+<a id="321">**321 AT THE GATES OF TIBET**</a>
 
 or letters on the way. Two more horses perished and several others were on the verge of collapsing. The mules wandered about the camp in search of food and devoured anything that was found lying on the ground. One of the muleteers lost his belt, and another had his fur cap eaten. The possibilities of a mule's stomach are truly remarkable.
 
@@ -4339,7 +4339,7 @@ November 25. Again a frosty day with a temperature of -25 °C. In the morning we
 
 November 26. Once again a bitterly cold day. The temperature dropped to -55°C. and with morning we found the brandy frozen in the flasks. The intense frost played havoc with our instruments and watches, as their springs were unable to stand the cold. To keep ourselves warm by night we had to sleep in heavy fur bags and cover ourselves with extra fur blankets. On awaking in the morning, we usually found the outer blanket frozen hard and forming a kind of dome over the camp bed. It was out of the question to rise before the sun had warmed the air a little. Even then the process of dressing (we took off only our fur coats and fur boots) was a painful operation. Hands and
 
-**322 TRAILS TO INMOST ASIA**
+<a id="322">**322 TRAILS TO INMOST ASIA**</a>
 
 feet became numb and refused to obey. Every morning one would see the straggling figures of our companions walking about their tents in a futile attempt to warm themselves. The high altitude intensified the cold and it was hardly possible to do any kind of work.
 
@@ -4355,7 +4355,7 @@ In the evening of November 27 an unusual commotion in the Tibetan camp announced
 
 November 28. The Major came about noon and brought a letter from
 
-**323 AT THE GATES OF TIBET**
+<a id="323">**323 AT THE GATES OF TIBET**</a>
 
 the High Commissioner. After the usual polite phrases, the High Commissioner excused himself for not having sent our letters to His Holiness the Dalai Lama and to Colonel F. M. Bailey. He returned the two letters. He also informed us that the government answer would come through the Joint-Governors of Nag-chu and that from now on we should apply directly to them. The High Commissioner was evidently trying to escape responsibility and was unable to give us a definite answer from the Government. I am sure that such was the case. The letter was probably couched in such obscure terms, that the High Commissioner was unable to make a clear statement. The Tibetan Government orders are usually written in such a way as to leave the official to whom a letter is addressed in the dark about the real intentions of the Government. Following the advice of the High Commissioner we at once dispatched a messenger to the Joint-Governors with a communication that it was our firm intention to move at once to Nag-chu and to negotiate with them about our further route to India.
 
@@ -4365,7 +4365,7 @@ November 29. In the morning we had to record another loss among our caravan anim
 
 November 30 was cloudy with a strong southwest wind. Toward noon the wind abated and the rest of the day was windless and sunny. Golubin and the lama Khe-dup went to buy some butter and furs from a nomad encampment, some three miles south of our camp. The guards were very uneasy about it and begged us not to go. The local nomads had received strict orders not to sell food supplies and were in great fear of the Major and his soldiery. Golubin and Khe-dup returned
 
-**324 TRAILS TO INMOST ASIA**
+<a id="324">**324 TRAILS TO INMOST ASIA**</a>
 
 toward evening and brought some butter and Tibetan cheese. Golubin reported that the encampments were surrounded by carcasses of dead yaks and sheep and that dogs made the approach to the encampments difficult.
 
@@ -4379,7 +4379,7 @@ December 8, 9, 10, and 11. The messenger carrying our letter to the High Commiss
 
 At high altitudes as has been remarked it is extremely difficult to
 
-**325 AT THE GATES OF TIBET**
+<a id="325">**325 AT THE GATES OF TIBET**</a>
 
 maintain strict discipline among men. They become irritable and although our men showed an unusual amount of courage and loyalty under the hardships, they began to weaken toward the end of the detention. One day one of the Mongols came to my tent and reported in a low voice, hardly being able to screen his excitement: "Sir, our swords are becoming sharper and sharper by themselves! If you do not take measures, there will be bloodshed!" There is a common belief among Mongols and Tibetans that knives and swords would suddenly become sharper before a battle or quarrel. I understood the danger and went to the servants' tent. The men were sitting around the camp hearth and several were examining the blades of their swords, others were excitedly arguing about something. On inquiry, it proved that two of the men had a dispute several days ago over an extra cup of tea and the dispute remained unsettled. Yesterday the men had found that their swords suddenly became sharper and today this process of self-sharpening continued. The atmosphere was charged with tension and some of the cooler heads decided to report the matter. We were obliged to confiscate all knives and swords and keep them in our tents until the situation quieted down. The last three weeks preceding our release were especially trying because of a hidden unrest among the men and we had to be extremely careful not to provoke a quarrel either among our followers or with the Tibetan sentries.
 
@@ -4387,7 +4387,7 @@ December 12. The Major came again in the afternoon and we had a long conversatio
 
 December 13. We sent a reconnoitering party to Sharugön Monastery
 
-**326 TRAILS TO INMOST ASIA**
+<a id="326">**326 TRAILS TO INMOST ASIA**</a>
 
 to find a suitable camping place. It was out of the question to stay in the monastery itself, and we chose a level spot on the bank of a small rivulet emptying into the Chu-na-khe River. A high granite spur sheltered the place from the southwest winds and toward the south the narrow mountain glen rose toward a flat pass, across which ran another route to Nag-chu.
 
@@ -4417,7 +4417,7 @@ THE BÖN-PO MONASTERY AT SHARUGÖN
 
 EXPEDITION CAMP AT SHARUGÖN
 
-**327 AT THE GATES OF TIBET**
+<a id="327">**327 AT THE GATES OF TIBET**</a>
 
 the monastery but he strongly objected to the Major taking quarters inside the monastery compound. According to the old man, the Major was a bad man and the gods of the place would probably do him some harm.
 
@@ -4427,7 +4427,7 @@ December 19. A sunny and warm day but before sunrise the morning was bitterly co
 
 A soldier came from the monastery and asked our doctor to visit the Major's wife, who for several days past had been suffering from a cold. We found the young woman sitting in a dirty monastery cell, damp and cold, with an open window and door. The doctor found pneumonia. The woman was doomed and the only thing that could save her was to bring her down to lower altitudes and to better surroundings. At an altitude of almost 16,000 feet pneumonia was deadly and no cure was possible. Our doctor gave her some medicine to help her a little but there was no chance for her recovery.
 
-**328 TRAILS TO INMOST ASIA**
+<a id="328">**328 TRAILS TO INMOST ASIA**</a>
 
 During our stay at Sharugön, I arranged with the head lama of the monastery to examine the Bön-po *Känjür* and *Tänjür*, found in the monastery library. (2)
 
@@ -4445,7 +4445,7 @@ December 25, 26. The past three nights were exceptionally cold and the temperatu
 
 2\. A description of these two collections is given in chap. xvi, devoted to the Hor-pas and their country.
 
-**329 AT THE GATES OF TIBET**
+<a id="329">**329 AT THE GATES OF TIBET**</a>
 
 the Major came back unexpectedly to Sharugön and sent a messenger to our camp saying that he would like to have a long conversation tomorrow.
 
@@ -4491,7 +4491,7 @@ The Hor-sde or the Hor region is a country of rolling grass-covered hills, broad
 
 1\. Jacques Bacot, *Le Tibet Revolte* (Paris, Hachette et Cie, 1912), chap. i.
 
-**334 TRAILS TO INMOST ASIA**
+<a id="334">**334 TRAILS TO INMOST ASIA**</a>
 
 ranges, which mostly run from west to cast. To the cast, the country is more intersected and its landscape, with narrow and deeply cut valleys and towering cliffs, reminds the traveler of the peripheral regions of eastern Tibet.
 
@@ -4503,7 +4503,7 @@ Spring starts only in late April or May, when the rivers open up and the ground,
 
 Geographically speaking, the same grass upland stretches as far as the snow range of the Shang-shung kang-ri, which forms the southern but-
 
-**335 THE HOR-PAS AND THEIR COUNTRY**
+<a id="335">**335 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 tress of the northern Tibetan upland. The neighboring administrative district of Nag-chu is only an administrative division and represents no geographical unit. The same is true of other neighboring districts, such as Nam-ru, Nag-tshang, Chö-khor.
 
@@ -4517,7 +4517,7 @@ In the modern colloquial language, the word "Hor" represents a Tibetan ethnic na
 
 2\. III, 11.
 
-**336 TRAILS TO INMOST ASIA**
+<a id="336">**336 TRAILS TO INMOST ASIA**</a>
 
 even now look more toward Peking and the great lands of central Asia, than toward Lhasa. For them Lhasa is only a temporary ruler, who severed their century-old connection with China.
 
@@ -4527,7 +4527,7 @@ By far the most important of the five is the Tse-mar *shorka* ruled by a pön-po
 
 The Hor tribes have so far preserved their tribal organization and enjoy a certain amount of autonomy, which is, however, rapidly passing away. There can be no doubt that the Lhasa Government intends to create a firm administration in the outlying provinces. The High Commissioner is always an official of the fourth grade and is the chief representative of the central government in the region. He tries cases of inter-tribal feuds, supervises the collection of taxes, and insures the safety of trade routes crossing the territory of the region. During the cold winter months he usually resides somewhere in the eastern districts of the region, sometimes at Byi-ru gompa or some other monastery or town. The heavy expenditures incurred by the local population which is obliged to supply foodstuffs, fodder, and fuel for the High Commissioner, his troops and retainers, necessitate frequent changes in official residences. During the summer months the High Commissioner is often found touring in the district. This touring is a source of much trouble to the local population. The tribes have to furnish pack animals, riding horses for the numerous retainers of the Commissioner, organize relay stages at convenient points along the Commissioner's route and depute hundreds of men and women to attend to the needs of the party. Small officials use these occasions to enrich themselves by taking
 
-**337 THE HOR-PAS AND THEIR COUNTRY**
+<a id="337">**337 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 bribes in money and cattle. If a case is to be tried the court clerks, who record the evidence, have to be bribed before the case goes for final decision to the High Commissioner. In the performance of his official duties, the High Commissioner of Hor is assisted by two officials of the fifth grade, who act as his advisors.
 
@@ -4537,7 +4537,7 @@ Notwithstanding the poor conditions of cattle breeding, the region is still comp
 
 Yaks furnish the chief products of the region --- hides, yak hair, yak tails, butter, and other milk products. The yak is also the chief beast of burden throughout the district. The flocks of sheep furnish wool, which is either taken by the Government or sold to private trading establishments which transport wool to Lhasa and from there by the Gyangtse-Chumbi trade route to India. Horses are found only in small numbers. They are used almost exclusively as riding animals and one family seldom has more than three to five horses. The region does not export horses, and most of the animals are employed locally. The Hor breed of horses is small but hardy. A great defect is a rather heavy head, hard mouth and general clumsiness on the move. It is not a horse for fast riding --- an animal bred in a vast steppe country; it is merely a caravan
 
-**338 TRAILS TO INMOST ASIA**
+<a id="338">**338 TRAILS TO INMOST ASIA**</a>
 
 animal well suited to stony trails. These horses are never shod and this makes them extremely sure footed and invaluable on bad mountain tracks.
 
@@ -4549,7 +4549,7 @@ The agricultural districts of Tibet are unable to feed the whole of the country'
 
 A considerable portion of the region's yearly produce goes to the Government as a tax. The tax that is collected in the name of the Lhasa Government is in proportion to the wealth of the individual taxpayer, and varies in amount according to the needs of the Government. An extraordinary tax is sometimes imposed on a district as a fine. The tax
 
-**339 THE HOR-PAS AND THEIR COUNTRY**
+<a id="339">**339 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 is sometimes abolished when a district has suffered badly from snowfalls, previous drafts of cattle, or an epizoötic disease. During the lengthy period of Chinese rule, the Hor region was exempt from payment of regular taxes and was only expected to present tribute to the Imperial Court of China once in four years. The yearly tax imposed on the western Hor tribes by the Tibetan Government is one of the chief causes for a certain amount of dissatisfaction noticeable in the region. The former connection with China is still apparent in the region and is well demonstrated by the fact that the nomad population prefers Chinese currency to that of Lhasa.
 
@@ -4559,7 +4559,7 @@ In exchange for the land products, the Lhasan and Sining merchants offer miscell
 
 A Tibetan trader usually spends his days sitting in his tent among
 
-**340 TRAILS TO INMOST ASIA**
+<a id="340">**340 TRAILS TO INMOST ASIA**</a>
 
 bales and cases of merchandise, receiving visits from local headmen and nomads. All squat on the floor round the fire, drink endless cups of butter-tea and smoke the long-stemmed Chinese pipes. Business is discussed and the assistants of the *tshong-pön* or merchant take down the quantity and quality of local products offered in exchange for articles of foreign manufacture. Haberdashery is in great demand and small, cheap articles command exorbitant prices. A very brisk trade is done in brass army buttons, which are imported chiefly from India. A wealthy nomad is immensely proud of his buttons with the English inscription *Nepal*.
 
@@ -4573,13 +4573,13 @@ Such is the economic life of the region and its place among the fifty-four admin
 
 The Hor-pas are found in considerable numbers only south of the Thang La Range. To the north of this range, their encampments are
 
-**341 THE HOR-PAS AND THEIR COUNTRY**
+<a id="341">**341 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 scattered at great distances from each other. As the result of recent upheavals and successive famines brought about by several snowy winters, the nomad population has diminished. Many left their native highlands to seek their fortune in the fertile districts of eastern Tibet. Others haunt the vicinity of the trade routes as beggars and robbers, ready to attack lonely travelers or small parties of pilgrims.
 
 When crossing the wind-swept uplands of northern Tibet with its almost terrifying barrenness, one wonders where one could possibly meet human beings. Only utter misfortune could force men to live on these desolate mountains and plains. Sometimes, after many days of hard traveling, when almost every day some of the caravan animals succumb to the hardships and have to be abandoned, one sees a square stone wall and heaps of dung. This was probably an encampment of nomads. Dead carcasses of domestic yaks confirm the supposition. After these first traces of human activity, one travels again for several days more without seeing even a sign of nomads or their herds. The blizzard sweeps the countryside, and the surrounding mountains are hidden behind a thick, white mist. The traveler rides with his head bent forward, his shoulders and chest covered with a thick layer of wet snow. It is hardly possible to look ahead and only the hardy yaks are able to find the right direction in this snow-bound region. Suddenly one hears bells in the distance, an almost uncanny sound amid the howling of the storm. Then something dark is seen ahead. Strange looking riders with long matchlocks swung on their backs and riding small shaggy horses, emerge from the mist. They stop and some of them dismount, this being a sign that they are peaceful travelers, intending no harm. Their faces are covered by crudely made masks, and their heads are protected by large fur bonnets that completely cover the head and ears and are held by a string tied under the chin. Long unkempt tresses of black hair hang on both sides of the face. Dirty gray sheepskin coats and high boots made of thick Tibetan cotton cloth protect the men from the bitter cold. All are armed with long swords and matchlocks, sometimes even modern rifles. Large ornamented cartridge belts are worn crosswise over the fur coats. Occasionally a woman accompanies the men, dressed exactly like them, only her sheepskin coat is longer and she carries no arms. This is probably a party of nomads on a hunting expedition after wild yaks. During such hunting tours, they live on the raw meat of the animals they kill and on small portions of *tsam-pa* --- the national meal of Tibet. They carry no tents but spend the night
 
-**342 TRAILS TO INMOST ASIA**
+<a id="342">**342 TRAILS TO INMOST ASIA**</a>
 
 under the open sky, sleeping in a strange crouching attitude, and are often completely buried in snow. M. Jacques Bacot says in his book on eastern Tibet,(3) "Non seulement les hommes de cette race dorment accroupis, mais c'est encore dans cette posture qu'ils sont malades et qu'ils meurent." Their horses, these hardy little animals, that live on dry meat, *tsam-pa*, and tea leaves, stand beside their sleeping masters, their backs turned to the raging wind. Such is the sight of a temporary nomad camp in the wilderness of the Tibetan upland. One tries to speak to these nomads and hears strange guttural sounds, so unlike the fluent and soft speech of Lhasan Tibetans.
 
@@ -4591,7 +4591,7 @@ The Tibetan nomad tent, usually called *ba-nag* or "black tent" has often been c
 
 3\. *Le Tibet Revolte*, p. 26.
 
-**343 THE HOR-PAS AND THEIR COUNTRY**
+<a id="343">**343 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 and numerous ropes, which are usually very long, for a long rope holds the tent better during the frequent windstorms. No iron or wooden pegs are used, the ropes being mostly tied to bowlders. Occasionally yak horns are used as tent pegs. Such tents have always two entrances, one at the front and one at the back. In the case of a chief's dwelling, several tents may be pitched together so as to form one long, large room. These tents are usually very spacious and permit several families to quarter together.
 
@@ -4601,7 +4601,7 @@ Newly born lambs and young sheep share the tent with their masters. The family b
 
 Most of the household work is done by women, who milk the cows, prepare butter and Tibetan dry-cheese or *chu-ra*, tan skins, and spin the Tibetan homespun cloth. Men are usually away with caravans, which start in the summer months for inner Tibet to pay tribute to the Government in butter, wool, and homespun cloth, and return in late autumn before the snow has blocked the passes, with loads of barley and
 
-**344 TRAILS TO INMOST ASIA**
+<a id="344">**344 TRAILS TO INMOST ASIA**</a>
 
 *tsam-pa* for winter consumption. When at home, the men guard the herds of yaks and sheep, by no means an easy duty at those altitudes.
 
@@ -4611,7 +4611,7 @@ After the morning tea, everyone starts the daily work. The housewife and her wom
 
 After the meal is over evening prayers are murmured and occasionally incense imported from Lhasa is burned. The men squat on the
 
-**345 THE HOR-PAS AND THEIR COUNTRY**
+<a id="345">**345 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 floor by the fire, telling each other stories and local news brought in by passing caravans. Some smoke the long Chinese pipes, which are imported from Tachienlu and Sining. If one of the family members knows how to sing he may chant the ancient ballad of Kesar, the mighty warrior king, who conquered Tibet in the past and is expected to reappear in this world to establish the kingdom of righteousness. I remember these squatting figures with faces lit by the reflection of fire, talking late into the night about the heroic deeds of King Kesar and his seven warrior friends. The usual dull expression of the nomad suddenly lights with an inner flame that conveys to you better than words, that the ancient martial spirit is still glimmering. The fire burns out and crouching figures of men with heads bent low to the knees and tresses of long black hair hanging about them, fade into the darkness.
 
@@ -4621,7 +4621,7 @@ The nomads, who form a large portion of Tibet's population, present a very degen
 
 The nomad tribes of northeastern Tibet and the Hor-pas have a stronger and finer physique. Among them we often find tall men with long, refined features. The women, with rare exceptions, are short in
 
-**346 TRAILS TO INMOST ASIA**
+<a id="346">**346 TRAILS TO INMOST ASIA**</a>
 
 stature, having broad faces and prominent cheek bones. It is an interesting and inexplainable fact that whereas the type of men varies according to tribe and locality, the type of women remains the same throughout the nomad regions of Tibet.
 
@@ -4633,7 +4633,7 @@ The Hor-pas south of the Thang La Range represent a transitory type between the 
 
 Curiously enough the same difference is observed in the language. The Hor-pas of the north speak a dialect of their own, closely related to the archaic nomad dialects of Tibet and hardly understood by the Lhasan Tibetans. In a recent paper on Tibetan phonology, I have shown some of the distinctive traits of these nomad dialects, their archaic form, and many characteristic peculiarities, the most striking of which are the pronunciation of some of the prefixes, and the voiced pronunciation of the ancient sonants, which have become voiceless in modern central Tibetan. In vocabulary also, the Hor dialect differs greatly from the central Tibetan. The subdialect spoken by the Hor-pas on the Nag-chu-ka border is already strongly tinted by the central Tibetan dialect, and although it has lost the pronunciation of most of the prefixes, it still re-
 
-**347 THE HOR-PAS AND THEIR COUNTRY**
+<a id="347">**347 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 tains the voiced pronunciation of ancient sonants. In vocabulary too, it is closer to the central Tibetan. One gains the impression that the Hor-pas north of the Thang La Range preserved the purer type of Hor-pas, and that the infusion of foreign non-Tibetan blood in them is greater than in their countrymen to the south, who have become thoroughly Tibetanized.
 
@@ -4643,7 +4643,7 @@ The costume is universal for all the nomad districts of Tibet. The usual costume
 
 4\. P. 259 of his work on the Third Central Asiatic Expedition (St. Petersburg, 1883).
 
-**348 TRAILS TO INMOST ASIA**
+<a id="348">**348 TRAILS TO INMOST ASIA**</a>
 
 ultramarine blue, the lamas have in most cases dark red pieces of cloth sewn on their fur coats.
 
@@ -4655,7 +4655,7 @@ The summer hat is made of straw and is covered with cotton cloth, the rim being 
 
 It is in the hairdresses that we notice the greatest differences. The women have their hair plaited in numerous small braids that hang down the back and are kept together by a broad piece of red cloth on which silver ornaments are sewn, consisting mostly of silver Indian rupees, Chinese dollars, and Tibetan silver coins. The girls in the Hor
 
-**349 THE HOR-PAS AND THEIR COUNTRY**
+<a id="349">**349 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 region wear small brass bells hanging from their hair and belts, and their movements are accompanied by the soft jingling of these bells.
 
@@ -4667,7 +4667,7 @@ The Bön-po lamas of the Hor region have their heads shaved. Tantric lamas or *n
 
 The armament of the Hor-pas consists of Tibetan swords, lances, and modern magazine rifles. The old Tibetan matchlocks are very seldom seen and so far as I know, are only used in New Year ceremonies to drive off devils. The nomads always go armed. The difficult and dangerous life on the Tibetan highlands makes it a necessity. All the men carry long swords, which remind us of the blank weapons of the European early Middle Ages. The best swords come from the Province of Kham in eastern Tibet, and high prices are offered for famous swords that have killed the greatest number of enemies, on the blades of which stains of blood can still be seen, for a sword is never cleaned after battle and is returned bloodstained to the scabbard. According to a Tibetan Bön-po legend, the sidearms and shields were also introduced into Ti-
 
-**350 TRAILS TO INMOST ASIA**
+<a id="350">**350 TRAILS TO INMOST ASIA**</a>
 
 bet during the spread of the Bön religion from the land of Shang-shung and Bru-sha.
 
@@ -4681,7 +4681,7 @@ Another favorite blank arm is the spear. Two kinds of spears are used, the long 
 
 The Tibetan dart is made of hard wood imported from east Tibet or Szu-ch'uan. The spear staff is wound with an iron braid. A large metal
 
-**351 THE HOR-PAS AND THEIR COUNTRY**
+<a id="351">**351 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 ring is fixed at the end of the staff and another ring slides loosely along the staff. When in action a string is tied to both rings. The rider keeps the string and staff in his raised hand, then lets loose the staff, and throws the dart, keeping the end of the string in his hand. The dart flies with a rattling noise made by the loose ring on the iron braid of the staff. After the ring reaches the end of the spear staff, the spear drops and the rider pulls it back into the saddle. Great strength and good horsemanship are needed in throwing such a dart. This weapon is used by the nomads of north and northeastern Tibet.
 
@@ -4693,7 +4693,7 @@ The lasso, favored by Kirghiz tribesmen on the Russo-Turkestan border, is unknow
 
 A common scourge of all the nomad districts of Tibet are the bands of brigands who roam in the vicinity of trade routes and wealthy encampments. Sometimes there are bands of professional robber tribes from northeastern Tibet. A band of armed robbers consists of some twenty or thirty mounted and well-armed men, with light baggage carried on pack ponies, that are led by horsemen. A party can cover long distances daily and make surprise attacks on caravans and camps. Brigand horses are said to be the best in the country. They are trained to obey strange, shrill sounds emitted by the rider. The rider whistles and the horse doubles its pace. A shrill, rising sound will make the horse
 
-**352 TRAILS TO INMOST ASIA**
+<a id="352">**352 TRAILS TO INMOST ASIA**</a>
 
 leap in full gallop. Such horses cannot be ridden by ordinary riders, who have no knowledge of the sounds that guide them.
 
@@ -4705,7 +4705,7 @@ The tribal militia is maintained by the orders of the Lhasan Government. In case
 
 Besides military duties in time of national danger, the tribal militia has another important duty to perform --- the guarding of the long Tibetan boundary line. All along the northern Tibetan border, that roughly passes along the Marco Polo or Angar Dakchin Mountains, stand outposts of militia which watch the caravan routes leading from Mongolia and China. Such a post usually consists of six to ten men who live in the black tent of the nomads. It is their duty to scout the neighborhood and to report to the nearest frontier authorities any approaching caravans. One can imagine life on such outposts, situated sometimes hundreds of miles from the nearest inhabited point of Tibet and on an elevation of some fifteen to sixteen thousand feet. The men are obliged
 
-**353 THE HOR-PAS AND THEIR COUNTRY**
+<a id="353">**353 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 to live on *tsam-pa* and hunt wild yaks and *kyangs*. In winter such outposts are sometimes completely cut off. Many riders sent to reestablish communication perish on the way and are devoured by wolves and bears.
 
@@ -4717,7 +4717,7 @@ During the reign of King Lang-dar-ma (ninth century A.D.) the Bön doctrine retu
 
 Our knowledge of the Bön religion is still very imperfect. Only a very limited number of texts has been edited and translated. The rest of the voluminous literature still remains a closed book. The Bön-po terminology presents insurmountable difficulties, for it is hard to obtain the services of a well-read Bön-po priest who will agree to part with his knowledge of the doctrine. To collect information about this primitive religion, relic of a remote past, is much more difficult than to gather information about the Tibetan form of Buddhism. First of all, the Bön
 
-**354 TRAILS TO INMOST ASIA**
+<a id="354">**354 TRAILS TO INMOST ASIA**</a>
 
 fraternities are found in places difficult of access, and secondly, the Bön-po adepts are recalcitrant in giving information to foreigners. They usually profess utter ignorance about the tenets of their faith and deny the existence of manuscripts or printed texts.
 
@@ -4735,7 +4735,7 @@ In the first form of Bön, we meet gods of heaven and earth, of sun and moon, of
 
 6\. *Tibetische Hochzeitslieder* (Hagen and Darmstadt, 1923).
 
-**355 THE HOR-PAS AND THEIR COUNTRY**
+<a id="355">**355 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 have a close affinity to the old deities of earth. The primitive Bön doctrine is still represented by errant exorcists, who never belong to settled fraternities. Their holy places are not marked by monasteries or chapels, but are represented by crude stone altars, or stone monuments in the form of menhirs or cromlechs. Sometimes the stone altars are situated on the summits of mountains, sometimes in secluded caves amid rocks and towering cliffs. I am convinced that the megalithic monuments discovered by the expedition all along the pilgrim route to Mount Kailasa are such sacred places of nature worship. A detailed description of these monuments will be given in the chapter devoted to the description of the Great Lake region of Tibet. These megalithic monuments, menhirs, cromlechs, and alinements, first discovered by the expedition, undoubtedly belong to the pre-Buddhistic period of Tibetan history, when primitive Bön was the accepted faith of the country.
 
@@ -4745,7 +4745,7 @@ From my conversations with the Bön-po lamas it appears that the Bön form of Sa
 
 Besides these supreme deities we hear of a host of other divine beings, most of which are personified nature forces and malignant ghosts. An old deity is Garuda or Cha-khyung (Bya-khyung) which figures on many Bön images and paintings, and probably belongs to the ancient Indo-Tibetan stock of Bön. It would be highly interesting to study the origins of the cult of Garuda in connection with the numerous representations of the eagle and the griffin in the nomad art of central Asia and southern Russia. On Bön frescoes we meet an endless host of *dkar-phyogs lha*, "Gods of the White Quarter" (or "benevolent gods") and *nag-phyogs lha* or "Gods of the Dark Quarter" (malignant deities).
 
-**356 TRAILS TO INMOST ASIA**
+<a id="356">**356 TRAILS TO INMOST ASIA**</a>
 
 The belief in nature forces, personified by divine beings or *lha*, is common to both forms of Bön. Each place possesses its own countryside god or *yul-lha*, and *'dre* or demon. The *lha* is usually benevolent, but sometimes of a difficult nature and the people of the place have a hard time keeping the deity satisfied.
 
@@ -4759,7 +4759,7 @@ All these Bön divinities, who rule the destinies of men, are designated by the 
 
 The story of the youth of Shen-rap has much in common with the
 
-**357 THE HOR-PAS AND THEIR COUNTRY**
+<a id="357">**357 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 respective episodes of the Buddha legend. The work of the Redeemer Shen-rap was continued on earth by a succession of teachers, who are usually represented on frescoes attired in the monastic costume of the Nying-ma-pas, or unreformed Buddhists. We are as yet unable to say much about this line of Bön-po teachers. It seems likely that the establishment of Bön monastic fraternities was started only during the Buddhist period. The primitive Bön religion had no monasteries. The Bön monastery is an adaptation of a Buddhist model and the monastic rules are largely taken from Buddhist sources. Large Bön-po monasteries exist in the Jya-de Province and northeastern Kham. The region of Nup-hor counts at least three monastic establishments.
 
@@ -4769,7 +4769,7 @@ The codification of the Bön doctrine and the creation of the voluminous religio
 
 7\. (London, 1904), pp. 271-276.
 
-**358 TRAILS TO INMOST ASIA**
+<a id="358">**358 TRAILS TO INMOST ASIA**</a>
 
 ment of the volumes and their contents. The title of each text is given in two languages. Sometimes it is the *Shang-shung skad* or "language of Shang-shung," sometimes it is the *gYung-drung lha' i skad* or "language of the Svastika gods." All these languages are unintelligible and are probably artificial.
 
@@ -4781,7 +4781,7 @@ These treatises are almost untranslatable because of their terminology. I was to
 
 The second class of Bön literature is represented by the great nomad epic of King Kesar, the mighty warrior, whose deeds are chanted in
 
-**359 THE HOR-PAS AND THEIR COUNTRY**
+<a id="359">**359 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 sixteen volumes. All copies of this important work are in manuscript form. So far as it is known it has never been printed and the existing copies are jealously preserved in the families. For the nomad of eastern and northern Tibet, the legend of Kesar is not a mere epic, it is his religion, his embodied hope for a better future which is framed on the model of the glorious past.
 
@@ -4801,7 +4801,7 @@ The nomads of Kham and Hor understand the ballad differently. According to them 
 
 11\. *Geserica. Asia Major*, Vol. Ill, fasc. I, pp. 1-32.
 
-**360 TRAILS TO INMOST ASIA**
+<a id="360">**360 TRAILS TO INMOST ASIA**</a>
 
 a mighty nomad warrior, who lived in the time of King Srong-btsan sgam-po and Khri-srong lde'u-btsan in the border country of Mongolia and China, in the territory now incorporated in the modern Province of Shan-hsi.
 
@@ -4817,7 +4817,7 @@ In Tibet and Mongolia, the epic of Kesar is still constantly enriching itself wi
 
 13\. On literature about the Kesar ballad see: Laufer, *Ocherk Mongolskoi Literaturi,* ed. Professor V. Vladimirtsoff (Leningrad, 1927), p. 74; I. J. Schmidt, *Die Taten Bogda Gesser Chan's* (first published in St. Petersburg and Leipzig in 1893). New edition in the collection "Die heiligen Bucher des Nordens," Vol. I (Berlin, 1925).
 
-**361 THE HOR-PAS AND THEIR COUNTRY**
+<a id="361">**361 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 During the lengthy stay among the nomads of Hor, the expedition succeeded in collecting additional data, which clearly establishes the important fact that a new chapter in the voluminous epic of Kesar is about to be written. In Mongolia also, a new chapter on the future exploits of Kesar is in process of creation. These new additions have the character of prophetic songs.
 
@@ -4833,7 +4833,7 @@ The Bön-po monastery of Sharugön was built some twenty years ago. The necessar
 
 14\. See his *Proizvedeniya narodnoi literaturi Buriat*, Pt. III, Introduction, p. xxvii (Petrograd, 1918).
 
-**362 TRAILS TO INMOST ASIA**
+<a id="362">**362 TRAILS TO INMOST ASIA**</a>
 
 The approach to the monastery is guarded by a high *stupa* or *mchod-rten* crowned with a pair of yak horns. (It is known that the custom of setting animal skulls and horns on *mani*-walls, stone cairns, and *stupas* is Bön-po in origin.) The *stupa* is painted white and has yellow, red, and blue stripes on its steeple, symbolizing the three spheres of the Universe: *stan-lha*, the region of gods, *bar-btsan*, the middle region, and *gyog-klu*, the abode of *Nagas*.
 
@@ -4843,7 +4843,7 @@ The new *du-khang* is a stately stone building, erected some six years ago. It i
 
 The similarity of Bön and Buddhist paintings is due to some extent
 
-**363 THE HOR-PAS AND THEIR COUNTRY**
+<a id="363">**363 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 to the fact that temples are often decorated by laymen artists, who paint Buddhist symbols and Bön-po images alike and involuntarily transfer Buddhist symbols to a Bön-po painting and *vice versa*. Such was the case with the wall paintings in the Sharugön monastery. All of the paintings were executed by a layman-artist, Buddhist by religion, who painted the frescoes under the guidance of the monastery's head lama.
 
@@ -4853,7 +4853,7 @@ The chief place on these wall paintings is occupied by the Bön-po Redeemer, She
 
 Another common image on the wall paintings is the Bön counterpart of the white Tara, the goddess Ma-btsün-pa, Mother Nature. Her raised
 
-**364 TRAILS TO INMOST ASIA**
+<a id="364">**364 TRAILS TO INMOST ASIA**</a>
 
 right hand holds the stalk of the *kumuda* flower. In all other respects the Bön-po and Buddhist images of the goddess are identical. The Bön-po form of the All-Merciful One or Avalokitesvara with eleven heads and innumerable arms is identical to the lamaist form. Only one of the hands is seen holding a Bön *vajra* with the image of the Svastika.
 
@@ -4867,7 +4867,7 @@ The rest of the walls of the principal hall are covered with frescoes representi
 
 16\. Van Manen in his interesting article, p. 210, gives gsang-wa as the name of the god. I think we have to do here with a mystic form of Vajrapani, a gsang-wa'i lha.
 
-**365 THE HOR-PAS AND THEIR COUNTRY**
+<a id="365">**365 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 them are represented seated, or standing on low thrones or *asanas*, with images of a lion, an eagle, and an elephant.
 
@@ -4881,7 +4881,7 @@ Above the bookshelves hang a number of masks used in religious dances that take 
 
 17\. Concerning the seven *a-khu*, dialectical *a-gu*, and another group of eighteen *a-khu*, see Dr. Francke, *op. cit.*, pp. 17 ff.
 
-**366 TRAILS TO INMOST ASIA**
+<a id="366">**366 TRAILS TO INMOST ASIA**</a>
 
 ices held there. The head lama was always absent at his hermitage and the rest of the monks attended to their own domestic occupations.
 
@@ -4905,7 +4905,7 @@ TINDER AND FLINT POUCH. HOR REGION, NORTH TIBET
 
 TINDER AND FLINT POUCH, HOR REGION, NORTH TIBET
 
-**367 THE HOR-PAS AND THEIR COUNTRY**
+<a id="367">**367 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 One of the important results of the expedition was the discovery of the "animal style" among the nomad tribes of northern Tibet. This "animal style" consists of decorative *motifs*, composed of animal figures, which are sometimes combined to form most striking ornamental compositions. Some of these *motifs* are highly stylized and have a long development behind them. The artists who produced them were keen observers of nature, and knew well the character and habits of the animals they were depicting. The style spread over immense regions and was common to all nomad tribes of higher Asia. The center of this great nomadic culture that so powerfully influenced the art of its more civilized neighbors was in the Altai Mountains, a region which abounds in gold and metal ore and in forest fauna often portrayed on objects in "animal style."
 
@@ -4919,7 +4919,7 @@ The earliest known account of a penetration of foreign central Asian
 
 18\. Cf. Professor M. Rostovsteff, *The Animal Style in South Russia and China* (Princeton, 1929), chap. iv.
 
-**368 TRAILS TO INMOST ASIA**
+<a id="368">**368 TRAILS TO INMOST ASIA**</a>
 
 elements into the country populated by Tibetan tribes (K'iang of the Chinese Annals) is found in(19) the *Shi-ki*, by the famous historian Ssi-ma ts'ien: "Up to the time when Lao-shang, shan-yü of the Hiung-nu, killed the king of the Yue-chi (Iranians) and made a drinking vessel out of his skull, the Yue-chi had lived between Tun-huang (now Sha-chou) and the K'i-lien (a mountain southwest of Kan-chou fu) but when they were beaten by the Hiung-nu, they fled to a distant country and crossed to the west of Yüan (Ferghana), attacked Ta-hia (Bactria) and conquered it. Subsequently they had their capital in the north of the K'ui-shui (Oxus) and made it the court of their king. The minority which were left behind and were not able to follow them, took refuge among the K'iang (Tibetans) of the Nan Shan and were called Siao-Yue-chi (small Yue-chi)."
 
@@ -4949,7 +4949,7 @@ FROM THE COLLECTION OF S. N. ROERICH
 
 PHOTOGRAPH OF DEER ON BRASS CHARM BOX
 
-**369 THE HOR-PAS AND THEIR COUNTRY**
+<a id="369">**369 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 The execution of the animal figures and their decorative treatment attest the close affinity of this object to the central Asian nomad art. In the center of the pouch is a brass plate with representations of the eight happy signs (*ta-shi tag-gye*).
 
@@ -4999,7 +4999,7 @@ METAL PLAQUE FROM THE NOIN ULA MOUNTAINS
 
 FROM THE KOZLOV FINDS
 
-**371 THE HOR-PAS AND THEIR COUNTRY**
+<a id="371">**371 THE HOR-PAS AND THEIR COUNTRY**</a>
 
 southern parts of this artistic province and the aurochs plaque on its northern border. Both plaques depict highly stylized mountains, probably covered by forest.
 
@@ -5031,7 +5031,7 @@ Rumors were current that the Joint-Governors of Nag-chu on arrival at Tsom-ra ha
 
 Everybody rejoiced, seeing in this the probable end of our detention. The local people were particularly pleased as they were tired of serving us and the Major and his soldiers. In the evening, when the moon rose above the rocks, the new guards sang the Kesar saga and accompanied their song by a weird dance. "Today Kesar's horse arrived, today the sun will rise, on the glacier the lion will walk about," sang the Hor-pas,
 
-**376 TRAILS TO INMOST ASIA**
+<a id="376">**376 TRAILS TO INMOST ASIA**</a>
 
 --- passage from the song about the war of Kesar against the King of Hor. Their shrill voices rose high in the solitude of the night. In singing the Kesar song they wished us good luck on our way to far distant India. Their song was abruptly stopped by a Kham-pa. "Do not sing so loudly," said the man, "otherwise the Tibetans in the monastery will hear you and will be angry with you." The song stopped abruptly and the audience dispersed, each going to his tent. We stayed outside for some time, speaking of the strange fascination that the Kesar saga has on these simple-minded nomads. We slept little that night. The Major ordered the camp for the Governors to be erected during the night, and there was a continuous going and coming the whole night. Next morning at about ten o'clock two Tibetans arrived: the *do-nyer*, or representative, accompanied by the cook of the Governor. They were dressed in the usual Tibetan style, with enormous fur caps, and carried *ga-u* or incantation boxes. They had Russian rifles adorned by *khatags* and multicolored flags.
 
@@ -5039,7 +5039,7 @@ About noon a general commotion announced the arrival of the Joint-Governors, who
 
 According to his own words, he had been living in retirement for several years at Lhasa, when the most lofty Government of the Holy Protector, fearing a Chinese advance from Kansu, appointed him, the faithful servant and diplomat of the Government, possessing detailed
 
-**377 NAG-CHU-KA**
+<a id="377">**377 NAG-CHU-KA**</a>
 
 knowledge of "eight great countries," to the Governorship of Nag-chu-ka. Notwithstanding his being married, the Dalai Lama himself conferred upon him the rank of *tse-drung*, given usually only to celibate monks.
 
@@ -5049,7 +5049,7 @@ On learning of the objects of the expedition, the *khan-po* exclaimed that he wa
 
 The Governor further informed us that his government does not permit British, Russian, Chinese, and Japanese subjects to enter Tibet proper, that is the Ü and Tsang Provinces, and although there is no such provision against Americans in existing treaties, to which Tibet was a signatory power, they could not allow us to proceed because the
 
-**378 TRAILS TO INMOST ASIA**
+<a id="378">**378 TRAILS TO INMOST ASIA**</a>
 
 British, Russians, and Japanese would take advantage of this precedent and penetrate into the country. The Joint-Governors told us that the usual way of dealing with foreign subjects arriving at the Nag-chu border was to send them back either to Sining or to Ladak, but in our case the authorities were ready to consider our demand to let us cross Tibet to India. The *khan-po* added that according to instructions received from Lhasa, he and his colleague would give us caravan animals to replace ours, and supplies as far as the frontier of India.
 
@@ -5057,7 +5057,7 @@ In replying we informed the Joint-Governors, that treaty provisions could not be
 
 This route had the great advantage of being much shorter than any of the circuit routes, only some twenty days by pack to Phari dzong and it crossed rural districts of Tibet, where supplies could be easily obtained. We again reminded the Joint-Governors that we were no intruders, and possessed passports granted by the Tibetan representative in Mongolia. "Why do you pay so much attention to a piece of writing given by this miserable beggar?" exclaimed the *khan-po*. He was losing his temper and the servants standing by impudently laughed into the sleeves of their fur coats. We continued to insist on our point and advised the *khan-po* that if the Tibetan Government did not recognize its official representative in Urga, it should immediately notify the Chinese and Mongolian Governments of the fact. The Governors rose in
 
-**379 NAG-CHU-KA**
+<a id="379">**379 NAG-CHU-KA**</a>
 
 tumult and declared that they had to go and draft a new letter to Lhasa about us. We accompanied the Governors outside the tent, and they at once retired to their camp. Clouds gathered toward evening, indicating a probable change in atmospheric conditions.
 
@@ -5067,7 +5067,7 @@ At five o'clock in the afternoon we paid a return visit to the *khan-po*. The Go
 
 Having settled the question of supplies, we returned to camp. The wind was howling, driving sand and wet snow into our faces. Next morning the Governors left for Nag-chu and we began our prepara-
 
-**380 TRAILS TO INMOST ASIA**
+<a id="380">**380 TRAILS TO INMOST ASIA**</a>
 
 tions for departure. We were now allowed to proceed to Nag-chu and the local headmen left Sharugön to collect yaks and horses for us.
 
@@ -5077,7 +5077,7 @@ Mr. Portniagin and our Tibetan guide were suffering from scurvy. New arrivals fr
 
 For the past few years the climate of the Tibetan uplands has been changing rapidly, the region receiving more precipitation. There are heavy snows in winter and heavy downpours of rain in July and August. I remember having seen pools of rain water on the sandy surface near the Kokoshili Mountains, caused by recent rains. This year the snowfalls began about the middle of November. The local nomads decamped in search of grazing grounds for their cattle and went far to the north of the Thang La Range. Those who were unable to move in time lost most of their cattle and were wandering in the district in search of sustenance. The Government was trying to help them and daily distributions of *tsam-pa* were held at Nag-chu. Local Hor-pas said that it would be impossible to use yaks on the long journey, as the animals were extremely weak. For the past ten days we had been trying to buy a yak, in order to get some meat for the journey, but the local population was unable to satisfy us, because no yaks were left in the region. Pack yaks for the expedition had to be brought from beyond the Thang La, almost eight days' journey from Sharugön.
 
-**381 NAG-CHU-KA**
+<a id="381">**381 NAG-CHU-KA**</a>
 
 Portniagin was still suffering and the Colonel again fell ill. It looked as if we would be unable to make a long and difficult journey and would have to fight our way to India by the shortest route. After the departure of the Joint-Governors, we were busily occupied packing our *yaghtans*, repairing saddlery and patching the tents. On January 18, some of the yaks from the Paoro nomads reached Sharugön. For one hundred pack yaks needed by the expedition up to Nag-chu, we would have to pay two hundred *ngü-sangs*. The price of a horse was twenty-five *ngü-sangs*, as there were no horses left in the region. We decided to go on our own horses, sixteen of which were still in condition to be ridden. The Major, greatly afflicted by the death of his wife, took no interest in the proceedings. The day was occupied with the almost hopeless task of extracting the iron pegs of the tents. The pegs were frozen hard into the ground and we had to thaw the ground with fire.
 
@@ -5089,7 +5089,7 @@ We stopped north of the Ta-sang La near a frozen brook. Having pitched our tents
 
 Next day we had to fight our way through the snows that blocked the Ta-sang La. The ascent was not steep but long and it took us four hours to get to the top of the pass. Heavy clouds covered the sky. Yaks had a bad time on the pass and many stuck in the snow, unable to move, and had to be dragged out by their *lakto* or drivers --- a tiresome job at these altitudes. The horses stumbled knee-deep in snow. We passed a Golok lama on the top of the pass. The poor fellow was strug-
 
-**382 TRAILS TO INMOST ASIA**
+<a id="382">**382 TRAILS TO INMOST ASIA**</a>
 
 gling in the snows, his horse having fallen while ascending the pass. Several tea caravans from Sining were stranded on the pass, unable to proceed farther, all their caravan animals having perished.
 
@@ -5101,7 +5101,7 @@ In the night we experienced unusual cold. The thermometer fell to -50°C.! Some 
 
 After following the valley for some time we crossed a ridge and stopped on the bank of the Nag River. The snow covered the ground some five feet deep and we spent several hours clearing the place for our tents. The guide told us that we could reach Nag-chu the same day, but
 
-**383 NAG-CHU-KA**
+<a id="383">**383 NAG-CHU-KA**</a>
 
 it was advisable to stop here, as the animals were very tired and we had already left several yaks behind. In the night, we again experienced intense cold but as the march was to be short, we stayed in our tents until ten o'clock in the morning and started when the sun had sufficiently warmed the atmosphere. Even the cognac in the doctor's flask was frozen.
 
@@ -5109,7 +5109,7 @@ Rounding a rocky spur, we saw the town of Nag-chu at the other end of the valley
 
 The district of Nag-chu or Nag-chu-ka, named after the river Nag, which flows out of the Amdo tsho-nak Lake some fifty miles northwest, is a vast stretch of land with an average elevation of fifteen thousand feet, stretching north of the Shang-shung Pass in the Nyen-chen Thang La Range. To the west the district borders upon a narrow patch of country called Chö-khor, which is the property of the Sera Monastery in Lhasa. On the southwest it borders on the district of Dam which belongs to the Tsang Province. Toward the northwest it stretches far into the region of Amdo tsho-nak, and borders on Nam-ru. To the north the district stretches as far as the Ta-sang Pass, then comes a narrow strip of country from the Ta-sang Pass to the Kam-rong Pass (the high elevated valley of Chu-na-khe and the surrounding hills), which is administrated by the High Commissioner of Hor. The Sheng-di Valley, north of the Kam-rong Pass, and the country north of Sheng-di, as far as the river Chu-mar or Napchitu ulan-müren on the Tibetan upland is again a part of the Nag-chu district. Such districts, in which one part is separated from another by strips of land belonging to a third district, are a
 
-**384 TRAILS TO INMOST ASIA**
+<a id="384">**384 TRAILS TO INMOST ASIA**</a>
 
 characteristic feature of Tibetan local administration and one of the greatest handicaps to travelers who have to change their transport on the way.
 
@@ -5135,7 +5135,7 @@ NAGCHU DZONG
 
 SHAB-DEN MONASTERY AT NAGCHU
 
-**385 NAG-CHU-KA**
+<a id="385">**385 NAG-CHU-KA**</a>
 
 chants get local products in exchange, mostly wool, which is afterward sent to Lhasa and farther to Chumbi and India.
 
@@ -5147,7 +5147,7 @@ The trade in Nag-chu usually consists of brick tea brought in from Tachienlu thr
 
 Nag-chu is situated at the crossing of several big caravan routes. The first is the great northern route, Mongolia --- Tsaidam --- Lhasa; the second, China --- Sining --- Nag-chu --- Lhasa; the third, Sung-pan t'ing --- Jyekundo ---
 
-**386 TRAILS TO INMOST ASIA**
+<a id="386">**386 TRAILS TO INMOST ASIA**</a>
 
 Nag-chu --- Lhasa; the fourth, Tachienlu --- Chamdo --- Nag-chu --- Lhasa; the fifth, Ladak --- Nga-ri --- Nag-tshang --- Nam-ru --- Nag-chu --- Lhasa. Nag-chu is considered to be one of the most important custom outposts in Tibet, and all caravans coming from the north and northeast are stopped, pending a favorable reply from Lhasa.
 
@@ -5157,7 +5157,7 @@ These frontier guards consist of local militia or *sa-srung mag-mi* with no unif
 
 The Tibetans greatly pride themselves on Nag-chu and in official correspondence the place bears the grand name of "the lofty snow-palace of Nag-chu" although there is no building there or in the neighborhood that could be called a palace. The Governor's residence is certainly not palatial!
 
-**387 NAG-CHU-KA**
+<a id="387">**387 NAG-CHU-KA**</a>
 
 The sanitary conditions of the place are awful. One sees everywhere carcasses of dead horses and yaks. Heaps of refuse, and hundreds of vagabond dogs are among the adornments of the town. Happily the river was still frozen and we thanked the fate that made us visit Nag-chu in winter. The smells of the place in summer must be very trying. Conversing with one of the custom officials of the *dzong*, I mentioned the dirt that permeates the place. "What would you say of Lhasa," exclaimed the man. "Here in Nag-chu we have a pure stream flowing from the Amdo tsho-nak, but in Lhasa you have to drink water from a river, which receives enormous quantities of refuse every day. Thanks only to the protection of the Exalted One, the city is seldom attacked by diseases."
 
@@ -5169,7 +5169,7 @@ The Joint-Governors were drafting a fresh report to the Government, and on sever
 
 On the fourth day of our arrival at Nag-chu, I paid a visit to the Civil
 
-**388 TRAILS TO INMOST ASIA**
+<a id="388">**388 TRAILS TO INMOST ASIA**</a>
 
 Governor or *nang-so*. The old squire lived in an ordinary Tibetan house with two courtyards, his quarters being much inferior to those of his colleague. He told me that he expected an answer from the Government soon, for he "always got favorable answers from Lhasa." The Governor told me most amusing stories of his war experiences in Kham under the Kalön Lama. He complained that European maps of Tibet were very deficient and that the Tibetan Staff had a very hard time planning their campaign. I asked him what kind of maps they used and imagine my stupefaction when the Governor told me that they used a general map of the world and a globe! I tried to explain to him that these maps were quite useless for military purposes and that it is no wonder that they could not recognize the region of their operations on these maps, their scale being too small. The Civil Governor continued to insist that the globe was a very useful thing, as it represented the whole of Jambuling. He also told me that Eric Treichman, British Consular Officer at Tachienlu, carried two small artillery guns in his saddlebags when traveling in Kham!
 
@@ -5179,7 +5179,7 @@ The days were becoming somewhat warmer, although the nights were still very cold
 
 The next day, the Governor informed me that I should have to come to see him, and that the Civil Governor and the Major would also be present, as some important questions were to be discussed. A letter had been received from Lhasa and the Governor read extracts from it. The Government was in receipt of the Joint-Governors' report drafted in Sharugön and desired to have more details about our proposed trip. The
 
-**389 NAG-CHU-KA**
+<a id="389">**389 NAG-CHU-KA**</a>
 
 Government professed to have no knowledge whatever of our detention and desired to inform us that the letter addressed by the High Commissioner of Hor was lost on the way and that the soldier who carried the letter never reached Lhasa. I asked the Major whether the soldier returned to the High Commissioner, but he professed to know nothing about it and apparently found nothing wrong in the fact that official messengers from his superior officer had been intercepted somewhere on the way. The Joint-Governors decided to send a new letter about us, giving all necessary details, and the Civil Governor at once busied himself with the preparation of the draft. Meanwhile, the *khan-po*, being in a talkative mood, proceeded to tell stories about recent happenings in the world. Everyone listened eagerly to his words, and even the Civil Governor stopped his work.
 
@@ -5187,7 +5187,7 @@ The *khan-po* told us that formerly the religion of Russia had been somewhat sim
 
 According to the *khan-po*, the Emperor of China was a lay disciple of the Dalai Lama, and his empire a dependency of Tibet. He was very sorry about the present change of government in China, for the country lost the unique opportunity to profit from the advices of the All-knowing Presence. Indeed, the Chinese rebelled against Tibet in 1911 and multitudes of their warriors appeared in Lhasa, but the Inner Protector by his incomparable power of discrimination and the bravery of his countless troops, punished the insolent Chinamen. Formerly the Mongols were subjects or *mi-ser* of the Lhasan Government, but lately they had tried to shake off the authority of His Holiness and abolished the incarnation of Je-tsün tam-pa, who had been Tibet's Vice-Regent in Mongolia. After this enlightening conversation with the Governor I re-
 
-**390 TRAILS TO INMOST ASIA**
+<a id="390">**390 TRAILS TO INMOST ASIA**</a>
 
 ceived the impression that Tibet was rapidly losing its place of "paramount" power in Asia!
 
@@ -5201,7 +5201,7 @@ In the afternoon a Tibetan brought me a manuscript copy of the Kesar (*Kesar-gyi
 
 On February 7, the *nyer-wa* or treasurer of the *dzong* paid us a visit and informed us that the government reply or *ka-len* had been received. In the afternoon we were asked to visit the *khan-po* who officially informed us that the Government of Tibet agreed to allow us to proceed to Sikkim and that they would arrange the caravan for the expedition as soon as the snow had melted sufficiently, as at present there were no pasture grounds for horses and yaks on the way. Professor Roerich insisted that we should be allowed to start at once, as the ex-
 
-**391 NAG-CHU-KA**
+<a id="391">**391 NAG-CHU-KA**</a>
 
 pedition was short of funds. The *khan-po* promised to send notice to all the headmen of the Nag-chu district. The Governor added that the Government had expressed its displeasure at the news that all our caravan animals had died and that a government inquiry was expected.
 
@@ -5211,7 +5211,7 @@ In a few days the headmen returned to Nag-chu and reported that the local popula
 
 The preparations for the *lo-sar* or the New Year were in full swing. Enormous amounts of *chang*, the country wine, were prepared in every house. Most of the officials were on holiday and under the strong influence of *chang*. The local headmen refused to furnish argal to our lamas, who were going on a pilgrimage to Lhasa. They insisted that pilgrims from Mongolia should pay them. Some caravans on yaks were beginning to come from Lhasa. We were surprised to see the small size of the local yaks in comparison to the fine animals seen on the Kirghiz pasture lands of Chinese Turkestan.
 
-**392 TRAILS TO INMOST ASIA**
+<a id="392">**392 TRAILS TO INMOST ASIA**</a>
 
 In the evenings heavy clouds of argal smoke poisoned the atmosphere. The refuse heaps in the streets were growing larger, for the population was busily occupied preparing the New Year feasts. How happy we all would be to begin the long-expected journey to Sikkim, and to approach the mighty Himalayas!
 
@@ -5241,7 +5241,7 @@ A STONE HOVE ON THE TIBETAN UPLAND
 
 GRAZING YAKS ON THE TIBETAN UPLAND
 
-**393 NAG-CHU-KA**
+<a id="393">**393 NAG-CHU-KA**</a>
 
 carried swords, and matchlocks with smoking wicks. The procession slowly moved to the street in front of the Governor's house. The *torma*, after a short service, accompanied by the clamor of tambourines, was precipitated into a great fire laid out on the pavement. The headmen fired their guns into the fire and with loud outcry brandished their swords. After the ceremony, a wild scene followed --- beggars and prisoners with shackles on their legs precipitated themselves into the fire and tore from each other in a wild fight portions of the burning *tormas*. Possessors of such pieces of *torma* are said to be immune from bullets.
 
@@ -5251,7 +5251,7 @@ In the afternoon a big ceremony took place in the monastery. A long procession o
 
 February 22, 1928. Today was the Tibetan New Year. The *khan-po* held a reception in the afternoon and everybody was invited to attend; a very tiresome function, with tea drinking and endless New Year compliments. Later in the afternoon an exceptional quiet pervaded the city. I inquired the reason and was told that all the good citizens of Nag-chu were hopelessly drunk, and were slumbering after the day's exertions. Toward evening beggars went round the place singing New Year songs. The next day the Governors would proceed in a procession to the top of a nearby hill and lay the foundation of a new *obo* --- a rite performed every year at Nag-chu-ka. With this ceremony the local New
 
-**394 TRAILS TO INMOST ASIA**
+<a id="394">**394 TRAILS TO INMOST ASIA**</a>
 
 Year's festivities would end and everyone would resume routine work, although the officials and the richer people would continue to enjoy themselves for a whole month.
 
@@ -5261,7 +5261,7 @@ On February 26, two soldiers of the Major came to inform us that the yaks were d
 
 Professor Roerich asked the Major to stay in Nag-chu until the arrival of all the animals. The Major was apparently much displeased with this, but pretended to agree. In the afternoon the Joint-Governors unexpectedly invited us to visit them. They declared that according to their information, the yaks would not reach the place that day and that it was absolutely necessary to make the Major stay in Nag-chu until the arrival of all the caravan animals. The Governors themselves were unable to induce the Major to stay longer and hoped that we should be able to do so. One of the *do-nyers* was sent to bring him. We had to witness an unpleasant scene, the Major and the Civil Governor quarrel-
 
-**395 NAG-CHU-KA**
+<a id="395">**395 NAG-CHU-KA**</a>
 
 ing and abusing each other. The *khan-po* took an evident pleasure in the dispute and laughed when the Major told the Civil Governor what he thought of him. We informed the Joint-Governors that unless all the yaks reached Nag-chu in a few days, we should be obliged to start at once southward by the shortest route and asked them to furnish us with yaks or coolies to transport our baggage to Pondu dzong, south of the Shang-shung Pass. The threat made the Major promise that he would not leave before the arrival of all the caravan animals. As expected the yaks did not arrive on the appointed day although the local officials and headmen assured us that the caravan animals would reach Nag-chu in the evening or during the night.
 
@@ -5271,7 +5271,7 @@ During the night light snow covered the ground, but soon melted away. In the mor
 
 In the afternoon we invited the Major and told him firmly that unless his yaks arrived the next day, we should at once start for Lhasa and he would have to accompany us, for he was in some measure responsible for our detention. He replied that he could not produce yaks from his pocket, and that we, being at present at Nag-chu, should ask the Joint-Governors about the caravan animals. As to his responsibility for our detention, he had to say that all the wrong was done by his superior
 
-**396 TRAILS TO INMOST ASIA**
+<a id="396">**396 TRAILS TO INMOST ASIA**</a>
 
 officers and that he himself had no reason to detain us for such a long time. He reminded us that he himself suffered badly during this detention and that his wife had died.
 
@@ -5279,7 +5279,7 @@ The yaks did not arrive and new arrivals from Tse-mar reported that they had hea
 
 In the absence of the Civil Governor, the *khan-po* and the Major blamed him for everything. It was he who settled the matter with the High Commissioner. The doctor of the expedition handed to the Gov-
 
-**397 NAG-CHU-KA**
+<a id="397">**397 NAG-CHU-KA**</a>
 
 ernor a medical certificate signed by him, stating that the condition of some of the members was serious and that unless we were allowed to proceed to India, at once, all further detention would be considered as an organized attempt on the life of the members of the expedition. The *khan-po* asked me to translate the document, as the certificate had been written in English, and on learning its wording, he flatly refused either to send it to Lhasa, or to keep it. It was the High Commissioner who detained us and all such certificates should be addressed to him. He advised the Major to forward the certificate to the General and handed him the envelope with the document, but the Major dropped it on the low table in front of him and also refused to accept it.
 
@@ -5291,7 +5291,7 @@ On March 2, the Joint-Governors received information that all caravan animals wo
 
 Next morning we woke up very early. A crowd of headmen and yak drivers filled the courtyard. Yaks were tied to ropes outside the house gate. The day was spent in a terrific hustle. Cries, beatings, and general
 
-**398 TRAILS TO INMOST ASIA**
+<a id="398">**398 TRAILS TO INMOST ASIA**</a>
 
 confusion continued until sunset. Tibetan soldiers and we, ourselves, tried in vain to restore some order. The baggage having been distributed among Hor-pas and Chang-ri-was, guards were stationed near it as the Hor-pas and the Chang-ri-was were full of mutual distrust.
 
@@ -5311,7 +5311,7 @@ At half-past eight everything was finished and the last section of the yak carav
 
 Having crossed the river, which was still frozen hard, we ascended a spur, and the rocky silhouette hid Nag-chu with its monastery from
 
-**402 TRAILS TO INMOST ASIA**
+<a id="402">**402 TRAILS TO INMOST ASIA**</a>
 
 our view. An indistinct path wound along the southern slopes of a low ridge stretching to the west.
 
@@ -5321,7 +5321,7 @@ After a two hours' march along the southern slopes of the ridge which lay almost
 
 A strong southwest wind blew soon after we reached the place and we decided to wait and send men to look for the caravan. The wind lifted clouds of thin powder-like dust from the heaps of dung left near the encampment by flocks of sheep and it was impossible to stay there. The Colonel and I accordingly went in search of a cleaner place for the camp. Across the valley we succeeded in finding a dry patch of ground sufficient to accommodate all our tents, and waved to the rest of the party to join us. We remained there for about an hour, squatting on the ground among stones and protecting ourselves as far as possible from the bitter southwest wind. Suddenly a rider appeared, struggling in the
 
-**403 THE REGION OF THE GREAT LAKES**
+<a id="403">**403 THE REGION OF THE GREAT LAKES**</a>
 
 deep snow of the valley. He proved to be Ochir, one of our Mongols, who reported that our horses and camels had reached the encampments on the southern route and that the heavy transport on yaks was due to arrive by the same route. We at once started back and recrossed the snow-buried valley. Our dog Kadru, tired by the long march, refused to follow and had to be taken in the saddle.
 
@@ -5331,7 +5331,7 @@ A lama from Amdo, who happened to live among the nomads of this locality, tried 
 
 After a two hours' march along a broad valley with a slight ascent, covered by snow in some places, we reached the banks of the Tsang-po, near which the local headmen had pitched an ornamented white tent for us, and several black tents to accommodate our servants and the two *do-nyers* from the *dzong*. This was yesterday's stage and we therefore decided to continue our march and to reach Parta, which was our halt-
 
-**404 TRAILS TO INMOST ASIA**
+<a id="404">**404 TRAILS TO INMOST ASIA**</a>
 
 ing place for the day, according to the official letter or *da-yig* sent ahead of us from Nag-chu announcing our arrival. We crossed a broad plain covered with snow. One month earlier a passage across the plain would have been most difficult because of deep snow, but now it had settled sufficiently and in some places one could see the quills of the rough grass of the Tibetan uplands sticking out of the snow. On the southwest rose a snow-covered range, apparently a northern branch of the Shang-shung.
 
@@ -5341,7 +5341,7 @@ At one o'clock in the afternoon we reached the broad, circular valley called Par
 
 We left at about six o'clock in the morning and having ascended a low ridge to the west, emerged on a vast plain surrounded by low, stony ridges. The violent southwest wind which began soon after we started, made the progress exceedingly trying. The fierce wind of the Tibetan uplands, sometimes blowing with the force of a hurricane, unsteadies the nerves of the traveler and blackens his face beyond recognition. For some time we followed the northern shore of the lake Nam-mar phün-tshok, the first important lake on our way. To the west of the principal
 
-**405 THE REGION OF THE GREAT LAKES**
+<a id="405">**405 THE REGION OF THE GREAT LAKES**</a>
 
 lake there were numbers of smaller lakes, surrounded by swamps. We were now entering the region of the Great Lakes, this great drainageless basin, stretching in a succession of tremendous salt lakes north of the Trans-Himalayas. A passage near the shore of the lake was impassable because of swampy ground. We had to make a long circuit northward, and passed a number of geysers surrounded by layers of salt.
 
@@ -5353,7 +5353,7 @@ The broad plain on which we were staying was still called Parta, which is the na
 
 On the next day at seven o'clock we broke camp and followed the plain, which gradually rose toward the west. Having rounded the peak called Jung, we stopped after traveling for two hours and a half, near a
 
-**406 TRAILS TO INMOST ASIA**
+<a id="406">**406 TRAILS TO INMOST ASIA**</a>
 
 number of encampments surrounded by the usual argal walls. It is the custom of local people to make very short marches in order to give sufficient time for the animals to satisfy themselves on the poor grazing grounds of the Tibetan upland. We tried to make the caravan men proceed a little farther, but they declared that they would not move, as it was the stage for the day. All further arguing was useless.
 
@@ -5363,7 +5363,7 @@ We broke camp the next day about eight o'clock. Having ascended a snow-covered r
 
 Toward noon we reached a small rivulet flowing toward the lake, and having crossed it, entered a hilly region cut by narrow valleys. For some time we continued to follow the course of a stream, but on reaching the foot of a pass, were stopped by one of the Nag-chu *do-nyers*, who came rushing back, reporting the disquieting news that the official letter from Nag-chu had been wilfully kept by the local headman. It was impossible for us to continue on our way as no arrangements had been made ahead of us. It was necessary to find the guilty man and to arrange for another dispatch rider to carry the letter to Nam-ru. I insisted that he should be brought to me at once. The culprit was produced, a fellow with a criminal face and shifty eyes. He was silent to all the questions we asked him and I ordered him to be tied up, pending
 
-**407 THE REGION OF THE GREAT LAKES**
+<a id="407">**407 THE REGION OF THE GREAT LAKES**</a>
 
 further inquiry. We decided to hand him over to the higher local authority for proper punishment, according to the custom of the country.
 
@@ -5373,7 +5373,7 @@ During the night a strong southwest wind tore some of our tents. Heavy bags of f
 
 The local nomads had little information about Nam-ru. Some said we should reach the district of Nam-ru in four days, others said ten. The headman told me that the lake had another name, Dung-tsho, so called because of the lowing of "aquatic cows." I failed to find out what kind of animals were meant by the name. We first thought of otter, which
 
-**408 TRAILS TO INMOST ASIA**
+<a id="408">**408 TRAILS TO INMOST ASIA**</a>
 
 we noticed at Chu-na-khe and at other places of the Tibetan upland but then the water of the lake was salted. I tried to obtain the skin or the skull of the animal, but the local people had none.
 
@@ -5385,7 +5385,7 @@ On the next day, we continued our route across a succession of low, sandy ridges
 
 We broke camp at half-past seven in the morning and having ascended a rocky spur to the west, rode again on the plain of Pü-tsho. We had to cross the broad plain toward the mountain ridge southwest of it.
 
-**409 THE REGION OF THE GREAT LAKES**
+<a id="409">**409 THE REGION OF THE GREAT LAKES**</a>
 
 The plain was covered with gravel, alternating with patches of loess covered with grass. In the distance we noticed the first herd of *kyangs*. We did not try to shoot any of them as shooting was strictly forbidden by our passport from Nag-chu. About noon we halted near a nomad camp. One of the *do-nyers* went ahead in order to reach Chag-lung-khar, or Nam-ru dzong the same day and had asked us to halt here to give him time to reach the *dzong* and prepare animals for us.
 
@@ -5399,7 +5399,7 @@ Next day we started at eight o'clock and crossed the pass northwest of the camp.
 
 The southwest wind is one of the greatest factors in the physical geography of the Tibetan uplands. In the winter it brings snow, in the early spring it melts and carries away snow and erodes the southwest slopes of the mountains. In the period of summer rains (July and August) it brings moisture and sometimes causes heavy rains. The country in which we had been traveling for the past few days could be appropriately called a geological cemetery.
 
-**410 TRAILS TO INMOST ASIA**
+<a id="410">**410 TRAILS TO INMOST ASIA**</a>
 
 For some time we went along the foot of the hills that rose south of the plain, then we turned westward and having crossed a rocky spur crowned with an *obo*, we headed toward the mountain ridge (18,000-20,000 feet) which rose to the south.
 
@@ -5409,13 +5409,13 @@ On our arrival at the village we were met by the *do-nyer* from Nag-chu and a mi
 
 The courtyard of the *dzong* was densely packed with bales of wool and butter, all local taxes being paid in these commodities. A black nomad tent was pitched in the center of the courtyard. We were
 
-**411 THE REGION OF THE GREAT LAKES**
+<a id="411">**411 THE REGION OF THE GREAT LAKES**</a>
 
 ushered into a small room which was the apartment of the *dzong-pön*. The official himself, a young man of about thirty, was seated on a low seat near an altar, on which stood a clay figure of Sakyamuni, the Buddha. Behind the altar hung several *thang-kas* or painted images representing Avalokitesvara in his four-armed manifestation, the white Tara, and Yamantaka. Heavy silver cups and an offering lamp stood in front of the images. On the wall opposite the window hung a large collection of firearms. Tibetan officials are passionate buyers of arms and pay exorbitant prices. The *dzong-pön* of Nam-ru had in his collection about thirty Russian service rifles, several Japanese Arisaka rifles and German Mausers, besides several German Mauser pistols and Nagan revolvers. A number of richly adorned Tibetan swords hung with the firearms. Among them I noticed short Bhutanese daggers, long, double-hiked swords carried on the back by Tibetan foot soldiers, and several long, heavy sabers or *sho-lang*. I asked the *dzong-pön* what use he made of this quantity of arms. He smiled and replied that in case of necessity he had to protect the *dzong*.
 
 We were seated on a long bench near the window on the right hand of the Governor and Tibetan tea was served on a low table in front of us. The *dzong-pön* was the brother of the wife of the Governor of Nag-chu and pretended to be our friend and well-wisher. He informed us that the passport or *lam-yig* from Lhasa had not yet been received and that he did not really know what to do with us. But as we were recommended to him by the authorities of Nag-chu, he would send us off to the next *dzong*. He had not received letters about us and was unaware of our coming. We should have to remain for one day at Nam-ru and give him time to collect the necessary animals for our caravan. We urged him to hasten our departure and to speak at once with the chieftains and the local headmen. The headmen were accordingly invited. The chieftain maintained that we should have to pay high prices for the caravan animals as it was not the proper season for travel. The local population had no pack animals in the vicinity of the *dzong*, except some *dzo* kept near the tents. Because of the heavy snowfalls during winter, most of the nomads decamped toward the north and were staying at places four or five days' journey from here. It would take some fifteen days to get to Nag-tshang and caravan animals would have to be changed on each stage. This was a great inconvenience, for in case the headmen on the stages would be unable to supply us with a suffi-
 
-**412 TRAILS TO INMOST ASIA**
+<a id="412">**412 TRAILS TO INMOST ASIA**</a>
 
 cient number of caravan animals, we should be held up indefinitely on our way.
 
@@ -5427,7 +5427,7 @@ The whole of the next day was spent in trying to obtain some fodder, frozen milk
 
 Late in the afternoon I went to speak to the *dzong-pön* about the *do-nyers* who were to accompany us to Shentsa. I asked him to send a strong and alert man, with a good knowledge of the route and the
 
-**413 THE REGION OF THE GREAT LAKES**
+<a id="413">**413 THE REGION OF THE GREAT LAKES**</a>
 
 country we should have to cross. He promised to send the same man who accompanied the Filchner Expedition to Shentsa dzong. I took leave of the Governor, and returned to our camp to prepare the departure.
 
@@ -5439,7 +5439,7 @@ Several tents were pitched for us near a ruined stone hovel, formerly occupied b
 
 We continued our journey westward, following a narrow trail leading to another pass, the Na-tra La (16,900 feet). The route was indi-
 
-**414 TRAILS TO INMOST ASIA**
+<a id="414">**414 TRAILS TO INMOST ASIA**</a>
 
 cated by several *mani*-walls built on either side of the trail. This route is usually used by pilgrims from the nomad districts of Tibet on their yearly pilgrimages to the holy Kailasa Mountain. From the summit of the Na-tra La opens a wonderful panorama on the surrounding mountain region and the vast, sandy plain north of it. On the southern horizon rose a high, rocky range with an average elevation of about 17,000 feet. At the foot of the range stretched low spurs of sandrocks and fiery red limestone. In the rays of the morning sun the desert landscape sparkled with varying shades of red, purple, violet, orange, and yellow. The country bore a vivid resemblance to the desert region of Arabia, and the dreary kingdom of sand of Chinese Turkestan. A small river, the Cha-war tsang-po, emptying into the salt lake of Pang-gong tsho-cha lying in the plain toward the north, supported scant pastures along its banks. The descent from the pass was effected by a narrow trail leading through an erosive gorge cut through a succession of sandstone ridges. We halted for the day at the foot of a low, sandy spur, not far from several nomad encampments. The day was warm and windless but the night was unexpectedly frosty, the temperature falling to -12°.
 
@@ -5449,7 +5449,7 @@ March 21. Before starting, we had an exciting time with our new relay horses. Th
 
 Having crossed a low mountain col, the Chyang-ku La, we de-
 
-**415 THE REGION OF THE GREAT LAKES**
+<a id="415">**415 THE REGION OF THE GREAT LAKES**</a>
 
 scended through a narrow gorge into a narrow valley situated between two sandstone spurs. The numerous dry beds of temporary rivulets indicated the considerable amount of precipitation received by the locality in the rainy months of the summer. From the top of the pass, we obtained a fine view of the valley of the Buchu tsang-po, a small river emptying into the lake Tsho Ziling. The locality bore the name of Lung-mar, because of the red limestone present in the valley.
 
@@ -5459,7 +5459,7 @@ The megalithic monuments of Do-ring, situated some thirty miles south of the gre
 
 If one compares the famous megalithic monuments of Carnac in Brittany, to the discovered megaliths of Tibet, he is at once struck by the remarkable similarity of the two sets of monuments. The Carnac alinements are situated from east to west and have at their western extremity a cromlech or circle of stones. The Do-ring monuments have precisely the same arrangement. The sacerdotal use of the Carnac monuments remains unknown to the present day, although numerous
 
-**416 TRAILS TO INMOST ASIA**
+<a id="416">**416 TRAILS TO INMOST ASIA**</a>
 
 explanatory theories are advanced. It seems to me that we possess a clue to the explanation of the megalithic structures of northern Tibet. The megalithic monuments of Do-ring have a large figure in the shape of an arrow laid out with stone slabs, and situated at the eastern extremity of the alinement with its point toward the alinement. The arrow is an important symbol in the ancient nature cult of Tibet, and is connected with the cult of the sun and heavenly fire in the form of lightning, which it symbolizes. The present-day nomads wear ancient brass arrowheads as amulets, which are said to represent petrified lightning after it has struck the ground. Incidentally, it must be said that the arrow is sometimes regarded as a symbol of King Kesar, whose connection with nature worship has been definitely demonstrated by Dr. Francke. The presence of the arrow figure at the eastern extremity of the Do-ring monuments indicates that the whole structure was dedicated to some nature cult and very possibly to that of the sun, of which the arrow is a symbol. This is an important conclusion, since up to now no megalithic monuments could be satisfactorily explained.
 
@@ -5485,7 +5485,7 @@ CROSSING THE TARKÖ TSANG-PO
 
 THE EXPEDITION COLUMN APPROACHING THE TRANS-HIMALAYAS
 
-**417 THE REGION OF THE GREAT LAKES**
+<a id="417">**417 THE REGION OF THE GREAT LAKES**</a>
 
 At this point we found another group of megalithic monuments, three menhirs with stone slabs arranged around them in a square. The offering table in front of the largest of the menhirs, standing in the center, was missing and there were no traces of libations. The sanctuary was probably long ago abandoned. The trail then turned southward and followed the course of a small stream. The way was lined by numerous *mani*-walls. Tents had been prepared for our use in a small side glen. On all sides of the glen rose precipitous granite rocks. The process of denudation had laid bare the granite structure of the western slopes of the mountains, exposed to the continuous action of the prevailing southwest winds. Near the camp a moraine formed a kind of rampart, blocking the valley from the southeast. The granite slopes of the ridge bore many traces of glaciation.
 
@@ -5497,7 +5497,7 @@ The place was called Ratri and is twenty-two miles distant from Do-ring and four
 
 March 24. Because of an unavoidable delay with caravan animals,
 
-**418 TRAILS TO INMOST ASIA**
+<a id="418">**418 TRAILS TO INMOST ASIA**</a>
 
 which had to be brought from beyond the high ridge to the south of the valley, we started at half-past nine. After crossing several sandy ridges we entered a broad valley in which lay the lake Go-mang tsho. It is a salt lake with saline crust and sandy beaches on its shores. Fresh water rivulets, rising in the surrounding hills, empty into the lake. The route passed north of the lake. This particular portion of the route was rather dangerous because of quicksands intersected by belts of sand dunes. On passing the lake, we entered a broad, gravel plain with scant, coarse grass. Herds of *kyangs* and Tibetan antelopes were seen grazing in the distance. While crossing the plain we met the dispatch rider sent from Nam-ru to Nag-tshang announcing our arrival. He was on his way back to Nam-ru, and reported that everything was ready at Nag-tshang and that we could start from there without any further delay.
 
@@ -5507,7 +5507,7 @@ March 25. We had another delay with caravan animals and the expedition started a
 
 The route lay across a vast, intermontane plain, covered by strips of sand and gravel. The landscape was extremely monotonous and we were glad to enter again into a narrow mountain valley southwest of the plain. Here the country suddenly changed and we found ourselves traveling through an intersected country of barren and eroded ridges. In narrow mountain glens were seen nomad camps. We passed the
 
-**419 THE REGION OF THE GREAT LAKES**
+<a id="419">**419 THE REGION OF THE GREAT LAKES**</a>
 
 house of a local headman, a stone structure surrounded by a stone wall of rough masonry with the usual prayer flags fixed on it. Local nomads seldom erect permanent structures. All the stone structures in the region are either the dwellings of local headmen or serve as storehouses to a community of nomads.
 
@@ -5517,7 +5517,7 @@ March 26. The road lay in a south southwesterly direction across the southwester
 
 The descent was not at all steep and led into the basin of the gYung-drung tsang-po. The colors of the river valley, and the jagged walls of cliffs that sheltered it from the southeast, reminded us of the mighty ranges of westernmost Tibet. We forded the river opposite a basalt massif with a *mani* inscription on it. The water reached the stirrups and the current was swift. Along its banks the river was still frozen hard, but in the middle it was already flowing free of ice. It was extremely difficult to make the animals plunge into ice-cold water and then again make them climb the slippery surface of ice. The opposite bank of the river was covered by swamps and we had to keep close to the rocks. We halted for the night on the left bank of the gYung-drung tsang-po which had its source in the lake Mu-chyu tsho, lying toward the southwest and emptied into the lake Kyer-chung tsho, which lay
 
-**420 TRAILS TO INMOST ASIA**
+<a id="420">**420 TRAILS TO INMOST ASIA**</a>
 
 on the northwest. To the south of the river valley rose a high, rocky ridge. According to information received from the inhabitants there is another route south of the lake Mu-chyu tsho. The place where we were camping for the night bore the name of gYung-drung kong-ma or "The Upper gYung-drung." The distance from gYung-drung kong-ma to Lug-thang is about seventeen miles. We again found some arrow heads of the same shape as those of Do-ring, Ratri, and Ching-kar.
 
@@ -5527,7 +5527,7 @@ We descended a broad, gravel plain that stretched north of the range. This plain
 
 On crossing the valley in a southwesterly direction, we entered a mountain gorge, walled on either side by cliffs and eroded rocks. A small mountain stream flowed through it and directed its course southward. The surrounding landscape was of exceptional grandeur. Mighty faults, signs of gigantic moves of the earth's crust, formed a fantastic design on the rocky walls that sheltered the narrow gorge. After an eighteen-mile march we pitched camp on a broad plain, surrounded by low hills. A terrific windstorm started to blow soon after we had pitched our tents. Thick clouds of dust enveloped the mountain tops
 
-**421 THE REGION OF THE GREAT LAKES**
+<a id="421">**421 THE REGION OF THE GREAT LAKES**</a>
 
 and everyone was forced to remain inside his tent holding the tent pole, which swung in all directions in imminent danger of breaking down with the tent. Tent ropes flew in all directions and tent pegs were carried about the camp with a rattling noise.
 
@@ -5541,7 +5541,7 @@ Shentsa dzong is the administrative center of a large province stretching north 
 
 The streets of the village were, as usual, extremely filthy but thanks
 
-**422 TRAILS TO INMOST ASIA**
+<a id="422">**422 TRAILS TO INMOST ASIA**</a>
 
 to the dry, cold air, the refuse heaps were still frozen. The population consisted of some fifty inhabitants, many of whom were in a state of utter poverty. There was no cultivation and all the grain and *tsam-pa* supply was brought at a considerable yearly expense from the Brahmaputra Valley. The Governors, who were absent in Lhasa, were replaced by two *ku-tshap* (*sku-tshab*) or delegates, their personal servants, who acted as governors in their absence, but were afraid to take any responsibility upon themselves.
 
@@ -5553,7 +5553,7 @@ We were to follow a route skirting the southern shores of lakes Chyaring tsho, N
 
 March 29. All night loud shouts of herdsmen announced the arrival
 
-**423 THE REGION OF THE GREAT LAKES**
+<a id="423">**423 THE REGION OF THE GREAT LAKES**</a>
 
 of parties of pack yaks. Long strings of yaks formed a black wall around the camp. We started at seven o'clock and having skirted a limestone spur northwest of the *dzong*, headed across the gravel plain toward the southwestern shore of the Chyaring tsho Lake. The plain was watered by the Tag-lung tsang-po, a river that emptied into the Chyaring tsho. We found the river still frozen hard and had no difficulty in crossing it. The trail crossed several old moraines descending toward the lake and, ascending a low spur, entered into a highly intersected mountain region immediately south of the lake. The trail climbed the crest of the range, towering above the lake shore, which lay about three hundred feet below the trail.
 
@@ -5563,7 +5563,7 @@ While descending from the pass, we met a group of horsemen escorting four men on
 
 We camped for the night at the foot of a spur situated to the southwest of a valley open toward the Chyaring tsho. The place, which was a relay station for dispatch riders, was called Ngan-dzom and was fifteen miles from Shentsa dzong. It was famous for strong winds. This reputation was soon justified for about noon a southwest wind started
 
-**424 TRAILS TO INMOST ASIA**
+<a id="424">**424 TRAILS TO INMOST ASIA**</a>
 
 to blow and turned into a real storm with clouds of sand and loess dust blowing across the valley toward the lake. Sir Henry Hayden camped on the same place during his exploration in 1922.
 
@@ -5577,7 +5577,7 @@ Toward evening our camp was visited by traveling singers, a man and a woman with
 
 March 31. A fine morning, warm and windless. We crossed the Kar-tsang Plain toward the Paro tsang-po, which flowed along the foot of the hills, forming the western rim of the plain. After crossing the river, the trail entered a narrow mountain valley and ascended toward a low col, called the Lam-lung La. The summit of the pass was crowned with several stone cairns with the usual multicolored prayer flags. The descent was gradual and led into a broad plain surrounded by low, lime-
 
-**425 THE REGION OF THE GREAT LAKES**
+<a id="425">**425 THE REGION OF THE GREAT LAKES**</a>
 
 stone ridges. On some of the loess-covered patches of ground we found grass well preserved under the snow.
 
@@ -5587,7 +5587,7 @@ April 1. We decided to make a double march this day, that is, to combine two sho
 
 The change of pack animals was effected with remarkable quickness and in about an hour the caravan column was again in marching order. The trail continued across a series of sandy ridges. On the northern and western horizon rose high, snow-capped latitudinal ranges. After another eleven miles, we camped on the southeastern shore of the lake Phung-pa tsho, the Daru tsho of Nain Singh and the Murchu tsho of Sven Hedin. Nain Singh passed north of the lake and Dr. Sven Hedin passed west of it. Sir Henry Hayden passed the lake along its northeastern shore on the way to Wang-po on the northern shores of the Dangra yum-tsho. The Phung-pa tsho is connected by a very narrow channel with another small lake lying west of Phung-pa tsho, and called Majyar tsho. Both lakes were frozen and it was impossible to ascertain whether there was any flow from one lake into the other. The place of the camp was called Mur-chen and was inhabited by nomads all the year round. The local nomads are a little better off and possess fine herds of yaks and horses. The yaks particularly struck us as being much larger and stronger than the animals we saw at Nag-chu-ka or at other places of the Nag-tshang district.
 
-**426 TRAILS TO INMOST ASIA**
+<a id="426">**426 TRAILS TO INMOST ASIA**</a>
 
 April 2. We started early again, in order to reach the shores of the Ngantse tsho on the same day. The track crossed the plain of Mur-chen and then led across a succession of low, sandy ridges that fell steeply toward the Majyar tsho. The weather, which was sunny and fine in the early morning, turned into a bad snowstorm, and progress was made difficult by biting wind and wet snow. Our local guide, who was unable to see the track ahead of him, lost his way and we wandered for some time amid the howling of the storm until the wind and snow suddenly abated and the dense white fog that surrounded the caravan column lifted. We found ourselves standing on the crest of a mountain spur stretching toward the Majyar tsho. From this place we easily found our way into a narrow, sheltered valley, where our next stage was situated, a group of encampments called Pong-chen. We found all the relay animals ready and were able to continue our route at once.
 
@@ -5599,7 +5599,7 @@ April 3. The track crossed the plain south of the lake. After several hours' mar
 
 1\. Sir Henry Hayden, *Sport and Travel in Tibet*, p. 140.
 
-**427 THE REGION OF THE GREAT LAKES**
+<a id="427">**427 THE REGION OF THE GREAT LAKES**</a>
 
 population of nomads living in tents, pitched at the foot of the hills. The local population has almost no knowledge whatsoever of the neighboring regions. They know about Nag-tshang to the east and Chok-chu to the west. An old man remembered two Europeans who had visited the northern shores of the lake, probably Dr. Sven Hedin or Sir Henry Hayden. Our camels were the first that ever reached the place and created an unusual stir among the nomads. Crowds assembled to see the strange animals enter the camp.
 
@@ -5611,7 +5611,7 @@ At the foot of the pass a narrow strip of swamps had to be crossed. The camp was
 
 The Dangra yum-tsho, which was first discovered by Nain Singh during his splendid journey from Ladak to southwestern Tibet and
 
-**428 TRAILS TO INMOST ASIA**
+<a id="428">**428 TRAILS TO INMOST ASIA**</a>
 
 Assam in 1873-75, is forty-five miles in length by twenty-five in breadth at its widest part. This lake has also considerably contracted in size. The existing erosive terraces clearly delineate its former large basin. Nain Singh was of the opinion that the smaller lake of Thang-yung to the north formed one lake with the Dangra yum-tsho. The lake receives a large volume of fresh water from the Tarkö tsang-po, a river that flows in a terraced channel, with terraces twenty-five to thirty meters high. A probable explanation of these terraces is that the contraction of the lake resulted in a contraction of rivers, which deepened their course.
 
@@ -5623,7 +5623,7 @@ Lo-wa na-mo, where we were camping, was a group of nomad encampments. Some of th
 
 It was difficult to gain reliable information about routes to Saga dzong. In our Lhasan passport, it was stated that the authorities of Shentsa dzong were supposed to give us transport until Saga dzong, but we soon discovered that the two representatives of the *dzong* knew nothing about the route to Saga and were planning to leave us at
 
-**429 THE REGION OF THE GREAT LAKES**
+<a id="429">**429 THE REGION OF THE GREAT LAKES**</a>
 
 Chok-chu. The local headman told us that he was not at all sure that caravan animals were ready for us at Chok-chu and we therefore resolved to dispatch one of the Shentsa representatives to Chok-chu the same evening to make all the necessary arrangements. He rode off on a fresh horse, accompanied by a local guide. The men had received instructions to ride in all haste and to arrange for another representative from Chok-chu to accompany us to Saga dzong.
 
@@ -5633,7 +5633,7 @@ The day continued to be calm and warm, the thermometer registering +13° at two 
 
 April 5. Again a fine and wonderfully clear day. We started soon after the rising sun had illumined the snow peaks of the Tarkö kang-ri. It was an unforgettable spectacle, a foretaste of the grand mountain scenery of the Trans-Himalayas. The track followed the southern shore of the lake. The ground was sandy and ravines intersected the plain south of the lake. The Tarkö tsang-po, which empties into the lake, was just breaking up and was covered by masses of floating ice, which struck and cut the animals' legs. The camels had a hard time at the river. They have a natural aversion to water and we had great difficulty in bringing them safely across the swift stream. On the opposite bank of the river lay a vast plateau, stretching at the foot of the Tarkö
 
-**430 TRAILS TO INMOST ASIA**
+<a id="430">**430 TRAILS TO INMOST ASIA**</a>
 
 kang-ri massif and covered with juniper, the first shrub we had seen in six months of travel over Tibetan highlands.
 
@@ -5643,7 +5643,7 @@ April 6. We broke camp very early, at six o'clock, for the stage had to be a lon
 
 April 7. A dull day with heavy gray clouds on the horizon. The trail crossed the low, sandy ridge west of the valley of Chumgo mar-po and then led across a succession of sandy ridges, heading northwest. After a three hours' march, we reached a vast plain, and halted on the shores of a small lake. Here the headmen of Chok-chu had prepared a camp and brought pack animals. We seldom saw such degenerate types, robbers by nature, and liars by conviction. The chief headman, an indescribable creature, assured us that they had prepared everything for us
 
-**431 THE REGION OF THE GREAT LAKES**
+<a id="431">**431 THE REGION OF THE GREAT LAKES**</a>
 
 along the route to Nga-ri dzong on the Ladak route, but that they had no information about the route to Saga dzong, by which we were now to travel.
 
@@ -5655,7 +5655,7 @@ April 8. It was about seven o'clock when everything was in marching order and we
 
 The vast latitudinal plain of Chok-chu is an intermontane plain for the most part covered by sand and loess, which is covered by good grazing during the summer months. On our way we passed herds of
 
-**432 TRAILS TO INMOST ASIA**
+<a id="432">**432 TRAILS TO INMOST ASIA**</a>
 
 *kyangs* and Tibetan gazelles. The chief headman rode ahead of us to inform the *garpön* of our coming. After a two hours' ride, we were suddenly stopped by the headmen at a group of tents not far from the foot of the mountains. The headmen explained their action by the fact that the *garpön* had sent a messenger asking us to stay there for one day, as he was coming personally to see us.
 
@@ -5665,7 +5665,7 @@ A preliminary conference was held by the *garpön* with the local headmen and ou
 
 As we were already in Chok-chu, the *garpön* thought it advisable to let us go by the Sangmo route, which crossed on its way to Saga the following passes: the Dong-chen La, the Sangmo La, the Gyegong La and the Tsuk-chung La. This route had been traversed and surveyed by Dr. Sven Hedin in 1907. We at once perceived that the real object of the *garpön* was to send us through the territory of his neighbor chief, the headman of Bum-pa chang-ra (the Bong-ba of Sven Hedin's map), and thus escape the necessity of furnishing us with caravan animals and other supplies along a difficult and deserted mountain route. I succeeded in making him promise to accompany us personally to the encampment of the next headman and arrange with the latter about caravan animals. The *garpön* hinted that our passport was granted
 
-**433 THE REGION OF THE GREAT LAKES**
+<a id="433">**433 THE REGION OF THE GREAT LAKES**</a>
 
 from Lhasa and we therefore had the right to travel through the territory subject to the Government, whereas his territory was church land.
 
@@ -5677,7 +5677,7 @@ The costume consists of the usual sheepskin coat, worn on the bare body, and the
 
 The Trans-Himalayan nomads dwell in the usual black tents and live on the produce of their herds, which consist mostly of sheep and yaks. Horses are kept only by well-to-do families. The summer months are usually spent in some of the valleys of the Trans-Himalayas, but in
 
-**434 TRAILS TO INMOST ASIA**
+<a id="434">**434 TRAILS TO INMOST ASIA**</a>
 
 winter the cattle are driven to the north, where there is less snow and grazing is better.
 
@@ -5689,7 +5689,7 @@ April 9. This morning a thick, white mist hung over the valley of Chok-chu and h
 
 On our way we were joined by a number of menservants of the *garpön*. All of the men had matchlocks slung across their shoulders and
 
-**435 THE REGION OF THE GREAT LAKES**
+<a id="435">**435 THE REGION OF THE GREAT LAKES**</a>
 
 wore red turbans. Very few of them had been to Saga dzong and only a single man remembered having once visited the place. The valley we were following rose gradually until it suddenly broadened and formed a small circular valley, well sheltered by mountains. The place was called Nam-chen and a tent was prepared for us by the local headman. The poor man was in despair because he would have to supply us with caravan animals to Bum-pa chang-ra. According to him, we had to go by the southern route across the Nak-po kondro La. We left the *garpön* and the headman to decide the question of caravan animals between themselves. It was useless to sit and witness the arguing of the two men. After an hour the *garpön* and the headman emerged from their tent and came to tell us that the headman of Nam-chen had undertaken to transport the expedition to Bum-pa chang-ra and that the *garpön* would help him in this, supplying part of the pack animals.
 
@@ -5697,7 +5697,7 @@ April 10. We delayed our start because of the pack animals, which reached the pl
 
 We found a camp pitched for us at a place called Nga-mo dang-khang, south of the lake in a valley inclosed by high rocky ranges from the south and open toward the lake. Toward the southwest rose the range of the Drong-chen La. On our way to the camp, we discovered that the official letter which was supposed to be traveling ahead of us, had reached the place only two hours before, for the messenger had spent the night in an encampment and thus delayed the delivery. It was almost impossible to obtain a new dispatch rider as the population had no horses. Toward evening the headman of Nam-chen secured another dispatch rider and sent him off with the letter toward Bum-pa. The local population was exceptionally wild looking and had never
 
-**436 TRAILS TO INMOST ASIA**
+<a id="436">**436 TRAILS TO INMOST ASIA**</a>
 
 seen a white man before. They wondered at our camels and insisted that we should give them some camel hair to be put into their charm boxes, for according to their belief, a hair from such a strange animal is sure to be a very potent talisman against illness and other danger.
 
@@ -5709,7 +5709,7 @@ The amplitude in temperature was very wide. In the morning before sunrise the th
 
 April 12. We started earlier than usual and after an hour's climb reached, the top of the Dong-chen Pass. From the summit we beheld a unique panorama of the broad mountain valley southwest of the pass, sheltered by high eroded massifs of limestone. We followed the valley and soon reached the broad intermontane valley of the Sü-tsang-po, the Soma tsang-po of the maps. The camp was pitched on the left bank of the river, which flowed in several narrow channels. The Sü-tsang-po had its source somewhere in the Tarkö kangri and emptied into the lake Ting-ri lam-tsho. The river bed was flat and shallow but the river is said to carry a large volume of water in the period of floods. The local headman was unable to supply the required number of pack animals for all the pack yaks of the district had been driven to far distant pastures. He agreed to hire the yaks which came with us from Dang-khang. The place was known by the name of Le-kar and was still un-
 
-**437 THE REGION OF THE GREAT LAKES**
+<a id="437">**437 THE REGION OF THE GREAT LAKES**</a>
 
 der the jurisdiction of Nag-tshang. The local headman said that some three days southeast of Le-kar there was a wooded valley with plenty of game. The day was cloudy and warm, the thermometer registering +14°C in the afternoon.
 
@@ -5723,7 +5723,7 @@ Leaving the camp we followed the gorge that gradually ascended toward the high p
 
 After a six hours' march we pitched our camp in a sheltered valley close to a small brook of fresh water at the height of 17,600 feet. The yak caravan arrived only late at night. Gray clouds hid the summits of the mountains, and the Tibetans feared a snowfall during the night.
 
-**438 TRAILS TO INMOST ASIA**
+<a id="438">**438 TRAILS TO INMOST ASIA**</a>
 
 that would render the pass difficult. The yak drivers assured us that some two weeks before the pass was completely blocked by snow, and that even now much snow lay on the summit. It was impossible to trust local informants, and we would have to find out the condition of the pass for ourselves. Everybody felt somewhat excited for the next day we would cross the highest pass on our way to Saga dzong.
 
@@ -5735,7 +5735,7 @@ April 15. The night was quiet and snowless. We rose very early and by six o'cloc
 
 After three hours of continuous climbing we reached the summit of the pass (19,094 feet). Several stone cairns stood by the roadside. From the summit a fine mountain view, of grandeur and severity, unfolded
 
-**439 THE REGION OF THE GREAT LAKES**
+<a id="439">**439 THE REGION OF THE GREAT LAKES**</a>
 
 before us. A broad mountain gorge led to the south. To the west and east the view was closed by meridional ranges, descending toward the Lap-sa-ru Plain, south of which rose the snowy massif of the Kang-chung kang-ri. The day was dull and heavy clouds and mist hovered over the ranges. A steep but short descent, during which we all had to walk, brought us to the gorge. On the narrow trail our horses had a hard time among bowlders and pools of frozen water. Men and animals frequently slipped for there was hardly a place for one's foot. While descending from the pass we observed a herd of wild yaks on one of the slopes. They were climbing a precipitous, almost vertical mountain slope, with each step sending stones and clouds of sand down into the gorge. For a moment, their dark silhouettes stood out on the transparent background of the Tibetan sky, then they disappeared behind the rocky wall. It was a picture of wild Tibet, which always haunts the imagination of anyone who has wandered across its unforgettable mountain expanses.
 
@@ -5743,7 +5743,7 @@ After seven hours of hard marching over a heavy, stony road, we descended into a
 
 The day was warm, notwithstanding the fact that the valley was inclosed on all sides by snow-capped mountains, with glaciers descending comparatively low into the valley. Some two and a half miles south of our camp lay the small salt lake of Lap-chung tsho. In the evening the setting sun lit the snows of the mountains, and the whole scenery
 
-**440 TRAILS TO INMOST ASIA**
+<a id="440">**440 TRAILS TO INMOST ASIA**</a>
 
 plunged into a deep purple glow. The *yu-pön* did not arrive this evening and it looked as if we would have to stay a couple of days in the valley and search for the headman, who was trying to avoid us. Our supplies were coming to an end and it was imperative to reach Saga dzong.
 
@@ -5755,7 +5755,7 @@ April 17. We started in the forenoon, for there was the usual delay with fresh a
 
 Not far from camp we came across another group of megalithic monuments. It was partly buried by drifting sand so that only the points of the menhirs forming the alinement were visible above the ground. I tried to excavate one of the stones, but it went deep into the ground and my excavations attracted the attention of the local people, who, as all Tibetans, are very concerned with not allowing the gods of the soil to be disturbed by excavations. I had to stop and leave the investigation for the future, when the Government of Tibet would sanction scientific excavations on its territory. What ritual was performed before these stone altars and cromlechs, we shall be able to tell only after a thorough search of the voluminous Bön-po literature. The great
 
-**441 THE REGION OF THE GREAT LAKES**
+<a id="441">**441 THE REGION OF THE GREAT LAKES**</a>
 
 Bön collections of sacred texts, some three hundred volumes in all, still remain a closed book for us. Undoubtedly from some of the texts on rituals incorporated in them, we would learn the precise significance of menhirs, cromlechs, and alignments.
 
@@ -5767,7 +5767,7 @@ April 18. We started at eight o'clock this morning and crossed the low, sandy sp
 
 The ascent toward the Gyegong La (18,012 feet) was rather trying. The valley at the foot of the pass was covered by deep snow, and we experienced some difficulty in finding our way through bowlders and snow. After four hours of tiresome climbing, we reached the summit of the pass. A grandiose mountain panorama unfolded before us --- a sea of mountain peaks that stood sparkling in the sun. "Oh, God! There is no end of mountains!" exclaimed Golubin, dismounting from his
 
-**442 TRAILS TO INMOST ASIA**
+<a id="442">**442 TRAILS TO INMOST ASIA**</a>
 
 horse and preparing for the descent. We all stood for a moment looking at this unforgettable scenery. The descent was steep and part of the way the track led over the ice of a frozen mountain torrent. In some places great blocks of ice obstructed the way. It was difficult for our unshod animals. For another four hours we went down the gorge. Frequently we had to cross the frozen stream over ice bridges. The country became more and more intersected.
 
@@ -5777,7 +5777,7 @@ After two hours of waiting, we noticed with our field glasses a human figure wal
 
 We were relieved from the necessity of arresting the obstinate old man by the arrival of a tall, fine looking man, who was a former lama of the Chamdo Monastery in western Kham, and was now acting as local headman in the locality. He at once understood our difficult situation and ordered the recalcitrant old man to bring a tent and some fuel and moreover promised to talk with the *yu-pön* of Bum-pa about the caravan animals for the next day. Toward evening two tents were pitched and big camp fires lit the scene of the camp. The *yu-pön* ar-
 
-**443 THE REGION OF THE GREAT LAKES**
+<a id="443">**443 THE REGION OF THE GREAT LAKES**</a>
 
 rived only at dusk but suddenly refused to camp with us and instead camped behind a low, sandy spur. He promised to come in the evening after sunset and talk the matter over. The headman of Tsuk-chung and our Tibetan guide considered his actions to be strange and were afraid that he would try to escape with his yaks during the night. We waited for him until ten o'clock in the evening, but as he did not come, we decided to send a man after him. The man soon brought back the answer that the headman of Bum-pa informed us that he had no business in our camp and that he was unable to keep his word and transport our baggage to Saga dzong.
 
@@ -5785,7 +5785,7 @@ No time could be lost, if we intended to proceed to Saga dzong without delay. To
 
 When our small detachment approached the Bum-pa headman's camp, we found him sitting at a camp fire surrounded by a circle of thirty armed followers. All rose to their feet, when the Tsuk-chung headman approached the fire. Our men were lined up a few feet behind him, ready for any emergency. The Tsuk-chung headman reproached the *yu-pön* for not coming to our camp to settle the matter in a friendly way and asked him to come and discuss the situation. Dead silence followed his words. A murmur rose from the crowd of armed yak drivers and suddenly one of them snatched out his sword. The nomads were apparently ready to resist with armed force. Portniagin, who stood near the man with the sword, suddenly pulled out his revolver and planted its muzzle in his face. This had a magical effect. The crowd started backward. Our men stood ready to open fire if necessary and the extreme tension continued for a few moments more. Then suddenly some one in the crowd ran back and the whole force stampeded toward the hills, leaving the *yu-pön* sitting at the camp fire. He was arrested and taken under guard to our camp where a general
 
-**444 TRAILS TO INMOST ASIA**
+<a id="444">**444 TRAILS TO INMOST ASIA**</a>
 
 meeting was at once summoned inside the big tent of the Tsuk-chung headman.
 
@@ -5811,7 +5811,7 @@ SAGA DZONG
 
 THE TRANS-HIMALAYAS FROM SAGA DZONG
 
-**445 THE REGION OF THE GREAT LAKES**
+<a id="445">**445 THE REGION OF THE GREAT LAKES**</a>
 
 the Tsukchen to the west, and Saga dzong on the south and southwest. On the western and eastern horizon rose the mighty snow peaks of the Trans-Himalayas. Most prominent among them was the beautiful peak, Saga Jo-chung, which was clearly visible among the peaks forming the eastern continuation of the mountain range in which the Tsuk-chung Pass was situated. The descent was steep and all had to walk down the sandy slopes. A broad mountain gorge led into the basin of the Chorta tsang-po, a tributary stream of the Brahmaputra. Far to the south we could see in the hazy atmosphere the snowy outlines of the northern offshoots of the Himalayas, on the Nye-lam side.
 
@@ -5833,7 +5833,7 @@ During our stay in Saga, both Governors of the fort were in Lhasa and the distri
 
 Near the *dzong* there are numerous *mani*-walls and in the village itself there is a small temple with a huge prayer wheel inside. The place
 
-**450 TRAILS TO INMOST ASIA**
+<a id="450">**450 TRAILS TO INMOST ASIA**</a>
 
 is visited during the summer by traders from the central provinces of Tibet and Nepalese merchants coming by way of Dzong-kha and Nye-1 am. The nomads chiefly trade in the local produce, salt, wool, and hides. This year because of the exceptional snowfall, the trade routes were blocked and most of the cattle perished from want of fodder during the winter. The population was unable to obtain the necessary supplies of food and many families starved. During our stay at the *dzong*, the village was full of beggars, who were in such a desperate condition that they ate the carcasses of animals. The authorities were unable to maintain the required number of relay horses on the stages along the route and to send the annual tax to Lhasa. A petition was therefore presented to the Government, requesting the Precious Protector to exempt the people of Saga dzong from taxes and relay duty for the next year.
 
@@ -5841,7 +5841,7 @@ In the early morning the officials of the *dzong* paid us a visit and brought th
 
 April 21. A sunny day with a light southwest wind. Fresh grass was beginning to appear on the banks of the rivulet flowing near our camp. We tried hard to buy some provisions, but it seemed a hopeless task to get anything out of the local authorities or the population. A Kham-pa trader from Tachienlu who was staying at Saga to buy products of
 
-**451 FROM SAGA DZONG TO SIKKIM**
+<a id="451">**451 FROM SAGA DZONG TO SIKKIM**</a>
 
 nomad households, told me that this year was exceptionally hard on the local inhabitants and that very little trade was carried on in the district. We succeeded in buying from him one piece of *poram* and one bag of barley for our horses, which were badly in need of grain.
 
@@ -5853,7 +5853,7 @@ April 24. We rose early in the morning in order to hasten the departure. There w
 
 The trail followed the left bank of the Chorta tsang-po, which was still frozen. Just outside the village of Saga stood a huge menhir of gray granite. The stone was surrounded by numerous small columns made of small stones of white quartzite. The top of the slab bore traces of frequent butter libations. According to the official, the stone had stood here from time immemorial and was consecrated to the goddess Pal-den Lhamo (dPal-ldan Lha-mo) the divine protector of the district, which is said to be the abode of a host of powerful deities and is therefore called *Saga* or the "Happy Place." This local cult of Pal-den Lhamo had been ordered by the Government, and all passing travelers had to stop and offer libations to the stone slab. This was a good ex-
 
-**452 TRAILS TO INMOST ASIA**
+<a id="452">**452 TRAILS TO INMOST ASIA**</a>
 
 ample of the assimilation of old sanctuaries of the primitive religion of Tibet by the ruling church of Tibet.
 
@@ -5865,7 +5865,7 @@ The local nomads seemed to be very independent and paid but little attention to 
 
 April 25. Next day we started early. The track led up the Jya La Pass situated at an altitude of 16,135 feet. From the summit we obtained a fine view of the distant Himalayas. The descent was very gradual over a well-trodden path, except for a couple of hundred feet of a rather steep track running along the side of a precipitous gorge. The sandy slopes of the mountains were covered with juniper shrubs. We observed the first hoopoe.
 
-**453 FROM SAGA DZONG TO SIKKIM**
+<a id="453">**453 FROM SAGA DZONG TO SIKKIM**</a>
 
 On our way down the pass, we encountered the first big caravan, which belonged to a lama trader from Tashi-lhun-po and was carrying bales of tea, cloth, silk, and metal wares to Nyima in the Nga-ri Kor-sum Province. The caravan consisted chiefly of yaks, but had also a large herd of horses without loads, driven by several herdsmen. The trader himself was accompanied by a number of armed retainers, wearing red turbans and having Mauser rifles slung across their shoulders. These traders spent the summer months trading in the Nga-ri Province and returned to inner Tibet in the early part of autumn.
 
@@ -5877,7 +5877,7 @@ At last the great Brahmaputra! It is difficult to express the feelings of all of
 
 The place of our camp was known under the name of Kya-kya (sKya-sKya). Near the camp was a ferry. Two miserable hide boats were lying idle on the river bank; they were badly in need of repair. From here a route went toward Tingri and Nye-lam, crossing the elevated highlands south of the Tsang-po. The local population had never seen camels before, and old and young turned out to see the strange animals, which gravely wandered about the river banks. The local
 
-**454 TRAILS TO INMOST ASIA**
+<a id="454">**454 TRAILS TO INMOST ASIA**</a>
 
 people were certain that we brought the strange animals all the way from America, where camels were used for transport purposes.
 
@@ -5903,7 +5903,7 @@ THE VALLEY OF THE TSANG-PO
 
 CHATU GOMPA IN THE VALLEY OF THE TSANG-PO
 
-**455 FROM SAGA DZONG TO SIKKIM**
+<a id="455">**455 FROM SAGA DZONG TO SIKKIM**</a>
 
 peared on the scene. The officials from Saga proved to be good for nothing and were helpless with the local population.
 
@@ -5915,7 +5915,7 @@ After crossing the valley we ascended another low pass with a long and steep des
 
 After five miles of easy road over the plain, we reached Yam tsang-po and descended to the river bank through an eroded canyon cut in the limestone side of a mountain spur by a dried-up torrent that once emptied into the Tsang-po. Numerous aeolian mesas crowned the river terraces. Some of them with fantastic forms reminded of ancient Indian temples with carved surfaces of columns and walls. The river at this time of the year was shallow and abounded in sand banks. Some of the river terraces were covered by sand dunes, attesting the action of western winds along the valley. In the period of high water the level of the river rose and inundated the adjacent sandy surfaces and exca-
 
-**456 TRAILS TO INMOST ASIA**
+<a id="456">**456 TRAILS TO INMOST ASIA**</a>
 
 vated deep canyons in the limestone of the surrounding hills. The strong western winds, which blow in winter and early spring, eroded the surface of neighboring hills and produced the aeolian mesas, situated high on the mountain tops.
 
@@ -5927,7 +5927,7 @@ A strange-looking woman with a small girl remained in camp and wandered about th
 
 Late in the evening a Nevari trader from Deo-Pathan in Nepal paid us a visit. He had just arrived at Yanju and expected the arrival of his large caravan from Khatmandu through Chirong dzong and Tingri. He was dressed in a Tibetan costume, except for Indian slippers and a
 
-**457 FROM SAGA DZONG TO SIKKIM**
+<a id="457">**457 FROM SAGA DZONG TO SIKKIM**</a>
 
 woolen cap on his head. He spoke a fluent Tibetan and came every spring to trade in Tibet. We tried to obtain from him some Indian rupees but he refused to take our silver Chinese dollars. According to him, Khatmandu, the capital of Nepal, was about twenty days' journey from Yanju. The route there was extremely difficult. After crossing the high mountain passes one has to traverse a jungle country with hardly any roads.
 
@@ -5937,7 +5937,7 @@ April 28. I woke early, at about four o'clock, roused by the continuous jingling
 
 The *du-khang* or assembly hall of the monastery was a square, whitewashed brick building. Unfortunately the head lama was absent and had taken the key of the temple. The Tibetan monks have a laudable custom of spending one or two weeks in meditation in the third and fourth month of the Tibetan year (April-May). The courtyard of the
 
-**458 TRAILS TO INMOST ASIA**
+<a id="458">**458 TRAILS TO INMOST ASIA**</a>
 
 monastery had a forlorn appearance. The once multicolored portal of the temple was in complete decay and it was a wonder that it did not fall down on the heads of the faithful.
 
@@ -5951,7 +5951,7 @@ The local population did not accept silver Chinese dollars, and as our supply of
 
 Late in the evening the local headman informed us that all the caravan animals would be ready early the next morning.
 
-**459 FROM SAGA DZONG TO SIKKIM**
+<a id="459">**459 FROM SAGA DZONG TO SIKKIM**</a>
 
 April 29. Everybody rose before dawn had lit the mountains on the opposite bank of the Tsang-po. We had to wait a considerable time before all the pack animals and horses turned up. Caravan animals had to be collected in the village and as each peasant had only one or two pack animals, the whole village turned out to carry our baggage. For seventy pack animals we had forty drivers! The new caravan consisted of thirty shaggy yaks, twenty donkeys, ten *dzo*, some of which were about the size of a donkey, and ten pack horses. Obviously the progress of all this collection of caravan animals was far from being equal and the caravan marched in several sections with rather large intervals between. First came the pack horses, then the donkeys and *dzo*; the yaks were the last to reach the stage.
 
@@ -5963,7 +5963,7 @@ The distance grows less and the enchanted picture which he beheld suddenly vanis
 
 The town draws nearer and nearer. The stately mansions appear as large square blocks of miserable hovels on the roofs of which stand ugly rods with pieces of multicolored cloth fixed to them. The shady gardens are nothing but a few trees which grow in a small compound. The village street is blocked on either side by heaps of refuse forming veritable ramparts in front of each house, from behind which peep curious crowds, dirty beyond description, but quite content and eager to see the foreigners.
 
-**460 TRAILS TO INMOST ASIA**
+<a id="460">**460 TRAILS TO INMOST ASIA**</a>
 
 It is altogether impossible to camp in such a village and the traveler is obliged to pitch his tent in some empty field outside the boundary. A dense crowd collects round the traveler's camp which watches attentively every movement. It is a good opportunity to observe the costumes of the natives.
 
@@ -5973,7 +5973,7 @@ Whenever we passed a village a crowd of villagers would rush to meet us and esco
 
 On the opposite bank of the Tsang-po rose proud monasteries and ruins of forts built on precipitous rocks and facing precipices. All the ruins and ancient monasteries had fine situations high above the river valley. The more modern ones were built on the valley bottom at the foot of the mountains. These ugly hamlets consisted of squares of sun-dried brick walls carelessly whitewashed from the outside. Tibetan whitewashing is a peculiar and strange procedure. Once we had to whitewash a house in which we were staying, and accordingly invited several local peasants to do the painting. They arrived with buckets and started to splash the whitewash on the walls, covering the walls, windows, doors, and the courtyard. It was impossible to remain in the
 
-**461 FROM SAGA DZONG TO SIKKIM**
+<a id="461">**461 FROM SAGA DZONG TO SIKKIM**</a>
 
 house and we had to beg the men to return to their village and stop working.
 
@@ -5989,7 +5989,7 @@ Our men reported that one of our Mongols, Ochir, got drunk again at Yanju and wa
 
 April 30. We started at about seven o'clock. The trail was lined by numerous *mani*-walls. Partridges were seen among the rocks that rose
 
-**462 TRAILS TO INMOST ASIA**
+<a id="462">**462 TRAILS TO INMOST ASIA**</a>
 
 above the trail. We passed several ruined forts, said to have been built by the Chinese after the Nepalese war of 1792.
 
@@ -5997,7 +5997,7 @@ After four miles we reached the ferry, which belonged to the Ny-ing-ma Monastery
 
 Having crossed the Tsang-po, we mounted our horses and followed the southern bank of the river until we had reached the forlorn village of Sharu, consisting of some six brick hovels which were built around the ruins of a former fort. The fort was said to date from the seventeenth century. The local people told us that the place formerly belonged to the *labrang* of Tashi-lhun-po and that people prospered under the rule of the Tashi Lama and never had to pay the high annual taxes which they are now forced to pay the Lhasan officials. After the departure of His Holiness the Tashi Lama, the place was taken over by the Lhasan Government and since then the population had diminished, the houses crumbled to ruins, and famine visited the region. We
 
-**463 FROM SAGA DZONG TO SIKKIM**
+<a id="463">**463 FROM SAGA DZONG TO SIKKIM**</a>
 
 succeeded in buying radishes, the first fresh vegetables which we had seen since leaving Shih-pao-ch'eng in the Nan Shan Mountains.
 
@@ -6009,7 +6009,7 @@ The valley became narrower and the road heavy and stony. Huge bowlders on the de
 
 We descended along a narrow, monotonous mountain valley sheltered by grassy hills that vividly reminded us of the dreary uplands of
 
-**464 TRAILS TO INMOST ASIA**
+<a id="464">**464 TRAILS TO INMOST ASIA**</a>
 
 the land of Hor. The similarity would have been complete except for the Himalayas that crowned the horizon with their sparkling peaks and glaciers.
 
@@ -6017,7 +6017,7 @@ After an eighteen-mile march we camped on a level spot close to a brook of fresh
 
 May 2. We made an early start as usual. The Himalayas stood out clear on the dark background of the deep morning sky. The valley sloped and the trail was easy and sandy. The valley was covered by ruins of old forts, watch towers, and walls. These were said to be traces of the Nepal-Tibetan war of 1792, when the Gurkha troops swept all over the Tsang Province, sacked Shigatse and Tashi-lhun-po, and the Tibetans had to be rescued by a Chinese expeditionary force sent by the great Manchu Emperor Ch'ien-long (1736-95). The memory of the remarkable archery of the Manchu cavalrymen still lives among the
 
-**465 FROM SAGA DZONG TO SIKKIM**
+<a id="465">**465 FROM SAGA DZONG TO SIKKIM**</a>
 
 people of today and many stories are told about the prowess of the So-lo *mag-mi* or Solon warriors, who formed part of the Chinese force.
 
@@ -6027,7 +6027,7 @@ On a hill north of the settlement were ruins of a *dzong* of a local *de-pa* or 
 
 May 3. An exceptionally fine morning. The storm had cleared the atmosphere and the mountain scenery was wonderful with its sharp outlines and deep blue and purple colors. The summit of Mount Everest was hidden by clouds that hovered over the summits of the higher peaks of the Himalayas. We crossed the plain in a southerly direction following the left bank of the Phung-chu. The ground was covered by gravel and the landscape reminded one somewhat of the central Mongolian Gobi. Herds of *kyangs* raced in the distance, raising clouds of dust. One of the animals approached so near our caravan column that a Mongol rode up quite near to him and discovered that it was an old stallion, blind from age. We crossed the river, which was muddy and had a swampy bed. In the period of high water, the level rose and the river flooded the surrounding swamps. The right bank was very swampy and we were forced to make a long detour in order to reach the firmer ground at the foot of the hills. Herds of sheep grazed along the river banks. On the right bank the ruins were so numerous they seemed to cover every level patch of ground on the slopes of the hills. After eighteen miles of marching, we reached the small village of Dag-cho, a group of brick houses in the center of which rose a ruined watch tower.
 
-**466 TRAILS TO INMOST ASIA**
+<a id="466">**466 TRAILS TO INMOST ASIA**</a>
 
 The population was extremely poor, cultivating only a few barley fields, irrigated by channels which diverted the water from the river to the fields. The place belonged to the Red Hat sect and this was attested by the red, white, and dark blue vertical lines painted on the walls of the houses. We had to change our caravan animals again. Yaks were very scarce in the village and our baggage had to be carried on *dzo*.
 
@@ -6037,7 +6037,7 @@ May 4. There is an intense sadness in the landscape of the plain leading toward 
 
 Tingri is the fourth military station of Tibet after Lhasa, Shigatse, and Gyangtse. It has a garrison of some five hundred infantry of the Tsang Command and guards the road to Chyirong dzong and Khatmandu. The plain is everywhere surrounded by mountain ranges and to the east opens a broad mountain valley through which passes the trade route to Shekar dzong and then goes on to Shigatse and Lhasa. The approaches to the valley are protected by the military fort of Tingri. The military station and fort of Tingri had been founded by the Chinese after the Gurkha advance of 1792 and the ruins and dilapidated walls of the Chinese fort are still to be seen on the crest of the spur dominating the village of Tingri. In the time of the Manchu rule, the fort had a garrison of thirty Chinese soldiers under the command of a lieutenant. In case of an alarm, the garrison was assisted by a troop of local militia or *sa-sung mag-mi* (*sa-srung dmag-mi*), collected among the local nomads and villagers of the district. Naturally the fortress has no strategical value whatever and could be easily outflanked by an ad-
 
-**467 FROM SAGA DZONG TO SIKKIM**
+<a id="467">**467 FROM SAGA DZONG TO SIKKIM**</a>
 
 vancing force from the south. The soldiers of the garrison and their families live in the village below the fort.
 
@@ -6047,7 +6047,7 @@ We at once dispatched messengers to bring back the headman and sent word to the 
 
 We found a shortage of provisions in Tingri, for the Nepalese traders who usually visit Tingri in the spring and summer did not arrive this
 
-**468 TRAILS TO INMOST ASIA**
+<a id="468">**468 TRAILS TO INMOST ASIA**</a>
 
 year because of heavy snows on the Khambu-shar-kang La, a pass that leads toward the valley of Khatmandu. However, after considerable effort, we succeeded in buying some *poram*, dried potatoes, and a small quantity of onions. Our chief supplier was the former Chinese *lao-ye* of the fort, who since the downfall of the Chinese rule in Tibet took to trading and became thoroughly Tibetanized.
 
@@ -6059,7 +6059,7 @@ Late in the afternoon the local headman arrived, tall and gray haired. He assure
 
 May 5. We arose very early, but soon found out that no pack animals had reached the village or our camp and that the headman was still enjoying his morning sleep. Portniagin and I went to his home and sternly told him to have the animals ready at once, otherwise he would
 
-**469 FROM SAGA DZONG TO SIKKIM**
+<a id="469">**469 FROM SAGA DZONG TO SIKKIM**</a>
 
 have to accompany us to Shekar and be handed over to the *dzong-pön*. He pleaded that the peasants were ignoring his orders and that although a sufficient number of pack animals was available in the village, he was unable to collect them without our help! He insisted that we should remain in his house and give him time to run over to his assistant to find out whether the animals were ready. He disappeared for half an hour and then returned in despair, saying that the peasants scoffed at him and refused to obey his orders. He begged us to accompany him and to see the situation for ourselves. We accordingly started off for a round of the courtyards of the village. The procedure was brief, but worth noting. What happened invariably in each of the courtyards was just this: The headman, followed by us, entered the courtyard and asked in a loud voice "Are you ready to give your animals as ordered yesterday?" The question was followed in most cases by a lash of the heavy horsewhip which the headman carried in his hand. The recipient of the blow invariably answered in a high-pitched voice *"la-les"* or "yes." After this drastic procedure the pack animals were driven out of the courtyard into the street and the headman directed his steps to the next house. In this way we succeeded in collecting about half of the required caravan animals. The rest had to arrive from neighboring farms and villages. We protested to the headman about his cruel behavior toward the local peasants, but the man only laughed and considered our protest ridiculous.
 
@@ -6067,7 +6067,7 @@ We returned to our camp leading two fine riding horses. We had to wait a couple 
 
 Finally the caravan animals arrived and we had to witness another curious scene. The headman angrily reproached the drivers and ordered one of his attendants to bring a broad piece of leather. When the instrument of punishment was brought, the belated drivers, three men and five women, were put on their knees and the headman administered several resounding slaps on their cheeks. The guilty ones cried in
 
-**470 TRAILS TO INMOST ASIA**
+<a id="470">**470 TRAILS TO INMOST ASIA**</a>
 
 unnaturally high-pitched voices, but did not seem the worse for the punishment.
 
@@ -6077,7 +6077,7 @@ What happened in Po-yul? Oppressed by excessive taxes the population of some of 
 
 There is nothing orderly in the march of Tibetan troops. They usually receive transport from the local population. The soldiers themselves have to carry their own provisions supplied by their families and
 
-**471 FROM SAGA DZONG TO SIKKIM**
+<a id="471">**471 FROM SAGA DZONG TO SIKKIM**</a>
 
 villages. All the soldiers ride, some on horses and mules, some even on donkeys and yaks. There are no uniforms, except for occasional puttees, while most of the men wear Tibetan coats and fur caps. The khaki uniforms adopted recently from India serve only as parade dress. The usual armament consists of British rifles of an old pattern, which are rendered almost harmless by want of proper cleaning. The Tibetan infantryman or cavalryman is fond of riding with a bayonet fixed to his rifle, which is moreover usually gaily decorated with ceremonial scarfs and multicolored pieces of cloth. When going into action he often prefers to leave his rifle behind, from fear of losing it and fights with an antiquated matchlock or simply hides behind some stone or any other natural protection. A Tibetan attack is always preceded by wild outcries, which serve to encourage the troops. *"Khi, hu, hu,"* or *"u-hu, u-hu, u-hu,"* are the favorite war cries of Tibetans going into the fight.
 
@@ -6087,7 +6087,7 @@ When we saw the Tibetan troops passing, we wondered what would become of them in
 
 The road to Shekar followed the right bank of the Phung-chu. It
 
-**472 TRAILS TO INMOST ASIA**
+<a id="472">**472 TRAILS TO INMOST ASIA**</a>
 
 was sandy, and limestone cliffs rose on either side of the valley. The country reminded one vividly of the central Gobi. Here and there were small villages with scant cultivation. The peasants were plowing their fields and fresh grass could be seen on the river banks covered by flocks of wild geese, Brahmini ducks, and teals. A lama riding a fine, black mule joined our party and rode with us until our camp at Memo. He carried on his back a fine Mauser carbine and a cartridge belt. He was from Tashi-lhun-po, and accompanied his master, a wealthy lama trader, to Shekar.
 
@@ -6095,7 +6095,7 @@ About two o'clock in the afternoon we reached the small village of Memo which co
 
 The result was that the crowd got frightened and dispersed and we were left without fuel and fodder for about three hours. The disorderly servant retired to his tent and flatly refused to do his work. The soldier from Tingri, who was accompanying the expedition to Shekar, was himself drunk and quite unable to assist us. He came to see me, and in despair asked me to talk with the peasants and persuade them to change their attitude. I was obliged to go to see the headman and talk over the problem. I found the headman's family to be quite ready to aid us. The headman's wife at once called out all the peasants and gave them strict orders to supply us with fuel and fodder and to collect animals for the morrow. In an hour we had everything. But the first trouble was followed by another outbreak. A serious dispute arose between the caravan men from Tingri and the villagers of Memo. The villagers of Memo had received the letter announcing our arrival a few hours before our coming and were unable to prepare the required number of caravan animals. They decided to hire caravan animals from the Tingri men. These latter refused, and made off for their horses and mules, but were held up by a party of Memo villagers, while another party of men drove all the animals into the courtyard of the
 
-**473 FROM SAGA DZONG TO SIKKIM**
+<a id="473">**473 FROM SAGA DZONG TO SIKKIM**</a>
 
 headman's house. After some violent talking, the matter was settled and the Tingri caravan men agreed to hire their animals. Professor Roerich ordered the rebellious servant to be discharged at once and his conduct to be reported to the district governor at Shekar.
 
@@ -6105,7 +6105,7 @@ In the evening, we sat by the tents and watched the continuous stream of riders 
 
 With Tingri and the region southwest of it, around the range Lap-chyi kang-ri, is connected one of the sublime episodes of the religious and literary history of Tibet. Here, in the first half of the eleventh century, lived and labored the most eminent religious teacher of Tibet, the hermit Milarepa (Mi-la ras-pa), the St. Francis of the Snow Country.
 
-**474 TRAILS TO INMOST ASIA**
+<a id="474">**474 TRAILS TO INMOST ASIA**</a>
 
 South of Tingri, in almost inaccessible mountain valleys, leading toward the loftiest mountain region on earth, where the snow massifs of Everest, Makalu, and Gaurishankar rise to a tremendous height, as if rivaling each other, there still dwell hermits zealously preserving the mystery of Milarepa, transmitted through generations of teachers. Here, lost in the wilderness of the mountains, one can still hear the songs of Milarepa and contemplate, on the walls of forlorn mountain hermitages, the image of the Teacher, listening to the Inner Voice. Every year pilgrims ascend the almost inaccessible approaches toward Mount Everest, to behold the gigantic cleft on the flank of the mountain, a trace of Naro Bön-chung's fall.
 
@@ -6115,7 +6115,7 @@ There, in those distant mountains, one can still meet recluses, members of the s
 
 On our way to Tingri, we met some lama followers of Milarepa, going on pilgrimage toward the valley of Lap-chyi and its temple. Some of them carried big *damaru* and the trident, and had the *kang-ling* or trumpet made of human bone fastened to their belts. Their garment consisted of a once white homespun coat, gray from constant usage and exposure. Their hair was kept together by a string on the crown of the head.
 
-**475 FROM SAGA DZONG TO SIKKIM**
+<a id="475">**475 FROM SAGA DZONG TO SIKKIM**</a>
 
 I profited by the opportunity to talk with them and produced the *Gur-bum* or the collection of the songs of Milarepa. I asked them about followers of Milarepa and famous retreats in the mountains. At first they seemed puzzled by my questions. What right and interest had a stranger to inquire into the life of their fellow monks? But slowly, seeing that I was in earnest, they became more communicative. The already mentioned "Brothers and Friends of the Hidden" are usually initiated pupils of one teacher, and they are united by this common source of instruction. They usually dwell in mountain retreats and recognize each other by certain signs. They practice intense meditation and the hidden science of the "Inner Fire" that allows the adept to sit for hours in biting wind and gale, without feeling the frost. On the contrary, he feels an agreeable warmth spreading over his body and occasionally sees fire tongues spring up around him. It is said that some of the adepts of these practices, whose life have been particularly holy, are able to melt the snow around them for a considerable distance. Before attaining this stage of *tum-mo*, an aspiring monk has to undergo a course of instruction under the guidance of a teacher, who keeps close watch over his pupils. Without a teacher, *tum-mo* is considered to be extremely dangerous and there are many cases where monks become insane, I have heard of a monk who had practiced concentration leading toward *tum-mo* fourteen years but was once interrupted by a passing man, who had lost his way and asked the monk about the road. The result was that the meditating lama experienced such a terrific shock that he was unable to stand it and lost his mind. Rules of *tum-mo* and of meditations which serve to develop the faculty are laid down in special manuals. Some of them are printed at Narthang, but to get them, a special permission has to be obtained from the Government. Most of the manuals are manuscript and are handed over by the teacher to his best pupil at death. These manuals are as a rule composed in the so-called *mantra* language, a highly technical form of literary Tibetan, using special expressions.
 
@@ -6123,7 +6123,7 @@ It is interesting to note that *tum-mo* is also practiced in Mongol monasteries.
 
 Milarepa and his songs are very popular among the population of
 
-**476 TRAILS TO INMOST ASIA**
+<a id="476">**476 TRAILS TO INMOST ASIA**</a>
 
 Tingri and the neighboring country and legends about Milarepa are often told in the evenings at camp fires and at the hearths of village houses. The author has greatly profited by such conversations with travelers, both traders and lama pilgrims.
 
@@ -6147,7 +6147,7 @@ PAINTING BY NICOLAS ROERICH
 
 *Roerich Museum, New York*
 
-**477 FROM SAGA DZONG TO SIKKIM**
+<a id="477">**477 FROM SAGA DZONG TO SIKKIM**</a>
 
 mountain cols of no great height, we descended into a longitudinal valley covered by numerous barley fields and farmsteads. After crossing a low, rocky spur, we emerged into the narrow, well-sheltered valley in which Shekar dzong is situated.
 
@@ -6157,7 +6157,7 @@ On our arrival we were shown a camping place south of the town, but the local he
 
 We were ushered into a big room on the second floor. The Governor sat on the usual low seat placed close to a window, and politely inquired about our health and the difficulties we had experienced on the route. Most of the conversation was conducted by the Governor's secretary, and an important custom official from Lhasa who was on an inspection tour in the Shekar district. This gentleman did most of the talking. He was formerly Governor at Nag-chu and was very eager to learn about the present conditions in that district. He had a vague idea of the outside world and America was known to him under her Chinese name of Mei-kuo. He showed a real interest in skyscrapers and asked for permission to visit our camp in the afternoon. The secretary of the Governor informed us that the animals could not be ready be-
 
-**478 TRAILS TO INMOST ASIA**
+<a id="478">**478 TRAILS TO INMOST ASIA**</a>
 
 fore three days. A long argument followed this announcement. We were eager to go ahead in order to cover the distance between Shekar and the next three stages before the troops from Tingri arrived and requisitioned all the transport available.
 
@@ -6169,7 +6169,7 @@ A continuous string of riders, with jingling bells, passed our camp. Most of the
 
 May 7. The forenoon was occupied with obtaining provisions for the rest of the trip. The prices for foodstuffs were unusually high. Our camp was crowded by spectators who watched every movement and even endeavored to come inside the tents. We tried to persuade the crowd to disperse but all such attempts failed completely and the crowd only doubled in number, thinking probably that we were about
 
-**479 FROM SAGA DZONG TO SIKKIM**
+<a id="479">**479 FROM SAGA DZONG TO SIKKIM**</a>
 
 to do something exciting. Very soon it became impossible to move about the camp without being accosted by some one, or followed by a group of natives. We had to apply to the Governor and ask him to depute a couple of his men to keep the crowd away. The men duly appeared on the scene but were unable to disperse them. They advised us to do it ourselves for the crowd would not dare to resist foreigners. Portniagin and I accordingly succeeded in pushing the crowd outside the camp, but people remained standing at a considerable distance and even sat down and made themselves comfortable. They had apparently decided to spend the day watching the performance at the foreigners camp.
 
@@ -6181,7 +6181,7 @@ In order not to experience further delay on our way to Kampa dzong, we persuaded
 
 1\. Rawling, Great Plateau, p. 174.
 
-**480 TRAILS TO INMOST ASIA**
+<a id="480">**480 TRAILS TO INMOST ASIA**</a>
 
 May 9. Late in the evening we heard the tramping of a large column of animals, marching on the main route, and were told that these were our animals for the next day. In the morning there were no traces of caravan animals and the column of last night proved to be a privately owned caravan with barley grain.
 
@@ -6191,13 +6191,13 @@ We started rather late and the march was said to be a long one. The trail follow
 
 After a five hours' ride along the bank of the Phung-chu, we entered the big village of Tsöna, which was our stage for the day. The two delegates from the *dzong*, who were supposed to accompany us until Ting-kye, were delayed at Shekar and were guided only by a man who was in charge of our relay horses. The villagers gave us the wrong information that tents had been pitched for us some four miles farther down the bank of the river. We accordingly continued our journey but to our surprise found nothing on the indicated spot and decided to await the arrival of the *dzong* representatives. We made a temporary camp on the bank of the river, and prepared some tea. I remained on the projecting hill with field glasses to watch for our caravan. Nothing was seen on the vast plain toward Tsöna village. At six o'clock we were overtaken by a party of riders, who proved to be representatives from Shekar and our Mongols. The representatives seemed greatly annoyed and told us that the villagers had prepared tents for us some six miles farther on, and as the road was easy and flat we had to go there. We
 
-**481 FROM SAGA DZONG TO SIKKIM**
+<a id="481">**481 FROM SAGA DZONG TO SIKKIM**</a>
 
 again mounted our horses and rode across the vast, sandy plain, that occupied a large plateau on the bank of the river. It was becoming dark but the camp was not to be seen. At last after a march of some twenty eight miles we found an old Chinese relay station, very similar to those found in other parts of inner China and one black tent pitched outside the courtyard. This was our halting place. The baggage animals arrived only at two o'clock in the morning and we had only one tent. Most of us had to find quarters in the tent pitched by local inhabitants and the resthouse. I preferred to sleep in the open, with a pair of fallen trees for my bed. Across the river, we could see in the dim light of the evening a village with several monasteries scattered on the mountain slopes. The second representative from Shekar, who was absent the whole day, arrived late at night. He had received a false report that we had crossed the river and had gone to the village on the opposite bank. He returned thoroughly wet and hopelessly drunk. Outside our camp there was a deep channel full of mud and water and the official plunged into it headfirst. He had to be rescued with his mount and guided to the resthouse. The recalcitrant monks from the Shekar chd-de threw down their loads on the plateau east of Tsöna and returned home. In the early morning we had to send men and animals to collect the loads.
 
 May 10. We started very late, as the men and animals badly needed a long rest after the strenuous march of the previous day. The trail followed a tributary of the Arun and then turned eastward and struck across a sandy plain with belts of sand dunes. The whole landscape resembled the plain of Chinese Turkestan. After crossing the plain, we came to the sandy bed of another tributary stream of the Arun. There was not much water in the stream and we had no difficulty in crossing. The trail followed a narrow gorge surrounded by limestone ridges. At the bottom of the gorge flowed a tiny mountain stream, emptying into the tributary of the Arun system. After six miles of march the trail emerged on a latitudinal plain on which were several villages. The village Chung-tü was situated on the bank of a small rivulet, flowing south. The village was particularly interesting and picturesque, built on a limestone hill fantastically cut through by narrow passages which served as streets. On the projecting point of the hill stood large *stupas* and some houses. The place had a small Red Hat monastery belonging to the great Royal Monastery of Sa-skya. We camped on an elevated terrace outside the village. The caravan was again delayed *en route* and
 
-**482 TRAILS TO INMOST ASIA**
+<a id="482">**482 TRAILS TO INMOST ASIA**</a>
 
 we received our tents only at ten o'clock that morning. A section of our caravan was unable to reach the village and was forced to camp on the river bank, outside the village.
 
@@ -6227,7 +6227,7 @@ KAMPA DZONG
 
 KAMPA DZONG
 
-**483 FROM SAGA DZONG TO SIKKIM**
+<a id="483">**483 FROM SAGA DZONG TO SIKKIM**</a>
 
 the headman, and only asked him to give them a written statement, which he did. We were forced to use the same animals. The peasants stubbornly refused to supply animals despite the threats of the officials delegated from Shekar. Most of the caravan spent the night outside the village about a mile away and they were about to enter Tashi-gang and hand over the loads to the local headman. One of the officials from Shekar took up a position outside the village and when the caravan came nearer, ordered the drivers to turn toward the Gulung La. A violent scene followed in which the official had to use his whip. The caravan turned and slowly continued its way toward the pass.
 
@@ -6235,7 +6235,7 @@ We left the village and rode after the caravan. We crossed a stream flowing outs
 
 To the south rose the snow-capped range of the central Himalayas. The road passed along the western shore of the lake. Near the lake we overtook the rest of our party and crossed a flat col, situated southwest of the lake. Wet snow and a cold western wind started to blow soon after we had reached the summit of the col. The descent was long but gradual and led toward the great upland plain stretching along the
 
-**484 TRAILS TO INMOST ASIA**
+<a id="484">**484 TRAILS TO INMOST ASIA**</a>
 
 northern foot of the Himalayas. The trail was heavy, being in many places blocked by accumulations of detritus and bowlders that had rolled down the mountain slopes. At the foot of the descent, we passed a small farmhouse and several barley fields. From there the road turned westward and we were soon in sight of the *dzong* of Ting-kye, on the western shore of a small lake.
 
@@ -6243,13 +6243,13 @@ In the neighborhood of the *dzong* were several monasteries and villages. We wer
 
 Next day Professor Roerich and I went to see the *dzong-pön* in order to fix the cost of hire of each animal to Kampa dzong. One entered the *dzong* through a large gate, which led into a stone-paved courtyard. As in all Tibetan houses, this inner courtyard had a stable. From the courtyard we climbed a stone stairway with large steps and reached the second floor. From here we had to climb a wooden ladder to where the Governor awaited us. He sat on a veranda overlooking the inner courtyard. He was still a young man, with pleasant manners and dressed in the usual Tibetan *puru*, and he made a friendly impression. After the conventional compliments and mutual inquiries about health, we started to talk business. The *dzong-pön* informed us that he would charge us for each animal according to local prices, neither more nor less. Several headmen were called in and a long conference followed. The prices were finally fixed as follows: three *ngü-sangs* for each horse and one *ngü-sang* and five *sho* for each pack animal. According to the *dzong-pön*, they had had an exceptionally snowy winter in the district and many people had perished on the passes across the Himalayas. The Sepo La was now free from snow but the high passes south of Ting-kye were still impassable.
 
-**485 FROM SAGA DZONG TO SIKKIM**
+<a id="485">**485 FROM SAGA DZONG TO SIKKIM**</a>
 
 May 13. In the morning light clouds hovered over the summits and a passing cloud sent a light shower of rain and hail. The morning was spent in a visit to the monastery of Tashi-chombü, which was situated on the slope of a rocky ridge. The track to the monastery climbed the slope of the mountain and was lined with *mani*-walls and small, dilapidated *stupas*. Below the track not far from the village, stood an inclosed grove of poplars with a large, open square in the center. Here in the fourth month of the Tibetan year, gaily decorated tents are pitched and the monks of the monastery hold religious debates and listen to the discourse of learned doctors who visit the monastery for this occasion. The debates continue for about ten days. The monastery is inclosed by brick walls, and several gates lead into the courtyard, paved with large slabs of stone. It is a branch of the great Dre-pung Monastery of Lhasa and lamas of Dre-pung are periodically sent here for a year or two. In front of the assembly hall was situated a small paved courtyard with frescoes representing the thousand *Tathagatas*. The Healing Buddha, or *Man-la* in Tibetan (*sMan-bla*), the white and green Taras and some of the eighty-four ascetics of India, were all represented in rows on the walls of the courtyards. The paintings were crude and had little artistic value. In some places the color had disappeared and left ugly, dark spots on the white background of the wall. Iconographically, the frescoes had a certain value, for the name of the represented deities and saints was as a rule written below the figure. The abbot of the monastery, a high lama from Dre-pung, who temporarily resided in the monastery, greeted us in the courtyard and conducted us inside the *du-khang* or assembly hall. In the glimmering light of offering lamps in front of the altar images, we noticed the gilded clay images of Sakya-muni, the Buddha, of his two principal disciples, Shariputra and Maudgalyana. Tsong-kha-pa with his two disciples Jye-tshap-je (rGyal-tshab-rje) and Khe-dup-je (mKhas-grub-rje) stood on the altar. A great offering lamp of silver burned in front of the images. A section of the walls was occupied by the monastic library containing a complete collection of *Känjür* and *Tänjür* of an old Narthang print. The rest of the walls were covered by frescoes in the orthodox style. I noticed several representations of the chief *yi-dam* of the Yellow sect, beginning with a Tantric form of Yamantaka, the Protector of the sect. Near the entrance of the temple stood a huge image of the *yi-dam* of Kalacakra, represented in his Tantric form.
 
 There is little difference between a fresco technique and the ordinary
 
-**486 TRAILS TO INMOST ASIA**
+<a id="486">**486 TRAILS TO INMOST ASIA**</a>
 
 technique used in painting *thang-kas* or painted banners. A fresco is only an enlarged *thang-ka* spread on the wall of the temple with the same design, the same composition and coloring. Sometimes a fresco serves as the background to sculpture. This is often the case with images of the Buddha. I remember seeing frescoes representing the Buddha tempted by Mara, the Evil One, the night before the attainment of complete enlightenment. The principal figure of the Buddha, seated in the meditative attitude, the head slightly bent, was made of gilded clay, which had assumed a soft coloring, and the hair was as usual painted blue. Mara and his host were represented on the fresco behind the image of the Buddha. The same combination of fresco and sculpture was known to central Asian artists, who decorated the cave temples of Chinese Turkestan and western Kansu.
 
@@ -6279,7 +6279,7 @@ LEPCHA HILLMAN, SIKKIM
 
 THE MONASTERY OF PEMA-YANGTZE IN SIKKIM
 
-**487 FROM SAGA DZONG TO SIKKIM**
+<a id="487">**487 FROM SAGA DZONG TO SIKKIM**</a>
 
 trail followed the plain stretching from Ting-kye toward Kampa dzong. The trail was level and crossed swampy, saline grounds and belts of sand dunes surrounded by quicksands. We passed a small lake, called Chang-tsho by local inhabitants. In order to avoid the swamps on the shores of the lake, we had to turn northward toward the hills and enter a narrow valley blocked by bowlders and accumulations of detritus.
 
@@ -6295,7 +6295,7 @@ On our arrival, the Governor awaited us outside the village and conducted us to 
 
 May 16. A fine, sunny day. In the morning we made an excursion to the old *dzong* on the top of the cliff and paid a return visit to the Gov-
 
-**488 TRAILS TO INMOST ASIA**
+<a id="488">**488 TRAILS TO INMOST ASIA**</a>
 
 ernor of the fort. The old *dzong*, with its proudly rising stone wall, is one of the best architectural creations of old Tibet. South of the *dzong*, high on the crest of the ridge, stood the little monastery of Kampa rito, famous for the saintly life of its eight monks.
 
@@ -6307,7 +6307,7 @@ May 17. We started very early. Before dawn the camp was already packed and the l
 
 May 18. a memorable day for all the members of the expedition. Notwithstanding the bitter cold of the early morning hours, everyone was up before dawn and camp fires flickered in the darkness. Horses were saddled and tents were rolled up and loaded on mules. Before sunrise everything was ready for the start, but it was still too dark to ascend the pass and we had to wait for an hour. At last the sun rays lit the snow peaks towering on either side of the Sepo La and the long string of our riders and caravan animals left Kyeru and began the ascent of the Sepo La. The ascent was very gentle. Higher and higher rose the trail, until it had reached the summit of the pass with an eleva-
 
-**489 FROM SAGA DZONG TO SIKKIM**
+<a id="489">**489 FROM SAGA DZONG TO SIKKIM**</a>
 
 tion of 16,970 feet. A stone cairn marked the summit, which forms the political frontier between Tibet and the Indian Empire. Then began a gradual descent, past huge masses of snow, glaciers, and tremendous peaks. It was bitterly cold, because of the snows.
 
@@ -6321,7 +6321,7 @@ We had an exciting time with our Mongol horses, who shied at trees and objected 
 
 May 19. We had to remain one day at Thangu and await the Lachen headman, who sent word that he was coming with pack mules and riding horses. He arrived in the afternoon and kindly assisted us with the arrangement of a new caravan to Gangtok. He agreed to escort the caravan himself and hire mules as far as Gangtok, a thing which is sel-
 
-**490 TRAILS TO INMOST ASIA**
+<a id="490">**490 TRAILS TO INMOST ASIA**</a>
 
 dom done by Lachen people. The rest of the day was spent resting in the spacious dak bungalow.
 
@@ -6337,1125 +6337,1125 @@ In spite of the tremendous difficulties, including political upheavals, and unfa
 
 ## INDEX
 
-Abatai Khan, 155
+Abatai Khan, [155](#155)
 
-Abdul Razak, 86
+Abdul Razak, [86](#86)
 
-Aeolian mesas, in Trans-Himalayas, 453, 455, 456
+Aeolian mesas, in Trans-Himalayas, [453](#453), [455](#455), [456](#456)
 
-Agriculture, 23, 35, 47, 269, 472; irrigation, 12, 52, 86, 95, 455, 482; taxes, 410, 449; terraced fields, 48, 52, 53, 64, 65, 83, 86, 254, 457; use of bullocks, 478, of donkeys, 457
+Agriculture, [23](#23), [35](#35), [47](#47), [269](#269), [472](#472); irrigation, [12](#12), [52](#52), [86](#86), [95](#95), [455](#455), [482](#482); taxes, [410](#410), [449](#449); terraced fields, [48](#48), [52](#52), [53](#53), [64](#64), [65](#65), [83](#83), [86](#86), [254](#254), [457](#457); use of bullocks, [478](#478), of donkeys, [457](#457)
 
-Aksu, Chinese Turkestan, 96
+Aksu, Chinese Turkestan, [96](#96)
 
-Alchi, ancient Ladaki convent, 17
+Alchi, ancient Ladaki convent, [17](#17)
 
-Alinements, x, 355, 415, 416, 440, 441, 444
+Alinements, x, [355](#355), [415](#415), [416](#416), [440](#440), [441](#441), [444](#444)
 
-Altai Mountains, 75; archaeological possibilities, 123; center of nomad art, 367
+Altai Mountains, [75](#75); archaeological possibilities, [123](#123); center of nomad art, [367](#367)
 
-Altars in private households: Ladak, 14; Mongolia, 162; Tsaidam, 238, 254; Tibet, 299, 342-343, 411; stone altars (Bön), 355, 411, 415, 416, 440
+Altars in private households: Ladak, [14](#14); Mongolia, [162](#162); Tsaidam, [238](#238), [254](#254); Tibet, [299](#299), [342](#342)–[343](#343), [411](#411); stone altars (Bön), [355](#355), [411](#411), [415](#415), [416](#416), [440](#440)
 
-Altyn-Shahr, 50
+Altyn-Shahr, [50](#50)
 
-Amdo, objects in animal style, 371; lamas, 382, 403
+Amdo, objects in animal style, [371](#371); lamas, [382](#382), [403](#403)
 
-Amdong, 56
+Amdong, [56](#56)
 
-"Ameri, King," 296
+"Ameri, King," [296](#296)
 
-America, interest shown in Tibet, 477, 479, 486
+America, interest shown in Tibet, [477](#477), [479](#479), [486](#486)
 
-American Museum of Natural History, 202, 271
+American Museum of Natural History, [202](#202), [271](#271)
 
-Amursana, believed former incarnation of Ja Lama, 225, 226
+Amursana, believed former incarnation of Ja Lama, [225](#225), [226](#226)
 
-Andak Hapehiga, 287
+Andak Hapehiga, [287](#287)
 
-Anderson, Dr., 88
+Anderson, Dr., [88](#88)
 
-Andrews, Dr. Roy Chapman, 202
+Andrews, Dr. Roy Chapman, [202](#202)
 
-Angar Dakchin, 276-277. *See also* Marco Polo Range
+Angar Dakchin, [276](#276)–[277](#277). *See also* Marco Polo Range
 
-Animal figures in clay, 63; on jar handles, 63; horns and skulls on Bön-po edifices, 362; as *motif* in Nepalese art, 461; on Tibetan sword hilts, 350
+Animal figures in clay, [63](#63); on jar handles, [63](#63); horns and skulls on Bön-po edifices, [362](#362); as *motif* in Nepalese art, [461](#461); on Tibetan sword hilts, [350](#350)
 
-Animal style, discussion of Roerich finds, 173, 367 ff., 418, 472; Kozlov finds, 133, 150-152, 370, 418. *See also* Charm boxes
+Animal style, discussion of Roerich finds, [173](#173), [367](#367) ff., [418](#418), [472](#472); Kozlov finds, [133](#133), [150](#150)–[152](#152), [370](#370), [418](#418). *See also* Charm boxes
 
-Antelopes, 204, 254, 286, 418, 440
+Antelopes, [204](#204), [254](#254), [286](#286), [418](#418), [440](#440)
 
-*Antiquities of Indian Tibet* (Francke), 10
+*Antiquities of Indian Tibet* (Francke), [10](#10)
 
-Apples, 65
+Apples, [65](#65)
 
-Apricot groves, 17, 52-53
+Apricot groves, [17](#17), [52](#52)–[53](#53)
 
-Aquatic birds, 204, 237, 266, 435
+Aquatic birds, [204](#204), [237](#237), [266](#266), [435](#435)
 
-Aquatic cows, 406-407, 408
+Aquatic cows, [406](#406)–[407](#407), [408](#408)
 
-Arab alliance with Tibetans, seventh century, 100; desert, 414
+Arab alliance with Tibetans, seventh century, [100](#100); desert, [414](#414)
 
-*Äräki*, 213, 238
+*Äräki*, [213](#213), [238](#238)
 
-Architecture --- brick structures and stone hovels, 37, 86, 183, 192, 255, 326, 409, 410, 413, 414, 417, 421, 426, 449, 456, 462, 465, 484; cathedral of Ikhe-küren, 153; conical, 173, 417; European influence, Hsin-chiang, 104-105; Ganden Monastery, 160-161; Ja Lama's castle, 212; lack of permanent structures, Tsaidam, 255; Leh Palace, 24 ff.; *mani*-walls, Ladak, 28, 414-415, 417, 428, 449, 456, 461, 485; masonry, 29, 487; mud-built fort, 47, hovels, 264; People's Club, Mongolia, 139; Red Sect Monastery, 456; Sino-Tibetan, 158, 384; Tibetan houses, 14, 27; two-story buildings, 384; triumphal arches, Urga, 155; Urga Palace, 139; watch towers, 214; white-wash, 456, 460; windows, 24, 27, 117, 383; Yum-beise küren, 192; yurta *motif*, 139, 150; Zangskar, 35
+Architecture --- brick structures and stone hovels, [37](#37), [86](#86), [183](#183), [192](#192), [255](#255), [326](#326), [409](#409), [410](#410), [413](#413), [414](#414), [417](#417), [421](#421), [426](#426), [449](#449), [456](#456), [462](#462), [465](#465), [484](#484); cathedral of Ikhe-küren, [153](#153); conical, [173](#173), [417](#417); European influence, Hsin-chiang, [104](#104)–[105](#105); Ganden Monastery, [160](#160)–[161](#161); Ja Lama's castle, [212](#212); lack of permanent structures, Tsaidam, [255](#255); Leh Palace, [24](#24) ff.; *mani*-walls, Ladak, [28](#28), [414](#414)–[415](#415), [417](#417), [428](#428), [449](#449), [456](#456), [461](#461), [485](#485); masonry, [29](#29), [487](#487); mud-built fort, [47](#47), hovels, [264](#264); People's Club, Mongolia, [139](#139); Red Sect Monastery, [456](#456); Sino-Tibetan, [158](#158), [384](#384); Tibetan houses, [14](#14), [27](#27); two-story buildings, [384](#384); triumphal arches, Urga, [155](#155); Urga Palace, [139](#139); watch towers, [214](#214); white-wash, [456](#456), [460](#460); windows, [24](#24), [27](#27), [117](#117), [383](#383); Yum-beise küren, [192](#192); yurta *motif*, [139](#139), [150](#150); Zangskar, [35](#35)
 
-Argal as fuel, 288, 314, 405; walls, 299, 406, 410
+Argal as fuel, [288](#288), [314](#314), [405](#405); walls, [299](#299), [406](#406), [410](#410)
 
-Arghun, 29
+Arghun, [29](#29)
 
-Arkägun-arghun, 29
+Arkägun-arghun, [29](#29)
 
-Arrow, symbols for sun and King Kesar, 416; in megalithic alinements, 416
+Arrow, symbols for sun and King Kesar, [416](#416); in megalithic alinements, [416](#416)
 
-Arrow-heads, as amulets, 351, 416, 418, 420
+Arrow-heads, as amulets, [351](#351), [416](#416), [418](#418), [420](#420)
 
-Arrow letters, as mobilizing orders, Tibet, 352, 457, 470
+Arrow letters, as mobilizing orders, Tibet, [352](#352), [457](#457), [470](#470)
 
-Asiatic Museum of Russian Academy of Science, 360
+Asiatic Museum of Russian Academy of Science, [360](#360)
 
-Asses, herds, 188, 204, 254, 284, 289-290, 407, 421, 426, 432, 437, 453, 465
+Asses, herds, [188](#188), [204](#204), [254](#254), [284](#284), [289](#289)–[290](#290), [407](#407), [421](#421), [426](#426), [432](#432), [437](#437), [453](#453), [465](#465)
 
-Astrology, 13; Temple of, 155
+Astrology, [13](#13); Temple of, [155](#155)
 
-Atak-Memar (Hor-pa tribe), 336
+Atak-Memar (Hor-pa tribe), [336](#336)
 
-Atak-Thomi (Hor-pa tribe), 336
+Atak-Thomi (Hor-pa tribe), [336](#336)
 
-Atisha, 156, 157, 158
+Atisha, [156](#156), [157](#157), [158](#158)
 
-Avalokitesvara, 26; images, 10, 15, 18, 27, 147, 161, 363-364
+Avalokitesvara, [26](#26); images, [10](#10), [15](#15), [18](#18), [27](#27), [147](#147), [161](#161), [363](#363)–[364](#364)
 
-Babu Sarat Chandra Das, 106
+Babu Sarat Chandra Das, [106](#106)
 
-Bacot, M. Jacques, 333; quotation, 342
+Bacot, M. Jacques, [333](#333); quotation, [342](#342)
 
-Badakhshani horses, 5, 86
+Badakhshani horses, [5](#5), [86](#86)
 
-Badruddin Khan, 57; collections, 62-64
+Badruddin Khan, [57](#57); collections, [62](#62)–[64](#64)
 
-Baga Ma-tzu Shan, 213; stronghold of Ja Lama, 230-233
+Baga Ma-tzu Shan, [213](#213); stronghold of Ja Lama, [230](#230)–[233](#233)
 
-Baga Tsaidam Lake, 266
+Baga Tsaidam Lake, [266](#266)
 
-Baghrash Lake, 103
+Baghrash Lake, [103](#103)
 
-Bailey, Col. F. M., xii, 311, 320, 323, 328, 377, 488; reception by, 490
+Bailey, Col. F. M., xii, [311](#311), [320](#320), [323](#323), [328](#328), [377](#377), [488](#488); reception by, [490](#490)
 
-Bakr-Id, 4
+Bakr-Id, [4](#4)
 
-**492 TRAILS TO INMOST ASIA**
+<a id="492">**492 TRAILS TO INMOST ASIA**</a>
 
-Balden Dorje, 233
+Balden Dorje, [233](#233)
 
-Balgantai-shara-sümä, 103
+Balgantai-shara-sümä, [103](#103)
 
-Bamboo sticks as currency, 97
+Bamboo sticks as currency, [97](#97)
 
-Ban on foreigners, Tibet, 312, 377-378
+Ban on foreigners, Tibet, [312](#312), [377](#377)–[378](#378)
 
-Banners (*thang-kas*), 25, 30, 38, 147, 153; on temple roofs, Mongolia and Tibet, 153, 192, 195, 299, 421
+Banners (*thang-kas*), [25](#25), [30](#30), [38](#38), [147](#147), [153](#153); on temple roofs, Mongolia and Tibet, [153](#153), [192](#192), [195](#195), [299](#299), [421](#421)
 
-Barley, 10, 35; *tsam-pa* prepared from, 38, 47, 254, 288; only agricultural product in Tibetan uplands, 457, 478, 482; wine, 307, 385, 470
+Barley, [10](#10), [35](#35); *tsam-pa* prepared from, [38](#38), [47](#47), [254](#254), [288](#288); only agricultural product in Tibetan uplands, [457](#457), [478](#478), [482](#482); wine, [307](#307), [385](#385), [470](#470)
 
-Barrows, 123, 125, 184
+Barrows, [123](#123), [125](#125), [184](#184)
 
-Basgo, Ladak, 18
+Basgo, Ladak, [18](#18)
 
-Batu Khan, 149
+Batu Khan, [149](#149)
 
-bDe-legs rnam-rgyal, 18
+bDe-legs rnam-rgyal, [18](#18)
 
-Beads, found in Dard graves, 29; telling of, 322; *zi*-, 460
+Beads, found in Dard graves, [29](#29); telling of, [322](#322); *zi*-, [460](#460)
 
-Bears, Tibet, 284, 289; Tsaidam, 253, 254, 277
+Bears, Tibet, [284](#284), [289](#289); Tsaidam, [253](#253), [254](#254), [277](#277)
 
-Bell, Sir Charles, 316
+Bell, Sir Charles, [316](#316)
 
-Bengal Plain, 3
+Bengal Plain, [3](#3)
 
-Berezovski, 99
+Berezovski, [99](#99)
 
-Berkey, Prof. C. B., 179
+Berkey, Prof. C. B., [179](#179)
 
-*Bibliotheca Buddhica*, 148 ff.
+*Bibliotheca Buddhica*, [148](#148) ff.
 
-Birches, 8
+Birches, [8](#8)
 
-bKa-gdams period, XI A.D., 16
+bKa-gdams period, XI A.D., [16](#16)
 
-Bkra-shis rnam-rgyal, 18, 25, 26
+Bkra-shis rnam-rgyal, [18](#18), [25](#25), [26](#26)
 
-Black Faith, Tibet, 474. *See also* Khara-nom
+Black Faith, Tibet, [474](#474). *See also* Khara-nom
 
-Black gravel Gobi, 208
+Black gravel Gobi, [208](#208)
 
-Black-Hat dance, Urga, 159-160
+Black-Hat dance, Urga, [159](#159)–[160](#160)
 
-Black nomad tent, description of, 342-343
+Black nomad tent, description of, [342](#342)–[343](#343)
 
-bLon-po Rig-pa-can, 12
+bLon-po Rig-pa-can, [12](#12)
 
-Boats, 130-131; ferries, 453, 462; hide, 453
+Boats, [130](#130)–[131](#131); ferries, [453](#453), [462](#462); hide, [453](#453)
 
-Bod-Kharbu, village of, 15
+Bod-Kharbu, village of, [15](#15)
 
-Bogdo Gegen, 132, 144, 148, 150; offerings to, 153, 154-155, 159-161, 163, 195
+Bogdo Gegen, [132](#132), [144](#144), [148](#148), [150](#150); offerings to, [153](#153), [154](#154)–[155](#155), [159](#159)–[161](#161), [163](#163), [195](#195)
 
-Bogdo Gushi Khan, 248
+Bogdo Gushi Khan, [248](#248)
 
-Bogdo ula, 133, 134
+Bogdo ula, [133](#133), [134](#134)
 
-Bön, 12, 16, 160; arrow symbol of, 416-418, 420; connection with Buddhism, 354, 357, 362; discussion, 353 ff., 364, 366; legends: Naropa, 16, Kesar, 349, 358; literature: 441; *Känjür* and *Tänjür*, Kesar, 328, 357 ff., 364 ff.; MSS written in gold, 358; megalithic monuments, 355, 415-416, 440 ff., 451; prayer flags, wheels and charm boxes, 366; wall paintings, 363, 365-366
+Bön, [12](#12), [16](#16), [160](#160); arrow symbol of, [416](#416)–[418](#418), [420](#420); connection with Buddhism, [354](#354), [357](#357), [362](#362); discussion, [353](#353) ff., [364](#364), [366](#366); legends: Naropa, [16](#16), Kesar, [349](#349), [358](#358); literature: [441](#441); *Känjür* and *Tänjür*, Kesar, [328](#328), [357](#357) ff., [364](#364) ff.; MSS written in gold, [358](#358); megalithic monuments, [355](#355), [415](#415)–[416](#416), [440](#440) ff., [451](#451); prayer flags, wheels and charm boxes, [366](#366); wall paintings, [363](#363), [365](#365)–[366](#366)
 
-Bön-po colonies and monasteries, 353, 357, 456; animal skulls and horns on edifices, 362; lamas, 349, 366; similarity to Buddhist monasteries, 362; songs, 361
+Bön-po colonies and monasteries, [353](#353), [357](#357), [456](#456); animal skulls and horns on edifices, [362](#362); lamas, [349](#349), [366](#366); similarity to Buddhist monasteries, [362](#362); songs, [361](#361)
 
-Bön-sku Kun-tu bzang-po, 355
+Bön-sku Kun-tu bzang-po, [355](#355)
 
-Borovka, 152
+Borovka, [152](#152)
 
-Brachycephalic types in Central Asia, 29-30, 346
+Brachycephalic types in Central Asia, [29](#29)–[30](#30), [346](#346)
 
-Brag-nag Castle, 17
+Brag-nag Castle, [17](#17)
 
-Brahmaputra, 453-454; valley, 29
+Brahmaputra, [453](#453)–[454](#454); valley, [29](#29)
 
-Brahmi inscriptions, 17
+Brahmi inscriptions, [17](#17)
 
-Brass buckle in animal style, 369, 418; images, 19
+Brass buckle in animal style, [369](#369), [418](#418); images, [19](#19)
 
-Brenner Brothers, 100, 103, 110, 207
+Brenner Brothers, [100](#100), [103](#103), [110](#110), [207](#207)
 
-Brigandage, 124, 213, 224, 238, 268, 317, 350 ff., 423, 433
+Brigandage, [124](#124), [213](#213), [224](#224), [238](#238), [268](#268), [317](#317), [350](#350) ff., [423](#423), [433](#433)
 
-'Bri-khung-pa sect of Lamaism, 15
+'Bri-khung-pa sect of Lamaism, [15](#15)
 
-British authorities, 73, 74, 76, 88, 340, 377 ff., 388; Gartok Mission, 449; Museum, 119
+British authorities, [73](#73), [74](#74), [76](#76), [88](#88), [340](#340), [377](#377) ff., [388](#388); Gartok Mission, [449](#449); Museum, [119](#119)
 
-Brittany, megalithic monuments, 415
+Brittany, megalithic monuments, [415](#415)
 
-Bronzes, 28, 29, 30, 475
+Bronzes, [28](#28), [29](#29), [30](#30), [475](#475)
 
-'Bru-gu-ma, 354
+'Bru-gu-ma, [354](#354)
 
-Buddha, 247, 356-357, 485-486; cave shrine, 218
+Buddha, [247](#247), [356](#356)–[357](#357), [485](#485)–[486](#486); cave shrine, [218](#218)
 
-Buddhism, 9, 10, 23, 37, 61, 131, 133-134, 147, 190, 226, 343 ff., 357; courses in metaphysics, 19, 129, 135, 148 ff.; eight happy offerings, 37, 138-139, 343, 365-366, 369; influence on Bön faith, 354 ff., 362; *Känjür* and *Tänjür*, 16, 138, 148, 159, 195, 254, 317, 328, 485; literature, 137, 147 ff., 357; MSS written in gold, 316; Milarepa, 473 ff.; ornamentation, 28 ff., 98, 153 ff., 193, 343, 362; *stupas*, 131. *See also* under Frescoes, Tantric, Wheel, Yellow Faith
+Buddhism, [9](#9), [10](#10), [23](#23), [37](#37), [61](#61), [131](#131), [133](#133)–[134](#134), [147](#147), [190](#190), [226](#226), [343](#343) ff., [357](#357); courses in metaphysics, [19](#19), [129](#129), [135](#135), [148](#148) ff.; eight happy offerings, [37](#37), [138](#138)–[139](#139), [343](#343), [365](#365)–[366](#366), [369](#369); influence on Bön faith, [354](#354) ff., [362](#362); *Känjür* and *Tänjür*, [16](#16), [138](#138), [148](#148), [159](#159), [195](#195), [254](#254), [317](#317), [328](#328), [485](#485); literature, [137](#137), [147](#147) ff., [357](#357); MSS written in gold, [316](#316); Milarepa, [473](#473) ff.; ornamentation, [28](#28) ff., [98](#98), [153](#153) ff., [193](#193), [343](#343), [362](#362); *stupas*, [131](#131). *See also* under Frescoes, Tantric, Wheel, Yellow Faith
 
-Bulatov, Capt., 229
+Bulatov, Capt., [229](#229)
 
-Bull, as *motif* in animal style, 370
+Bull, as *motif* in animal style, [370](#370)
 
-Bullocks, 478
+Bullocks, [478](#478)
 
-'Bum-lde, 14, 18, 23, 26
+'Bum-lde, [14](#14), [18](#18), [23](#23), [26](#26)
 
-*Buran*, 101, 110
+*Buran*, [101](#101), [110](#110)
 
-Burial customs, Chinese, 116, 142; Dard, 29; nomad, 29-30, 151, 181; Tibet, 380. *See also* Graves
+Burial customs, Chinese, [116](#116), [142](#142); Dard, [29](#29); nomad, [29](#29)–[30](#30), [151](#151), [181](#181); Tibet, [380](#380). *See also* Graves
 
-Buriatia, 129
+Buriatia, [129](#129)
 
-Butter libations, 181, 416, 451
+Butter libations, [181](#181), [416](#416), [451](#451)
 
-Butter tea, 255, 340, 344
+Butter tea, [255](#255), [340](#340), [344](#344)
 
-Byi-ru gom-pa, 336
+Byi-ru gom-pa, [336](#336)
 
-Cairns, 184, 243, 252, 262, 289, 290, 427, 438, 489
+Cairns, [184](#184), [243](#243), [252](#252), [262](#262), [289](#289), [290](#290), [427](#427), [438](#438), [489](#489)
 
-Calendar, Chinese, 224
+Calendar, Chinese, [224](#224)
 
-Camels, 41; in expedition caravan, 170, 189, 217, 245, 253, 308, 323, 473, 489; food, 199; herds in Gobi, 191, in Mongolia, 186, 254; seasons, 243-244; traveling, 42, 192, 193; Tsaidam, 252-253; white, 200; camel's hair asked as talisman, 436, 456
+Camels, [41](#41); in expedition caravan, [170](#170), [189](#189), [217](#217), [245](#245), [253](#253), [308](#308), [323](#323), [473](#473), [489](#489); food, [199](#199); herds in Gobi, [191](#191), in Mongolia, [186](#186), [254](#254); seasons, [243](#243)–[244](#244); traveling, [42](#42), [192](#192), [193](#193); Tsaidam, [252](#252)–[253](#253); white, [200](#200); camel's hair asked as talisman, [436](#436), [456](#456)
 
-Cameleers, 243, 313
+Cameleers, [243](#243), [313](#313)
 
-Caravans, 11, 20, 35-36, 40, 71 ff., 92, 170 ff.; hired from Tibetan government, 392; Mongol, chap. XV, 490
+Caravans, [11](#11), [20](#20), [35](#35)–[36](#36), [40](#40), [71](#71) ff., [92](#92), [170](#170) ff.; hired from Tibetan government, [392](#392); Mongol, chap. XV, [490](#490)
 
-Carpet factories, 64
+Carpet factories, [64](#64)
 
-Carriages, camel carriages, Mongolia, 192; factory, Kashgar, 90-91; Urga, 140
+Carriages, camel carriages, Mongolia, [192](#192); factory, Kashgar, [90](#90)–[91](#91); Urga, [140](#140)
 
-Carruthers, Douglas, 204
+Carruthers, Douglas, [204](#204)
 
-**493 INDEX**
+<a id="493">**493 INDEX**</a>
 
-Carts, Chinese, 91
+Carts, Chinese, [91](#91)
 
-Cast iron statue, Yang, 121
+Cast iron statue, Yang, [121](#121)
 
-Castles, Chig-tan, 25; Dard, 13, 17, 18, 24; Dogra, 12; Ja Lama, 211 ff., 233; Sod, 11, 12. *See also* Palaces
+Castles, Chig-tan, [25](#25); Dard, [13](#13), [17](#17), [18](#18), [24](#24); Dogra, [12](#12); Ja Lama, [211](#211) ff., [233](#233); Sod, [11](#11), [12](#12). *See also* Palaces
 
-Cattle breeding, 50, 179, 252-253, 334; chief wealth of Tibet, 337-338; taxes, 410, 449
+Cattle breeding, [50](#50), [179](#179), [252](#252)–[253](#253), [334](#334); chief wealth of Tibet, [337](#337)–[338](#338); taxes, [410](#410), [449](#449)
 
-Caucasus, 367 ff., 418
+Caucasus, [367](#367) ff., [418](#418)
 
-Cavalieri, Mr., 115, 116, 118
+Cavalieri, Mr., [115](#115), [116](#116), [118](#118)
 
-Cave dwellings, Tibet, 465; monasteries, Ladak, 12-13; shrines: Hsin-chiang, 97 ff., Mongolia, 218, Tibet, 461
+Cave dwellings, Tibet, [465](#465); monasteries, Ladak, [12](#12)–[13](#13); shrines: Hsin-chiang, [97](#97) ff., Mongolia, [218](#218), Tibet, [461](#461)
 
-Central Asian *motifs* in Tibetan art, 418
+Central Asian *motifs* in Tibetan art, [418](#418)
 
-Ceremonial scarfs, 177, 254, 261, 291, 295, 376; on guns, 295, 376, 471; on stone walls, 291; presented to expedition by Goloks, 382, 391, 422; presented to expedition staff by Mongol servants, 401
+Ceremonial scarfs, [177](#177), [254](#254), [261](#261), [291](#291), [295](#295), [376](#376); on guns, [295](#295), [376](#376), [471](#471); on stone walls, [291](#291); presented to expedition by Goloks, [382](#382), [391](#391), [422](#422); presented to expedition staff by Mongol servants, [401](#401)
 
 Chag-lung-khar. *See* Nam-ru
 
-Cham-pa gompa, 17
+Cham-pa gompa, [17](#17)
 
-*Chang*, 391
+*Chang*, [391](#391)
 
-Chang-ma, 237, 239, 240
+Chang-ma, [237](#237), [239](#239), [240](#240)
 
-Chang-pas, 29, 404; description, 346, 409, 433 ff.
+Chang-pas, [29](#29), [404](#404); description, [346](#346), [409](#409), [433](#433) ff.
 
-Chang-ri was, 398, 409
+Chang-ri was, [398](#398), [409](#409)
 
-Changspa, 28
+Changspa, [28](#28)
 
-Chang-skya Hutukhtu *yamen*, 224
+Chang-skya Hutukhtu *yamen*, [224](#224)
 
-*Chang-skya pandita'i sung-bum*, 147
+*Chang-skya pandita'i sung-bum*, [147](#147)
 
 *Chang-thang, see* Tibetan Uplands
 
-Chanting, 154, 161
+Chanting, [154](#154), [161](#161)
 
-Charm boxes, 256, 261, 299, 305; with Bön images of Mother Nature, 355, 366; with *motif* in animal style, 369, 413, 436, 456
+Charm boxes, [256](#256), [261](#261), [299](#299), [305](#305); with Bön images of Mother Nature, [355](#355), [366](#366); with *motif* in animal style, [369](#369), [413](#413), [436](#436), [456](#456)
 
-Chatu gompa, 357
+Chatu gompa, [357](#357)
 
-Cheng Lo, 73
+Cheng Lo, [73](#73)
 
-Ch'ien-fo-tong, 218
+Ch'ien-fo-tong, [218](#218)
 
-Ch'ien-long, 150, 154, 464
+Ch'ien-long, [150](#150), [154](#154), [464](#464)
 
-Chig-tan, 15
+Chig-tan, [15](#15)
 
-Chinese Annals, 61, 99, 100, 368; burial customs, 116, 142; carts, 91; fresco, 27; gold diggings, 209, 244; inscription, 56, 96; militia, 124, 481; neo-animal style, 367. Chinese in C. Turkestan, 52 ff., 87 ff.; in Hsin-chiang, 62 ff.; in Jungaria, 124; in Mongolia, 136, 140, 146, 204, 218, 227, 230; in Tibet, 138, 299, 312, 335, 336, 339, 375, 464, 468, 481; in Tsaidam, 244 ff., 265. *See also* Tungans
+Chinese Annals, [61](#61), [99](#99), [100](#100), [368](#368); burial customs, [116](#116), [142](#142); carts, [91](#91); fresco, [27](#27); gold diggings, [209](#209), [244](#244); inscription, [56](#56), [96](#96); militia, [124](#124), [481](#481); neo-animal style, [367](#367). Chinese in C. Turkestan, [52](#52) ff., [87](#87) ff.; in Hsin-chiang, [62](#62) ff.; in Jungaria, [124](#124); in Mongolia, [136](#136), [140](#140), [146](#146), [204](#204), [218](#218), [227](#227), [230](#230); in Tibet, [138](#138), [299](#299), [312](#312), [335](#335), [336](#336), [339](#339), [375](#375), [464](#464), [468](#468), [481](#481); in Tsaidam, [244](#244) ff., [265](#265). *See also* Tungans
 
-Chinese Turkestan, agriculture, 52-53; caves, 49; country house, 27; greeting, 52; hospitality, 37, 52 ff.; Karakorum Route, 11, 20-21, 35 ff.; Kirghiz, 48 ff.; militia, 68, 81, 115, 120-121; passes, 39 ff., 45-46; songs, 37; Taklamakan Desert, 51, 54 ff. *See also* Hsin-chiang, Turkestan, Turkis
+Chinese Turkestan, agriculture, [52](#52)–[53](#53); caves, [49](#49); country house, [27](#27); greeting, [52](#52); hospitality, [37](#37), [52](#52) ff.; Karakorum Route, [11](#11), [20](#20)–[21](#21), [35](#35) ff.; Kirghiz, [48](#48) ff.; militia, [68](#68), [81](#81), [115](#115), [120](#120)–[121](#121); passes, [39](#39) ff., [45](#45)–[46](#46); songs, [37](#37); Taklamakan Desert, [51](#51), [54](#54) ff. *See also* Hsin-chiang, Turkestan, Turkis
 
-Chinghiz Khan, 134, 169
+Chinghiz Khan, [134](#134), [169](#169)
 
-Ching-kar, 418
+Ching-kar, [418](#418)
 
 Chklaver, Dr. Georges, xiii
 
-*Cho-ga*, worship manual, 148
+*Cho-ga*, worship manual, [148](#148)
 
-Chö-jin Lama-yin-sümä, 163
+Chö-jin Lama-yin-sümä, [163](#163)
 
-*Chö-jung* (treatises on higher metaphysics), 147
+*Chö-jung* (treatises on higher metaphysics), [147](#147)
 
-Chok-chu, 430 ff., 433
+Chok-chu, [430](#430) ff., [433](#433)
 
-Christians in Central Asia, 28-29, 61-62
+Christians in Central Asia, [28](#28)–[29](#29), [61](#61)–[62](#62)
 
-Chu, Mr. George, 88
+Chu, Mr. George, [88](#88)
 
-Chubi, 25, 26
+Chubi, [25](#25), [26](#26)
 
-Chu-na-khe, 288; detention and suffering of expedition at, chap, xv; Hor High Commissioner's camp, 298 ff., 341
+Chu-na-khe, [288](#288); detention and suffering of expedition at, chap, xv; Hor High Commissioner's camp, [298](#298) ff., [341](#341)
 
-Chung-khar fort, 18
+Chung-khar fort, [18](#18)
 
-Chung-tü, 481 ff.
+Chung-tü, [481](#481) ff.
 
-Churns, 255, 343, 471
+Churns, [255](#255), [343](#343), [471](#471)
 
-Chu Ta-hen, 116
+Chu Ta-hen, [116](#116)
 
-Clay images, 15, 19, 27, 441, 485; statuettes of horsemen, 103
+Clay images, [15](#15), [19](#19), [27](#27), [441](#441), [485](#485); statuettes of horsemen, [103](#103)
 
-Clerical assemblies, 266 ff., 485. *See also* Fairs
+Clerical assemblies, [266](#266) ff., [485](#485). *See also* Fairs
 
-Coins, 90; in headdresses, 348, 349, 417
+Coins, [90](#90); in headdresses, [348](#348), [349](#349), [417](#417)
 
-Conical huts, 417; tents, 173
+Conical huts, [417](#417); tents, [173](#173)
 
-Consten, H., 228
+Consten, H., [228](#228)
 
-Coral, 256, 348-349, 417, 460
+Coral, [256](#256), [348](#348)–[349](#349), [417](#417), [460](#460)
 
-Corn, 65
+Corn, [65](#65)
 
-Cossack: girls, 173; Ja Lama, capture, 229
+Cossack: girls, [173](#173); Ja Lama, capture, [229](#229)
 
-Cotton, 63
+Cotton, [63](#63)
 
-Cromlechs, 355, 415, 440, 444
+Cromlechs, [355](#355), [415](#415), [440](#440), [444](#444)
 
-Crystalline rocks, 202
+Crystalline rocks, [202](#202)
 
-Cunningham, Sir Alexander, 10
+Cunningham, Sir Alexander, [10](#10)
 
-Currency, 90, 91, 142, 250-251, 312, 339, 458, 486; bamboo sticks as, 97. *See also* Mexican
+Currency, [90](#90), [91](#91), [142](#142), [250](#250)–[251](#251), [312](#312), [339](#339), [458](#458), [486](#486); bamboo sticks as, [97](#97). *See also* Mexican
 
-Cymbals, 154
+Cymbals, [154](#154)
 
 Daküra, see Urga
 
-Dalai Lama, administration, 156, 181, 184, 385, 397, 468; photographs, 14; private rooms at Shab-den Monastery, 384; property in Mongolia, 144; references to, 168, 217, 226, 241, 263, 265, 287, 297, 300, 301. 307-309, 313-316, 317, 320, 323, 328, 343, 377, 450, 463; ritual, 380
+Dalai Lama, administration, [156](#156), [181](#181), [184](#184), [385](#385), [397](#397), [468](#468); photographs, [14](#14); private rooms at Shab-den Monastery, [384](#384); property in Mongolia, [144](#144); references to, [168](#168), [217](#217), [226](#226), [241](#241), [263](#263), [265](#265), [287](#287), [297](#297), [300](#300), [301](#301). [307](#307)–[309](#309), [313](#313)–[316](#316), [317](#317), [320](#320), [323](#323), [328](#328), [343](#343), [377](#377), [450](#450), [463](#463); ritual, [380](#380)
 
 *Damaru* (see Tambourines)
 
-Dances, religious, 30, 159-160
+Dances, religious, [30](#30), [159](#159)–[160](#160)
 
-Dancing boy of Dalai Lama, 463
+Dancing boy of Dalai Lama, [463](#463)
 
-Dangra yum-tsho, 427-428
+Dangra yum-tsho, [427](#427)–[428](#428)
 
-d'Anville, 438
+d'Anville, [438](#438)
 
-Dara-Eke, 161
+Dara-Eke, [161](#161)
 
-Dardistan, 10, 12, 17; castles, 13, 17, 18, 24; graves, 29
+Dardistan, [10](#10), [12](#12), [17](#17); castles, [13](#13), [17](#17), [18](#18), [24](#24); graves, [29](#29)
 
-Daru tsho, 425
+Daru tsho, [425](#425)
 
-*Dastarkhan*, 52, 53, 55
+*Dastarkhan*, [52](#52), [53](#53), [55](#55)
 
 Davis, Malcolm W., xiii
 
-**494 TRAILS TO INMOST ASIA**
+<a id="494">**494 TRAILS TO INMOST ASIA**</a>
 
-Debates, 485
+Debates, [485](#485)
 
-Decembrist movement, 129
+Decembrist movement, [129](#129)
 
-Ded-Mongols, 218, 257, 263; dictionary, 257
+Ded-Mongols, [218](#218), [257](#257), [263](#263); dictionary, [257](#257)
 
-Deer, Buddhist emblem, 193; *motif* in animal style, 368-369
+Deer, Buddhist emblem, [193](#193); *motif* in animal style, [368](#368)–[369](#369)
 
-de Filippi, Dr., 44
+de Filippi, Dr., [44](#44)
 
-Del-dan rnam-rgyal, 15, 28
+Del-dan rnam-rgyal, [15](#15), [28](#28)
 
-Della Penna, 335
+Della Penna, [335](#335)
 
-Derge, art, 147, 195, 254, 256; animal style, 368-369, 371; lamas, 316; *Känjür* and *Tänjür*, 138, 151, 254; press, 251
+Derge, art, [147](#147), [195](#195), [254](#254), [256](#256); animal style, [368](#368)–[369](#369), [371](#371); lamas, [316](#316); *Känjür* and *Tänjür*, [138](#138), [151](#151), [254](#254); press, [251](#251)
 
 Deserts, *see under* Arab, Gobi, Great Lake Region, Karakum, Taklamakan
 
-*Dharmacakra*, 28, 158
+*Dharmacakra*, [28](#28), [158](#158)
 
-Dharmapalas, 26
+Dharmapalas, [26](#26)
 
-Dhyani-Buddhas, 26, 476
+Dhyani-Buddhas, [26](#26), [476](#476)
 
-Diary, 207 if.
+Diary, [207](#207) if.
 
-Dictionary, 257
+Dictionary, [257](#257)
 
 Dipankara Shrijñana. *See* Atisha
 
 Doctor of expedition, *see under* Riabinin
 
-Dodge cars, 183
+Dodge cars, [183](#183)
 
-Dog packs, 141-142, 309, 320, 321, 324; wolf-hounds, 394, 403, 421, 487. *See also* Amdong, Tumbal
+Dog packs, [141](#141)–[142](#142), [309](#309), [320](#320), [321](#321), [324](#324); wolf-hounds, [394](#394), [403](#403), [421](#421), [487](#487). *See also* Amdong, Tumbal
 
-Dogras, 10, 12
+Dogras, [10](#10), [12](#12)
 
-Dolichocephals, 29-30, 346
+Dolichocephals, [29](#29)–[30](#30), [346](#346)
 
-Dolon-nor Monastery, 159, 195, 224
+Dolon-nor Monastery, [159](#159), [195](#195), [224](#224)
 
-Dong-ga, 11-12
+Dong-ga, [11](#11)–[12](#12)
 
-Donkeys, 37, 476, 483; in agriculture, 457
+Donkeys, [37](#37), [476](#476), [483](#483); in agriculture, [457](#457)
 
-Do-ring, 415, 420
+Do-ring, [415](#415), [420](#420)
 
-Dorje, 461, 490
+Dorje, [461](#461), [490](#490)
 
-*Dorje*, 299, 363
+*Dorje*, [299](#299), [363](#363)
 
-Dragon designs, 362
+Dragon designs, [362](#362)
 
-Dras, 10
+Dras, [10](#10)
 
-Dre-pung Monastery, 23, 224 ff., 338, 384, 485
+Dre-pung Monastery, [23](#23), [224](#224) ff., [338](#338), [384](#384), [485](#485)
 
-Dri-chu, 284 ff., 334
+Dri-chu, [284](#284) ff., [334](#334)
 
-Drums, 14, 456, 474
+Drums, [14](#14), [456](#456), [474](#474)
 
-Ducks, 47, 454, 472
+Ducks, [47](#47), [454](#454), [472](#472)
 
 Dugan-sümä, see Tukhumun Dugan
 
-Dug-kar, 25, 27
+Dug-kar, [25](#25), [27](#27)
 
-Dug-pa sect, 14
+Dug-pa sect, [14](#14)
 
-Dungbudra Range, 282 ff.
+Dungbudra Range, [282](#282) ff.
 
-Durand, Col., 7
+Durand, Col., [7](#7)
 
-Du-shi-la, 9
+Du-shi-la, [9](#9)
 
-*Dzo*, 11, 411, 457, 459
+*Dzo*, [11](#11), [411](#411), [457](#457), [459](#459)
 
-Eagle, in Bön frescoes, 365; in animal style, 365, 369, 418
+Eagle, in Bön frescoes, [365](#365); in animal style, [365](#365), [369](#369), [418](#418)
 
-Eight happy offerings, 37, 138, 139, 343, 365, 366, 369
+Eight happy offerings, [37](#37), [138](#138), [139](#139), [343](#343), [365](#365), [366](#366), [369](#369)
 
-Electrical storms, 6
+Electrical storms, [6](#6)
 
-Elephant in paintings, 365
+Elephant in paintings, [365](#365)
 
-Elisu-daban Pass, 247, 273 ff.
+Elisu-daban Pass, [247](#247), [273](#273) ff.
 
-Elk *motif* in animal style, 369
+Elk *motif* in animal style, [369](#369)
 
-Emperor Ch'ien-long, 150, 154, 464
+Emperor Ch'ien-long, [150](#150), [154](#154), [464](#464)
 
-Equipment, 5, 22-23, 31, 55, 81, 91, 100, 103, 137 ff., 169, 170, 173-174, 184, 189, 193, 237, 240, 253, 308, 348, 412, 422. *See also* Supplies
+Equipment, [5](#5), [22](#22)–[23](#23), [31](#31), [55](#55), [81](#81), [91](#91), [100](#100), [103](#103), [137](#137) ff., [169](#169), [170](#170), [173](#173)–[174](#174), [184](#184), [189](#189), [193](#193), [237](#237), [240](#240), [253](#253), [308](#308), [348](#348), [412](#412), [422](#422). *See also* Supplies
 
-*Erdeni-yin erikhe*, 135
+*Erdeni-yin erikhe*, [135](#135)
 
-Erh Tao-yin, 68-69
+Erh Tao-yin, [68](#68)–[69](#69)
 
-Everest, Mt., 168, 456, 463, 465, 474, 484
+Everest, Mt., [168](#168), [456](#456), [463](#463), [465](#465), [474](#474), [484](#484)
 
-Expedition flag, 82
+Expedition flag, [82](#82)
 
-Factories, carpet, 64; carriage, 90-91; cotton, 63; jade, 67; silk, 63
+Factories, carpet, [64](#64); carriage, [90](#90)–[91](#91); cotton, [63](#63); jade, [67](#67); silk, [63](#63)
 
-Fairs, 253, 287
+Fairs, [253](#253), [287](#287)
 
-Fan Yao-han, 116; execution of daughter and Fan, 119
+Fan Yao-han, [116](#116); execution of daughter and Fan, [119](#119)
 
-Feldmann, 120
+Feldmann, [120](#120)
 
-Felts, 64
+Felts, [64](#64)
 
-Feng Yu-hsiang, 89, 105, 214
+Feng Yu-hsiang, [89](#89), [105](#105), [214](#214)
 
-Ferries, 453, 462
+Ferries, [453](#453), [462](#462)
 
-Filchner, Dr. W., 121, 297, 301, 312, 328, 382, 390, 401, 413
+Filchner, Dr. W., [121](#121), [297](#297), [301](#301), [312](#312), [328](#328), [382](#382), [390](#390), [401](#401), [413](#413)
 
-Finnish Mission, 490
+Finnish Mission, [490](#490)
 
 Firearms, *see* Weapons
 
-Fire-cult, 12, 52. *See also* Inner Fire
+Fire-cult, [12](#12), [52](#52). *See also* Inner Fire
 
-Flags, American, 383; expedition, 82. *See also* Prayer flags
+Flags, American, [383](#383); expedition, [82](#82). *See also* Prayer flags
 
-Flax, 86
+Flax, [86](#86)
 
-Flood of camp, 244-245
+Flood of camp, [244](#244)–[245](#245)
 
-Floral designs, 98, 343, 350, 362, 369
+Floral designs, [98](#98), [343](#343), [350](#350), [362](#362), [369](#369)
 
-Food, shortage of, 240, 308 ff., 450, 452
+Food, shortage of, [240](#240), [308](#308) ff., [450](#450), [452](#452)
 
-Forts, 4, 18, 47-48, 212, 462, 466, 474
+Forts, [4](#4), [18](#18), [47](#47)–[48](#48), [212](#212), [462](#462), [466](#466), [474](#474)
 
-Fox, 253; *motif* in animal style, 369
+Fox, [253](#253); *motif* in animal style, [369](#369)
 
-Francke, Rev. Dr. A. H., 9, 10, 13; quotation from, 16, 17, 20, 28, 29, 51, 100, 354, 361
+Francke, Rev. Dr. A. H., [9](#9), [10](#10), [13](#13); quotation from, [16](#16), [17](#17), [20](#20), [28](#28), [29](#29), [51](#51), [100](#100), [354](#354), [361](#361)
 
-Frescoes, 13, 18, 26, 98, 99, 100, 355, 357, 362, 363, 476; in private houses, 27, 28, 37; technique, 485 ff.
+Frescoes, [13](#13), [18](#18), [26](#26), [98](#98), [99](#99), [100](#100), [355](#355), [357](#357), [362](#362), [363](#363), [476](#476); in private houses, [27](#27), [28](#28), [37](#37); technique, [485](#485) ff.
 
 Frontier outposts. *See under* Militia, also Lhasa administration
 
-Fuel, 288, 314, 405
+Fuel, [288](#288), [314](#314), [405](#405)
 
-Gabet, Father, 384
+Gabet, Father, [384](#384)
 
-Gambling houses, 97
+Gambling houses, [97](#97)
 
-Ganden Monastery, 107, 160 ff.
+Ganden Monastery, [107](#107), [160](#160) ff.
 
 Gandhara School, *see under* Greco-buddhist
 
-Gardens, 6, 36, 37, 53 ff., 83, 86, 89, 98, 101, 109, 482
+Gardens, [6](#6), [36](#36), [37](#37), [53](#53) ff., [83](#83), [86](#86), [89](#89), [98](#98), [101](#101), [109](#109), [482](#482)
 
-Gardizi, 61
+Gardizi, [61](#61)
 
-Gartok Mission, 449
+Gartok Mission, [449](#449)
 
-Garuda, 355, 364
+Garuda, [355](#355), [364](#364)
 
-Gaurishankar, 474
+Gaurishankar, [474](#474)
 
-Gazelles, 284, 286, 289, 414, 426, 436
+Gazelles, [284](#284), [286](#286), [289](#289), [414](#414), [426](#426), [436](#436)
 
-Geese Lake Monastery, 129
+Geese Lake Monastery, [129](#129)
 
-Geometrical designs, 350
+Geometrical designs, [350](#350)
 
-Germanson, Rev., 38
+Germanson, Rev., [38](#38)
 
-Geysers, 283, 405
+Geysers, [283](#283), [405](#405)
 
-Gilded clay images, 14, 17, 485
+Gilded clay images, [14](#14), [17](#17), [485](#485)
 
-**495 INDEX**
+<a id="495">**495 INDEX**</a>
 
-Gilgit, 5, 6
+Gilgit, [5](#5), [6](#6)
 
-Gillan, Major, xii, 74, 76, 88
+Gillan, Major, xii, [74](#74), [76](#76), [88](#88)
 
-Glaciers, 36, 98, 273, 417, 438, 439, 464, 489. *See* Sasser Pass
+Glaciers, [36](#36), [98](#98), [273](#273), [417](#417), [438](#438), [439](#439), [464](#464), [489](#489). *See* Sasser Pass
 
-Glen-shala, 270
+Glen-shala, [270](#270)
 
-Goats, 421
+Goats, [421](#421)
 
-Gobi, 170-171, 185 ff., chap, x; Baga Ma-tzu Shan, 207 ff.; brigands, 185, 190, 205, 207, 213; caravan men, 170-171; diary, 207 ff.; "Gobi," 263; gold diggings, 201 ff., 209; Ja Lama Castle, 211 ff.; legends, 199, 217 ff.; population, 185; research in, 169, 202; Shara-Khulusun, 204 ff.; vegetation and fauna, 186, 188, 263-264
+Gobi, [170](#170)–[171](#171), [185](#185) ff., chap, x; Baga Ma-tzu Shan, [207](#207) ff.; brigands, [185](#185), [190](#190), [205](#205), [207](#207), [213](#213); caravan men, [170](#170)–[171](#171); diary, [207](#207) ff.; "Gobi," [263](#263); gold diggings, [201](#201) ff., [209](#209); Ja Lama Castle, [211](#211) ff.; legends, [199](#199), [217](#217) ff.; population, [185](#185); research in, [169](#169), [202](#202); Shara-Khulusun, [204](#204) ff.; vegetation and fauna, [186](#186), [188](#188), [263](#263)–[264](#264)
 
-Gold diggings, 201, 209, 244, 261, 367; gold MSS, 316, 358
+Gold diggings, [201](#201), [209](#209), [244](#244), [261](#261), [367](#367); gold MSS, [316](#316), [358](#358)
 
-Golok, 224, 238; discussion of, 29, 268 ff.; 272, 358, 381-382, 385, 391, 422
+Golok, [224](#224), [238](#238); discussion of, [29](#29), [268](#268) ff.; [272](#272), [358](#358), [381](#381)–[382](#382), [385](#385), [391](#391), [422](#422)
 
-Golubin, 309, 323, 328-329, 405, 441
+Golubin, [309](#309), [323](#323), [328](#328)–[329](#329), [405](#405), [441](#441)
 
-Gomang garpön, 285, 296, 376
+Gomang garpön, [285](#285), [296](#296), [376](#376)
 
-Gong-kar, 377. *See also under* Joint-Governors
+Gong-kar, [377](#377). *See also under* Joint-Governors
 
-Goose, gray, 183, 188, 204, 429, 453, 456, 472
+Goose, gray, [183](#183), [188](#188), [204](#204), [429](#429), [453](#453), [456](#456), [472](#472)
 
-Graffiti, 51-52
+Graffiti, [51](#51)–[52](#52)
 
-Grapes, 65
+Grapes, [65](#65)
 
-Gravel plains, 101-102, 187, 208, 237, 264 ff., 437
+Gravel plains, [101](#101)–[102](#102), [187](#187), [208](#208), [237](#237), [264](#264) ff., [437](#437)
 
-Graves, 29, 30, 123, 417. *See also* Burial customs
+Graves, [29](#29), [30](#30), [123](#123), [417](#417). *See also* Burial customs
 
-Great Lakes, region of, chap. xviii; administration, 409-410, 413, 420-421, 434; cattle-breeding and agriculture, 405 ff., 421, 424, 434; climate and topography, 404 ff., 409, 414 ff., 420, 427 ff., 431, 435 ff.; conical storehouses, 417; customs, dress, and language, 413, 416 ff., 433; desert region, 414; fauna, 414, 418, 426, 429, 432; geysers, 405; graves, 30, 417; *mani*-walls, 414, 417, 427; megalithic monuments, 415 ff., 440 ff.; salt lakes, 405 ff., 415, 418, 435, 439, 453. *See also* Chang-pas, Nam-ru dzong, Saga dzong, Shentsa dzong, Wang-po
+Great Lakes, region of, chap. xviii; administration, [409](#409)–[410](#410), [413](#413), [420](#420)–[421](#421), [434](#434); cattle-breeding and agriculture, [405](#405) ff., [421](#421), [424](#424), [434](#434); climate and topography, [404](#404) ff., [409](#409), [414](#414) ff., [420](#420), [427](#427) ff., [431](#431), [435](#435) ff.; conical storehouses, [417](#417); customs, dress, and language, [413](#413), [416](#416) ff., [433](#433); desert region, [414](#414); fauna, [414](#414), [418](#418), [426](#426), [429](#429), [432](#432); geysers, [405](#405); graves, [30](#30), [417](#417); *mani*-walls, [414](#414), [417](#417), [427](#427); megalithic monuments, [415](#415) ff., [440](#440) ff.; salt lakes, [405](#405) ff., [415](#415), [418](#418), [435](#435), [439](#439), [453](#453). *See also* Chang-pas, Nam-ru dzong, Saga dzong, Shentsa dzong, Wang-po
 
-Greco-buddhist art, 99
+Greco-buddhist art, [99](#99)
 
-Grum-Grjimailo, 110
+Grum-Grjimailo, [110](#110)
 
-Grünwedel, 99, 100, 359
+Grünwedel, [99](#99), [100](#100), [359](#359)
 
-Guides, 413
+Guides, [413](#413)
 
-Gulmarg, 6
+Gulmarg, [6](#6)
 
-Guma, C. T., 22, 83, 84
+Guma, C. T., [22](#22), [83](#83), [84](#84)
 
-*Gumai*, poison grass, 7, 8
+*Gumai*, poison grass, [7](#7), [8](#8)
 
-Gund, 7
+Gund, [7](#7)
 
-Gupta inscriptions, 17
+Gupta inscriptions, [17](#17)
 
-*Gur-bum*, songs of Milarepa, 475
+*Gur-bum*, songs of Milarepa, [475](#475)
 
-Gurkha attacks, 464, 466 ff.
+Gurkha attacks, [464](#464), [466](#466) ff.
 
-Gushi Khan, 248
+Gushi Khan, [248](#248)
 
-*Gutul* boots, 130
+*Gutul* boots, [130](#130)
 
-Gyangtse, 377-378, 466
+Gyangtse, [377](#377)–[378](#378), [466](#466)
 
-Gyegong La, 441-442
+Gyegong La, [441](#441)–[442](#442)
 
-gYung-drung, 16; valley, 420
+gYung-drung, [16](#16); valley, [420](#420)
 
-*gYung-drung lha rnams*, 356, 358
+*gYung-drung lha rnams*, [356](#356), [358](#358)
 
-Hairdresses, Tibet, 348
+Hairdresses, Tibet, [348](#348)
 
-Han-ch'eng, 56 ff., 63 ff., 86 ff.
+Han-ch'eng, [56](#56) ff., [63](#63) ff., [86](#86) ff.
 
-Hapchiga-ulan-müren, 283
+Hapchiga-ulan-müren, [283](#283)
 
 Happy offerings, *see under* Eight
 
-Hares, 204, 241
+Hares, [204](#204), [241](#241)
 
-Hayden, Sir Henry, 423 ff., 427-428
+Hayden, Sir Henry, [423](#423) ff., [427](#427)–[428](#428)
 
-Headdresses, 48, 256, 348-349, 417, 460
+Headdresses, [48](#48), [256](#256), [348](#348)–[349](#349), [417](#417), [460](#460)
 
-Hedin, Dr. Sven, 291, 335, 425 ff., 431 ff., 436, 438, 441, 449, 451, 488
+Hedin, Dr. Sven, [291](#291), [335](#335), [425](#425) ff., [431](#431) ff., [436](#436), [438](#438), [441](#441), [449](#449), [451](#451), [488](#488)
 
-Hemis Monastery, 20, 27, 30
+Hemis Monastery, [20](#20), [27](#27), [30](#30)
 
-Hemp, 86
+Hemp, [86](#86)
 
-Hermits, 474
+Hermits, [474](#474)
 
-Herons, 289, 454
+Herons, [289](#289), [454](#454)
 
-Hide boats, 453
+Hide boats, [453](#453)
 
 High Commissioner of Hor, *see under* Hor
 
-Himalayas, 455, 466, 483-484, 487. *See also* Trans-Himalayas
+Himalayas, [455](#455), [466](#466), [483](#483)–[484](#484), [487](#487). *See also* Trans-Himalayas
 
-Hittite art, 369, 418
+Hittite art, [369](#369), [418](#418)
 
-Hodgson, Brian, 438
+Hodgson, Brian, [438](#438)
 
-Hoopoe, 452
+Hoopoe, [452](#452)
 
-Hor, High Commissioner of, 288, 293 ff.; at camp of, 299 ff., 307 ff., 312, 317, 323, 326, 329, 335-336; resentment of his rule, 375, 391, 394-396
+Hor, High Commissioner of, [288](#288), [293](#293) ff.; at camp of, [299](#299) ff., [307](#307) ff., [312](#312), [317](#317), [323](#323), [326](#326), [329](#329), [335](#335)–[336](#336); resentment of his rule, [375](#375), [391](#391), [394](#394)–[396](#396)
 
-Hor-pas, 29, 185, 291, 305, 340-349, 351, 375, 382; cattle-breeding, 337-339; greeting, 292; Kesar saga, 345; militia, 292 ff.; objects in animal style, 368-369, 398; orchestra, 300; tribal administration, 336-339. *See also* Joint Governors
+Hor-pas, [29](#29), [185](#185), [291](#291), [305](#305), [340](#340)–[349](#349), [351](#351), [375](#375), [382](#382); cattle-breeding, [337](#337)–[339](#339); greeting, [292](#292); Kesar saga, [345](#345); militia, [292](#292) ff.; objects in animal style, [368](#368)–[369](#369), [398](#398); orchestra, [300](#300); tribal administration, [336](#336)–[339](#339). *See also* Joint Governors
 
-Horch, L. L., 173
+Horch, L. L., [173](#173)
 
-Horses, 5, 50, 86, 237, 252, 273, 289, 311, 336-337, 407, 416, 473; brigand, 360, 407, 416; herds, 424, 425; catching of, 351; short-tailed, 272; winged-horse *motifs*, 28. *See also* Karashahr
+Horses, [5](#5), [50](#50), [86](#86), [237](#237), [252](#252), [273](#273), [289](#289), [311](#311), [336](#336)–[337](#337), [407](#407), [416](#416), [473](#473); brigand, [360](#360), [407](#407), [416](#416); herds, [424](#424), [425](#425); catching of, [351](#351); short-tailed, [272](#272); winged-horse *motifs*, [28](#28). *See also* Karashahr
 
-Hot Springs, 291-292, 438. *See also* Geysers
+Hot Springs, [291](#291)–[292](#292), [438](#438). *See also* Geysers
 
-Households, Ladak, 14, 19, 37; Tibet, Tibetan Uplands, 411. *See also under* Tents
+Households, Ladak, [14](#14), [19](#19), [37](#37); Tibet, Tibetan Uplands, [411](#411). *See also under* Tents
 
-Hsin-chiang, 88-122; agriculture, 89, 98; antiquities, 91, 99-100; cave-temples, 98; gamblers, 97; highway, 95 ff.; history, 100, 117-118; militia, 81-82, 120; population, 88, 103 ff., 115, 121; Russo-Asiatic Bank, 89, 118 ff.; trade, 89-90. *See also* Toïn Lama, Yang Tseng-hsin
+Hsin-chiang, [88](#88)–[122](#122); agriculture, [89](#89), [98](#98); antiquities, [91](#91), [99](#99)–[100](#100); cave-temples, [98](#98); gamblers, [97](#97); highway, [95](#95) ff.; history, [100](#100), [117](#117)–[118](#118); militia, [81](#81)–[82](#82), [120](#120); population, [88](#88), [103](#103) ff., [115](#115), [121](#121); Russo-Asiatic Bank, [89](#89), [118](#118) ff.; trade, [89](#89)–[90](#90). *See also* Toïn Lama, Yang Tseng-hsin
 
-Hsin-hsin-sia, 110, 117-119
+Hsin-hsin-sia, [110](#110), [117](#117)–[119](#119)
 
-Huc, Father, 384
+Huc, Father, [384](#384)
 
 Humboldt Mountains. *See under* Hungu
 
-Hungu Mountains, 242, 244
+Hungu Mountains, [242](#242), [244](#244)
 
-**496 TRAILS TO INMOST ASIA**
+<a id="496">**496 TRAILS TO INMOST ASIA**</a>
 
-Hunting yaks, 273, 276; prohibited in Tibet, 309. 385, 409
+Hunting yaks, [273](#273), [276](#276); prohibited in Tibet, [309](#309). [385](#385), [409](#409)
 
-Hutukhtu, Chang-skya, 224; Ilgusan, 225; Jahantsa, 225; Je-tsün tam-pa, 132, 135 ff., 153, 155
+Hutukhtu, Chang-skya, [224](#224); Ilgusan, [225](#225); Jahantsa, [225](#225); Je-tsün tam-pa, [132](#132), [135](#135) ff., [153](#153), [155](#155)
 
-Ibex, 214; symbol in fire cult, 12, 51, 52, 214
+Ibex, [214](#214); symbol in fire cult, [12](#12), [51](#51), [52](#52), [214](#214)
 
-Ibn-al Athir, 62
+Ibn-al Athir, [62](#62)
 
-Ikhe-Khuruldan, Great National Assembly of Mongolia, 135
+Ikhe-Khuruldan, Great National Assembly of Mongolia, [135](#135)
 
-Ikhe-küren, 135 ff.; temples of, 153 ff.
+Ikhe-küren, [135](#135) ff.; temples of, [153](#153) ff.
 
-Ikhe-Tsaidam, 263 ff.
+Ikhe-Tsaidam, [263](#263) ff.
 
-Ilek-khans, 62
+Ilek-khans, [62](#62)
 
-Ilgusan Hutukhtu, 225
+Ilgusan Hutukhtu, [225](#225)
 
-Imam Shahid Padshah, 56
+Imam Shahid Padshah, [56](#56)
 
-Incantation books, 357, 360; boxes, 376; songs, 101
+Incantation books, [357](#357), [360](#360); boxes, [376](#376); songs, [101](#101)
 
-Incense, 25, 134, I47
+Incense, [25](#25), [134](#134), I[47](#47)
 
-Indian Archaeological Department, 62
+Indian Archaeological Department, [62](#62)
 
-Indian Trigonometrical Survey, 335
+Indian Trigonometrical Survey, [335](#335)
 
-Indo-Tibetan Bön, 355
+Indo-Tibetan Bön, [355](#355)
 
-Inner Fire, hidden science of, 474 ff.
+Inner Fire, hidden science of, [474](#474) ff.
 
-Inscriptions, 13, 14, 17, 28, 44, 51, 56, 96. *See also* Stone inscriptions
+Inscriptions, [13](#13), [14](#14), [17](#17), [28](#28), [44](#44), [51](#51), [56](#56), [96](#96). *See also* Stone inscriptions
 
-Iranian influence in art of Central Asia and Tibet, 49, 99, 367; MSS, 61-63; population in Khotan, 61
+Iranian influence in art of Central Asia and Tibet, [49](#49), [99](#99), [367](#367); MSS, [61](#61)–[63](#63); population in Khotan, [61](#61)
 
-Iron keys, 24
+Iron keys, [24](#24)
 
-Iron statue, 121
+Iron statue, [121](#121)
 
-Irrigation, 12, 52, 86, 95, 455, 482
+Irrigation, [12](#12), [52](#52), [86](#86), [95](#95), [455](#455), [482](#482)
 
-Islam, embraced by Tibetans in Ladak, 12; mosque in Leh, Ladak, 29
+Islam, embraced by Tibetans in Ladak, [12](#12); mosque in Leh, Ladak, [29](#29)
 
-Jade, Kingdom of, 55, 61; manufactures, 63-64, 67
+Jade, Kingdom of, [55](#55), [61](#61); manufactures, [63](#63)–[64](#64), [67](#67)
 
-Jahantsa Hutukhtu, 225
+Jahantsa Hutukhtu, [225](#225)
 
-Jair Mountains, archaeological possibilities, 123; brigands, 124
+Jair Mountains, archaeological possibilities, [123](#123); brigands, [124](#124)
 
-Ja Lama, 190, 205; expedition at castle of, 209 ff., chap, xi
+Ja Lama, [190](#190), [205](#205); expedition at castle of, [209](#209) ff., chap, xi
 
 Jam-pe yang, *see* Mañjushri
 
-Jamtsarano, R. J., 149 ff., 178, 361
+Jamtsarano, R. J., [149](#149) ff., [178](#178), [361](#361)
 
-Jamyang ('Jam-dbyangs), 14
+Jamyang ('Jam-dbyangs), [14](#14)
 
-Jam-yang she-pa, 121
+Jam-yang she-pa, [121](#121)
 
-Je-tsün Marpa, 476
+Je-tsün Marpa, [476](#476)
 
-Je-tsün Mila, 316
+Je-tsün Mila, [316](#316)
 
-Je-tsün Milarepa, 23, 27. *See also* Milarepa
+Je-tsün Milarepa, [23](#23), [27](#27). *See also* Milarepa
 
-Je-tsün tam-pa Hutukhtu, 132, 135, 139, 153, 155
+Je-tsün tam-pa Hutukhtu, [132](#132), [135](#135), [139](#139), [153](#153), [155](#155)
 
-Joint-Governors of Nag-chu, 285, 294, 306 ff., 320, 323, 324; at expedition camp, 375 ff., at Nag-chu, 387, 397, 411
+Joint-Governors of Nag-chu, [285](#285), [294](#294), [306](#306) ff., [320](#320), [323](#323), [324](#324); at expedition camp, [375](#375) ff., at Nag-chu, [387](#387), [397](#397), [411](#411)
 
-*Journey to Lhasa and Central Tibet* (Sarat Chandra Das), 357
+*Journey to Lhasa and Central Tibet* (Sarat Chandra Das), [357](#357)
 
-Jungaria, 50; nomad migrations, 122 ff., 125, 248
+Jungaria, [50](#50); nomad migrations, [122](#122) ff., [125](#125), [248](#248)
 
-Juniper, 263, 268-269, 430, 452
+Juniper, [263](#263), [268](#268)–[269](#269), [430](#430), [452](#452)
 
-Jye-tshap-je, 153, 485
+Jye-tshap-je, [153](#153), [485](#485)
 
-Kadir Khan Jusuf, 62
+Kadir Khan Jusuf, [62](#62)
 
-Kadru, 394, 403, 421, 487
+Kadru, [394](#394), [403](#403), [421](#421), [487](#487)
 
-Kailasa Mountain, Megalithic monuments, 355, 416; pilgrimages to, 414 ff. *See also* Naro, 27
+Kailasa Mountain, Megalithic monuments, [355](#355), [416](#416); pilgrimages to, [414](#414) ff. *See also* Naro, [27](#27)
 
-Kalacakra system, 156 ff., 364, 485
+Kalacakra system, [156](#156) ff., [364](#364), [485](#485)
 
-Kalmucks, 74, 99 ff., 115, 124-125; tribes, 103
+Kalmucks, [74](#74), [99](#99) ff., [115](#115), [124](#124)–[125](#125); tribes, [103](#103)
 
-Kalön Lama, 377, 471
+Kalön Lama, [377](#377), [471](#471)
 
-Kampa dzong, 487-488
+Kampa dzong, [487](#487)–[488](#488)
 
-Kam-rong La Pass, 297-298
+Kam-rong La Pass, [297](#297)–[298](#298)
 
-*Känjür* and *Tänjür*, Buddhist: 16, 138, 148, 159, 195, 254, 316-317, 328, 485; Bön: 328, 357-358; MSS in gold, 316-317
+*Känjür* and *Tänjür*, Buddhist: [16](#16), [138](#138), [148](#148), [159](#159), [195](#195), [254](#254), [316](#316)–[317](#317), [328](#328), [485](#485); Bön: [328](#328), [357](#357)–[358](#358); MSS in gold, [316](#316)–[317](#317)
 
-Kansu horses, 237
+Kansu horses, [237](#237)
 
-K'ang-hsi, 360
+K'ang-hsi, [360](#360)
 
-Kaptar-Mazar (Pigeon's Sanctuary), 56, 82
+Kaptar-Mazar (Pigeon's Sanctuary), [56](#56), [82](#82)
 
-Kara-Khitai, 62
+Kara-Khitai, [62](#62)
 
-Kara-Kirghizes, 97 ff. *See also* Kirghiz
+Kara-Kirghizes, [97](#97) ff. *See also* Kirghiz
 
-Karakorum Route, 11, 20, 21, 35 ff., 44
+Karakorum Route, [11](#11), [20](#20), [21](#21), [35](#35) ff., [44](#44)
 
-Karakum Desert, 87
+Karakum Desert, [87](#87)
 
-Karashahr, horse center, 92, 103-109, 119-120, 226
+Karashahr, horse center, [92](#92), [103](#103)–[109](#109), [119](#119)–[120](#120), [226](#226)
 
-Karghalik, 23, 85
+Karghalik, [23](#23), [85](#85)
 
-Kargil, 12
+Kargil, [12](#12)
 
-Karma-pa sect, 436
+Karma-pa sect, [436](#436)
 
-Kar-tsang, 424
+Kar-tsang, [424](#424)
 
-Kashgar, 67, 88 ff., 118
+Kashgar, [67](#67), [88](#88) ff., [118](#118)
 
-Kawaguchi, Ekai, 106
+Kawaguchi, Ekai, [106](#106)
 
-Kaznakov, 169
+Kaznakov, [169](#169)
 
-Kentei Mountain system, discovery of textiles in animal style, 133
+Kentei Mountain system, discovery of textiles in animal style, [133](#133)
 
-Kesar Saga, 26, 345, 354, 358 ff., 361, 365, 375; frescoes, 28; MSS and sword presented to Dr. G. Roerich, 390; temples, 350, 360
+Kesar Saga, [26](#26), [345](#345), [354](#354), [358](#358) ff., [361](#361), [365](#365), [375](#375); frescoes, [28](#28); MSS and sword presented to Dr. G. Roerich, [390](#390); temples, [350](#350), [360](#360)
 
-Khalatse, 17
+Khalatse, [17](#17)
 
-Kham, 147, 151, 226, 316
+Kham, [147](#147), [151](#151), [226](#226), [316](#316)
 
-Khambu woman, 456
+Khambu woman, [456](#456)
 
-Kham-pa, 376, 413, 432
+Kham-pa, [376](#376), [413](#413), [432](#432)
 
-Khan, Badruddin, 57
+Khan, Badruddin, [57](#57)
 
-Khan, Bogdo Gushi, 248
+Khan, Bogdo Gushi, [248](#248)
 
-Khan, Chinghiz, 134
+Khan, Chinghiz, [134](#134)
 
-Khan, Gushi, 248
+Khan, Gushi, [248](#248)
 
-Khan, Kadir Khan Jusuf, 62
+Khan, Kadir Khan Jusuf, [62](#62)
 
-Khan, Omar, 20 ff.
+Khan, Omar, [20](#20) ff.
 
-Khan, Satar, 8
+Khan, Satar, [8](#8)
 
-Khans, Ilek-, 62
+Khans, Ilek-, [62](#62)
 
-Khara-nom, 366. *See also* Black Faith
+Khara-nom, [366](#366). *See also* Black Faith
 
-Kharbu, 14-15
+Kharbu, [14](#14)–[15](#15)
 
-**497 INDEX**
+<a id="497">**497 INDEX**</a>
 
-Khardong Pass, 24, 35-36; stone image of Maitreya, 28
+Khardong Pass, [24](#24), [35](#35)–[36](#36); stone image of Maitreya, [28](#28)
 
-*Kharmik*, 186, 263
+*Kharmik*, [186](#186), [263](#263)
 
-Kharoshthi inscriptions, 17; tablets, 61, 63
+Kharoshthi inscriptions, [17](#17); tablets, [61](#61), [63](#63)
 
-Khashkar-in daban Pass, 241-242
+Khashkar-in daban Pass, [241](#241)–[242](#242)
 
-Khe-dup-je, 153, 157, 485
+Khe-dup-je, [153](#153), [157](#157), [485](#485)
 
-Khorebin lamas, 266, 276
+Khorebin lamas, [266](#266), [276](#276)
 
-Khoshuts, 103, 248 ff., 257, 263
+Khoshuts, [103](#103), [248](#248) ff., [257](#257), [263](#263)
 
-Khotan, agriculture, manufactures and trade, 63-65; antiquities, 51, 61 ff.; history, 61 ff; militia, 68; population, 61-63; slavery, 64
+Khotan, agriculture, manufactures and trade, [63](#63)–[65](#65); antiquities, [51](#51), [61](#61) ff.; history, [61](#61) ff; militia, [68](#68); population, [61](#61)–[63](#63); slavery, [64](#64)
 
-Khoton-sumbul, 103 ff.
+Khoton-sumbul, [103](#103) ff.
 
-Khri Sultan of Kartse, 15
+Khri Sultan of Kartse, [15](#15)
 
-Khri-srong lde'u-btsan, 360
+Khri-srong lde'u-btsan, [360](#360)
 
-Khudai Berdi Bai, 71 ff.
+Khudai Berdi Bai, [71](#71) ff.
 
-Kiakhta, 131, 225
+Kiakhta, [131](#131), [225](#225)
 
-Kings, bDe'legs rnam-rgyal, 18 bKra-shis rnam-rgyal, 18, 25, 26 'Bum-lde, 14, 18, 23, 26 Del-dan rnam-rgyal, 15, 28 Jamyang, 14 K'ang-hsi, 360 Kesar, 26 ff., 345 ff., 375-376 Khri-srong lde'u-btsan, *see* Ti-srong Lang-darma, 160, 353 Lha-chen rgyal-po, 18 Rin-chen bzang-po, 917 Seng-ge rnam-rgyal, 16, 18, 24 Srong-btsan-sgam-po, 12, 353, 360 Thse-dbang rnam-rgyal, 18 Ti-srong de'ut sen, 353, 360
+Kings, bDe'legs rnam-rgyal, [18](#18) bKra-shis rnam-rgyal, [18](#18), [25](#25), [26](#26) 'Bum-lde, [14](#14), [18](#18), [23](#23), [26](#26) Del-dan rnam-rgyal, [15](#15), [28](#28) Jamyang, [14](#14) K'ang-hsi, [360](#360) Kesar, [26](#26) ff., [345](#345) ff., [375](#375)–[376](#376) Khri-srong lde'u-btsan, *see* Ti-srong Lang-darma, [160](#160), [353](#353) Lha-chen rgyal-po, [18](#18) Rin-chen bzang-po, [917](#917) Seng-ge rnam-rgyal, [16](#16), [18](#18), [24](#24) Srong-btsan-sgam-po, [12](#12), [353](#353), [360](#360) Thse-dbang rnam-rgyal, [18](#18) Ti-srong de'ut sen, [353](#353), [360](#360)
 
-Kirghiz, 48 ff., 64, 102, 115 ff., 124-125, 213 ff., 351. *See also* Kara-
+Kirghiz, [48](#48) ff., [64](#64), [102](#102), [115](#115) ff., [124](#124)–[125](#125), [213](#213) ff., [351](#351). *See also* Kara-
 
-Kiytun-shirik, 290
+Kiytun-shirik, [290](#290)
 
-Kizil-kargha, 98
+Kizil-kargha, [98](#98)
 
-Klementz, Dr., 99
+Klementz, Dr., [99](#99)
 
-Kobdo, 227
+Kobdo, [227](#227)
 
-Koko-nor, 248 ff., 253 ff., 262
+Koko-nor, [248](#248) ff., [253](#253) ff., [262](#262)
 
-Kokoshili Range, 282 ff.
+Kokoshili Range, [282](#282) ff.
 
-Koko-tono Cliff, 272
+Koko-tono Cliff, [272](#272)
 
-Kömora (Hor-pa tribe), 336
+Kömora (Hor-pa tribe), [336](#336)
 
-Kone-shahr, 51, 63, 86
+Kone-shahr, [51](#51), [63](#63), [86](#86)
 
-Kong-po dogs, 394
+Kong-po dogs, [394](#394)
 
-Kordashevski, Col. N. V., 244 ff., 267, 274, 298-299, 320, 381, 387, 393, 396, 402, 404, 480, 483
+Kordashevski, Col. N. V., [244](#244) ff., [267](#267), [274](#274), [298](#298)–[299](#299), [320](#320), [381](#381), [387](#387), [393](#393), [396](#396), [402](#402), [404](#404), [480](#480), [483](#483)
 
-Kozlov, Gen. P. K., 168-169, 180, 184, 204; discovery of objects and textiles in animal style, 133, 151-152, 370; Ja Lama as guide, 226
+Kozlov, Gen. P. K., [168](#168)–[169](#169), [180](#180), [184](#184), [204](#204); discovery of objects and textiles in animal style, [133](#133), [151](#151)–[152](#152), [370](#370); Ja Lama as guide, [226](#226)
 
-Kryajev, 226
+Kryajev, [226](#226)
 
-Kuchar, 98 ff.
+Kuchar, [98](#98) ff.
 
-Kuchean dialect, 97
+Kuchean dialect, [97](#97)
 
-Kumbum Monastery, 151, 255-256, 265; annual fair, 253
+Kumbum Monastery, [151](#151), [255](#255)–[256](#256), [265](#265); annual fair, [253](#253)
 
-Kum-rabat Padshahim, 82
+Kum-rabat Padshahim, [82](#82)
 
-Kun-tu bzang-po, 355
+Kun-tu bzang-po, [355](#355)
 
 Küren, *see* Ikhe-küren
 
-Kusho Kudrupa, 184
+Kusho Kudrupa, [184](#184)
 
-Labrang, 151
+Labrang, [151](#151)
 
-Lachen Valley, 489-490
+Lachen Valley, [489](#489)–[490](#490)
 
-Ladak, architecture, 19, 24 ff.; frescoes, 13, 18, 26, 27, 28, 30; household, 14; libraries, 14, 15, 16, 18; population, 8, 19, 23, 29, 31, 71; Raja of, 26; songs, 361; sprinkling of yak milk, 35; Treaty Route, 7-8. See Leh
+Ladak, architecture, [19](#19), [24](#24) ff.; frescoes, [13](#13), [18](#18), [26](#26), [27](#27), [28](#28), [30](#30); household, [14](#14); libraries, [14](#14), [15](#15), [16](#16), [18](#18); population, [8](#8), [19](#19), [23](#23), [29](#29), [31](#31), [71](#71); Raja of, [26](#26); songs, [361](#361); sprinkling of yak milk, [35](#35); Treaty Route, [7](#7)–[8](#8). See Leh
 
-Lahul, Bön-po songs, 361
+Lahul, Bön-po songs, [361](#361)
 
-*Lakto* 351
+*Lakto* [351](#351)
 
-Lama cameleers, 313; ceremony on Thang La, 291; Kingdom of Tibet, 283, 335; musicians, 154, 392; tents, 192, 255
+Lama cameleers, [313](#313); ceremony on Thang La, [291](#291); Kingdom of Tibet, [283](#283), [335](#335); musicians, [154](#154), [392](#392); tents, [192](#192), [255](#255)
 
-Lama Khe-dup, 323; Lobzang Mingyur Dorje, xiii; Lobzang, 19; Pal-den ye-she, 157; Paldorje, 160 ff.; Rig-den jam-pe dak-pa, 156; Rig-den Jye-po, 156 ff.; Rig-dzin, 323; Sambu, 193, 199; Sengchen Dorjechang, 106; Shakju, 151; sTag-tshang ras-chen, 24; Urgyen, 357. *See also* under Dalai, Ja, Kalön, Khorchin, Panchen, Ta, Tantric, Tibetan, Toïn
+Lama Khe-dup, [323](#323); Lobzang Mingyur Dorje, xiii; Lobzang, [19](#19); Pal-den ye-she, [157](#157); Paldorje, [160](#160) ff.; Rig-den jam-pe dak-pa, [156](#156); Rig-den Jye-po, [156](#156) ff.; Rig-dzin, [323](#323); Sambu, [193](#193), [199](#199); Sengchen Dorjechang, [106](#106); Shakju, [151](#151); sTag-tshang ras-chen, [24](#24); Urgyen, [357](#357). *See also* under Dalai, Ja, Kalön, Khorchin, Panchen, Ta, Tantric, Tibetan, Toïn
 
-Lamaism, 15, 99, 133, 255
+Lamaism, [15](#15), [99](#99), [133](#133), [255](#255)
 
-Lama-yin Gegen, 189
+Lama-yin Gegen, [189](#189)
 
-Lamayuru, 15-16. *See also* Narthang
+Lamayuru, [15](#15)–[16](#16). *See also* Narthang
 
-Lam-rim chen-mo, 147
+Lam-rim chen-mo, [147](#147)
 
-Landon, Mr., 11
+Landon, Mr., [11](#11)
 
-Lang-darma, 160, 353
+Lang-darma, [160](#160), [353](#353)
 
-Laptse nagri, 423
+Laptse nagri, [423](#423)
 
-Latin inscriptions, 44
+Latin inscriptions, [44](#44)
 
-Lazarist fathers, 384
+Lazarist fathers, [384](#384)
 
-Le Coq, Dr., 54, 91, 98, 99, 100
+Le Coq, Dr., [54](#54), [91](#91), [98](#98), [99](#99), [100](#100)
 
-Legends and beliefs: arrowheads, 351, 418; attainment of longevity, 380; Bön, 356 ff., 358; concerning Buddha, 356-357; "earth poison," 241; Gobi, 181, 199, 217-218; Kesar, 358 ff.; concerning Milarepa, 474; Pigeon's Sanctuary, 56; Saga dzong, 451; Shambhala, 157; Thang La, 290; Trans-Himalayas, 436; Zoji Pass, 9
+Legends and beliefs: arrowheads, [351](#351), [418](#418); attainment of longevity, [380](#380); Bön, [356](#356) ff., [358](#358); concerning Buddha, [356](#356)–[357](#357); "earth poison," [241](#241); Gobi, [181](#181), [199](#199), [217](#217)–[218](#218); Kesar, [358](#358) ff.; concerning Milarepa, [474](#474); Pigeon's Sanctuary, [56](#56); Saga dzong, [451](#451); Shambhala, [157](#157); Thang La, [290](#290); Trans-Himalayas, [436](#436); Zoji Pass, [9](#9)
 
-Leh, Ladak, archaeological possibilities, 20, 22, 23, 29, 30; Christians, 28-29; evening prayers, 25; frescoes, 26, 27; Hemis Monastery, 27; household, 27; Islam mosque, 29; *mani*-wall, 28; Moravian Mission, 20, 415; palace, 24 ff.; population, 23; Raja, 24, 26; temples, 26; trade, 21, 22
+Leh, Ladak, archaeological possibilities, [20](#20), [22](#22), [23](#23), [29](#29), [30](#30); Christians, [28](#28)–[29](#29); evening prayers, [25](#25); frescoes, [26](#26), [27](#27); Hemis Monastery, [27](#27); household, [27](#27); Islam mosque, [29](#29); *mani*-wall, [28](#28); Moravian Mission, [20](#20), [415](#415); palace, [24](#24) ff.; population, [23](#23); Raja, [24](#24), [26](#26); temples, [26](#26); trade, [21](#21), [22](#22)
 
-Leopard, 253
+Leopard, [253](#253)
 
-Levi, M. Sylvain, 97
+Levi, M. Sylvain, [97](#97)
 
-Lha-chen Nag-lug, 17
+Lha-chen Nag-lug, [17](#17)
 
-Lha-chen rgyal-po, 18
+Lha-chen rgyal-po, [18](#18)
 
-Lhasa, Tibet, administration, 285, 311, 316,
+Lhasa, Tibet, administration, [285](#285), [311](#311), [316](#316),
 
-**498 TRAILS TO INMOST ASIA**
+<a id="498">**498 TRAILS TO INMOST ASIA**</a>
 
-335 ff., 339, 375, 377-378, 385, 397, 412, 458, 462, 468, 477, 479; anecdotes, 389; Dre-pung Monastery, 23, 224 ff., 338, 384, 485; militia, 352, 466; pilgrims to, 382, 452; printing, 147, 151, 167, 316, 317; sanitation, 387; School of Medicine, 155; Sera Monastery, 147, 366, 406. *See also* Passports
+[335](#335) ff., [339](#339), [375](#375), [377](#377)–[378](#378), [385](#385), [397](#397), [412](#412), [458](#458), [462](#462), [468](#468), [477](#477), [479](#479); anecdotes, [389](#389); Dre-pung Monastery, [23](#23), [224](#224) ff., [338](#338), [384](#384), [485](#485); militia, [352](#352), [466](#466); pilgrims to, [382](#382), [452](#452); printing, [147](#147), [151](#151), [167](#167), [316](#316), [317](#317); sanitation, [387](#387); School of Medicine, [155](#155); Sera Monastery, [147](#147), [366](#366), [406](#406). *See also* Passports
 
-Lichtmann, Mr. and Mrs. M., 173, 178
+Lichtmann, Mr. and Mrs. M., [173](#173), [178](#178)
 
-Likir, 18
+Likir, [18](#18)
 
-Linear ornaments, 29
+Linear ornaments, [29](#29)
 
-Ling-chi, 119
+Ling-chi, [119](#119)
 
-Ling-kar, 487
+Ling-kar, [487](#487)
 
-Lion, *motif* in animal style, 370; in Bön paintings, 365; in Buddhist paintings, 247, 343* 375; on nomad tents, 343; on *stupas*, 28
+Lion, *motif* in animal style, [370](#370); in Bön paintings, [365](#365); in Buddhist paintings, [247](#247), [343](#343)* [375](#375); on nomad tents, [343](#343); on *stupas*, [28](#28)
 
-Lion Gate, Leh, 24
+Lion Gate, Leh, [24](#24)
 
-Lonchen Shatra, 145
+Lonchen Shatra, [145](#145)
 
-Lön-po, 37
+Lön-po, [37](#37)
 
-*Lung-tum-mo*, 474 ff.
+*Lung-tum-mo*, [474](#474) ff.
 
-Lynx, 253
+Lynx, [253](#253)
 
-Ma, General, 38, 67, 69, u8, 269
+Ma, General, [38](#38), [67](#67), [69](#69), u[8](#8), [269](#269)
 
-Ma-btsün-pa, 355, 363, 366
+Ma-btsün-pa, [355](#355), [363](#363), [366](#366)
 
-Ma-ch'i, 119, 121
+Ma-ch'i, [119](#119), [121](#121)
 
-Ma Fu-hsin (*Ti-t'ai*), 38, 64, 67 ff.
+Ma Fu-hsin (*Ti-t'ai*), [38](#38), [64](#64), [67](#67) ff.
 
-Ma-Shao-wu (*Tao-t'ai*), 54, 65-76, 119
+Ma-Shao-wu (*Tao-t'ai*), [54](#54), [65](#65)–[76](#76), [119](#119)
 
-Ma Ta-jen, 56, 87
+Ma Ta-jen, [56](#56), [87](#87)
 
-Ma-tzu Shan, 207 ff.; Ja Lama's castle, 211 ff.
+Ma-tzu Shan, [207](#207) ff.; Ja Lama's castle, [211](#211) ff.
 
-Machen, 219, 238
+Machen, [219](#219), [238](#238)
 
-Magic manuals, 357, 360; scepter, 366
+Magic manuals, [357](#357), [360](#360); scepter, [366](#366)
 
-Mahai, Tsaidam, 243-244, 250
+Mahai, Tsaidam, [243](#243)–[244](#244), [250](#250)
 
-Mahayana, 10, 61, 358, 490
+Mahayana, [10](#10), [61](#61), [358](#358), [490](#490)
 
-Maidari procession, 136, 154, 163-164
+Maidari procession, [136](#136), [154](#154), [163](#163)–[164](#164)
 
-Mai-ma-ch'eng, 136; cemetery, 142
+Mai-ma-ch'eng, [136](#136); cemetery, [142](#142)
 
-Maitreya, images and temples, 10, 13-14, 17, 18, 26, 28 ff., 38, 98, 147, 159, 217 ff., 363-364, 384
+Maitreya, images and temples, [10](#10), [13](#13)–[14](#14), [17](#17), [18](#18), [26](#26), [28](#28) ff., [38](#38), [98](#98), [147](#147), [159](#159), [217](#217) ff., [363](#363)–[364](#364), [384](#384)
 
-Makalu, 474
+Makalu, [474](#474)
 
-Maltese crosses, 28
+Maltese crosses, [28](#28)
 
-Man-la, 485
+Man-la, [485](#485)
 
-Manchu archery, 464; Kesar proclaimed Divine Protector of, 360; rule in Tibet, 316
+Manchu archery, [464](#464); Kesar proclaimed Divine Protector of, [360](#360); rule in Tibet, [316](#316)
 
-*Mani*-walls, 28, 414, 417, 427, 449, 456, 461, 485
+*Mani*-walls, [28](#28), [414](#414), [417](#417), [427](#427), [449](#449), [456](#456), [461](#461), [485](#485)
 
-*Mani* inscriptions, 419
+*Mani* inscriptions, [419](#419)
 
-Manji, 490
+Manji, [490](#490)
 
-Mañjushri, 16, 27, 147; symbols of, 158; -khit, 135, 163
+Mañjushri, [16](#16), [27](#27), [147](#147); symbols of, [158](#158); -khit, [135](#135), [163](#163)
 
-Maps, 169, 191, 263, 282, 286-287, 335, 423; Tibetan use of, 388
+Maps, [169](#169), [191](#191), [263](#263), [282](#282), [286](#286)–[287](#287), [335](#335), [423](#423); Tibetan use of, [388](#388)
 
-Mara, 486
+Mara, [486](#486)
 
-Marco Polo, 65; Range, 273, 276-277, 352
+Marco Polo, [65](#65); Range, [273](#273), [276](#276)–[277](#277), [352](#352)
 
 Marin, M. Louis, Preface, xii
 
-Marmots, 180
+Marmots, [180](#180)
 
-Masks, lama, 365; protection against storms 341 (*See also* Pomades)
+Masks, lama, [365](#365); protection against storms [341](#341) (*See also* Pomades)
 
-Masonry, 29, 487
+Masonry, [29](#29), [487](#487)
 
-Maud-galyana, 485
+Maud-galyana, [485](#485)
 
-Mauser pistols, 340
+Mauser pistols, [340](#340)
 
-Mazar Imam Jafar Sadik, 63, 71
+Mazar Imam Jafar Sadik, [63](#63), [71](#71)
 
-*Mazars*, definition, 48
+*Mazars*, definition, [48](#48)
 
-Mecca, pilgrims to, 11, 42, 44, 48
+Mecca, pilgrims to, [11](#11), [42](#42), [44](#44), [48](#48)
 
-Medicine, men, 101; School of, Lhasa, 155; Temple of Doctors, Urga, 155
+Medicine, men, [101](#101); School of, Lhasa, [155](#155); Temple of Doctors, Urga, [155](#155)
 
-Meditation, hermitages, 475; periods set aside by Tibetan monks, 457
+Meditation, hermitages, [475](#475); periods set aside by Tibetan monks, [457](#457)
 
-Megalithic monuments, 355, 415 ff., 440 ff., 451
+Megalithic monuments, [355](#355), [415](#415) ff., [440](#440) ff., [451](#451)
 
-Melons, 50. *See* Watermelons
+Melons, [50](#50). *See* Watermelons
 
-Memo, 472 ff.
+Memo, [472](#472) ff.
 
-*Men, Beasts and Gods* (Ossendowski), 223
+*Men, Beasts and Gods* (Ossendowski), [223](#223)
 
-*Men-dongs*, 28, 291
+*Men-dongs*, [28](#28), [291](#291)
 
-Menhirs, 355, 415 ff., 440-441
+Menhirs, [355](#355), [415](#415) ff., [440](#440)–[441](#441)
 
-Mexican currency, 64 ff., 121, 142, 251
+Mexican currency, [64](#64) ff., [121](#121), [142](#142), [251](#251)
 
-mGon-khang Temple, 26
+mGon-khang Temple, [26](#26)
 
-Middle Ages, 256
+Middle Ages, [256](#256)
 
-Milarepa, 23, 29, 358, 473
+Milarepa, [23](#23), [29](#29), [358](#358), [473](#473)
 
-Militia, Chinese, 124, 481; Chinese Turkestan, 68; Hsin-chiang, 81, 115, 120-121; Mongolia, 130-133, 251-252; Tibet, 285 ff., 292 ff., 299, 305, 316, 349, 352-353, 376, 386, 449, 466, 470-471; Torgut, 102, 227; Tsaidam, 251-252
+Militia, Chinese, [124](#124), [481](#481); Chinese Turkestan, [68](#68); Hsin-chiang, [81](#81), [115](#115), [120](#120)–[121](#121); Mongolia, [130](#130)–[133](#133), [251](#251)–[252](#252); Tibet, [285](#285) ff., [292](#292) ff., [299](#299), [305](#305), [316](#316), [349](#349), [352](#352)–[353](#353), [376](#376), [386](#386), [449](#449), [466](#466), [470](#470)–[471](#471); Torgut, [102](#102), [227](#227); Tsaidam, [251](#251)–[252](#252)
 
-Miran, 63
+Miran, [63](#63)
 
-Mirza Mohammad Haidar, 9
+Mirza Mohammad Haidar, [9](#9)
 
-Mishe-Gun küren, 180
+Mishe-Gun küren, [180](#180)
 
-Moguls, 6
+Moguls, [6](#6)
 
-Mohammedans, 4, 61-64, 86, 96, 115, 249 ff.; iconoclasts, 98; medicine men, 101. *See also* Tungans
+Mohammedans, [4](#4), [61](#61)–[64](#64), [86](#86), [96](#96), [115](#115), [249](#249) ff.; iconoclasts, [98](#98); medicine men, [101](#101). *See also* Tungans
 
-Moldavak, K., 71
+Moldavak, K., [71](#71)
 
-Mongol Central Coöperative, 140 ff., 182
+Mongol Central Coöperative, [140](#140) ff., [182](#182)
 
-Mongolia, agriculture, 143, 319; fauna, 188, 204, 214-215; history and administration, 122, 130 ff., 223 ff., 230, 233, 251, 311; militia, 130, 151; national institutions, 139-142, 149-150, 163, 182, 233; Sangin Veterinary Station, 178; tents, 192 ff.; trade, 140-142, 145-146, 182, 218, 339; tribes, 231, 248 ff.; tumuli, 184; types, 131, 185, 189, 191, 218, 227, 255, 312-313, 316, 322. *See also* Gobi, Tsaidam, Urga
+Mongolia, agriculture, [143](#143), [319](#319); fauna, [188](#188), [204](#204), [214](#214)–[215](#215); history and administration, [122](#122), [130](#130) ff., [223](#223) ff., [230](#230), [233](#233), [251](#251), [311](#311); militia, [130](#130), [151](#151); national institutions, [139](#139)–[142](#142), [149](#149)–[150](#150), [163](#163), [182](#182), [233](#233); Sangin Veterinary Station, [178](#178); tents, [192](#192) ff.; trade, [140](#140)–[142](#142), [145](#145)–[146](#146), [182](#182), [218](#218), [339](#339); tribes, [231](#231), [248](#248) ff.; tumuli, [184](#184); types, [131](#131), [185](#185), [189](#189), [191](#191), [218](#218), [227](#227), [255](#255), [312](#312)–[313](#313), [316](#316), [322](#322). *See also* Gobi, Tsaidam, Urga
 
-*Mongolia and the Mongols* (Pozdneev), 225
+*Mongolia and the Mongols* (Pozdneev), [225](#225)
 
-Mön-lam chem-po, 266
+Mön-lam chem-po, [266](#266)
 
-Mons, 23
+Mons, [23](#23)
 
-Moorcroft, 13
+Moorcroft, [13](#13)
 
-Moraines, 417, 423
+Moraines, [417](#417), [423](#423)
 
-Moravian Mission, 20, 415
+Moravian Mission, [20](#20), [415](#415)
 
-Morris, Dr. F. K., 179
+Morris, Dr. F. K., [179](#179)
 
-Morshead, Captain, 377
+Morshead, Captain, [377](#377)
 
-**499 INDEX**
+<a id="499">**499 INDEX**</a>
 
 Mother Nature, *See* Ma-btsün-pa
 
@@ -7463,841 +7463,841 @@ Mt. Everest, *see under* Everest
 
 Mt. Kailasa, *see under* Kailasa
 
-Mud-built fort, hovels, 47, 264
+Mud-built fort, hovels, [47](#47), [264](#264)
 
-Mulbe, Ladak, 13, 14
+Mulbe, Ladak, [13](#13), [14](#14)
 
-Mulberries, 83
+Mulberries, [83](#83)
 
-Murchu tsho, 425
+Murchu tsho, [425](#425)
 
-Musicians, lama, 154, 392; traveling, 88, 424
+Musicians, lama, [154](#154), [392](#392); traveling, [88](#88), [424](#424)
 
-Nag-chu, 238; annual fair, 287, 339; expedition stay in, 383-402; New Year festivities, 391 ff.; routes to, 292; sanitation, 387; Shab-den Monastery, 287, 384, 388
+Nag-chu, [238](#238); annual fair, [287](#287), [339](#339); expedition stay in, [383](#383)–[402](#402); New Year festivities, [391](#391) ff.; routes to, [292](#292); sanitation, [387](#387); Shab-den Monastery, [287](#287), [384](#384), [388](#388)
 
-Nag-chu-ka, Chap. 12
+Nag-chu-ka, Chap. [12](#12)
 
-Nag-tshang, 379, 427
+Nag-tshang, [379](#379), [427](#427)
 
-Nain Singh, 335, 425, 427-428
+Nain Singh, [335](#335), [425](#425), [427](#427)–[428](#428)
 
-Nam-ru dzong, 379, 409 if.
+Nam-ru dzong, [379](#379), [409](#409) if.
 
-Naro Bön-chung (Naropa), 9, 16, 27, 358, 474
+Naro Bön-chung (Naropa), [9](#9), [16](#16), [27](#27), [358](#358), [474](#474)
 
-Narthang publications, 16, 138, 254, 475, 485
+Narthang publications, [16](#16), [138](#138), [254](#254), [475](#475), [485](#485)
 
-Na-tra La, 413-414
+Na-tra La, [413](#413)–[414](#414)
 
-Nature worship, 353 if. *See also* Bön
+Nature worship, [353](#353) if. *See also* Bön
 
-Nazar Bai, 20 if.
+Nazar Bai, [20](#20) if.
 
-Neal, Mme David, 320
+Neal, Mme David, [320](#320)
 
-Necromancy, 353 ff. *See also* Bön
+Necromancy, [353](#353) ff. *See also* Bön
 
-Nedou Hotel, 4 ff.
+Nedou Hotel, [4](#4) ff.
 
-Neiji River, Golok attack, 238, 268 ff.
+Neiji River, Golok attack, [238](#238), [268](#268) ff.
 
-Neo-animal style, 367-368
+Neo-animal style, [367](#367)–[368](#368)
 
-Neolithic graves, 417
+Neolithic graves, [417](#417)
 
-Nepal, 416, 431; art, 299, 461, 462, 464, 467
+Nepal, [416](#416), [431](#431); art, [299](#299), [461](#461), [462](#462), [464](#464), [467](#467)
 
-Nestorians, 28 ff.
+Nestorians, [28](#28) ff.
 
-Newspapers, Hsin-chiang, 118; Mongolia, 149
+Newspapers, Hsin-chiang, [118](#118); Mongolia, [149](#149)
 
-New Year festivities, 154, 256, 266, 391 ff., 460
+New Year festivities, [154](#154), [256](#256), [266](#266), [391](#391) ff., [460](#460)
 
-New York, paintings sent to, 133; interests shown in photographs of, 477, 479, 486
+New York, paintings sent to, [133](#133); interests shown in photographs of, [477](#477), [479](#479), [486](#486)
 
-Ngantse tsho, 426
+Ngantse tsho, [426](#426)
 
-Nga-wang, Prince, 151
+Nga-wang, Prince, [151](#151)
 
-Nga-Wang Tseren küren, 180
+Nga-Wang Tseren küren, [180](#180)
 
-Nishad and Shalimar, 6
+Nishad and Shalimar, [6](#6)
 
-Noin ula Mountains, objects and textiles in animal style, 133, 150-151, 184, 368 ff., 418
+Noin ula Mountains, objects and textiles in animal style, [133](#133), [150](#150)–[151](#151), [184](#184), [368](#368) ff., [418](#418)
 
-Nomad art, 29-30, 1 51-152, 153, 367 ff.; Bön faith, 353 ff.; burial customs, 29-30, 151, 181; encampments, 49, 402, 419; Kesar Saga, 359; migrations, 122 ff.; militia, 251-252; songs, 234; tents, 342 ff. *See also* Kumbum
+Nomad art, [29](#29)–[30](#30), [1](#1) [51](#51)–[152](#152), [153](#153), [367](#367) ff.; Bön faith, [353](#353) ff.; burial customs, [29](#29)–[30](#30), [151](#151), [181](#181); encampments, [49](#49), [402](#402), [419](#419); Kesar Saga, [359](#359); migrations, [122](#122) ff.; militia, [251](#251)–[252](#252); songs, [234](#234); tents, [342](#342) ff. *See also* Kumbum
 
-Nunnery, 384
+Nunnery, [384](#384)
 
-Nup-hor, 333
+Nup-hor, [333](#333)
 
-Nya-rong-was, 29, 347 ff.
+Nya-rong-was, [29](#29), [347](#347) ff.
 
-Nya-shing tsho, 406 ff.
+Nya-shing tsho, [406](#406) ff.
 
 Nying-ma-pa, *see* Red sect
 
-Nyström, Dr., 72, 83
+Nyström, Dr., [72](#72), [83](#83)
 
-*Obo*, Tibetan New Year rite, 393; definition, 242. *See also* Stone cairns
+*Obo*, Tibetan New Year rite, [393](#393); definition, [242](#242). *See also* Stone cairns
 
-Ochir, 403, 461, 490
+Ochir, [403](#403), [461](#461), [490](#490)
 
-Oil lamps, Khotan, 65
+Oil lamps, Khotan, [65](#65)
 
-Oïrat tribes, 62, 226, 248 ff.
+Oïrat tribes, [62](#62), [226](#226), [248](#248) ff.
 
-Ölöt tribes, 99 ff.
+Ölöt tribes, [99](#99) ff.
 
-Omar Khan, 20 ff .
+Omar Khan, [20](#20) ff .
 
-Onions, 468
+Onions, [468](#468)
 
-Opium, 77, 82, 84, 92, 205; as soldiers' pay, Hsin-chiang, 121
+Opium, [77](#77), [82](#82), [84](#84), [92](#92), [205](#205); as soldiers' pay, Hsin-chiang, [121](#121)
 
-Oracle, state, 163
+Oracle, state, [163](#163)
 
-Orchards, 83, 101, 109
+Orchards, [83](#83), [101](#101), [109](#109)
 
-Orchestra, Hor-pas, 300 ff.
+Orchestra, Hor-pas, [300](#300) ff.
 
-Oriental-Iranian MSS, Khotan, 61-63
+Oriental-Iranian MSS, Khotan, [61](#61)–[63](#63)
 
-Ossendowski, F., 223
+Ossendowski, F., [223](#223)
 
-Otani, Count, 98, 99
+Otani, Count, [98](#98), [99](#99)
 
-Otter, 407
+Otter, [407](#407)
 
-Pa-bön lha, 380
+Pa-bön lha, [380](#380)
 
-Padmasambhava, 14, 354-355
+Padmasambhava, [14](#14), [354](#354)–[355](#355)
 
 Painted banners. *See* Banners
 
-Paintings, Bön, 355. *See also* Frescoes
+Paintings, Bön, [355](#355). *See also* Frescoes
 
-Palaces, Leh, 24 ff.; Ma Tit'ai, 67; Potala, 24, 138; Sain Noin Khan, 140; Urumchi, 121
+Palaces, Leh, [24](#24) ff.; Ma Tit'ai, [67](#67); Potala, [24](#24), [138](#138); Sain Noin Khan, [140](#140); Urumchi, [121](#121)
 
-Pal-den Lhamo, cult of, 364, 451
+Pal-den Lhamo, cult of, [364](#364), [451](#451)
 
-Pal-den ye-she, 157
+Pal-den ye-she, [157](#157)
 
-Pal-dor je, 160 ff.
+Pal-dor je, [160](#160) ff.
 
-Paleo-Asiatic tribes, 367
+Paleo-Asiatic tribes, [367](#367)
 
-P'an, Mr., 96
+P'an, Mr., [96](#96)
 
-Panags, 29; attack, 274 ff. *See also* Goloks
+Panags, [29](#29); attack, [274](#274) ff. *See also* Goloks
 
-Panamik, meeting with Mr. Germanson, 38;
+Panamik, meeting with Mr. Germanson, [38](#38);
 
-Red sect monastery, 38; images, 38
+Red sect monastery, [38](#38); images, [38](#38)
 
-Panchen Lama, 313, 380
+Panchen Lama, [313](#313), [380](#380)
 
-Pangkong-tsho, 28
+Pangkong-tsho, [28](#28)
 
-Paoro (Hor-pa tribe), 336, 382
+Paoro (Hor-pa tribe), [336](#336), [382](#382)
 
-Parta, Tibet, 404 ff.
+Parta, Tibet, [404](#404) ff.
 
-Partridges, 461
+Partridges, [461](#461)
 
-Pashmina shawls, 22
+Pashmina shawls, [22](#22)
 
-Passports, to Hsin-chiang, 73 ff., to inner Tibet, 168, Nag-chu to Sikkim, 409; difficulties with, 172, 238, 294 ff., 301, 306, 312, 316, 320, 324, 328-329, 379, 388 ff., 392, 395, 411, 422, 428, 441, 488
+Passports, to Hsin-chiang, [73](#73) ff., to inner Tibet, [168](#168), Nag-chu to Sikkim, [409](#409); difficulties with, [172](#172), [238](#238), [294](#294) ff., [301](#301), [306](#306), [312](#312), [316](#316), [320](#320), [324](#324), [328](#328)–[329](#329), [379](#379), [388](#388) ff., [392](#392), [395](#395), [411](#411), [422](#422), [428](#428), [441](#441), [488](#488)
 
-Peaches, 53
+Peaches, [53](#53)
 
-Peacock, feathers, 147; *motifs*, 28, 460
+Peacock, feathers, [147](#147); *motifs*, [28](#28), [460](#460)
 
-Pears, 65
+Pears, [65](#65)
 
-Peking, 73; artisans and shops in Urga, 137-138, 146 ff.; calendar, 224; influence in Hor, 336; Mongol pilgrims to, 313; Mongolian and Tibetan books printed in, 138, 360; tribute from Hsin-chiang, 117, 119
+Peking, [73](#73); artisans and shops in Urga, [137](#137)–[138](#138), [146](#146) ff.; calendar, [224](#224); influence in Hor, [336](#336); Mongol pilgrims to, [313](#313); Mongolian and Tibetan books printed in, [138](#138), [360](#360); tribute from Hsin-chiang, [117](#117), [119](#119)
 
-Pelliot, Professor Paul, 96 ff., 100, 358
+Pelliot, Professor Paul, [96](#96) ff., [100](#100), [358](#358)
 
-Pen case with *motifs* in animal style, 369
+Pen case with *motifs* in animal style, [369](#369)
 
-P'eng, General, 305
+P'eng, General, [305](#305)
 
-Pereira, General, 320, 378
+Pereira, General, [320](#320), [378](#378)
 
-Phallic images, 208
+Phallic images, [208](#208)
 
-**500 TRAILS TO INMOST ASIA**
+<a id="500">**500 TRAILS TO INMOST ASIA**</a>
 
-Photographs, 14, 72, 139, 192, 479, 486
+Photographs, [14](#14), [72](#72), [139](#139), [192](#192), [479](#479), [486](#486)
 
-Phung-chu, 476, 480-481
+Phung-chu, [476](#476), [480](#480)–[481](#481)
 
-Phimg-pa tsho, 425
+Phimg-pa tsho, [425](#425)
 
-Pigeon's Shrine, 56, 82-83
+Pigeon's Shrine, [56](#56), [82](#82)–[83](#83)
 
-Pilgrims, 313, 382, 452. *See also* Golok, Mecca
+Pilgrims, [313](#313), [382](#382), [452](#452). *See also* Golok, Mecca
 
-Pines, 8
+Pines, [8](#8)
 
-Poisonous grass, 7, 39
+Poisonous grass, [7](#7), [39](#39)
 
-Pomades, as protection against winds, 467
+Pomades, as protection against winds, [467](#467)
 
-Poplar groves, 51, 52-53, 86, 96, 97, 217, 482, 485
+Poplar groves, [51](#51), [52](#52)–[53](#53), [86](#86), [96](#96), [97](#97), [217](#217), [482](#482), [485](#485)
 
-Poppe, Dr. N., 359, 360
+Poppe, Dr. N., [359](#359), [360](#360)
 
-Portniagin, 172, 184, 193, 202, 206, 210 ff., 239, 243 ff., 274, 299, 380-381, 436, 443, 451, 461, 464, 468, 470, 479
+Portniagin, [172](#172), [184](#184), [193](#193), [202](#202), [206](#206), [210](#210) ff., [239](#239), [243](#243) ff., [274](#274), [299](#299), [380](#380)–[381](#381), [436](#436), [443](#443), [451](#451), [461](#461), [464](#464), [468](#468), [470](#470), [479](#479)
 
-Posgam, 85
+Posgam, [85](#85)
 
-Potala Palace, 24; printing, 138
+Potala Palace, [24](#24); printing, [138](#138)
 
-Potanin, 169, 359
+Potanin, [169](#169), [359](#359)
 
-Potatoes, 468
+Potatoes, [468](#468)
 
-Pottery, hand made, found in Dard grave, 29
+Pottery, hand made, found in Dard grave, [29](#29)
 
-Po-yul revolt, 470
+Po-yul revolt, [470](#470)
 
-Pozdneev, Professor, 184, 225
+Pozdneev, Professor, [184](#184), [225](#225)
 
-Prajñaparamita library, 14
+Prajñaparamita library, [14](#14)
 
-Prayer flags, 255, 291, 366, 410, 419, 424
+Prayer flags, [255](#255), [291](#291), [366](#366), [410](#410), [419](#419), [424](#424)
 
-Prayer wheels, 286, 366; huge wheel at Saga dzong, 449
+Prayer wheels, [286](#286), [366](#366); huge wheel at Saga dzong, [449](#449)
 
-Precipitation, Tibet, 282-283
+Precipitation, Tibet, [282](#282)–[283](#283)
 
-Printing, 63, 129, 138, 147, 151, 167, 316, 317. *See also* under Derge, Kumbum, Narthang
+Printing, [63](#63), [129](#129), [138](#138), [147](#147), [151](#151), [167](#167), [316](#316), [317](#317). *See also* under Derge, Kumbum, Narthang
 
 Private houses, *see* Households
 
-Prjevalski, 168, 242, 271, 347
+Prjevalski, [168](#168), [242](#242), [271](#271), [347](#347)
 
-*Puru*, Tibetan cloth, 23, 348
+*Puru*, Tibetan cloth, [23](#23), [348](#348)
 
-Pü-tsho, salt obtained from, 408-409
+Pü-tsho, salt obtained from, [408](#408)–[409](#409)
 
-Quicksands, 286, 418, 487
+Quicksands, [286](#286), [418](#418), [487](#487)
 
-Rain-water lakes, 282-283
+Rain-water lakes, [282](#282)–[283](#283)
 
-*Ra lo-tsa-wa'i rnam-thar*, 148
+*Ra lo-tsa-wa'i rnam-thar*, [148](#148)
 
-Ratri, 417, 420
+Ratri, [417](#417), [420](#420)
 
-Rats, shrine, 82
+Rats, shrine, [82](#82)
 
-Ravens, 41, 309, 311
+Ravens, [41](#41), [309](#309), [311](#311)
 
-Rawak, C. T., 63, 71
+Rawak, C. T., [63](#63), [71](#71)
 
-Rawalpindi, 4
+Rawalpindi, [4](#4)
 
-Rawling, Captain, 431, 449; quotation from, 479
+Rawling, Captain, [431](#431), [449](#449); quotation from, [479](#479)
 
-Red sect, 14, 38, 357, 456, 466, 481
+Red sect, [14](#14), [38](#38), [357](#357), [456](#456), [466](#466), [481](#481)
 
-Reincarnation, 14, 106, 107, 156, 223, 226
+Reincarnation, [14](#14), [106](#106), [107](#107), [156](#156), [223](#223), [226](#226)
 
 Religious banners. *See* Banners
 
-Renaissance, links with Orient, 90
+Renaissance, links with Orient, [90](#90)
 
-*rGyal-drung*, collection of heroic songs, 359 ff.
+*rGyal-drung*, collection of heroic songs, [359](#359) ff.
 
-Rhododendron forests, 489
+Rhododendron forests, [489](#489)
 
-Riabinin, Dr., 173, 217, 239, 264, 298-299, 308, 315-316, 319, 327-328, 396, 405
+Riabinin, Dr., [173](#173), [217](#217), [239](#239), [264](#264), [298](#298)–[299](#299), [308](#308), [315](#315)–[316](#316), [319](#319), [327](#327)–[328](#328), [396](#396), [405](#405)
 
-Rice, 65, 89
+Rice, [65](#65), [89](#89)
 
-Ri-dzong, 19
+Ri-dzong, [19](#19)
 
-Rig-den jam-pe dak-pa, 156
+Rig-den jam-pe dak-pa, [156](#156)
 
-Rigden Jye-po, 156, 157-158
+Rigden Jye-po, [156](#156), [157](#157)–[158](#158)
 
-Ri-jyal chen-tar, 357
+Ri-jyal chen-tar, [357](#357)
 
-Rinchen bzang-po, 9, 17
+Rinchen bzang-po, [9](#9), [17](#17)
 
-*Rock Inscriptions at Mulbe* (Francke), 13
+*Rock Inscriptions at Mulbe* (Francke), [13](#13)
 
-Rockhill, W., 271-272, 376
+Rockhill, W., [271](#271)–[272](#272), [376](#376)
 
-Roerich, Professor Nicholas, 31, 54, 65, 71, 75, 87, 120, 133, 178, 194, 211, 212, 239, 244 ff., 274, 289, 295, 298 ff., 309, 319, 325, 328, 387, 390, 394, 396; discovery, ancient graves, 417, 443, 473, 477, 483-484
+Roerich, Professor Nicholas, [31](#31), [54](#54), [65](#65), [71](#71), [75](#75), [87](#87), [120](#120), [133](#133), [178](#178), [194](#194), [211](#211), [212](#212), [239](#239), [244](#244) ff., [274](#274), [289](#289), [295](#295), [298](#298) ff., [309](#309), [319](#319), [325](#325), [328](#328), [387](#387), [390](#390), [394](#394), [396](#396); discovery, ancient graves, [417](#417), [443](#443), [473](#473), [477](#477), [483](#483)–[484](#484)
 
-Roerich, Mrs. N., 31, 40, 44, 50, 54, 72-73, 104, 173, 194, 206, 217, 239, 241, 244, 267, 272, 299, 306 ff., 308, 328; discovery, brass buckle with animal *motif*, 418, 472; tribute to, 173
+Roerich, Mrs. N., [31](#31), [40](#40), [44](#44), [50](#50), [54](#54), [72](#72)–[73](#73), [104](#104), [173](#173), [194](#194), [206](#206), [217](#217), [239](#239), [241](#241), [244](#244), [267](#267), [272](#272), [299](#299), [306](#306) ff., [308](#308), [328](#328); discovery, brass buckle with animal *motif*, [418](#418), [472](#472); tribute to, [173](#173)
 
-Roerich, S., 173; collections of objects in animal style, 369-371
+Roerich, S., [173](#173); collections of objects in animal style, [369](#369)–[371](#371)
 
 Roerich Central Asian Expedition, xi, xii
 
-Roerich Museum, xii, 133, 167
+Roerich Museum, xii, [133](#133), [167](#167)
 
-Roosevelt Expedition, 53
+Roosevelt Expedition, [53](#53)
 
-Rooster, episode of, 314
+Rooster, episode of, [314](#314)
 
-Rosary, 28
+Rosary, [28](#28)
 
-Routes, 11, 15 ff., 20 ff., 35, 44, 98-99, 167 ff., 179, 205, 230, 271, 310, 328, 378, 385, 422, 428, 438. 449, 482
+Routes, [11](#11), [15](#15) ff., [20](#20) ff., [35](#35), [44](#44), [98](#98)–[99](#99), [167](#167) ff., [179](#179), [205](#205), [230](#230), [271](#271), [310](#310), [328](#328), [378](#378), [385](#385), [422](#422), [428](#428), [438](#438). [449](#449), [482](#482)
 
-Rudnev, Dr. A. D., 239
+Rudnev, Dr. A. D., [239](#239)
 
-Russians in Chinese Turkestan, 90, 105, in Urga, 136 ff., in Urumchi, 115; Lhasa version of Revolution, 389
+Russians in Chinese Turkestan, [90](#90), [105](#105), in Urga, [136](#136) ff., in Urumchi, [115](#115); Lhasa version of Revolution, [389](#389)
 
-Russo-Asiatic Bank, Kashgar, 89; Urumchi, 118, 120, 121
+Russo-Asiatic Bank, Kashgar, [89](#89); Urumchi, [118](#118), [120](#120), [121](#121)
 
-Ryder, Captain, 449
+Ryder, Captain, [449](#449)
 
 Sacrifices, *see* Bön
 
-Saga dzong, 379, 431, 445-451; believed abode of deities, 451; cult of Pal-den Lhamo, 451
+Saga dzong, [379](#379), [431](#431), [445](#445)–[451](#451); believed abode of deities, [451](#451); cult of Pal-den Lhamo, [451](#451)
 
-Saga Jo-chung, 445
+Saga Jo-chung, [445](#445)
 
-*Saksaul*, 186; camel food, 199 ff.
+*Saksaul*, [186](#186); camel food, [199](#199) ff.
 
-Sakyamuni, 14, 28, 153, 238, 411, 485
+Sakyamuni, [14](#14), [28](#28), [153](#153), [238](#238), [411](#411), [485](#485)
 
-Saline grounds, 210, 264, 267 ff., 465, 487
+Saline grounds, [210](#210), [264](#264), [267](#267) ff., [465](#465), [487](#487)
 
-Salt desert, Tsaidam, 265 ff.
+Salt desert, Tsaidam, [265](#265) ff.
 
-Salt lakes, Great Lake region, 405 ff., 415, 418, 435, 439, 453; Tibet, 285-286, 289; Tsaidam, 250, 265 ff.
+Salt lakes, Great Lake region, [405](#405) ff., [415](#415), [418](#418), [435](#435), [439](#439), [453](#453); Tibet, [285](#285)–[286](#286), [289](#289); Tsaidam, [250](#250), [265](#265) ff.
 
-Samantabhadra, 355
+Samantabhadra, [355](#355)
 
-*Samsaracakra*, 159
+*Samsaracakra*, [159](#159)
 
-Sandoling Monastery, 38
+Sandoling Monastery, [38](#38)
 
-Sandstorms, no, 201
+Sandstorms, no, [201](#201)
 
-Sangin Veterinary Station, 178
+Sangin Veterinary Station, [178](#178)
 
-Sang-jya jya-lam, 285
+Sang-jya jya-lam, [285](#285)
 
-Sanju Oasis, 51 ff.; the bazaar, 53-54
+Sanju Oasis, [51](#51) ff.; the bazaar, [53](#53)–[54](#54)
 
-Sarat Chandra Das, 357, 361
+Sarat Chandra Das, [357](#357), [361](#361)
 
-**501 INDEX**
+<a id="501">**501 INDEX**</a>
 
-Sa-skya Monastery, 408, 481
+Sa-skya Monastery, [408](#408), [481](#481)
 
-Saspola, 17
+Saspola, [17](#17)
 
-Sasser Pass, 39 £F.
+Sasser Pass, [39](#39) £F.
 
-Satar Khan, 8
+Satar Khan, [8](#8)
 
-Schmidt, I. J., 360
+Schmidt, I. J., [360](#360)
 
 Science, *see under* Mongolia
 
-Sculpture, combination with frescoes, 486. *See also* Clay statuettes, Stone images
+Sculpture, combination with frescoes, [486](#486). *See also* Clay statuettes, Stone images
 
-Scythian antiquities, 152, 367, 369
+Scythian antiquities, [152](#152), [367](#367), [369](#369)
 
-Sea gulls, 188
+Sea gulls, [188](#188)
 
-Sealdah, 3
+Sealdah, [3](#3)
 
-Selenga River, 130
+Selenga River, [130](#130)
 
-Seng-ge rnam-rgyal, 18, 24
+Seng-ge rnam-rgyal, [18](#18), [24](#24)
 
-Sepo La, 488-489
+Sepo La, [488](#488)–[489](#489)
 
-Sera Monastery, Lhasa, 147, 344, 366, 406
+Sera Monastery, Lhasa, [147](#147), [344](#344), [366](#366), [406](#406)
 
-Sesamum, 86
+Sesamum, [86](#86)
 
-Shab-den Monastery, Nag-chu, 287, 384, 388
+Shab-den Monastery, Nag-chu, [287](#287), [384](#384), [388](#388)
 
-Shala, 263
+Shala, [263](#263)
 
-Shalimar, 6
+Shalimar, [6](#6)
 
-Shamanism, 353 ff.
+Shamanism, [353](#353) ff.
 
-Shambhala, 156 ff., 195
+Shambhala, [156](#156) ff., [195](#195)
 
-Shang-shung language, 358; Range, 291, 308, 319, 323, 382, 385, 402
+Shang-shung language, [358](#358); Range, [291](#291), [308](#308), [319](#319), [323](#323), [382](#382), [385](#385), [402](#402)
 
-Sharada inscriptions, 10
+Sharada inscriptions, [10](#10)
 
-Shara-gol, flood of camp, 244-245
+Shara-gol, flood of camp, [244](#244)–[245](#245)
 
-Sharagolji, 237, 240, 242; camp at, 243 ff.; muster of militia, 252; visit of officials, 245 ff.; warning of attack at Elisu-daban Pass, 246-247, 274
+Sharagolji, [237](#237), [240](#240), [242](#242); camp at, [243](#243) ff.; muster of militia, [252](#252); visit of officials, [245](#245) ff.; warning of attack at Elisu-daban Pass, [246](#246)–[247](#247), [274](#274)
 
-Shara-khulusun Oasis, 204 ff.; haunt of big game and birds, 204; opium poppy, 205
+Shara-khulusun Oasis, [204](#204) ff.; haunt of big game and birds, [204](#204); opium poppy, [205](#205)
 
-Shar-go-lha, 12; cave monastery, 12
+Shar-go-lha, [12](#12); cave monastery, [12](#12)
 
-Shariputra, 485
+Shariputra, [485](#485)
 
-Sharugön Monastery, 306; camp at, 326 ff.; literature, 326 ff., 357; description, 361 ff., 375 ff.; departure from, 380-381
+Sharugön Monastery, [306](#306); camp at, [326](#326) ff.; literature, [326](#326) ff., [357](#357); description, [361](#361) ff., [375](#375) ff.; departure from, [380](#380)–[381](#381)
 
-Sharu La, 463
+Sharu La, [463](#463)
 
-Sheep, 253, 306, 337, 414, 453, 465
+Sheep, [253](#253), [306](#306), [337](#337), [414](#414), [453](#453), [465](#465)
 
-Shekar dzong, 477 ff.
+Shekar dzong, [477](#477) ff.
 
-Shel, 30
+Shel, [30](#30)
 
-Sheng-di, 285; custom outpost, 293, 386; population, 295 ff.
+Sheng-di, [285](#285); custom outpost, [293](#293), [386](#386); population, [295](#295) ff.
 
-Shen-rap mi-wo, 356 ff., 358, 363 ff.
+Shen-rap mi-wo, [356](#356) ff., [358](#358), [363](#363) ff.
 
-Shen-rap ton-pa, 362, 366
+Shen-rap ton-pa, [362](#362), [366](#366)
 
-Shentsa dzong, 417, 420 ff.
+Shentsa dzong, [417](#417), [420](#420) ff.
 
-Shigatse, 464; military station, 466; printing, 151, 167
+Shigatse, [464](#464); military station, [466](#466); printing, [151](#151), [167](#167)
 
-Shih-pao-ch'eng, Oasis, 218-219, 237 ff., 240, 250
+Shih-pao-ch'eng, Oasis, [218](#218)–[219](#219), [237](#237) ff., [240](#240), [250](#250)
 
-*Shi-ki* (Ssi-ma ts'ien), 368
+*Shi-ki* (Ssi-ma ts'ien), [368](#368)
 
-Shrine Kum-rabat, dedicated to sacred rats, 82
+Shrine Kum-rabat, dedicated to sacred rats, [82](#82)
 
-Shrines, to pigeons, 82-83; to sacred rats, 82. *See also* Cave shrines
+Shrines, to pigeons, [82](#82)–[83](#83); to sacred rats, [82](#82). *See also* Cave shrines
 
-Siberian antiquities, 367-369
+Siberian antiquities, [367](#367)–[369](#369)
 
-Sikkim, xii; arrival of expedition at, 489-490
+Sikkim, xii; arrival of expedition at, [489](#489)–[490](#490)
 
-Silk factories, 63
+Silk factories, [63](#63)
 
-Silver cups and offering lamps, 343, 365, 411, 485; ornaments, 379
+Silver cups and offering lamps, [343](#343), [365](#365), [411](#411), [485](#485); ornaments, [379](#379)
 
-Singers, traveling, 424
+Singers, traveling, [424](#424)
 
-Sining, 245, 249, 269; horses, 237, 252; officials at expedition camp, 245-246
+Sining, [245](#245), [249](#249), [269](#269); horses, [237](#237), [252](#252); officials at expedition camp, [245](#245)–[246](#246)
 
-Sino-Tibetan architecture, 158, 384; border troubles, 121, 247, 267, 275, 305, 339, 352, 377; pharmacopoeia, 292
+Sino-Tibetan architecture, [158](#158), [384](#384); border troubles, [121](#121), [247](#247), [267](#267), [275](#275), [305](#305), [339](#339), [352](#352), [377](#377); pharmacopoeia, [292](#292)
 
-*Sitatapatraparajita*, 364
+*Sitatapatraparajita*, [364](#364)
 
-Slavery, 64
+Slavery, [64](#64)
 
-Sling, used in catching horses, 351
+Sling, used in catching horses, [351](#351)
 
-Snipes, 47
+Snipes, [47](#47)
 
-Snow cocks, 426
+Snow cocks, [426](#426)
 
-Sobra Wanganu, 6
+Sobra Wanganu, [6](#6)
 
-Sod castle, 11, 12
+Sod castle, [11](#11), [12](#12)
 
-Soghdian inscriptions, 28
+Soghdian inscriptions, [28](#28)
 
-Sö-nam Thop-jyel, 301, 305 ff.
+Sö-nam Thop-jyel, [301](#301), [305](#305) ff.
 
-Sonamarg, 8
+Sonamarg, [8](#8)
 
-Songs, 23, 37, 88, 157, 161, 234, 345, 357, 361, 474, 475
+Songs, [23](#23), [37](#37), [88](#88), [157](#157), [161](#161), [234](#234), [345](#345), [357](#357), [361](#361), [474](#474), [475](#475)
 
-South Russia, nomad culture, 123, 367, 369
+South Russia, nomad culture, [123](#123), [367](#367), [369](#369)
 
-*Southern Tibet* (Hedin), 335
+*Southern Tibet* (Hedin), [335](#335)
 
-Spi-thug, 18-19
+Spi-thug, [18](#18)–[19](#19)
 
-Spongy stones, 263
+Spongy stones, [263](#263)
 
 Springs, *see* Hot Springs
 
-Spyan-ras-gzigs Thugs-rje-chen-po, 15. *See also* Avalokitesvara
+Spyan-ras-gzigs Thugs-rje-chen-po, [15](#15). *See also* Avalokitesvara
 
 Srinagar, [4-5](#4)
 
-Srong-btsan-sgam-po, 12, 353, 360
+Srong-btsan-sgam-po, [12](#12), [353](#353), [360](#360)
 
-Ssi-ma ts'ien, 368
+Ssi-ma ts'ien, [368](#368)
 
-sTag-rtse, 15
+sTag-rtse, [15](#15)
 
-Stag *motif* in animal style, 369
+Stag *motif* in animal style, [369](#369)
 
-Stairway, Ja Lama's castle, 212; Leh Palace, 24
+Stairway, Ja Lama's castle, [212](#212); Leh Palace, [24](#24)
 
-Stein, Sir Aurel, 6, 51, 57, 61, 62, 66, 91, 99, 152, 169, 218, 358; quotation from, 190
+Stein, Sir Aurel, [6](#6), [51](#51), [57](#57), [61](#61), [62](#62), [66](#66), [91](#91), [99](#99), [152](#152), [169](#169), [218](#218), [358](#358); quotation from, [190](#190)
 
-Stone altars, 355, 411, 415, 440, 441, 444; carvings, 11-12; images, 9, 10, 23, 28, 30, 38, 181, 217 ff., 355, 415; inscriptions, 13, 14, 30, 51, 52, 96; thrones, 241, 261 ff., 265, 287. *See also* Architecture, Cairns, Inscriptions
+Stone altars, [355](#355), [411](#411), [415](#415), [440](#440), [441](#441), [444](#444); carvings, [11](#11)–[12](#12); images, [9](#9), [10](#10), [23](#23), [28](#28), [30](#30), [38](#38), [181](#181), [217](#217) ff., [355](#355), [415](#415); inscriptions, [13](#13), [14](#14), [30](#30), [51](#51), [52](#52), [96](#96); thrones, [241](#241), [261](#261) ff., [265](#265), [287](#287). *See also* Architecture, Cairns, Inscriptions
 
-Storehouses, conical stone huts at Ratri, 417
+Storehouses, conical stone huts at Ratri, [417](#417)
 
-Storms, 110, 194, 201, 287, 404, 415, 420-421, 423-425
+Storms, [110](#110), [194](#194), [201](#201), [287](#287), [404](#404), [415](#415), [420](#420)–[421](#421), [423](#423)–[425](#425)
 
-Stucco figures on Buddhist *stupas*, 28; heads of Buddha, 63
+Stucco figures on Buddhist *stupas*, [28](#28); heads of Buddha, [63](#63)
 
-*Stupas*, 12, 25, 28; replaced by *mazars* in Chinese Turkestan, 48, 131, 210, 307;
+*Stupas*, [12](#12), [25](#25), [28](#28); replaced by *mazars* in Chinese Turkestan, [48](#48), [131](#131), [210](#210), [307](#307);
 
-Sharugön, 362; Tibetan uplands, 456, 461, 467, 481, 485
+Sharugön, [362](#362); Tibetan uplands, [456](#456), [461](#461), [467](#467), [481](#481), [485](#485)
 
-Suget Pass, 45 ff.
+Suget Pass, [45](#45) ff.
 
-Sulphur springs, 291
+Sulphur springs, [291](#291)
 
-Supplies, cost of, 264-265, 310, 329, 380, 381, 387, 397, 412, 452, 484
+Supplies, cost of, [264](#264)–[265](#265), [310](#310), [329](#329), [380](#380), [381](#381), [387](#387), [397](#397), [412](#412), [452](#452), [484](#484)
 
-**502 TRAILS TO INMOST ASIA**
+<a id="502">**502 TRAILS TO INMOST ASIA**</a>
 
-Svastika, 11, 16, 353, 356, 358. *See also* Bön
+Svastika, [11](#11), [16](#16), [353](#353), [356](#356), [358](#358). *See also* Bön
 
 Sven Hedin. *See under* Hedin
 
-Swan *motif* in animal style, 369, 370; on *stupas*, 28
+Swan *motif* in animal style, [369](#369), [370](#370); on *stupas*, [28](#28)
 
 Swastika. *See* Svastika
 
-Swedish Mission, Kashgar, 38, 72; Yarkend, 83, 87
+Swedish Mission, Kashgar, [38](#38), [72](#72); Yarkend, [83](#83), [87](#87)
 
-Swords, Tibetan, 285, 349 ff., 350, 368, 390, 411, 413
+Swords, Tibetan, [285](#285), [349](#349) ff., [350](#350), [368](#368), [390](#390), [411](#411), [413](#413)
 
-Taklamakan Desert, 51, 54 ff.; quotation from Stein, 190
+Taklamakan Desert, [51](#51), [54](#54) ff.; quotation from Stein, [190](#190)
 
 Ta-khu-re. *See* Urga
 
-Ta Lamas, 224
+Ta Lamas, [224](#224)
 
-Talismans, 23, 436, 456. *See also* Charm boxes
+Talismans, [23](#23), [436](#436), [456](#456). *See also* Charm boxes
 
-Talko-Grincevich, Dr., 152
+Talko-Grincevich, Dr., [152](#152)
 
-Tamarisks, 96, 263
+Tamarisks, [96](#96), [263](#263)
 
-Tambour, 101
+Tambour, [101](#101)
 
-Tambourines, in Tantric services, 147; theatrical performances, 84, 85
+Tambourines, in Tantric services, [147](#147); theatrical performances, [84](#84), [85](#85)
 
-T'ang sculptors, 103
+T'ang sculptors, [103](#103)
 
-T'ang, 84
+T'ang, [84](#84)
 
-*Tänjür*, 150. *See also Känjür*
+*Tänjür*, [150](#150). *See also Känjür*
 
-*Tantras of the Cods of the Sun of Wisdom*, 354
+*Tantras of the Cods of the Sun of Wisdom*, [354](#354)
 
-Tantric Buddhism, 147, 155 ff., 306, 355, 485; lamas, 310, 320, 349
+Tantric Buddhism, [147](#147), [155](#155) ff., [306](#306), [355](#355), [485](#485); lamas, [310](#310), [320](#320), [349](#349)
 
-Tao, Mr. M. Y., 89, 91
+Tao, Mr. M. Y., [89](#89), [91](#91)
 
-Tara, 14, 24, 147, 238, 363-364. 411, 485; images, 24, 238, 411; paintings, 363-364, 485
+Tara, [14](#14), [24](#24), [147](#147), [238](#238), [363](#363)–[364](#364). [411](#411), [485](#485); images, [24](#24), [238](#238), [411](#411); paintings, [363](#363)–[364](#364), [485](#485)
 
-Tarbagatai, 124
+Tarbagatai, [124](#124)
 
-Tarkö garpön, 432 ff.
+Tarkö garpön, [432](#432) ff.
 
-Tarkö kangri, 427, 430
+Tarkö kangri, [427](#427), [430](#430)
 
-Tarsa, 29
+Tarsa, [29](#29)
 
-Ta-sang La, 333, 381-382
+Ta-sang La, [333](#333), [381](#381)–[382](#382)
 
-Tashi-chombü, 484, 485
+Tashi-chombü, [484](#484), [485](#485)
 
-Tashi-gang, 482
+Tashi-gang, [482](#482)
 
-Tashi Lama, 156 ff., 159, 315, 366, 410, 415, 462; mourned by population, 468; private rooms at Shab-den Monastery, Nag-chu, 384
+Tashi Lama, [156](#156) ff., [159](#159), [315](#315), [366](#366), [410](#410), [415](#415), [462](#462); mourned by population, [468](#468); private rooms at Shab-den Monastery, Nag-chu, [384](#384)
 
-Tashi-lhun-po, center of Kalacakra doctrine, 156, 473; guards in Great Lake region, 414; *Känjür* and *Tänjür*, 317; sacked by Gurkha troops, 464; traders, 453
+Tashi-lhun-po, center of Kalacakra doctrine, [156](#156), [473](#473); guards in Great Lake region, [414](#414); *Känjür* and *Tänjür*, [317](#317); sacked by Gurkha troops, [464](#464); traders, [453](#453)
 
-Tathagatas, 159, 485
+Tathagatas, [159](#159), [485](#485)
 
-Taxes, 339, 410, 449, 450, 468, 477-478
+Taxes, [339](#339), [410](#410), [449](#449), [450](#450), [468](#468), [477](#477)–[478](#478)
 
-Teals, 429, 472
+Teals, [429](#429), [472](#472)
 
-Teichman Mission, 377
+Teichman Mission, [377](#377)
 
-Teijiner Mongols, 249, 250, 263, 266, 268; agriculture, 254, 269; Golok raids, 238
+Teijiner Mongols, [249](#249), [250](#250), [263](#263), [266](#266), [268](#268); agriculture, [254](#254), [269](#269); Golok raids, [238](#238)
 
-Temur Bai, 88
+Temur Bai, [88](#88)
 
 Ten-pei Jal-tsen. *See* Ja Lama
 
-Tents, Canadian, 173; Chinese, 173; Kirghiz, 50; Kurluk, 254-255; lama, 162; Mongol, 137, 162, 174; nomad, 342 ff.; Tibetan (Hor), 299, 342 ff.; Tsaidam, 238, 254, 343; Willesden, 5
+Tents, Canadian, [173](#173); Chinese, [173](#173); Kirghiz, [50](#50); Kurluk, [254](#254)–[255](#255); lama, [162](#162); Mongol, [137](#137), [162](#162), [174](#174); nomad, [342](#342) ff.; Tibetan (Hor), [299](#299), [342](#342) ff.; Tsaidam, [238](#238), [254](#254), [343](#343); Willesden, [5](#5)
 
-Teri-namtsho. *See* Ting-ri lam-tsho, 435
+Teri-namtsho. *See* Ting-ri lam-tsho, [435](#435)
 
-Terra cotta figurines, 62
+Terra cotta figurines, [62](#62)
 
-Teu-gser-po, 29
+Teu-gser-po, [29](#29)
 
-Textiles, in animal style, 152, 368
+Textiles, in animal style, [152](#152), [368](#368)
 
 Thang-kas, *See* Banners
 
-Thang La, approach of, 284 ff.; ascent, 290 ff.; ceremony on summit, 291; eastern offshoots not yet crossed by Americans or Europeans, 334, 335, 338, 340, 346 ff., 383, 385
+Thang La, approach of, [284](#284) ff.; ascent, [290](#290) ff.; ceremony on summit, [291](#291); eastern offshoots not yet crossed by Americans or Europeans, [334](#334), [335](#335), [338](#338), [340](#340), [346](#346) ff., [383](#383), [385](#385)
 
-Theatrical entertainments, 84, 85
+Theatrical entertainments, [84](#84), [85](#85)
 
 Third Central Asiatic Expedition. *See* American Museum of Natural History
 
-Thog-lde-jo, 13
+Thog-lde-jo, [13](#13)
 
-Thousand Buddhas, caves of, 218
+Thousand Buddhas, caves of, [218](#218)
 
-Thrones, 19, 161. *See also* Stone thrones
+Thrones, [19](#19), [161](#161). *See also* Stone thrones
 
-Thse-dbang rnam-rgyal, 18
+Thse-dbang rnam-rgyal, [18](#18)
 
 Tibet, *See also* Ladak
 
 Tibetan mastiff. *See* Tumbal
 
-Tibetan uplands. Chap, xiv ff.; administration, 184, 297, 309, 312, 336 ff., 348, 377-378, 386, 397, 409, 410, 413, 420-421, 434, 449, 451-452, 458, 463, 466, 468, 469, 473, 477-478; architecture, 139, 417, 421, 456, 459-460, 462, 465, 484-485; art, 355, 357, 362 ff., 368-369, 398, 418, 476, 485 ff.; cattle-breeding and agriculture, 290, 292-293, 308, 337 ff., 351, 380, 405 ff., 421, 424, 434, 451, 453, 457-458, 468, 472, 478; climate and topography, 277, 282 ff., 291-292, 321, 380, 382 ff., 388, 404, 405, 409, 414 ff., 420, 427 ff., 431, 435 ff., 453 ff., 465, 476, 484; customs, dress, and language, 249, 295, 305-306, 325, 344, 346, 358, 380, 413, 416 ff., 432 ff., 441, 451, 454, 456, 460, 462, 467, 475, 478; dogs, 309, 324, 342, 421, 453, 478; fairs, 287; fauna, 282, 284, 286, 407, 414, 418, 426, 429, 432; ferries, 453, 462; hermits, 474 ff.; history, 99-100, 248, 251, 335; Kesar Saga, 345 ff., 350, 360; lamas, 283, 316, 335, 474 ff.; literature and printing, 63, 147, 151, 167, 316, 317; medicine, 155; megalithic monuments, 355, 415 ff., 440 ff., 451; militia, 285 ff., 292 ff., 316, 349, 352-353, 376, 386, 449, 466, 470-471; roads, 427; silverware, 343; *stupas* and *mani*-walls, 414, 427, 461, 485; swords, 285, 349 ff., 360, 368, 390, 411 ; trade, 144 ff., 167 ff., 310, 339, 453; trumpets, 300, 474. *See also* Chang-pas, Goloks, Great Lakes region, Hor-pas, Lhasa, Trans-Himalayas
+Tibetan uplands. Chap, xiv ff.; administration, [184](#184), [297](#297), [309](#309), [312](#312), [336](#336) ff., [348](#348), [377](#377)–[378](#378), [386](#386), [397](#397), [409](#409), [410](#410), [413](#413), [420](#420)–[421](#421), [434](#434), [449](#449), [451](#451)–[452](#452), [458](#458), [463](#463), [466](#466), [468](#468), [469](#469), [473](#473), [477](#477)–[478](#478); architecture, [139](#139), [417](#417), [421](#421), [456](#456), [459](#459)–[460](#460), [462](#462), [465](#465), [484](#484)–[485](#485); art, [355](#355), [357](#357), [362](#362) ff., [368](#368)–[369](#369), [398](#398), [418](#418), [476](#476), [485](#485) ff.; cattle-breeding and agriculture, [290](#290), [292](#292)–[293](#293), [308](#308), [337](#337) ff., [351](#351), [380](#380), [405](#405) ff., [421](#421), [424](#424), [434](#434), [451](#451), [453](#453), [457](#457)–[458](#458), [468](#468), [472](#472), [478](#478); climate and topography, [277](#277), [282](#282) ff., [291](#291)–[292](#292), [321](#321), [380](#380), [382](#382) ff., [388](#388), [404](#404), [405](#405), [409](#409), [414](#414) ff., [420](#420), [427](#427) ff., [431](#431), [435](#435) ff., [453](#453) ff., [465](#465), [476](#476), [484](#484); customs, dress, and language, [249](#249), [295](#295), [305](#305)–[306](#306), [325](#325), [344](#344), [346](#346), [358](#358), [380](#380), [413](#413), [416](#416) ff., [432](#432) ff., [441](#441), [451](#451), [454](#454), [456](#456), [460](#460), [462](#462), [467](#467), [475](#475), [478](#478); dogs, [309](#309), [324](#324), [342](#342), [421](#421), [453](#453), [478](#478); fairs, [287](#287); fauna, [282](#282), [284](#284), [286](#286), [407](#407), [414](#414), [418](#418), [426](#426), [429](#429), [432](#432); ferries, [453](#453), [462](#462); hermits, [474](#474) ff.; history, [99](#99)–[100](#100), [248](#248), [251](#251), [335](#335); Kesar Saga, [345](#345) ff., [350](#350), [360](#360); lamas, [283](#283), [316](#316), [335](#335), [474](#474) ff.; literature and printing, [63](#63), [147](#147), [151](#151), [167](#167), [316](#316), [317](#317); medicine, [155](#155); megalithic monuments, [355](#355), [415](#415) ff., [440](#440) ff., [451](#451); militia, [285](#285) ff., [292](#292) ff., [316](#316), [349](#349), [352](#352)–[353](#353), [376](#376), [386](#386), [449](#449), [466](#466), [470](#470)–[471](#471); roads, [427](#427); silverware, [343](#343); *stupas* and *mani*-walls, [414](#414), [427](#427), [461](#461), [485](#485); swords, [285](#285), [349](#349) ff., [360](#360), [368](#368), [390](#390), [411](#411) ; trade, [144](#144) ff., [167](#167) ff., [310](#310), [339](#339), [453](#453); trumpets, [300](#300), [474](#474). *See also* Chang-pas, Goloks, Great Lakes region, Hor-pas, Lhasa, Trans-Himalayas
 
-**503 INDEX**
+<a id="503">**503 INDEX**</a>
 
-Tibetans in Urga, 145
+Tibetans in Urga, [145](#145)
 
-Tien Shan Mountains, archaeological possibilities, 123 ff.; nomad migrations, 122
+Tien Shan Mountains, archaeological possibilities, [123](#123) ff.; nomad migrations, [122](#122)
 
-T'ientsin, 253, 264
+T'ientsin, [253](#253), [264](#264)
 
-Tik-tse Monastery, 30
+Tik-tse Monastery, [30](#30)
 
-Tinder and flint pouches, animal style, 368, 369
+Tinder and flint pouches, animal style, [368](#368), [369](#369)
 
-Tingri, 463, 466 ff.
+Tingri, [463](#463), [466](#466) ff.
 
-Ting-ri lam-tsho, 435
+Ting-ri lam-tsho, [435](#435)
 
-Ti-srong de'ut sen, 353
+Ti-srong de'ut sen, [353](#353)
 
-Tobacco, 86, 241
+Tobacco, [86](#86), [241](#241)
 
-Toghrak-dong, cave shrines, 97
+Toghrak-dong, cave shrines, [97](#97)
 
-Toïn Lama, believed reincarnation of Lama Sengchen Dorjechang, 106-107; headquarters, 104-105; history, 103 ff.; progressive attitude, 104-105. *See also* under Torguts
+Toïn Lama, believed reincarnation of Lama Sengchen Dorjechang, [106](#106)–[107](#107); headquarters, [104](#104)–[105](#105); history, [103](#103) ff.; progressive attitude, [104](#104)–[105](#105). *See also* under Torguts
 
-Tokharian manuscripts, 97
+Tokharian manuscripts, [97](#97)
 
-Tola River, 133 ff., 141, 155, 178-179
+Tola River, [133](#133) ff., [141](#141), [155](#155), [178](#178)–[179](#179)
 
-Torguts, 64, 102 ff.; Toïn Lama, 103 ff., 107-108, 227, 234, 274, 314
+Torguts, [64](#64), [102](#102) ff.; Toïn Lama, [103](#103) ff., [107](#107)–[108](#108), [227](#227), [234](#234), [274](#274), [314](#314)
 
-*Torma*, 392-393
+*Torma*, [392](#392)–[393](#393)
 
-Tornquist, Miss, 490
+Tornquist, Miss, [490](#490)
 
-Transbaikalia, Geese Lake Monastery, 129; residence of Buriat Pandita *khan-po*, 129; printing establishments, 129, 148
+Transbaikalia, Geese Lake Monastery, [129](#129); residence of Buriat Pandita *khan-po*, [129](#129); printing establishments, [129](#129), [148](#148)
 
-Trans-Himalayas, 30, 281, 291, 405; crossing of, 420 ff., 429, 455, 463; fauna, 453; food shortage, 450; graves, 30, 417; moraines, 417, 423, 452; mountain system, 438 ff.; peaks, 168, 441, 445, 456, 463, 465, 474, 484; pilgrims, 452; population, 382, 385, 404, 424-425, 427-428, 433-434, 435, 442, 454, 458, 460-461, 469; salt lakes, 405 ff.
+Trans-Himalayas, [30](#30), [281](#281), [291](#291), [405](#405); crossing of, [420](#420) ff., [429](#429), [455](#455), [463](#463); fauna, [453](#453); food shortage, [450](#450); graves, [30](#30), [417](#417); moraines, [417](#417), [423](#423), [452](#452); mountain system, [438](#438) ff.; peaks, [168](#168), [441](#441), [445](#445), [456](#456), [463](#463), [465](#465), [474](#474), [484](#484); pilgrims, [452](#452); population, [382](#382), [385](#385), [404](#404), [424](#424)–[425](#425), [427](#427)–[428](#428), [433](#433)–[434](#434), [435](#435), [442](#442), [454](#454), [458](#458), [460](#460)–[461](#461), [469](#469); salt lakes, [405](#405) ff.
 
-Traveling medicine men, 101; musicians, 88; theatrical companies, 84, 85
+Traveling medicine men, [101](#101); musicians, [88](#88); theatrical companies, [84](#84), [85](#85)
 
-Tree *motifs* in animal style, 369, 370-371
+Tree *motifs* in animal style, [369](#369), [370](#370)–[371](#371)
 
-Treichman, Eric, 388
+Treichman, Eric, [388](#388)
 
-*Tripitaka*, 138, 357, 388
+*Tripitaka*, [138](#138), [357](#357), [388](#388)
 
-Trumpets, 300, 474
+Trumpets, [300](#300), [474](#474)
 
-Tsagan Chuluta, 216
+Tsagan Chuluta, [216](#216)
 
-Tsagan Khoda, 284
+Tsagan Khoda, [284](#284)
 
-Tsagan Mongols, 231
+Tsagan Mongols, [231](#231)
 
-Tsagan Tologoi, 189; Ja Lama, 233
+Tsagan Tologoi, [189](#189); Ja Lama, [233](#233)
 
-Ts'ai ssu-yeh, 54, 55, 70, 82, 92, 305
+Ts'ai ssu-yeh, [54](#54), [55](#55), [70](#70), [82](#82), [92](#92), [305](#305)
 
-Tsaidam, administration and history, 247 ff., 263; cattle-breeding, 252-253; fauna, 253, 257; Golok attacks, 268-269; mountain passes, 261-262; population, 239, 249-250, 255-256; salt desert, 265 f.; salt lakes, 250, 265 ff.; trade, 251 ff.; vegetation, 263-264, 267
+Tsaidam, administration and history, [247](#247) ff., [263](#263); cattle-breeding, [252](#252)–[253](#253); fauna, [253](#253), [257](#257); Golok attacks, [268](#268)–[269](#269); mountain passes, [261](#261)–[262](#262); population, [239](#239), [249](#249)–[250](#250), [255](#255)–[256](#256); salt desert, [265](#265) f.; salt lakes, [250](#250), [265](#265) ff.; trade, [251](#251) ff.; vegetation, [263](#263)–[264](#264), [267](#267)
 
-Tsaidam-in baishin, 264
+Tsaidam-in baishin, [264](#264)
 
-*Tsam-pa*, parched barley flour, 38; Tibetan national meal, 341. *See also* Barley
+*Tsam-pa*, parched barley flour, [38](#38); Tibetan national meal, [341](#341). *See also* Barley
 
-Tsang, Province of, 468, 473; Spiritual Ruler, 257
+Tsang, Province of, [468](#468), [473](#473); Spiritual Ruler, [257](#257)
 
-Tsang-po, at Yaru, 453 ff., 460; ferries, 462
+Tsang-po, at Yaru, [453](#453) ff., [460](#460); ferries, [462](#462)
 
-Tse-mar (Hor-pa tribe), 336
+Tse-mar (Hor-pa tribe), [336](#336)
 
-*Tshan-nyid*, definition, study of higher metaphysics, 135
+*Tshan-nyid*, definition, study of higher metaphysics, [135](#135)
 
-Tshe-ring-ma, 476
+Tshe-ring-ma, [476](#476)
 
-Tsong-kha-pa, 19, 147, 153, 238, 255, 365, 485
+Tsong-kha-pa, [19](#19), [147](#147), [153](#153), [238](#238), [255](#255), [365](#365), [485](#485)
 
-Tsuk-chung, 442 ff.
+Tsuk-chung, [442](#442) ff.
 
-Tsybikoff, G., 239, 271-272
+Tsybikoff, G., [239](#239), [271](#271)–[272](#272)
 
-Tukhumun Dugan, 180
+Tukhumun Dugan, [180](#180)
 
-Tumbal, 57, 74
+Tumbal, [57](#57), [74](#74)
 
-Tumuli, of Mongolian steppe, 184. *See also*, Barrows, Graves, *Mazars*, *Stupas*
+Tumuli, of Mongolian steppe, [184](#184). *See also*, Barrows, Graves, *Mazars*, *Stupas*
 
-*Tum-mo*, 474 ff.
+*Tum-mo*, [474](#474) ff.
 
-Tungans, 96, 115, 121, 124, 392
+Tungans, [96](#96), [115](#115), [121](#121), [124](#124), [392](#392)
 
-Turfan, 99-100
+Turfan, [99](#99)–[100](#100)
 
-Turkestan felts, 22; grapes, 293
+Turkestan felts, [22](#22); grapes, [293](#293)
 
-Turkis, 22, 23, 88, 360
+Turkis, [22](#22), [23](#23), [88](#88), [360](#360)
 
-Turkish tribes, 360
+Turkish tribes, [360](#360)
 
-Turpans, 183, 188, 204
+Turpans, [183](#183), [188](#188), [204](#204)
 
-Turquoise, 256, 348-349, 417, 460
+Turquoise, [256](#256), [348](#348)–[349](#349), [417](#417), [460](#460)
 
-Turu-baihu, 248
+Turu-baihu, [248](#248)
 
 Tushe-Gun Lama. *See* Ja Lama
 
-*Tuya* bushes, 203
+*Tuya* bushes, [203](#203)
 
-Two-headed eagle *motif*, animal style, 369, 418
+Two-headed eagle *motif*, animal style, [369](#369), [418](#418)
 
-Uch-Turfan, 68 ff.
+Uch-Turfan, [68](#68) ff.
 
-Udumbara flower, 363
+Udumbara flower, [363](#363)
 
-Üdzen-Wang, 182-183
+Üdzen-Wang, [182](#182)–[183](#183)
 
-Uighur art, 98, 99
+Uighur art, [98](#98), [99](#99)
 
 Ulan Bator Khoto, *see* Urga
 
-Uliassutai, captured by Ja Lama, 227; his head displayed in square, 233
+Uliassutai, captured by Ja Lama, [227](#227); his head displayed in square, [233](#233)
 
-Ündür-Gegen, 153
+Ündür-Gegen, [153](#153)
 
 Uplands of Tibet, *see* Tibetan uplands
 
-Urga, Mongolia, 134, 178; administration, 136 ff.; Bogdo ula, 134; dog packs, 141 ff.; electric light, 138.; Ganden Monastery, 107, 160; history, 134-137, 227 ff., 232; Ikhe-küren, 153 fF. Maidari procession, 136, 163; Mañjushri-kit monastery, 135, 163; national and state institutions, 139-142, 149 ff., 163; population, 136 ff., 145 ff.; sanitation, 141; trade, 140 ff.
+Urga, Mongolia, [134](#134), [178](#178); administration, [136](#136) ff.; Bogdo ula, [134](#134); dog packs, [141](#141) ff.; electric light, [138](#138).; Ganden Monastery, [107](#107), [160](#160); history, [134](#134)–[137](#137), [227](#227) ff., [232](#232); Ikhe-küren, [153](#153) fF. Maidari procession, [136](#136), [163](#163); Mañjushri-kit monastery, [135](#135), [163](#163); national and state institutions, [139](#139)–[142](#142), [149](#149) ff., [163](#163); population, [136](#136) ff., [145](#145) ff.; sanitation, [141](#141); trade, [140](#140) ff.
 
-Urumchi, Hsin-chiang, 115-122
+Urumchi, Hsin-chiang, [115](#115)–[122](#122)
 
-Utsh-Murghan, 54
+Utsh-Murghan, [54](#54)
 
-Vajradhara, 364
+Vajradhara, [364](#364)
 
-Vajrakila, 364
+Vajrakila, [364](#364)
 
-Vajrayana, 355
+Vajrayana, [355](#355)
 
-Van Manen, Dr. J., xiii, 354 ff., 364
+Van Manen, Dr. J., xiii, [354](#354) ff., [364](#364)
 
-Vase, Buddhist symbol, 28 ff.
+Vase, Buddhist symbol, [28](#28) ff.
 
-Veterinary Station, Sangin, 178
+Veterinary Station, Sangin, [178](#178)
 
-**504 TRAILS TO INMOST ASIA**
+<a id="504">**504 TRAILS TO INMOST ASIA**</a>
 
-Vikramashila, 156
+Vikramashila, [156](#156)
 
-Volcanic activities, 476
+Volcanic activities, [476](#476)
 
-Von Sternberg, Baron Ungern, 230, 232
+Von Sternberg, Baron Ungern, [230](#230), [232](#232)
 
-Vultures, 204, 380 ff.
+Vultures, [204](#204), [380](#380) ff.
 
-Vulur Lake, 6
+Vulur Lake, [6](#6)
 
-Wahaba Wanganu, 7
+Wahaba Wanganu, [7](#7)
 
 Wall paintings, *see* Frescoes
 
-Walls, 428, 487. *See also Mani*-
+Walls, [428](#428), [487](#487). *See also Mani*-
 
-Wang-po, 353, 425, 428
+Wang-po, [353](#353), [425](#425), [428](#428)
 
-Watermelons, 52, 53, 65
+Watermelons, [52](#52), [53](#53), [65](#65)
 
-Wazir Södnam, 13, 14
+Wazir Södnam, [13](#13), [14](#14)
 
-Weapons, 87, 158, 251, 340, 349 ff., 386, 433; private collections, 379, 411. *See also* under Swords
+Weapons, [87](#87), [158](#158), [251](#251), [340](#340), [349](#349) ff., [386](#386), [433](#433); private collections, [379](#379), [411](#411). *See also* under Swords
 
-*Weideplatze der Mongolen*, Vol. II (Consten), 228
+*Weideplatze der Mongolen*, Vol. II (Consten), [228](#228)
 
-Wheat, 65, 86
+Wheat, [65](#65), [86](#86)
 
-Wheel of Law, 157 ff., 192; of Life, 159 ff.; of Time, 156 ff., 364, 485. *See also* Prayer wheels
+Wheel of Law, [157](#157) ff., [192](#192); of Life, [159](#159) ff.; of Time, [156](#156) ff., [364](#364), [485](#485). *See also* Prayer wheels
 
-White camels, 200
+White camels, [200](#200)
 
-White Mongols, 231
+White Mongols, [231](#231)
 
 Willesden tents, [5](#5)
 
-Willows, 11, 50 ff., 482
+Willows, [11](#11), [50](#50) ff., [482](#482)
 
 Windstorms, *see* Storms
 
 Wines, *see* *Äräki* Barley, Chang
 
-Wolves, 43, 183, 204, 253, 254, 309
+Wolves, [43](#43), [183](#183), [204](#204), [253](#253), [254](#254), [309](#309)
 
-Wood carvings, 17, 30, 85, 180
+Wood carvings, [17](#17), [30](#30), [85](#85), [180](#180)
 
-Wu-k'ung, 9
+Wu-k'ung, [9](#9)
 
-Wu-t'ai Shan, 147, 255; worship of Panchen Lama, 313
+Wu-t'ai Shan, [147](#147), [255](#255); worship of Panchen Lama, [313](#313)
 
-Yak breeding and products, 288, 293, 306, 337-338, 347, 351, 392, 425; in caravan, 38, 292, 298, 380, 405; herds, 281, 283-284, 308, 423, 425, 439; horns and tail on religious edifices, 49, 362, 366; hunting, 273, 276; sprinkling of milk, 35
+Yak breeding and products, [288](#288), [293](#293), [306](#306), [337](#337)–[338](#338), [347](#347), [351](#351), [392](#392), [425](#425); in caravan, [38](#38), [292](#292), [298](#298), [380](#380), [405](#405); herds, [281](#281), [283](#283)–[284](#284), [308](#308), [423](#423), [425](#425), [439](#439); horns and tail on religious edifices, [49](#49), [362](#362), [366](#366); hunting, [273](#273), [276](#276); sprinkling of milk, [35](#35)
 
-Yakub Beg, 62, 83, 88
+Yakub Beg, [62](#62), [83](#83), [88](#88)
 
-Yamantaka, 411, 485
+Yamantaka, [411](#411), [485](#485)
 
-Yang-lde-jo, 13
+Yang-lde-jo, [13](#13)
 
-Yang Tseng-hsin, 67, 89, 106; meeting with 117 ff., 121; policies, 118; statue in own honor, 121
+Yang Tseng-hsin, [67](#67), [89](#89), [106](#106); meeting with [117](#117) ff., [121](#121); policies, [118](#118); statue in own honor, [121](#121)
 
 Yang-tze, *see* Dri-chu
 
-Yangi-shahr, 63
+Yangi-shahr, [63](#63)
 
-Yanju, 456-457
+Yanju, [456](#456)–[457](#457)
 
-Yarkend, chief *entrepot* of Indian and A 1 trade, 86; felts, 22; horses, 86; progressive interests, 87; Swedish mission, 87
+Yarkend, chief *entrepot* of Indian and A [1](#1) trade, [86](#86); felts, [22](#22); horses, [86](#86); progressive interests, [87](#87); Swedish mission, [87](#87)
 
-Yarkend darya, 86
+Yarkend darya, [86](#86)
 
-Yellow Faith (Gelük-pa), 248, 255, 349, 359, 392 ff. (New Year); Yellow Hat Monasteries, 18-19, 27, 30, 477 ff., 484-485
+Yellow Faith (Gelük-pa), [248](#248), [255](#255), [349](#349), [359](#359), [392](#392) ff. (New Year); Yellow Hat Monasteries, [18](#18)–[19](#19), [27](#27), [30](#30), [477](#477) ff., [484](#484)–[485](#485)
 
-Yetts, Percival, 371
+Yetts, Percival, [371](#371)
 
-*Yi-dam*, titular deity, 147
+*Yi-dam*, titular deity, [147](#147)
 
-Yotkan, 71
+Yotkan, [71](#71)
 
-Yuan-shih k'ai, 248
+Yuan-shih k'ai, [248](#248)
 
-Yum-beise küren, 189-195; route, 190
+Yum-beise küren, [189](#189)–[195](#195); route, [190](#190)
 
-Yurta *motif* in building, 139, 150
+Yurta *motif* in building, [139](#139), [150](#150)
 
-Zangskar Monastery, 19, 27; ponies, [5](#5)
+Zangskar Monastery, [19](#19), [27](#27); ponies, [5](#5)
 
-Zawa Kurghan, 56
+Zawa Kurghan, [56](#56)
 
-*Zi*-beads, 460
+*Zi*-beads, [460](#460)
 
-Zoji Pass, 7 ff.
+Zoji Pass, [7](#7) ff.
 
 ![623-map-1.jpg](602-map-1.jpg)
 
