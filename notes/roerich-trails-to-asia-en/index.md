@@ -14,18 +14,22 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-Original source:
-
-> Roerich, N. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
-
 Turns out there is no good text version of Roerich's Trails to Inmost Asia. Available PDFs and Internet Archive TXT files are not usable for annotating and shared work. TXT contains lots of errors. So here it is.
 
 * Based on Roerich's book in PDF and TXT format from [Internet Archive](https://archive.org/details/in.ernet.dli.2015.43990).
 * Photos and illustrations are extracted from Mountains of Central Asia Digital Dataset (MCADD) [PDF](https://pahar.in/central-asia/).
+
+Original source:
+
+> Roerich, N. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
+
+## List of changes
+
 * Excessive line breaks removed to adapt for modern screens.
 * Page numbers are adjusted and preserved for easy reference.
 * Lots (hundreds) of small edits, original formatting is preserved.
-* Typos in the source text are not fixed.
+* Typos in the source text are not fixed with the exception of an incorrect link to Rin-chen bzang-po in the index (should be 17, was 917).
+* Interactive index added.
 * [Google Docs version](https://docs.google.com/document/d/1ZvcCOrRze3yLZ7HC0lz-M40sQmiLVOqX7Nz8g7ZXY9s/edit?usp=sharing) - use to download as DOC or PDF or make a copy for your work online.
 
 ## Book contents
@@ -81,6 +85,8 @@ PRINTED IN THE UNITED STATES OF AMERICA
 All rights reserved. This book may not be reproduced, in whole or in part, in any form, except by written permission from the publishers.
 
 TO MY MOTHER AND FATHER
+
+<a id="ix"></a>
 
 ## PREFACE
 
@@ -166,51 +172,53 @@ G. N. R.
 
 ## CONTENTS
 
-Preface by Louis Marin ix
+Preface by Louis Marin [ix](#ix)
 
-Author's Note xi
+Author's Note [xi](#xi)
 
-List of Illustrations xvii
+List of Illustrations [xvii](#xvii)
 
-I. Kashmir --- Ladak 1
+I. Kashmir --- Ladak [1](#1)
 
-II. From Leh to Khotan. The Great Karakorum Route 33
+II. From Leh to Khotan. The Great Karakorum Route [33](#33)
 
-III. Khotan 59
+III. Khotan [59](#59)
 
-IV. Khotan --- Kashgar 79
+IV. Khotan --- Kashgar [79](#79)
 
-V. The Great Northern Highway to Urumchi 93
+V. The Great Northern Highway to Urumchi [93](#93)
 
-VI. Urumchi and Jungaria 113
+VI. Urumchi and Jungaria [113](#113)
 
-VII. Mongolia 127
+VII. Mongolia [127](#127)
 
-VIII. Organizing the Expedition 165
+VIII. Organizing the Expedition [165](#165)
 
-IX. Urga --- Yum-Beise Küren 175
+IX. Urga --- Yum-Beise Küren [175](#175)
 
-X. Across the Southwestern Gobi 197
+X. Across the Southwestern Gobi [197](#197)
 
-XI. Ja Lama, the Militant Priest 221
+XI. Ja Lama, the Militant Priest [221](#221)
 
-XII. Among the Tsaidam Mongols 235
+XII. Among the Tsaidam Mongols [235](#235)
 
-XIII. Across Tsaidam 259
+XIII. Across Tsaidam [259](#259)
 
-XIV. The Great Tibetan Upland 279
+XIV. The Great Tibetan Upland [279](#279)
 
-XV. At the Gates of Tibet. The Detention at Chu-Na-Khe and the Peril of the Caravan 303
+XV. At the Gates of Tibet. The Detention at Chu-Na-Khe and the Peril of the Caravan [303](#303)
 
-XVI. The Hor-pas AND Their Country 331
+XVI. The Hor-pas AND Their Country [331](#331)
 
-XVII. Nag-chu-ka 373
+XVII. Nag-chu-ka [373](#373)
 
-XVIII. The Region of the Great Lakes --- Nag-chu Dzong --- Saga Dzong 399
+XVIII. The Region of the Great Lakes --- Nag-chu Dzong --- Saga Dzong (399)[#399]
 
-XIX. From Saga Dzong to Sikkim 447
+XIX. From Saga Dzong to Sikkim [447](#447)
 
-Index 491
+Index [491](#491)
+
+<a id="xvii"></a>
 
 ## LIST OF ILLUSTRATIONS
 
@@ -540,6 +548,7 @@ The Monastery of Pema-yangtze in Sikkim 487
 
 General map of the route of the expedition through central Asia 504
 
+<a id="1"></a>
 <a id="3"></a>
 
 ## KASHMIR-LADAK
@@ -1015,6 +1024,7 @@ the frequent breaths of cold wind from the mountain summits made us realize that
 
 The son of a local Ladak headman was accompanying us as head servant and proved a devoted and efficient man. Ladakis are wonderful in caravans, always cheerful amid hardships and storms, contented with little, and always ready to perform their work. They march on foot long distances over hard, stony ground that renders animals lame, and yet never complain of fatigue. In our subsequent wanderings, we often remembered our Ladaki caravan men and their devoted service.
 
+<a id="33"></a>
 <a id="35"></a>
 
 ## FROM LEH TO KHOTAN THE GREAT KARAKORUM ROUTE
@@ -1325,6 +1335,9 @@ We camped in the garden, but a dense crowd of some three hundred Chinese and Tur
 
 We had to post two of our Ladakis in order to prevent a further intrusion. Our first night in Khotan was by no means pleasant. The air was sticky, and the smells that permeated the city added greatly to its discomforts.
 
+<a id="59"></a>
+<a id="61"></a>
+
 ## KHOTAN
 
 **III**
@@ -1559,6 +1572,9 @@ In the second carriage our Tibetan mastiff, Tumbal, traveled in charge of a serv
 
 The three months of detention came to an end and we were looking forward to new regions. Our courtyard was filled with friendly Chang-t'ou who came to say goodbye to the expedition. During our three months' detention we had made many trusted friends; it is a pleasure to express here our gratitude to all who assisted the expedition during the difficult winter days in Khotan.
 
+<a id="79"></a>
+<a id="81"></a>
+
 ## KHOTAN-KASHGAR
 
 **IV**
@@ -1749,6 +1765,9 @@ We were able to hire ten pack ponies owned by two Ladaki men with an understandi
 
 On February 26 the whole of the European colony assembled to see us off. Our carts started in the early morning escorted by three mounted soldiers from the local garrison, who were to accompany us to Faizabad, the next garrisoned town on the route.
 
+<a id="93"></a>
+<a id="95"></a>
+
 ## THE GREAT NORTHERN HIGHWAY TO URUMCHI
 
 **V**
@@ -1814,6 +1833,8 @@ TRAVELING BOY-MUSICIAN IN CHINESE TURKESTAN
 ![035-medicine-man.png](035-medicine-man.png)
 
 A TRAVELING NATIVE MEDICINE MAN, KARASHAHR
+
+<a id="99"></a>
 
 **NORTHERN HIGHWAY TO URUMCHI 99**
 
@@ -1997,6 +2018,9 @@ broad street of small European houses. Before we had entered the courtyard, a Ch
 
 In the evening we were all invited to a dinner given by the head of the local branch of the firm of Brenner Bros. Everyone seemed much preoccupied with the war preparations of Governor Yang. The mobilization had started a month before, and some ten thousand troops had already been sent to Hsin-hsin-hsia to oppose an advance by General Feng Yu-hsiang and his Kansu allies. More troops were said to be in training in the neighborhood of Urumchi, and the arsenal was feverishly preparing ammunition and repairing firearms. Disquieting reports were received from the Mongol border. Clashes with considerable loss of life had occurred between Mongol frontier troops and Kirghiz tribesmen in the vicinity of the massive Baitik Bogdo, and large bands of Torguts and Kirghiz were fleeing into Jungaria, apprehending a Mongol raid. The atmosphere was charged with anxiety and war clouds gathered on the frontiers.
 
+<a id="113"></a>
+<a id="115"></a>
+
 ## URUMCHI AND JUNGARIA
 
 **VI**
@@ -2150,6 +2174,9 @@ toward the Siberian border. The road led over a vast expanse of rolling hills, c
 The officer in charge of the Chinese frontier outpost proved to be a quite illiterate fellow, and we experienced difficulties in explaining our passport to him. Next day we started under strong military protection for the Siberian border. We had to cross a belt of no-man's land situated between the Chinese and Russian frontier outposts. This region was a favorite ground for bandit attacks, and travelers were often molested by raiding bands of Kirghiz.
 
 Two days were spent at the Russian outposts, to have formalities completed. On June 1 we sailed on the *Lobkov* from Zaisan to Semipalatinsk and Omsk on the Siberian Railroad.
+
+<a id="127"></a>
+<a id="129"></a>
 
 ## MONGOLIA
 
@@ -2699,6 +2726,9 @@ GATES OF CHÖ-JIN LAMA-YIN-SÜMÄ
 
 HORSES USED IN RELIGIOUS PROCESSIONS TO CARRY THE HOLY IMAGES
 
+<a id="165"></a>
+<a id="167"></a>
+
 ## ORGANIZING THE EXPEDITION
 
 **VIII**
@@ -2784,6 +2814,9 @@ The winter outfit for the personnel of the expedition also caused much anxiety. 
 The food supplies also had to be arranged, and all this took a great deal of time and energy on the part of the European personnel of the expedition.
 
 Our stay in Urga was rapidly drawing to an end and the date of departure, fixed for April 15 was already close at hand. On April 14 the gates of the expedition compound swung wide to let in the cars.
+
+<a id="175"></a>
+<a id="177"></a>
 
 ## URGA --- YUM-BEISE KÜREN
 
@@ -3018,6 +3051,9 @@ After the visit we returned to our camp, but the doctor went to see some stone f
 In the afternoon I took our expedition guard for some target practice, for we were soon to enter a brigand-infested area and the men needed to know how to use their rifles. The marksmanship was generally good and we thoroughly enjoyed the exercise, when suddenly some lamas interrupted our occupation and begged us not to shoot in the neighborhood of the monastery since the spirit of the Tsagan Tologoi would surely get angry and make his wrath felt by sending a fresh wind and sand storm. We had to return to our camp in order to avoid a misunderstanding with the lama. Apparently the prediction of the lamas was coming true, for a violent wind started shortly after our return to camp and we had to take all precautions to keep our tents in position. It grew stronger during the night and two of our tents broke down in spite of all precautions. Everything was enveloped by thick yellow clouds and we had to spend most of the day inside our tents.
 
 On April 30 bright and windless weather brought some relief, after two successive days of violent wind and sand storms. We were able to make a final distribution of camel loads and the camel drivers brought in ropes and saddles, preparing for the next day's journey.
+
+<a id="197"></a>
+<a id="199"></a>
 
 ## ACROSS THE SOUTHWESTERN GOBI
 
@@ -3291,6 +3327,9 @@ The river branched into numerous channels that cut the marshy plain. Behind the 
 
 The very day of our arrival we were visited by the local Mongol headman Machen, a fat and sly looking man of fifty. He said that he was ready to help the expedition and even to furnish it with camels and horses for the trip to Nag-chu-ka. He told us that it was rather difficult to find sufficient provisions in Shih-paoch'eng but offered his assistance in getting supplies from An-hsi or from Ch'ang-ma pao-tzu, an important Chinese village east of the oasis. We parted good friends and he promised to visit us the next day.
 
+<a id="221"></a>
+<a id="223"></a>
+
 ## JA LAMA, THE MILITANT PRIEST
 
 **XI**
@@ -3438,6 +3477,9 @@ It was difficult to recognize in the weathered black remnant the head of the str
 attired in a gorgeous coat. Ja Lama was fond of gorgeous attire and has often been seen dressed in a European uniform underneath a Mongolian coat which he used as an overcoat. The man is dead, but the memory of him still lives among the nomads of Mongolia.
 
 In our caravan we had a Torgut from Etsin-gol, who had spent several years in the region of Ma-tzu Shan. He could never explain satisfactorily the reasons for his long stay in this robber-infested country and some of the Mongols in the caravan had grave doubts about him. He was a fine rider and, as all Torguts are, a good marksman. These manly qualities combined in him in some inexplicable way with the greatest cowardice and uncertain character. One day I heard him singing a song and it seemed to me that he was singing about Ja Lama. I asked him to repeat the words of the song but he obstinately refused to do so and said that he knew no songs about him. All my attempts to induce him to sing proved vain and the man only laughed. As it was his turn to guard the caravan animals, I had to let him go. He jumped into the saddle and dashed into the steppe toward the grazing herd. Suddenly his voice resounded singing the very same song about Ja Lama. I could recognize the melody but not the words. The man refused to sing in our presence, but out in the open steppe he sang the old robber song about Ten-pei Jal-tsen, the incarnated Amursana. The song belonged to the desert and it was against the nomad code to sing it to strangers.
+
+<a id="235"></a>
+<a id="237"></a>
 
 ## AMONG THE TSAIDAM MONGOLS
 
@@ -3687,6 +3729,9 @@ The results of our linguistic studies among the Kurluk Mongols are incorporated 
 
 Such are the Kurluk Mongols as we saw, them during our stay in Tsaidam in 1927. A turning point in their history is approaching, for the Tsaidam Mongols no longer look toward Lhasa, but upon the exiled Spiritual Ruler of Tsang, who lives at present among their countrymen of the north.
 
+<a id="259"></a>
+<a id="261"></a>
+
 ## ACROSS TSAIDAM
 
 **XIII**
@@ -3881,6 +3926,9 @@ Several of our Mongols were apparently greatly depressed by the death of the lam
 
 At about two o'clock we left the dismal camp and crossed the broad, gravel plain that separated us from the Angar Dakchin Range. The mountain pass of Angar Dakchin (15,300 feet) was crossed without difficulty for it was free from snow and the slope was gentle. To the south lay endless ridges of undulating sandy hills --- typical landscape of the Tibetan upland. We camped for the night at the foot of a low ridge. The place of the camp was known under the name of Mugchi. It was our first night on the Tibetan upland and the intense silence of the surrounding mountains seemed to enhance the majesty of this highest desert of our planet.
 
+<a id="279"></a>
+<a id="281"></a>
+
 ## THE GREAT TIBETAN UPLAND
 
 **XIV**
@@ -4013,7 +4061,7 @@ On the summit of the pass we had to abandon one of the best amblers in the carav
 
 For some time we followed the course of a rivulet, flowing into the Yag-ra-chu, a river descending southwest from the pass. We camped for the night after some twenty-eight miles of hard marching. Close to our camp were numerous sulphur springs and the place was known by the name of Chu-tsen-kong, "The Upper Hot Spring." It was said that the valley of the Yag-ra River was particularly rich in hot springs. This day our losses in caravan and riding animals were exceptionally heavy. We lost three horses, one mule and one camel. The Tibetan *nyer-wa* had a violent heart attack, but he survived. He was brought into the camp at about eleven o'clock in the evening, groaning and almost unconscious. For the past few days our doctor had had to attend him day and night. The man was in a very critical condition and insisted on tak-
 
-292 TRAILS TO INMOST ASIA
+<a id="292">**292 TRAILS TO INMOST ASIA**</a>
 
 ing medicines of Sino-Tibetan pharmacopoeia, prepared by one of the lamas in the caravan.
 
@@ -4110,6 +4158,9 @@ The General summoned all the local headmen to his tent and made them solemnly pr
 supply us with all necessities. A guard of militia would be posted in our camp to protect us and our baggage from robbers and the local population. It was impossible to argue any more, for the General turned a deaf ear to all our protests. We had to return to our camp and await an answer from Lhasa, which was promised in fourteen days.
 
 In the afternoon a salute of eight guns notified the local inhabitants that the High Commissioner had left his camp. A brilliant *cortege* of officials and retainers in bright costumes whirled past our camp, leaving us to face the severity of a Tibetan winter alone.
+
+<a id="303"></a>
+<a id="305"></a>
 
 ## AT THE GATES OF TIBET
 
@@ -4461,7 +4512,7 @@ December 28. A cold and cloudy day. In the early morning Golubin went to buy som
 
 December 29. Our doctor paid another visit to the Major's wife. She was beyond hope of recovery. The headmen of the Hor-pas for some reason refused again to furnish us with sufficient supplies. Sentries were posted at all the neighboring encampments to prevent the inhabitants from selling supplies to us. We sent out a reconnoitering party, which was armed as a precautionary measure, to investigate the situation and try to obtain necessities. Every time our party rode up to an encamp-
 
-330 TRAILS TO INMOST ASIA
+<a id="330">**330 TRAILS TO INMOST ASIA**</a>
 
 ment, the sentry would run away and leave the passage free. This made it clear that the local population was only outwardly following the orders of the headmen. I had a sharp conversation with the Major's soldiery and the local headmen. We sent a letter to the High Commissioner stating that his orders were disobeyed and that the population was in open revolt against the Major and his soldiers. After a heated discussion, the headmen agreed to continue to supply us with foodstuffs and permit the local population to trade with us. The Major also promised to settle the situation.
 
@@ -4472,6 +4523,9 @@ January 1, 3, 1928. Rumors were current that the Joint-Governors were *en route*
 The Major's wife was in a critical condition but obstinately refused to follow the instructions of the doctor.
 
 The Major and his soldiery were rapidly losing control over the local nomads and we noticed many armed tribesmen in the vicinity of the monastery. The local population was apparently tired of the necessity of supplying us with food and attending the Major and his soldiers who were receiving all the supplies free of charge.
+
+<a id="331"></a>
+<a id="333"></a>
 
 ## THE HOR-PAS AND THEIR COUNTRY
 
@@ -4969,7 +5023,7 @@ Such flint pouches and buckles in "animal style" were found by us only among the
 
 20\. See plates in Gr. Borovka's *Scythian Art* (New York; Frederick A. Stokes, 1928).
 
-370 TRAILS TO INMOST ASIA
+<a id="370">**370 TRAILS TO INMOST ASIA**</a>
 
 necked bird (a swan?) with spread wings, found on a piece of embroidery, discovered by General P. K. Kozlov in the Noin ula Mountains. (21) The pose of the bird and the treatment of the wings are similar in both cases. The left wing is raised, the right one is lowered and forms a sharp angle. There can be no doubt that the two figures came from one common central Asian source, and represent some mythological figures.
 
@@ -5022,6 +5076,9 @@ All these objects irrefutably attest the existence of the ancient central Asian 
 CONVENTIONALIZED FIGURE OF SWAN ON SILVERED IRON PEN CASE FROM AMDO
 
 *Collection S. Roerich*
+
+<a id="373"></a>
+<a id="375"></a>
 
 ## NAG-CHU-KA
 
@@ -5298,6 +5355,9 @@ Next morning we woke up very early. A crowd of headmen and yak drivers filled th
 <a id="398">**398 TRAILS TO INMOST ASIA**</a>
 
 confusion continued until sunset. Tibetan soldiers and we, ourselves, tried in vain to restore some order. The baggage having been distributed among Hor-pas and Chang-ri-was, guards were stationed near it as the Hor-pas and the Chang-ri-was were full of mutual distrust.
+
+<a id="399"></a>
+<a id="401"></a>
 
 ## THE REGION OF THE GREAT LAKES
 
@@ -5823,13 +5883,14 @@ The plain over which we were riding was covered by gravel. Grass was scant and c
 
 Our caravan reached the camp late at night and great anxiety was felt for our camels which were delayed on the pass. At about eleven o'clock that night three camels and their driver reached the camp and he reported that the fourth camel had died on the summit of the pass.
 
+<a id="447"></a>
+<a id="449"></a>
+
 ## FROM SAGA DZONG TO SIKKIM
 
 **XIX**
 
 **FROM SAGA DZONG TO SIKKIM**
-
-<a id="449">**449 TRAILS TO INMOST ASIA**</a>
 
 APRIL 20, 1928. The treasurer of the *dzong* did not arrive and we had to remain at Saga dzong until his arrival. Everyone rested after the strenuous journey of the past ten days. Our camp was pitched close to the trade route Ladak --- Nga-ri --- Saga dzong --- Lhasa and from early morning we could hear the melodious jingling of bells on the horses and mules of passing travelers. Saga dzong is a governmental relay station on the trade route and the administrative center of a vast district, which borders to the north on the territories of Nag-tshang and Nga-ri; to the south and east on the district governed by Dzong-kha, a fort situated on the Nepal border.
 
@@ -6341,6 +6402,8 @@ In Darjeeling the expedition was officially disbanded and its members returned t
 
 In spite of the tremendous difficulties, including political upheavals, and unfavorable seasons for traveling, during which the expedition was often obliged to go on, it achieved a signal success and brought back a unique record of the regions of inner Asia.
 
+<a id="491"></a>
+
 ## INDEX
 
 Abatai Khan, [155](#155)
@@ -6355,7 +6418,7 @@ Aksu, Chinese Turkestan, [96](#96)
 
 Alchi, ancient Ladaki convent, [17](#17)
 
-Alinements, x, [355](#355), [415](#415), [416](#416), [440](#440), [441](#441), [444](#444)
+Alinements, [x](#x), [355](#355), [415](#415), [416](#416), [440](#440), [441](#441), [444](#444)
 
 Altai Mountains, [75](#75); archaeological possibilities, [123](#123); center of nomad art, [367](#367)
 
@@ -7217,7 +7280,7 @@ Khudai Berdi Bai, [71](#71) ff.
 
 Kiakhta, [131](#131), [225](#225)
 
-Kings, bDe'legs rnam-rgyal, [18](#18) bKra-shis rnam-rgyal, [18](#18), [25](#25), [26](#26) 'Bum-lde, [14](#14), [18](#18), [23](#23), [26](#26) Del-dan rnam-rgyal, [15](#15), [28](#28) Jamyang, [14](#14) K'ang-hsi, [360](#360) Kesar, [26](#26) ff., [345](#345) ff., [375](#375)–[376](#376) Khri-srong lde'u-btsan, *see* Ti-srong Lang-darma, [160](#160), [353](#353) Lha-chen rgyal-po, [18](#18) Rin-chen bzang-po, [917](#917) Seng-ge rnam-rgyal, [16](#16), [18](#18), [24](#24) Srong-btsan-sgam-po, [12](#12), [353](#353), [360](#360) Thse-dbang rnam-rgyal, [18](#18) Ti-srong de'ut sen, [353](#353), [360](#360)
+Kings, bDe'legs rnam-rgyal, [18](#18) bKra-shis rnam-rgyal, [18](#18), [25](#25), [26](#26) 'Bum-lde, [14](#14), [18](#18), [23](#23), [26](#26) Del-dan rnam-rgyal, [15](#15), [28](#28) Jamyang, [14](#14) K'ang-hsi, [360](#360) Kesar, [26](#26) ff., [345](#345) ff., [375](#375)–[376](#376) Khri-srong lde'u-btsan, *see* Ti-srong Lang-darma, [160](#160), [353](#353) Lha-chen rgyal-po, [18](#18) Rin-chen bzang-po, [17](#17) Seng-ge rnam-rgyal, [16](#16), [18](#18), [24](#24) Srong-btsan-sgam-po, [12](#12), [353](#353), [360](#360) Thse-dbang rnam-rgyal, [18](#18) Ti-srong de'ut sen, [353](#353), [360](#360)
 
 Kirghiz, [48](#48) ff., [64](#64), [102](#102), [115](#115) ff., [124](#124)–[125](#125), [213](#213) ff., [351](#351). *See also* Kara-
 
@@ -7531,7 +7594,7 @@ Nishad and Shalimar, [6](#6)
 
 Noin ula Mountains, objects and textiles in animal style, [133](#133), [150](#150)–[151](#151), [184](#184), [368](#368) ff., [418](#418)
 
-Nomad art, [29](#29)–[30](#30), [1](#1) [51](#51)–[152](#152), [153](#153), [367](#367) ff.; Bön faith, [353](#353) ff.; burial customs, [29](#29)–[30](#30), [151](#151), [181](#181); encampments, [49](#49), [402](#402), [419](#419); Kesar Saga, [359](#359); migrations, [122](#122) ff.; militia, [251](#251)–[252](#252); songs, [234](#234); tents, [342](#342) ff. *See also* Kumbum
+Nomad art, [29](#29)–[30](#30), [151](#151)–[152](#152), [153](#153), [367](#367) ff.; Bön faith, [353](#353) ff.; burial customs, [29](#29)–[30](#30), [151](#151), [181](#181); encampments, [49](#49), [402](#402), [419](#419); Kesar Saga, [359](#359); migrations, [122](#122) ff.; militia, [251](#251)–[252](#252); songs, [234](#234); tents, [342](#342) ff. *See also* Kumbum
 
 Nunnery, [384](#384)
 
@@ -8279,7 +8342,7 @@ Yangi-shahr, [63](#63)
 
 Yanju, [456](#456)–[457](#457)
 
-Yarkend, chief *entrepot* of Indian and A [1](#1) trade, [86](#86); felts, [22](#22); horses, [86](#86); progressive interests, [87](#87); Swedish mission, [87](#87)
+Yarkend, chief *entrepot* of Indian and Afghan trade, [86](#86); felts, [22](#22); horses, [86](#86); progressive interests, [87](#87); Swedish mission, [87](#87)
 
 Yarkend darya, [86](#86)
 
