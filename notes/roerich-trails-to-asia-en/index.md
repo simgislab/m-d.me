@@ -21,10 +21,11 @@ Original source:
 Turns out there is no good text version of Roerich's Trails to Inmost Asia. Available PDFs and Internet Archive TXT files are not usable for annotating and shared work. TXT contains lots of errors. So here it is.
 
 * Based on Roerich's book in PDF and TXT format from [Internet Archive](https://archive.org/details/in.ernet.dli.2015.43990).
-* Excessive line breaks removed to adapt for larger screens.
-* Page numbers are preserved for easy reference.
-* Lots of small edits and formatting.
-* Typos in the source text were not fixed.
+* Photos and illustrations are extracted from Mountains of Central Asia Digital Dataset (MCADD) [PDF](https://pahar.in/central-asia/).
+* Excessive line breaks removed to adapt for modern screens.
+* Page numbers are adjusted and preserved for easy reference.
+* Lots (hundreds) of small edits, original formatting is preserved.
+* Typos in the source text are not fixed.
 * [Google Docs version](https://docs.google.com/document/d/1ZvcCOrRze3yLZ7HC0lz-M40sQmiLVOqX7Nz8g7ZXY9s/edit?usp=sharing) - use to download as DOC or PDF or make a copy for your work online.
 
 ## Book contents
@@ -8297,3 +8298,7 @@ Zawa Kurghan, 56
 *Zi*-beads, 460
 
 Zoji Pass, 7 ff.
+
+![623-map-1.jpg](602-map-1.jpg)
+
+![603-map-2.jpg](603-map-2.jpg)

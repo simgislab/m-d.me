@@ -29,6 +29,7 @@ fediverse: "@username@instance.url"
 * Dingyuanying, 定远营镇
 * Wang Ye Fu
 * Алашань, Alxa League, 阿拉善盟
+* Ting-yuan-ying ([Kozlov](https://pahar.in/pahar/Maps--Primary/Tibet%20and%20China%20Maps/Tibet%20and%20China--After%201900/1910%20Kansu%20and%20Mongolia%20by%20Kozloff%20.jpg))
 
 <https://en.wikipedia.org/wiki/Bayanhot>
 
