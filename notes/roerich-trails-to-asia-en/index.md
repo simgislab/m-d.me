@@ -540,6 +540,8 @@ The Monastery of Pema-yangtze in Sikkim 487
 
 General map of the route of the expedition through central Asia 504
 
+<a id="3"></a>
+
 ## KASHMIR-LADAK
 
 I
@@ -570,7 +572,7 @@ About three o'clock in the afternoon we drove into the native city of Srinagar, 
 
 We established our headquarters at the Nedou Hotel and at once began our preparation for the journey to Ladak and the desert lands of Chinese Turkestan, lying beyond the lofty passes of the Karakorum
 
-<a id="5">**5 KASHMIR-LADAK**
+<a id="5">**5 KASHMIR-LADAK**</a>
 
 and Sanju. A difficult and long mountain journey necessitates protracted preparations and every detail must be thoroughly checked personally; a journey such as that from Kashmir to Chinese Turkestan over the highest mountain route in the world, requires unusual forethought and careful consideration. Srinagar is the last place where such preparations can be made and food supplies obtained. The Kashmiri artisans are famed for their work and, if supervised, turn out serviceable equipment. There are a number of native firms in the city which produce excellent winter outfits and camping furniture. Naturally, the traveler must keep a watchful eye on the execution of his order. All the expedition supplies had to be packed in *yaghtans* or wooden boxes covered with leather. Tin or iron boxes are of no use in mountain travel, for they easily break.
 
@@ -584,7 +586,7 @@ The departure was fixed for the beginning of August, and, meanwhile, we decided 
 
 I shall not describe the capital or the valley of Kashmir. Concerning them there is a voluminous literature, and the antiquities of the country
 
-<a id="6">**6 TRAILS TO INMOST ASIA**
+<a id="6">**6 TRAILS TO INMOST ASIA**</a>
 
 have been studied and commented upon by such men as Sir Aurel Stein.
 
@@ -1012,6 +1014,8 @@ PAINTING BY NICHOLAS ROERICH
 the frequent breaths of cold wind from the mountain summits made us realize that it was advisable to hurry our departure. For several days the town had been filled with reports that snowstorms were beginning on the high passes and our caravan-*bashis* pressed us to start before the early snow would block the passes. Professor Roerich had completed his series of paintings on Ladak and its sanctuaries, and we could begin our final preparations for the difficult journey ahead of us. We were short of men, and it seemed very difficult to engage suitable ones for the long journey to Khotan. We sent a notice to the bazaars that men were needed, and daily crowds of them came to the dak bungalow. Out of this motley collection of Baltis, Ladakis, Kashmiris, Arghuns, and Turkis, Mrs. Roerich chose several promising men, who proved very helpful on our track to Chinese Turkestan. Two of them had the distinction of serving under Dr. Sven Hedin during his expedition of 1907-8, and several others had been previously employed as caravan men on the Karakorum route. They all knew the way well and were fully prepared to face the difficulties and dangers of the mountain journey. Most of them had been several times in Yarkend or Khotan and spoke fluently the eastern Turki. We engaged them as far as Khotan and promised to pay their journey home. Besides his pay each of the men received a warm fur coat, a winter fur cap, and a pair of soft *charuq* boots with felt socks. Two tents were provided to shelter the personnel of the expedition during the night, but for the whole of the journey many of the men preferred to sleep in the open or under the flies of our own tents.
 
 The son of a local Ladak headman was accompanying us as head servant and proved a devoted and efficient man. Ladakis are wonderful in caravans, always cheerful amid hardships and storms, contented with little, and always ready to perform their work. They march on foot long distances over hard, stony ground that renders animals lame, and yet never complain of fatigue. In our subsequent wanderings, we often remembered our Ladaki caravan men and their devoted service.
+
+<a id="35"></a>
 
 ## FROM LEH TO KHOTAN THE GREAT KARAKORUM ROUTE
 
@@ -5824,6 +5828,8 @@ Our caravan reached the camp late at night and great anxiety was felt for our ca
 **XIX**
 
 **FROM SAGA DZONG TO SIKKIM**
+
+<a id="449">**449 TRAILS TO INMOST ASIA**</a>
 
 APRIL 20, 1928. The treasurer of the *dzong* did not arrive and we had to remain at Saga dzong until his arrival. Everyone rested after the strenuous journey of the past ten days. Our camp was pitched close to the trade route Ladak --- Nga-ri --- Saga dzong --- Lhasa and from early morning we could hear the melodious jingling of bells on the horses and mules of passing travelers. Saga dzong is a governmental relay station on the trade route and the administrative center of a vast district, which borders to the north on the territories of Nag-tshang and Nga-ri; to the south and east on the district governed by Dzong-kha, a fort situated on the Nepal border.
 
