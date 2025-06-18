@@ -373,181 +373,181 @@ Black-Hat dancer, Urga [161](#161black)
 
 The big *suburghan or stupa* in front of the Ganden Monastery, Urga [161](#161stupa)
 
-Temple of Avalokitesvara, Ganden Monastery, Urga [162](#162)
+Temple of Avalokitesvara, Ganden Monastery, Urga [162](#162avalo)
 
-Bronze incense burner in front of the Ganden Monastery, Urga [162](#162)
+Bronze incense burner in front of the Ganden Monastery, Urga [162](#162burner)
 
-Temple altar, Ganden Monastery, Urga [163](#163)
+Temple altar, Ganden Monastery, Urga [163](#163altar)
 
-Altar with photograph of the Bogdo Gegen, Ganden Monastery, Urga [163](#163)
+Altar with photograph of the Bogdo Gegen, Ganden Monastery, Urga [163](#163altarphoto)
 
-Dara-Eke, the consort of the last Bogdo Gegen [164](#164)
+Dara-Eke, the consort of the last Bogdo Gegen [164](#164dara)
 
-Types of Mongol lamas [164](#164)
+Types of Mongol lamas [164](#164types)
 
-Gates of Chö-jin Lama-yin-sümä [165](#165)
+Gates of Chö-jin Lama-yin-sümä [165](#165cho)
 
-Horses used in religious processions to carry the holy images [165](#165)
+Horses used in religious processions to carry the holy images [165](#165horses)
 
-The expedition cars in the valley of the Tola River, Mongolia [188](#188)
+The expedition cars in the valley of the Tola River, Mongolia [188](#188cars)
 
-Expedition cars crossing the Ongin-gol. Southwest Mongolia [188](#188)
+Expedition cars crossing the Ongin-gol. Southwest Mongolia [188](#188crossing)
 
-Monastery of Yum-beise [189](#189)
+Monastery of Yum-beise [189](#189yum)
 
-Mongol nuns, Southwest Mongolia [189](#189)
+Mongol nuns, Southwest Mongolia [189](#189nuns)
 
-Expedition caravan starting from Yum-beise [210](#210)
+Expedition caravan starting from Yum-beise [210](#210start)
 
-Camp in the Mongolian Gobi [210](#210)
+Camp in the Mongolian Gobi [210](#210gobi)
 
-An ancient Chinese watchtower in the southern Gobi [211](#211)
+An ancient Chinese watchtower in the southern Gobi [211](#211watch)
 
-The castle of Ja Lama [211](#211)
+The castle of Ja Lama [211](#211jalama)
 
-Expedition camp at Shih-pao-ch'eng in the Nan Shan Mountains [240](#240)
+Expedition camp at Shih-pao-ch'eng in the Nan Shan Mountains [240](#240shih)
 
-The camel caravan [240](#240)
+The camel caravan [240](#240camel)
 
-Expedition camp at Sharagolji [241](#241)
+Expedition camp at Sharagolji [241](#241shara)
 
-The Chief Lama of the Tsaidam Mongols [241](#241)
+The Chief Lama of the Tsaidam Mongols [241](#241chief)
 
-At the foot of the Ulan-daban Pass [268](#268)
+At the foot of the Ulan-daban Pass [268](#268ulan)
 
-The Ulan-daban Pass [268](#268)
+The Ulan-daban Pass [268](#268ulanpass)
 
 <a id="xix">**xix LIST OF ILLUSTRATIONS**</a>
 
 *To face page*
 
-Expedition camp in the valley of the Bure-yin-gol, Tsaidam [268](#268)
+Expedition camp in the valley of the Bure-yin-gol, Tsaidam [268](#268bure)
 
-Tsaidam Mongol woman [269](#269)
+Tsaidam Mongol woman [269](#269woman)
 
-A Tsaidam Mongol [269](#269)
+A Tsaidam Mongol [269](#269man)
 
-*The Thang La* [290](#290) Painting by Nicholas Roerich. Roerich Museum, New York
+*The Thang La* [290](#290thang) Painting by Nicholas Roerich. Roerich Museum, New York
 
-Before the Thang La [291](#291)
+Before the Thang La [291](#291beforethang)
 
-The descent from the Thang La [291](#291)
+The descent from the Thang La [291](#291descentthang)
 
-Tibetan nomads [308](#308)
+Tibetan nomads [308](#308nomads)
 
-A nomad camp [308](#308)
+A nomad camp [308](#308nomadcamp)
 
-Tibetan soldiers, stationed as guards in the expedition camp at Chu-na-khe [309](#309)
+Tibetan soldiers, stationed as guards in the expedition camp at Chu-na-khe [309](#309soldiers)
 
-Expedition camp during the detention at Chu-na-khe [309](#309)
+Expedition camp during the detention at Chu-na-khe [309](#309chunakhe)
 
-Expedition camp at Chu-na-khe [314](#314)
+Expedition camp at Chu-na-khe [314](#314camp)
 
-Expedition camp buried in snow at Chu-na-khe [314](#314)
+Expedition camp buried in snow at Chu-na-khe [314](#314buried)
 
-The perishing caravan [315](#315)
+The perishing caravan [315](#315perish)
 
-A Tibetan guard in the expedition camp at Chu-na-khe [315](#315)
+A Tibetan guard in the expedition camp at Chu-na-khe [315](#315guard)
 
-*Stupa* at Sharugön [326](#326)
+*Stupa* at Sharugön [326](#326stupa)
 
-Monastery at Sharugön [326](#326)
+Monastery at Sharugön [326](#326monastery)
 
-The Bön-po Monastery at Sharugön [327](#327)
+The Bön-po Monastery at Sharugön [327](#327bonpo)
 
-Expedition camp at Sharugön [327](#327)
+Expedition camp at Sharugön [327](#327camp)
 
-Women of Hor in the region of Nup-hor [366](#366)
+Women of Hor in the region of Nup-hor [366](#366hor)
 
-Tinder and flint pouch, Hor region, North Tibet [367](#367)
+Tinder and flint pouch, Hor region, North Tibet [367](#367pouch1)
 
-Tinder and flint pouch, Hor region, North Tibet [367](#367)
+Tinder and flint pouch, Hor region, North Tibet [367](#367pouch2)
 
-Brass buckle, Ching-kar, Nam-ru District, North Tibet [368](#368)
+Brass buckle, Ching-kar, Nam-ru District, North Tibet [368](#368ching)
 
-Flint pouch, Lahul, West Tibet From the collection of S. N. Roerich [368](#368)
+Flint pouch, Lahul, West Tibet From the collection of S. N. Roerich [368](#368lahul)
 
-Deer on brass charm box From the collection of S. N. Roerich [369](#369)
+Deer on brass charm box From the collection of S. N. Roerich [369](#369deer)
 
 *To face page*
 
-Photograph of deer on brass charm box [369](#369)
+Photograph of deer on brass charm box [369](#369photo)
 
 Conventionalized figure of deer on silvered iron pen case [370](#370) From the collection of S. N. Roerich
 
-Photograph of deer on silvered iron pen case [370](#370)
+Photograph of deer on silvered iron pen case [370](#370photo)
 
-Metal plaque from Derge 371 From the S. N. Roerich collection
+Metal plaque from Derge [371](#371derge) From the S. N. Roerich collection
 
-Metal plaque from the Noin ula Mountains [371](#371) From the Kozlov finds
+Metal plaque from the Noin ula Mountains [371](#371noin) From the Kozlov finds
 
-Conventionalized figure of swan (end piece) [372](#372)
+Conventionalized figure of swan (end piece) [372](#372swan)
 
-Headquarters of the expedition at Nag-chu [384](#384)
+Headquarters of the expedition at Nag-chu [384](#384hq1)
 
-Headquarters of the expedition at Nag-chu [384](#384)
+Headquarters of the expedition at Nag-chu [384](#384hq2)
 
-Nag-chu dzong [385](#385)
+Nag-chu dzong [385](#385dzong)
 
-Shab-den Monastery at Nag-chu [385](#385)
+Shab-den Monastery at Nag-chu [385](#385shabden)
 
-A street in Nag-chu [392](#392)
+A street in Nag-chu [392](#392street)
 
-Burning the *torma* or New Year offering [392](#392)
+Burning the *torma* or New Year offering [392](#392torma)
 
-Nag-chu-ka, Tibetan upland [393](#393)
+Nag-chu-ka, Tibetan upland [393](#393nagchuka)
 
-A stone hovel on the Tibetan upland [393](#393)
+A stone hovel on the Tibetan upland [393](#393hovel)
 
-Grazing yaks on the Tibetan upland [393](#393)
+Grazing yaks on the Tibetan upland [393](#393yaks)
 
-Sand-buried cromlechs and alinement at Do-ring, Southwest of Pang-gong Lake [416](#416)
+Sand-buried cromlechs and alinement at Do-ring, Southwest of Pang-gong Lake [416](#416cromlechs)
 
-Ancient grave in Nag-tshang [416](#416)
+Ancient grave in Nag-tshang [416](#416grave)
 
-Crossing the Tarkö tsang-po [417](#417)
+Crossing the Tarkö tsang-po [417](#417tarko)
 
-The expedition column approaching the Trans-Himalayas [417](#417)
+The expedition column approaching the Trans-Himalayas [417](#417approach)
 
-*Kinchenjunga --- The Mountain of the Five Treasures* [444](#444) Painting by Nicholas Roerich, White House, Washington, D.C.
+*Kinchenjunga --- The Mountain of the Five Treasures* [444](#444kinchen) Painting by Nicholas Roerich, White House, Washington, D.C.
 
 <a id="xx">**xx TRAILS TO INMOST ASIA**</a>
 
 *To face page*
 
-Saga dzong [445](#445)
+Saga dzong [445](#445saga)
 
-The Trans-Himalayas from Saga dzong [445](#445)
+The Trans-Himalayas from Saga dzong [445](#445trans)
 
-Crossing the Brahmaputra [454](#454)
+Crossing the Brahmaputra [454](#454brahma)
 
-The snow-peak Saga Jo-chung [454](#454)
+The snow-peak Saga Jo-chung [454](#454saga)
 
-The valley of the Tsang-po [455](#455)
+The valley of the Tsang-po [455](#455tsang)
 
-Chatu gompa in the valley of the Tsang-po [455](#455)
+Chatu gompa in the valley of the Tsang-po [455](#455chatu)
 
-Tingri [476](#476)
+Tingri [476](#476tingri)
 
-Shekar dzong [476](#476)
+Shekar dzong [476](#476shekar)
 
-*Stupa at Chung-tü* [477](#477) Painting by Nicholas Roerich. Roerich Museum, New York
+*Stupa at Chung-tü* [477](#477stupa) Painting by Nicholas Roerich. Roerich Museum, New York
 
 *To face page*
 
-*Royal Monastery of Chung-tü, near Sa-skya* [482](#482) Painting by Nicholas Roerich. Roerich Museum, New York
+*Royal Monastery of Chung-tü, near Sa-skya* [482](#483kampa2) Painting by Nicholas Roerich. Roerich Museum, New York
 
-Kampa dzong [483](#483)
+Kampa dzong [483](#483kampa2)
 
-Kampa dzong [483](#483)
+Kampa dzong [483](#483kampa2)
 
-*Ling-kar* [486](#486) Painting by Nicholas Roerich. Roerich Museum, New York
+*Ling-kar* [486](#486lingkar) Painting by Nicholas Roerich. Roerich Museum, New York
 
-Lepcha hillman, Sikkim [487](#487)
+Lepcha hillman, Sikkim [487](#487lepcha)
 
-The Monastery of Pema-yangtze in Sikkim [487](#487)
+The Monastery of Pema-yangtze in Sikkim [487](#487pema)
 
-General map of the route of the expedition through central Asia [504](#504)
+General map of the route of the expedition through central Asia [504](#504map)
 
 <a id="1"></a>
 <a id="3"></a>
@@ -2813,9 +2813,13 @@ On arriving in Ganden, we were ushered into a narrow lane, leading to a small re
 
 The furnishing of his tent was simple but clean and cozy. A large iron stove in the center gave plenty of warmth. An altar with a glass case containing several small images and photos of great lamas, stood at the northern wall of the tent. Near to the altar stood a table and a large wooden case containing the lama's library. He himself was engaged in translating into Tibetan a Russian textbook on algebra for the use of the monastery lamas. He told us that Buddhism should be renovated in the light of modern science. It was necessary to improve the general education of the lamas. According to him, in times past one met learned lamas, who knew Sanskrit and had a thorough knowledge of the *tshan-nyid* literature of Buddhism. Now such men are rare, and most of the lamas content themselves with learning by heart a few proscribed prayer books. The *lha-ram-pa* was well aware of the fact that unless the church would improve the education of the lamas, the influence of religion would rapidly wane. A question that greatly agitated the clerical masses was that of the *khuvaraks* or novices. According to the old rule, boys of seven were given away by their parents to a monastery to become lamas. A family that had several sons would always give one of them away. Educated from early boyhood in the precepts and traditions of the Lamaist order, the boys grew into staunch supporters of the church. The new progressive government of Mongolia recently promulgated a law that only boys of eighteen could enter the monastery and that they should do so entirely of their own accord. This was a heavy blow to the church, which suddenly lost its right of recruiting novices among the population. Our informer was, however, of the opinion that the importance lay in quality and not in quantity; let there be fewer lamas, but real ones, learned in the precepts of their religion.
 
+<a id="162avalo"></a>
+
 ![070-avalokitesvara.png](070-avalokitesvara.png)
 
 TEMPLE OF AVALOKITESVARA, GANDEN MONASTERY, URGA
+
+<a id="162burner"></a>
 
 ![071-incense-burner.png](071-incense-burner.png)
 
@@ -2823,9 +2827,13 @@ BRONZE INCENSE BURNER
 
 IN FRONT OF THE GANDEN MONASTERY, URGA
 
+<a id="163altar"></a>
+
 ![072-altar-ganden.png](072-altar-ganden.png)
 
 TEMPLE ALTAR, GANDEN MONASTERY, URGA
+
+<a id="163altarphoto"></a>
 
 ![073-photo-bogdo-gegen.png](073-photo-bogdo-gegen.png)
 
@@ -2847,17 +2855,25 @@ One of the most important events in the religious life of the capital is the Mai
 
 horses. The long trumpets send out their deep sonorous notes and are accompanied by the clear ringing tones of the hautboys and clarinets. Now and then is heard the clashing sound of cymbals, deadened by the drums. A thousand feet trample on the dusty road. Majestic abbots in high lama hats and purple mantles, young *getsul* or novices in shabby garments, officials and commoners, all in one huge crowd follow the image of the One who incarnates all the hopes of Buddhist Mongolia. Some of the onlookers prostrate themselves in the dust before the passing images, others murmur prayers and jostle each other to get nearer to the images. This procession is the passing of old Mongolia, the country of Incarnate Lamas and gorgeously fantastic garments --- the colorful costumes of the crowd and the deep purple clerical robes are sharply contrasted with the somber khaki uniforms of the Mongol cavalrymen who line the path of the procession --- symbols of old and new Mongolia.
 
+<a id="164types"></a>
+
 ![074-mongol-lamas.png](074-mongol-lamas.png)
 
 TYPES OF MONGOL LAMAS
+
+<a id="164dara"></a>
 
 ![075-dara-eke-consort.png](075-dara-eke-consort.png)
 
 DARA-EKE, THE CONSORT OF THE LAST BOGDO GEGEN
 
+<a id="165gates"></a>
+
 ![076-gates-cho-jin.png](076-gates-cho-jin.png)
 
 GATES OF CHÖ-JIN LAMA-YIN-SÜMÄ
+
+<a id="165horses"></a>
 
 ![077-horses-procession.png](077-horses-procession.png)
 
@@ -3099,17 +3115,25 @@ We started next day with the object of reaching Yum-beise küren. After we left 
 
 The last portion of the road to Yum-beise was exceedingly hard for cars. The country was a highly intersected mountainous region and the dry river beds presented great obstacles for wheeled vehicles. After reaching the top of a steep ridge, we suddenly found ourselves in sight
 
+<a id="188cars"></a>
+
 ![078-expedition-cars.png](078-expedition-cars.png)
 
 THE EXPEDITION CARS IN THE VALLEY OF THE TOLA RIVER, MONGOLIA
+
+<a id="188crossing"></a>
 
 ![079-cars-crossing-ongin.png](079-cars-crossing-ongin.png)
 
 EXPEDITION CARS CROSSING THE ONGIN-GOL, SOUTHWEST MONGOLIA
 
+<a id="189yum"></a>
+
 ![080-yum-beise.png](080-yum-beise.png)
 
 MONASTERY OF YUM-BEISE
+
+<a id="189nuns"></a>
 
 ![081-mongol-nuns.png](081-mongol-nuns.png)
 
@@ -3344,17 +3368,25 @@ We started in the afternoon. The ground became moist and we crossed large patche
 
 We dispatched our reconnoitering party ahead to find a camping
 
+<a id="210start"></a>
+
 ![082-starting-yum-beise.png](082-starting-yum-beise.png)
 
 EXPEDITION CARAVAN STARTING FROM YUM-BEISE
+
+<a id="210gobi"></a>
 
 ![083-camp-gobi.png](083-camp-gobi.png)
 
 CAMP IN THE MONGOLIAN GOBI
 
+<a id="211watch"></a>
+
 ![084-watchtower-gobi.png](084-watchtower-gobi.png)
 
 AN ANCIENT CHINESE WATCHTOWER IN THE SOUTHERN GOBI
+
+<a id="211jalama"></a>
 
 ![085-castle-ja-lama.png](085-castle-ja-lama.png)
 
@@ -3670,17 +3702,25 @@ On that day everything in camp was ready for the departure but no camels appeare
 
 We did not go far this day, and halted after an hour's ride in a broad ravine with a tiny stream. We protested to the headman and told him that we needed the remaining twelve camels. He got terribly excited and threatened to throw down our loads. We warned him that unless he agreed to supply immediately the twelve remaining camels, we
 
+<a id="240shih"></a>
+
 ![086-camp-shih-pao.png](086-camp-shih-pao.png)
 
 EXPEDITION CAMP AT SHIH-PAO-CH'ENG IN THE NAN SHAN MOUNTAINS
+
+<a id="240camel"></a>
 
 ![087-camel-caravan.png](087-camel-caravan.png)
 
 THE CAMEL CARAVAN
 
+<a id="241shara"></a>
+
 ![088-camp-sharagolji.png](088-camp-sharagolji.png)
 
 EXPEDITION CAMP AT SHARAGOLJI
+
+<a id="241chief"></a>
 
 ![089-lama-tsaidam.png](089-lama-tsaidam.png)
 
@@ -3955,13 +3995,19 @@ The Mongol encampments were numerous but we noticed that some of the families li
 
 Only a month before our passage, during a Mongol tribal meeting, the Goloks made a fresh raid on Neiji and penetrated as far as the Bure-yin-gol. The Mongol headmen of Teijiner were informed by Mongol
 
+<a id="268ulan"></a>
+
 ![090-foot-ulan-daban.png](090-foot-ulan-daban.png)
 
 AT THE FOOT OF THE ULAN-DABAN PASS
 
+<a id="268ulanpass"></a>
+
 ![091-ulan-daban.png](091-ulan-daban.png)
 
 THE ULAN-DABAN PASS
+
+<a id="268bure"></a>
 
 ![092-camp-bure-yin.png](092-camp-bure-yin.png)
 
@@ -3969,9 +4015,13 @@ EXPEDITION CAMP
 
 IN THE VALLEY OF BURE-YIN-GOL, TSAIDAM
 
+<a id="269man"></a>
+
 ![093-tsaidam-mongol.png](093-tsaidam-mongol.png)
 
 A TSAIDAM MONGOL
+
+<a id="269woman"></a>
 
 ![094-tsaidam-mongol-woman.png](094-tsaidam-mongol-woman.png)
 
@@ -4174,6 +4224,8 @@ The ascent was long but not too steep. *Kyangs* grazing in the vicinity of the p
 
 The summit of the pass was crowned by a stone cairn and a *men-*
 
+<a id="290thang"></a>
+
 ![095-thang-la.png](095-thang-la.png)
 
 THE THANG LA
@@ -4182,11 +4234,15 @@ PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
+<a id="291beforethang"></a>
+
 ![096-before-thang-la.png](096-before-thang-la.png)
 
 BEFORE THE THANG LA
 
 ![097-decent-thang-la.png](097-decent-thang-la.png)
+
+<a id="291descentthang"></a>
 
 THE DESCENT FROM THE THANG LA
 
@@ -4353,17 +4409,25 @@ One of our Mongols in charge of our caravan animals, returned to camp and report
 
 October 27, 1927. The day was again sunny but bitterly cold, the thermometer registering -20°C. Late in the afternoon a messenger
 
+<a id="308nomads"></a>
+
 ![098-tibetan-nomads.png](098-tibetan-nomads.png)
 
 TIBETAN NOMADS
+
+<a id="308nomadcamp"></a>
 
 ![099-nomad-camp.png](099-nomad-camp.png)
 
 A NOMAD CAMP
 
+<a id="309soldiers"></a>
+
 ![100-tibetan-soldiers.png](100-tibetan-soldiers.png)
 
 TIBETAN SOLDIERS, STATIONED AS GUARDS IN THE EXPEDITION CAMP AT CHU NA-KHE
+
+<a id="309chunakhe"></a>
 
 ![101-camp-chu-na-khe.png](101-camp-chu-na-khe.png)
 
@@ -4429,17 +4493,25 @@ The next day one of our Torguts arrived at our camp and reported that the horses
 
 The Major paid us a visit and brought ten small bags of grain for our horses and one bag of *tsam-pa* for the expedition personnel. These provisions were collected with great difficulty from the local population, which was short of grain and other supplies. We again asked the Major to permit us to sell our animals to traders and pilgrims at Nag-chu but he made the same reply that he had no power to do so without permission from the Government, which had forbidden him to allow us to trade with local people. We were supposed to receive our rations from the Government. The Major told us an amusing story which showed well the mental attitude of the Tibetan authorities. The expedition had brought from Su-chou one rooster and two hens. The fowls were fed on grain, but as we needed all the available grain for our animals, we presented them to the Major. The disappearance of the birds from our camp was quickly noticed and somehow reported to the Joint-Governors of Nag-chu. The Major had addressed a letter to the Joint-Governors saying that according to his observations we were religious
 
+<a id="314buried"></a>
+
 ![102-camp-snow.png](102-camp-snow.png)
 
 EXPEDITION CAMP BURIED IN SNOW AT CHU-NA-KHE
+
+<a id="314camp"></a>
 
 ![103-camp-chu-na-khe.png](103-camp-chu-na-khe.png)
 
 EXPEDITION CAMP AT CHU-NA-KHE
 
+<a id="315perish"></a>
+
 ![104-perishing-caravan.png](104-perishing-caravan.png)
 
 THE PERISHING CARAVAN
+
+<a id="315guard"></a>
 
 ![105-tibetan-guard.png](105-tibetan-guard.png)
 
@@ -4593,17 +4665,25 @@ The road to Sharugön was free from snow. After a two hours' ride, we reached th
 
 The head lama of the monastery paid us a visit and brought some milk as a present. He said that the monks did not object to our stay in
 
+<a id="326stupa"></a>
+
 ![106-stupa-sharugon.png](106-stupa-sharugon.png)
 
 *STUPA* AT SHARUGÖN
+
+<a id="326monastery"></a>
 
 ![107-monastery-sharugon.png](107-monastery-sharugon.png)
 
 MONASTERY AT SHARUGÖN
 
+<a id="327bonpo"></a>
+
 ![108-bon-po-sharugon.png](108-bon-po-sharugon.png)
 
 THE BÖN-PO MONASTERY AT SHARUGÖN
+
+<a id="327camp"></a>
 
 ![109-camp-sharugon.png](109-camp-sharugon.png)
 
@@ -5088,13 +5168,19 @@ The present Bön-po population is not very strict in the observance of Bön rite
 
 Some of the Bön-po lamas in the Hor region are quite wealthy, possessing large herds of yaks, flocks of sheep, and well-furnished, private libraries. They all live in tents. Sometimes two or three tents are put together to form one tent long enough to quarter all the family and some of the servants. Many of such lama householders are successful traders and sell tea bricks to the population, which they receive from Ssu-ch'uan, and other commodities. The local nomads profess great respect toward them and invariably address them as *Kusho rimpoche* or *lama-la*. Precious Sir, or Venerable Teacher. All the Bön-po laymen wear charm boxes or *ga-u* on their necks and across the shoulder, and turn prayer wheels in an opposite direction. Close to their tents stand big poles with prayer flags and one sometimes sees yak and horse tails fixed to the poles.
 
+<a id="366hor"></a>
+
 ![110-women-hor.png](110-women-hor.png)
 
 WOMEN OF HOR IN THE REGIN OF NUP-HOR
 
+<a id="367pouch1"></a>
+
 ![111-tinder-pouch-1.png](111-tinder-pouch-1.png)
 
 TINDER AND FLINT POUCH. HOR REGION, NORTH TIBET
+
+<a id="367pouch2"></a>
 
 ![112-tinder-pouch-2.png](112-tinder-pouch-2.png)
 
@@ -5124,9 +5210,13 @@ We are concerned here only with the end of the above passage. A section of the Y
 
 19\. Fr. Hirth, "The Story of Chang-K'ien, *JAOS*, Vol. 37, 2 (1917), chap. 123, p. 96.
 
+<a id="368ching"></a>
+
 ![113-buckle-ching-kar.png](113-buckle-ching-kar.png)
 
 BRASS BUCKLE, CHING-KAR, NAM-RU DISTRICT, NORTH TIBET
+
+<a id="368lahul"></a>
 
 ![114-flint-pouch-lahul.png](114-flint-pouch-lahul.png)
 
@@ -5134,11 +5224,15 @@ FLINT POUCH, LAHUL, WEST TIBET
 
 FROM THE COLLECTION OF S. N. ROERICH
 
+<a id="369deer"></a>
+
 ![115-deer-charm-box.png](115-deer-charm-box.png)
 
 DEER ON BRASS CHARM BOX
 
 FROM THE COLLECTION OF S. N. ROERICH
+
+<a id="369photo"></a>
 
 ![116-photo-deer-charm-box.png](116-photo-deer-charm-box.png)
 
@@ -5172,21 +5266,29 @@ In comparing the two plaques, one can readily see the similarity of composition.
 
 21\. The piece was reproduced on Plate VIII of the Preliminary Report, published by the Academy of Sciences, 1925.
 
+<a id="370deer"></a>
+
 ![117-conventionalized-deer.png](117-conventionalized-deer.png)
 
 CONVENTIONALIZED FIGURE OF DEER ON SILVERED IRON PEN CASE
 
 FROM THE COLLECTION OF S. N. ROERICH
 
+<a id="370photo"></a>
+
 ![118-photo-deer-pen-case.png](118-photo-deer-pen-case.png)
 
 PHOTOGRAPH OF DEER ON SILVERED IRON PEN CASE
+
+<a id="371derge"></a>
 
 ![119-plaque-derge.png](119-plaque-derge.png)
 
 METAL PLAQUE FROM DERGE
 
 FROM THE COLLECTION OF S. N. ROERICH
+
+<a id="371noin"></a>
 
 ![120-plaque-noin-ula.png](120-plaque-noin-ula.png)
 
@@ -5209,6 +5311,7 @@ All these objects irrefutably attest the existence of the ancient central Asian 
 23\. The Kozlov plaque was published in the supplementary plates (I) of the *Preliminary Report of the Kozlov Expedition* (Leningrad, 1925), ed. Academy of Sciences of the U.S.S.R.
 
 <a id="372"></a>
+<a id="372swan"></a>
 
 ![121-conventionalized-swan.png](121-conventionalized-swan.png)
 
@@ -5317,19 +5420,27 @@ The Nag-chu *dzong* is situated some one hundred and fifty miles north of Lhasa 
 
 1\. Huc and Gabet, *Travels in Tartary, Thibet, and China*, ed. Professor Peiliot (London, 1928), pp. 161 *et seq*.
 
+<a id="384hq1"></a>
+
 ![122-hq-nagchu.png](122-hq-nagchu.png)
 
 HEADQUARTERS OF THE EXPEDITION AT NAGCHU
 
 THE AMERICAN FLAG SHOWN WAS THE FIRST EVER TO FLY IN TIBET
 
+<a id="384hq2"></a>
+
 ![123-hq-nagchu-2.png](123-hq-nagchu-2.png)
 
 HEADQUARTERS OF THE EXPEDITION AT NAGCHU
 
+<a id="385dzong"></a>
+
 ![124-nagchu-dzong.png](124-nagchu-dzong.png)
 
 NAGCHU DZONG
+
+<a id="385shabden"></a>
 
 ![125-shab-den-nagchu.png](125-shab-den-nagchu.png)
 
@@ -5421,21 +5532,31 @@ On the evening of the next day, I visited the *khan-po*, and had a long talk abo
 
 Next day (February 20), we witnessed the ceremony of burning the *torma* or offerings to the spirits of the place, performed before the New Year. The first ceremony took place at the house of the *khan-po*. We were invited and allowed to take photographs of the procession. At the head, two lamas carried the *torma*. They were followed by the chief lama, dressed in a red mantle and having the *sha-ser* or yellow hat of his sect on his head. He was followed by a number of lamas, all carrying objects used in the ceremonies. The lamas were followed by lama musicians carrying drums and long trumpets called *dung-chen* and Tibetan hautboys. The dead sound of the drums accompanied the procession, which was escorted by a troop of local headmen in brightly colored dresses with green and red turbans on their heads. They all
 
+<a id="392street"></a>
+
 ![126-street-nagchu.png](126-street-nagchu.png)
 
 A STREET IN NAGCHU
+
+<a id="392torma"></a>
 
 ![127-burning-torma.png](127-burning-torma.png)
 
 BURNING THE *TORMA* OR NEW YEAR OFFERING
 
+<a id="393nagchuka"></a>
+
 ![128-nag-chu-ka.png](128-nag-chu-ka.png)
 
 NAG-CHU-KA, TIBETAN UPLAND
 
+<a id="393hovel"></a>
+
 ![129-stone-hovel.png](129-stone-hovel.png)
 
 A STONE HOVE ON THE TIBETAN UPLAND
+
+<a id="393yaks"></a>
 
 ![130-grzing-yaks.png](130-grzing-yaks.png)
 
@@ -5672,17 +5793,25 @@ The megalithic monuments discovered by the expedition are completely unknown to 
 
 March 23. At the start, we had some trouble with local horses, which had never seen camels before and dashed in all directions. Some time passed before we were able to bring all the animals back to camp. The route followed a mountain gorge, which stretched in a southwesterly direction. Wind-eroded granite massifs rose on either side of the gorge. The path led across a low, sandy ridge, from whose top we looked over a broad grass valley dotted by encampments. The valley was inclosed by high, sandy ridges with eroded surfaces. After crossing the valley, we entered a system of low, sandy ridges, deeply cut by dry river beds.
 
+<a id="416cromlechs"></a>
+
 ![131-cromlechs-do-ring.png](131-cromlechs-do-ring.png)
 
 SAND-BURIED CROMLECHS AND ALINEMENT AT DO-RING, SOUTHWEST OF PANG-GONG LAKE
+
+<a id="416grave"></a>
 
 ![132-grave-nag-tshan.png](132-grave-nag-tshan.png)
 
 ANCIENT GRAVE IN NAG-TSHANG
 
+<a id="417tarko"></a>
+
 ![133-crossing-tarko.png](133-crossing-tarko.png)
 
 CROSSING THE TARKÖ TSANG-PO
+
+<a id="417approach"></a>
 
 ![134-approaching-trans-himalayas.png](134-approaching-trans-himalayas.png)
 
@@ -6000,15 +6129,21 @@ April 19. We started at seven o'clock and retraced our steps, until we had reach
 
 The ascent to the pass was very steep and our poor animals had a very hard time. They often had to stop to regain their wind. From the summit one could see three valleys, the Tsuk-chung on the northeast.
 
+<a id="444kinchen"></a>
+
 ![135-kinchenjunga.png](135-kinchenjunga.png)
 
 KINCHENJUNGA --- THE MOUNTAIN OF THE FIVE TREASURIES
 
 PAINTING BY NICHOLAS ROERICH, WHITE HOUSE WASHINCTON, D. C.
 
+<a id="445saga"></a>
+
 ![136-saga-dzong.png](136-saga-dzong.png)
 
 SAGA DZONG
+
+<a id="445trans"></a>
 
 ![137-trans-himalayas-saga-dzong.png](137-trans-himalayas-saga-dzong.png)
 
@@ -6093,17 +6228,25 @@ April 26. We made an early start, for everyone in the caravan was eager to reach
 
 We followed the valley for another four miles and then camped on a level spot on the bank of a tiny mountain stream emptying into the Tsang-po. Here two tents were pitched for us by order of the *yu-pön* or headman of Yanju. The place was known under the name of Phur. Fine, multicolored rocks rose on either side of the narrow valley. The dark coloring of basalt alternated with bands of bright red and purple limes, on whose background were scattered the bright green spots of juniper shrubs. Snow was still lying in sheltered ravines. The Yanju men who brought the tents refused to supply fuel and fodder on the ground that they did not desire to serve Ja-gar *phyi-lings* or Indian *phyi-lings*. We ordered their names to be taken and reported to the local authorities at Yanju. After this stern threat the fuel and fodder ap-
 
+<a id="454brahma"></a>
+
 ![138-brahmaputra.png](138-brahmaputra.png)
 
 CROSSING THE BRAHMAPUTRA
+
+<a id="454saga"></a>
 
 ![139-saga-jo-chung.png](139-saga-jo-chung.png)
 
 THE SNOW-PEAK SAGA JO-CHUNG
 
+<a id="455tsang"></a>
+
 ![140-tsang-po.png](140-tsang-po.png)
 
 THE VALLEY OF THE TSANG-PO
+
+<a id="455chatu"></a>
 
 ![141-chatu-gompa.png](141-chatu-gompa.png)
 
@@ -6337,13 +6480,19 @@ In some of the houses at Tingri and the villages of the locality, we found wall 
 
 May 6. We made an early start. At six o'clock the caravan left Memo and crossed the vast plain on which the village was situated. After turning a rocky promontory, the trail followed a narrow valley, inclosed on all sides by limestone ridges. At a small village of a dozen hovels, situated on the Phung-chu, the road branched off. One road followed the bank of the river toward a bridge, the other forded the river at the village and turned northeast into the mountains. The second road was much shorter and we decided to ford the river. Having hired two men as guides we began the fording. The river was deep and some of us who were riding on small horses got our feet wet. There was trouble in bringing over the donkey caravan. The water was too high for a laden donkey and some of the larger loads had to be carried across on men's backs. The bed of the river was sandy and in the rainy season (July-August), swelled considerably. On crossing the river, we entered a highly intersected country of sandy and limestone hills. After two miles the limestone disappeared and we rode past rocky crags and massive witnesses of volcanic activity in a recent geological period. The road was narrow and heavy. After crossing two
 
+<a id="476tingri"></a>
+
 ![142-tingri.png](142-tingri.png)
 
 TINGRI
 
+<a id="476shekar"></a>
+
 ![143-shekar-dzong.png](143-shekar-dzong.png)
 
 SHEKAR DZONG
+
+<a id="477stupa"></a>
 
 ![144-stupa-chung-tu.png](144-stupa-chung-tu.png)
 
@@ -6417,6 +6566,8 @@ A camp was pitched for us outside the headman's house on a patch of level ground
 
 May 12. In the morning the headman unexpectedly refused to supply caravan animals. He said that the Governor of Shekar knew perfectly well that Tashi-gang was not on the main road to Ting-kye and that Tashi-gang was exempt from relay or *ula* service by special order from His Holiness the Dalai Lama. The two officials from She-kar who were escorting us as far as Ting-kye, were unable to persuade
 
+<a id="483kampa2"></a>
+
 ![145-chung-tu.png](145-chung-tu.png)
 
 ROYAL MONASTERY OF CHUNG-TÜ, NEAR SA-SKYA
@@ -6425,9 +6576,13 @@ PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
+<a id="483kampa1"></a>
+
 ![146-kampa-dzong-1.png](146-kampa-dzong-1.png)
 
 KAMPA DZONG
+
+<a id="483kampa2"></a>
 
 ![147-kampa-dzong-2.png](147-kampa-dzong-2.png)
 
@@ -6469,6 +6624,8 @@ May 14. It was not easy to start the new caravan, for the baggage had to be agai
 
 The day was cloudy and the Himalayas were hidden behind an impenetrable veil of mist. Distant thunder roared in the mountains and occasional rain and wet snow fell during the morning. After two hours of hustle, we left the camp with the last section of the caravan. The
 
+<a id="486lingkar"></a>
+
 ![148-ling-kar.png](148-ling-kar.png)
 
 LING-KAR
@@ -6477,9 +6634,13 @@ PAINTING BY NICHOLAS ROERICH
 
 *Roerich Museum, New York*
 
+<a id="487lepcha"></a>
+
 ![149-lepcha-sikkim.png](149-lepcha-sikkim.png)
 
 LEPCHA HILLMAN, SIKKIM
+
+<a id="487pema"></a>
 
 ![150-pema-yangtze.png](150-pema-yangtze.png)
 
@@ -8506,6 +8667,8 @@ Zawa Kurghan, [56](#56)
 *Zi*-beads, [460](#460)
 
 Zoji Pass, [7](#7) ff.
+
+<a id="504map"></a>
 
 ![623-map-1.jpg](602-map-1.jpg)
 
