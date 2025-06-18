@@ -388,7 +388,7 @@ Dara-Eke, the consort of the last Bogdo Gegen [164](#164dara)
 
 Types of Mongol lamas [164](#164types)
 
-Gates of Chö-jin Lama-yin-sümä [165](#165cho)
+Gates of Chö-jin Lama-yin-sümä [165](#165gates)
 
 Horses used in religious processions to carry the holy images [165](#165horses)
 
@@ -8676,3 +8676,7 @@ Zoji Pass, [7](#7) ff.
 ![623-map-1.jpg](602-map-1.jpg)
 
 ![603-map-2.jpg](603-map-2.jpg)
+
+## Discussion
+
+[**Questions or comments?**](https://t.me/answer42geo/96)
