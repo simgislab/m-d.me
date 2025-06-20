@@ -16,6 +16,8 @@ fediverse: "@username@instance.url"
 
 Turns out there is no quality text version of George Roerich's Trails to Inmost Asia. Available PDFs and TXT files are not usable for annotating and shared work. Internet Archive TXT contains lots of errors. So here is a completely redone text version.
 
+![135-kinchenjunga.png](135-kinchenjunga.png "Kinchenjunga --- The mountain of the five treasures. Painting by Nicholas Roerich, White House Washington, D.C.")
+
 Sources:
 
 * Roerich's original book in PDF and TXT format from [Internet Archive](https://archive.org/details/in.ernet.dli.2015.43990).
@@ -6136,9 +6138,9 @@ The ascent to the pass was very steep and our poor animals had a very hard time.
 
 ![135-kinchenjunga.png](135-kinchenjunga.png)
 
-KINCHENJUNGA --- THE MOUNTAIN OF THE FIVE TREASURIES
+KINCHENJUNGA --- THE MOUNTAIN OF THE FIVE TREASURES
 
-PAINTING BY NICHOLAS ROERICH, WHITE HOUSE WASHINCTON, D. C.
+PAINTING BY NICHOLAS ROERICH, WHITE HOUSE WASHINGTON, D. C.
 
 <a id="445saga"></a>
 
