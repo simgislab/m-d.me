@@ -1,8 +1,8 @@
 ---
 title: "Roerich. Trails to Inmost Asia"
 date: "2025-06-07"
-summary: "Edited and formated text of the 1931 edition with interactive indices."
-description: "Edited and formated text of the 1931 edition with interactive indices."
+summary: "Edited and formatted 1931 with interactive indices. Prepared by Maxim Dubinin https://m-d.me/notes/roerich-trails-to-asia-en"
+description: "Edited and formatted 1931 text with interactive indices. Prepared by Maxim Dubinin https://m-d.me/notes/roerich-trails-to-asia-en"
 toc: true
 autonumber: false
 math: false
