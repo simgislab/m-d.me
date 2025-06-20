@@ -1,8 +1,8 @@
 ---
 title: "Roerich. Trails to Inmost Asia"
 date: "2025-06-07"
-summary: "Editing and formatting of the source 1931 text."
-description: "Editing and formatting of the source 1931 text."
+summary: "Edited and formated text of the 1931 edition with interactive indices."
+description: "Edited and formated text of the 1931 edition with interactive indices."
 toc: true
 autonumber: false
 math: false
