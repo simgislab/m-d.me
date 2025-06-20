@@ -18,7 +18,7 @@ fediverse: "@username@instance.url"
 
 ## Сводное и методологическое
 
-* [Pilgrim routes to Tibet](/notes/pilgrim-ways-to-tibet/)
+* [Pilgrim routes to Tibet](/notes/pilgrim-routes-to-tibet/)
 * [Route decoding methodology](/notes/route-mapping-methodology-en/)
 
 ## Цыбиков
