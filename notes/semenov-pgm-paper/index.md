@@ -1,5 +1,5 @@
 ---
-title: "Текст статьи Семенова-Тян-Шанского на немецком в PGM."
+title: "Текст статьи Семенова-Тян-Шанского на немецком в PGM"
 date: "2025-04-22"
 summary: "P. v. Semenow’s Erforschungsreisen in Inner-Asien im Jahre 1857, seine Aufnahme des Alpensee’s Issyk Kul und anderer Theile der nordwestlichen Russisch-Chinesischen Grenzländer bis zu den Gletschern des Thianschan-Gebirges."
 description: "P. v. Semenow’s Erforschungsreisen in Inner-Asien im Jahre 1857, seine Aufnahme des Alpensee’s Issyk Kul und anderer Theile der nordwestlichen Russisch-Chinesischen Grenzländer bis zu den Gletschern des Thianschan-Gebirges."
