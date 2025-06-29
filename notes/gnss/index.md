@@ -196,19 +196,59 @@ G17 - название спутника.
 
 ## pos
 
+Выходной файл, результат работы rnx2rtkp.
+
+Запуск с параметрами в командной строке:
+
 ```text
-rnx2rtkp -p 0 -f 2 -m 0 -t 15 -o output.pos GEOP178M.25o brdc1780.25n
+rnx2rtkp -p 0 -f 4 -m 0 -t 15 -o output.pos GEOP178M.25o brdc1780.25n
 ```
 
 | Параметр        | Значение         | Объяснение                           |
 | --------------- | ---------------- | ------------------------------------ |
 | `-p 0`          | Single mode      | (0: Single, 1: DGPS, 2: Kinematic…)  |
-| `-f 2`          | L1+L5            | Использовать две частоты (если есть) |
+| `-f 4`          | L1+L5            | Использовать две частоты (если есть) |
 | `-m 0`          | Forward solution | Одностороннее решение                |
 | `-t 15`         | Elevation mask   | Маска высоты 15°                     |
 | `-o output.pos` | Выходной файл    |                                      |
 
-Заголовок:
+Запуск с параметрами в конфигурационном файле:
+
+```text
+rnx2rtkp -k single.conf GEOP180N.25o brdc1800.25n > output.pos
+```
+
+Пример содержимого конфигурационного файла:
+
+```text
+# === позиционирование ===
+pos1-posmode     =single      # 0: Single
+pos1-frequency   =4      # 4: L1+L5
+pos1-soltype     =0      # 0: Forward
+pos1-elmask      =15
+pos1-snrmask     =0
+pos1-dynamics    =0
+pos1-tidecorr    =0
+
+# === дополнительные параметры ===
+pos2-armode      =0      # 0: Off (no ambiguity resolution)
+pos2-gloarmode   =0      # 0: Off
+pos2-sateph      =0      # 0: Broadcast Ephemeris (BRDC)
+
+# === формат вывода ===
+out-solformat    =0      # 0: Lat/Lon/Height
+out-outhead      =1
+out-outopt       =1
+out-timesys      =1      # 1: GPST
+out-timeform     =1      # 1: hh:mm:ss
+out-statlevel    =1      # 1: level1
+
+# === отключаем коррекции ===
+inp-sbascorr     =0
+inp-dcb          =0
+```
+
+Заголовок результата:
 
 ```text
 % program   : rnx2rtkp ver.demo5 b34L
@@ -222,11 +262,23 @@ rnx2rtkp -p 0 -f 2 -m 0 -t 15 -o output.pos GEOP178M.25o brdc1780.25n
 %  GPST                  latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio
 ```
 
-Данные:
+Пример данных:
 
 ```text
 2025/06/27 12:00:00.990   53.871023428   39.151333919 -99301.0390   5   4   3.2043   2.6119   5.6681   1.1509   1.4308   2.0671   0.00    0.0
 ```
 
-* Q = 5, режим Single
+* GPST - дата, время
+* latitude(deg) - широта
+* longitude(deg) - долгота
+* height(m) - высота
+* Q - режим, Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp
 * ns - количество спутников
+* sdn(m)
+* sde(m)
+* sdu(m)
+* sdne(m)
+* sdeu(m)
+* sdun(m)
+* age(s)
+* ratio
