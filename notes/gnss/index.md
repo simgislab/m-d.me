@@ -160,7 +160,7 @@ C13  37559871.042            -244.060           28.000
 R07  22618308.171             4986.088          32.000                                  
 ```
 
-G17 - название спутника.
+G17 - название спутника одной из систем.
 
 ## 25n
 
@@ -168,27 +168,27 @@ G17 - название спутника.
 
 Перейдите на сайт NASA CDDIS, раздел Daily Data: <https://igs.org/data>. Дальше перейти по ссылке: <https://cddis.nasa.gov/archive/gnss/data/daily>. Нужно иметь аккаунт Earthdata. Залогиниться.
 
-В структуре /gnss/data/daily/YYYY/DDD/ нужно найти файл вида: YYYY/DDD/brdcDDD0.YYn.gz. DDD — день года наблюдения.
+В структуре /gnss/data/daily/YYYY/DDD/ нужно найти файл вида: brdcDDD0.YYn.gz. DDD — день года наблюдения.
 
 Пример для 27 июня 2025 года.
 
 * Год 2025 — соответствующий день года (e.g., 178-й день).
 * Путь: /2025/178/brdc1780.25n.gz.
 
-| Папка  | Система GNSS          | Содержит                        |
-| ------ | --------------------- | ------------------------------- |
-| `25d/` | QZSS (`J`)            | Навигационные файлы для QZSS    |
-| `25f/` | IRNSS (`I`)           | Индийская RNSS                  |
-| `25g/` | GLONASS               | Навигационные файлы для ГЛОНАСС |
-| `25h/` | SBAS (`S`)            | WAAS/EGNOS/GAGAN и т.д.         |
-| `25i/` | Mixed (IGS legacy)    | Старая IGS структура            |
-| `25l/` | Galileo (`E`)         | Навигационные файлы для Galileo     |
-| `25m/` | MGEX mix              | Используется для MGEX RINEX 3   |
-| `25n/` | NAVIGATION DATA       | `brdc` и другие `.YYn` файлы    |
-| `25o/` | Observation data      | RINEX наблюдения (`.YYo`)       |
-| `25p/` | GLONASS (`R`)         | Навигационные файлы для ГЛОНАСС   |
-| `25q/` | BeiDou (`C`)          | Навигационные файлы для BeiDou              |
-| `25s/` | SBAS / GEO satellites | Служебные                       |
+| Папка  | Система GNSS          | Содержит                        | [Official explanation](https://forum.earthdata.nasa.gov/viewtopic.php?t=6696)                         |
+| ------ | --------------------- | ------------------------------- |----------------------------------------------|
+| `25d/` |                       | RINEX наблюдения                | compressed, Hatanaka-compacted RINEX observation data |
+| `25f/` | Beidou                | Навигационные файлы для Beidou  | Beidou broadcast ephemeris data |
+| `25g/` | GLONASS               | Навигационные файлы для ГЛОНАСС | GLONASS broadcast ephemeris data |
+| `25h/` | SBAS                  | SBAS                            | SBAS broadcast ephemeris data |
+| `25i/` | IRNSS                 | Навигационные файлы для IRNSS   | IRNSS broadcast ephemeris data |
+| `25l/` | Galileo               | Навигационные файлы для Galileo | Galileo broadcast ephemeris data |
+| `25m/` |                       | RINEX метеоданные               | RINEX meteorological data for a subset of sites |
+| `25n/` | GPS                   | Навигационные файлы для GPS     | GPS broadcast ephemeris data |
+| `25o/` |                       | RINEX наблюдения                | compressed RINEX observation data |
+| `25p/` |                       | Смешанные эфемериды             | Mixed broadcast ephemeris data |
+| `25q/` | QZSS                  | Навигационные файлы для QZSS    | QZSS broadcast ephemeris |
+| `25s/` |                       | Сводные файлы                   | summary files of the observation data |
 
 **brdc** - Broadcast ephemerides — объединённый навигационный файл, содержащий все спутники системы за один день.
 
@@ -267,7 +267,7 @@ inp-dcb          =0
 % obs end   : 2025/06/27 12:59:59.0 GPST (week2372 478799.0s)
 %
 % (lat/lon/height=WGS84/ellipsoidal,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
-%  GPST                  latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio
+%  GPST latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio
 ```
 
 Пример данных:
