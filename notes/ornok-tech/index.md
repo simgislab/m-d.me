@@ -185,7 +185,7 @@ NextGIS Tracker - отдельное приложение созданное, ч
 
 
 Она же во встроенном виде:
-<iframe src="https://maxim.nextgis.com/resource/8282/display/tiny?angle=0&zoom=17&styles=8284%2C8320%2C8281%2C8287%2C8322&linkMainMap=true&events=false&panel=layers&controls=id%2Czi%2Czo&panels=layers%2Cidentify&base=basemap_1&lon=76.8700&lat=42.6366" style="overflow:hidden;height:600px;width:800px" height="600" width="800"></iframe>
+<iframe src="https://maxim.nextgis.com/resource/8282/display/tiny?angle=0&zoom=17&styles=8284%2C8320%2C8281%2C8287%2C8322&linkMainMap=true&events=false&panel=layers&controls=id%2Czi%2Czo&panels=layers%2Cidentify&base=basemap_1&lon=76.8700&lat=42.6366" style="overflow:hidden;width:640px" width="640"></iframe>
 
 ## Заключение
 
