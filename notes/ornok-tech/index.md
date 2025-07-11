@@ -172,11 +172,14 @@ NextGIS Tracker - отдельное приложение созданное, ч
 
 ## 3D визуализация
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Issyk-Kul Ornok petroglyph 20250701-10-46 v1" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2228ffc1e9f148d296a921ca38f19ceb/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/issyk-kul-ornok-petroglyph-20250701-10-46-v1-2228ffc1e9f148d296a921ca38f19ceb?utm_medium=embed&utm_campaign=share-popup&utm_content=2228ffc1e9f148d296a921ca38f19ceb" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Issyk-Kul Ornok petroglyph 20250701-10-46 v1 </a> by <a href="https://sketchfab.com/trolleway?utm_medium=embed&utm_campaign=share-popup&utm_content=2228ffc1e9f148d296a921ca38f19ceb" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> trolleway </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=2228ffc1e9f148d296a921ca38f19ceb" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+Для 59 камней с петроглифами выполнено фотографирование для производства 3D визуализаций. Делалось 20-30 фото со всех сторон. Построение моделей выполняется в RealityScan.
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Issyk-Kul Ornok petroglyph 20250701-10-46 v1" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2228ffc1e9f148d296a921ca38f19ceb/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/issyk-kul-ornok-petroglyph-20250701-10-46-v1-2228ffc1e9f148d296a921ca38f19ceb?utm_medium=embed&utm_campaign=share-popup&utm_content=2228ffc1e9f148d296a921ca38f19ceb" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Issyk-Kul Ornok petroglyph 20250701-10-46 v1 </a></p></div>
 
 ## Итого
 
 * Точно привязанных петроглифов: 59
+* 3D моделей: 59 (в процессе)
 * Дополнительно зафиксировано петроглифов: 145
 * Публичная интерактивная карта со всеми материалами: <https://maxim.nextgis.com/resource/8282/display?panel=layers>
 
