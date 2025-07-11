@@ -174,7 +174,7 @@ NextGIS Tracker - отдельное приложение созданное, ч
 
 Для 59 камней с петроглифами выполнено фотографирование для производства 3D визуализаций. Делалось 20-30 фото со всех сторон. Построение моделей выполняется в RealityScan.
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Issyk-Kul Ornok petroglyph 20250701-10-46 v1" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="600" src="https://sketchfab.com/models/2228ffc1e9f148d296a921ca38f19ceb/embed?ui_theme=dark"> </iframe> </div>
+<div class="sketchfab-embed-wrapper"> <iframe title="Issyk-Kul Ornok petroglyph 20250701-10-46 v1" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2228ffc1e9f148d296a921ca38f19ceb/embed"> </iframe> </div>
 
 ## Итого
 
