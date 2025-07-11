@@ -183,6 +183,8 @@ NextGIS Tracker - отдельное приложение созданное, ч
 * Дополнительно зафиксировано петроглифов: 145
 * Публичная интерактивная карта со всеми материалами: <https://maxim.nextgis.com/resource/8282/display?panel=layers>
 
+<iframe src="https://maxim.nextgis.com/resource/8282/display/tiny?angle=0&zoom=17&styles=8284%2C8320%2C8281%2C8287%2C8322&linkMainMap=true&events=false&panel=none&controls=&panels=&base=basemap_1&lon=76.8700&lat=42.6366" style="overflow:hidden;height:600px;width:800px" height="600" width="800"></iframe>
+
 ## Заключение
 
 Заметка дорабатывается.
