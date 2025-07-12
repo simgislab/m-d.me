@@ -1,14 +1,13 @@
 ---
-title: "DGPS"
-date: "2025-06-28"
-summary: "DGPS."
-description: "DGPS."
+title: "ГНСС/GNSS"
+date: "2025-07-12"
+summary: "Разные рандомные детали про GNSS измерения."
+description: "Разные рандомные детали про GNSS измерения."
 toc: true
 autonumber: false
 math: false
-tags: ["GPS"]
+tags: ["GPS","GNSS"]
 showTags: true
-draft: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
 ---
