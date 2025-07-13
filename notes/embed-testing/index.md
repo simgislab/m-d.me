@@ -1,8 +1,8 @@
 ---
 title: "Тестирование iframe embed"
 date: "2025-07-13"
-summary: "Тестирование встраеваемых карт и вьюверов."
-description: "Тестирование встраеваемых карт и вьюверов."
+summary: "Тестирование встраиваемых карт и вьюверов внешних данных."
+description: "Тестирование встраиваемых карт и вьюверов внешних данных."
 toc: true
 autonumber: false
 math: false
@@ -16,7 +16,15 @@ fediverse: "@username@instance.url"
 
 Дайте время загрузиться всем эмбедам.
 
-Должно работать и на десктопе и в мобильном браузере.
+Должно красиво работать и на десктопе и в мобильном браузере.
+
+Если embed-код предлагает только фиксированный размер в пикселях, нужно прописать width в процентах, например так: width:100%.
+
+В meta темы должно обязательно быть такое:
+
+```text
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
 
 ## Веб-карта из NGW
 
@@ -24,4 +32,9 @@ fediverse: "@username@instance.url"
 
 ## Sketchfab model
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Issyk-Kul Ornok petroglyph 20250701-10-46 v1" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2228ffc1e9f148d296a921ca38f19ceb/embed" style="width: 100%;height: 600px;"> </iframe> </div>
+<iframe title="Issyk-Kul Ornok petroglyph 20250701-10-46 v1" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2228ffc1e9f148d296a921ca38f19ceb/embed" style="width: 100%;height: 600px;"> </iframe>
+
+
+## Комментарии
+
+[**Обсудить**](https://t.me/answer42geo/47)
