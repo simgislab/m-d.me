@@ -24,4 +24,4 @@ fediverse: "@username@instance.url"
 
 ## Sketchfab model
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Issyk-Kul Ornok petroglyph 20250701-10-46 v1" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2228ffc1e9f148d296a921ca38f19ceb/embed"> </iframe> </div>
+<div class="sketchfab-embed-wrapper"> <iframe title="Issyk-Kul Ornok petroglyph 20250701-10-46 v1" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2228ffc1e9f148d296a921ca38f19ceb/embed" style="width: 100%;height: 600px;"> </iframe> </div>
