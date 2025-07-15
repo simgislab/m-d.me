@@ -9,7 +9,6 @@ math: false
 tags: ["ГИС"]
 showTags: true
 hideBackToTop: false
-draft: true
 fediverse: "@username@instance.url"
 ---
 
