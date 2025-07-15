@@ -1,0 +1,37 @@
+name: Build and Deploy Hugo site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.126.1'  # Замени на нужную при необходимости
+        extended: true
+
+    - name: Build site
+      run: hugo --minify
+
+    - name: Install rsync and ssh
+      run: sudo apt-get update && sudo apt-get install -y rsync openssh-client
+
+    - name: Add SSH key
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+
+    - name: Deploy via rsync
+      run: |
+        rsync -avz -e "ssh -p ${{ secrets.SSH_PORT }}" public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/
