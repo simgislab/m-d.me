@@ -86,4 +86,4 @@ curl -s "https://westra.ru/passes/classificator.php?place=455&type=new&export=km
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/109)
+[**Обсудить**](https://t.me/answer42geo/112)
