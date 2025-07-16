@@ -34,4 +34,4 @@ jobs:
 
     - name: Deploy via rsync
       run: |
-        rsync -avz -e "ssh -p ${{ secrets.SSH_PORT }}" public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/
+        rsync -avz -e "ssh -p ${{ secrets.SSH_PORT }}" --exclude='img/' public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/
