@@ -1,0 +1,103 @@
+baseURL = 'https://m-d.me'
+languageCode = 'ru-ru'
+title = 'Максим Дубинин'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "Личный сайт Максима Дубинина"
+showFooter = true
+footerContent = "CC BY-SA 4.0. Максим Дубинин, [maxim.dubinin@nextgis.com](mailto:maxim.dubinin@nextgis.com), tg: [Answer42geo](https://t.me/answer42geo)"
+
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Привет'
+homeIntroContent = """
+Больше 25 лет я занимаюсь географическими информационными системами, цифровой картографией, геоданными.
+
+Возможно вы слышали про мою компанию - [NextGIS](https://nextgis.com) или учились по моим статьям на [GIS-Lab](https://gis-lab.info).
+
+Здесь мало про ГИС, немного про личную дребедень и много про мои географические/исторические [исследования](/notes).
+
+Мне можно писать в [Telegram или электронную почту](/about).
+![Сопротивление бесполезно](images/resistance.jpg)
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Заметки'
+homeCollection = 'notes'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "В начало"
+
+# Social icons
+# [[params.social]]
+# name = "telegram"
+# url = "https://t.me/maxim_dubinin"
+
+# [[params.social]]
+# name = "github"
+# url = "https://github.com/simgislab"
+
+# [[params.social]]
+# name = "email"
+# url = "maxim.dubinin@nextgis.com"
+
+# Main menu pages
+[[params.menu]]
+name = "В начало"
+url = "/"
+
+[[params.menu]]
+name = "Заметки"
+url = "/notes"
+
+[[params.menu]]
+name = "Библиотека"
+url = "/library"
+
+[[params.menu]]
+name = "Публикации"
+url = "/pubs"
+
+[[params.menu]]
+name = "Об авторе"
+url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+ [markup.goldmark]
+  [markup.goldmark.renderer]
+   unsafe = true
+
+  [markup.highlight]
+   style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
