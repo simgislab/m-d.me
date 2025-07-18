@@ -3,3 +3,4 @@ todo.md
 content/notes/ornok-gallery/images/*
 public/*
 update*
+.hugo_build.lock
