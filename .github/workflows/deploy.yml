@@ -2,6 +2,11 @@ name: Build and Deploy Hugo site
 
 on:
   workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to deploy'
+        required: true
+        default: 'main'
 
 jobs:
   build-deploy:
