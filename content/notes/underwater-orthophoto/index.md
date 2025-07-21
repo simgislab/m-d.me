@@ -16,7 +16,7 @@ fediverse: "@username@instance.url"
 
 Подводная съемка в районе Тору-айгыр с подводного робота ТНПА «Трионикс-6М».
 
-Кусок исходных данных очень маленький, поэтому кривовато (особенно 3D модель). Однако пример показывает, что при хорошем планировании съемки можно получать нормальные ортофотопланы.
+Кусок исходных данных очень маленький и съемка велась не под ортофото, поэтому результат кривоват (особенно 3D модель). Однако пример показывает, что при хорошем планировании съемки можно получать нормальные ортофотопланы.
 
 ## Ортофотоплан
 
@@ -26,10 +26,12 @@ fediverse: "@username@instance.url"
 
 ## 3D модель
 
+Превью плохо работает в Firefox, хорошо работает в Chrome.
+
 <iframe title="Issyk-Kul Toru-Aygyr underwater 2025 scene 029v2" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/7619e70d47944057b9ca91e16d6291aa/embed" style="width: 100%;height: 600px;"></iframe>
 
 [3D модель на Sketchfab](https://sketchfab.com/3d-models/issyk-kul-toru-aygyr-underwater-2025-scene-029v2-7619e70d47944057b9ca91e16d6291aa)
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/112)
+[**Обсудить**](https://t.me/answer42geo/113)
