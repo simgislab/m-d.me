@@ -26,7 +26,7 @@ fediverse: "@username@instance.url"
 
 ## 3D модель
 
-Превью плохо работает в Firefox, хорошо работает в Chrome.
+Модель иногда плохо работает в мобильном Firefox, хорошо работает в мобильном Chrome и десктопном Firefox.
 
 <iframe title="Issyk-Kul Toru-Aygyr underwater 2025 scene 029v2" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/7619e70d47944057b9ca91e16d6291aa/embed" style="width: 100%;height: 600px;"></iframe>
 
