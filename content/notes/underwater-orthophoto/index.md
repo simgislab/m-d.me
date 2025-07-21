@@ -16,11 +16,11 @@ fediverse: "@username@instance.url"
 
 Подводная съемка в районе Тору-айгыр с подводного робота ТНПА «Трионикс-6М».
 
-Кусок исходных данных очень маленький, поэтому кривовато и с артефактами. Однако пример показывает, что при хорошем планировании съемки можно получать нормальные ортофотопланы.
+Кусок исходных данных очень маленький, поэтому кривовато (особенно 3D модель). Однако пример показывает, что при хорошем планировании съемки можно получать нормальные ортофотопланы.
 
 ## Ортофотоплан
 
-<iframe src="https://maxim.nextgis.com/resource/8372/display/tiny?angle=0&zoom=22&styles=8371&linkMainMap=true&events=false&panel=none&controls=ma%2Cmd&panels=&base=osm-mapnik&lon=0.0001&lat=0.0001" style="overflow:hidden;height:600px;width:800px" height="600" width="100%"></iframe>
+<iframe src="https://maxim.nextgis.com/resource/8372/display/tiny?angle=0&zoom=22&styles=8371&linkMainMap=true&events=false&panel=none&controls=ma%2Cmd&panels=&base=osm-mapnik&lon=0.0001&lat=0.0001" style="overflow:hidden;height:600px;width:100%;background:white;border:1px dotted gray" height="600" width="100%"></iframe>
 
 [Веб карта в NextGIS Web](https://maxim.nextgis.com/resource/8372/display?angle=0&zoom=22&styles=8371&base=osm-mapnik&lon=0.0001&lat=0.0001)
 
