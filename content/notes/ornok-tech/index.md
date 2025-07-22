@@ -189,6 +189,12 @@ fediverse: "@username@instance.url"
 * Дополнительно зафиксировано петроглифов: 145
 * Публичная интерактивная карта со всеми материалами: <https://maxim.nextgis.com/resource/8282/display?panel=layers>
 
+## Подробнее
+
+Некоторые подробности относительно процесса выше можно подчерпнуть в записи вебинара "[Инвентаризация петроглифов комплекса Орнок с помощью ПО NextGIS, что хорошо и что не очень](https://events.nextgis.ru/event/28406)" и презентации также доступной по ссылке.
+
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/0a754e9bf58a21c4a905d7f81fc58e0b/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo/109)
