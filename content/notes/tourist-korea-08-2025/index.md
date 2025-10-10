@@ -18,7 +18,7 @@ fediverse: "@username@instance.url"
 
 Дополнительные материалы:
 
-* [Таблица достопримечательностей](https://docs.google.com/spreadsheets/d/1wQWxpixx_zXWVe4z8IMSSRKlxDJRIc21t_Bc3ZHolJU/edit?usp=sharing)
+* [Таблица достопримечательностей](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-JSIcQgm5Gg9E68tlTROi6hwCl72WBH2uAbrLlkfafqeGhRBoIBBy6qUfd7rErSlP0QLdTzI5P5Lw/pubhtml?gid=1414267696&single=true)
 * [Карта достопримечательностей](https://www.google.com/maps/d/u/0/edit?mid=1VhbwXBMIUzb85PK3tu-JlxsekWlcj9k&ll=37.56614687869323%2C126.97289409834113&z=13)
 
 ## Исходные условия
