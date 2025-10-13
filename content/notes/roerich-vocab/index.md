@@ -119,6 +119,7 @@ fediverse: "@username@instance.url"
 | ga-u               | charm box                              |                                      |                                  |
 | gal-terge          | fire-chariot, motor car                | passage of several foreigners on two *gal-terge* |                      |
 | gañjira            |                                        | roof of the structure is crowned by a gilded *gañjira*|                 |
+| garpön             |                                        | headmen finally agreed to escort us to the Tarkö *garpön*|              |
 | gelong             |                                        | Conversing one day with a learned Tibetan *gelong*, he said|            |
 | gem-po             | headman                                |                                      |                                  |
 | geshe              | gray-haired, learned lama              |                                      |                                  |
@@ -131,8 +132,8 @@ fediverse: "@username@instance.url"
 | gYung-drung        | Svastika                               |                                      |                                  |
 | Hsieh-t'ai         |                                        | *Ti-t'ai's* son, who occupied the post of *Hsieh-t'ai* |                |
 | ichigi             | fur-lined boots                        |                                      |                                  |
-| jya-lam            |                                        |                                      |                                  |
-| jyal-tsen          | white religious banner                 |                                      | Tib. *rgyal-mtshan*              |
+| jya-lam            | highway                                |                                      |                                  |
+| jyal-tsen          | white, black religious banner          |                                      | Tib. *rgyal-mtshan*              |
 | ka-len             | official answer                        | have to await an official answer or *ka-len* from Lhasa|                |
 | kalpa              | cosmic age                             |                                      |                                  |
 | Kalacakra          | Wheel of Time                          | *Kalacakra* system or the Wheel of Time|                                |
@@ -153,7 +154,8 @@ fediverse: "@username@instance.url"
 | kone-shahr         | old ruined sites                       |                                      |                                  |
 | kumuda             |                                        | right hand holds the stalk of the *kumuda* flower|                      |
 | kün-ra             | shelf                                  |                                      |                                  |
-| küren              |                                        |                                      | important temple in the *küren* is the Da-ching galba-yin-sümä |
+| ku-tshap           | delegate                               |                                      | *sku-tshab*                      |
+| küren              |                                        | important temple in the *küren* is the Da-ching galba-yin-sümä|         |
 | Kusho rimpoche     | Precious Sir                           |                                      |                                  |
 | kyang              | wild ass                               |                                      | см. khulan                       |
 | lakto              | yak driver                             | *lakto* (Tib. *lag-rdo*) which literally means "a hand with a stone."| Tib. *lag-rdo*|
@@ -167,6 +169,7 @@ fediverse: "@username@instance.url"
 | lha-khang          | a small [Buddhist] temple              |                                      |                                  |
 | lha-ram-pa         | doctor of divinity                     |                                      | см. *rap-cham-pa*                |
 | lha-tho            | stone altar                            |                                      |                                  |
+| lho-lam            | southern highway                       |                                      |                                  |
 | liang              |                                        | change our Indian rupees into Urumchi *lans* or *liangs*|               |
 | ling-chi           | torture                                | torture consisting of being cut alive into 10,000 pieces|               |
 | lo-sar             | New Year                               |                                      |                                  |
@@ -211,7 +214,7 @@ fediverse: "@username@instance.url"
 | pei-lu             | oasis                                  | oases or *pei-lu* along the northern route|                             |
 | phalara            | harness ornament                       | Kozlov plaque served as a *phalara*  |                             |
 | place d'armes      |                                        | gigantic *place d'armes*             | фр. плац                         |
-| poram              |                                        |                                      |                                  |
+| poram              | barley sugar                           |                                      |                                  |
 | puru               | Tibetan cloth                          |                                      |                                  |
 | phyag-rdor         |                                        | frequency of the name *phyag-rdor* in Bön texts|                        |
 | phyi-lings         | foreigner                              |                                      |                                  |
@@ -295,7 +298,7 @@ fediverse: "@username@instance.url"
 | tuya               |                                        | thick bushes of *tuya*               |                                  |
 | tung-ling          | officer                                | *tung-ling*, officer commanding the Khotan garrison|                    |
 | udumbara           |                                        | monastic bowl, with the *udumbara* flower emerging from it|             |
-| ula                |                                        |                                      |                                  |
+| ula                | relay system                           |                                      |                                  |
 | umdze              | assistant                              | abbot and his assistant or *umdze*   |                                  |
 | urtön              | relay station                          |                                      |                                  |
 | uzbek              |                                        | young *uzbek* from Samarkand         |                                  |
@@ -308,7 +311,7 @@ fediverse: "@username@instance.url"
 | yaghtan            | wooden box covered with leather        | we were busily occupied packing our *yaghtans*|                         |
 | yi-dam             | principal or titulary deities of the Yellow sect|                             |                                  |
 | Yik-tshang         | Ministry of Court                      |                                      |                                  |
-| yu-pön             |                                        |                                      |                                  |
+| yu-pön             | yu-pön                                 |                                      |                                  |
 | yul-lha            | countryside god                        |                                      |                                  |
 | yulduz             | summer pasture lands                   |                                      |                                  |
 | yum                |                                        | his *shakti* or *yum* is dark orange-yellow|                            |
