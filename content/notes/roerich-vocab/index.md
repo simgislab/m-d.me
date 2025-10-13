@@ -1,5 +1,5 @@
 ---
-title: "Рерих - небольшой словарь"
+title: "Рерих - словарь выделенных слов"
 date: "2025-10-11"
 summary: "Слова отдельно выделенные Рерихом в Trails to Inmost Asia."
 description: "Слова отдельно выделенные Рерихом в Trails to Inmost Asia."
@@ -7,7 +7,6 @@ toc: true
 autonumber: false
 math: false
 tags: ["Рерих"]
-draft: true
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
@@ -164,9 +163,10 @@ fediverse: "@username@instance.url"
 | lan                |                                        | change our Indian rupees into Urumchi *lans* or *liangs*|               |
 | langar             | relay station, resthouse               | We camped for the night at a lonely *langar*|                           |
 | legs-bam           | religious book                         | a purely Buddhist symbol taken over by the Bön-pos|                     |
-| lha                | divine being                           |                                      |                                  |
+| lha                | divine being, god                      |                                      |                                  |
 | lha-khang          | a small [Buddhist] temple              |                                      |                                  |
 | lha-ram-pa         | doctor of divinity                     |                                      | см. *rap-cham-pa*                |
+| lha-tho            | stone altar                            |                                      |                                  |
 | liang              |                                        | change our Indian rupees into Urumchi *lans* or *liangs*|               |
 | ling-chi           | torture                                | torture consisting of being cut alive into 10,000 pieces|               |
 | lo-sar             | New Year                               |                                      |                                  |
@@ -180,7 +180,8 @@ fediverse: "@username@instance.url"
 | man-dro            | don't go                               |                                      |                                  |
 | mandal             | offering                               | Bogdo Gegen used to receive the *mandal* |                              |
 | mandala            | mystic sphere of influence             | mystic sphere of influence of the *Kalacakra* system|                   |
-| mani               |                                        | longest *mani*-wall of the country   | см. *men-dong*                   |
+| mani               |                                        | basalt massif with a *mani* inscription on it|                          |
+| mani-wall          |                                        | longest *mani*-wall of the country   | см. *men-dong*                   |
 | mazar              | tomb                                   | *mazar* or tomb of a Mohammedan saint|                                  |
 | mdo                | tantra                                 | *tantra*, which seems to stand for the Buddhist *mdo* or *sutra*| *sutra*, *rgyud*|
 | men-dong           | stone wall                             |                                      | см. *mani*-walls                 |
