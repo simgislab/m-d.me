@@ -14,9 +14,9 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Слова выделеные курсивом в оригинале [Trails to Inmost Asia](/content/notes/roerich-trails-to-asia-en/) и, часто, но не всегда объясняемые Рерихом тут же в тексте. 
+Слова выделеные курсивом в оригинале [Trails to Inmost Asia](/notes/roerich-trails-to-asia-en/) книги Николая Константиновича Рериха. Слова, часто, но не всегда объясняются автором тут же в тексте ("объяснение по источнику"). В столбце "комментарий, синонимы" приведены дополнительные объяснения, переводы, синонимы Рериха или автора этой статьи.
 
-Орфография сохранена. Пропущены имена собственные, например *The Monarch*, названия, например *rGyn-nag-gi kong-ma chen-po*, прямая речь, например *"Long, long, long!"*.
+Орфография сохранена. Пропущены имена собственные, например *The Monarch*, названия, например *rGyn-nag-gi kong-ma chen-po*, прямая речь, например *"Long, long, long!"*. Некоторые искусственно-множественные слова превращены в единственное число, например *dzong-khas* -> dzong-kha и т.п.
 
 Отсортировано по алфавиту.
 
@@ -40,15 +40,15 @@ fediverse: "@username@instance.url"
 | bakshish           |                                        | monks, who impudently clamor for *bakshish* |                           |
 | baksha             | spiritual teacher                      |                                      |                                  |
 | bakshish           |                                        |                                      |                                  |
+| balu               |                                        | evergreen shrubs of *balu*           |                                  |
 | bar-btsan          | middle region                          | three spheres of the Universe        |                                  |
 | barun-sang         | Tibetan treasury for Mongols           |                                      | см. *tsi-khang*                  |
 | bashi              |                                        |                                      |                                  |
 | bhumisparsha mudra | sign of attestation                    | His right hand is lowered making the sign of attestation|               |
-| bKa-blon           | minister                               |                                      |                                  |
-| beg                |                                        |                                      |                                  |
-| begs               | headmen                                | cavalcade of *begs* and headmen accompanied us|                         |
+| beg                | headman                                | cavalcade of *begs* and headmen accompanied us|                         |
 | beise              | hereditary Prince                      | Chinese title of the fourth grade    | Chinese: *pei-tzu*               |
 | bichechi           | secretary                              | young *bichechi* or secretary, read aloud|                              |
+| bKa-blon           | minister                               |                                      |                                  |
 | Bodhi              | enlightenment                          | which is enlightenment in Bön terminology| *Byang-chub*                 |
 | bum-pa             | vase                                   |                                      |                                  |
 | bumran             | sand storm                             | *buran* or sand storms were now of frequent occurrence|                 |
@@ -60,7 +60,7 @@ fediverse: "@username@instance.url"
 | chang              | country wine                           |                                      |                                  |
 | chang-thang        | northern plain                         | north of which lie the uninhabited Tibetan highlands, the *chang-thang* proper| |
 | chapan             | coat                                   |                                      |                                  |
-| chaprassis         | orderlie                               | we were greeted by several *chaprassis* |                               |
+| chaprassi          | orderlie                               | we were greeted by several *chaprassis* |                               |
 | charuq             | soft leather boots                     |                                      |                                  |
 | chih-shih          | magistrate                             |                                      |                                  |
 | chökung            | burning lamp                           |                                      |                                  |
@@ -69,6 +69,7 @@ fediverse: "@username@instance.url"
 | chos-skyong        | oracle                                 | Chö-jin is the Mongol pronunciation of the Tibetan word *chos-skyong*|  |
 | cho-ga             | worship manuals                        |                                      |                                  |
 | chö-jung           | church history                         |                                      |                                  |
+| chowkidar          | watchman of the place                  |                                      |                                  |
 | chura, chu-ra      | Tibetan milk cheese                    |                                      |                                  |
 | chu-pön            | corporal                               |                                      |                                  |
 | chu-wa             | Tibetan broad and long-sleeved coat    |                                      |                                  |
@@ -93,7 +94,7 @@ fediverse: "@username@instance.url"
 | De-wa-shung        | Government                             | answer from the Government or *De-wa-shung* (*sDe-pa gshung*) would be received| *sDe-pa gshung*|
 | deresün            |                                        |                                      | *Lasiagrostis splendens*         |
 | Dharmacakra        | Wheel of Law                           |                                      |                                  |
-| dhyani-mudra       | meditation                             |                                      |                                  |
+| dhyani-mudra       | meditation                             | his hands in the *dhyani-mudra*, the posture of meditation|             |
 | do-nyer            | government agents supervisor in Mongolia|                                     | *mgron-gñer*                     |
 | dorje              | thunderbolt                            | surmounted by a golden *dorje* or thunderbolt inlaid with precious stones||
 | dpa-o              | soldier                                |                                      |                                  |
@@ -104,13 +105,14 @@ fediverse: "@username@instance.url"
 | dung-chen          | long or large trumpets                 |                                      |                                  |
 | dugan              | cathedral                              |                                      |                                  |
 | dunga              |                                        | *dunga* boat                         |                                  |
+| dyan-khit          | type of monastery                      | monasteries, usually called *dyan-khit* or *dhyana* hermitages| Skrt. dhyana --- meditation|
 | dzangin            | Mongol headman                         |                                      |                                  |
 | dzassak            | prince                                 |                                      |                                  |
 | dzeren             | Mongolian antelope                     |                                      | *Antilopea gutturosa*            |
 | dzo                | a crossbreed between a yak and a cow   |                                      |                                  |
 | dzong              | administrative center of a district, fort| Tibetan *dzong* is the administrative center of a district and not a fortress, as is often recorded||
-| dzong-khas         | provincial district in Tibet           | he had been *dzong-pön* or governor in Kong-po|                         |
-| dzong-pön          | governor                               |                                      |                                  |
+| dzong-kha          | provincial district in Tibet           |                                      |                         |
+| dzong-pön          | governor                               | he had been *dzong-pön* or governor in Kong-po|                                  |
 | dzurachin          | Mongol lama painter                    |                                      |                                  |
 | eldurchi           | fur maker                              |                                      |                                  |
 | en route           |                                        |                                      | фр. в пути, по дороге            |
@@ -160,13 +162,14 @@ fediverse: "@username@instance.url"
 | kün-ra             | shelf                                  |                                      |                                  |
 | küren              |                                        | important temple in the *küren* is the Da-ching galba-yin-sümä|         |
 | Kusho rimpoche     | Precious Sir                           |                                      |                                  |
+| ku-tshap           | delegate of the Civil Governor         |                                      |                                  |
 | kyang              | wild ass                               |                                      | см. khulan                       |
 | la-les             | yes                                    |                                      |                                  |
 | labrang            |                                        | place formerly belonged to the *labrang* of Tashi-lhun-po|              |
 | lakto              | yak driver                             | *lakto* (Tib. *lag-rdo*) which literally means "a hand with a stone."| Tib. *lag-rdo*|
 | lam-yig            | itinerary                              |                                      |                                  |
 | lama-la            | Venerable Teacher                      |                                      |                                  |
-| lan                |                                        | change our Indian rupees into Urumchi *lans* or *liangs*|               |
+| lan                |                                        | change our Indian rupees into Urumchi *lans* or *liangs*| денежная единица|
 | langar             | relay station, resthouse               | We camped for the night at a lonely *langar*|                           |
 | lao-ye             |                                        | Our chief supplier was the former Chinese *lao-ye* of the fort|         |
 | legs-bam           | religious book                         | a purely Buddhist symbol taken over by the Bön-pos|                     |
@@ -175,7 +178,7 @@ fediverse: "@username@instance.url"
 | lha-ram-pa         | doctor of divinity                     |                                      | см. *rap-cham-pa*                |
 | lha-tho            | stone altar                            |                                      |                                  |
 | lho-lam            | southern highway                       |                                      |                                  |
-| liang              |                                        | change our Indian rupees into Urumchi *lans* or *liangs*|               |
+| liang              |                                        | change our Indian rupees into Urumchi *lans* or *liangs*| денежная единица|
 | ling-chi           | torture                                | torture consisting of being cut alive into 10,000 pieces|               |
 | lo-sar             | New Year                               |                                      |                                  |
 | lotsa-wa           | translator                             |                                      |                                  |
@@ -186,10 +189,13 @@ fediverse: "@username@instance.url"
 | mai-han            | Chinese tent                           | tents made of blue cloth             |                                  |
 | mahasiddha         |                                        | famous *mahasiddha* Naropa           |                                  |
 | man-dro            | don't go                               |                                      |                                  |
+| man-ja             | tea                                    |                                      |                                  |
+| Man-la             | Healing Buddha                         |                                      | *sMan-bla*                       |
 | mandal             | offering                               | Bogdo Gegen used to receive the *mandal* |                              |
 | mandala            | mystic sphere of influence             | mystic sphere of influence of the *Kalacakra* system|                   |
 | mani               |                                        | basalt massif with a *mani* inscription on it|                          |
 | mani-wall          |                                        | longest *mani*-wall of the country   | см. *men-dong*                   |
+| mantra             |                                        | manuals are as a rule composed in the so-called *mantra* language|      |
 | mazar              | tomb                                   | *mazar* or tomb of a Mohammedan saint|                                  |
 | mdo                | tantra                                 | *tantra*, which seems to stand for the Buddhist *mdo* or *sutra*| *sutra*, *rgyud*|
 | men-dong           | stone wall                             |                                      | см. *mani*-walls                 |
@@ -203,10 +209,10 @@ fediverse: "@username@instance.url"
 | mukuta             | diadem                                 |                                      |                                  |
 | Naga               |                                        | *gyog-klu*, the abode of *Nagas*     |                                  |
 | nam-thar           | life story, legend                     | life story or *nam-thar* of Je-tsün Milarepa|                           |
-| nang-so            | Civil Governor                         |                                      |                           |
+| nang-so            | Civil Governor                         |                                      |                                  |
 | nimdah             | felt                                   | finely designed *nimdah*             |                                  |
-| ngag-pas           | Tantric lama                           | Tantric lamas or *ngag-pas* of the Yellow Hat sect|                     |
-| ngü-sang           |                                        | price of which was about twenty-five *ngü-sangs* each|                  |
+| ngag-pa            | Tantric lama                           | Tantric lamas or *ngag-pas* of the Yellow Hat sect|                     |
+| ngü-sang           |                                        | price of which was about twenty-five *ngü-sangs* each| денежная единица |
 | Noyon              | Prince                                 | big *Noyon* or Prince who had come from China|                          |
 | nutuk              | principality                           | Tsaidam proper is divided into five principalities, or *nutuk*|         |
 | nyer-wa            | housekeeper, manager, commercial agent, treasurer |                           |                                  |
@@ -217,12 +223,12 @@ fediverse: "@username@instance.url"
 | pashmina           |                                        | beautiful *pashmina* shawls          |                                  |
 | patra              | monastic bowl                          |                                      |                                  |
 | pei-lu             | oasis                                  | oases or *pei-lu* along the northern route|                             |
-| phalara            | harness ornament                       | Kozlov plaque served as a *phalara*  |                             |
+| phalara            | harness ornament                       | Kozlov plaque served as a *phalara*  |                                  |
 | place d'armes      |                                        | gigantic *place d'armes*             | фр. плац                         |
 | poram              | barley sugar                           |                                      |                                  |
 | puru               | Tibetan cloth                          |                                      |                                  |
 | phyag-rdor         |                                        | frequency of the name *phyag-rdor* in Bön texts|                        |
-| phyi-lings         | foreigner                              |                                      |                                  |
+| phyi-ling          | foreigner                              |                                      |                                  |
 | qishlaq            | winter quarters                        | covered by Kirghiz *qishlaq*         |                                  |
 | raja               |                                        | local *raja*                         |                                  |
 | rajakumara         | royal prince                           | costume of a *rajakumara*            |                                  |
@@ -232,11 +238,12 @@ fediverse: "@username@instance.url"
 | ri-tö              | hermitage                              | Several famed Bön monasteries and hermitages or *ri-tö*| *ri-khrod*     |
 | rishi              |                                        | visit of the *rishi* Asita to the newly born Bodhisattva|               |
 | rnam-thar          | legendary history                      | heroic songs and some *rnam-thar* or legendary history|                 |
+| rtse-drung         | lama official                          |                                      |                                  |
 | rü-jyen            | bone ornaments                         |                                      | Tib. *rus-rgyan*                 |
 | ru-pön             | major                                  | Tibetan officer with the rank of a *ru-pön*| ru-dpon                    |
 | sa-du              | "earth poison"                         |                                      | *sa-gdug*                        |
 | sa-sung mag-mi     | local militia                          |                                      | *sa-srung dmag-mi*               |
-| sahibs             |                                        | in the hope of receiving something from the *sahibs*|                   |
+| sahib              |                                        | in the hope of receiving something from the *sahibs*|                   |
 | saksaul            |                                        | called dzak by the Mongols           | *Haloxylon ammodendri*           |
 | salam              |                                        | They all said *"salam"* and one even added "good morning."|             |
 | Samsara-cakra      | Wheel of Life                          |                                      |                                  |
@@ -258,7 +265,7 @@ fediverse: "@username@instance.url"
 | shing-ta           | "wooden horse", boat                   | Such boats are commonly called in Tibet *shing-ta*|                     |
 | shiretu            | Head Lama, abbot                       |                                      |                                  |
 | shirik             | coarse grass                           | kind of coarse grass that grows on the hummocks of the swamps of the Tibetan upland|                 |
-| sho                |                                        | we received sixteen *shos* and five *karmas*|                           |
+| sho                |                                        | we received sixteen *shos* and five *karmas*| денежная единица          |
 | sho-lang           | heavy, slightly curved saber           |                                      |                                  |
 | shorka             | tribal division                        | They form five *shorka* or tribal divisions|                                  |
 | siddha             |                                        |                                      |                                  |
@@ -273,25 +280,25 @@ fediverse: "@username@instance.url"
 | t'ung-ch'ang       | metal worker                           |                                      |                                  |
 | t'ung-shih         | official, interpreter                  |                                      |                                  |
 | taels              |                                        | different Chinese *taels*, and banknotes|                               |
-| taklamanchis       | treasure seekers                       | treasure seekers in the sands of the Taklamakan Desert |                |
+| taklamanchi        | treasure seekers                       | treasure seekers in the sands of the Taklamakan Desert |                |
 | tamasha            | theatrical entertainment               | another group of actors entertained us with a *tamasha*|                |
 | tamgha             | state seal                             |                                      |                                  |
 | Tänjür             |                                        | *Känjür* and *Tänjür* of the Narthang print |                           |
 | Tao-yin            | Governor                               | Governor or *Tao-yin* of Khotan      |                                  |
 | Tao-t'ai           | Governor                               | Visits had to be paid to the *Tao-t'ai* or Governor|                    |
-| Tathagatas         |                                        | brass images of the thousand *Tathagatas*|                              |
+| Tathagata          |                                        | brass images of the thousand *Tathagatas*|                              |
 | teiji              | noble                                  |                                      | Chinese t'ai-chih                |
 | telega             | Russian fourwheeled carriage           |                                      |                                  |
 | terma              | silk                                   |                                      |                                  |
 | thang-ka           | religious banner                       |                                      |                                  |
 | Ti-t'ai            |                                        | Ma Fu-hsin, the murdered *Ti-t'ai* of Kashgar |                         |
 | ti-yig             | guides to the performance of various rites|                                   | *'khrid-yig*                     |
-| toghraks           | desert poplars                         | dusty lanes lined with *toghraks*    |                                  |
+| toghrak            | desert poplars                         | dusty lanes lined with *toghraks*    |                                  |
 | tong-dre           | demon                                  |                                      |                                  |
 | tong-pön           |                                        | mobilize one thousand mounted militia under a *tong-pön*|               |
-| torma              | offerings                              | ceremony of burning the *torma* or offerings to the spirits|            |
+| torma              | offering                               | ceremony of burning the *torma* or offerings to the spirits|            |
 | tra-lo             | former lama                            | "one who has returned his monastic vows"|                               |
-| trang-kas          |                                        |                                      |                                  |
+| trang-ka           |                                        |                                      |                                  |
 | tsai-feng          | Chinese tailors                        |                                      |                                  |
 | tsam-pa            | parched barley flour                   |                                      |                                  |
 | tse-bum            | amrita vase                            |                                      |                                  |
@@ -304,6 +311,7 @@ fediverse: "@username@instance.url"
 | tsi-khang          | Tibetan treasury for Tibetans          |                                      | см. *barun-sang*                 |
 | tsi-pön            | government agents supervisor in Mongolia|                                     | *rtsi-dpon*                      |
 | tukhrik            |                                        |                                      |                                  |
+| tum-mo             |                                        | Without a teacher, *tum-mo* is considered to be extremely dangerous|    |
 | tuya               |                                        | thick bushes of *tuya*               |                                  |
 | tung-ling          | officer                                | *tung-ling*, officer commanding the Khotan garrison|                    |
 | udumbara           |                                        | monastic bowl, with the *udumbara* flower emerging from it|             |
@@ -325,7 +333,7 @@ fediverse: "@username@instance.url"
 | yulduz             | summer pasture lands                   |                                      |                                  |
 | yum                |                                        | his *shakti* or *yum* is dark orange-yellow|                            |
 | yurta              | felt tent                              | I do not think that the *yurta* motive is suited for buildings |        |
-| *zi*-beads         |                                        | necklaces of the so-called *zi*-beads|                                  |
+| *zi*-bead          |                                        | necklaces of the so-called *zi*-beads|                                  |
 
 ## Комментарии
 
