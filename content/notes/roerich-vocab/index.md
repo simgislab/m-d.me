@@ -24,7 +24,7 @@ fediverse: "@username@instance.url"
 
 | Слово              | Объяснение по источнику                | Контекст по источнику                | Комментарий, синонимы            |
 |:-------------------|:---------------------------------------|:-------------------------------------|:---------------------------------|
-| a-khu              | uncle                                  | "uncles," assistants of King Kesar   | dialectical *a-gu*               |
+| a-khu              | "uncles"                               | "uncles," assistants of King Kesar   | dialectical *a-gu*               |
 | ail                | Mongol encampment                      | We camped outside the *ail*          |                                  |
 | aimak              | province                               |                                      |                                  |
 | amban              | city magistrate                        |                                      |                                  |
@@ -39,7 +39,6 @@ fediverse: "@username@instance.url"
 | Bakr-Id            | Mohammedan festival of                 |                                      |                                  |
 | bakshish           |                                        | monks, who impudently clamor for *bakshish* |                           |
 | baksha             | spiritual teacher                      |                                      |                                  |
-| bakshish           |                                        |                                      |                                  |
 | balu               |                                        | evergreen shrubs of *balu*           |                                  |
 | bar-btsan          | middle region                          | three spheres of the Universe        |                                  |
 | barun-sang         | Tibetan treasury for Mongols           |                                      | см. *tsi-khang*                  |
@@ -79,10 +78,9 @@ fediverse: "@username@instance.url"
 | confrerie          |                                        | *confrerie* of motor car drivers     | фр. братство                     |
 | cortège            |                                        | The *cortège* was followed by forty cavalrymen | фр. шествие            |
 | coup d'etat        |                                        | *coup d'etat* of Captain Ma          | фр. государственный переворот    |
-| da-yig             |                                        |                                      |                                  |
 | da-tshang          | monastery                              |                                      | R., Tib. *gra-tshang*            |
 | damaru             | hand tambourines                       | used in Tantric services             |                                  |
-| dharmacakra-mudra  |                                        |                                      |                                  |
+| dharmacakra-mudra  | sign of instruction                    |                                      |                                  |
 | da-tshang          | messenger                              |                                      | син. *ya-yeh*                    |
 | da-yig             | official letter, "arrow letter"        |                                      |                                  |
 | darogha            | messenger                              |                                      | син. *ya-yeh*                    |
@@ -92,7 +90,7 @@ fediverse: "@username@instance.url"
 | de-pön             | district chief                         | ruled by a pön-po or chief with the title of *de-pön*| *sde-dpon*       |
 | deb-ther           |                                        | historical literature, consisting of different *chö-jung* or *deb-ther*||
 | De-wa-shung        | Government                             | answer from the Government or *De-wa-shung* (*sDe-pa gshung*) would be received| *sDe-pa gshung*|
-| deresün            |                                        |                                      | *Lasiagrostis splendens*         |
+| deresün            | grass                                  |                                      | *Lasiagrostis splendens*         |
 | Dharmacakra        | Wheel of Law                           |                                      |                                  |
 | dhyani-mudra       | meditation                             | his hands in the *dhyani-mudra*, the posture of meditation|             |
 | do-nyer            | government agents supervisor in Mongolia|                                     | *mgron-gñer*                     |
@@ -118,7 +116,6 @@ fediverse: "@username@instance.url"
 | en route           |                                        |                                      | фр. в пути, по дороге            |
 | entrepôt           |                                        | chief *entrepôt* of Indian and Afghan trade | фр. склад                 |
 | gabju              | fully-pledged priests                  |                                      | Tib. *bka-bcu*                   |
-| gañjira            |                                        |                                      |                                  |
 | ga-u               | charm box                              |                                      |                                  |
 | gal-terge          | fire-chariot, motor car                | passage of several foreigners on two *gal-terge* |                      |
 | gañjira            |                                        | roof of the structure is crowned by a gilded *gañjira*|                 |
@@ -143,20 +140,20 @@ fediverse: "@username@instance.url"
 | Känjür             |                                        | *Känjür* and *Tänjür* of the Narthang print|                            |
 | Ka-sha             | State Council                          |                                      |                            |
 | kar-tsi            | astronomy                              |                                      |                                  |
-| karma              |                                        | we received sixteen *shos* and five *karmas*|                           |
+| karma              |                                        | we received sixteen *shos* and five *karmas*| денежная единица          |
 | kang-ling          | trumpet                                |                                      |                                  |
 | kemelik            | light coat                             | In summer it is a light coat called *kemelik*|                          |
-| kharmik            |                                        |                                      | *Nitraria scholeri*              |
+| kharmik            | Gobi plant                             |                                      | *Nitraria scholeri*              |
 | khan               |                                        | They are ruled by a hereditary *khan*|                                  |
 | khan-po            | lama official                          | considered the nominal abbot of the Shab-den Monastery at Nag-chu|      |
 | Khara-nom          | Black Faith                            |                                      | known as Bön-po faith            |
 | khatag             | ceremonial scarf                       |                                      |                                  |
-| khe                |                                        | one *khe* is approximately five pounds|                                 |
+| khe                |                                        | one *khe* is approximately five pounds| единица веса                    |
 | khoshun            | tribal division                        | Mongol encampments belonging to the same *khoshun*|                     |
 | khulan             | wild ass                               |                                      | см. kyang                        |
 | khuvarak           | novice                                 |                                      | см. getsul                       |
 | kone-shahr         | old ruined sites                       |                                      |                                  |
-| kumuda             |                                        | right hand holds the stalk of the *kumuda* flower|                      |
+| kumuda             | flower                                 | right hand holds the stalk of the *kumuda* flower|                      |
 | ku-tshap           | delegate                               |                                      | *sku-tshab*                      |
 | Kug-pa re          | Stupidity                              |                                      |                                  |
 | kün-ra             | shelf                                  |                                      |                                  |
@@ -203,7 +200,7 @@ fediverse: "@username@instance.url"
 | ming-bashi         |                                        | private house of the local *ming-bashi*|                                |
 | ming-öi            | cave temple                            |                                      |                                  |
 | mi-ser             | peasants, subjects                     |                                      |                                  |
-| motif              |                                        | other *motifs* of Tibetan religious ornamentation|                      |
+| motif              |                                        | other *motifs* of Tibetan religious ornamentation| фр. мотив            |
 | mu-ch'ang          | carpenter                              |                                      |                                  |
 | mudra              | sign                                   |                                      |                                  |
 | mukuta             | diadem                                 |                                      |                                  |
@@ -248,7 +245,7 @@ fediverse: "@username@instance.url"
 | salam              |                                        | They all said *"salam"* and one even added "good morning."|             |
 | Samsara-cakra      | Wheel of Life                          |                                      |                                  |
 | sang               | very large treasury                    |                                      |                                  |
-| sar                |                                        | value of one-third of the Kashgar *sar* |                               |
+| sar                |                                        | value of one-third of the Kashgar *sar*| денежная едининца              |
 | sha-ser            | yellow hat                             |                                      |                                  |
 | shag-pa            | friend                                 |                                      | см. shag-nye                     |
 | shag-nye           | friend                                 |                                      | см. shag-pa                      |
@@ -260,15 +257,15 @@ fediverse: "@username@instance.url"
 | she-ngo            | non-commissioned officer               | *she-ngo* of the Tibetan regular army|                                  |
 | serai              | resthouse for trading caravan          |                                      |                                  |
 | shandzotba         | supervisor of the large estates of the Hutukhtu |                             | *chän-dzö-pa*, *phyag-mdzod-pa*  |
-| shikara            |                                        |                                      |                                  |
+| shikara            |                                        | goods: Kashmiri products, houseboats, *shikaras*, and other attractions||
 | shikari            | chief                                  |                                      |                                  |
 | shing-ta           | "wooden horse", boat                   | Such boats are commonly called in Tibet *shing-ta*|                     |
 | shiretu            | Head Lama, abbot                       |                                      |                                  |
-| shirik             | coarse grass                           | kind of coarse grass that grows on the hummocks of the swamps of the Tibetan upland|                 |
+| shirik             | coarse grass                           | kind of coarse grass that grows on the hummocks of the swamps of the Tibetan upland||
 | sho                |                                        | we received sixteen *shos* and five *karmas*| денежная единица          |
 | sho-lang           | heavy, slightly curved saber           |                                      |                                  |
-| shorka             | tribal division                        | They form five *shorka* or tribal divisions|                                  |
-| siddha             |                                        |                                      |                                  |
+| shorka             | tribal division                        | They form five *shorka* or tribal divisions|                            |
+| siddha             |                                        | wife of the *siddha* Naropa          | см. *mahasiddha*                 |
 | sku-shok           | abbot                                  | *sku-shok* or Incarnate Lama of the monastery |                         |
 | sMan-bla           | Healing Buddha                         | temple in honor of the Healing Buddha. (Tib. *sMan-bla*)|               |
 | stan-lha           | region of gods                         | three spheres of the Universe        |                                  |
@@ -310,11 +307,11 @@ fediverse: "@username@instance.url"
 | tshong-pön         | merchant                               |                                      |                                  |
 | tsi-khang          | Tibetan treasury for Tibetans          |                                      | см. *barun-sang*                 |
 | tsi-pön            | government agents supervisor in Mongolia|                                     | *rtsi-dpon*                      |
-| tukhrik            |                                        |                                      |                                  |
+| tukhrik            |                                        |                                      | денежная единица                 |
 | tum-mo             |                                        | Without a teacher, *tum-mo* is considered to be extremely dangerous|    |
 | tuya               |                                        | thick bushes of *tuya*               |                                  |
 | tung-ling          | officer                                | *tung-ling*, officer commanding the Khotan garrison|                    |
-| udumbara           |                                        | monastic bowl, with the *udumbara* flower emerging from it|             |
+| udumbara           | flower                                 | monastic bowl, with the *udumbara* flower emerging from it|             |
 | ula                | relay system                           |                                      |                                  |
 | umdze              | assistant                              | abbot and his assistant or *umdze*   |                                  |
 | urtön              | relay station                          |                                      |                                  |
