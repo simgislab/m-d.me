@@ -95,11 +95,15 @@ fediverse: "@username@instance.url"
 
 ## Исторические карты
 
-Пер. Суек (Пр. Суякъ) и пер. Барскаун (пр. Барскаунъ).
+Пер. Суек (пр. Суякъ), Барскаун (пр. Барскаунъ), Бедель (пр. Беделъ).
 
 Лист XX (Кашгар). Издатель: Управление военных топографов. Год издания: приблизительно 1935. Масштаб: 1:1680000 [https://geoportal.rgo.ru/record/286](https://geoportal.rgo.ru/record/286)
 
-![map_xx_kashgar.jpg](map_xx_kashgar.jpg "Упомянутые топонимы")
+![map_xx_kashgar.jpg](map_xx_kashgar.jpg "Суяк, Барскаун, Бедель")
+
+Лист XX (Кашгар). Издатель: Картографический отдел КВТ. Год издания: приблизительно 1920. Масштаб: 1:1680000 [https://geoportal.rgo.ru/record/287](https://geoportal.rgo.ru/record/287)
+
+![map_xx_kashgar2.jpg](map_xx_kashgar2.jpg "Суяк, Барскаун, Бедель")
 
 ## Итого
 
