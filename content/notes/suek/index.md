@@ -44,7 +44,11 @@ fediverse: "@username@instance.url"
 * казахский - "сүйек"
 * кыргызский - "сөөк"
 
-Существует мнение, что вариант перевода названия перевала как "кости" связан с событиями 1916 года, когда тысячи кыргызов погибли, пытаясь пересечь границу в Китай и спастись от царских войск Российской империи (см. [Среднеазиатское восстание 1916 года](https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_1916_%D0%B3%D0%BE%D0%B4%D0%B0)) и, в частности эпизод Восстание в [Семиречье 1916 года](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A1%D0%B5%D0%BC%D0%B8%D1%80%D0%B5%D1%87%D1%8C%D0%B5_1916_%D0%B3%D0%BE%D0%B4%D0%B0). 
+Существует мнение, что вариант перевода названия перевала как "кости" связан с событиями 1916 года, когда тысячи кыргызов погибли, пытаясь пересечь границу в Китай и спастись от царских войск Российской империи (см. [Среднеазиатское восстание 1916 года](https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_1916_%D0%B3%D0%BE%D0%B4%D0%B0)) и, в частности эпизод Восстание в [Семиречье 1916 года](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A1%D0%B5%D0%BC%D0%B8%D1%80%D0%B5%D1%87%D1%8C%D0%B5_1916_%D0%B3%D0%BE%D0%B4%D0%B0).
+
+> The name means "Bone Pass" in Kyrgyz, a reference to the Urkun incident of 1916, when thousands of Kyrgyz died attempting to cross the border into China, fleeing from Tsarist Russian forces.
+
+по [Seok Pass](https://en.wikipedia.org/wiki/Seok_Pass)
 
 ## Путешествие Сюань-цзяна
 
