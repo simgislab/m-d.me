@@ -48,7 +48,7 @@ fediverse: "@username@instance.url"
 
 > The name means "Bone Pass" in Kyrgyz, a reference to the Urkun incident of 1916, when thousands of Kyrgyz died attempting to cross the border into China, fleeing from Tsarist Russian forces.
 
-по [Seok Pass](https://en.wikipedia.org/wiki/Seok_Pass)
+По [Seok Pass](https://en.wikipedia.org/wiki/Seok_Pass). Однако, в статье "[Kyrgyzstan: Victims Of 1916 'Urkun' Tragedy Commemorated](https://www.rferl.org/a/1070279.html)", на которую ссылается статья, перевал Суек не упоминается.
 
 ## Путешествие Сюань-цзяна
 
