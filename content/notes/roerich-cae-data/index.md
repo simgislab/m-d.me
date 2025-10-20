@@ -1,6 +1,6 @@
 ---
 title: "Spatial data on Roerich's expedition"
-date: "2025-10-11"
+date: "2025-10-20"
 summary: "Spatial data layers on Roerich's Central Asian Expedition."
 description: "Spatial data layers on Roerich's Central Asian Expedition."
 toc: true
