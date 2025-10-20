@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-The **Central Asian Expedition (CAE)** — [caemap.com/en](https://caemap.com/en) — is an excellent resource providing detailed mapping information about Nicholas Roerich’s five-year expedition described in [*Trails to Inmost Asia*](/notes/roerich-trails-to-asia-en/).  
+The **Central Asian Expedition (CAE)** — [caemap.com/en](https://caemap.com/en/#m=4/40.02/90.35&l=Gr) — is an excellent resource providing detailed mapping information about Nicholas Roerich’s five-year expedition described in [*Trails to Inmost Asia*](/notes/roerich-trails-to-asia-en/). The website is available in both English and Russian.
 
 From the website’s [description](https://caemap.com/en/about):
 
@@ -26,7 +26,7 @@ The website covers all toponyms, and the reconstruction of the route is of excep
 
 ## Geodata
 
-Here you can find information on routes and stops extracted as machine-readable data in GeoJSON format. This format allows to work with this data in modern GIS systems.
+Here you can find information on routes and stops extracted from CAE website as machine-readable data in GeoJSON format. This format allows to work with this data in modern GIS systems.
 
 Two data layers are extracted (use links to download):
 
@@ -93,7 +93,6 @@ Example data for a point:
 
 
 Please respect the copyright and don't forget to [mention project](https://caemap.com/en/about) in derived works.
-
 
 ![cae-gis.png](cae-gis.png "CAE data visualized in QGIS")
 
