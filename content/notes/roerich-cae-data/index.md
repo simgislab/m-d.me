@@ -92,7 +92,7 @@ Example data for a point:
 | **place_id**                         | Internal unique identifier of the place record.                                                | 5 |
 
 
-Please respect the copyright and don't forget to [mention project](https://caemap.com/en/about) in derived works.
+If you're going to use this data, please respect author's copyright and don't forget to [mention project](https://caemap.com/en/about) in derived works.
 
 ![cae-gis.png](cae-gis.png "CAE data visualized in QGIS")
 
