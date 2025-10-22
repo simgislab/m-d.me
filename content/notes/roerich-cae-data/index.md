@@ -22,6 +22,8 @@ From the website’s [description](https://caemap.com/en/about):
 
 The website covers all toponyms, and the reconstruction of the route is of exceptionally high quality.
 
+The actual authors of the reconstruction are never mentioned and there is a [conflict situation](/notes/roerich-cae-scandal/) around the website.
+
 ![cae-main.png](cae-main.png "Main map")
 
 ## Geodata
