@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-The **Central Asian Expedition (CAE)** — [caemap.com/en](https://caemap.com/en/#m=4/40.02/90.35&l=Gr) — is an excellent resource providing detailed mapping information about Nicholas Roerich’s five-year expedition described in [*Trails to Inmost Asia*](/notes/roerich-trails-to-asia-en/). The website is available in both English and Russian.
+The Central Asian Expedition (CAE) — [caemap.com/en](https://caemap.com/en/#m=4/40.02/90.35&l=Gr) — is an excellent resource providing detailed mapping information about Nicholas Roerich’s five-year expedition described in [*Trails to Inmost Asia*](/notes/roerich-trails-to-asia-en/). The website is available in both English and Russian.
 
 Data from the website is described in a [separate note](/content/notes/roerich-cae-data/).
 
@@ -50,5 +50,5 @@ Have a written agreement with clear responsibility/contibution separation statem
 
 ## Discussion
 
-[**Questions or comments?**](https://t.me/answer42geo/96)
+[**Questions or comments?**](https://t.me/answer42geo/130)
 
