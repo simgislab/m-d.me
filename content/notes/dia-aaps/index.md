@@ -48,9 +48,32 @@ fediverse: "@username@instance.url"
 
 ## Настройки
 
+## Профиль
+
+**DIA** (duration of insulin action) - the length of time that insulin takes to decay to zero.
+
+**Glucose target** (BG target) -  if AAPS predicts that your BG will land outside the target range, then it will take action to take you back in said range.
+
+**BR** (basal rate, units/hour) - provides background insulin, keeping your glucose levels stable in the absence of food or exercise.
+
+**ISF** (insulin sensitivity factor, correction factor) - a measure of how much your blood glucose level will be reduced by 1 unit of insulin.
+
+    autotune: 4 mmol/L
+
+**IC or ICR** (insulin-to-carb ratios) - a measure of how many grams of carbohydrate are covered by one unit of insulin.
+
+    autotune: 10 g/U
+
 ### Связь с Nightscout
 
+* Версия Nightscout: 14.2.6
+* AAPS 3.3.2.1
+
 Чем отличается [V3 от V1](https://androidaps.readthedocs.io/en/latest/Maintenance/ReleaseNotes.html#important-comments-on-using-v3-versus-v1-api-for-nightscout-with-aaps).
+
+Примечания:
+
+* ENABLE="careportal basal bwp iob cob cage sage iage azurepush"
 
 ## Комментарии
 
