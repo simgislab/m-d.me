@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Инструкции и заметки по сборке и настройке AndroidAPS.
+Инструкции и заметки по сборке и настройке AndroidAPS (AAPS).
 
 ## Сборка приложения
 
@@ -39,7 +39,7 @@ fediverse: "@username@instance.url"
 7. Добавить секрет репозитория GDRIVE_OAUTH2 со значением (Repository secret, не путать с Environment secret) https://github.com/simgislab/AndroidAPS/settings/secrets/actions.
 8. Выбрать Actions в репозитории с форком (или перейти по ссылке https://github.com/simgislab/AndroidAPS/actions)
 9. All workflows -> AAPS CI -> Run workflow. Branch: master, Build: FullRelease
-10. Дождите результата, файл APK появится в личном Google Drive, в папке AAPS https://drive.google.com/drive/my-drive
+10. Дождите результата, файл APK появится в [личном Google Drive](https://drive.google.com/drive/my-drive), в папке AAPS.
 
 Примечания:
 
@@ -48,26 +48,28 @@ fediverse: "@username@instance.url"
 
 ## Настройки
 
-## Профиль
+### Профиль
 
-**DIA** (duration of insulin action) - the length of time that insulin takes to decay to zero.
+Основные параметры которые нужно знать и указать ([официальная документация](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/SetupWizard.html#profile)).
 
-**Glucose target** (BG target) -  if AAPS predicts that your BG will land outside the target range, then it will take action to take you back in said range.
+**DIA** (duration of insulin action) - время необходимое, чтобы закончилось действие инсулина.
 
-**BR** (basal rate, units/hour) - provides background insulin, keeping your glucose levels stable in the absence of food or exercise.
+**Glucose target** (BG target) -  желаемый диапазон сахара, AAPS будет действовать, если его предсказания буду показывать что сахар выходит за этот диапазон.
 
-**ISF** (insulin sensitivity factor, correction factor) - a measure of how much your blood glucose level will be reduced by 1 unit of insulin.
+**BR** (basal rate, units/hour) - поставка фонового инсулина, стабилизирует уровень сахара в отсутствии еды или упражнений.
+
+**ISF** (insulin sensitivity factor, correction factor) - на сколько снизится уровень сахара в кроме на одну единицу инсулина.
 
     autotune: 4 mmol/L
 
-**IC or ICR** (insulin-to-carb ratios) - a measure of how many grams of carbohydrate are covered by one unit of insulin.
+**IC or ICR** (insulin-to-carb ratios) - сколько грамм углеводов покрывается одной единицей инсулина.
 
     autotune: 10 g/U
 
 ### Связь с Nightscout
 
-* Версия Nightscout: 14.2.6
-* AAPS 3.3.2.1
+* Версия Nightscout: 14.2.6 (2022, версия на 10.2025 - 15.0.2)
+* AAPS 3.3.2.1 (требуемая версия Android 11 и выше)
 
 Чем отличается [V3 от V1](https://androidaps.readthedocs.io/en/latest/Maintenance/ReleaseNotes.html#important-comments-on-using-v3-versus-v1-api-for-nightscout-with-aaps).
 
