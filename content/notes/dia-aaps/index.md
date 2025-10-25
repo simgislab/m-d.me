@@ -1,8 +1,8 @@
 ---
-title: "Сборка AAPS"
+title: "AAPS: cборка и настройка"
 date: "2025-10-24"
-summary: "Сборка приложения AAPS для Android для мониторинга сахара в крови."
-description: "Сборка приложения AAPS для Android для мониторинга сахара в крови."
+summary: "Сборка и настройка приложения AAPS для Android для мониторинга сахара."
+description: "Сборка и настройка приложения AAPS для Android для мониторинга сахара."
 toc: true
 autonumber: false
 math: false
@@ -18,13 +18,13 @@ fediverse: "@username@instance.url"
 
 [Официальная инструкция по сборке в браузере](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/BrowserBuild.html).
 
-## Перед началом работы
+## Что нужно для сборки приложения
 
 * Аккаунт на [Github](https://github.com)
 * Аккаунт на Google (если есть почта на gmail, то аккаунт уже есть)
 * Установить VSCode + расширение Live server
 
-## Инструкция по сборке
+## Инструкция по сборке Android AAPS
 
 1. Сделать Fork репозитория приложения AAPS https://github.com/simgislab/AndroidAPS
 2. [Скачать](https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html) aaps-ci-preparation.html. Это страница-хелпер которая поможет сгенерировать KEYSTORE_SET и GDRIVE_OAUTH2.
@@ -42,6 +42,11 @@ fediverse: "@username@instance.url"
 * Видео-превью в [официальной документации](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/BrowserBuild.html) требуют VPN.
 * Ошибка "There was a problem while parsing the package" при установке означает, что вы пытаетесь установить из APK на телефоне со старой (неподдерживаемой) версией операционной системы Android - найдите другое, более современное устройство.
 
+## Настройки
+
+## Связь с Nightscout
+
+Чем отличается [V3 от V1](https://androidaps.readthedocs.io/en/latest/Maintenance/ReleaseNotes.html#important-comments-on-using-v3-versus-v1-api-for-nightscout-with-aaps).
 
 ## Комментарии
 
