@@ -14,17 +14,21 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
+Инструкции и заметки по сборке и настройке AndroidAPS.
+
+## Сборка приложения
+
 Инструкция по получению APK AndroidAPS на стационарном компьютере (не телефоне) с минимальными усилиями. Без установки Android Studio в браузере, с помощью Github Actions.
 
 [Официальная инструкция по сборке в браузере](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/BrowserBuild.html).
 
-## Что нужно для сборки приложения
+### Что нужно для сборки приложения
 
 * Аккаунт на [Github](https://github.com)
 * Аккаунт на Google (если есть почта на gmail, то аккаунт уже есть)
 * Установить VSCode + расширение Live server
 
-## Инструкция по сборке Android AAPS
+### Инструкция по сборке Android AAPS
 
 1. Сделать Fork репозитория приложения AAPS https://github.com/simgislab/AndroidAPS
 2. [Скачать](https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html) aaps-ci-preparation.html. Это страница-хелпер которая поможет сгенерировать KEYSTORE_SET и GDRIVE_OAUTH2.
@@ -44,7 +48,7 @@ fediverse: "@username@instance.url"
 
 ## Настройки
 
-## Связь с Nightscout
+### Связь с Nightscout
 
 Чем отличается [V3 от V1](https://androidaps.readthedocs.io/en/latest/Maintenance/ReleaseNotes.html#important-comments-on-using-v3-versus-v1-api-for-nightscout-with-aaps).
 
