@@ -68,14 +68,16 @@ fediverse: "@username@instance.url"
 
 ### Связь с Nightscout
 
-* Версия Nightscout: 14.2.6 (2022, версия на 10.2025 - 15.0.2)
-* AAPS 3.3.2.1 (требуемая версия Android 11 и выше)
+* Версия Nightscout: 14.2.6 (2022, версия на 10.2025 - 15.0.3)
+* AAPS 3.3.2.1 (требуемая версия Android 11 и выше). Эта версия не совместима с 14.2.6, не важно v1 или v3.
 
 Чем отличается [V3 от V1](https://androidaps.readthedocs.io/en/latest/Maintenance/ReleaseNotes.html#important-comments-on-using-v3-versus-v1-api-for-nightscout-with-aaps).
 
-Примечания:
+## Обновление Nighscout в Railway
 
-* ENABLE="careportal basal bwp iob cob cage sage iage azurepush"
+Если форк очень долго не обновлялся - недостаточно сделать Sync Fork и Redeploy.
+
+Самый надежный способ - сделать копию master ветки, например в master2 и нацелить на нее deployment, после этого обязательно нажать Deploy в маленьком всплывающем окне.
 
 ## Комментарии
 
