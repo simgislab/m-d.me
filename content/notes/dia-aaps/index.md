@@ -73,7 +73,9 @@ fediverse: "@username@instance.url"
 
 Чем отличается [V3 от V1](https://androidaps.readthedocs.io/en/latest/Maintenance/ReleaseNotes.html#important-comments-on-using-v3-versus-v1-api-for-nightscout-with-aaps).
 
-## Обновление Nighscout в Railway
+## Nighscout
+
+### Обновление Nighscout в Railway
 
 Если форк очень долго не обновлялся - недостаточно сделать Sync Fork и Redeploy.
 
