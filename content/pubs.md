@@ -4,6 +4,9 @@ Publish or perish. Здесь публикации в рецензируемых
 
 ## 2025
 
+Liu, D., Silveira, E.M.O., Razenkova, E., Anand, A., **Dubinin, M.**, Hobi, M., Pidgeon, A.M., Radeloff, V.C.,
+Global dynamic habitat indices (DHIs) based on MODIS and VIIRS vegetation products. Remote Sensing of Environment 332 (2026) https://doi.org/10.1016/j.rse.2025.115099.
+
 Bukvareva E.,  Grigoryan A.,  **Dubinin M.**,  Kazakov E. 2025. Integrating actual land cover data and landscape zone map to assess terrestrial ecosystems in Armenia. Explora: Environment and Resource 4996 (2025). https://doi.org/10.36922/eer.4996
 
 ## 2023
