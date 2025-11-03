@@ -28,10 +28,11 @@ fediverse: "@username@instance.url"
 
 Варианты названия:
 
-* Эрдени-цзу
-* Эрдэни-Дзу
-* Эрдэнэ Зуу
-* Erdene Zuu
+* Эрдени-цзу (Цыбиков)
+* Эрдэни-Дзу ([Википедия](https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B4%D1%8D%D0%BD%D0%B8-%D0%94%D0%B7%D1%83))
+* Эрдэнэ Зуу ([Монгольская Википедия](https://mn.wikipedia.org/wiki/%D0%AD%D1%80%D0%B4%D1%8D%D0%BD%D1%8D_%D0%97%D1%83%D1%83_%D1%85%D0%B8%D0%B9%D0%B4))
+* Erdene Zuu ([English Wikipedia](https://en.wikipedia.org/wiki/Erdene_Zuu_Monastery))
+* Erdeni Dzu ([Рерих](/notes/roerich-trails-to-asia-en/))
 
 [![erdeni.png](erdeni.png "Фото: Ondrej Lexa 2022 (источник по ссылке на картинку).")](https://www.google.com/maps/place/%D0%AD%D1%80%D0%B4%D1%8D%D0%BD%D0%B8-%D0%94%D0%B7%D1%83/@47.2012243,102.8409825,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOCoGw3d19e5mjAgZ8wUN0tzIaA1uev_NIGNqT4!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOCoGw3d19e5mjAgZ8wUN0tzIaA1uev_NIGNqT4%3Dw114-h86-k-no!7i3264!8i2448!4m13!1m5!3m4!2zNDfCsDEyJzA2LjAiTiAxMDLCsDUwJzM2LjAiRQ!8m2!3d47.2016667!4d102.8433333!3m6!1s0x5d9cf209068cf281:0x9e4e07fa516f844f!8m2!3d47.2012243!4d102.8409825!10e5!16s%2Fm%2F02px8lv?hl=ru&entry=ttu)
 
