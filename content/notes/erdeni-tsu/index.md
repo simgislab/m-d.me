@@ -18,6 +18,14 @@ fediverse: "@username@instance.url"
 
 Одна из рекуррентных тем в Походе --- упоминания Эрдени-цзу, буддистского монастыря в Монголии ([Википедия](https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B4%D1%8D%D0%BD%D0%B8-%D0%94%D0%B7%D1%83), [Google Maps](https://www.google.com/maps/place/%D0%AD%D1%80%D0%B4%D1%8D%D0%BD%D0%B8-%D0%94%D0%B7%D1%83/@47.196965,102.8441988,15z/data=!4m12!1m5!3m4!2zNDfCsDEyJzA2LjAiTiAxMDLCsDUwJzM2LjAiRQ!8m2!3d47.2016667!4d102.8433333!3m5!1s0x5d9cf209068cf281:0x9e4e07fa516f844f!8m2!3d47.2012243!4d102.8409825!16s%2Fm%2F02px8lv?hl=ru&entry=ttu)) и истории про то, как хан Абатай отрубил ноги статуе Будды, которая «не хотела» идти.
 
+Монастырь Эрдени-цзу располагается в аймаке Уверхангай на правом берегу Орхона на окраине города Хархорин (в древности Каракорум, столица Монгольской империи в 1235—1260 годах, [Википедия](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%BE%D1%80%D1%83%D0%BC_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4))).
+
+На картах:
+
+* Координаты (широта/долгота): 47.201621, 102.841269
+* Google Maps - [Erdene Zuu](https://www.google.com/maps/place/Erdene+Zuu+Monastery/@47.2009621,102.8381387,16.42z/data=!4m6!3m5!1s0x5d9cf209068cf281:0x9e4e07fa516f844f!8m2!3d47.2012243!4d102.8409825!16s%2Fm%2F02px8lv!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D)
+* OpenStreetMap - [Эрдэнэ Зуу](https://www.openstreetmap.org/way/397170801)
+
 [![erdeni.png](erdeni.png "Фото: Ondrej Lexa 2022 (источник по ссылке на картинку).")](https://www.google.com/maps/place/%D0%AD%D1%80%D0%B4%D1%8D%D0%BD%D0%B8-%D0%94%D0%B7%D1%83/@47.2012243,102.8409825,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOCoGw3d19e5mjAgZ8wUN0tzIaA1uev_NIGNqT4!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOCoGw3d19e5mjAgZ8wUN0tzIaA1uev_NIGNqT4%3Dw114-h86-k-no!7i3264!8i2448!4m13!1m5!3m4!2zNDfCsDEyJzA2LjAiTiAxMDLCsDUwJzM2LjAiRQ!8m2!3d47.2016667!4d102.8433333!3m6!1s0x5d9cf209068cf281:0x9e4e07fa516f844f!8m2!3d47.2012243!4d102.8409825!10e5!16s%2Fm%2F02px8lv?hl=ru&entry=ttu)
 
 Благодаря Цыбикову, мы знаем **где** именно Абатай совершил этот решительный поступок:
