@@ -116,13 +116,30 @@ Self introduction:
 
 ### Ongin gol
 
+Река Онгийн-Гол, впадает в пересыхающее озеро Улаан-нур. Истоки реки находятся в Хангайских горах [Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B3%D0%B8%D0%B9%D0%BD-%D0%93%D0%BE%D0%BB).
+
+Упоминается у Шишмарева.
+
 ### Üdzen-Wang
 
 ### Tatsa-gol
 
+Река Таацын гол, впадает в озеро Тацын-Цаган-Нур. Истоки реки находятся в Хангайских горах
+
+* Tatsa gol - Stanford.
+* Таацын гол - топокарты Генштаба 1 км
+* Тацын гол - топокарты Генштаба 2 км, 10 км
+
 ### Artsa Ula
 
 ### Toin-gol
+
+Река Түйн гол (ᠲᠦᠢ ᠶᠢᠨ ᠭᠣᠤᠯ), впадает в озеро Орог нуур. Истоки реки находятся в Хангайских горах (монг. [Википедия](https://mn.wikipedia.org/wiki/%D0%A2%D2%AF%D0%B9%D0%BD_%D0%B3%D0%BE%D0%BB))
+
+Другие названия:
+
+* Taia gol - Stanford
+* Туйн гол - топокарты Генштаба 1 км, 2 км, 10 км
 
 ### Koko-khoto-Kuch'eng
 
@@ -130,9 +147,31 @@ Self introduction:
 
 ### Yum-beise küren
 
-### Tsagan Tologoi
+> After reaching the top of a steep ridge, we suddenly found ourselves in sight of the long-expected Yum-beise küren, situated in a deep valley surrounded on all sides by hills that sheltered the monastery from the severe winds which blow during the winter and spring months. It is a collection of white houses in the center of which rise two du-khangs or assembly halls.
 
-### Tsagan Tologoi-usu
+Юндун-бэйсеин-куре (Youndoun-beisiin-kure) - крупный монастырь. Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
+
+Другие названия:
+
+* Амар Буянтын Хурэний Турь
+* Амар буянт
+* Юм бэйсийн хошуу
+
+![080-yum-beise.png](/notes/roerich-trails-to-asia-en/080-yum-beise.png Photo from Trails to Inmost Asia)
+
+![](/notes/norzunov-route/simukov-yumbeise.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
+
+### Tsagan Tologoi и Tsagan Tologoi-usu
+
+Названия местности и водотока.
+
+> We found no suitable place for camping close to the monastery and were advised to establish our camp outside the monastery in a place locally called Tsagan Tologoi — “White Head,” so named after a mountain west of the monastery. The place chosen for the camp was situated on the banks of a tiny stream, the Tsagan Tologoi-usu.
+
+Перевод:
+
+> Возле монастыря мы не нашли подходящего места для установки лагеря, и нам посоветовали установить лагерь за монастырем в местечке, носящем местное название Цаган Тологой – «Белая Голова» – по имени горы западнее монастыря. Место, выбранное для лагеря, было на берегу крошечной речки Цаган Тологой-усу.
+
+Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
 
 ## Comparison with the alternative reconstruction
 
