@@ -148,9 +148,9 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 > Later in the afternoon we reached the northern branch of the Ongin-gol. Before reaching the river, the trail crossed a vast gravel plain with firm ground.
 
-Река Онгийн-Гол, впадает в пересыхающее озеро Улаан-нур. Истоки реки находятся в Хангайских горах [Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B3%D0%B8%D0%B9%D0%BD-%D0%93%D0%BE%D0%BB).
+Река Онгийн-Гол, впадает в пересыхающее озеро Улаан-нур. Истоки реки находятся в Хангайских горах ([Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B3%D0%B8%D0%B9%D0%BD-%D0%93%D0%BE%D0%BB)).
 
-Упоминается у [Шишмарева](/notes/shishmarev-three-routes-through-mongolia/) и [Норзунова](/content/notes/norzunov-route/).
+Упоминается у [Шишмарева](/notes/shishmarev-three-routes-through-mongolia/#онгиин-гол) и [Норзунова](/notes/norzunov-route/#хадату-khadatou).
 
 ### Üdzen-Wang
 
