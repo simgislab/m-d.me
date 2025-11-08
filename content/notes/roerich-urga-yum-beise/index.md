@@ -209,14 +209,12 @@ Mишиг Гүний Хүрээ Норовчойнпэллин хийд
 
 Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
 
-## Comparison with the alternative reconstruction
+## Сравнение с альтернативной реконструкцией
 
-The same route in full (not just URGA --- YUM-BEISE KÜREN part) was reconstructed by [Central Asian Expedition](https://caemap.com/en/about) (CAE) project.
+Весь маршрут (не только URGA --- YUM-BEISE KÜREN) был реконструирован в рамках сайта проекта [Центрально-Азиатской экспедиции](https://caemap.com/en/about) (CAE).
 
-I used [data from the project](/notes/roerich-cae-data/) to compare main toponyms.
+[Данные проекта](/notes/roerich-cae-data/) можно использовать для сравнения.
 
-I hope this can improve CAE data even further.
+## Комментарии
 
-## Discussion
-
-[**Questions or comments?**](https://t.me/answer42geo)
+[**Обсудить**](https://t.me/answer42geo)
