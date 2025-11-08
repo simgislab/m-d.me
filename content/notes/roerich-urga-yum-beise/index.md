@@ -127,9 +127,13 @@ https://mongoltoli.mn/history/h/977
 
 ![mishe-sat-fresh.jpg](mishe-sat-fresh.jpg "More recent satellite image from Google Maps https://maps.app.goo.gl/Y9DqNoj6u6g7BEYT7")
 
-С тех пор как монастырь был разрушен, от него сохранились остатки четырёх монастырских построек, они были позже отреставрированы и введены в эксплуатацию ([источник](https://gogo.mn/r/nye63)).
+С тех пор как монастырь был разрушен, от него сохранились остатки четырёх монастырских построек, они были позже отреставрированы и введены в эксплуатацию ([источник](https://gogo.mn/r/nye63)). Оставшиеся строения хорошо видны на фотографиях размещенных на [странице Mongolian Temples](https://mongoliantemples.org/en/component/domm/1691?view=oldtempleen).
+
+![mishe-old-buildings.jpg](mishe-old-buildings.jpg "https://www.mongoliantemples.org/images/domm/gallery/%D0%A2%D3%A9%D0%B2/%D0%A2%D3%A8%D0%94%D0%A5%20005/S8000050.JPG")
 
 ![mishe-old.jpg](mishe-old.jpg "Мишик-гун курэ. Архив МАН Ф. 59, № 113. https://mongoliantemples.org/images/domm/archives/%D0%A2%D3%A8%D0%94%D0%A5%20005/2.jpg")
+
+Итого: новый монастырь располагается там же, где и старый, в административном центре, поселке Дэлгэрхаан.
 
 ### Ongin gol
 
