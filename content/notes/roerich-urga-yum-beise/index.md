@@ -222,7 +222,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 * Амар буянт
 * Юм бэйсийн хошуу
 
-![080-yum-beise.png](/notes/roerich-trails-to-asia-en/080-yum-beise.png Photo from Trails to Inmost Asia)
+![080-yum-beise.png](/notes/roerich-trails-to-asia-en/080-yum-beise.png "Photo from Trails to Inmost Asia")
 
 ![simukov-yumbeise.png](/notes/norzunov-route/simukov-yumbeise.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
 
@@ -230,13 +230,15 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 ### Tsagan Tologoi и Tsagan Tologoi-usu
 
-Названия местности и водотока.
+Названия местности и небольшого водотока.
 
 > We found no suitable place for camping close to the monastery and were advised to establish our camp outside the monastery in a place locally called Tsagan Tologoi — “White Head,” so named after a mountain west of the monastery. The place chosen for the camp was situated on the banks of a tiny stream, the Tsagan Tologoi-usu.
 
 Перевод:
 
 > Возле монастыря мы не нашли подходящего места для установки лагеря, и нам посоветовали установить лагерь за монастырем в местечке, носящем местное название Цаган Тологой – «Белая Голова» – по имени горы западнее монастыря. Место, выбранное для лагеря, было на берегу крошечной речки Цаган Тологой-усу.
+
+Подробее о местонахождении этих топонимов в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure)
 
 ## Сравнение с альтернативной реконструкцией
 
