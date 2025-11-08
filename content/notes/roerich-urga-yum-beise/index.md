@@ -150,7 +150,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 Река Онгийн-Гол, впадает в пересыхающее озеро Улаан-нур. Истоки реки находятся в Хангайских горах [Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B3%D0%B8%D0%B9%D0%BD-%D0%93%D0%BE%D0%BB).
 
-Упоминается у Шишмарева.
+Упоминается у [Шишмарева](/notes/shishmarev-three-routes-through-mongolia/) и [Норзунова](/content/notes/norzunov-route/).
 
 ### Üdzen-Wang
 
@@ -162,7 +162,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 Река Таацын гол, впадает в озеро Тацын-Цаган-Нур. Истоки реки находятся в Хангайских горах.
 
-Другие названия:
+Варианты названия:
 
 * Tatsa gol - Stanford.
 * Таацын гол - топокарты Генштаба 1 км
@@ -197,7 +197,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 Река Түйн гол (ᠲᠦᠢ ᠶᠢᠨ ᠭᠣᠤᠯ), впадает в озеро Орог нуур. Истоки реки находятся в Хангайских горах (монг. [Википедия](https://mn.wikipedia.org/wiki/%D0%A2%D2%AF%D0%B9%D0%BD_%D0%B3%D0%BE%D0%BB))
 
-Другие названия:
+Варианты названия:
 
 * Taia gol - Stanford
 * Туйн гол - топокарты Генштаба 1 км, 2 км, 10 км
@@ -216,7 +216,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 Юндун-бэйсеин-куре (Youndoun-beisiin-kure) - крупный монастырь. Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
 
-Другие названия:
+Варианты названия:
 
 * Амар Буянтын Хурэний Турь
 * Амар буянт
@@ -226,7 +226,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 ![simukov-yumbeise.png](/notes/norzunov-route/simukov-yumbeise.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
 
-Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
+Подробнее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
 
 ### Tsagan Tologoi и Tsagan Tologoi-usu
 
@@ -238,7 +238,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 > Возле монастыря мы не нашли подходящего места для установки лагеря, и нам посоветовали установить лагерь за монастырем в местечке, носящем местное название Цаган Тологой – «Белая Голова» – по имени горы западнее монастыря. Место, выбранное для лагеря, было на берегу крошечной речки Цаган Тологой-усу.
 
-Подробее о местонахождении этих топонимов в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure)
+Подробнее о местонахождении этих топонимов в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure)
 
 ## Сравнение с альтернативной реконструкцией
 
