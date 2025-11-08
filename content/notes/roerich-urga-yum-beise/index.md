@@ -1,8 +1,8 @@
 ---
 title: "Рерих. Реконструкция маршрута из Урги в Юм-бейсе"
 date: "2025-11-03"
-summary: "Топонимы и их положение на исторических и современных картах."
-description: "Топонимы и их положение на исторических и современных картах."
+summary: "Топонимы и их локация на исторических и современных картах."
+description: "Топонимы и их локация на исторических и современных картах."
 toc: true
 autonumber: false
 math: false
@@ -15,6 +15,10 @@ fediverse: "@username@instance.url"
 ## Введение
 
 Эта заметка разбирает IX URGA — YUM-BEISE KÜREN главу книги [Trail to Inmost Asia](/notes/roerich-trails-to-asia-en/) для реконструкции описывающегося в ней маршрута Центрально-азиатской экспедиции Рериха из Урги в Юм-бейсе. Описание [методики](/notes/route-mapping-methodology-en/) для интересующихся данным подходом. Исходно книга издана на английском языке, поэтому все топонимы - на английском. [Перевод главы](https://roerich-lib.ru/index.php/yu-n-rerikh/po-tropam-sredinnoj-azii/3945-ix-urga-yum-bejse-kyuren?ysclid=m05ncf08xy185773842) на русский язык.
+
+Цитаты под каждым топонимом приведены по [оригиналу](/notes/roerich-trails-to-asia-en/).
+
+Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
 
 * [Исходный текст главы с разметкой](https://docs.google.com/document/d/1arZXVq8gQjrmLlj_Vr6YowHrQPEmkCQiG4w3HDNJOBc/edit?usp=sharing) with markdown.
 * [Таблица всех упомянутых топонимови остановок по маршруту](https://docs.google.com/spreadsheets/d/1HRkxe5X4apHbGUHao5XHEagEOJdsssXXDdNZoi6s-QM/edit?usp=sharing)
@@ -31,15 +35,20 @@ fediverse: "@username@instance.url"
 
 Туул (монг. Туул гол, до 1988 года — Тола) — река в центральной Монголии, протекает через южную часть Улан-батора и впадает в Орхон ([Википедия](https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%83%D0%BB)).
 
-Туул гол (топокарты Генштаба 1км).
+Варианты названия:
 
-Тола Гол (топокарты Генштаба 2км).
+* Туул гол (топокарты Генштаба 1 км).
+* Тола Гол (топокарты Генштаба 2 км).
 
 ### Sangiin veterenary station
+
+> Some six miles away on the farther bank of the river we could see the dim lights of the Sangin Veterinary Station.
 
 Not found.
 
 ### Bogdo-ula
+
+> Southeast of our camp rose the western offshoots of the massive Bogdo ula and toward the southwest were the dim outlines of rolling hills, through which lay the valley of the Tola.
 
 Богд-Хан-Уул (монг. Богд хан уул; устар. Богдо-Хан-Ула, **Богдо-Ула**, Чойбалсан-Ула) — гора примыкающая к Улан-Батору ([Википедия](https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%B4-%D0%A5%D0%B0%D0%BD-%D0%A3%D1%83%D0%BB)).
 
@@ -51,7 +60,7 @@ Not found.
 
 Скорее всего Naban Tseriyn Guuniy Hüree - монастырь располагавшийся на изгибе р. Тола. На топокартах 2км помечен как развалины. Современных следов не найдено.
 
-Другие названия:
+Варианты названия:
 
 * Наваан цэрэн гуний тууръ --- топокарты Генштаба 1 км
 * Наван-Цэрэн-Гуний-Турь --- топокарты Генштаба 2 км
@@ -84,7 +93,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 Озеро и монастырь рядом с современным населенным пунктом Баянтохом, центр сомона Бурэн (монг. Бүрэн), аймак Туве ([Википедия](https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%8D%D0%BD)).
 
-Другие названия:
+Варианты названия озера:
 
 * Төхмийн нуур (2км)
 * Тухмийн-Нур (1км)
@@ -103,7 +112,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 > After a two hours’ ride over good road, during which we crossed several shallow rivulets, we reached the Mishe-Gun küren, a large lamasery with a colony of Russian tradesmen living near by.
 
-Монастырь Мишиг гүний хүрээ Норовчойнпэллин хийд (Noromchoimpellin khiid). Построен в 1729, разрушен в конце 1930-х. Насчитывал несколько десятков зданий и 500 монахов. Страница на [Mongolian Temples](https://mongoliantemples.org/en/component/domm/1691?view=oldtempleen) (указанные координаты 100% ошибочные).
+Монастырь Мишиг гүний хүрээ Норовчойнпэллин хийд (Noromchoimpellin khiid). Построен в 1729, разрушен в конце 1930-х. Насчитывал несколько десятков зданий и 500 монахов. Страница на [Mongolian Temples](https://mongoliantemples.org/en/component/domm/1691?view=oldtempleen) (указанные на странице координаты 100% ошибочные).
 
 https://mongoltoli.mn/history/h/977
 
@@ -137,13 +146,19 @@ https://mongoltoli.mn/history/h/977
 
 ### Ongin gol
 
+> Later in the afternoon we reached the northern branch of the Ongin-gol. Before reaching the river, the trail crossed a vast gravel plain with firm ground.
+
 Река Онгийн-Гол, впадает в пересыхающее озеро Улаан-нур. Истоки реки находятся в Хангайских горах [Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B3%D0%B8%D0%B9%D0%BD-%D0%93%D0%BE%D0%BB).
 
 Упоминается у Шишмарева.
 
 ### Üdzen-Wang
 
+> An hour’s ride brought us to Üdzen-Wang, comprising a large lamasery, a local yamen or administrative center, and several Russian trading establishments, including a local branch of the Mongol Central Coöperative. While some of us were looking for a good and reliable guide, a big crowd of red-clad lamas, Mongol officials, and laymen assembled around our cars.
+
 ### Tatsa-gol
+
+> After crossing the Tatsa-gol, an insignificant stream in its upper course, we continued our way along the southern foot of the Artsa ula Range.
 
 Река Таацын гол, впадает в озеро Тацын-Цаган-Нур. Истоки реки находятся в Хангайских горах.
 
@@ -178,6 +193,8 @@ https://mongoltoli.mn/history/h/977
 
 ### Toin-gol
 
+> About eleven o’clock in the morning we reached the Toin-gol — a river difficult to ford because of its muddy bottom.
+
 Река Түйн гол (ᠲᠦᠢ ᠶᠢᠨ ᠭᠣᠤᠯ), впадает в озеро Орог нуур. Истоки реки находятся в Хангайских горах (монг. [Википедия](https://mn.wikipedia.org/wiki/%D0%A2%D2%AF%D0%B9%D0%BD_%D0%B3%D0%BE%D0%BB))
 
 Другие названия:
@@ -187,7 +204,11 @@ https://mongoltoli.mn/history/h/977
 
 ### Koko-khoto-Kuch'eng
 
+> After an hour’s drive we crossed the great highway Koko-khoto — Kuch’eng, distinguished as all the Chinese highways by deep wheel tracks left behind by convoys of heavily loaded Chinese carts.
+
 ### Boro-nor
+
+> It was getting dark and the after-sunset glow only dimly lighted our path. We decided to camp for the night on the shore of a small lake, the Boro-nor, situated in a shallow depression. It was almost dried up, but according to local Mongols it assumed large proportions every summer after the rains.
 
 ### Yum-beise küren
 
