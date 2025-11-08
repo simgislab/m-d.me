@@ -82,6 +82,8 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 > About noon we reached the important monastery of Tukhumun Dugan or Dugan-sümä, situated north of the salt lake, called Ikhe Tukhum-nor.
 
+Озеро и монастырь рядом с современным населенным пунктом Баянтохом, центр сомона Бурэн (монг. Бүрэн), аймак Туве ([Википедия](https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%8D%D0%BD)).
+
 Другие названия:
 
 * Төхмийн нуур (2км)
@@ -95,15 +97,13 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 * Ozero Tukhumyyn Nur
 * Töhömiin Nuue.
 
-Озеро на северной стороне современного поселка Баянтохом, центр сомона Бурэн (монг. Бүрэн), аймак Туве.
-
 ![tukhumun.png](tukhumun.png "https://nakarte.me/#m=12/46.89481/105.05831&l=T")
 
 ### Mishe-Gun küren
 
 > After a two hours’ ride over good road, during which we crossed several shallow rivulets, we reached the Mishe-Gun küren, a large lamasery with a colony of Russian tradesmen living near by.
 
-Мишиг гүний хүрээ
+Монастырь Мишиг гүний хүрээ Норовчойнпэллин хийд (Noromchoimpellin khiid). Построен в 1729, разрушен в конце 1930-х. Насчитывал несколько десятков зданий и 500 монахов. Страница на [Mongolian Temples](https://mongoliantemples.org/en/component/domm/1691?view=oldtempleen) (указанные координаты 100% ошибочные).
 
 https://mongoltoli.mn/history/h/977
 
@@ -115,9 +115,9 @@ https://mongoltoli.mn/history/h/977
 > Монастырь на территории сомона Дэлгэрхан, аймака Туве.
 > Находился в хошуне Сэцэн-вана аймака Түшээт-хана, на месте под названием Дунд Хуримт, на территории современного сумона Дэлгэрхаан аймака Туве (Центральный).
 
-![history_1482641145.jpg](history_1482641145.jpg "Мишиг гүний хүрээнийн нэгэн сум")
+![history_1482641145.jpg](history_1482641145.jpg "Мишиг гүний хүрээнийн нэгэн сум. Современное (восстановленное) здание.")
 
-Mишиг Гүний Хүрээ Норовчойнпэллин хийд
+Стройматериалы старого монастыря были использованы для строительства административного центра и клуба.
 
 Со страницы монастыря в Facebook: https://www.facebook.com/MishigGun:
 
@@ -125,7 +125,11 @@ Mишиг Гүний Хүрээ Норовчойнпэллин хийд
 
 ![mishe-sat-fb.jpg](mishe-sat-fb.jpg "Image from Monastery Facebook page https://www.facebook.com/MishigGun/photos/p.1223355568212733/1223355568212733/?type=3")
 
-![mishe-sat-fresh.jpg](mishe-sat-fresh.jpg "More recent satellite image from Google Maps")
+![mishe-sat-fresh.jpg](mishe-sat-fresh.jpg "More recent satellite image from Google Maps https://maps.app.goo.gl/Y9DqNoj6u6g7BEYT7")
+
+С тех пор как монастырь был разрушен, от него сохранились остатки четырёх монастырских построек, они были позже отреставрированы и введены в эксплуатацию ([источник](https://gogo.mn/r/nye63)).
+
+![mishe-old.jpg](mishe-old.jpg "Мишик-гун курэ. Архив МАН Ф. 59, № 113. https://mongoliantemples.org/images/domm/archives/%D0%A2%D3%A8%D0%94%D0%A5%20005/2.jpg")
 
 ### Ongin gol
 
@@ -197,6 +201,8 @@ Mишиг Гүний Хүрээ Норовчойнпэллин хийд
 
 ![](/notes/norzunov-route/simukov-yumbeise.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
 
+Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
+
 ### Tsagan Tologoi и Tsagan Tologoi-usu
 
 Названия местности и водотока.
@@ -206,8 +212,6 @@ Mишиг Гүний Хүрээ Норовчойнпэллин хийд
 Перевод:
 
 > Возле монастыря мы не нашли подходящего места для установки лагеря, и нам посоветовали установить лагерь за монастырем в местечке, носящем местное название Цаган Тологой – «Белая Голова» – по имени горы западнее монастыря. Место, выбранное для лагеря, было на берегу крошечной речки Цаган Тологой-усу.
-
-Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
 
 ## Сравнение с альтернативной реконструкцией
 
