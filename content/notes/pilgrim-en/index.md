@@ -65,6 +65,9 @@ Some notes are in English, others in Russian. Russian notes may include a Google
 ## Roerich
 
 * [Roerich. Trails to Inmost Asia](/notes/roerich-trails-to-asia-en/)
+* [Spatial data on Roerich's expedition](/notes/roerich-cae-data/)
+* [Roerich's CAE website scandal](/notes/roerich-cae-scandal/)
+* [Roerich. Reconstruction of the route from Urga to Yum-beise](/notes/roerich-urga-yum-beise/) ([[GT](https://m--d-me.translate.goog/notes/roerich-urga-yum-beise/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)])
 
 ## Maps
 
