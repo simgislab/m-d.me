@@ -109,7 +109,9 @@ https://mongoltoli.mn/history/h/977
 
 > Төв аймгийн Дэлгэрхаан сумын нутагт байсан хийд 
 > Түшээт хан аймгийн Сэцэн вангийн хошуу одоогийн Төв аймгийн Дэлгэрхаан сумын нутаг Дунд Хуримт хэмээх газар оршино.
->
+
+Перевод:
+
 > Монастырь на территории сомона Дэлгэрхан, аймака Туве.
 > Находился в хошуне Сэцэн-вана аймака Түшээт-хана, на месте под названием Дунд Хуримт, на территории современного сумона Дэлгэрхаан аймака Туве (Центральный).
 
@@ -117,9 +119,7 @@ https://mongoltoli.mn/history/h/977
 
 Mишиг Гүний Хүрээ Норовчойнпэллин хийд
 
-Monastery Facebook page: https://www.facebook.com/MishigGun
-
-Self introduction:
+Со страницы монастыря в Facebook: https://www.facebook.com/MishigGun:
 
 > Mishig Gunii Khuree, Norovchoinpellin Monastery was founded in 1729. Today, with a history of more than 295 years, the center is being re-opened by the 4th generation Mishig Gun of the Buddhist monk Byambadoljin Nyamdorj.
 
