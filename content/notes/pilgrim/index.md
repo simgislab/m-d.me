@@ -16,6 +16,8 @@ fediverse: "@username@instance.url"
 
 На этой странице собраны основные ссылки по работе проделанной по теме "Пути паломников в Тибет". Все статьи можно увидеть через [полный список](/notes/) или [теги](/tags/).
 
+English version of this list is [available](/notes/pilgrim-en/).
+
 ## Сводное и методологическое
 
 * [Pilgrim routes to Tibet](/notes/pilgrim-routes-to-tibet/)
