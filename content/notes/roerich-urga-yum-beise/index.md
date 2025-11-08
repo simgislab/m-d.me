@@ -114,9 +114,9 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 Монастырь Мишиг гүний хүрээ Норовчойнпэллин хийд (Noromchoimpellin khiid). Построен в 1729, разрушен в конце 1930-х. Насчитывал несколько десятков зданий и 500 монахов. Страница на [Mongolian Temples](https://mongoliantemples.org/en/component/domm/1691?view=oldtempleen) (указанные на странице координаты 100% ошибочные).
 
-https://mongoltoli.mn/history/h/977
+<https://mongoltoli.mn/history/h/977>
 
-> Төв аймгийн Дэлгэрхаан сумын нутагт байсан хийд 
+> Төв аймгийн Дэлгэрхаан сумын нутагт байсан хийд
 > Түшээт хан аймгийн Сэцэн вангийн хошуу одоогийн Төв аймгийн Дэлгэрхаан сумын нутаг Дунд Хуримт хэмээх газар оршино.
 
 Перевод:
@@ -128,7 +128,7 @@ https://mongoltoli.mn/history/h/977
 
 Стройматериалы старого монастыря были использованы для строительства административного центра и клуба.
 
-Со страницы монастыря в Facebook: https://www.facebook.com/MishigGun:
+Со страницы монастыря в Facebook: <https://www.facebook.com/MishigGun>:
 
 > Mishig Gunii Khuree, Norovchoinpellin Monastery was founded in 1729. Today, with a history of more than 295 years, the center is being re-opened by the 4th generation Mishig Gun of the Buddhist monk Byambadoljin Nyamdorj.
 
@@ -224,7 +224,7 @@ https://mongoltoli.mn/history/h/977
 
 ![080-yum-beise.png](/notes/roerich-trails-to-asia-en/080-yum-beise.png Photo from Trails to Inmost Asia)
 
-![](/notes/norzunov-route/simukov-yumbeise.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
+![simukov-yumbeise.png](/notes/norzunov-route/simukov-yumbeise.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
 
 Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
 
