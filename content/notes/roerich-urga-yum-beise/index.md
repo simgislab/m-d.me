@@ -174,13 +174,23 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 > Later in the afternoon we reached the northern branch of the Ongin-gol. Before reaching the river, the trail crossed a vast gravel plain with firm ground.
 
-Река Онгийн-Гол, впадает в пересыхающее озеро Улаан-нур. Истоки реки находятся в Хангайских горах ([Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B3%D0%B8%D0%B9%D0%BD-%D0%93%D0%BE%D0%BB)).
+Река Онгийн-Гол, впадает в пересыхающее озеро Улаан-нур. Истоки реки находятся в Хангайских горах ([Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B3%D0%B8%D0%B9%D0%BD-%D0%93%D0%BE%D0%BB), монг. [Википедия](https://mn.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B3%D0%B8_%D0%B3%D0%BE%D0%BB)).
 
 Упоминается у [Шишмарева](/notes/shishmarev-three-routes-through-mongolia/#онгиин-гол) и [Норзунова](/notes/norzunov-route/#хадату-khadatou).
 
 ### Üdzen-Wang
 
 > An hour’s ride brought us to Üdzen-Wang, comprising a large lamasery, a local yamen or administrative center, and several Russian trading establishments, including a local branch of the Mongol Central Coöperative. While some of us were looking for a good and reliable guide, a big crowd of red-clad lamas, Mongol officials, and laymen assembled around our cars.
+
+Центр уезда (хошуна) князя Уйзэн вана (Үйзэн ван хошуу, Üizen vangiin khoshuu), сейчас город Арвайхээр (Arvaikheer), административный центр аймака Уверхангай. В городе располагается монастырь Gandan Muntsaglan Khiid (Ганданпунцоглин, Гандан Мунтсаглан), разрушенный в 1937 и восстановленный в 1991.
+
+Из [Википедии](https://mn.wikipedia.org/wiki/%D0%90%D1%80%D0%B2%D0%B0%D0%B9%D1%85%D1%8D%D1%8D%D1%80#%D0%A2%D2%AF%D2%AF%D1%85):
+
+> Арвайхээр сум 1707 онд Сайн ноён хан аймгийн Үйзэн вангийн хошуу, хожмын Цэцэрлэг мандал аймгийн Арвайхээрийн хошууг. Тэр нь 1924 он хүртэл тогтсон Үйзэн гүний хошуу юм.
+
+перевод
+
+> Сомон Арвайхээр был основан в 1707 году как хошуу (уезд) князя Үйзэн вана аймака Сайн ноён хан. Позднее он стал известен как хошуу Арвайхээрийн аймака Цэцэрлэг мандал. Эта административная единица — Үйзэн гүний хошуу — существовала вплоть до 1924 года.
 
 ### Tatsa-gol
 
