@@ -27,9 +27,25 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 Маршрут экспедиции нанесен на несколько карт.
 
-1. Карта из Roerich, G. 1931. Trails to Inmost Asia. Источник [1](https://www.roerich.org/roerich-museum-archive/expeditions.php), [2](/notes/roerich-trails-to-asia-en/#504map), [3](https://archive.org/details/dli.pahar.2487/page/n601/mode/2up).
+1\. Карта из Roerich, G. 1931. Trails to Inmost Asia. Источник [1](https://www.roerich.org/roerich-museum-archive/expeditions.php), [2](/notes/roerich-trails-to-asia-en/#504map), [3](https://archive.org/details/dli.pahar.2487/page/n601/mode/2up).
 
 ![roerich-map-trails.png](roerich-map-trails.png "Фрагмент карты из Trail to Inmost Asia посвященный рассматриваемому участку маршрута")
+
+2\. Карта Route followed by the Roerich Experidion Urga - Shih-Pao-Ch'eng. April-May, 1927.
+
+Источник карты - <https://caemap.com/#m=9/46.0913/103.1137&l=T&p=499/o>. Первоисточник и история происхождения карты не сообщается, других источников этой карты не обнаружено.
+
+> Этот же факт отражен на карте монгольского этапа экспедиции, созданной предположительно Ю.Н. Рерихом.
+
+![cae-map-screen.png](cae-map-screen.png "Фрагмент сайта проекта ЦАЭ с открытой ссылкой на карту")
+
+![caemap-khalkha-mongolia.jpg](caemap-khalkha-mongolia.jpg "https://caemap.com/pages/images/maps/caemap-khalkha-mongolia.jpg")
+
+3\. Реконструкция caemap.com
+
+Маршрут экспедиции целиком (не только URGA --- YUM-BEISE KÜREN) был реконструирован в рамках сайта проекта [Центрально-Азиатской экспедиции](https://caemap.com/en/about) (CAE).
+
+[Данные проекта](/notes/roerich-cae-data/) можно использовать для сравнения.
 
 ## Топонимы
 
@@ -250,11 +266,9 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 Подробнее о местонахождении этих топонимов в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure)
 
-## Сравнение с альтернативной реконструкцией
+## Сравнение с существующими картами
 
-Весь маршрут (не только URGA --- YUM-BEISE KÜREN) был реконструирован в рамках сайта проекта [Центрально-Азиатской экспедиции](https://caemap.com/en/about) (CAE).
-
-[Данные проекта](/notes/roerich-cae-data/) можно использовать для сравнения.
+Одно из серьезных отличий - расположение Mishe-Gun küren. В данной заметке расположение монастыря установлено довольно точно, но оно противоречит всем существующим картам. Согласно существующим картам, экспедиция Рериха от Ikhe Tukhum-nor повернула строго за запад. В то же время, для того чтобы попасть в Mishe-Gun küren она должна была продолжить движение на юго-запад.
 
 ## Комментарии
 
