@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Эта заметка разбирает IX URGA — YUM-BEISE KÜREN главу книги [Trail to Inmost Asia](/notes/roerich-trails-to-asia-en/) для реконструкции описывающегося в ней маршрута Центрально-азиатской экспедиции Рериха из Урги в Юм-бейсе. Описание [методики](/notes/route-mapping-methodology-en/) для интересующихся данным подходом. Исходно книга издана на английском языке, поэтому все топонимы - на английском. [Перевод главы](https://roerich-lib.ru/index.php/yu-n-rerikh/po-tropam-sredinnoj-azii/3945-ix-urga-yum-bejse-kyuren?ysclid=m05ncf08xy185773842) на русский язык.
+Эта заметка разбирает главу IX (URGA — YUM-BEISE KÜREN) из книги [Trail to Inmost Asia](/notes/roerich-trails-to-asia-en/) для реконструкции описывающегося в ней маршрута Центрально-азиатской экспедиции Рериха из Урги в Юм-бейсе. Описание [методики](/notes/route-mapping-methodology-en/) для интересующихся данным подходом. Исходно книга издана на английском языке, поэтому все топонимы - на английском. [Перевод главы](https://roerich-lib.ru/index.php/yu-n-rerikh/po-tropam-sredinnoj-azii/3945-ix-urga-yum-bejse-kyuren?ysclid=m05ncf08xy185773842) на русский язык.
 
 Цитаты под каждым топонимом приведены по [оригиналу](/notes/roerich-trails-to-asia-en/).
 
