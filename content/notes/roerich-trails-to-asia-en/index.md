@@ -8675,9 +8675,9 @@ Zoji Pass, [7](#7) ff.
 
 <a id="504map"></a>
 
-![623-map-1.jpg](602-map-1.jpg)
+![623-map-1.jpg](602-map-1.jpg "General map of the route of the expedition through Central Asia")
 
-![603-map-2.jpg](603-map-2.jpg)
+![603-map-2.jpg](603-map-2.jpg "General map of the route of the expedition through Central Asia")
 
 ## Discussion
 

@@ -23,6 +23,14 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 * [Исходный текст главы с разметкой](https://docs.google.com/document/d/1arZXVq8gQjrmLlj_Vr6YowHrQPEmkCQiG4w3HDNJOBc/edit?usp=sharing) with markdown.
 * [Таблица всех упомянутых топонимови остановок по маршруту](https://docs.google.com/spreadsheets/d/1HRkxe5X4apHbGUHao5XHEagEOJdsssXXDdNZoi6s-QM/edit?usp=sharing)
 
+## Существующие карты
+
+Маршрут экспедиции нанесен на несколько карт.
+
+1. Карта из Roerich, G. 1931. Trails to Inmost Asia. Источник [1](https://www.roerich.org/roerich-museum-archive/expeditions.php), [2](/notes/roerich-trails-to-asia-en/#504map), [3](https://archive.org/details/dli.pahar.2487/page/n601/mode/2up).
+
+![roerich-map-trails.png](roerich-map-trails.png "Фрагмент карты из Trail to Inmost Asia посвященный рассматриваемому участку маршрута")
+
 ## Топонимы
 
 ### Urga
@@ -142,7 +150,9 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 ![mishe-old.jpg](mishe-old.jpg "Мишик-гун курэ. Архив МАН Ф. 59, № 113. https://mongoliantemples.org/images/domm/archives/%D0%A2%D3%A8%D0%94%D0%A5%20005/2.jpg")
 
-Итого: новый монастырь располагается там же, где и старый, в административном центре, поселке Дэлгэрхаан.
+Итого: новый монастырь располагается там же, где и старый, в административном центре, поселке Дэлгэрхаан. Это подтверждается представителем самого монастыря.
+
+![mishe-letter.jpg](mishe-letter.jpg "Ответ представителя монастыря на вопрос на то же ли он месте: Здравствуйте, местоположение осталось прежним.")
 
 ### Ongin gol
 
