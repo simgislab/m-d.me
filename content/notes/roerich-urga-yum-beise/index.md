@@ -39,7 +39,7 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 ![cae-map-screen.png](cae-map-screen.png "Фрагмент сайта проекта ЦАЭ с открытой ссылкой на карту")
 
-![caemap-khalkha-mongolia.jpg](caemap-khalkha-mongolia.jpg "https://caemap.com/pages/images/maps/caemap-khalkha-mongolia.jpg")
+![caemap-khalkha-mongolia.jpg](caemap-khalkha-mongolia.jpg "Полная версия карты https://caemap.com/pages/images/maps/caemap-khalkha-mongolia.jpg")
 
 3\. Реконструкция caemap.com
 
@@ -235,6 +235,20 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 ### Boro-nor
 
 > It was getting dark and the after-sunset glow only dimly lighted our path. We decided to camp for the night on the shore of a small lake, the Boro-nor, situated in a shallow depression. It was almost dried up, but according to local Mongols it assumed large proportions every summer after the rains.
+
+На карте Urga --- Shih-Pao-Ch'eng озеро Boro-nor (Boro-nur) продублировано как Nogon-nur.
+
+![boro-nur-nogon-nur.png](boro-nur-nogon-nur.png "Фрагмент карты Route followed by the Roerich Experidion Urga - Shih-Pao-Ch'eng")
+
+Озеро Ногон-нур (Ногоон нуур, топо 1 км, Ногон-Нур, топо 2 км) есть в нужной окрестности.
+
+![nogon-nur-topo5km.png](nogon-nur-topo5km.png "Топо 5 км. https://nakarte.me/#m=12/44.94609/99.43811&l=T")
+
+Других связей Boro-nor и Nogon-nur не обнаружено.
+
+Похожий топоним из той же окрестности - озеро Орог нуур, место впадение реки Туйн гол (Toin-gol). Озеро довольно большое, но чуть дальше на северо-запад есть небольшое озеро с тем же названием.
+
+![orog-nur.png](orog-nur.png "Топо 5 км https://nakarte.me/#m=12/45.04976/100.76231&l=T")
 
 ### Yum-beise küren
 
