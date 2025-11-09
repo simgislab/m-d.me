@@ -238,9 +238,32 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 * Taia gol - Stanford
 * Туйн гол - топокарты Генштаба 1 км, 2 км, 10 км
 
-### Koko-khoto-Kuch'eng
+### Koko-khoto --- Kuch'eng
 
 > After an hour’s drive we crossed the great highway Koko-khoto — Kuch’eng, distinguished as all the Chinese highways by deep wheel tracks left behind by convoys of heavily loaded Chinese carts.
+
+Караванный путь Koko-khoto --- Kuch'eng упоминается в книге несколько раз:
+
+> The Shara-Khulusun gorge is situated at the junction of two important caravan routes of central Asia: the Yum-beise — An-hsi route and the Koko-khoto — Ku-ch’eng route, connecting China with the lands of Chinese Turkestan and Jungaria. Besides these two routes another secret route, often followed by the Etsin-gol Torguts, runs through the gorge and joins the Koko-khoto — Ku-ch’eng road.
+
+Так же в книге упоминаются маршруты Koko-khoto --- Urumchi, Koko-khoto --- Hami.
+
+В статье Лавреновой Коко-хото это Гуй-хуа. Лавренова, О.А., 1999. [Маньчжурская экспедиция Н.К. Рериха](https://roerich-lib.ru/yubilejnye-rerikhovskie-chteniya-1999/4505-o-a-lavrenova-manchzhurskaya-ekspeditsiya-n-k-rerikha?ysclid=mhs5oe5oc1221049922). Юбилейные рериховские чтения.
+
+> В сентябре второй полевой сезон был закончен. Автономное монгольское правительство снабдило отбывающую в Пекин Экспедицию двумя грузовиками [37], чтобы доставить оборудование до ближайшей станции железной дороги – Гуй-Хуа (Коко-хото).
+
+Возможно, она путает Коко-хото с Хуху-хото или Гуй-хуа-Чэнь (Хух-хото, Hohhot, 呼和浩特市, [Google maps](https://www.google.com/maps/place/Hohhot,+Inner+Mongolia,+China/@40.7638582,111.4288505,9.8z/data=!4m6!3m5!1s0x3606462a4a60d3e1:0x7f72c427fe44f504!8m2!3d40.8414899!4d111.75199!16zL20vMDFtdnR3!5m1!1e4?hl=en&entry=ttu)).
+
+Выясняется, что это соответствие она не изобретает, а берет у самого Рериха, в своем дневнике он прямо называет Кокохото - Гуй-Хуа-чен.
+
+Рерих Н.К. Дневник Маньчжурской экспедиции (1934–1935) / сост., вступ. ст., коммент. О.А. Лавреновой. – М.: Международный Центр Рерихов, 2015. – 520 с., ил. ([Источник](https://icr.su/rus/news/2020/Roerich_Dnevnik_Manchzhurskoy_ekspeditsii.pdf?ysclid=mhs6gvtm2e540302131))
+
+> В сентябре второй полевой сезон был закончен. Автономное монгольское правительство выкупило у экспедиции два грузовика и помогло доставить оборудование до ближайшей станции железной дороги – Гуй-Хуа-чен (Кокохото).
+
+В географическом указателе подтверждается тождественность Коко-хото и Хух-хото.
+
+> Кокохото (Хух-Хото) см. Гуй-Хуа-чен
+
 
 ### Boro-nor
 
