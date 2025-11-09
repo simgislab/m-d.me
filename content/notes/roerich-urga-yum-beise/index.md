@@ -254,7 +254,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 > After reaching the top of a steep ridge, we suddenly found ourselves in sight of the long-expected Yum-beise küren, situated in a deep valley surrounded on all sides by hills that sheltered the monastery from the severe winds which blow during the winter and spring months. It is a collection of white houses in the center of which rise two du-khangs or assembly halls.
 
-Юндун-бэйсеин-куре (Youndoun-beisiin-kure) - крупный монастырь. Подробее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
+Юндун-бэйсеин-куре (Youndoun-beisiin-kure) - крупный монастырь. Подробнее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
 
 Варианты названия:
 
