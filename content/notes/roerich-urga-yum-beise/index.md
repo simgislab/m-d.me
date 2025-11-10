@@ -164,6 +164,8 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 ![mishe-old-buildings.jpg](mishe-old-buildings.jpg "https://www.mongoliantemples.org/images/domm/gallery/%D0%A2%D3%A9%D0%B2/%D0%A2%D3%A8%D0%94%D0%A5%20005/S8000050.JPG")
 
+The Mishik-gun khure. Archive of the MAS. F.59. No. 113. Courtesy of History of Mongolia in Photographs, Vol IV Koslov.
+
 ![mishe-old.jpg](mishe-old.jpg "Мишик-гун курэ. Архив МАН Ф. 59, № 113. https://mongoliantemples.org/images/domm/archives/%D0%A2%D3%A8%D0%94%D0%A5%20005/2.jpg")
 
 Итого: новый монастырь располагается там же, где и старый, в административном центре, поселке Дэлгэрхаан. Это подтверждается представителем самого монастыря.
