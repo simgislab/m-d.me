@@ -295,6 +295,7 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 
 ![qitai-google.png](qitai-google.png "Qitai и Gucheng, https://www.google.com/maps/@43.9970078,89.5889323,13.25z/data=!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D")
 
+
 ![koko-kucheng.png](koko-kucheng.png "Караванный путь Koko-khoto --- Kuch'eng, линия проведена абстрактно.")
 
 ### Boro-nor
