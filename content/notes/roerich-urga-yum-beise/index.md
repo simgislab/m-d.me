@@ -252,7 +252,7 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 > В сентябре второй полевой сезон был закончен. Автономное монгольское правительство снабдило отбывающую в Пекин Экспедицию двумя грузовиками [37], чтобы доставить оборудование до ближайшей станции железной дороги – Гуй-Хуа (Коко-хото).
 
-Возможно, она путает Коко-хото с Хуху-хото или Гуй-хуа-Чэнь (Хух-хото, Hohhot, 呼和浩特市, [Google maps](https://www.google.com/maps/place/Hohhot,+Inner+Mongolia,+China/@40.7638582,111.4288505,9.8z/data=!4m6!3m5!1s0x3606462a4a60d3e1:0x7f72c427fe44f504!8m2!3d40.8414899!4d111.75199!16zL20vMDFtdnR3!5m1!1e4?hl=en&entry=ttu)).
+Возможно, она путает Коко-хото с Хуху-хото или Гуй-хуа-Чэнь (Хух-хото, Hohhot, 呼和浩特市, [Google maps](https://www.google.com/maps/place/Hohhot,+Inner+Mongolia,+China/@40.7638582,111.4288505,9.8z/data=!4m6!3m5!1s0x3606462a4a60d3e1:0x7f72c427fe44f504!8m2!3d40.8414899!4d111.75199!16zL20vMDFtdnR3!5m1!1e4?hl=en&entry=ttu))?
 
 Выясняется, что это соответствие она не изобретает, а берет у самого Рериха, в своем дневнике он прямо называет Кокохото - Гуй-Хуа-чен.
 
@@ -260,10 +260,42 @@ JOINT OPERATIONS GRAPHIC-GROUND. [1501 NL4802] ([скачать](https://maps.li
 
 > В сентябре второй полевой сезон был закончен. Автономное монгольское правительство выкупило у экспедиции два грузовика и помогло доставить оборудование до ближайшей станции железной дороги – Гуй-Хуа-чен (Кокохото).
 
-В географическом указателе подтверждается тождественность Коко-хото и Хух-хото.
+В географическом указателе опубликованного дневника подтверждается тождественность Коко-хото и Хух-хото.
 
 > Кокохото (Хух-Хото) см. Гуй-Хуа-чен
 
+Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - населенный пункт, находится в уезде Цитай (Qitai) на территории одноименного города. Был важным узлом караванной торговли на Великом шёлковом пути (рядом Урумчи, Или, Хами), Синьцзян-Уйгурский автономный район Китая ([Википедия](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%82%D0%B0%D0%B9), [OpenStreetMap](https://www.openstreetmap.org/node/1956457853)).
+
+Варианты названия:
+
+* Ch'i-t'ai
+* Ch'i-t'ai-chen
+* Ch'i-t'ai-hsien
+* Guchen
+* Gucheng
+* Guchentszy
+* Kitai
+* Kou-tcheng
+* Ku-ch'eng
+* Ku-ch'eng-tau
+* Kuchengtze
+* Ku-cheng-tzu
+* Kuchong
+* Ku-shong
+* Ku-tschong
+* Tsitay
+* Hsi-ti
+* Hsi-ti-chuang
+
+Упоминается например у Teichman, Eric, 1937. Journey to Turkistan. London, Hodder and Stoughton Limited.
+
+> The next day a short morning's run across the level steppe brought us to Kuch'eng, now known officially as Ch'i-t'ai Hsien, revival of an ancient name.
+> ...
+> From Kuch'eng to Urumchi there were left but 126 miles, which we might, I think, have covered in one day.
+
+![qitai-google.png](qitai-google.png "Qitai и Gucheng, https://www.google.com/maps/@43.9970078,89.5889323,13.25z/data=!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D")
+
+![koko-kucheng.png](koko-kucheng.png "Караванный путь Koko-khoto --- Kuch'eng, линия проведена абстрактно.")
 
 ### Boro-nor
 
