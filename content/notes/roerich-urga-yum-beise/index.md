@@ -23,8 +23,6 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 * [Исходный текст главы с разметкой](https://docs.google.com/document/d/1arZXVq8gQjrmLlj_Vr6YowHrQPEmkCQiG4w3HDNJOBc/edit?usp=sharing) with markdown.
 * [Таблица всех упомянутых топонимови остановок по маршруту](https://docs.google.com/spreadsheets/d/1HRkxe5X4apHbGUHao5XHEagEOJdsssXXDdNZoi6s-QM/edit?usp=sharing).
 
-I wish to thank Sue Byrne for initiating this work and making the first version of the topomyns table.
-
 ## Существующие карты
 
 Маршрут экспедиции нанесен на несколько карт.
@@ -291,7 +289,7 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 * Hsi-ti
 * Hsi-ti-chuang
 
-Упоминается например у Teichman, Eric, 1937. Journey to Turkistan. London, Hodder and Stoughton Limited.
+Упоминается например у Teichman, Eric, 1937. Journey to Turkistan. London, Hodder and Stoughton Limited. [Источник](https://pahar.in/pahar/Books%20and%20Articles/Tibet%20and%20China/1937%20Journey%20to%20Turkistan%20by%20Teichman%20s.pdf).
 
 > The next day a short morning's run across the level steppe brought us to Kuch'eng, now known officially as Ch'i-t'ai Hsien, revival of an ancient name.
 > ...
@@ -353,7 +351,7 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 
 ## Сравнение с существующими картами и реконструкцией ЦАЭ
 
-Эта заметка подробно разбирает каждый из упомянутых в IX главе Trails of Inmost Asia топонимов и приводит доказательства их тождественности с современными локациями.
+Эта заметка подробно разбирает каждый из упомянутых в IX главе [Trails of Inmost Asia](/notes/roerich-trails-to-asia-en/) топонимов и приводит доказательства их тождественности с современными локациями.
 
 Существующие карты маршрута экспедиции Рериха из Урги в Юм-бейсе и реконструкция ЦАЭ в целом достаточно точно соответствуют большинству найденных топонимов.
 
@@ -362,6 +360,10 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 ![reconstruction-diff.png](reconstruction-diff.png "Красная линия и серые точки - реконструкция ЦАЭ, звездочки - локации топонимов из этой заметки")
 
 Восстановленный маршрут хорошо соответствует существующим картам. Однако, учитывая состояние картографических материалов в 1920-х, отсутствие средств навигации и спешку, можно предположить, что сами путешественники не вполне точно осознавали и нанесли свой маршрут на карты и его нельзя полностью воспринимать как истину. Необходимо еще раз тщательно провести реконструкцию с привлечением вспомогательных маршрутных данных, рельефа, данных о ландшафтах.
+
+## Благодарности
+
+Спасибо Sue Byrne за инициирование этой работы и первую версию таблицы топонимов и Рустаму Сабирову за помощь с монгольским и вообще участие 🤗
 
 ## Комментарии
 
