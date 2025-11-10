@@ -365,4 +365,4 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo)
+[**Обсудить**](https://t.me/answer42geo/134)
