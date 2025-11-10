@@ -21,7 +21,9 @@ fediverse: "@username@instance.url"
 Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
 
 * [Исходный текст главы с разметкой](https://docs.google.com/document/d/1arZXVq8gQjrmLlj_Vr6YowHrQPEmkCQiG4w3HDNJOBc/edit?usp=sharing) with markdown.
-* [Таблица всех упомянутых топонимови остановок по маршруту](https://docs.google.com/spreadsheets/d/1HRkxe5X4apHbGUHao5XHEagEOJdsssXXDdNZoi6s-QM/edit?usp=sharing)
+* [Таблица всех упомянутых топонимови остановок по маршруту](https://docs.google.com/spreadsheets/d/1HRkxe5X4apHbGUHao5XHEagEOJdsssXXDdNZoi6s-QM/edit?usp=sharing).
+
+I wish to thank Sue Byrne for initiating this work and making the first version of the topomyns table.
 
 ## Существующие карты
 
@@ -297,7 +299,6 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 
 ![qitai-google.png](qitai-google.png "Qitai и Gucheng, https://www.google.com/maps/@43.9970078,89.5889323,13.25z/data=!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D")
 
-
 ![koko-kucheng.png](koko-kucheng.png "Караванный путь Koko-khoto --- Kuch'eng, линия проведена абстрактно.")
 
 ### Boro-nor
@@ -332,6 +333,8 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 
 ![080-yum-beise.png](/notes/roerich-trails-to-asia-en/080-yum-beise.png "Photo from Trails to Inmost Asia")
 
+Интересно, что [Симуков](/notes/simukov-green-map/) сделал свою фотографию Юм-бейсе в том же году, в котором в монастыре побывала экспедиция Рериха.
+
 ![simukov-yumbeise.png](/notes/norzunov-route/simukov-yumbeise.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
 
 Подробнее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
@@ -348,13 +351,15 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 
 Подробнее о местонахождении этих топонимов в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure)
 
-## Сравнение с существующими картами
+## Сравнение с существующими картами и реконструкцией ЦАЭ
 
-Существующие карты маршрута экспедиции Рериха из Ургу в Юм-бейсе в целом достаточно точно описывают его путь.
+Эта заметка подробно разбирает каждый из упомянутых в IX главе Trails of Inmost Asia топонимов и приводит доказательства их тождественности с современными локациями.
 
-Одно из серьезных отличий с данным исследованием - расположение Mishe-Gun küren. В данной заметке расположение монастыря установлено довольно точно, но оно противоречит всем существующим картам. Согласно существующим картам, экспедиция Рериха от Ikhe Tukhum-nor повернула строго за запад. В то же время, для того чтобы попасть в Mishe-Gun küren она должна была продолжить движение на юго-запад.
+Существующие карты маршрута экспедиции Рериха из Урги в Юм-бейсе и реконструкция ЦАЭ в целом достаточно точно соответствуют большинству найденных топонимов.
 
-Так же вызывает вопросы происхождение карты Route followed by the Roerich Experidion Urga - Shih-Pao-Ch'eng.
+Одно из серьезных отличий с данным исследованием - расположение Mishe-Gun küren. В данной заметке расположение монастыря установлено довольно точно, но оно противоречит всем существующим картам. Согласно этим картам, экспедиция Рериха от Ikhe Tukhum-nor повернула строго за запад. В то же время, для того чтобы попасть в Mishe-Gun küren она должна была продолжить движение на юго-запад.
+
+Восстановленный маршрут хорошо соответствует существующим картам. Однако, учитывая состояние картографических материалов в 1920-х, отсутствие средств навигации и спешку, можно предположить, что сами путешественники не вполне точно осознавали и нанесли свой маршрут на карты и его нельзя воспринимать как истину. Необходимо еще раз тщательно провести реконструкцию с привлечением вспомогательных маршрутных данных, рельефа, данных о ландшафтах.
 
 ## Комментарии
 
