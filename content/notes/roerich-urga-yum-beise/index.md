@@ -33,15 +33,17 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 2\. Карта Route followed by the Roerich Experidion Urga - Shih-Pao-Ch'eng. April-May, 1927.
 
-Источник карты - <https://caemap.com/about>, так же указана в комментарии к точке "[У северного притока р. Онгин-гол](https://caemap.com/#m=9/46.0913/103.1137&l=T&p=499/o)". 
+![caemap-khalkha-mongolia.jpg](caemap-khalkha-mongolia.jpg "Полная версия карты https://caemap.com/pages/images/maps/caemap-khalkha-mongolia.jpg")
+
+Карту можно найти на сайте проекта [Центрально-Азиатской Экспедиции](https://caemap.com/about), карта так же указана в комментарии к точке "[У северного притока р. Онгин-гол](https://caemap.com/#m=9/46.0913/103.1137&l=T&p=499/o)".
 
 ![cae-map-screen.png](cae-map-screen.png "Фрагмент сайта проекта ЦАЭ с открытой ссылкой на карту")
 
-![caemap-khalkha-mongolia.jpg](caemap-khalkha-mongolia.jpg "Полная версия карты https://caemap.com/pages/images/maps/caemap-khalkha-mongolia.jpg")
-
-Однозначно первоисточник не ясен, указано, что:
+Однозначно первоисточник не указан, но указано, что:
 
 > Карта монгольского этапа экспедиции (Улан-Батор — Шибочен), предположительно созданная Ю.Н. Рерихом («Рерихийн Шамбала Музей» в Улан-Баторе)
+
+Альтернативный источник - архив [Музея Рерихов](http://roerichsmuseum.ru/index.php/museum/arkhiv/261-de). Документ №25 "Карта маршрутов Центрально-Азиатской экспедиции в апреле-мае 1927 г. (Урга – Шин – Пао – Чьенг)." Содержание идентичное источнику выше. [Скачать карту](https://roerichsmuseum.website.yandexcloud.net/DE/DE-025.pdf).
 
 3\. Реконструкция caemap.com
 
