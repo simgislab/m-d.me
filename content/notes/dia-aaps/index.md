@@ -79,7 +79,7 @@ fediverse: "@username@instance.url"
 
 XDrip+ устанавливается из [последней ночной сборки](https://xdrip-plus-updates.appspot.com/stable/xdrip-plus-latest.apk).
 
-При подключении выбирается Libre, потом Bluetooth Bride и выбирается соединение с miaomiao (должен быть включен). 
+При подключении выбирается Libre, потом Bluetooth Bride и выбирается соединение с miaomiao (должен быть включен). [Хорошая инструкция](https://miaomiao.cool/pages/how-to-use-miaomiao-with-xdrip) по использованию XDrip+ c Libre 1 через miaomiao.
 
 Для полного включения понадобится подождать несколько минут, пока XDrip+ получит несколько значений.
 
