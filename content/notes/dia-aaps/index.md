@@ -30,14 +30,14 @@ fediverse: "@username@instance.url"
 
 ### Инструкция по сборке Android AAPS
 
-1. Сделать Fork репозитория приложения AAPS https://github.com/simgislab/AndroidAPS
+1. Сделать Fork репозитория приложения AAPS <https://github.com/simgislab/AndroidAPS>
 2. [Скачать](https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html) aaps-ci-preparation.html. Это страница-хелпер которая поможет сгенерировать KEYSTORE_SET и GDRIVE_OAUTH2.
 3. Открыть в VSCode и запустить страницу в Live server.
 4. Сгенерировать в хелпере KEYSTORE_SET.
-5. Добавить секрет репозитория KEYSTORE_SET со значением выше (Repository secret, не путать с Environment secret) https://github.com/simgislab/AndroidAPS/settings/secrets/actions.
+5. Добавить секрет репозитория KEYSTORE_SET со значением выше (Repository secret, не путать с Environment secret) <https://github.com/simgislab/AndroidAPS/settings/secrets/actions>.
 6. Сделать в хелпере Google Drive Auth, нажать Start Auth, выбрать аккаунт, принять предупреждение.
-7. Добавить секрет репозитория GDRIVE_OAUTH2 со значением (Repository secret, не путать с Environment secret) https://github.com/simgislab/AndroidAPS/settings/secrets/actions.
-8. Выбрать Actions в репозитории с форком (или перейти по ссылке https://github.com/simgislab/AndroidAPS/actions)
+7. Добавить секрет репозитория GDRIVE_OAUTH2 со значением (Repository secret, не путать с Environment secret) <https://github.com/simgislab/AndroidAPS/settings/secrets/actions>.
+8. Выбрать Actions в репозитории с форком (или перейти по ссылке <https://github.com/simgislab/AndroidAPS/actions>)
 9. All workflows -> AAPS CI -> Run workflow. Branch: master, Build: FullRelease
 10. Дождите результата, файл APK появится в [личном Google Drive](https://drive.google.com/drive/my-drive), в папке AAPS.
 
@@ -73,6 +73,18 @@ fediverse: "@username@instance.url"
 
 Чем отличается [V3 от V1](https://androidaps.readthedocs.io/en/latest/Maintenance/ReleaseNotes.html#important-comments-on-using-v3-versus-v1-api-for-nightscout-with-aaps).
 
+## XDrip+ и Libre 1
+
+[Официальный сайт](https://jamorham.github.io/#xdrip-plus) XDrip+.
+
+XDrip+ устанавливается из [последней ночной сборки](https://xdrip-plus-updates.appspot.com/stable/xdrip-plus-latest.apk).
+
+При подключении выбирается Libre, потом Bluetooth Bride и выбирается соединение с miaomiao (должен быть включен). 
+
+Для полного включения понадобится подождать несколько минут, пока XDrip+ получит несколько значений.
+
+При вводе калибровки может понадобится переключиться на mmol/L.
+
 ## Nighscout
 
 ### Обновление Nighscout в Railway
@@ -80,6 +92,17 @@ fediverse: "@username@instance.url"
 Если форк очень долго не обновлялся - недостаточно сделать Sync Fork и Redeploy.
 
 Самый надежный способ - сделать копию master ветки, например в master2 и перенацелить на нее deployment в Railway. После этого обязательно нажать Deploy в маленьком всплывающем окне.
+
+### Соединение с XDrip+
+
+Settings - Data Sync - Cloud Upload - Nightscout Sync (REST-API)
+
+Детали:
+
+* Включить REST API
+* Use mobile data
+* Base URL: https://password@hostname/api/v1/, обязательно нужен слэш в конце. Обратить внимание, что если просто использовать эту ссылку в браузере, то он ответит Cannot GET /api/v1/ (но работать будет)
+
 
 ## Комментарии
 
