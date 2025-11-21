@@ -15,12 +15,12 @@
     <h1 class="single-title">{{ .Title }}</h1>
     {{ with .Param "summary" }}
     <p class="single-summary">{{ . | markdownify }}</p>
-    {{ partial "editlinkshort.html" . }}
     {{ end }}
 
     {{/* Reading Time */}}
 
     <p class="single-readtime">
+      {{ partial "editlinkshort.html" . }}
       {{ with .Date }}
       {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := . | time.Format (default ":date_long" $.Site.Params.singleDateFormat) }}
