@@ -13,8 +13,8 @@
     {{/* Title and Summary */}}
 
     <h1 class="single-title">{{ .Title }}</h1>
-    {{ with .Param "summary" }}
-    <p class="single-summary">{{ . | markdownify }}{{ partial "editlinkshort.html" . }}</p>
+    {{ with .Param "summary" }}{{ partial "editlinkshort.html" . }}
+    <p class="single-summary">{{ . | markdownify }}</p>
     
     {{ end }}
 
