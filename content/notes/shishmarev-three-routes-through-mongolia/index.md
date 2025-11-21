@@ -426,3 +426,5 @@ Tatung ho (карта Стэнфорда).
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo)
+
+[Исправить](https://github.com/simgislab/m-d.me/edit/main/content/notes/shishmarev-three-routes-through-mongolia/index.md)
