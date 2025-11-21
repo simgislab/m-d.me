@@ -3,7 +3,7 @@
 {{/* Breadcrumbs */}}
 
 {{ if not .IsHome }}
-{{ partial "breadcrumbs.html" . }} {{ partial "editlinkshort.html" . }}
+{{ partial "breadcrumbs.html" . }}
 {{ end }}
 
 <div {{ if .Param "autonumber" }} class="autonumber" {{ end }}>
@@ -12,9 +12,13 @@
 
     {{/* Title and Summary */}}
 
-    <h1 class="single-title">{{ .Title }}</h1>
+    <h1 class="single-title">
+      {{ .Title }}
+      {{ partial "editlinkshort.html" . }}
+    </h1>
     {{ with .Param "summary" }}
     <p class="single-summary">{{ . | markdownify }}</p>
+    
     {{ end }}
 
     {{/* Reading Time */}}
