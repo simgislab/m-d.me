@@ -12,12 +12,9 @@
 
     {{/* Title and Summary */}}
 
-    <h1 class="single-title">
-      {{ .Title }}
-      {{ partial "editlinkshort.html" . }}
-    </h1>
+    <h1 class="single-title">{{ .Title }}</h1>
     {{ with .Param "summary" }}
-    <p class="single-summary">{{ . | markdownify }}</p>
+    <p class="single-summary">{{ . | markdownify }}{{ partial "editlinkshort.html" . }}</p>
     
     {{ end }}
 
