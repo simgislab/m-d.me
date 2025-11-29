@@ -67,9 +67,9 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 | Number                   | Описание |
 |--------------------------|----------|
 | Pillar 1. Victoria Lake  | Конический каменный столб высотой 9 футов (2,74 метра), установлен на восточном конце озера Виктория, на холме, возвышающемся на 10 футов (3,05 метра) над уровнем озера. |
-| Pillar 2                 | Конический столб у подножия северного склона ответвления хребта Николая II, ведущего к пику Ла Конкорд. |
-| Peak La Concorde         | Центральная точка заметной горной вершины, расположенной на ответвлении, идущем к северу от водораздельного гребня хребта Николая II к восточному концу озера Виктория, определяющая линию границы между столбом 1 и главным хребтом. От пика Ла Конкорд до столба 3 граница следует сначала по гребню указанного ответвления до его соединения с основным водоразделом, а затем по гребню водораздела на восток до перевала Бендерски. |
-| Pillar 3 (Benderski)     | Конический столб, установленный на каменистом возвышении примерно в 20 футах (6,10 метров) выше и в 20 ярдах (18,29 метра) к востоку от котала, обозначающего перевал Бендерски. От столба 3 граница продолжает следовать по главному гребню хребта к столбу 4. |
+| Pillar 2                 | Конический столб у подножия северного склона ответвления хребта Николая II, ведущего к пику Согласия. |
+| Peak La Concorde         | Центральная точка заметной горной вершины, расположенной на ответвлении, идущем к северу от водораздельного гребня хребта Николая II к восточному концу озера Виктория, определяющая линию границы между столбом 1 и главным хребтом. От пика Согласия до столба 3 граница следует сначала по гребню указанного ответвления до его соединения с основным водоразделом, а затем по гребню водораздела на восток до перевала Бендерского. |
+| Pillar 3 (Benderski)     | Конический столб, установленный на каменистом возвышении примерно в 20 футах (6,10 метров) выше и в 20 ярдах (18,29 метра) к востоку от котала, обозначающего перевал Бендерского. От столба 3 граница продолжает следовать по главному гребню хребта к столбу 4. |
 | Pillar 4 (Urtabel)       | Конический столб, обозначающий гребень или водораздел хребта Николая II в точке, где перевал Уртабель пересекает этот хребет. Гребень в этом месте непосредственно возвышается над равниной Малый Памир. |
 | Pillar 5                 | Столб 5 расположен примерно в полумиле (804,7 метра) от столба 4, в направлении В.Ю.В., и обозначает основной водораздел к пику Ганджабай. |
 | Ganjabai Peak            | Столба нет, но на вершине Ганджабай сложена каменная груда, в точке, возвышающейся над равниной, между перевалом Уртабель и ручьём Ганджабай. Эта груда обозначает верхнюю часть ответвления, по которому граница спускается с основного водораздела на юг к равнине. |
@@ -93,8 +93,8 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 |--------------------|-------------------------|-----------|-----------|-------------------------------------------------|
 | Victoria           | Виктория                | lake      | озеро     | Pillar 1. Victoria Lake                         |
 | Nicolas II         | Николая II              | range     | хребет    | Pillar 2, Peak La Concorde, 4                   |
-| La Concorde        | Ла Конкорд              | peak      | пик       | Pillar 2, Peak La Concorde                      |
-| Benderski          | Бендерски               | pass      | перевал   | Peak La Concorde, Pillar 3 (Benderski)          |
+| La Concorde        | Согласия                | peak      | пик       | Pillar 2, Peak La Concorde                      |
+| Benderski          | Бендерского             | pass      | перевал   | Peak La Concorde, Pillar 3 (Benderski)          |
 | Urtabel            | Уртабель                | pass      | перевал   | Pillar 4 (Urtabel), Ganjabai Peak               |
 | Little Pamir       | Малый Памир             | plain     | равнина   | Pillar 4 (Urtabel)                              |
 | Ganjabai           | Ганджабай               | peak      | пик       | Pillar 5, Ganjabai Peak, 6                      |
@@ -108,9 +108,9 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 | Kachkasu           | Качкасу                 | stream    | ручей     | Pillar 10                                       |
 | Bushmir            | Бушмир                  | stream    | ручей     | Pillar 11                                       |
 
-### Виктория, озеро
+### Victoria Lake
 
-Озеро Виктория --- оно же Зорку́ль, Зор-куль, Сары-куль, Памирское озеро, Lake Victoria. Одно из крупнейших озёр Памира, располагающееся на афгано-таджикской границе ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D1%80%D0%BA%D1%83%D0%BB%D1%8C)).
+Озеро Виктория --- оно же Зоркуль, Зор-куль, Сары-куль, Памирское озеро, Lake Victoria. Одно из крупнейших озёр Памира, располагающееся на афгано-таджикской границе ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D1%80%D0%BA%D1%83%D0%BB%D1%8C)).
 
 > По соглашению между Россией и Великобританией о разграничении сфер влияния в области Памиров 1895 года по озеру прошла граница между Российской империей и Афганскими ханствами.
 
@@ -122,13 +122,59 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 * [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.450332&mlon=73.725128&zoom=10#map=13/37.44293/73.72019)
 * [Google Maps](https://maps.app.goo.gl/zDx6khrcJ5N2aHCw6)
 
-### Николая II, хребет
+### Nicolas II range
 
-Хребет Николая II = он же Ваханский хребет, Қаторкӯҳи Вахон. Горный хребет на юге Памира, на территории Таджикистана и Афганистана ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82)).
+Хребет Николая II = он же Ваханский хребет, Қаторкӯҳи Вахон, Nicholas Range, Selselehi-i Koh-i-Wakhan. Горный хребет на юге Памира, на территории Таджикистана и Афганистана ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82), [en-wiki](https://en.wikipedia.org/wiki/Nicholas_Range_(Pamir_Mountains))).
 
 > ВАХАНСКИЙ ХРЕБЕТ, в южной части Памира, в Средней Азии, прежде называвшийся также хребтом императора Николая II. Протягивается с З.-Ю.-З. на В.-С.-В. Длина — около 250 км. Высота — 5.000—5.500 м; некоторые вершины превышают 6.000—6.500 м. Хребет покрыт массами снега и имеет много ледников. Перевалы залегают на громадной высоте. Из них более известны перевал Бендерского (4.612 м абс. выс.) и Урта-бель (4.584 м абс. выс.), находящиеся в вост., более доступной части В. х. Через зап. часть хребта почти единственным проходом служит ущелье р. Памир, притока Пянджа. По самой вост. части В. х. проходит государств. граница между СССР и Афганистаном.
 
 [БСЭ](https://ru.wikisource.org/wiki/%D0%91%D0%A1%D0%AD1/%D0%92%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82).
+
+> The range was given the title Nicholas Range during the joint Russo-British Pamir Boundary Commission of 1895 that delineated the border between Russian and Afghan territory. In exchange for a British agreement to use the term Nicholas Range, in honour of Emperor Nicholas II of Russia, on official maps, the Russians agreed to refer to Lake Zorkul as Lake Victoria in honor of Queen Victoria of the United Kingdom.
+
+[En-wiki](https://en.wikipedia.org/wiki/Nicholas_Range_(Pamir_Mountains)).
+
+### La Concorde peak
+
+Пик Согласия - он же Concord Peak, La Concord Peak, 15 км на юг от оз. Зоркуль ([en-wiki](https://en.wikipedia.org/wiki/Concord_Peak)).
+
+На картах:
+
+* 37.339550 с.ш., 73.774143 в.д.
+* [OpenStreetMap](https://www.openstreetmap.org/node/5145403189)
+* [Google Maps](https://maps.app.goo.gl/CJtHroXLjzKw8SBS7)
+
+### Benderski pass
+
+Перевал Бендерского - он же Andamin Pass, Benderski Pass. Один из перевалов Ваханского хребта. Высота: 4550 (OSM), 4612 (БСЭ).
+
+Еще названия: Andamān Davān, Andamin Dawān, Andawin Dawān, Kotal-e Andaymin Dowan, Kotāl-i-Andēmīn Dowan, Kowtal Anḏamin, Kowtal-e Andeymīn Davān, Pereval Andamin.
+
+На картах:
+
+* 37.36909 с.ш., 74.23720 в.д.
+* [OpenStreetMap](https://www.openstreetmap.org/node/9922247405)
+* [Google Maps](https://maps.app.goo.gl/CJtHroXLjzKw8SBS7)
+
+### Urtabel pass
+
+Перевал Уртабель - он же Kōtal-e Jaman Shōr, Jaman Shor Pass ([en-wiki](https://en.wikipedia.org/wiki/Jaman_Pass)).
+
+Еще названия: Jaman Shura Dawān, Jaminishur Pass, Kotal-e Jaman Shor, Kowtal-e Jaman Shūr, Kŭtali Chamanshura, Кӯтали Чаманшура, Jauan Shur, Urta-bel'.
+
+> Some 12 kilometers east of the confluence of the Andeymin and Aq Su Rivers and 45 kilometers east of Baza'i Gonbad, a short steep trail swings northward to Jauan Shur (Urta-bel) Pass and then down to the Istyk River route.
+
+United States Department of State, Bureau of Intelligence and Research. [International Boundaries: Afghanistan – U.S.S.R Boundary.](https://library.law.fsu.edu/Digital-Collections/LimitsinSeas/pdf/ibs026.pdf). Limits in the Seas, No. 26 (Revised). September 15, 1983. Washington, DC: U.S. Government Printing Office, 1970.
+
+На картах:
+
+* 37.36909 с.ш., 74.23720 в.д.
+* [OpenStreetMap](https://www.openstreetmap.org/node/4868074916)
+* [Google Maps](https://maps.app.goo.gl/Pw9icQuFzKo8qU5QA)
+
+## Little Pamir valley
+
+Малый Памир, долина - U-образная долина в восточной части Ваханского хребта. ([en-wiki](https://en.wikipedia.org/wiki/Little_Pamir))
 
 ## Комментарии
 
