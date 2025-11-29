@@ -72,9 +72,9 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 | Pillar 3 (Benderski)     | Конический столб, установленный на каменистом возвышении примерно в 20 футах (6,10 метров) выше и в 20 ярдах (18,29 метра) к востоку от котала, обозначающего перевал Бендерского. От столба 3 граница продолжает следовать по главному гребню хребта к столбу 4. |
 | Pillar 4 (Urtabel)       | Конический столб, обозначающий гребень или водораздел хребта Николая II в точке, где перевал Уртабель пересекает этот хребет. Гребень в этом месте непосредственно возвышается над равниной Малый Памир. |
 | Pillar 5                 | Столб 5 расположен примерно в полумиле (804,7 метра) от столба 4, в направлении В.Ю.В., и обозначает основной водораздел к пику Ганджабай. |
-| Ganjabai Peak            | Столба нет, но на вершине Ганджабай сложена каменная груда, в точке, возвышающейся над равниной, между перевалом Уртабель и ручьём Ганджабай. Эта груда обозначает верхнюю часть ответвления, по которому граница спускается с основного водораздела на юг к равнине. |
-| Pillar 6                 | У подножия ответвления, спускающегося к северу от пика Ганджабай к ручью Ганджабай. |
-| Pillar 7                 | Конический столб на правом берегу реки Аксу напротив слияния ручьёв Ганджабай и Аксу. Отсюда граница следует по руслу реки Аксу (по середине потока) до столба 8. |
+| Ganjabai Peak            | Столба нет, но на вершине Ганджибай сложена каменная груда, в точке, возвышающейся над равниной, между перевалом Уртабель и ручьём Ганджабай. Эта груда обозначает верхнюю часть ответвления, по которому граница спускается с основного водораздела на юг к равнине. |
+| Pillar 6                 | У подножия ответвления, спускающегося к северу от пика Ганджибай к ручью Ганджибай. |
+| Pillar 7                 | Конический столб на правом берегу реки Аксу напротив слияния ручьёв Ганджибай и Аксу. Отсюда граница следует по руслу реки Аксу (по середине потока) до столба 8. |
 | Pillar 8                 | Конический столб на левом берегу реки Аксу, примерно на 20 футов (6,10 метров) выше уровня воды, на низком гравийном выступе, который подходит к реке напротив впадения ручья Михманйол в Аксу. |
 | Pillar 9                 | Столб установлен на небольшом холме на правом берегу ручья Михманйол, примерно в 2 милях (3,22 километра) от точки слияния его восточной ветви с рекой Аксу. Столб сложен из камня в форме пирамиды высотой около 8 футов (2,44 метра). |
 | Pillar 10                | Столб установлен в нижней части ответвления, идущего на север от пика Жерар в хребте Музтаг, разделяющего ручьи Таграмансу и Качкасу. Столб представляет собой каменную пирамиду высотой около 8 футов (2,44 метра). |
@@ -97,8 +97,8 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 | Benderski          | Бендерского             | pass      | перевал   | Peak La Concorde, Pillar 3 (Benderski)          |
 | Urtabel            | Уртабель                | pass      | перевал   | Pillar 4 (Urtabel), Ganjabai Peak               |
 | Little Pamir       | Малый Памир             | plain     | равнина   | Pillar 4 (Urtabel)                              |
-| Ganjabai           | Ганджабай               | peak      | пик       | Pillar 5, Ganjabai Peak, 6                      |
-| Ganjabai           | Ганджабай               | stream    | ручей     | Ganjabai Peak, Pillar 6, 7                      |
+| Ganjabai           | Ганджибай               | peak      | пик       | Pillar 5, Ganjabai Peak, 6                      |
+| Ganjabai           | Ганджибай               | stream    | ручей     | Ganjabai Peak, Pillar 6, 7                      |
 | Aksu               | Аксу                    | river     | река      | Pillar 7, 8, 9                                  |
 | Aksu               | Аксу                    | stream    | ручей     | Pillar 7                                        |
 | Mihmanyol          | Михманйол               | stream    | ручей     | Pillar 8, 9                                     |
@@ -158,23 +158,85 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 
 ### Urtabel pass
 
-Перевал Уртабель - он же Kōtal-e Jaman Shōr, Jaman Shor Pass ([en-wiki](https://en.wikipedia.org/wiki/Jaman_Pass)).
+Перевал Уртабель - он же Ортабель, Ортобель, Kotal-e-Ortobil, Ortobil.
 
-Еще названия: Jaman Shura Dawān, Jaminishur Pass, Kotal-e Jaman Shor, Kowtal-e Jaman Shūr, Kŭtali Chamanshura, Кӯтали Чаманшура, Jauan Shur, Urta-bel'.
+Иногда путают его с Kōtal-e Jaman Shōr, Jaman Shor Pass ([en-wiki](https://en.wikipedia.org/wiki/Jaman_Pass)), например на [Google Maps](https://maps.app.goo.gl/Pw9icQuFzKo8qU5QA).
+
+И не только Гугл:
 
 > Some 12 kilometers east of the confluence of the Andeymin and Aq Su Rivers and 45 kilometers east of Baza'i Gonbad, a short steep trail swings northward to Jauan Shur (Urta-bel) Pass and then down to the Istyk River route.
 
 United States Department of State, Bureau of Intelligence and Research. [International Boundaries: Afghanistan – U.S.S.R Boundary.](https://library.law.fsu.edu/Digital-Collections/LimitsinSeas/pdf/ibs026.pdf). Limits in the Seas, No. 26 (Revised). September 15, 1983. Washington, DC: U.S. Government Printing Office, 1970.
 
+Джаманшор и Ортобель это два разных перевала.
+
+![urtabel.png](urtabel.png "https://nakarte.me/#m=14/37.39795/74.50906&l=T")
+
 На картах:
 
-* 37.36909 с.ш., 74.23720 в.д.
-* [OpenStreetMap](https://www.openstreetmap.org/node/4868074916)
-* [Google Maps](https://maps.app.goo.gl/Pw9icQuFzKo8qU5QA)
+* 37.39011 с.ш., 74.50312 в.д.
+* [OpenStreetMap](https://www.openstreetmap.org/node/9922247406)
+* [Google Maps](https://www.google.com/maps/@37.3981217,74.5085444,15.29z/data=!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
 
-## Little Pamir valley
+### Little Pamir valley
 
-Малый Памир, долина - U-образная долина в восточной части Ваханского хребта. ([en-wiki](https://en.wikipedia.org/wiki/Little_Pamir))
+Малый Памир, долина - V-образная долина в восточной части Ваханского хребта ([en-wiki](https://en.wikipedia.org/wiki/Little_Pamir)). С севера ограничена Ваханским хребтом (хребет Николая II). По долине течет р. Аксу.
+
+На картах:
+
+* 37.33258 с.ш., 74.43327 в.д.
+* [OpenStreetMap](https://www.openstreetmap.org/#map=13/37.33258/74.43327)
+* [Google Maps](https://maps.app.goo.gl/w5Dadgsy9kL5ewtF6)
+
+### Ganjabai peak, Ganjabai stream
+
+Непосредственно пик - не обнаружен, по всей видимости это высота 4832,1 ([nakarte](https://nakarte.me/#m=14/37.40381/74.53490&l=T)).
+
+На топокартах Генштаба есть урочище Ганджибай ([переименовано](https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD_%D0%BE%D1%82_31_%D0%B8%D1%8E%D0%BB%D1%8F_2023_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%84%96_348) в Гандждашт), ручей Гуннбай (перевал Гуннбай).
+
+![ganjabai.png](ganjabai.png "https://nakarte.me/#m=14/37.39672/74.56528&l=T")
+
+### Aksu river, stream
+
+Аксу (верхнее течение р. Бартанг, [ru-wiki](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%82%D0%B0%D0%BD%D0%B3)) - река текущая по долине, приток р. Пяндж, вытекает из оз. Чакмактын.
+
+![aksu.png](aksu.png "https://nakarte.me/#m=13/37.36818/74.51949&l=T")
+
+### Mihmanyol stream
+
+Мехманджулы, Mehmān Yowlī.
+
+На картах:
+
+* 37.35851 с.ш., 74.71537 в.д.
+* [OpenStreetMap](https://www.openstreetmap.org/way/642748462#map=13/37.35851/74.71537)
+* [Google Maps](https://www.google.com/maps/@37.4043575,74.6961512,15.42z/data=!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+
+![mehman.png](mehman.png "https://nakarte.me/#m=13/37.39069/74.75347&l=T")
+
+### Gerard peak
+
+Не найден. Возможно безымянный на картах пик 5251,0 разделяющий Тегерменсу и Кашкасу. См. иллюстрацию ниже.
+
+Назван в честь автора отчета?
+
+### Muztagh range
+
+Музтаг-Сарыкольский хребет (Малый Памир) на 10 км генштабовской топокарте ([en-wiki](https://en.wikipedia.org/wiki/Sarikol_Range)).
+
+![muztagh.png](muztagh.png)
+
+### Taghramansu, Kachkasu stream
+
+Тегерменсу и Кашкасу, ручьи впадающие в Аксу и находящиеся рядом.
+
+![streams.png](streams.png "https://nakarte.me/#m=13/37.36136/74.80153&l=T")
+
+### Bushmir stream
+
+Не найден. Предположительно безымянный ручей впадающий в Тегерменсу в районе самой восточной части границы Афганистана. По километражу похоже.
+
+Странный ориентир.
 
 ## Комментарии
 
