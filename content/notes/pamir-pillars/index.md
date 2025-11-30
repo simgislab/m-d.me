@@ -283,7 +283,7 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 3. Берем значение поправки из IBS26: по широте –4.7″, по долготе –2′30.3″
 4. Пересчитываем в DD: 0.00131, 0.04175
 5. Применяем к координатам: 37.41064, 74.69325
-6. Пересчитываем с помощью ogr2ogr: Indian 1916 (Everest 1830) → WGS 84
+6. Пересчитываем с помощью ogr2ogr: Indian 1916 (Everest 1830) → WGS 84 используя трансформацию датума Kalianpur 1975 -> WGS84, [EPSG:1156](https://epsg.io/1156).
    1. ogr2ogr -f GeoJSON result_wgs84.geojson source_ind1916.geojson -s_srs "+proj=longlat +ellps=evrst30 +towgs84=295,736,257,0,0,0,0 +no_defs" -t_srs EPSG:4326
 7. Окончательные координаты: 37.40976364, 74.69223069
 
