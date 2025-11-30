@@ -266,7 +266,7 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 >
 > -02'27" Madras Observatory
 >
-> \-   03.3" Adjustment to Indian 1916 Datum
+> -03.3" Adjustment to Indian 1916 Datum
 >
 > -02'30.3" Total
 >
@@ -274,7 +274,7 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 >
 > -04.7" Adjustment to Indian 1916 Datum
 
-United States Department of State, Bureau of Intelligence and Research. [International Boundaries: Afghanistan – U.S.S.R Boundary.](https://library.law.fsu.edu/Digital-Collections/LimitsinSeas/pdf/ibs026.pdf). Limits in the Seas, No. 26 (Revised). September 15, 1983. Washington, DC: U.S. Government Printing Office, 1970.
+United States Department of State, Bureau of Intelligence and Research. [International Boundaries: Afghanistan – U.S.S.R Boundary](https://library.law.fsu.edu/Digital-Collections/LimitsinSeas/pdf/ibs026.pdf). Limits in the Seas, No. 26 (Revised). September 15, 1983. Washington, DC: U.S. Government Printing Office, 1970.
 
 ![diff36.png](diff36.png)
 
@@ -283,9 +283,9 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 Алгоритм и пример вычисления актуальных координат в WGS84:
 
 1. Берем исходные координаты Pillar 8: 37°24'43", 74°44'6"
-2. Пересчитываем в DD: 37.41194444, 74.73500000
+2. Пересчитываем в десятичные градусы: 37.41194444, 74.73500000
 3. Берем значение поправки из IBS26: по широте –4.7″, по долготе –2′30.3″
-4. Пересчитываем в DD: 0.00131, 0.04175
+4. Пересчитываем значение поправки в десятичные градусы: 0.00131, 0.04175
 5. Применяем к координатам: 37.41064, 74.69325
 6. Пересчитываем с помощью ogr2ogr: Indian 1916 (Everest 1830) → WGS 84 используя трансформацию датума Kalianpur 1975 -> WGS84, [EPSG:1156](https://epsg.io/1156).
    1. ogr2ogr -f GeoJSON result_wgs84.geojson source_ind1916.geojson -s_srs "+proj=longlat +ellps=evrst30 +towgs84=295,736,257,0,0,0,0 +no_defs" -t_srs EPSG:4326
@@ -293,11 +293,11 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 
 Результат:
 
-![pillar8-calculation.png](pillar8-calculation.png "Зеленая точка - пересчитанные координаты")
+![pillar8-calculation.png](pillar8-calculation.png "Зеленая точка - пересчитанные координаты. Зеленый крест - исходные координаты.")
 
 [Подробный расчет](https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45rsM/edit?gid=587183786#gid=587183786) в электронной таблице.
 
-## Расчитанные новые координаты
+## Расчитанные координаты всех столбов
 
 Расчет окончательных современных координат по всем столбам.
 
