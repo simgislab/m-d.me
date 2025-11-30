@@ -9,6 +9,7 @@ math: false
 tags: ["Таджикистан","Афганистан"]
 showTags: true
 hideBackToTop: false
+draft: true
 fediverse: "@username@instance.url"
 ---
 
