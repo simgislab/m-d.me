@@ -1,5 +1,5 @@
 ---
-title: "Столбы на границе двух империй."
+title: "Столбы на границе двух империй"
 date: "2025-11-23"
 summary: "Анализ отчета Памирской пограничной комиссии. Граница Таджикистана и Афганистана."
 description: "Анализ отчета Памирской пограничной комиссии. Граница Таджикистана и Афганистана."
@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Исходная публикация
 
-Gerard, M. G., Holdich, T. H., Wahab, R. A., Alcock, A. W., 1897. Report on the proceedings of the Pamir Boundary Commission. Calcutta : Office of the Superintendent of Government Printing, India, 1897 99 p., [39] leaves of plates, ill. 35 cm.
+Gerard, M. G., Holdich, T. H., Wahab, R. A., Alcock, A. W., 1897. Report on the proceedings of the Pamir Boundary Commission. Calcutta : Office of the Superintendent of Government Printing, India, 1897 99 p., 39 leaves of plates, ill. 35 cm.
 
 Источники документа:
 
