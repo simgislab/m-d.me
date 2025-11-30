@@ -331,4 +331,4 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/134)
+[**Обсудить**](https://t.me/answer42geo/143)
