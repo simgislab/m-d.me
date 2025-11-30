@@ -263,11 +263,15 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 Расчет ошибок:
 
 > Longitude Corrections
+>
 > -02'27" Madras Observatory
+>
 > \-   03.3" Adjustment to Indian 1916 Datum
+>
 > -02'30.3" Total
 >
 > Latitude Corrections
+>
 > -04.7" Adjustment to Indian 1916 Datum
 
 United States Department of State, Bureau of Intelligence and Research. [International Boundaries: Afghanistan – U.S.S.R Boundary.](https://library.law.fsu.edu/Digital-Collections/LimitsinSeas/pdf/ibs026.pdf). Limits in the Seas, No. 26 (Revised). September 15, 1983. Washington, DC: U.S. Government Printing Office, 1970.
