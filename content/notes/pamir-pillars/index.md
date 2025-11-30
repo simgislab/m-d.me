@@ -1,5 +1,5 @@
 ---
-title: "Столбы на границе Памира."
+title: "Столбы на границе двух империй."
 date: "2025-11-23"
 summary: "Анализ отчета Памирской пограничной комиссии. Граница Таджикистана и Афганистана."
 description: "Анализ отчета Памирской пограничной комиссии. Граница Таджикистана и Афганистана."
@@ -13,18 +13,23 @@ hideBackToTop: false
 fediverse: "@username@instance.url"
 ---
 
-
 ## Исходная публикация
 
 Gerard, M. G., Holdich, T. H., Wahab, R. A., Alcock, A. W., 1897. Report on the proceedings of the Pamir Boundary Commission. Calcutta : Office of the Superintendent of Government Printing, India, 1897 99 p., [39] leaves of plates, ill. 35 cm.
 
+Источники:
+
+* [University of Nebraska](https://digitalcommons.unomaha.edu/afghandocsreports/8/), 21.8 Mb, без карт.
+* [Pahar.in](https://pahar.in/pahar/Books%20and%20Articles/Afghanistan/1896%20Report%20on%20the%20Proceedings%20of%20the%20Pamir%20Boundary%20Commission%20by%20Gerard%20&%20Holdich%20s.pdf), 16.3 Mb, с картами.
+* [Google Books](https://books.google.ch/books/about/Report_on_the_Proceedings_of_the_Pamir_B.html?id=FeQ-AAAAYAAJ&redir_esc=y), 15.5 Mb, без карт.
+
 ## Исходная таблица
 
-Страницы 52 и 53 отчета.
+Глава VII. SYNOPSIS OF PILLARS AND POINTS ON THE PAMIR BOUNDARY, страницы 52 и 53 отчета содержат таблицу со столбами установленными для демаркации границы.
 
-https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45rsM/edit?gid=386862170#gid=386862170
+[Описание и координаты столбов](https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45rsM/edit?usp=sharing) в виде таблицы.
 
-Основные данные по стеллам:
+Основные данные по столбам:
 
 | Number                   | Latitude      | Longitude    | Height    | Fix                      |
 |--------------------------|---------------|--------------|-----------|--------------------------|
@@ -45,8 +50,8 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 
 Столбы и их исходные описания (на английском):
 
-| Number                   | Description |
-|--------------------------|-------------|
+| Number                   | Description                                                                                    |
+|--------------------------|------------------------------------------------------------------------------------------------|
 | Pillar 1. Victoria Lake  | Conical stone pillar, 9 feet high, built at the eastern end of Lake Victoria on a mound rising 10 feet above the level of the lake. |
 | Pillar 2                 | Conical pillar at the foot of the northern slope of a spur of Range Nicolas II, leading to Peak La Concorde. |
 | Peak La Concorde         | The central point of a conspicuous mountain peak situated on a spur running northwards from the crest of Range Nicolas II towards the eastern end of Lake Victoria, and defining the line of boundary between Pillar 1 and the crest of the range. From Peak La Concorde to Pillar 3 the boundary follows, firstly, the crest of the spur indicated by that peak to its junction with the main watershed, and thence the crest of the watershed eastwards to the Benderski Pass. |
@@ -75,8 +80,8 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 | Ganjabai Peak            | Столба нет, но на вершине Ганджибай сложена каменная груда, в точке, возвышающейся над равниной, между перевалом Уртабель и ручьём Ганджабай. Эта груда обозначает верхнюю часть ответвления, по которому граница спускается с основного водораздела на юг к равнине. |
 | Pillar 6                 | У подножия ответвления, спускающегося к северу от пика Ганджибай к ручью Ганджибай. |
 | Pillar 7                 | Конический столб на правом берегу реки Аксу напротив слияния ручьёв Ганджибай и Аксу. Отсюда граница следует по руслу реки Аксу (по середине потока) до столба 8. |
-| Pillar 8                 | Конический столб на левом берегу реки Аксу, примерно на 20 футов (6,10 метров) выше уровня воды, на низком гравийном выступе, который подходит к реке напротив впадения ручья Михманйол в Аксу. |
-| Pillar 9                 | Столб установлен на небольшом холме на правом берегу ручья Михманйол, примерно в 2 милях (3,22 километра) от точки слияния его восточной ветви с рекой Аксу. Столб сложен из камня в форме пирамиды высотой около 8 футов (2,44 метра). |
+| Pillar 8                 | Конический столб на левом берегу реки Аксу, примерно на 20 футов (6,10 метров) выше уровня воды, на низком гравийном выступе, который подходит к реке напротив впадения ручья Мехманджулы в Аксу. |
+| Pillar 9                 | Столб установлен на небольшом холме на правом берегу ручья Мехманджулы, примерно в 2 милях (3,22 километра) от точки слияния его восточной ветви с рекой Аксу. Столб сложен из камня в форме пирамиды высотой около 8 футов (2,44 метра). |
 | Pillar 10                | Столб установлен в нижней части ответвления, идущего на север от пика Жерар в хребте Музтаг, разделяющего ручьи Таграмансу и Качкасу. Столб представляет собой каменную пирамиду высотой около 8 футов (2,44 метра). |
 | Pillar 11                | Столб установлен на берегу ручья Таграмансу, примерно в 6,3 милях (10,14 киломатра) от места его слияния с ручьём Бушмир. Столб представляет собой каменную пирамиду высотой около 9 футов (2,74 метра). |
 | Pillar 12                | Столб установлен на возвышенности на левом берегу небольшого безымянного налы, впадающего в Таграмансу, примерно в 1 миле (1,61 километра) от места слияния, неподалёку от столба 11. Столб представляет собой каменную пирамиду высотой около 8 футов (2,44 метра). |
@@ -87,7 +92,7 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 
 ## Топонимы
 
-Топонимы упомянуты в описаниях и столбы в описаниях которых они упоминаются.
+Перечень упомянутых в описаниях столбов топонимов и перечень столбов в описаниях которых упоминается топоним.
 
 | EN Toponym         | RU Топоним              | EN Type   | RU Тип    | Pillars                                         |
 |--------------------|-------------------------|-----------|-----------|-------------------------------------------------|
@@ -101,7 +106,7 @@ https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45
 | Ganjabai           | Ганджибай               | stream    | ручей     | Ganjabai Peak, Pillar 6, 7                      |
 | Aksu               | Аксу                    | river     | река      | Pillar 7, 8, 9                                  |
 | Aksu               | Аксу                    | stream    | ручей     | Pillar 7                                        |
-| Mihmanyol          | Михманйол               | stream    | ручей     | Pillar 8, 9                                     |
+| Mihmanyol          | Мехманджулы             | stream    | ручей     | Pillar 8, 9                                     |
 | Gerard             | Жерар                   | peak      | пик       | Pillar 10                                       |
 | Muztagh            | Музтаг                  | range     | хребет    | Pillar 10                                       |
 | Taghramansu        | Таграмансу              | stream    | ручей     | Pillar 10, 11, 12                               |
@@ -236,7 +241,88 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 
 Не найден. Предположительно безымянный ручей впадающий в Тегерменсу в районе самой восточной части границы Афганистана. По километражу похоже.
 
-Странный ориентир.
+Странный ориентир на значительном удалении от объекта в контексте которого он упоминается в описании.
+
+## Карта топонимов
+
+Итоговая карта найденных топонимов:
+
+![map-toponyms.png](map-toponyms.png "Подложка - OpenStreetMap")
+
+Вопросами в названии помечены топонимы которым не удалось найти однозначных объектов (это не означает, что точки поставлены неправильно)
+
+## Расчет современных координат столбов - алгоритм
+
+Если взять координаты из отчета "влоб", то получим смещение по долготе примерно 3.6 км.
+
+Для примера возьмем Pillar 8 --- "низкий гравийный выступ, который подходит к реке напротив впадения ручья Мехманджулы в Аксу", измерим расстояние между точкой с координатами и таблицы и местом впадения Мехманджулы в Аксу. Получаем цифру 3622 метра.
+
+Из-за несовершенных методов измерений исходные координаты координаты были рассчитаны с систематической ошибкой. Ошибка была выявлена в 1912 и окончательно расчитана в 1921.
+
+> The location was recalculated during the Indo-Russian triangulation of 1912-13 and corrected by the India Office of the Trigonometrical Survey in 1921.
+
+Расчет ошибок:
+
+> Longitude Corrections
+> -02'27" Madras Observatory
+> \-   03.3" Adjustment to Indian 1916 Datum
+> -02'30.3" Total
+>
+> Latitude Corrections
+> -04.7" Adjustment to Indian 1916 Datum
+
+United States Department of State, Bureau of Intelligence and Research. [International Boundaries: Afghanistan – U.S.S.R Boundary.](https://library.law.fsu.edu/Digital-Collections/LimitsinSeas/pdf/ibs026.pdf). Limits in the Seas, No. 26 (Revised). September 15, 1983. Washington, DC: U.S. Government Printing Office, 1970.
+
+![diff36.png](diff36.png)
+
+Поправка 2′30.3″ по долготе на широте 37° составляет 3720 метров, что совпадает с измерениями по карте. Таким образом поправка похожа на правду и ее можно применить.
+
+Алгоритм и пример вычисления актуальных координат в WGS84:
+
+1. Берем исходные координаты Pillar 8: 37°24'43", 74°44'6"
+2. Пересчитываем в DD: 37.41194444, 74.73500000
+3. Берем значение поправки из IBS26: по широте –4.7″, по долготе –2′30.3″
+4. Пересчитываем в DD: 0.00131, 0.04175
+5. Применяем к координатам: 37.41064, 74.69325
+6. Пересчитываем с помощью ogr2ogr: Indian 1916 (Everest 1830) → WGS 84
+   1. ogr2ogr -f GeoJSON result_wgs84.geojson source_ind1916.geojson -s_srs "+proj=longlat +ellps=evrst30 +towgs84=295,736,257,0,0,0,0 +no_defs" -t_srs EPSG:4326
+7. Окончательные координаты: 37.40976364, 74.69223069
+
+Результат:
+
+![pillar8-calculation.png](pillar8-calculation.png "Зеленая точка - пересчитанные координаты")
+
+[Подробный расчет](https://docs.google.com/spreadsheets/d/18nz8F8MJHjuHm5SWcvj82J-_6ki-Je6baatpsR45rsM/edit?gid=587183786#gid=587183786) в электронной таблице.
+
+## Расчитанные новые координаты
+
+По всем столбам:
+
+Колонки:
+
+* Название столба
+* Исходные широта и долгота
+* Широта и долгота с примененной поправкой
+* Окончательные широта и долгота в WGS84
+
+| Number                     | LAT_PAMIR   | LON_PAMIR   | LAT_INDIAN1916 | LON_INDIAN1916 | LAT_WGS84 | LON_WGS84 |
+|---------------------------|-------------|-------------|----------------|----------------|-----------|-----------|
+| Pillar 1. Victoria Lake   | 37.44222222 | 73.81694444 | 37.44092       | 73.77519444    | 73.77519444 | 37.44092  |
+| Pillar 2                  | 37.41416667 | 73.81222222 | 37.41286       | 73.77047222    | 73.77047222 | 37.41286  |
+| Peak La Concorde          | 37.34305556 | 73.82055556 | 37.34175       | 73.77880556    | 73.77880556 | 37.34175  |
+| Pillar 3 (Benderski)      | 37.37666667 | 74.2675     | 37.37536       | 74.22575       | 74.22575   | 37.37536  |
+| Pillar 4 (Urtabel)        | 37.40222222 | 74.54222222 | 37.40092       | 74.50047222    | 74.50047222 | 37.40092  |
+| Pillar 5                  | 37.39944444 | 74.55138889 | 37.39814       | 74.50963889    | 74.50963889 | 37.39814  |
+| Ganjabai Peak             | 37.40916667 | 74.56555556 | 37.40786       | 74.52380556    | 74.52380556 | 37.40786  |
+| Pillar 6                  | 37.39597222 | 74.59166667 | 37.39467       | 74.54991667    | 74.54991667 | 37.39467  |
+| Pillar 7                  | 37.37388889 | 74.60166667 | 37.37258       | 74.55991667    | 74.55991667 | 37.37258  |
+| Pillar 8                  | 37.41194444 | 74.735      | 37.41064       | 74.69325       | 74.69325   | 37.41064  |
+| Pillar 9                  | 37.38722222 | 74.74805556 | 37.38592       | 74.70630556    | 74.70630556 | 37.38592  |
+| Pillar 10                 | 37.36472222 | 74.8125     | 37.36342       | 74.77075       | 74.77075   | 37.36342  |
+| Pillar 11                 | 37.35694444 | 74.83944444 | 37.35564       | 74.79769444    | 74.79769444 | 37.35564  |
+| Pillar 12                 | 37.35555556 | 74.84444444 | 37.35425       | 74.80269444    | 74.80269444 | 37.35425  |
+
+![final-map.png](final-map.png "Зеленые кресты - исходные координаты, синие кресты - результаты пересчета")
 
 ## Комментарии
 
