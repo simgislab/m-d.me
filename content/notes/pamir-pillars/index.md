@@ -7,7 +7,6 @@ toc: true
 autonumber: false
 math: false
 tags: ["Таджикистан","Афганистан"]
-draft: true
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
@@ -17,7 +16,7 @@ fediverse: "@username@instance.url"
 
 Gerard, M. G., Holdich, T. H., Wahab, R. A., Alcock, A. W., 1897. Report on the proceedings of the Pamir Boundary Commission. Calcutta : Office of the Superintendent of Government Printing, India, 1897 99 p., [39] leaves of plates, ill. 35 cm.
 
-Источники:
+Источники документа:
 
 * [University of Nebraska](https://digitalcommons.unomaha.edu/afghandocsreports/8/), 21.8 Mb, без карт.
 * [Pahar.in](https://pahar.in/pahar/Books%20and%20Articles/Afghanistan/1896%20Report%20on%20the%20Proceedings%20of%20the%20Pamir%20Boundary%20Commission%20by%20Gerard%20&%20Holdich%20s.pdf), 16.3 Mb, с картами.
