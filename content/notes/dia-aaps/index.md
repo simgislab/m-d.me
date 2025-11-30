@@ -91,7 +91,7 @@ XDrip+ устанавливается из [последней ночной сб
 * Ставим на отдельный телефон официальное приложение Free Style Libre 2 - RU (важно)
 * Активируем сенсор официальным приложением и ждем пока пойдут значения в официальное приложение.
 * Переключаем XDrip+ на получение данных через Libre (patched App)
-* 
+* Устанавливаем Juggluco 10.3.11 ([официальный сайт](https://www.juggluco.nl/Juggluco/index.html), [все версии](https://drive.google.com/drive/folders/1qysiLYb2e93WBMjC9MYCqEdW-gGDUb2n), скачать 10.3.11)
 
 ## Nighscout
 
