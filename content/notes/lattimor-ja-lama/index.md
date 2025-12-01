@@ -1,5 +1,5 @@
 ---
-title: "Джа-ламы у Латтимора"
+title: "Джа-лама у Латтимора"
 date: "2025-12-01"
 summary: "Упоминание Джа-ламы у Оуэна Латтимора в Caravan Routes of Inner Asia."
 description: "Упоминание Джа-ламы у Оуэна Латтимора в Caravan Routes of Inner Asia."
@@ -16,15 +16,15 @@ fediverse: "@username@instance.url"
 
 Оуэн Латтимор --- американский востоковед, автор ряда трудов ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%82%D0%B8%D0%BC%D0%BE%D1%80,_%D0%9E%D1%83%D1%8D%D0%BD), [en-wiki](https://en.wikipedia.org/wiki/Owen_Lattimore)).
 
-В 1926/1927, но скорее в 1926 (Оуэн в статье не сообщает никаких сроков), то есть за год до Рериха Оуэн Латтимор, путешествуя от Пекина до Кашмира, посетил крепость Джа-ламы и сделал отличное фото.
+В 1926/1927, но скорее в 1926 (Оуэн в статье не сообщает никаких сроков), то есть за год до Рериха, Оуэн Латтимор, путешествуя от Пекина до Кашмира, тоже посетил крепость Джа-ламы и сделал отличное фото.
 
 Основнаая публикация:
 
 Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (2): 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing))
 
-## Латимер о Джа-ламе
+## О Джа-ламе
 
-В статье Caravan Routes of Inner Asia Латтимор так рассказывает про Джа-ламу (называет его False Lama):
+В статье Латтимор так рассказывает про Джа-ламу (называет его False Lama):
 
 > The region rose to a position notorious for several years in Central Asian politics, but obscure to the outer world, during the period after the War when first White and then Red Russian partisans were carrying on a savage guerilla warfare in Mongolia, involving not only Russians but Chinese and Mongols. During this period a man who appears to have been a Mongolized Chinese, but who is remembered only by the name of "The False Lama," gained some measure of power in Outer Mongolia. Apparently when Soviet Russia began to assert a positive control over the affairs of Outer Mongolia, he thought it wise to flee, carrying with him a considerable following, some of them his own fighting men and others Mongols that he gathered up to form a population about him.
 >
@@ -48,7 +48,7 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 
 ![ja-lama-fortress.png](ja-lama-fortress.png "Ruined fortress of False Lama, Matsung Shan, W. Mongolia")
 
-Альтернативные фотографии можно найти у Ломакиной в "Голова Джа-ламы" ([фото Хаслунда 1928](https://m-d.me/notes/lomakina-ja-lama/#250)) и у Roerich в "Trails to Inmost Asia" ([The castle of Ja lama](https://m-d.me/notes/roerich-trails-to-asia-en/#211jalama)).
+Альтернативные фотографии крепости можно найти у Ломакиной в "Голова Джа-ламы" ([фото Хаслунда 1928](https://m-d.me/notes/lomakina-ja-lama/#250)) и у Roerich в "Trails to Inmost Asia" ([The castle of Ja lama](https://m-d.me/notes/roerich-trails-to-asia-en/#211jalama)).
 
 ## Комментарии
 
