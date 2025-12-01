@@ -52,4 +52,4 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/143)
+[**Обсудить**](https://t.me/answer42geo/142)
