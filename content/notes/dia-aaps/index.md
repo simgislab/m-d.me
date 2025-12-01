@@ -112,8 +112,7 @@ Settings - Data Sync - Cloud Upload - Nightscout Sync (REST-API)
 
 * Включить REST API
 * Use mobile data
-* Base URL: https://password@hostname/api/v1/, обязательно нужен слэш в конце. Обратить внимание, что если просто использовать эту ссылку в браузере, то он ответит Cannot GET /api/v1/ (но работать будет)
-
+* Base URL: <https://password@hostname/api/v1/>, обязательно нужен слэш в конце. Обратить внимание, что если просто использовать эту ссылку в браузере, то он ответит Cannot GET /api/v1/ (но работать будет)
 
 ## Комментарии
 
