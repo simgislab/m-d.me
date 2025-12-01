@@ -6,7 +6,7 @@ description: "Распознанная и отредактированная к�
 toc: true
 autonumber: false
 math: false
-tags: ["Ломакина","Монголия"]
+tags: ["Ломакина","Монголия","Джа-лама"]
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
@@ -15,6 +15,8 @@ fediverse: "@username@instance.url"
 ## Введение
 
 Восстановленная в полном объеме, распознанная и отредактированная книга Инессы Ивановны Ломакиной "Голова Джа-ламы", 1993 г.
+
+Другое жизнеописанин Джа-ламы можно найти, например у Roerich в "Trails to Inmost Asia", [глава XI](https://m-d.me/notes/roerich-trails-to-asia-en/#ja-lama-the-militant-priest).
 
 ## Об изданиях книги
 
