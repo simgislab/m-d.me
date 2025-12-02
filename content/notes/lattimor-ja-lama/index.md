@@ -48,7 +48,7 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 
 ![ja-lama-fortress.png](ja-lama-fortress.png "Ruined fortress of False Lama, Matsung Shan, W. Mongolia")
 
-Альтернативные фотографии крепости можно найти у Ломакиной в "Голова Джа-ламы" ([фото Хаслунда 1928](https://m-d.me/notes/lomakina-ja-lama/#250)) и у Roerich в "Trails to Inmost Asia" ([The castle of Ja lama](https://m-d.me/notes/roerich-trails-to-asia-en/#211jalama)).
+Альтернативные фотографии крепости можно найти у Ломакиной в "Голова Джа-ламы" ([фото Хаслунда 1928](/notes/lomakina-ja-lama/#250)) и у Roerich в "Trails to Inmost Asia" ([The castle of Ja lama](/notes/roerich-trails-to-asia-en/#211jalama)).
 
 ## Комментарии
 

@@ -6,7 +6,7 @@ description: "Spatial data layers on Roerich's Central Asian Expedition."
 toc: true
 autonumber: false
 math: false
-tags: ["Рерих", "Roerich"]
+tags: ["Рерих", "Roerich", "ГИС"]
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
@@ -92,7 +92,6 @@ Example data for a point:
 | **routejson**    | Geometry of the route segment in JSON array format (list of coordinates).                      | [[27.03665,88.26236],[27.03306,88.25807],…,[26.7348,88.40872]] |
 | **hide_distance**                    | Indicates whether to hide the distance display for this point.                                 | false  |
 | **place_id**                         | Internal unique identifier of the place record.                                                | 5 |
-
 
 If you're going to use this data, please respect author's copyright and don't forget to [mention project](https://caemap.com/en/about) in derived works.
 
