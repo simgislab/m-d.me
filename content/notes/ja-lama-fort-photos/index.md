@@ -18,6 +18,8 @@ fediverse: "@username@instance.url"
 
 ## Фото
 
+В историческом порядке от старых к новым.
+
 ### Латтимор, 1926/1927
 
 ![ja-lama-fortress.png](/notes/lattimor-ja-lama/ja-lama-fortress.png "Ruined fortress of False Lama, Matsung Shan, W. Mongolia")
@@ -28,7 +30,7 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 
 ### Рерих, 1927
 
-![085-castle-ja-lama.png](/content/notes/roerich-trails-to-asia-en/085-castle-ja-lama.png "The castle of Ja lama")
+![085-castle-ja-lama.png](/notes/roerich-trails-to-asia-en/085-castle-ja-lama.png "The castle of Ja lama")
 
 Публикация:
 
