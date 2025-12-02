@@ -66,7 +66,9 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 [Фото в тексте](/notes/lomakina-ja-lama/#250).
 
-### Martin Compart, год неизвестен
+### автор неизвестен, год неизвестен
+
+Исходно фотография находится в статье DER RÄCHER LAMA, автор Martin Compart. Однако дальше следы ее ведут к [Don Croner](https://roerichmongoliamonthly.wordpress.com/2011/02/18/volume-2-feb-18th-2011/), энтузиасту Рериха, американскому монголисту.
 
 ![gongpochuan.jpg](gongpochuan.jpg)
 
@@ -75,6 +77,11 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 > At the time, however, Dambijantsan was holed up in his fortress at Gongpochuan, in Gansu Province, China, and Maisky was unable to get any information about his current activities.
 
 Croner, Don, 2009. False Lama. The Life and Death of Dambijantsan. Ulaan Baatar ([источник](https://munx-tenger.de/wp-content/uploads/2021/08/JaLama-Chapter1.pdf))
+
+К сожалению сайт Don Croner doncroner.com больше не открывается. Фотографию и книгу о Джа Ламе можно найти через Web Archive:
+
+* [Dambijantsan's Fortress at Gongpochuan](https://web.archive.org/web/20140903091416/http://dambijantsan.doncroner.com/dambijantsan.7.html)
+* [First Five Chapter of Ja Lama: The Life and Death of Dambijantsan](https://web.archive.org/web/20140903091416/http://dambijantsan.doncroner.com/JaLama.1-5.pdf)
 
 Публикация:
 
