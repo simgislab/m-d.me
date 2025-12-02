@@ -38,6 +38,22 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 [Фото в тексте](/notes/roerich-trails-to-asia-en/#211jalama).
 
+### Рерих, 1927 (экспедиционные фото)
+
+Выделены в отдельную группу, поскольку точно их источник мне неизвестен. 
+
+Фотографии можно найти на сайте [Центрально-Азиатской Экспедиции](https://caemap.com/#m=7/40.422/98.317&l=Gr&p=525/o), но точный их источник не указан. Подписи к фотографиям и названия файлов оставлены как в на сайте ЦАЭ.
+
+![1731_404861_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi.jpg](1731_404861_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi.jpg "Развалины жилища Джа-ламы, Гоби Май 1927 г.")
+
+![1737_404862_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi_The_castle_of_Ja_Lama.jpg](1737_404862_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi_The_castle_of_Ja_Lama.jpg "Развалины жилища Джа-ламы, Гоби. Замок Джа-ламы Май 1927 г.")
+
+![1740_404864_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi.jpg](1740_404864_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi.jpg "К.Н.Рябинин у крепости Джа-ламы, Гоби 12 мая 1927 г.")
+
+### Рерих Н.К., 1927 (Картина)
+
+![4065_painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg](4065_painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg "Город Джа-ламы. Монголия Н.К. Рерих, 1927 — 1928 гг.")
+
 ### Хаслунд, 1928
 
 ![250-city.jpg](/notes/lomakina-ja-lama/250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда")
