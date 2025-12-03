@@ -52,7 +52,7 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 ![1740_404864_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi.jpg](1740_404864_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi.jpg "К.Н.Рябинин у крепости Джа-ламы, Гоби 12 мая 1927 г.")
 
-### Рерих Н.К., 1927 (Картина)
+### Рерих Н.К., 1927 (картина)
 
 ![4065_painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg](4065_painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg "Город Джа-ламы. Монголия Н.К. Рерих, 1927 — 1928 гг.")
 
