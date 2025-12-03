@@ -58,7 +58,11 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 Источник: сайт [Центрально-Азиатской Экспедиции](https://caemap.com/#m=7/40.422/98.317&l=Gr&p=525/o).
 
-[Полноразмерная версия](painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg): 2305 х 1055, JPG.
+[Полноразмерная версия](painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg): 2305 х 1055, JPG. [Источник](https://gallery.facets.ru/show.php?id=259&setSize=3).
+
+Оригинальный источник: "N. Roerich. Altai-Himalaya. 1929".
+
+Оригинальная подпись:  "Tenpei jal-tsin baishin, City of the Ja-lama in the Central Gobi" ("Темпей-джал-тзин-байсин, город Джа-ламы в Центральной Гоби").
 
 ### Хаслунд, 1928
 
