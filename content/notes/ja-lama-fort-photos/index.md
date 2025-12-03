@@ -70,7 +70,7 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 В книге Men and Gods in Mongolia (Zayagan), в главе A robber's stronghold in the desert, Хаслунд описывает историю Джа-ламы (у Хаслунда - Dambin Jansang), но фотографии в этой книге нет.
 
-Полное название: Men and Gods in Mongolia (Zayagan), by Henning Haslund-Christensen; Elizabeth Sprigge; Claude Napier. New York: E.P. Dutton & co., [1935]
+Полное название: Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translated from Swedish by Elizabeth Sprigge and Claude Napier. New York: E.P. Dutton & co.
 
 ![250-city.jpg](/notes/lomakina-ja-lama/250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда")
 
