@@ -56,6 +56,10 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 ![4065_painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg](4065_painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg "Город Джа-ламы. Монголия Н.К. Рерих, 1927 — 1928 гг.")
 
+Источник: сайт [Центрально-Азиатской Экспедиции](https://caemap.com/#m=7/40.422/98.317&l=Gr&p=525/o).
+
+[Полноразмерная версия](painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg): 2305 х 1055, JPG.
+
 ### Хаслунд, 1928
 
 ![250-city.jpg](/notes/lomakina-ja-lama/250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда")
@@ -68,7 +72,7 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 ### автор неизвестен, год неизвестен
 
-Исходно фотография находится в статье DER RÄCHER LAMA, автор Martin Compart. Однако дальше следы ее ведут к [Don Croner](https://roerichmongoliamonthly.wordpress.com/2011/02/18/volume-2-feb-18th-2011/), энтузиасту Рериха, американскому монголисту.
+Исходно фотография находится в статье DER RÄCHER LAMA, автор Martin Compart. Однако, по всей видимости он взял её у [Don Croner](https://roerichmongoliamonthly.wordpress.com/2011/02/18/volume-2-feb-18th-2011/), энтузиаста Рериха, американского монголиста, автора [ряда книг](https://www.goodreads.com/author/show/1339085.Don_Croner). В том числе False Lama of Mongolia: The Life and Death of Dambijantsan ([Goodreads](https://www.goodreads.com/book/show/57982152-false-lama-of-mongolia)).
 
 ![gongpochuan.jpg](gongpochuan.jpg)
 
