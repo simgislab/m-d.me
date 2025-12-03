@@ -20,7 +20,7 @@ fediverse: "@username@instance.url"
 
 В историческом порядке от старых к новым.
 
-### Латтимор, 1926/1927
+### Латтимор О., 1926/1927
 
 ![ja-lama-fortress.png](/notes/lattimor-ja-lama/ja-lama-fortress.png "Ruined fortress of False Lama, Matsung Shan, W. Mongolia")
 
@@ -28,7 +28,7 @@ fediverse: "@username@instance.url"
 
 Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (2): 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing))
 
-### Рерих, 1927
+### Рерих Ю.Н., 1927
 
 ![085-castle-ja-lama.png](/notes/roerich-trails-to-asia-en/085-castle-ja-lama.png "The castle of Ja lama")
 
@@ -38,11 +38,13 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 [Фото в тексте](/notes/roerich-trails-to-asia-en/#211jalama).
 
-### Рерих, 1927 (экспедиционные фото)
+### Рерих Ю.Н., 1927 (экспедиционные фото)
 
 Выделены в отдельную группу, поскольку точно их источник не указан.
 
-Фотографии можно найти на сайте [Центрально-Азиатской Экспедиции](https://caemap.com/#m=7/40.422/98.317&l=Gr&p=525/o) где они подписаны как "Экспедиционные фотографии", без подробностей. Подписи к фотографиям и названия файлов оставлены как в на сайте ЦАЭ. Человек на фотографиях - Рябинин, Константин Николаевич ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B1%D0%B8%D0%BD%D0%B8%D0%BD,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87)), врач экспедиции Рериха.
+Фотографии можно найти на сайте [Центрально-Азиатской Экспедиции](https://caemap.com/#m=7/40.422/98.317&l=Gr&p=525/o) где они подписаны как "Экспедиционные фотографии", без подробностей. Здесь подписи к фотографиям и названия файлов оставлены как в на сайте ЦАЭ. Эти же фотографии можно найти в [галерее картин](https://gallery.facets.ru/show.php?id=259&setSize=3) Н.К. Рериха, раздел "Фото изображенного объекта", где их источник подписан как "Экспедиционные фотографии в архиве Музея Николая Рериха (г. Нью-Йорк)". Представлены не все фото.
+
+Человек на фотографиях - Рябинин, Константин Николаевич ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B1%D0%B8%D0%BD%D0%B8%D0%BD,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87)), врач экспедиции Рериха.
 
 ![1731_404861_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi.jpg](1731_404861_May,_1927_Ruins_of_Ja_Lama’s_place,_the_Gobi.jpg "Развалины жилища Джа-ламы, Гоби Май 1927 г.")
 
@@ -56,15 +58,19 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 ![4065_painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg](4065_painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg "Город Джа-ламы. Монголия Н.К. Рерих, 1927 — 1928 гг.")
 
-Источник: сайт [Центрально-Азиатской Экспедиции](https://caemap.com/#m=7/40.422/98.317&l=Gr&p=525/o).
-
 [Полноразмерная версия](painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg): 2305 х 1055, JPG. [Источник](https://gallery.facets.ru/show.php?id=259&setSize=3).
 
 Оригинальный источник: "N. Roerich. Altai-Himalaya. 1929".
 
 Оригинальная подпись:  "Tenpei jal-tsin baishin, City of the Ja-lama in the Central Gobi" ("Темпей-джал-тзин-байсин, город Джа-ламы в Центральной Гоби").
 
-### Хаслунд, 1928
+### Хеннинг Хаслунд-Кристенсен, 1928
+
+Henning Haslund-Christensen - датский путешественник, автор книг, соратник Свена Гедина, долго прожил в Монголии ([en-wiki](https://en.wikipedia.org/wiki/Henning_Haslund-Christensen)).
+
+В книге Men and Gods in Mongolia (Zayagan), в главе A robber's stronghold in the desert, Хаслунд описывает историю Джа-ламы (у Хаслунда - Dambin Jansang), но фотографии в этой книге нет.
+
+Полное название: Men and Gods in Mongolia (Zayagan), by Henning Haslund-Christensen; Elizabeth Sprigge; Claude Napier. New York: E.P. Dutton & co., [1935]
 
 ![250-city.jpg](/notes/lomakina-ja-lama/250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда")
 
@@ -84,9 +90,9 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 > At the time, however, Dambijantsan was holed up in his fortress at Gongpochuan, in Gansu Province, China, and Maisky was unable to get any information about his current activities.
 
-Croner, Don, 2009. False Lama. The Life and Death of Dambijantsan. Ulaan Baatar ([источник](https://munx-tenger.de/wp-content/uploads/2021/08/JaLama-Chapter1.pdf))
+Croner, Don, 2009. False Lama. The Life and Death of Dambijantsan. Ulaan Baatar ([источник](https://web.archive.org/web/20140903091401if_/http://dambijantsan.doncroner.com/JaLama.1-5.pdf))
 
-К сожалению сайт Don Croner doncroner.com больше не открывается. Фотографию и книгу о Джа Ламе можно найти через Web Archive:
+К сожалению сайт Don Croner: doncroner.com и его следующий блог: doncronerblog.com больше не открываются. Последняя запись от 8.12.2023. Фотографию и книгу о Джа Ламе можно найти через Web Archive:
 
 * [Dambijantsan's Fortress at Gongpochuan](https://web.archive.org/web/20140903091416/http://dambijantsan.doncroner.com/dambijantsan.7.html)
 * [First Five Chapter of Ja Lama: The Life and Death of Dambijantsan](https://web.archive.org/web/20140903091416/http://dambijantsan.doncroner.com/JaLama.1-5.pdf)
