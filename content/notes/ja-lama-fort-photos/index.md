@@ -80,11 +80,11 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Полное название: Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translated from Swedish by Elizabeth Sprigge and Claude Napier. New York: E.P. Dutton & co.
 
+Haslund-Christensen H. Zajagan Menschen und Götter in der Mongolei / Von Henning Haslund-Christensen; Mit einem Vorwort von Sven Hedin und einer Übersichtskarte sowie 34 Bildern nach Originalaußnahmen der Sven-Hedin-Zentral-Asien-Expedition, [Nach der schwedischen Originalausgabe ... übers. von Marie Franzos ...]. — Stuttgart [u. a.] : Union Deutsche Verl.-Ges., [1936]. — 279 с., 9 л. ил. ил., нот., карт.; 24 см.
+
 Ломакина о фотографии в книге "Голова Джа-ламы":
 
 > Мы воспроизводим снимок, сделанный в ноябре 1928 года Х.Хаслундом-Христенсеном и напечатанный в его книге “Заяган. Люди и боги в Монголии”(89).
-
-Haslund-Christensen H. Zajagan Menschen und Götter in der Mongolei / Von Henning Haslund-Christensen; Mit einem Vorwort von Sven Hedin und einer Übersichtskarte sowie 34 Bildern nach Originalaußnahmen der Sven-Hedin-Zentral-Asien-Expedition, [Nach der schwedischen Originalausgabe ... übers. von Marie Franzos ...]. — Stuttgart [u. a.] : Union Deutsche Verl.-Ges., [1936]. — 279 с., 9 л. ил. ил., нот., карт.; 24 см.
 
 ![250-city.jpg](/notes/lomakina-ja-lama/250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда")
 
@@ -94,19 +94,19 @@ Haslund-Christensen H. Zajagan Menschen und Götter in der Mongolei / Von Hennin
 
 [Фото в тексте](/notes/lomakina-ja-lama/#250).
 
-### автор неизвестен, год неизвестен
+### Автор неизвестен, год неизвестен
 
 Исходно фотография находится в статье DER RÄCHER LAMA, автор Martin Compart. Однако, по всей видимости он взял её у [Don Croner](https://roerichmongoliamonthly.wordpress.com/2011/02/18/volume-2-feb-18th-2011/), энтузиаста Рериха, американского монголиста, автора [ряда книг](https://www.goodreads.com/author/show/1339085.Don_Croner). В том числе False Lama of Mongolia: The Life and Death of Dambijantsan ([Goodreads](https://www.goodreads.com/book/show/57982152-false-lama-of-mongolia)).
 
 ![gongpochuan.jpg](gongpochuan.jpg)
 
-Название файла фотографии - gongpochuan.jpg, что соответствует топониму Gongpochuan. Этот топоним упоминается например в статье Don Croner (фотографий в ней нет).
+Название файла фотографии - gongpochuan.jpg, что соответствует топониму Gongpochuan. Этот топоним упоминается например во фрагменте книги Don Croner (фотографий в ней нет).
 
 > At the time, however, Dambijantsan was holed up in his fortress at Gongpochuan, in Gansu Province, China, and Maisky was unable to get any information about his current activities.
 
 Croner, Don, 2009. False Lama. The Life and Death of Dambijantsan. Ulaan Baatar ([источник](https://web.archive.org/web/20140903091401if_/http://dambijantsan.doncroner.com/JaLama.1-5.pdf))
 
-К сожалению сайт Don Croner: doncroner.com и его следующий блог: doncronerblog.com больше не открываются. Последняя запись от 8.12.2023. Фотографию и книгу о Джа Ламе можно найти через Web Archive:
+К сожалению сайты Don Croner больше не обновляются или вообще не открываются: doncroner.com и его следующий блог: doncronerblog.com больше не открываются (последняя запись от 8.12.2023), открывается [worldwidewanders1.blogspot.com](https://worldwidewanders1.blogspot.com/) (последняя запись от 25.10.2021). Фотографию и фрагмент книги о Джа Ламе можно найти через Web Archive:
 
 * [Dambijantsan's Fortress at Gongpochuan](https://web.archive.org/web/20140903091416/http://dambijantsan.doncroner.com/dambijantsan.7.html)
 * [First Five Chapter of Ja Lama: The Life and Death of Dambijantsan](https://web.archive.org/web/20140903091416/http://dambijantsan.doncroner.com/JaLama.1-5.pdf)
