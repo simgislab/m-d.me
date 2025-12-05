@@ -117,4 +117,4 @@ Croner, Don, 2009. False Lama. The Life and Death of Dambijantsan. Ulaan Baatar 
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/142)
+[**Обсудить**](https://t.me/answer42geo/146)
