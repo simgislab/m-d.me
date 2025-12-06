@@ -1,8 +1,8 @@
 ---
 title: "Roerich. Trails to Inmost Asia"
 date: "2025-06-07"
-summary: "Edited and formatted 1931 with interactive indices. Prepared by Maxim Dubinin https://m-d.me/notes/roerich-trails-to-asia-en"
-description: "Edited and formatted 1931 text with interactive indices. Prepared by Maxim Dubinin https://m-d.me/notes/roerich-trails-to-asia-en"
+summary: "Edited and formatted first 1931 edition with interactive indices. Prepared by Maxim Dubinin https://m-d.me/notes/roerich-trails-to-asia-en"
+description: "Edited and formatted first 1931 edition with interactive indices. Prepared by Maxim Dubinin https://m-d.me/notes/roerich-trails-to-asia-en"
 toc: true
 autonumber: false
 math: false
@@ -14,20 +14,22 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-Turns out there is no quality text version of George Roerich's Trails to Inmost Asia. Available PDFs and TXT files are not usable for annotating and shared work. Internet Archive TXT contains lots of errors. So here is a completely redone text version.
+Turns out there is no quality text version of the very first George Roerich's Trails to Inmost Asia edition published in 1931. Available PDFs and TXT files are not usable for annotating and shared work. Internet Archive TXT contains lots of errors. Here you can find a completely reworked text version.
 
 ![135-kinchenjunga.png](135-kinchenjunga.png "Kinchenjunga --- The mountain of the five treasures. Painting by Nicholas Roerich, White House Washington, D.C.")
 
 Sources:
 
 * Roerich's original book in PDF and TXT format from [Internet Archive](https://archive.org/details/in.ernet.dli.2015.43990).
-* Photos and illustrations are extracted from Mountains of Central Asia Digital Dataset (MCADD) [PDF](https://pahar.in/central-asia/).
+* Photos and illustrations are extracted from version published on Mountains of Central Asia Digital Dataset website (MCADD) [PDF](https://pahar.in/pahar/Books%20and%20Articles/Central%20Asia/1931%20Trails%20to%20Inmost%20Asia%20by%20Roerich%20s.pdf).
 
-Full bibliographical link:
+Full bibliographical link for the original book:
 
 > Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
 
 ## List of changes
+
+Technical changes done to produce the version published here.
 
 * Lots (hundreds) of small edits
 * Original formatting (italics) for mongolian, tibetan, french words is restored.
