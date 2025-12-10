@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-This is a complete text version of Roerich's first report from his 5 year long Central-Asian Expedition Altai-Himalaya: A Travel Diary.
+This is a complete text version of Roerich's first report from his 5 year long Central Asiatic Expedition: "Altai-Himalaya: A Travel Diary".
 
 Full citation:
 
@@ -34,7 +34,7 @@ Edited text was used as a base and a number of changes was introduced to return 
 * Page footnotes returned.
 * Clickable [Contents](#ix) added.
 * Clickable [list of illustrations](#xi) added.
-* Text formating returned to normal (copyable)
+* Text formatting returned to normal (copyable)
 * Removed doubling of pp. 74 and 75
 
 ## Book contents
@@ -93,9 +93,9 @@ An extensive literature has been dedicated to Nicholas Roerich. Information of h
 
 <a id="vi">**vi PUBLISHER’S NOTE**</a>
 
-V. Pica, L. Vauxellcs, Arsene Alexandre, A. Koiransky, B. Grigorief, O. Dymoff, M. Fokine, Denis Roche, Sir Claude Phillips, Leo Feigenberg, O. M. Sayler, C. Brinton, V. Ritter, M. Martin and others.
+V. Pica, L. Vauxellcs, Arsène Alexandre, A. Koiransky, B. Grigorief, O. Dymoff, M. Fokine, Denis Roche, Sir Claude Phillips, Leo Feigenberg, O. M. Sayler, C. Brinton, V. Ritter, M. Martin and others.
 
-Special issues of magazines were dedicated to Roerich's art by *Mir Isskustva; Isskustvo; Vessi; Zolotoye Runo; L'Art Decoratif,* Paris; *Studio,* London; *The Touchstone,* New York; *Colour,* London; *Gazette des Beaux Arts,* Paris; *Volne Smeri,* Prague; *Dilo,* Prague; *Art and Archaeology,* Washington; and many others.
+Special issues of magazines were dedicated to Roerich's art by *Mir Isskustva; Isskustvo; Vessi; Zolotoye Runo; L'Art Decoratif,* Paris; *Studio,* London; *The Touchstone,* New York; *Colour,* London; *Gazette des Beaux Arts,* Paris; *Volne Smeri,* Prague; *Dilo,* Prague; *Art and Archæology,* Washington; and many others.
 
 Information about his various foreign works is strewn in many series of editions: *Studio,* London; *International Studio,* New York; *Emporium,* Milan; *Les Arts et les Artistes,* Paris; *Volne Smeri* and *Dilo,* Prague; *Deutsche Kunst,* Darmstadt; *The Review,* Calcutta; and many other Hindu, Japanese and Ameri­can magazines.
 
@@ -173,7 +173,7 @@ Glossary [395](#395)
 
 *Reproductions from Paintings by Nicholas Roerich in the Roerich Museum, New York*
 
-Portrait of Nicholas Roerich *by Sviatoslaw Roerich* *Frontispiece*
+Portrait of Nicholas Roerich *by Sviatoslaw Roerich* [*Frontispiece*](#ii)
 
 Commands of Rigden Japo [2](#002japo)
 
@@ -211,7 +211,7 @@ Chatu Gompa on the Brahmaputra [378](#378chatu)
 
 Chungtu Royal Monastery Near Saskya [380](#380chungtu)
 
-Shek ar Dzong (Near Shigatse) [390](#390shekar)
+Shekar Dzong (Near Shigatse) [390](#390shekar)
 
 <a id="xii">**xii**</a>
 
@@ -417,7 +417,7 @@ old Hindu, Dravidian and Moslem, can give new solutions to the unprejudiced arch
 
 - - - - -
 
-A Hindu complained to me of the lack of Hindu architects. I said to him, "If there are no architects, let an artist develop an idea, but let him proceed from out of the harmony of the folk consciousness combined with the character of its nature." The whole world must not be defiled with some generic bungalow. One cannot make out of Java a Swedish Stockzund. And one cannot visualize Comanches and Apaches in the houses of Boston. Appropriatenes must be maintained.
+A Hindu complained to me of the lack of Hindu architects. I said to him, "If there are no architects, let an artist develop an idea, but let him proceed from out of the harmony of the folk consciousness combined with the character of its nature." The whole world must not be defiled with some generic bungalow. One cannot make out of Java a Swedish Stockzund. And one cannot visualize Comanches and Apaches in the houses of Boston. Appropriateness must be maintained.
 
 - - - - -
 
@@ -1267,7 +1267,7 @@ Nature awaits here full of gifts. Come hither and be cured. Charura, Parura, Orr
 
 The leaves of the herb Ava Duti are said "to soften" stones, just as do the "snow-frogs"* in the Himalayas. Therefore if upon a stone you see the print of an elk's foot or the paw of an animal, it seems they have eaten or touched this wondrous herb. Turning again to legends: near Phalut on the road to Kinchenjunga grows a precious plant, the black aconite. Its flower lights
 
-\* "Snow-frogs"---a legen which attributes to snow-frogs the ability to soften stones.
+\* "Snow-frogs"---a legend which attributes to snow-frogs the ability to soften stones.
 
 <a id="60">**60 ALTAI-HIMALAYA**</a>
 
