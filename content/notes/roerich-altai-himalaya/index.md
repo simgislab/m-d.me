@@ -81,14 +81,15 @@ PRINTED TN THE UNITED STATES OF AMERICA
 
 ### PUBLISHER’S NOTE
 
-Zuloaga, visiting the Roerich Museum in New York, in an interview for the press, said: "In the creative art of Roerich, I see that which I have always felt. Here is evidence that from Russia some force is coming to the world—I cannot measure, I cannot impart what it is—but I realize its approach: Roerich— great artist, great worker; his creation expresses proud and lofty sentiments."
+Zuloaga, visiting the Roerich Museum in New York, in an interview for the press, said: "In the creative art of Roerich, I see that which I have always felt. Here is evidence that from Russia some force is coming to the world---I cannot measure, I cannot impart what it is---but I realize its approach: Roerich---great artist, great worker; his creation expresses proud and lofty sentiments."
 
 Boris Grigorief has said: "His name is on the lips of the entire world. Before me is the magazine, *Studio*, dedicated to our great artist, and I am proud when I think that Roerich is so able to arouse the human soul."
 
 In the *Foreword* (1925), Serge Whitman, valuing the international significance of the last work of Roerich, wrote: “We who search the paths of international understanding and the structure of universal peace, must look upon Roerich as the apostle and forerunner of this new world of all nations.”
-Ivan Narodny, in a recent article, "Prophet of Universal Beauty," said: "Leonardo da Vinci was at the same time a painter, an architect and an engineer. The same can be said of Roerich— he is not only a towering painter, but a profound philosopher and a distinguished scientist."
 
-An extensive literature has been dedicated to Nicholas Roerich. Information of his life and works up to 1916, may be had in the monographs of A. Rostislavov (1918); A. Mantl (1910); A. Gui-doni (1915); N. Selivanova (1923); in articles of A. Benois (1916); S. Makovsky (1906-16); S. Yaremitch (1916); L. Andreyef (1918); A. Remisoff (1916); M. Voloshin, G. Bottomley, S. Gorodetzky, W. Baltrushaitis, I. Lazarevsky, I. Takeuchi,
+Ivan Narodny, in a recent article, "Prophet of Universal Beauty," said: "Leonardo da Vinci was at the same time a painter, an architect and an engineer. The same can be said of Roerich---he is not only a towering painter, but a profound philosopher and a distinguished scientist."
+
+An extensive literature has been dedicated to Nicholas Roerich. Information of his life and works up to 1916, may be had in the monographs of A. Rostislavov (1918); A. Mantl (1910); A. Guidoni (1915); N. Selivanova (1923); in articles of A. Benois (1916); S. Makovsky (1906-16); S. Yaremitch (1916); L. Andreyef (1918); A. Remisoff (1916); M. Voloshin, G. Bottomley, S. Gorodetzky, W. Baltrushaitis, I. Lazarevsky, I. Takeuchi,
 
 <a id="vi">**vi PUBLISHER’S NOTE**</a>
 
@@ -218,7 +219,7 @@ Shek ar Dzong (Near Shigatse) [390](#390shekar)
 
 ### INTRODUCTION
 
-On May 8, 1923, Nicholas Roerich left America for India, and he has been wandering about in remote, dangerous and seldom- visited parts of Asia ever since. "Altai-Himalaya" is the record of his mission, just as his series of pictures "Tibetan Paths," "Banners of the East," "His Country," are records in terms of paint. But "Altai-Himalaya," though penned on horseback and in the tent, under conditions the most difficult, is as much more, and as much richer than the ordinary diary of travel, as his paintings of the Himalayas are more than a literal transcription of some of the earth's most magnificent scenery. For in whatever medium Roerich works, or in whatever he is expressing, there shines forth not only the artist, but the embodied intelligence--- *the man*, the whole character of the man. Though sincere and simple, it is a character compounded of such unusual elements as to be on its esoteric side uncomprehended.
+On May 8, 1923, Nicholas Roerich left America for India, and he has been wandering about in remote, dangerous and seldom-visited parts of Asia ever since. "Altai-Himalaya" is the record of his mission, just as his series of pictures "Tibetan Paths," "Banners of the East," "His Country," are records in terms of paint. But "Altai-Himalaya," though penned on horseback and in the tent, under conditions the most difficult, is as much more, and as much richer than the ordinary diary of travel, as his paintings of the Himalayas are more than a literal transcription of some of the earth's most magnificent scenery. For in whatever medium Roerich works, or in whatever he is expressing, there shines forth not only the artist, but the embodied intelligence---*the man*, the whole character of the man. Though sincere and simple, it is a character compounded of such unusual elements as to be on its esoteric side uncomprehended.
 
 Now, "esoteric" is to most ears either a meaningless or a hateful word: what do I mean by it in this connection? I should perform for Roerich an ill service if I failed to answer such a question, because it would be to avoid mentioning what seems to me the very *raison d'etre* of his journey, his art, his life. And yet how is it possible to make intelligible or even plausible what I have in mind? Without attempting to elucidate, explain or justify it, therefore, I shall simply say that there is a tenable point of view from which one may regard Roerich as an envoy of those powers which preside over the life and evolution of humanity in the same sense that gardeners preside over a garden: that he journeys into desolate and forbidden lands for the fulfillment of a mission the purpose of which will increasingly reveal itself.
 
@@ -992,7 +993,7 @@ And if through the shell of the objects of every day you will be enabled to beho
 
 then must a smile be for the brain! Thus shall the trembling conjuries of fear be transformed into the valiant call of joy.
 
-#### \* \* \*
+\* \* \*
 
 The motley figures of hell are being trampled down by the powerful feet of the White Guards. Red and green "guardians of the entrances," many-armed and with horrible grins, are threatening the violators. In explosive gasps flare up the gold tongues of the primeval flame. The misty aureoles of lights are glowing. . . .
 
@@ -1204,7 +1205,7 @@ There the wanderers from Bhutan are praying under a red canopy. Before the distr
 
 At sunset, within the tent, the head lama quietly speaks of the sanctuaries of Sikhim. He relates the "miracles" which he has heard, or has himself seen; of the buzzing of swarms of invisible bees; of the singing and celestial music; of the apparitions of sacred images. At our departure the lama pointed out two gracious omens. Upon our way, coming to meet us, were three brimming bamboo water-pails carried by water carriers and two woodsmen with full fagots of wood.
 
-#### \* \* \*
+\* \* \*
 
 Tashiding is one of Sikhim's prominent sites and belongs to the parish of a great monastery, Pemayangtse, and is a day's travel away. It is also on the peak, standing like a bulwark. It has been newly rebuilt. Its renovation has been done with such sensitiveness that even the most recent painting gives you joy by its fine and ingenious decoration. And the carvings on
 
@@ -4136,7 +4137,7 @@ Ramsana got up in order to inspect the camp and he noticed that the government g
 
 In the morning a Swedish woman missionary came. She has been in this country for fifteen years and not one convert! However, the missionary busies herself with doctoring and midwifery and here it is absolutely necessary because all these "cities" are without a single doctor.
 
-Then the American day begins. We go to see the American firm, Brenner Brothers of New York. They are in the gut and wool business. An entire community of vigorous working people. A unique community with children and with a joyous realization of the growing work. The business is developing. With all the primitiveness of the apparatus one has to admire the fine results. Here they are assorting and washing the wool. Here, on a hand-made press they are pressing it. Here a line of camels are waiting to lift the white heaps of wool and to carry them abroad, to Tientsin and to the ports for Europe and America. In the whole artel there are no books; for the entire community there is one New Testament and an accidental volume of Korolenko. It is a joy to be able to give them old newspapers and two books. There are tales about the affairs of the Sarts. They praise the murdered Titai. They ask what happens in the world. D. is skillfully interpreting the local customs by way of religious discussions. In this way the intolerance and superstition which are spread by the Mullahs find resistance. And there is much intolerance. And many of the local Beys have planned to strangle the new foreign enterprise. 
+Then the American day begins. We go to see the American firm, Brenner Brothers of New York. They are in the gut and wool business. An entire community of vigorous working people. A unique community with children and with a joyous realization of the growing work. The business is developing. With all the primitiveness of the apparatus one has to admire the fine results. Here they are assorting and washing the wool. Here, on a hand-made press they are pressing it. Here a line of camels are waiting to lift the white heaps of wool and to carry them abroad, to Tientsin and to the ports for Europe and America. In the whole artel there are no books; for the entire community there is one New Testament and an accidental volume of Korolenko. It is a joy to be able to give them old newspapers and two books. There are tales about the affairs of the Sarts. They praise the murdered Titai. They ask what happens in the world. D. is skillfully interpreting the local customs by way of religious discussions. In this way the intolerance and superstition which are spread by the Mullahs find resistance. And there is much intolerance. And many of the local Beys have planned to strangle the new foreign enterprise.
 
 D. and P. show themselves as pioneers for America in this
 
