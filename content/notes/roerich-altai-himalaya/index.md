@@ -269,7 +269,7 @@ But the great merit of this picture, freighted as it is with meaning (and that o
 
 and color harmonies as line and subtle as those of some priceless old yellow Chinese rug. The "story" is there, but the final indelible impression is one of beauty, and this is as it should be, for in the hierarchy of trades and talents the creative artist is nearest to the throne of God.
 
-Of Roerich's archaeological pictures I shall not speak, nor of his pioneer work in the theatre, important as that has been, because I feel that these things, which at one time absorbed his mind and dominated his consciousness have since become far less important to him than what I shall call his *mystical quest*. One has the feeling that in everything he does he is seeking the hidden truth, the unrevealed beauty, the Lost Word, in point of fact. Like some mighty indefatigable hunter, armed not with a gun, but with his pen and brushes, he stalks his quarry across oceans, rivers, mountains, though knowing all the while that the thing he is seeking is in himself. Both in his writing and in his painting he permits us to participate in this adventure, and thus draw nearer to that truth which is beauty, and that beauty which is truth.
+Of Roerich's archæological pictures I shall not speak, nor of his pioneer work in the theatre, important as that has been, because I feel that these things, which at one time absorbed his mind and dominated his consciousness have since become far less important to him than what I shall call his *mystical quest*. One has the feeling that in everything he does he is seeking the hidden truth, the unrevealed beauty, the Lost Word, in point of fact. Like some mighty indefatigable hunter, armed not with a gun, but with his pen and brushes, he stalks his quarry across oceans, rivers, mountains, though knowing all the while that the thing he is seeking is in himself. Both in his writing and in his painting he permits us to participate in this adventure, and thus draw nearer to that truth which is beauty, and that beauty which is truth.
 
 Claude Bragdon
 
@@ -307,7 +307,7 @@ that same conqueror of empires broke the image of the Great Sphinx.
 
 But if the sphinx of Egypt is mutilated, the sphinx of Asia remains safeguarded by the great deserts. The treasures of the heart of Asia are preserved and its hour has come.
 
-Ancient Ceylon---the Lanka of the Ramayana. But where are the palaces and pagodas? It is strange. In Colombo we are met by the Swiss Consul. The policeman is Irish. A French peddler. A Greek with post-cards. Dutch tea-peddlers. An Italian chauffeur. But where are the Singhalese? Have they all emigrated to Europe?
+Ancient Ceylon---the Lanka of the Rāmāyana. But where are the palaces and pagodas? It is strange. In Colombo we are met by the Swiss Consul. The policeman is Irish. A French peddler. A Greek with post-cards. Dutch tea-peddlers. An Italian chauffeur. But where are the Singhalese? Have they all emigrated to Europe?
 
 The first aspects of Buddha and Maitreya reveal themselves in the Kelaniya Temple near Colombo. The powerful images are guarded in the dusk of the temple. Hinayana prides itself before many-varied Mahayana on the refinement and purity of its philosophy. The great restored stupa near the temple reminds one of the ancient foundation of this place. But, after all, only in fragments do Colombo and Ceylon recall the ancient Lanka of Hanuman, Rama, Ravana and other giants. And for Buddhism, Ceylon is an important site. Many temples and palaces guard the fragments of one of the best periods of the Teaching. Outside of the ruins which are known, numerous unsuspected treasures are buried under the roots of powerful jungles. That which has remained above the soil gives an idea of the past splendor of the former mighty city. You do not need to search for the places. They proclaim themselves. But exploration can only give results if it is carried on in a broad measure. One must approach such ruins fully fortified, as one palace alone has nine hundred chambers. Ceylon is an important site.
 
@@ -361,7 +361,7 @@ of the School in Lucknow. Hard is the life of the Hindu artist. Much resolution 
 
 - - - - -
 
-Thorny also is the way of the Hindu scientists. Here, before us is an example, in a struggling young scientist Bose Sen, a biologist and pupil of Sir Jagadis Bose. He began his laboratory in the name of Vivekananda. In his peaceful little house above the laboratory is a room dedicated to the relics of Ramakrishna, Vivekananda and other teachers of this group. This young man, pupil of the closest pupil of Vivekananda, carries into life the principles of this master, who fearlessly proclaimed his evocation to action and knowledge. In this little top chamber he formulates his thoughts, surrounded by the things which belonged to his beloved leaders. One remembers vividly the portraits of Ramakrishna and his wife. Both faces impress one with their purity and striving. We sat in complete silence near this memorial hearth. Greetings!
+Thorny also is the way of the Hindu scientists. Here, before us is an example, in a struggling young scientist, a biologist and pupil of Sir Jagadis Bose. He began his laboratory in the name of Vivekananda. In his peaceful little house above the laboratory is a room dedicated to the relics of Ramakrishna, Vivekananda and other teachers of this group. This young man, pupil of the closest pupil of Vivekananda, carries into life the principles of this master, who fearlessly proclaimed his evocation to action and knowledge. In this little top chamber he formulates his thoughts, surrounded by the things which belonged to his beloved leaders. One remembers vividly the portraits of Ramakrishna and his wife. Both faces impress one with their purity and striving. We sat in complete silence near this memorial hearth. Greetings!
 
 - - - - -
 
@@ -5853,13 +5853,11 @@ how completely confounded were both parties when they confronted each other!
 
 - - - - -
 
-"The Ruler of Shambhala." This painting coincides unexpectedly with the prophecy of the Lama. "The Great Rider appeared and the heads of all people were turned towards the west, but the hand of the Rider turned all peoples toward the East."
-
-A representative from the Mongolian government comes and begs us to make a design for the temple-shrine where the painting "Ruler of Shambhala" will be placed with other venerated objects.
+"The Ruler of Shambhala."* This painting coincides unexpectedly with the prophecy of the Lama. "The Great Rider appeared and the heads of all people were turned towards the west, but the hand of the Rider turned all peoples toward the East." A representative from the Mongolian government comes and begs us to make a design for the temple-shrine where the painting "Ruler of Shambhala" will be placed with other venerated objects.
 
 - - - - -
 
-The publication of "Foundations of Buddhism," and "New Era" is being completed. It is difficult to give a fine form to the book in a little printer's shop. The former lama, now a lithographer, lovingly redraws for the book "The Conquering Buddha" with the fiery sword. Again the messenger from the Government comes. They beg for permission to translate "Foundations of Buddhism" into Mongolian.
+The publication of "Foundations of Buddhism," and "New Era" is being completed. It is difficult to give a fine form to the book in a little printer's shop. The former lama, now a lithographer, lovingly redraws for the book "The Conquering Buddha" with the fiery sword. Again the messenger from the Government comes. They beg for permission to translate into Mongolian "Foundations of Buddhism.".
 
 - - - - -
 
@@ -5881,7 +5879,7 @@ The action of will used at a great distance has been remarkably developed in Mon
 
 - - - - -
 
-In the camp among the yurtas and the herds, upon the hills of the Gobi, the Mongols of our convoy are heard singing a song about Shambhala recently composed by a Mongolian hero, Suche Bator: "We march to the holy war of Shambhala. Let us be reborn in the sacred land." . . . And thus, valiantly and resonantly, the Mongols send out their hopes. Even in new Mongolia they know the reality of Shambhala. In Ulan Bator Khoto,
+In the camp among the *yurtas* and the herds, upon the hills of the Gobi, the Mongols of our convoy are heard singing a song about Shambhala recently composed by a Mongolian hero, Suche Bator: "We march to the holy war of Shambhala. Let us be reborn in the sacred land." . . . And thus, valiantly and resonantly, the Mongols send out their hopes. Even in new Mongolia they know the reality of Shambhala. In Ulan Bator Khoto,
 
 <a id="354">**354 ALTAI-HIMALAYA**</a>
 
@@ -6067,7 +6065,7 @@ twenty miles without a halt. In the darkness of night the road is invisible and 
 
 - - - - -
 
-When we passed Tsaidam, which is by no means as the maps indicate it, one unconsciously looked toward the west. There glowed the endless pink sands. We recalled that between Tsaidam and Kunlun the maps show a complete desert area. Of course, this entire space is unexplored. Whereas, in the folds of these hills there may be much which is remarkable. In this direction, from the regions of Khotan and Scherschen the ancient Buddhist monasteries might have spread. There may be interesting hermitages and monumental caves. But even the Mongols speak little of these regions. They speak of caravans lost in the sands, of buried cities---but all this is legendary.
+When we passed Tsaidam, which is by no means as the maps indicate it, one unconsciously looked toward the west. There glowed the endless pink sands. We recalled that between Tsaidam and Kuen lun the maps show a complete desert area. Of course, this entire space is unexplored. Whereas, in the folds of these hills there may be much which is remarkable. In this direction, from the regions of Khotan and Scherschen the ancient Buddhist monasteries might have spread. There may be interesting hermitages and monumental caves. But even the Mongols speak little of these regions. They speak of caravans lost in the sands, of buried cities---but all this is legendary.
 
 - - - - -
 
@@ -7188,3 +7186,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 *Sho:* Copper coin in Tibet (ten sho make one ngusang).
 
 THE END
+
+## Discussion
+
+[**Questions or comments?**](https://t.me/answer42geo/147)
