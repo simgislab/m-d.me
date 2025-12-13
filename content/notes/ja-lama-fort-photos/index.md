@@ -64,7 +64,9 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 [Полноразмерная версия](painting_id259-NKR_Gorod_Dgha-lamy_Mongoliya.jpg): 2305 х 1055, JPG. [Источник](https://gallery.facets.ru/show.php?id=259&setSize=3).
 
-Оригинальный источник: "N. Roerich. [Altai-Himalaya: A Travel Diary](/notes/roerich-altai-himalaya/)". Репродукция картина [опубликована](/notes/roerich-altai-himalaya/#356jalama) в первом издании книги 1929 г.
+Оригинальный источник: "N. Roerich. [Altai-Himalaya: A Travel Diary](/notes/roerich-altai-himalaya/)". Черно-белая репродукция картины [опубликована](/notes/roerich-altai-himalaya/#356jalama) в первом издании книги 1929 г.
+
+![356jalama.jpg](/notes/roerich-altai-himalaya/356jalama.jpg "Tenpei-Jal-Tsin Baishin, City of the Ja-Lama in the Central Gobi")
 
 Оригинальная подпись:  "Tenpei jal-tsin baishin, City of the Ja-lama in the Central Gobi" ("Темпей-джал-тзин-байсин, город Джа-ламы в Центральной Гоби").
 
