@@ -5691,7 +5691,7 @@ The Popovtsi, the Bezpopovtsi, the Striguni, the Priguni, the Pomortsi, the Neto
 
 <a id="342">**342 ALTAI-HIMALAYA**</a>
 
-it would become unfit! Still more strange---the Kalashniki. They pray before the ikon through a little opening in a *k**alach* (a loaf of bread). We have heard much, but such obscure beliefs we have never seen nor heard of---and in the summer of 1926! Here are also Hlysti, Pashkovtzi, Stundisti and Molokans. Among the green and blue hills, among the *taiga* thickets, one cannot perceive all curves. Glancing at the beard and low fillet, one cannot judge what the heavy-garbed man whom we encounter is carrying with him.
+it would become unfit! Still more strange---the Kalashniki. They pray before the ikon through a little opening in a *kalach* (a loaf of bread). We have heard much, but such obscure beliefs we have never seen nor heard of---and in the summer of 1926! Here are also Hlysti, Pashkovtzi, Stundisti and Molokans. Among the green and blue hills, among the *taiga* thickets, one cannot perceive all curves. Glancing at the beard and low fillet, one cannot judge what the heavy-garbed man whom we encounter is carrying with him.
 
 - - - - -
 
