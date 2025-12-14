@@ -1016,7 +1016,7 @@ To study the life of a nightingale by first killing it---is it not barbaric?
 
 One remembers keenly some objects discovered by Kozloff in Kara-khoto in Mongolia. Especially does one recall the wondrous image of the woman's head. If such a people lived in the silenced cities of the deserts---how far were these places from being a wilderness!
 
-Wisely, wisely did the deserts succeed in guarding for posterity new treasures, and not only material treasures. . .
+Wisely, wisely did the deserts succeed in guarding for posterity new treasures, and not only material treasures. . . .
 
 One must recall not only the swords of the Tartar in measuring the life of Central Asia. There are also the tents of all travelers and searchers. Even to the Khan's camps were summoned the finest of artists.
 
@@ -1030,9 +1030,9 @@ A little shepherd boy found 120 pounds of gold in Scythian objects, because he w
 
 many such sparks are glimmering! But often our eyes are dulled by laziness.
 
-The blessed Maitreya is always represented crowned by a wreath, in a great image. Three years ago, a gigantic image of Maitreya, bearer of the new age of universal Unity, was placed in Tashi-Lunpo, the monastery of the Tashi Lama. This idea has been invoked with the new approaching era of Tibetan chronology.
+The blessed Maitreya is always represented crowned by a wreath, in a great image. In Tashi-Lunpo, the monastery of the Tashi-Lama, three years ago there was placed a gigantic image of Maitreya, bearer of the new age of universal Unity. This idea has been invoked with the new approaching era of Tibetan chronology.
 
-During the service in the temples smoking Tibetan tea is passed around. Therein is the idea of the Grail in this filling of the vessels before the Blessed Image. One must never leave the vessel empty---this is contrary to the custom of the East. Then the gigantic trumpets are sounded, like the voices of storm and thunder, with their summons to the future. Backs adorned with their purple mantles are bent low, thinking of the future. And like a fiery field, under the image of the Dream of the World, one hundred and eight fires are glimmering.
+During the service in the temples smoking Tibetan tea is passed around. Therein is the idea of the grail in this filling of the vessels before the Blessed Image. One must never leave the vessel empty---this is contrary to the custom of the East. Then the gigantic trumpets are sounded, like the voices of storm and thunder, with their summons to the future. Backs adorned with their purple mantles are bent low, thinking of the future. And like a fiery field, under the image of the Dream of the World, one hundred and eight fires are glimmering.
 
 - - - - -
 
@@ -1058,7 +1058,7 @@ Of course, the teacher, Tsong-kha-pa, is still nearer. He rose beyond the confin
 
 - - - - -
 
-On New Year's Eve, February 4, after sunset, the fires in the monasteries upon the hill dart up. And the ringing gongs and the far-away drums reverberate. ... In the morning are held the dances.
+On New Year's Eve, February 4, after sunset, the fires in the monasteries upon the hill dart up. And the ringing gongs and the far-away drums reverberate. . . . In the morning are held the dances.
 
 - - - - -
 
@@ -1082,7 +1082,7 @@ But then there is summoned forth a saint in the vestments of a lama. He is adorn
 
 Fifteen years ago there died a remarkable lama who came from Mongolia. We saw his image---resembling the type of Russian ascetic. A powerful visage, unconquerably bold are the cheek bones; the eyes are piercing. "During the departure of this strong spirit, a rainbow shone over the monastery founded by him."
 
-The lama possessed rare books---and it is very difficult to obtain rare books. One must send a trusted person into remote districts. Remarkable books exist; there is the book of one Tashi Lama, concerning his visit to sacred Shambhala. There are collections of symbolic parables. There is a treatise on the transmigration of souls. They are not translated.
+The lama possessed rare books---and it is very difficult to obtain rare books. One must send a trusted person into remote districts. Remarkable books exist; there is the book of one Tashi-Lama, concerning his visit to sacred Shambhala. There are collections of symbolic parables. There is a treatise on the transmigration of souls. They are not translated.
 
 - - - - -
 
@@ -1090,7 +1090,7 @@ The teachings brought from Shambhala often find their way into the works of Euro
 
 - - - - -
 
-One more spark about Shambhala. A very well known Tashi Lama often fell into an ecstasy during his talks with his pupils. Sometimes he seemed to disappear altogether, being transported into the sanctuary, Shambhala. These ecstasies vividly transport one to the discourses of the time of Saint John de la Croix with Saint Theresa when both blessed conversationalists in exultation were raised to the ceiling of the room.
+One more spark about Shambhala. A very well known Tashi-Lama often fell into an ecstasy during his talks with his pupils. Sometimes he seemed to disappear altogether, being transported into the sanctuary, Shambhala. These ecstasies vividly transport one to the discourses of the time of Saint John de la Croix with Saint Theresa when both blessed conversationalists in exultation were raised to the ceiling of the room.
 
 - - - - -
 
@@ -1116,9 +1116,9 @@ From the mountain summit you plunge again into the receding hills. The ribs of t
 
 After the hills, again the fairy-tales of the forest. Green gnomes and monsters impede the way. The verdant webs intertwine. The snakes wind themselves around the trunks. The moss-like tigers and leopards here are lurking. An enchanted world this!
 
-The most fantastic hills and rocks form themselves into a seeming Sacred Chalice---a vast valley. In the center of the valley unapproachably stands the mountain of the *White Stone,* girded by two rivers. It is crowned by the Monastery Tashiding, which means "Valley open to heaven." An ancient place this. Try to search the endless wrinkles and cavities of its rocks. Try to unearth the treasures collected by the monastery---the miraculous stone, fulfillment of all wishes; the immortal Amritha and a hundred images of Buddha; as well as all the sacred books temporarily hidden; and all else spoken of in the ancient manuscript, "The Voyage through Sikhim."
+The most fantastic hills and rocks form themselves into a seeming Sacred Chalice---a vast valley. In the center of the valley unapproachably stands the mountain of the *White Stone,* girded by two rivers. It is crowned by the Monastery Tashi-ding, which means "Valley open to heaven." An ancient place this. Try to search the endless wrinkles and cavities of its rocks. Try to unearth the treasures collected by the monastery---the miraculous stone, fulfillment of all wishes; the immortal Amritha and a hundred images of Buddha; as well as all the sacred books temporarily hidden; and all else spoken of in the ancient manuscript, "The Voyage through Sikhim."
 
-The approaches to Tashiding are very difficult. Only recently have the impossible trails been transformed into steep footpaths. Verily, the path of the spirit must be traversed by human feet!
+The approaches to Tashi-ding are very difficult. Only recently have the impossible trails been transformed into steep footpaths. Verily, the path of the spirit must be traversed by human feet!
 
 One crossing on the suspended bamboo bridge is especially hazardous. Below, the mountain river rushes and roars, bearing down the icy current from Kinchenjunga. And above the bridge on the steep slope, you pause many times. Shall I at last arrive? One must hold one's breath to conquer this age-old mountain.
 
@@ -1128,11 +1128,11 @@ Upon the upper slope an honorary reception is arranged for us by the land owners
 
 The reception of the monastery. On the last slope we are met by the pipers and trumpeters.
 
-Amidst the rows of a colorful crowd you reach the ancient place. Behind the gates of the monastery, the lamas receive you in purple garments. In the front row a venerable old man, head lama of the monastery, stands like a delicately carved image of the fifteenth century. Thus you walk up to the spreading turquoise tents in the midst of a forest of stupas and amidst many-colored banners, amidst the sparkling rows of fires.
+Amidst the rows of a colorful crowd you reach the ancient place. Behind the gates of the monastery, in purple garments, the lamas receive you. In the front row a venerable old man, head lama of the monastery, stands like a delicately carved image of the fifteenth century. Thus you walk up to the spreading turquoise tents in the midst of a forest of stupas and amidst many-colored banners, amidst the sparkling rows of fires.
 
 - - - - -
 
-In the first full moon after New Year, which fell this year on the twentieth of February, there was the annual festival in Tashiding. The miracle of the self-filling chalice occurs at the time.
+In the first full moon after New Year, which fell this year on the twentieth of February, there was the annual festival in Tashi-ding. The miracle of the self-filling chalice occurs at the time.
 
 Since ancient days---more than eight generations ago---this miracle has been ordained. From a designated spot in the mountain river a small vessel of water is drawn and poured into an ancient wooden chalice. In the presence of witnesses, representatives of the Maharajah of Sikhim, the chalice is closed and hermetically sealed. A year later at sunrise during the same full moon, the chalice is unsealed amidst due ceremony and the quantity of water is measured. Sometimes the water has diminished but sometimes it has increased considerably. In the year of the great war the water tripled in quantity, which meant war. Now the water has diminished by half, which means famine and disorder.
 
@@ -1144,7 +1144,7 @@ The trumpets sound, the whistles shriek, the people in costumes, as though from 
 
 <a id="53">**53 SIKHIM**</a>
 
-Many prostrate themselves. The drums of the lamas resoundingly thunder. At this moment darkness falls athwart the clear moonlight! The golden fires of offerings gleam out as though against black velvet. A complete eclipse occurs! The demon Rakhu has stolen the moon! Never was it so until this day of miracle in Tashiding.
+Many prostrate themselves. The drums of the lamas resoundingly thunder. At this moment darkness falls athwart the clear moonlight! The golden fires of offerings gleam out as though against black velvet. A complete eclipse occurs! The demon Rakhu has stolen the moon! Never was it so until this day of miracle in Tashi-ding.
 
 Said Asura Rakhu to the sun: "Because thou hast carried away Razayana by deceit, I shall swallow thee, god of sun, at that time when, on the thirtieth day, you will unite the knots of the orbit!" And further Rakhu pronounced a prophetic threat: "In penalty that thou, moon, although recognizing me, commanded that I be cut asunder, I shall seize thee and devour thee on the date of the fifteenth, during the time of the full moon!" And attentively the people are watching the eclipse of the moon and sun and beat upon the drums and threaten Rakhu.
 
@@ -1210,15 +1210,15 @@ At sunset, within the tent, the head lama quietly speaks of the sanctuaries of S
 
 \* \* \*
 
-Tashiding is one of Sikhim's prominent sites and belongs to the parish of a great monastery, Pemayangtse, and is a day's travel away. It is also on the peak, standing like a bulwark. It has been newly rebuilt. Its renovation has been done with such sensitiveness that even the most recent painting gives you joy by its fine and ingenious decoration. And the carvings on
+Tashi-ding is one of Sikhim's prominent sites and belongs to the parish of a great monastery, Pemayangtse, and is a day's travel away. It is also on the peak, standing like a bulwark. It has been newly rebuilt. Its renovation has been done with such sensitiveness that even the most recent painting gives you joy by its fine and ingenious decoration. And the carvings on
 
 <a id="57">**57 SIKHIM**</a>
 
-the casements are fairylike. And the tall heavy doorways lead you into the wooden temples of Russia. Dignified are the head lamas with their festive purple garments and with their impressive red tiaras adorning their heads. Nevertheless one recalls with most pleasure the eighty-year-old abbot of Tashiding, ever zealous and careful to improve his structure, with his economical eye penetrating everywhere.
+the casements are fairylike. And the tall heavy doorways lead you into the wooden temples of Russia. Dignified are the head lamas with their festive purple garments and with their impressive red tiaras adorning their heads. Nevertheless one recalls with most pleasure the eighty-year-old abbot of Tashi-ding, ever zealous and careful to improve his structure, with his economical eye penetrating everywhere.
 
 - - - - -
 
-Behind the gates of Pemayangtse three-hundred-year-old ancient trees are standing as guardians---like the fairy forest of Berendey. A tiny street of the lamas' homes is like the suburb of Berendey, painted and ornamented with its many-colored porches and stairways.
+Behind the gates of Pemayangtse are standing as guardians three-hundred-year-old ancient trees---like the fairy forest of Berendey. A tiny street of the lamas' homes is like the suburb of Berendey, painted and ornamented with its many-colored porches and stairways.
 
 - - - - -
 
@@ -1298,7 +1298,7 @@ powers should perform the services over her. But such a lama could not be found.
 
 - - - - -
 
-The people here know everything; they have heard everything. One can remember and disclose all things in the twilight: of "Nam-Yg" (heavenly letters)---the letters and sacred books which are falling from heaven; of rings of silver or turquoise which change their color as a sign of foreboding and warning; of *Si*, the stone bead, sent from heaven to guard the health; of the finding of objects which disappear afterward. All this is known.
+The people here know everything; they have heard everything. One can remember and disclose all things in the twilight: of "Nam-Yg" (heavenly letters)---the letters and sacred books which are falling from heaven; of rings of silver or turquoise which change their color as a sign of foreboding and warning; of Si, the stone bead, sent from heaven to guard the health; of the finding of objects which disappear afterward. All this is known.
 
 - - - - -
 
@@ -1316,7 +1316,7 @@ In the twilight under the flowing stars, in the purple sheen of the mist, sounds
 
 - - - - -
 
-The tale is taken from an ancient Tibetan book, wherein, under symbolic names, are given the future movements of the Dalai Lama and Tashi Lama, which have already been fulfilled. There are described the special physical marks of rulers under whom the country shall fall during the reign of the monkeys. But afterwards shall the rule be regained and then will come Someone of greatness. His coming is calculated in twelve years---which will be in 1936.
+The tale is taken from an ancient Tibetan book, wherein, under symbolic names, are given the future movements of the Dalai-Lama and Tashi-Lama, which have already been fulfilled. There are described the special physical marks of rulers under whom the country shall fall during the reign of the monkeys. But afterwards shall the rule be regained and then will come Someone of greatness. His coming is calculated in twelve years---which will be in 1936.
 
 - - - - -
 
@@ -1326,13 +1326,13 @@ One Tibetan ruler married Chinese and Nepal princesses in order that through the
 
 - - - - -
 
-Twelve hundred years after Buddha, the teacher Padma Sambhava brought the teachings of the Blessed
+Twelve hundred years after Buddha, the teacher Padma Sambhava brought closer to men the teachings of the Blessed
 
 <a id="63">**63 SIKHIM**</a>
 
-One closer to men. At the birth of Padma Sambhava all the skies were aglow and the shepherds saw miraculous tokens. The eight-year-old Teacher was manifested to the world in the Lotus flower. Padma Sambhava did not die but departed to teach new countries. Had he not done so the world would be threatened with disaster.
+One. At the birth of Padma Sambhava all the skies were aglow and the shepherds saw miraculous tokens. The eight-year-old Teacher was manifested to the world in the Lotus flower. Padma Sambhava did not die but departed to teach new countries. Had he not done so the world would be threatened with disaster.
 
-In the cave Kandro Sampo, not far from Tashiding, near a certain hot spring, dwelt Padma Sambhava himself. A certain giant, thinking to penetrate across to Tibet, attempted to build a passage into the Sacred Land. The Blessed Teacher rose up and growing great in height struck the bold venturer. Thus was the giant destroyed. And now in the cave is the image of Padma Sambhava and behind it is a stone door. It is known that behind this door the Teacher hid sacred mysteries for the future. But the dates for their revelation have not yet come.
+In the cave Kandro Sampo, not far from Tashi-ding, near a certain hot spring, dwelt Padma Sambhava himself. A certain giant, thinking to penetrate across to Tibet, attempted to build a passage into the Sacred Land. The Blessed Teacher rose up and growing great in height struck the bold venturer. Thus was the giant destroyed. And now in the cave is the image of Padma Sambhava and behind it is a stone door. It is known that behind this door the Teacher hid sacred mysteries for the future. But the dates for their revelation have not yet come.
 
 - - - - -
 

@@ -98,16 +98,16 @@ XDrip+ устанавливается из [последней ночной сб
 * Переключаем XDrip+ на получение данных через Libre (patched App).
 * Устанавливаем Juggluco 10.3.11 ([официальный сайт](https://www.juggluco.nl/Juggluco/index.html), [все версии](https://drive.google.com/drive/folders/1qysiLYb2e93WBMjC9MYCqEdW-gGDUb2n), скачать 10.3.11)
 
-Следующий сенсор:
+Действия при установке следующего сенсора:
 
-* устанавливаем новый сенсор
-* отбираем у XDrip+ разрешения: Nearby devices: Allow -> Don't allow
-* отбираем у Juggluco разрешения: Nearby devices: Allow -> Don't allow
-* выгружаем приложения из памяти
-* возвращаем право Nearby devices: Allow Free Style Libre 2
+* Устанавливаем новый сенсор
+* Отбираем у XDrip+ разрешения: Nearby devices: Allow -> Don't allow
+* Отбираем у Juggluco разрешения: Nearby devices: Allow -> Don't allow
+* Выгружаем оба приложения из памяти
+* Возвращаем право Nearby devices: Allow Free Style Libre 2
 * Сканируем сенсор, должно выдаться сообщение о том, что сенсор новый, жмем New
 * Сканируем еще раз сенсор, активируем, ждем 60 минут, должны пойти значения.
-* отбираем у Free Style Libre 2 разрешения: Nearby devices: Allow -> Don't allow, лучше так же отключить Уведомления.
+* Отбираем у Free Style Libre 2 разрешения: Nearby devices: Allow -> Don't allow, лучше так же отключить Уведомления.
 * Возвращаем XDrip+ и Juggluco разрешения: Nearby devices: Don't allow -> Allow
 * Сканируем Juggluco сенсор, подтверждаем, разрешаем добавить в календарь.
 * В Juggluco проверяем, что в Sensor выбран новый сенсор. Ждем пока пойдут значения.
