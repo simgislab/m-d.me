@@ -32,10 +32,13 @@ Edited text was used as a base and a number of changes was introduced to return 
 * Publisher's note returned.
 * Page numbers from original edition returned.
 * Page footnotes returned.
-* Clickable [Contents](#ix) added.
-* Clickable [list of illustrations](#xi) added.
+* Illustrations returned.
 * Text formatting returned to normal (copyable)
 * Removed doubling of pp. 74 and 75
+* Fixed typos
+* Text returned to 1929 editing where noted (this might need more work).
+* Clickable [Contents](#ix) added.
+* Clickable [list of illustrations](#xi) added.
 
 ## Book contents
 
@@ -835,7 +838,7 @@ According to the legend, Buddha's initiation was performed in the presence of th
 
 - - - - -
 
-Wise intercourses---one sees clearer from above. Instead of petty quarrels of denunciation, history recalls to us truly international ties. It is pointed out as a historical fact that a Mongolian Bogdo-Khan was saved from illness by the "appearance of Nicholas." This is averred by the Mongolian Khutukhtus, whose knowledge is considered very high. All is full of signs, only do not overlook them, Observe keenly and joyously, and flexibly.
+Wise intercourses---one sees clearer from above. Instead of petty quarrels of denunciation, history recalls to us truly international ties. It is pointed out as a historical fact that a Mongolian Bogdo-Khan was saved from illness by the "appearance of Nicholas." This is averred by the Mongolian Khutukhtus, whose knowledge is considered very high. All is full of signs, only do not overlook them. Observe keenly and joyously, and flexibly.
 
 <a id="36">**36 ALTAI-HIMALAYA**</a>
 
@@ -921,7 +924,7 @@ the One Image---the One common Will toward happiness and joy, to the unity of co
 
 Should we not reflect why all Covenants tell of the same active beginning? Why is the manifestation of phenomena always accompanied not only by the same unexplainable words, but always by a vivid action of spirit? The writings say, "He revolted." And without the wondrous "uprising," without this invisible action, nothing is decisive. He realized and became enlightened; became filled with invincible courage!
 
-The formulas themselves often astonish by their universality. In them are united the summons of the mysteries with the prayers of the most unexpected cults separated by whole epochs and whole continents. The language of the Mother of the World is the same for all cradles.
+The formulæ themselves often astonish by their universality. In them are united the summons of the mysteries with the prayers of the most unexpected cults separated by whole epochs and whole continents. The language of the Mother of the World is the same for all cradles.
 
 - - - - -
 
@@ -939,7 +942,7 @@ Principally let us have less of ignorant denials.
 
 - - - - -
 
-With difficulty one succeeds in getting plants which nurture the musk-deer. But how to bring this mountain pine to the laboratory? Below the altitude of six thousand feet, the plants perish.
+With difficulty one succeeds in getting plants which nurture the musk-deer. But how to bring this mountain pine to the laboratory? Below the altitude of 6,000 feet, the plants perish.
 
 - - - - -
 
@@ -955,7 +958,7 @@ The wisdom of the Shamans designates them for worship. Nor did Job accidentally 
 
 <a id="42">**42 ALTAI-HIMALAYA**</a>
 
-this very important item: "The Emperor Baber near the beginning of his memoirs says: 'On the outskirts of Barakoh is a mosque called the Jawza Madjid. The real meaning of the word is House of Orion. Jawza is a name of Orion.' " With what ancient cult was the mosque pointed out by Baber identified? It is now most likely effaced by the sands of the great desert. Thus we see how unceasingly does Orion attract the eye of men. Again are the astronomic bulletins telling of the inexplicable pink rays, which have suddenly flashed from this constellation. The constellation of Orion contains the signs of the "Three Magi." The significance of Orion, too, in ancient teaching was compared to the significance of Atlas, supporting the weight of the world. Verily, the Star of the East!
+this very important item: "The Emperor Baber near the beginning of his memoirs says: 'On the outskirts of Barakoh is a mosque called the Jawza Madjid. The real meaning of the word is House of Orion. Jawza is a name of Orion.'" With what ancient cult was the mosque pointed out by Baber identified? It is now most likely effaced by the sands of the great desert. Thus we see how unceasingly does Orion attract the eye of men. Again are the astronomic bulletins telling of the inexplicable pink rays, which have suddenly flashed from this constellation. The constellation of Orion contains the signs of the "Three Magi." The significance of Orion, too, in ancient teaching was compared to the significance of Atlas, supporting the weight of the world. Verily, the Star of the East!
 
 Only in the East do you feel the vital sense of astrology and astro-chemistry in its scientific import. The observatories in Jaipur and in Delhi overwhelm one with their fantastic conviction.
 
