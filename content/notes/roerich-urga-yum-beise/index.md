@@ -21,7 +21,7 @@ fediverse: "@username@instance.url"
 Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
 
 * [Исходный текст главы с разметкой](https://docs.google.com/document/d/1arZXVq8gQjrmLlj_Vr6YowHrQPEmkCQiG4w3HDNJOBc/edit?usp=sharing) with markdown.
-* [Таблица всех упомянутых топонимови остановок по маршруту](https://docs.google.com/spreadsheets/d/1HRkxe5X4apHbGUHao5XHEagEOJdsssXXDdNZoi6s-QM/edit?usp=sharing).
+* [Таблица всех упомянутых топонимов и остановок по маршруту](https://docs.google.com/spreadsheets/d/1HRkxe5X4apHbGUHao5XHEagEOJdsssXXDdNZoi6s-QM/edit?usp=sharing).
 
 ## Существующие карты
 

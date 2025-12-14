@@ -39,6 +39,21 @@ fediverse: "@username@instance.url"
 * Ссылка: Хождение в Тибет калмыцкого бакши Пурдаш Джунгруева. Часть 1. Путь в Тибет. Пер. А. Д. Руднева. Редакция перевода, предисловие и примечания А. Г. Сазыкина. // Филологические исследования старописьменных памятников. Элиста, 1987. С. 125-144.
 * [Скачать](https://drive.google.com/file/d/1j6UKq8ENlMSDJrcxNBC_1S91dmnY0CHX/view?usp=sharing)
 
+## Цыбиков, Гомбожаб Цэбекович
+
+* Путешествие Урга-Лхаса: 25 ноября 1899 - 29 июля 1900
+* Основной труд: Буддист-паломник у святынь Тибета
+* Ссылка: Цыбиков Г.Ц, 1991. Избранные труды в двух томах. 2-е изд. перераб. Т.1: Буддист-паломник у святынь Тибета. Новосибирск: Наука.
+* [Скачать](https://drive.google.com/file/d/1Ng7bEMga4nb931z85dXdFmwm14XcMbpk/view?usp=sharing)
+
+## Рерихи, Николай Константинович и Юрий Николаевич
+
+* Путешествие Урга-Дарджилинг: 13 апреля 1927 - 26 мая 1928
+* Основной труд: Trails to Inmost Asia
+* Ссылка: Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
+* [Прочитать Trails to Inmost Asia](/notes/roerich-trails-to-asia-en/)
+* [Прочитать Altai-Himalaya: A Travel Diary](/notes/roerich-altai-himalaya/)
+
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo/57)

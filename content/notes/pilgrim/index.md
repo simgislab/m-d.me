@@ -65,6 +65,7 @@ English version of this list is [available](/notes/pilgrim-en/).
 ## Рерих
 
 * [Roerich. Trails to Inmost Asia](/notes/roerich-trails-to-asia-en/)
+* [Roerich. Altai-Himalaya: A Travel Diary](/notes/roerich-altai-himalaya/)
 * [Spatial data on Roerich's expedition](/notes/roerich-cae-data/)
 * [Roerich's CAE website scandal](/notes/roerich-cae-scandal/)
 * [Рерих. Реконструкция маршрута из Урги в Юм-бейсе](/notes/roerich-urga-yum-beise/)

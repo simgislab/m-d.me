@@ -629,7 +629,7 @@ In sudden support of fundamental Buddhism, the realist of realists, Huxley says,
 
 Two beautiful characterizations of Buddhism: "As a lion unfrightened by noises. As a wind, not to be captured by a net. As a lotus leaf impervious to water. As a rhinoceros treading in solitude!"---"The study and manifestation of energy in all its forms. Energy of armament. Energy of application in action. Energy of dissatisfaction giving birth to the eternal striving which brings man into the cosmic rhythm." So said Asanga.
 
-Where, then, is the inactive pessimism? Where is the philosophy of despair, as Buddhism is sometimes called by persons of small comprehension. How many books have been written under the false romanticism of the nineteenth century? How many scientists, not versed in the languages, have fed their minds with these vague sour conclusions? But at last we now have a different Buddha---with a sword, with leonine daring, armed with all energies amidst universal activity, in cosmic aspiration.
+Where, then, is the inactive pessimism? Where is the philosophy of despair, as Buddhism is sometimes called by persons of small comprehension. How many books have been written under the false romanticism of the nineteenth century? How many scientists, not versed in the languages, have fed their minds with these vague sour conclusions? But at last we now have a different Buddha---with a sword, with leonine daring, armed with all energies, within the universal structure, cosmic in striving.
 
 <a id="21">**21 INDIA**</a>
 
@@ -657,7 +657,7 @@ Hindus regard objects of art with fine understanding. From a Hindu, you naturall
 
 <a id="23">**23 INDIA**</a>
 
-In the epic designs of India all can be coordinated. If in the crowd, your next neighbor should be a skeleton, pale with leprosy, you are not frightened. Next to you will lean a Sadhu, colored with blue stripes and with a head-dress made of cow dung. You are not surprised. A Fakir with toothless cobras will cheat you. You are smiling. The chariot of Jagernath crushes the crowd---you are not astonished. There is a procession of fearful Nagis of Rajputana with blades like curved fangs. You are calm. And where are those for whose sake you have come to India? They do not sit in the bazaars and they do not walk in processions. And you will not enter their dwellings without their consent. But do they really exist? Are not leisurely authors writing about them only for the sake of being unique? Yes, they do exist. Their knowledge and their skill do exist. And in this sharpening of human qualities is being exalted all human substance. And no leprosy will turn you away from India.
+In the epic designs of India all can be coördinated. If in the crowd, your next neighbor should be a skeleton, pale with leprosy, you are not frightened. Next to you will lean a Sadhu, colored with blue stripes and with a head-dress made of cow dung. You are not surprised. A Fakir with toothless cobras will cheat you. You are smiling. The chariot of Jagernath crushes the crowd---you are not astonished. There is a procession of fearful Nagis of Rajputana with blades like curved fangs. You are calm. And where are those for whose sake you have come to India? They do not sit in the bazaars and they do not walk in processions. And you will not enter their dwellings without their consent. But do they really exist? Are not leisurely authors writing about them only for the sake of being unique? Yes, they do exist. Their knowledge and their skill do exist. And in this sharpening of human qualities is being exalted all human substance. And no leprosy will turn you away from India.
 
 - - - - -
 
@@ -677,7 +677,7 @@ Attraction by thought is astonishing. The desire was expressed to have an old Ti
 
 "But how did you know of our desire to have a Buddha?
 
-"The White Tara came in a dream and told me to bring to you."
+"The White Tara came in a dream and told me to bring it to you."
 
 And so it happens.
 
@@ -811,7 +811,7 @@ David and Solomon also glorify the strivings of labor. The Vedanta extols the ma
 
 - - - - -
 
-Are the symbols of the Hindu Trimurti alien to the Trinity? Does the Buddhist *Tree of Wishes*, hung with the objects of all desires, not respond to our conception of the Christmas Tree? What of the details of the arrangement of the temple altars? What of the ascetics and hermits, who buried themselves in their stone coffins? What of the image-lamps and the fires of conjurations; the wreaths and candles of heartfelt prayer, flung upon the bosom of the Ganges? And the birch of Trinity, the musk and incense? And the wrought gem-bedecked vestments? And the stones, thrown at Buddha by his close relative, are they not the same as the stones hurled at Stephen? Verily, not by accident have Buddhist legends been carved upon the frescoes of the Campo Santo in Pisa. Profound in its significance too is the Moslem legend telling of the visitation of the mother of Jesus to the mother of Mohammed before the birth of the Prophet. And Ladakian castles are towering, in the very same flight, as the eagles' nests of Faienza or Montefalcone.
+Are the symbols of the Hindu Trimurti alien to the Trinity? Does the Buddhist Tree of Wishes, hung with the objects of all desires, not respond to our conception of the Christmas Tree? What of the details of the arrangement of the temple altars? What of the ascetics and hermits, who buried themselves in their stone coffins? What of the image-lamps and the fires of conjurations; the wreaths and candles of heartfelt prayer, flung upon the bosom of the Ganges? And the birch of Trinity, the musk and incense? And the wrought gem-bedecked vestments? And the stones, thrown at Buddha by his close relative, are they not the same as the stones hurled at Stephen? Verily, not by accident have Buddhist legends been carved upon the frescoes of the Campo Santo in Pisa. Profound in its significance too is the Moslem legend telling of the visitation of the mother of Jesus to the mother of Mohammed before the birth of the Prophet. And Ladakian castles are towering, in the very same flight, as the eagles' nests of Faienza or Montefalcone.
 
 - - - - -
 
