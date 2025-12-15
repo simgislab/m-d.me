@@ -1368,7 +1368,7 @@ That which is hidden in the past is not of importance---that which in age-old bo
 
 - - - - -
 
-Under Kinchenjunga are secreted the caves in which the treasures are resting. In stone coffins the cave dwellers are praying, torturing themselves in the name of the future. But the sun already has defined the future; not in secret caves but in full sunlight one perceives the worship and expectation of Maitreya-
+Under Kinchenjunga are secreted the caves in which are resting the treasures. In stone coffins the cave dwellers are praying, torturing themselves in the name of the future. But the sun already has defined the future; not in secret caves but in full sunlight one perceives the worship and expectation of Maitreya-
 
 <a id="66">**66 ALTAI-HIMALAYA**</a>
 
@@ -1390,7 +1390,7 @@ Just now the wave of attention is turned toward Tibet---behind the mountain ramp
 
 Sikhim is called the land of lightning. Of course, lightning also occurs here but is it not simpler to call it "the land of future steps"? For it would be difficult to imagine a better threshold to the mysteries of the future than this unexplored, rarely penetrated country of rocks and flowers.
 
-As behind a tiny silver apple on a saucer, do the hills and steps of the Himalayas reveal themselves. Hundreds, perhaps more, are the monasteries in Sikhim, each crowning the top of a summit. A small temple in Chakong; a big suburgan and monastery in Rinchenpong. Upon the next mountain appears gleaming white Pemayangtse, still higher, Sanga Chöling. Tashiding is almost unseen. On the other side of the valley is Daling and opposite Robling and still nearer Namtse. For a distance
+As behind a tiny silver apple on a saucer, do the hills and steps of the Himalayas reveal themselves. Hundreds, perhaps more, are the monasteries in Sikhim, each crowning the top of a summit. A small temple in Chakong; a big suburgan and monastery in Rinchenpong. Upon the next mountain appears gleaming white Pemayangtse, still higher, Sanga Chöling. Tashi-ding is almost unseen. On the other side of the valley is Daling and opposite Robling and still nearer Namtse. For a distance
 
 <a id="67">**67 SIKHIM**</a>
 
@@ -1406,7 +1406,7 @@ Someone voluntarily approached and touched our tent! Who is this man, with his l
 
 And so, in the corner of the white gallery the ingenious, many-colored image is being conceived. And each symbol upon it more clearly defines the Blessed One. Here is the frightful birdlike Garuda and wise Magi and Ganeshi, elephant of happiness,
 
-\* Mutazar---the Messiah now awaited by the Muhammedans.
+\* Muntazar---the Messiah now awaited by the Mohammedans.
 
 <a id="68">**68 ALTAI-HIMALAYA**</a>
 
@@ -1638,9 +1638,7 @@ The qualities of Buddha are as follows: Sakya Muni---the wise one of the clan of
 
 <a id="84">**84 ALTAI-HIMALAYA**</a>
 
-Thus spoke Buddha to the zealots and hypocrites: "Your rules are degraded and ridiculous. One among you walks naked; another will not begin to eat from a pitcher or platter, or refuses to sit at the table between two companions or two dishes. Another will not accept alms from the house where a pregnant woman lives or where he encounters a dog. Some will not eat from two vessels and at the seventh gulp refrain from eating. One will not sit upon a bench or mat. One lies naked upon thorned plants or upon cow's dung.
-
-What do you expect, voluntary workers, for your 'hard' labors? You await alms and respect from the laity---and when you achieve this reward, you become deeply wedded to the comforts of the temporary life and do not desire to renounce them. When you see visitors approaching from a distance you immediately assume the appearance of having been discovered in profound meditation. When you are offered coarser victuals you hand them on to others, keeping for yourself all the dainty morsels. You succumb to vices and passion; you assume the mask of modesty. Not such, is the true asceticism."
+Thus spoke Buddha to the zealots and hypocrites: "Your rules are degraded and ridiculous. One among you walks naked; another will not begin to eat from a pitcher or platter, or refuses to sit at the table between two companions or two dishes. Another will not accept alms from the house where a pregnant woman lives or where he encounters a dog. Some will not eat from two vessels and at the seventh gulp refrain from eating. One will not sit upon a bench or mat. One lies naked upon thorned plants or upon cow's dung. What do you expect, voluntary workers, for your 'hard' labors? You await alms and respect from the laity---and when you achieve this reward, you become deeply wedded to the comforts of the temporary life and do not desire to renounce them. When you see visitors approaching from a distance you immediately assume the appearance of having been discovered in profound meditation. When you are offered coarser victuals you hand them on to others, keeping for yourself all the dainty morsels. You succumb to vices and passion; you assume the mask of modesty. Not such, is the true asceticism."
 
 - - - - -
 
@@ -1652,7 +1650,7 @@ His was the task to live for eighty years constantly teaching; to see how under 
 
 <a id="85">**85 LADAK**</a>
 
-realize how many rulers and priests accepted the teachings only out of self-interested motive; to foresee the shells of a new conventionality already prepared. ... .
+realize how many rulers and priests accepted the teachings only out of self-interested motive; to foresee the shells of a new conventionality already prepared. . . .
 
 He who contained within himself the understanding of the uselessness of power, exclaimed: "Go, oh beggars, carry salvation and benevolence to the people." In the one word, "beggars," is contained his complete gospel. The time has come when from out the gilding of the idol there stands forth the image of Buddha, the great teacher, who preaches against killing, against intoxication and excesses. This powerful image appears, summoning men to a revaluation of values, to labor and to achievement.
 
@@ -1682,7 +1680,7 @@ In the conception of the evolution of humanity, the figure of Buddha, the Enligh
 
 Buddha had to hear bodily the tremor of destruction of his native city, Kapilavastu. Confucius had to tread the path of exile from place to place. And his cart in which he wandered is placed in a Temple together with his works and musical instruments. It is not to be wondered at, because at the base of the teachings of Confucius lies the same idea of coöperation. Let us remember his teachings: "When the hearts of mortals shall be kindled by love, then the whole world will be as one family. All men will in themselves be one man, and all things, by virtue of the astonishing mutual order and union, will appear as one and the same element." . . . "Hypocrisy is the most hateful vice." . . . "He who only covers himself by the semblance of virtue resembles an evil-doer who in the daytime appears as an honest man and at night busies himself with stealing the goods of his neighbor." . . .
 
-"Beware of those who make themselves the exponents of virtue rather than its followers. Be not deceived by their scientific arguments. For although they may be understood as the expression of the soul's convictions, they are nevertheless only the fruits of a corrupt mind and the intellectually corroded impulses of the heart. Those who discourse with apparent sensitiveness on humility, on general well-being, are not always examples of those virtues." . .
+"Beware of those who make themselves the exponents of virtue rather than its followers. Be not deceived by their scientific arguments. For although they may be understood as the expression of the soul's convictions, they are nevertheless only the fruits of a corrupt mind and the intellectually corroded impulses of the heart. Those who discourse with apparent sensitiveness on humility, on general well-being, are not always examples of those virtues." . . .
 
 "Temperance, simplicity in attire, propriety, the pursuit of science and art, aversion to flatterers, love of the humble, lack of greed, prudence, steadfastness, righteousness, goodness, are the prescribed virtues." . . .
 
@@ -1774,7 +1772,7 @@ It is related that, "He passed his time in several ancient cities of India such 
 
 "Afterward, Issa went into Nepal and into the Himalaya mountains." . . .
 
-" 'Well, perform for us a miracle,' demanded the servitors of the Temple. Then Issa replied to them: 'Miracles made their appearance from the very day when the world was created. He who cannot behold them is deprived of the greatest gift of life. But woe to you, enemies of men, woe unto you, if you await that He should attest his power by miracle.'"
+"'Well, perform for us a miracle,' demanded the servitors of the Temple. Then Issa replied to them: 'Miracles made their appearance from the very day when the world was created. He who cannot behold them is deprived of the greatest gift of life. But woe to you, enemies of men, woe unto you, if you await that He should attest his power by miracle.'"
 
 "Issa taught that men should not strive to behold the Eternal Spirit with one's own eyes but to feel it with the heart, and to become a pure and worthy soul." . . . "Not only shall you not make human offerings, but you must not slaughter animals, because all is given for the use of man. Do not steal the goods of others, because that would be usurpation from your near one. Do not cheat, that you may in turn not be cheated." Issa said: "Beware, ye, who divert men from the true path and who fill the people with superstitions and prejudices, who blind the vision of the seeing ones, and who preach subservience to material things."
 
@@ -1788,13 +1786,13 @@ The legends continue thus: "Then Pilate, ruler of Jerusalem, gave orders to lay 
 
 "But Issa taught: 'Do not seek straight paths in darkness, possessed by fear. But gather force and support each other. He who supports his neighbor strengthens himself.
 
-" 'I tried to revive the laws of Moses in the hearts of the people. And I say unto you that you do not understand their true meaning because they do not teach revenge but forgiveness. But the meaning of these laws is distorted.' "
+"'I tried to revive the laws of Moses in the hearts of the people. And I say unto you that you do not understand their true meaning because they do not teach revenge but forgiveness. But the meaning of these laws is distorted.'"
 
 "Then the ruler sent to Issa his disguised servants that they should watch his actions and report to him about his words to the people."
 
-" 'Thou just man,' said the disguised servant of the ruler of Jerusalem approaching Issa, 'Teach us, should we fulfill the will of Caesar or await the approaching deliverance?'
+"'Thou just man,' said the disguised servant of the ruler of Jerusalem approaching Issa, 'Teach us, should we fulfill the will of Cæsar or await the approaching deliverance?'
 
-"But Issa, recognizing the disguised servants, said, 'I did not foretell unto you that you would be delivered from Cæsar; but I said that the soul which was immersed in sin would be delivered from sin.' "
+"But Issa, recognizing the disguised servants, said, 'I did not foretell unto you that you would be delivered from Cæsar; but I said that the soul which was immersed in sin would be delivered from sin.'"
 
 "At this time, an old woman approached the crowd, but was pushed back. Then Issa said, 'Reverence Woman, mother of the universe; in her lies the truth of creation. She is the foundation of all that is good and beautiful. She is the source of life and death. Upon her depends the existence of man, because she is the sustenance of his labors. She gives birth to you in travail, she watches over your growth. Bless her. Honor her. Defend her. Love your wives and honor them, because tomorrow they shall be mothers, and later---progenitors of a whole race. Their
 
@@ -1802,13 +1800,13 @@ The legends continue thus: "Then Pilate, ruler of Jerusalem, gave orders to lay 
 
 love ennobles man, soothes the embittered heart and tames the beast. Wife and mother---they are the adornments of the universe.'
 
-" 'As light divides itself from darkness, so does woman possess the gift to divide in man good intent from the thought of evil. Your best thoughts must belong to woman. Gather from them your moral strength, which you must possess to sustain your near ones. Do not humiliate her, for therein you will humiliate yourselves. And all which you will do to mother, to wife, to widow or to another woman in sorrow---that shall you also do for the Spirit.'
+"'As light divides itself from darkness, so does woman possess the gift to divide in man good intent from the thought of evil. Your best thoughts must belong to woman. Gather from them your moral strength, which you must possess to sustain your near ones. Do not humiliate her, for therein you will humiliate yourselves. And all which you will do to mother, to wife, to widow or to another woman in sorrow---that shall you also do for the Spirit.'
 
 "So taught Issa; but the ruler Pilate ordered one of his servants to make accusation against him.
 
 "Said Issa: 'Not far hence is the time when by the Highest Will the people will become purified and united into one family.'
 
-"And then turning to the ruler, he said 'Why demean thy dignity and teach thy subordinates to live in deceit when even without this thou couldst also have had the means of accusing an innocent one?' "
+"And then turning to the ruler, he said 'Why demean thy dignity and teach thy subordinates to live in deceit when even without this thou couldst also have had the means of accusing an innocent one?'"
 
 Thus the legends of Asia weave such an image of Jesus, so ennobled and near to all nations. And Asia preserves in its mountains such legends. And it is not astonishing that the teachings of Jesus and Buddha are leading all nations into one family. But beautiful it is, that the light-giving idea of unity is expressed so clearly. And who shall be opposed to this idea? Who will lessen the simplest and most beautiful decision of life? And the earthly Unity is so easily and scientifically merging into the great Unity of all worlds. The commandments of Jesus and of Buddha lie upon one shelf. And the signs of ancient Sanskrit and of Pali unite all aspirations.
 
@@ -1937,8 +1935,6 @@ What means their passing?
 Mongols are singing:
 
 He who has no possessions which he would gather with thoughts of gain; who has naught with which he would not have strength enough to part; who thinks firmly---he possesses the lasting and beautiful delight."
-
-Yes, the thought of Asia is strong. Under a turban, and a fez, and a tubeteika--- a resourceful mind and an ability richly applied.
 
 The ancient Chinese have preserved the beautiful hymn of the Mother of the Sun, calling her Ruler of the East!
 
