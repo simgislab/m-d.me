@@ -2048,9 +2048,7 @@ knowledge about Maitreya. This temple has been little noticed in descriptions.
 
 - - - - -
 
-Maitreya stands as the symbol of the future. But we also perceived the signs of the past. Upon the rocks are images of deer, of mountain goats with twisted horns, of horses.
-
-Where did we recall similar images? Why, on the stones of North America; upon Siberian rocks; the same technique, the same stylization, and the same reverence for animals. Few are the human images. We saw only one---an archer and several rows of people, perhaps representing a ritual. Through these images, America and Asia stretch hands to each other. On the wall of a semi-grotto where we paused for rest, the hands of some unknown travelers had also left the figures of animals.
+Maitreya stands as the symbol of the future. But we also perceived the signs of the past. Upon the rocks are images of deer, of mountain goats with twisted horns, of horses. Where did we recall similar images? Why, on the stones of North America; upon Siberian rocks; the same technique, the same stylization, and the same reverence for animals. Few are the human images. We saw only one---an archer and several rows of people, perhaps representing a ritual. Through these images, America and Asia stretch hands to each other. On the wall of a semi-grotto where we paused for rest, the hands of some unknown travelers had also left the figures of animals.
 
 - - - - -
 
