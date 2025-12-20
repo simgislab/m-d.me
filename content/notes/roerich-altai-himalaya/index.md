@@ -2299,25 +2299,23 @@ We are talking with the lama about what happened to us near Darjeeling. It must 
 
 - - - - -
 
-The last flight of the Tashi Lama had a heroic character. Three hundred armed lamas accompanied the visionary refugee. Each of them, and the Tashi Lama himself, led an extra horse by the bridle, because the flight was hurried---and pursuit threat-
+The last flight of the Tashi-Lama had a heroic character. Three hundred armed lamas accompanied the visionary refugee. Each of them, and the Tashi-Lama himself, led an extra horse by the bridle, because the flight was hurried---and pursuit threat-
 
 <a id="117">**117 LAMAYURU-HEMIS**</a>
 
-ened them from all sides. A message was brought to them, just in time, that five hundred Lhasan horsemen were hastening to cut off escape on the Nagchu Pass. The Tashi Lama succeeded in turning to the side and escaping through a gorge. A snowstorm rose and the pursuit was cut off.
-
-So, full-armed, amidst an incessant galloping, an historic flight occurred---the fulfillment of the ancient prophecies, so important for the future, took place. According to an eyewitness, the monk-artist Gelong Champa Tashi, the Tashi Lama took with him from Tashi-lhunpo only the pictures of Shambhala. Out of them, on the way, he gave two to well-known Khutukhtas; and here in Ladak was Rinpoche, from the Chumbi, who told us that now the shortest way is only through Shambhala! In many monasteries the images of Maitreya are being raised and restored!
+ened them from all sides. A message was brought to them, just in time, that 500 Lhasan horsemen were hastening to cut off escape on the Nagchu Pass. The Tashi-Lama succeeded in turning to the side and escaping through a gorge. A snowstorm rose and the pursuit was cut off. So, full-armed, amidst an incessant galloping, an historic flight occurred---the fulfillment of the ancient prophecies, so important for the future, took place. According to an eyewitness, the monk-artist Gelong Champa Tashi, the Tashi-Lama took with him from Tashi-lhunpo only the pictures of Shambhala. Out of them, on the way, he gave two to well-known Khutukhtas; and here in Ladak was Rinpoche, from the Chumbi, who told us that now the shortest way is only through Shambhala! In many monasteries the images of Maitreya are being raised and restored!
 
 From hand to hand among the local inhabitants the prophecies and new commands are traveling. With excitement they are comparing the dates which have already been fulfilled. And they prepare and await, await, await. . . .
 
 Someone comes in the evening and whispers about a new manuscript of Shambhala. We ask him to bring it.
 
-One must be in these places to understand what occurs! One must look into the eyes of these coming ones, in order to realize how vitally important for them is the meaning of Shambhala. And the dates of events are not a curious oddity for them but are connected with the structures of the future. Though these structures are sometimes dust-ridden and perverted, their substance is vital and stirs the thought. Following the development of thought you realize the dreams and hopes. And out of these fragments has been pieced together the real departure of the Tashi Lama---an important one. The new web of the world!
+One must be in these places to understand what occurs! One must look into the eyes of these coming ones, in order to realize how vitally important for them is the meaning of Shambhala. And the dates of events are not a curious oddity for them but are connected with the structures of the future. Though these structures are sometimes dust-ridden and perverted, their substance is vital and stirs the thought. Following the development of thought you realize the dreams and hopes. And out of these fragments has been pieced together the real departure of the Tashi-Lama---an important one. The new web of the world!
 
-Three years before his departure, the Tashi Lama ordered that frescoes be painted on the walls of his inner chambers. In these
+Three years before his departure, the Tashi-Lama ordered that frescoes be painted on the walls of his inner chambers. In these
 
 <a id="118">**118 ALTAI-HIMALAYA**</a>
 
-frescoes in clear symbols are represented all the wanderings of the Tashi Lama through various countries.
+frescoes in clear symbols are represented all the wanderings of the Tashi-Lama through various countries.
 
 - - - - -
 
@@ -2343,9 +2341,7 @@ Egyptian? And why does one not see traces of Buddhism---of India? It is difficul
 
 The teachings of India were famed far and wide; let us even recall the description of the life of Appolonius of Tyana and his visits to Hindu sages.
 
-Another speaker reminds us that in Syria a slab was found with an inscribed governmental edict about the persecution of the followers of Jesus as enemies of the government. This archaeological find must be curious for those who deny the historicity of Jesus the Teacher. And how does one explain the tiny coins used by the early Christians in the catacombs? And the first catacombs themselves still exist.
-
-There are always those who love scornfully to deny when something difficult enters their consciousness; but then, knowledge is transformed into seminaristic scholasticism and slander is cultivated as a fine art. In what possible way could a recent forgery penetrate into the consciousness of the whole East? And where is the scientist who could write a long treatise in Pali and Tibetan? We do not know such an one.
+Another speaker reminds us that in Syria there was found a slab with an inscribed governmental edict about the persecution of the followers of Jesus as enemies of the government. This archæological find must be curious for those who deny the historicity of Jesus the Teacher. And how does one explain the tiny coins used by the early Christians in the catacombs? And the first catacombs themselves still exist. There are always those who love scornfully to deny when something difficult enters their consciousness; but then, knowledge is transformed into seminaristic scholasticism and slander is cultivated as a fine art. In what possible way could a recent forgery penetrate into the consciousness of the whole East? And where is the scientist who could write a long treatise in Pali and Tibetan? We do not know such an one.
 
 - - - - -
 
@@ -2575,9 +2571,7 @@ Sasser davan met us in every way most severely. Before dawn a pricking *purga* h
 
 along an Arctic ridge. Finally, to our astonishment, we see grazing camels. They travel as far as the northern foot of Sasser, and there take over the loads which were transported by horses and yaks through the Sasser. Some of our Ladakis going through the passes for the first time, never have seen camels and timidly they go around these long-bodied curiosities. The horses are snorting. My hostler, Gurban, looks back, and shaking his fist, threateningly repeats: "Sasseri! Sasseri!"
 
-We pass by Sasser Sarai---a ruined stony square. We stopped in the beautiful valley beside the current of the river Shayok. On the right side of the stream passes the winter road to Turkestan. By this road one avoids the passes, but one has to cross the river very often, and in some places even to go with the stream. In September the river reaches the height of one's shoulders, and is dangerous for horses and men. In addition, the road takes almost a week longer. We shall go the shorter way. Unexpectedly, we come into a narrow crevice between two purple rocks. It is astonishing to what extent all signs of a road often disappear. One has to pass these places more than once in order to remember all the contours and windings of the road---the unseen one.
-
-The colors are beautiful. Behind us are the white giants. And it is strange to realize that we have just descended from them. To the left---many sharply outlined snow-peaks and yellow slopes. Straight ahead of us---the light gray bed of Shayok, with some reddish and bronze-green little islands. Beyond them are purple and velvety brown rocks. To the right flows the river and clouds of snowy dust whirl about. The sky is not at rest. Milky white clouds, like heavy threads, are creeping behind Sasser. Had we hurried ahead one day toward Sasser we would have avoided these snowy persecutions. The September monsoon of Kashmir creeps along and pursues us over the mountains, changing from a pouring rain into a severe
+We pass by Sasser Sarai---a ruined stony square. We stopped in the beautiful valley beside the current of the river Shayok. On the right side of the stream passes the winter road to Turkestan. By this road one avoids the passes, but one has to cross the river very often, and in some places even to go with the stream. In September the river reaches the height of one's shoulders, and is dangerous for horses and men. In addition, the road takes almost a week longer. We shall go the shorter way. Unexpectedly, we come into a narrow crevice between two purple rocks. It is astonishing to what extent all signs of a road often disappear. One has to pass these places more than once in order to remember all the contours and windings of the road---the unseen one. The colors are beautiful. Behind us are the white giants. And it is strange to realize that we have just descended from them. To the left---many sharply outlined snow-peaks and yellow slopes. Straight ahead of us---the light gray bed of Shayok, with some reddish and bronze-green little islands. Beyond them are purple and velvety brown rocks. To the right flows the river and clouds of snowy dust whirl about. The sky is not at rest. Milky white clouds, like heavy threads, are creeping behind Sasser. Had we hurried ahead one day toward Sasser we would have avoided these snowy persecutions. The September monsoon of Kashmir creeps along and pursues us over the mountains, changing from a pouring rain into a severe
 
 <a id="136">**136 ALTAI-HIMALAYA**</a>
 
@@ -2605,9 +2599,7 @@ It is very difficult with the languages---in the caravan one hears six languages
 
 The provision of hay has disappeared. It is clear that the hostlers have fed their horses with the hay. Nazar-bey screamed something for a long time. Finally, we understood that our cook ate up the hay. The cook was deeply offended.
 
-The lama is informing us about various significant things. Much of this news is known to us---but it is instructive to see how, in various countries, the very same conditions are being reflected. Different countries are as under glasses of different colors. Again we are astonished at the knowledge of the organization of lamas. The whole of Asia is pierced as with roots by this wandering organization.
-
-It is astonishing how quickly the news spreads without any mail communications. And then, these caravan fires, like glow-worms, attract unexpected listeners. Quicker than by couriers, flies the winged news to the bazaars. And they whisper beside the long pipe. . . . Understand!
+The lama is informing us about various significant things. Much of this news is known to us---but it is instructive to see how, in various countries, the very same conditions are being reflected. Different countries are as under glasses of different colors. Again we are astonished at the knowledge of the organization of lamas. The whole of Asia is pierced as with roots by this wandering organization. It is astonishing how quickly the news spreads without any mail communications. And then, these caravan fires, like glow-worms, attract unexpected listeners. Quicker than by couriers, flies the winged news to the bazaars. And they whisper beside the long pipe. . . . Understand!
 
 - - - - -
 
@@ -2619,7 +2611,7 @@ It is a cold night. Everything is firmly frozen. The entire day was woven out of
 
 proceeded upon the steep, crumbling slopes of the red gorge. We passed the old stony rampart---the remains of military fortresses or frontier posts. Below were the iridescent, yellow, green and ultramarine little streams. Afterwards, we crossed to the broad old river bed---the hillside Debsang. For six hours we went along all sorts of solemn sand formations. They are like pyramids of giants; like cities with cragged walls; like solitary watch-towers; like gates to some forbidden countries; like monuments of battles, long-silenced. It is a full variety, never repeated, colored with infinite feeling. I would like to stop here for a week. But the caravaneers are looking at the sky where the icy Kashmiri dragon already shows its stormy wings.
 
-E.I.has been on horseback all the ten days. She does not like small decisions. She had never been horseback riding and here she suddenly went on horseback through Karakorum. And always she is valiant and the first one ready. Even her knee injured in Kashmir has somehow ceased to trouble her. It is simply astonishing!
+E.I. has been on horseback all the ten days. She does not like small decisions. She had never been horseback riding and here she suddenly went on horseback through Karakorum. And always she is valiant and the first one ready. Even her knee injured in Kashmir has somehow ceased to trouble her. It is simply astonishing!
 
 In the evening we reached Debsang davan. It became still colder. It would be better if Debsang were called Ulan Korum, meaning the Red Throne. At the entrance protrudes a powerful rock like a red cap.
 
@@ -2633,7 +2625,7 @@ We passed Debsang. We went out upon the roof of the world. It is impossible to c
 
 <a id="139">**139 LEH---KARAKORUM---KHOTAN**</a>
 
-the right on the horizon are the masses of Kunlun. All is so variegated and glorious and sweeping. The blue sky merges on pure cobalt and the grassless cupolas are domes of a golden hue. And the far-off peaks are silhouetted like pure white cones. The file of the caravan does not disturb the silence of the highest road of the world.
+the right on the horizon are the masses of Kuen lun. All is so variegated and glorious and sweeping. The blue sky merges on pure cobalt and the grassless cupolas are domes of a golden hue. And the far-off peaks are silhouetted like pure white cones. The file of the caravan does not disturb the silence of the highest road of the world.
 
 The hostler asks: "Why it is that here, at such a height is such an even surface? What is there inside?"
 
@@ -2655,7 +2647,7 @@ sensation of feeling breathless even at the slightest movement. Upon the crest o
 
 The descent is not steep, but the wind becomes stronger. It is necessary to cover the face with something, and one remembers the usefulness of Tibetan silk masks for traveling. During the day the snow slows down and beautiful white panoramas appear---whole masses of snowy cupolas and cones. There are even no birds.
 
-At six o'clock we pause on a broad river bed. Around us in the deep silence is a whole amphitheater of snowy summits. The delicacy of the pearly tones is a sight never seen before. There is a full moon---and the silence of cold, pure, undefiled nature. We cross the highest road of the world, eighteen thousand six hundred feet. We cross the frontier of China. Our Chinese meditatively utters: "Chinese soil!" and for some reason shakes his head.
+At six o'clock we pause on a broad river bed. Around us in the deep silence is a whole amphitheater of snowy summits. The delicacy of the pearly tones is a sight never seen before. There is a full moon---and the silence of cold, pure, undefiled nature. We cross the highest road of the world, 18,600 feet. We cross the frontier of China. Our Chinese meditatively utters: "Chinese soil!" and for some reason shakes his head.
 
 - - - - -
 
@@ -2679,7 +2671,7 @@ no traveler will break this special ethic of the caravan. We also saw loads left
 
 In the frosty sun of the morning, before our camp, the snowy Mount Patos was clearly outlined. Thus, the Mahatma Ak-Dorje, passing from Tibet, named this highest summit of the Ridge (Patos phonetically, but Aktag in the local dialect). The mount stands above the division of road to Karghalik-Yarkand and Karakash-Khotan. The path Karghalik-Yarkand is lower---there are only two passes, not very high, but therefore having many rivers. The Karakash-Khotan path is higher and more mountainous. The passes are higher but on the other hand shorter.
 
-The mount towers like a cone between the two wings of the white ridge. The lama, upon hearing about it, whispers: "The great teacher was not against true Buddhism. He said 'The true Buddhism is a good teaching.' "
+The mount towers like a cone between the two wings of the white ridge. The lama, upon hearing about it, whispers: "The great teacher was not against true Buddhism. He said 'The true Buddhism is a good teaching.'"
 
 The day started peacefully. We continued from seven o'clock on, up the gradual incline of Suget davan. The ascent is almost imperceptible and it is not startling to see so many skeletons. The peace of Nature forces you to forget the altitude. Near the road lies a woolly little dog just as though alive. By three o'clock imperceptibly, we reached the Pass itself. It is well always to ask about the northern side of the Pass; this side is always severe. And so it was here. The straight and easy way was suddenly carved out into a powerful, jagged ascent. In the distance were spread the white purple mountains covered by a somewhat mournful design. A blizzard commenced; and into the bare spots of the snowy dust, pitilessly resounded the almost bluish-black sky. The path was completely covered.
 
@@ -2701,7 +2693,7 @@ Amidst the wide hot plain, surrounded by snow mountains, stands the clay square,
 
 <a id="143">**143 LEH-KARAKORUM-KHOTAN**</a>
 
-If Shin-lo, this Chinese frontier officer here, would only know how touched we were by his hearty reception! Isolated in these far-off mountains, deprived of every means of communication, this officer by his help and kindness reminded us of those traits of the better China. It was so important to us---because we go to China with sincere friendship and an open heart! And we met and said farewell to Shin-lo most heartily. Out of friendship we even unfolded our tents on the dusty yard of the fort. The people wanted to remain here at least one more day, because the desert has already begun. They rejoice. But we regret something unrepeatable. Crystals of the summits, will the lace of the desert sands replace you? Other caravans arrive. They talk around the camp-fire. Conversation, smiles, pipes and rest. They whisper: "In Bhutan, they await the coming soon of Shambhala."---"First was India, then China, afterward Russia and now will be Shambhala." . . .
+If Shin-lo, this Chinese frontier officer here, would only know how touched we were by his hearty reception! Isolated in these far-off mountains, deprived of every means of communication, this officer by his help and kindness reminded us of those traits of the better China. It was so important to us---because we go to China with sincere friendship and an open heart! And we met and said farewell to Shin-lo most heartily. Out of friendship we even unfolded our tents on the dusty yard of the fort. The people wanted to remain here at least one more day, because the desert has already begun. They rejoice. But we regret something unrepeatable: Crystals of the summits, will the lace of the desert sands replace you? Other caravans arrive. They talk around the camp-fire. Conversation, smiles, pipes and rest. They whisper: "In Bhutan, they await the coming soon of Shambhala."---"First was India, then China, afterward Russia and now will be Shambhala." . . .
 
 "In the Temple under the image of Buddha is an underground boiling lake. Once a year they descend and throw into the lake precious stones." . . .
 
@@ -2729,9 +2721,7 @@ We proceeded through the entire day, along the Karakash. It is difficult to reme
 
 <a id="145">**145 LEH-KARAKORUM-KHOTAN**</a>
 
-covered with a gray haze. All day, a cloud of all-penetrating dust hangs in the air. One's eyes smart. The whole coloring is changed. The sky has become purple. Only the joyous river glimmers as before with its greenish sparks. The first little encampments of the mountain Kirghiz appeared---*yurtas* covered the felts, or stony squares leaning against the rock. Small fields begin. Here are small Kirghiz women in high white head-dresses and red kaftans, some with peaked little Kirghiz caps. If only the photographs are successful! A picturesque group is set against the purple background of the sandy soft tones of the mountains. On a tiny gray donkey, is a woman in a bright red kaftan and a high head-dress. In her arms is a child in a light gray cover. Beside her is a man in a green kaftan with a red-peaked hat. Above them the dim purple sky. Who would wish to paint the Flight to Egypt?
-
-Very steep lie the trails above the turbulent river. The camping site is in a sandy valley, in the middle of which is a dusty caravanserai. We have not the energy to stop in this yard permeated with dust. On the neighboring slopes it is also difficult to camp. There is either solid rock only, or soft shifting sands and neither of the two holds the pegs of the tents. With difficulty we find a spot. Gradually we discover the damage in the luggage. Here is a lock torn away; there a *yakhtan* has been soaked when the horse fell into the river.
+covered with a gray haze. All day, a cloud of all-penetrating dust hangs in the air. One's eyes smart. The whole coloring is changed. The sky has become purple. Only the joyous river glimmers as before with its greenish sparks. The first little encampments of the mountain Kirghiz appeared---*yurtas* covered the felts, or stony squares leaning against the rock. Small fields begin. Here are small Kirghiz women in high white head-dresses and red kaftans, some with peaked little Kirghiz caps. If only the photographs are successful! A picturesque group is set against the purple background of the sandy soft tones of the mountains. On a tiny gray donkey, is a woman in a bright red kaftan and a high head-dress. In her arms is a child in a light gray cover. Beside her is a man in a green kaftan with a red-peaked hat. Above them the dim purple sky. Who would wish to paint the Flight to Egypt? Very steep lie the trails above the turbulent river. The camping site is in a sandy valley, in the middle of which is a dusty caravanserai. We have not the energy to stop in this yard permeated with dust. On the neighboring slopes it is also difficult to camp. There is either solid rock only, or soft shifting sands and neither of the two holds the pegs of the tents. With difficulty we find a spot. Gradually we discover the damage in the luggage. Here is a lock torn away; there a *yakhtan* has been soaked when the horse fell into the river.
 
 Again, the camp-fires. Again there gather some sort of unknown woolly people. We must say, however, that none among these clumsy strangers did us harm. The notorious thievery of the Kirghiz did not touch us.
 
@@ -2763,9 +2753,9 @@ Nevertheless, the dragon overtook us during the night. Every-
 
 <a id="148">**148 ALTAI-HIMALAYA**</a>
 
-thing is covered with snow and frozen. We try out the yaks. We hurry on. The seventh pass is Sanju. It is the steepest one---eighteen thousand three hundred feet. But it is not long. How clingingly the yaks proceed! We are again astonished at them. The saddle strap around the chest of my yak gives away with a snap. We must bind it with cords because on the steep descents one strap will not hold. Only the very summit of Sanju is dangerous. There the yak must skillfully jump across the crevice between two upper crags of a bare rock. There you must resign yourself to the surefootedness of the yak. Gegen falls down from his yak, but happily only bruises his leg. It might be worse. Of course on the northern side is a great amount of snow. We must hasten; and slipping on the sharp zigzags, we descend steeply. It is best not to take mountain sticks with sharp points---those with flat metallic points are better. In the silvery fog, the snow mountains completely merge. It is a pity to bid farewell to the heights, where, although it is cold, it is crystally pure and reverberating! There the word, desert, itself sounds like a challenge to all cities already transformed into ruins, or not yet thus fallen.
+thing is covered with snow and frozen. We try out the yaks. We hurry on. The seventh pass is Sanju. It is the steepest one---18,300 feet. But it is not long. How clingingly the yaks proceed! We are again astonished at them. The saddle strap around the chest of my yak gives away with a snap. We must bind it with cords because on the steep descents one strap will not hold. Only the very summit of Sanju is dangerous. There the yak must skillfully jump across the crevice between two upper crags of a bare rock. There you must resign yourself to the surefootedness of the yak. Gegen falls down from his yak, but happily only bruises his leg. It might be worse. Of course on the northern side is a great amount of snow. We must hasten; and slipping on the sharp zigzags, we descend steeply. It is best not to take mountain sticks with sharp points---those with flat metallic points are better. In the silvery fog, the snow mountains completely merge. It is a pity to bid farewell to the heights, where, although it is cold, it is crystally pure and reverberating! There the word, desert, itself sounds like a challenge to all cities already transformed into ruins, or not yet thus fallen.
 
-Why does it seem so sad to depart further from Kunlun, from the most ancient ridge?
+Why does it seem so sad to depart further from Kwen lun, from the most ancient ridge?
 
 The encampments of Mountain Kirghiz start again. The women and children are clean---one does not see the dreadful disfiguring skin diseases.
 
@@ -2819,7 +2809,7 @@ One stop beyond Sanju are said to be Buddhist antiquities.
 
 We emerged into a completely different country. Here Ladaki heroism is no more. No more are there the garlands of clear singing of the Ladakis. It is strange that only among Ladakis, did we find strong and agreeable voices. No more are there the castles on the waterless, courageous peaks. No more the *suburgans* and *kurgans* of fearlessness. The mountains have disappeared into a gray mist. How now to live, and whither to direct the eye? Here are peaceful, agricultural, ignorant Sarts, a forgotten oasis. Here are peaceful, agricultural slow Turki, who have forgotten completely that they took part in the marches of Jenghis Khan and Tamerlane. It is hot. In Sanju bazaar, it is sandy. From behind the clay walls and fruit-trees are a multitude of faces peeping out, full of fear and hiding---a whole crowd. The colorings remind one of the Nijni-Novgorod Fair. They offer us fruit and roasted mutton. Finally they bring us a gift of a Kirghiz dog.
 
-Bells ring out and into the Maidan a Chinese official comes riding---again a very kind and obliging one. He is astonished that he did not receive a letter about us from the Am-ban of Yarkand but he explains that the Republic in China has discarded special notifications if there is a Chinese passport. And we possess a long passport under the name of Loluchi---which means Roerich. Are the Chinese officials of higher ranks so obliging? We hope that China will fulfill our expectations. When we received the passport they assured us of the help of all governors, of the deputation from the University of Peking. The Chinese official speaks about the passage of the Roosevelts, who turned toward Yarkand. He tells us of the ruins of the imperial palace twelve days from Khotan, which until the present day still yields antiquities. We understand it must be Aksu. Soon we start out on an old Silk Road. Here is the first place where antiquities can be found, because these
+Bells ring out and into the Maidan a Chinese official comes riding---again a very kind and obliging one. He is astonished that he did not receive a letter about us from the Amban of Yarkand but he explains that the Republic in China has discarded special notifications if there is a Chinese passport. And we possess a long passport under the name of Loluchi---which means Roerich. Are the Chinese officials of higher ranks so obliging? We hope that China will fulfill our expectations. When we received the passport they assured us of the help of all governors, of the deputation from the University of Peking. The Chinese official speaks about the passage of the Roosevelts, who turned toward Yarkand. He tells us of the ruins of the imperial palace twelve days from Khotan, which until the present day still yields antiquities. We understand it must be Aksu. Soon we start out on an old Silk Road. Here is the first place where antiquities can be found, because these
 
 <a id="153">**153 LEH-KARAKORUM-KHOTAN**</a>
 
@@ -2861,7 +2851,7 @@ It is a long passage. We proceed quickly from seven to halfpast four---but the p
 
 From Pialma to Zawa is about thirty-eight miles. We left before dawn under the sign of Orion. For the first time during the journey, we saw the beloved constellation. Again the desert. Toward ten o'clock it is hot, reddened and searing. The stirrup burns the foot through the boot. What must it be like in summer? It is not without cause that during the summer they travel by night marches.
 
-At the right, one sees the blue inclines of Kunlun---they remind us of Santa Fe. On the left, the pink sands of Takla Makan---I recall the desert of Arizona.
+At the right, one sees the blue inclines of Kuen lun---they remind us of Santa Fe. On the left, the pink sands of Takla Makan---I recall the desert of Arizona.
 
 The son of the Amban is singing Chinese *namthars*---sayings about Chinese giants. Unexpectedly sharp, with nasal inhala-
 
@@ -2971,7 +2961,7 @@ It is necessary to find ways to depart. We must go, in spite of the frost. The c
 
 - - - - -
 
-The Amban does not know anything about art. The Bek---of Mongolian descent---instructs him politely by means of the following ancient legend: "In olden times in Kucha lived a celebrated painter. Once, as a deposit against a loan, he brought his painting representing a head of cabbage and a butterfly and asked three thousand *sar* (equivalent to two thousand seven hundred dollars). A boy, who was taking the place of the owner, gave him the requested loan. The owner returned. He was indignant that for a cabbage and. a butterfly, one should give so much money. He chased away the boy and considered the money lost. Winter came and on the appointed day the artist brought the money and asked to have the painting back. They took out the painting and the owner, to his terror, saw that the butterfly had disappeared from the picture. The artist demanded his complete picture as described. The owner was upset. The painter said, 'So you have unjustly thrown out the boy. But now only he can help you.' The owner called
+The Amban does not know anything about art. The Bek---of Mongolian descent---instructs him politely by means of the following ancient legend: "In olden times in Kucha lived a celebrated painter. Once, as a deposit against a loan, he brought his painting representing a head of cabbage and a butterfly and asked 3,000 *sar* (equivalent to 2,700 dollars). A boy, who was taking the place of the owner, gave him the requested loan. The owner returned. He was indignant that for a cabbage and a butterfly, one should give so much money. He chased away the boy and considered the money lost. Winter came and on the appointed day the artist brought the money and asked to have the painting back. They took out the painting and the owner, to his terror, saw that the butterfly had disappeared from the picture. The artist demanded his complete picture as described. The owner was upset. The painter said, 'So you have unjustly thrown out the boy. But now only he can help you.' The owner called
 
 <a id="165">**165 KHOTAN**</a>
 
@@ -3003,7 +2993,7 @@ It is a pity that Fa-hsien did not travel further than Kashgar in what is now Ru
 
 <a id="168">**168 ALTAI-HIMALAYA**</a>
 
-Tsung had a dream. We three, E.I., George and I, with sabers, slashed Yang-tu-t'u. Tsung comes running to tell it and laughs: "A very good dream. Now all the victory will be yours, and Tu-t'u will fare badly." Tzi Han Chen interprets this dream and also smiles broadly with pleasure that, if only in a dream, Tu-t'u fared badly. Tsung emphasizes the importance of the dream: "If Tu-t'u treats the great guests badly things will fare badly with him and he will not live." So in far-away Khotan is rendered a verdict against Tu-t'u in Urumchi: "More than a year he will not live." We speak to the Sart about this decision. He laughs. "You have already replaced Kerim-Bek, evidently the truth will assert itself with Tu-t'u." Although Tu-t'u makes fun of the Peking government he himself is sitting in a furnace of hatred. Who will sit in his place? The Khotan robber, Ma, or Aksu or the one from Kuldja with his Manchurians? Any enterprising troops can easily take Sinkiang.
+Tsung had a dream. We three, E.I., George and I, with sabers, slashed Yang-tu-t'u. Tsung comes running to tell it and laughs: "A very good dream. Now all the victory will be yours, and Tu-t'u will fare badly." Tzi Han Chen interprets this dream and also smiles broadly with pleasure that, if only in a dream, Tu-t'u fared badly. Tsung emphasizes the importance of the dream: "If Tu-t'u treats the great guests badly things will fare badly with him and he will not live."So in far-away Khotan is rendered a verdict against Tu-t'u in Urumchi: "More than a year he will not live." We speak to the Sart about this decision. He laughs. "You have already replaced Kerim-Bek, evidently the truth will assert itself with Tu-t'u." Although Tu-t'u makes fun of the Peking government he himself is sitting in a furnace of hatred. Who will sit in his place? The Khotan robber, Ma, or Aksu or the one from Kuldja with his Manchurians? Any enterprising troops can easily take Sinkiang.
 
 The pilgrims are passing on their way bringing new messages. In Urga a place for the Temple of Shambhala will be set. When the image of Rigden-japo will reach Urga, then will flash the first light of the New Era---truth. Then will the true renaissance of Mongolia begin. In Kucha, in the bazaars, recently two arriving lamas distributed images and a prayer of Shambhala. Here, also, the nuclei of revivified Buddhism have found shelter. The celebrated Suburghan near Khotan must be the place of one of the manifestations of the New Era. Khotan is the path of Buddha. Burkhan Bulat is near Khotan. The magnets of the ways are planted "as truly as under the stone of Ghum lies the prophecy about the New Era."
 
@@ -3027,7 +3017,7 @@ Power of the Caves." 6. "The Whispers of the Desert." 7. "Maitreya the Conqueror
 
 *December 1st*
 
-One cannot imagine a more striking contrast than the tones of the Himalayas and Ladak in comparison with the desert. Sometimes it seems that one's eyesight is gone or the eyes are filled with dust. And where are the crystals of purple, blue and green? Where is the abundance of fiery yellow and vivid red colorings? It is like a gray and dusty storeroom! The all-penetrating corrosions of time cut the skin like glass and eat the tissues. The eye is so accustomed to tonelessness, that, not glimpsing any colors, it slides as into a void. Also, unnoticeably, a sand storm starts up and our black Tumbal becomes woolly gray. Sometimes the stars are beautiful. Occasionally we are reminded of the charm of the mountains by the faint blue range of Kunlun. The donkeys are bemoaning their lot. And the home-made mowing machines also groan. The gigantic goiters of the people are repulsive. Some say they are "from the water." Others, "this is already such a race." The size of the goiters seriously affects the nerves and psychology of the consciousness. The frost begins. The water in the creeks is covered with ice.
+One cannot imagine a more striking contrast than the tones of the Himalayas and Ladak in comparison with the desert. Sometimes it seems that one's eyesight is gone or the eyes are filled with dust. And where are the crystals of purple, blue and green? Where is the abundance of fiery yellow and vivid red colorings? It is like a gray and dusty storeroom! The all-penetrating corrosions of time cut the skin like glass and eat the tissues. The eye is so accustomed to tonelessness, that, not glimpsing any colors, it slides as into a void. Also, unnoticeably, a sand storm starts up and our black Tumbal becomes woolly gray. Sometimes the stars are beautiful. Occasionally we are reminded of the charm of the mountains by the faint blue range of Kuen lun. The donkeys are bemoaning their lot. And the home-made mowing machines also groan. The gigantic goiters of the people are repulsive. Some say they are "from the water." Others, "this is already such a race." The size of the goiters seriously affects the nerves and psychology of the consciousness. The frost begins. The water in the creeks is covered with ice.
 
 - - - - -
 
@@ -3049,7 +3039,7 @@ Instead of being able quietly to depart from the rule of the Taotai there arise 
 
 The messenger smiles, "All this is true. But Mr. Taotai sent me to tell you to go through the sands to Tun-huang."
 
-"But it is difficult to go there! But the Taotai himself said that there are robbers in the Province of Kansu!"
+"But it is difficult to go there! But the Taotai himself said that in the Province of Kansu are robbers!"
 
 "Quite true. But Mr. Taotai changed his decision and indicates for you the path through the desert to Tun-huang."
 
@@ -3093,7 +3083,7 @@ It is significant that America is again completely ignored in this manuscript. I
 
 E.I. is very depressed. She set out with such an open heart. She says: "What shall one do with humanity; these are not men." George is very downcast: "But that China, which is shown to us in museums and lectures, has nothing in common with what is occurring!" Our Chinese has drooped altogether, and begs us not to speak of anything because they will kill us, "because these are thieves, murderers and dogs!" The lama whispers, "The Chinese never act differently." All this becomes dangerous.
 
-Sir Aurel Stein gives in his book, as an authentic fact, that the Taotai in Kashgar for a few years of his administration transferred in his name to Hankow two million *taels.* We thought this communication impossible, although Sir Aurel Stein is an authoritative scientist. But is it possible? Is it possible? . . .
+Sir Aurel Stein gives in his book, as an authentic fact, that the Taotai in Kashgar for a few years of his administration transferred in his name to Hankow 2,000,000 *taels.* We thought this communication impossible, although Sir Aurel Stein is an authoritative scientist. But is it possible? Is it possible? . . .
 
 <a id="174">**174 ALTAI-HIMALAYA**</a>
 
@@ -3135,7 +3125,7 @@ ing of absurd rumors. We shall in some way or other leave, but he will strangle 
 
 - - - - -
 
-They come to ask us to help a woman going through a difficult childbirth. Of course we are helpless. But the Chinese knows a sure remedy: "This is the devil sitting under the bed and it hinders the woman from giving birth. One has to shoot with a gun under the bed and the devil will run away and the woman will give birth immediately!" The Chinaman has another conjecture; he says with a very important air: "The Tibetans are fools. They think that in heaven there is only one dragon. This is foolish. In the heaven there are a dragon and a bird. One dragon cannot make rain." The Chinese also knows that there exists a district where only women live and they give birth only to girls. He dislikes *"revived corpses"* very much.
+They come to ask us to help a woman going through a difficult childbirth. Of course we are helpless. But the Chinese knows a sure remedy: "This is the devil sitting under the bed and it hinders the woman from giving birth. One has to shoot with a gun under the bed and the devil will run away and the woman will give birth immediately!" The Chinaman has another conjecture; he says with a very important air: "The Tibetans are fools. They think that in heaven there is only one dragon. This is foolish. In the heaven there are a dragon and a bird. One dragon cannot make rain." The Chinese also knows that there exists a district where only women live and they give birth only to girls. He dislikes very much *"revived corpses"*.
 
 - - - - -
 
@@ -3233,7 +3223,7 @@ Going to Asia do not take much food. Everything is there in sufficient quantity.
 
 *January 10th*
 
-How is our consciousness enriched by sitting in Khotan? It becomes clear that a life such as that in Khotan should not exist. Imagine the lives of one hundred thousand people plunged into complete darkness, divested of all light. Out of darkness are being born disease, vice, lies, treachery and ignorance. The people have retained only their small trade, achieved by cheating and treachery. The understanding of quality in the products has died out. The understanding about celerity in work has perished. The understanding of the victory of labor is demolished. Submersion in the slush of bazaars and a mutual strangulation goes on. Thus it cannot continue!
+How is our consciousness enriched by sitting in Khotan? It becomes clear that a life such as that in Khotan should not exist. Imagine the lives of 100,000 people plunged into complete darkness, divested of all light. Out of darkness are being born disease, vice, lies, treachery and ignorance. The people have retained only their small trade, achieved by cheating and treachery. The understanding of quality in the products has died out. The understanding about celerity in work has perished. The understanding of the victory of labor is demolished. Submersion in the slush of bazaars and a mutual strangulation goes on. Thus it cannot continue!
 
 - - - - -
 
@@ -3253,7 +3243,7 @@ This is a tale from the practical East.
 
 - - - - -
 
-Great auriferous sands were recently found two days away from Khotan, along the Karakash, Thousands of gold seekers who worked on the stream of the river Keriya left their work and turned to Karakash. A few more gold-bearing rivers were mentioned. Of course, all this is exploited by very crude means. In natural resources Sinkiang is a rich province.
+Two days away from Khotan, along the Karakash, were recently found great auriferous sands. Thousands of gold seekers who worked on the stream of the river Keriya left their work and turned to Karakash. A few more gold-bearing rivers were mentioned. Of course, all this is exploited by very crude means. In natural resources Sinkiang is a rich province.
 - - - - -
 
 *January 11th*
@@ -3456,7 +3446,7 @@ It is clear that places like Khotan have exhausted their old sap and can be reju
 
 accidental newcomers, and do not think of making any improvements to help. Life has become dusty and brains have become dusty. A flash of vigorous lightning is needed.
 
-From afar appears the silhouette of light gray Kunlun. It grieves one to depart from this remarkable range---it grieves one to realize that the Himalayas are again receding.
+From afar appears the silhouette of light gray Kwen lun. It grieves one to depart from this remarkable range---it grieves one to realize that the Himalayas are again receding.
 
 Again we have a guard of five soldiers. It is not known whether we are guarding them or whether they are guarding us. Karakash darya is frozen and the horses break through the thin ice. The morning is cold but by midday the sun is already burning. Buds are on the branches. Beside the road perch gray-crested larks. We passed nine wayside towers. Again Zawa, Ts'ai Han Chen says smiling, with a toothless mouth, "The Taotai of Khotan thinks that we will return again to Khotan. Such a stupid official!"
 
@@ -3528,13 +3518,13 @@ Charon, is rowing at the bow of the boat. Afterwards dragons and horsemen on pap
 
 A wintry white desert. The torrents are frozen. A flat plain abruptly commences after Guma Bazaar. On the horizon are low snowy hills. On account of the water we had to stop in Selyak at one o'clock in the afternoon. We have not yet had such short crossings as these. Selyak is a simple clay serai for caravans, with a few gnarled trees amidst the silent desert. A gray sky. An eastern wind. Some camels, half a dozen dogs and the frightened children of the proprietor. Nothing else. And here strange information reaches us about Khotan. Karken Bey---alias Moldavak---who looked so remarkably like a European, proclaimed himself a Persian citizen, but proved to be a director of the Ottoman bank and a Catholic. This is, verily, a strange combination. In his workshop they are imitating carpets, following the ones found in the editions of the British Museum. With what firm in London or Paris is he connected? And in what antique shops does one encounter his imitations?
 
-At the bazaar in Guma the women lifted back their veils from their faces in order to see us better. The veil, thrown back, is put together like a *kokoshnik* (Slavonic headgear). Probably the form of some *kokoshniks* developed from the raised veil. The bek in Guma is an absolute "Sadko" and he does not even have to use make-up. There are characters ready-made for all the operas of Rimsky-Korsakoff.
+At the bazaar in Guma the women lifted back their veils from their faces in order to see us better. The veil, thrown back, is put together like a *kokoshnik* (Slavonic headgear). Probably the form of some *kokoshniks* developed from the raised veil. The bek in Guma is an absolute "Sadko" and he does not even have to use make-up. For all the operas of Rimsky-Korsakoff there are characters ready made.
 
 In the road the soldiers are telling our T'sai Han Chen
 
 <a id="201">**201 TAKLA MAKAN---KARASHAHR**</a>
 
-the reason why their horses are so poor. "The officials bill the government twenty-five or thirty *scars,* but they themselves pay fifteen or ten." They all are speaking about the murder of the Kashgar Titai by the Taotai of Khotan. Somehow the murderer hastened to put an end to the arrested one, without the trial of the Governor-General. Everywhere are mercenary motives of some kind.
+the reason why their horses are so poor. "The officials bill the government twenty-five or thirty *sars,* but they themselves pay fifteen or ten." They all are speaking about the murder of the Kashgar Titai by the Taotai of Khotan. Somehow the murderer hastened to put an end to the arrested one, without the trial of the Governor-General. Everywhere are mercenary motives of some kind.
 
 We had to leave Chang in Guma. He collapsed completely---an example of the destructive effect of opium. As soon as the smoker, from out his smoky den, comes into vigorous conditions of nature, he falls apart like a card house.
 
@@ -3562,7 +3552,7 @@ From somewhere they are bringing very beautiful feltings, as coverings for the f
 
 From Ak-kem to Karghalik is a short but a cold crossing along the snowy desert. They say that in a day the snow will again disappear. Somehow the strip from Selyak to Karghalik is always exceptionally snowy. Maybe it is the influence of some range of mountains---other reasons are not apparent. The other peculiarity of the local places is that silver and even gold become absolutely black; probably the consistency of the soil contributes to this. Gradually along the extended outskirts we enter the Karghalik Bazaar. Alas! By its severe smell it recalls ill-smelling Srinagar. We ask why it is so dirty here, worse than in Guma. The customary reply: "Amban pu hao." That means a "mean Amban."
 
-We receive quarters in the very bazaar itself amidst unbelievable dirt. We had to resign ourselves to our operetta escort, the beks, and look for a garden outside the city. We found a solitary house with a garden, Tomorrow, the gloomy possessions of the Khotan Taotai end. Will it be better? One thing this
+We receive quarters in the very bazaar itself amidst unbelievable dirt. We had to resign ourselves to our operetta escort, the beks, and look for a garden outside the city. We found a solitary house with a garden. Tomorrow, the gloomy possessions of the Khotan Taotai end. Will it be better? One thing this
 
 <a id="203">**203 TAKLA MAKAN---KARASHAHR**</a>
 
@@ -3794,7 +3784,7 @@ It is impossible to find horses. All the good horses have been dispatched to And
 
 *February 23rd*
 
-It is not easy to receive money through the Chinese post office. Since November, the post office has not been able to collect one thousand six hundred Mexican dollars. It is really ridiculous when one knows that the local general, by commission of the Governor-General is transferring ten thousand pounds of "personal savings" through here.
+It is not easy to receive money through the Chinese post office. Since November, the post office has not been able to collect 1,600 Mexican dollars. It is really ridiculous when one knows that the local general, by commission of the Governor-General is transferring 10,000 pounds of "personal savings" through here.
 
 We went to the Taotai to talk about our arms and the permission to sketch. The Taotai came to a resolution, "Try to paint and if the police prohibit it, then stop." Our arms became rusted from dampness. When we pointed it out, we were told by the interpreter of the Consulate, "Do not make too much fuss about it." Again we felt ourselves in a country not of justice, but in a country of personal license. We were also told that if Tu T'u (the Governor-General) will *find us worthy* then
 
@@ -3962,7 +3952,7 @@ We stop on the dusty bank of Yarkand darya. Sometimes a wind rises and whirls ta
 
 It is very simple to give an idea of our passage of today! On a round dish place a good bit of gray dust; throw in a few gray pieces of wool and stick in fragments of matches. Let ants crawl over this bumpy plain, and for realism, blow it in order to create pillars of dust.
 
-And so we creep along. We expected to stay in Chulan, but there the water is bitter so we had to make a detour in order to spend the night in a *kishlak* in New Chulan. At the approach to its gray clay huts a light silhouette of mountains is seen unexpectedly---the thresholds of T'ian Shan. E.I. 's cold is still torturing her.
+And so we creep along. We expected to stay in Chulan, but there the water is bitter so we had to make a detour in order to spend the night in a *kishlak* in New Chulan. At the approach to its gray clay huts a light silhouette of mountains is seen unexpectedly---the thresholds of T'ian Shan. E.I.'s cold is still torturing her.
 
 Suleiman relates how now in this country two firms are dealing in sausage casings; one German (Faust) and one American (Brenner). The prices of casings have risen so unprecedentedly that the works have become unprofitable. It is very strange to know that the casings of the sausages in American markets come from Khotan and Aksu. The same obstacles occur in the cotton trade. In order to raise the prices they mix different unmatched varieties and in this way are ruining the value of the entire product. With silk, similar difficulties occur. It is impossible to obtain the delivery of an entire order of a quality equal to a chosen sample. It is impossible to obtain
 
@@ -4188,7 +4178,7 @@ Every day new significant information comes. "The Mon-
 
 <a id="246">**246 ALTAI-HIMALAYA**</a>
 
-golian army has reached the river Urungu and threatens Sin-kiang." Nobody in Europe and America knows about the affairs of the local countries.
+golian army has reached the river Urungu and threatens Sinkiang." Nobody in Europe and America knows about the affairs of the local countries.
 
 We are stopping in the village Yaka-arik.
 
