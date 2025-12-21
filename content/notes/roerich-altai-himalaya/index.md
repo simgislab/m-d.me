@@ -5184,7 +5184,7 @@ We are stopping at the house of the Elder of the village. Here the courtyards ar
 
 During the day it seemed to us as though we were going, a quarter century back, along the plain of Central Russia. And now we sit in a dirty little white room. E.I. remembers that thus, twenty years ago, we sat in little huts in Meretchi or Veluni on the Neman, or under the walls of the monastery of Susdal. Or later, in the cells of Siena and San Gemignano. We have seen, we have seen, we have seen!
 
-The day ended with the third inspection of the arms and the deciphering of our passports. An illiterate opium smoker came from the Amban. He read, syllable by syllable, our *three-arshin**\-* *long* passport. He asked us to take out the guns from their cases, and timidly touched a revolver. A long time he paced about the same place and mumbled something and then he left us under the responsibility of the inn-keeper. Can one include such officials in the evolution of humanity? Simply dregs. But these stupidly annoying dregs are capable of obscuring the shining mountains; are capable of transforming every peaceful mood into the feeling of a prison. Away with ignorance!
+The day ended with the third inspection of the arms and the deciphering of our passports. An illiterate opium smoker came from the Amban. He read, syllable by syllable, our three-*arshin*-long passport. He asked us to take out the guns from their cases, and timidly touched a revolver. A long time he paced about the same place and mumbled something and then he left us under the responsibility of the inn-keeper. Can one include such officials in the evolution of humanity? Simply dregs. But these stupidly annoying dregs are capable of obscuring the shining mountains; are capable of transforming every peaceful mood into the feeling of a prison. Away with ignorance!
 
 - - - - -
 
@@ -5282,9 +5282,9 @@ We bid farewell to T'ian Shan. Ahead of us are snowless, small cupolas of Djair.
 
 The entire day is a beautiful one. It is true that in the narrow canyons of the red mountains we may be attacked. We learn that somewhere near here, during the civil war, many hundreds of Russians were slaughtered by the Kirghiz. One senses a tension among our men. Seemingly, as though in spite, in the most narrow crevice, the axle of the second *arba* breaks, and the other four carriages remain interlocked. It is a most advantageous moment for robbers, but they do not appear. For two hours the men are busy with the carriage. On the road through the hills, three carriages overturn.
 
-After passing red and copper mountains we descend to a green steppe which is surrounded by blue crests; again the purity of the colors is like a fairy rainbow. Map'an (thirteen *p'o-t'ai* from Kuldinen) is a joyous resting place on the steppe. On the outskirts of the village stand *yurtas.* Herds are huddled together. Kirghiz, in *malachais,* are galloping about like warriors of the fifteenth century. The Kalmucks have honest faces. We have not yet had time to find a camp-site in Map'an before a Kalmuck comes with information of extreme importance: "In the second month (which means March) the Urumchi Governor-General spread the rumor through the *ulus,* the camps of the nomads and monasteries that the Tashi Lama had been elected Chinese Emperor. He has not yet ascended the throne but he has already accepted the tamgha (the seal)." Only those who have been in Asia will appreciate the significance of this invention. Yet, of this invention the newspapers do not write and Reuter's does not telegraph; but just these invisible knots are creating the future reality.
+After passing red and copper mountains we descend to a green steppe which is surrounded by blue crests; again the purity of the colors is like a fairy rainbow. Map'an (thirteen *p'o-t'ai* from Kuldinen) is a joyous resting place on the steppe. On the outskirts of the village stand *yurtas.* Herds are huddled together. Kirghiz, in *malachais,* are galloping about like warriors of the fifteenth century. The Kalmucks have honest faces. We have not yet had time to find a camp-site in Map'an before a Kalmuck comes with information of extreme importance: "In the second month (which means March) the Urumchi Governor-General spread the rumor through the *ulus,* the camps of the nomads and monasteries that the Tashi-Lama had been elected Chinese Emperor. He has not yet ascended the throne but he has already accepted the tamgha (the seal)." Only those who have been in Asia will appreciate the significance of this invention. Yet, of this invention the newspapers do not write and Reuter's does not telegraph; but just these invisible knots are creating the future reality.
 
-A vast amount of news about the Tashi Lama will float across the Kalmuck and Mongolian spaces. For many years!
+A vast amount of news about the Tashi-Lama will float across the Kalmuck and Mongolian spaces. For many years!
 
 All the riches of this country, all its beauty, all its significance, await new ways, a new culture and self-consciousness. Appre-
 
@@ -5524,7 +5524,7 @@ Katun in Turki means woman.
 
 - - - - -
 
-"On Katun and on the Bia, brother will rise against brother. There will be great slaughter and then there will begin a new life...."
+"On Katun and on the Bia, brother will rise against brother. There will be great slaughter and then there will begin a new life. . . ."
 
 - - - - -
 
@@ -5570,7 +5570,7 @@ Beyond Yalui begin the Altaian *Ails.* The peaked *yurtas* covered with the bark
 
 - - - - -
 
-The road, washed away by rains, exhausted the horses. We stopped in Kurlyk. We shall have to sit through the night. But it is no hardship to spend the night in a place where the teaching of the White Burkhan and his benevolent friend Oirot were born. The name of Oirot has been accepted by a whole district. Here, verily, they expect the coming of the White Burkhan. In the cliffs towering over Kurlyk, the entrances of the caves loom dark. These caves penetrate deeply: their depth has not been ascertained. There are also secret passages---from Tibet, through Kunlun, through Altyntag, through Turfan; the Long Ear knows of secret passages. How many people have saved themselves in these passages and caves! Reality has become a fairy tale. Just as the black aconite of the Himalaya has become the Fire-Blossom.
+The road, washed away by rains, exhausted the horses. We stopped in Kurlyk. We shall have to sit through the night. But it is no hardship to spend the night in a place where the teaching of the White Burkhan and his benevolent friend Oirot were born. The name of Oirot has been accepted by a whole district. Here, verily, they expect the coming of the White Burkhan. In the cliffs towering over Kurlyk, the entrances of the caves loom dark. These caves penetrate deeply: their depth has not been ascertained. There are also secret passages---from Tibet, through Kuen lun, through Altyntag, through Turfan; the Long Ear knows of secret passages. How many people have saved themselves in these passages and caves! Reality has become a fairy tale. Just as the black aconite of the Himalaya has become the Fire-Blossom.
 
 - - - - -
 
@@ -5614,7 +5614,7 @@ They write about the magnetic storms and the unusual temperature and about vario
 
 - - - - -
 
-Ramsana left for Ladak. He could not stand the low places of the north. "Either I leave or die" Of course, Ladakis pass their whole lives on heights not lower than - twelve thousand feet. It is a pity for Ramsana. One can confidently depend on Ladakis to watch things. The Oirot drivers are not like the Ladakis.
+Ramsana left for Ladak. He could not stand the low places of the north. "Either I leave or die" Of course, Ladakis pass their whole lives on heights not lower than - 12,000 feet. It is a pity for Ramsana. One can confidently depend on Ladakis to watch things. The Oirot drivers are not like the Ladakis.
 
 - - - - -
 
@@ -5632,7 +5632,7 @@ It is familiar to me: the tale about Jasaf. "Dost thou know, Vakhramey, about wh
 
 So Buddha merged into the Kerjak consciousness. The plowed fields led them to the machines and coöperation to Belovodye.
 
-But Vakhramey is not only versed in the cooperative movement and in canticles. According to the covenant of the wise ones, he is not astonished at anything; he knows the ores and the deer; he knows the little bees and especially the secret traditions. He knows the herbs and the flowers. This is indisputable. And not only does he know how and where the flowers grow, and where the roots are hidden, but he loves them and delights in them. Gathering a great bunch of vari-colored grasses, that reach up to his gray beard, his face lights up. And he pets them. And caressingly he speaks of their usefulness. Here is verily Panteleon the Healer. It is not dark witchery but knowledge drawn from experience. Greetings, Vakhramey Semeonich! For thee, on Himalaya, does the Fire-Blossom grow!
+But Vakhramey is not only versed in the coöperative movement and in canticles. According to the covenant of the wise ones, he is not astonished at anything; he knows the ores and the deer; he knows the little bees and especially the secret traditions. He knows the herbs and the flowers. This is indisputable. And not only does he know how and where the flowers grow, and where the roots are hidden, but he loves them and delights in them. Gathering a great bunch of vari-colored grasses, that reach up to his gray beard, his face lights up. And he pets them. And caressingly he speaks of their usefulness. Here is verily Panteleon the Healer. It is not dark witchery but knowledge drawn from experience. Greetings, Vakhramey Semeonich! For thee, on Himalaya, does the Fire-Blossom grow!
 
 - - - - -
 
