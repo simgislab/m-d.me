@@ -5718,9 +5718,7 @@ Again they report: "It is rumored that you were lost." Is it possible that for a
 
 <a id="345">**345 ALTAI**</a>
 
-R. worked that way. I had a chance to see a few imitations before the war. I remember one very large painting not uncleverly composed from fragments of various of my works. The poor collector who called me to approve his purchase, was immeasurably grieved. Friends, they may bring such imitations to you to the Museum. Look, beware! So often it happened that we saw paintings as well as whole albums falsely signed. I remember one painting by Rustschitz signed with my name.
-
-They speak about the destruction of many of my paintings---"Call of the Serpent" is lost from the Academy. "The March," "Unkrada," "Building of the Walls," "Sviatogor" and others are lost. Of course they consider them lost---but who knows? The paths of objects are so unexpected. Collecting Old Masters, we came across such subtle play of life.
+R. worked that way. I had a chance to see a few imitations before the war. I remember one very large painting not uncleverly composed from fragments of various of my works. The poor collector who called me to approve his purchase, was immeasurably grieved. Friends, they may bring such imitations to you to the Museum. Look, beware! So often it happened that we saw paintings as well as whole albums falsely signed. I remember one painting by Rustschitz signed with my name. They speak about the destruction of many of my paintings---"Call of the Serpent" is lost from the Academy. "The March," "Unkrada," "Building of the Walls," "Sviatogor" and others are lost. Of course they consider them lost---but who knows? The paths of objects are so unexpected. Collecting Old Masters, we came across such subtle play of life.
 
 - - - - -
 
@@ -5750,7 +5748,7 @@ unusual revelation; yet here he smilingly closed his yellow khalat and proved hi
 
 - - - - -
 
-To the Tashi Lama in Peking came a group of Chinese asking for passports for the passage to Shambhala. This reminded us of the letter which was written from Boston to Shambhala. Whence and how has this Chinese group come together? Were they attracted by the wanderings of Lao-Tzin? Or because of older writings? Or by the book of the Abbot of Wu-t'ai-shan. Some time ago one would have ridiculed that fact but now a great deal has occurred. The literature has become so enriched that the recent invention and "magic" have passed into the laboratory of research. And the skeptics are indignant, but only because of their complete ignorance and unenlightenment. Even the most obtuse thinkers ask "What does it mean?" One may speak about the significance of that which happens but the fact itself by now does not remain unobserved.
+To the Tashi-Lama in Peking came a group of Chinese asking for passports for the passage to Shambhala. This reminded us of the letter which was written from Boston to Shambhala. Whence and how has this Chinese group come together? Were they attracted by the wanderings of Lao-Tzin? Or because of older writings? Or by the book of the Abbot of Wu-t'ai-shan. Some time ago one would have ridiculed that fact but now a great deal has occurred. The literature has become so enriched that the recent invention and "magic" have passed into the laboratory of research. And the skeptics are indignant, but only because of their complete ignorance and unenlightenment. Even the most obtuse thinkers ask "What does it mean?" One may speak about the significance of that which happens but the fact itself by now does not remain unobserved.
 
 - - - - -
 
@@ -5806,9 +5804,9 @@ On the seventeenth of August we beheld Beluha. It was so clear and reverberant. 
 
 <a id="350">**350 ALTAI-HIMALAYA**</a>
 
-Beyond Beluha there appears the crests of Kunlun so beloved to the heart, and beyond that "the mountain of the Divine Queen" and "Five Treasure Troves of the Snows." And herself, "the Queen of the White Snows," and all the written and unwritten, the spoken and the unspoken.
+Beyond Beluha there appears the crests of Kuеn lun so beloved to the heart, and beyond that "the mountain of the Divine Queen" and "Five Treasure Troves of the Snows." And herself, "the Queen of the White Snows," and all the written and unwritten, the spoken and the unspoken.
 
-"Between the Irtysh and Argun. Over Kokushi. Through Bogogorshi, over Ergor itself, rides a horseman.
+"Between the Irtysh and Argun. Over Kokushi. Through Bogogorshi, over Ergor itself, rides a horseman." . . .
 
 <a id="351">**351**</a>
 
@@ -5860,7 +5858,7 @@ Again all sorts of difficulties and expectations. And again unexpected friends. 
 
 There is a fully accredited story that on the river Iro an extraordinary child was born. Shortly after his birth he pronounced a prophecy and then became normal. The prophecy proved to be the same one about the future Mongolia as was given to us by a lama in Sikhim. It is well remembered in Mongolia.
 
-The action of will used at a great distance has been remarkably developed in Mongolia. Quite recently one young Mongolian lama wrote a book about the path to Shambhala. Books about this path written by the Tashi Lama, the Abbot of Wu-t'ai-shan, a Buriat lama, are also known. The aspirations of the Mongols all face in this direction. Many other neighboring nationalities also understand all the reality of the meaning of Shambhala. Some of the Mongolian lamas know a great deal. Whenever we asked them questions, their answers showed deep knowledge. But then, it is not so easy to win their confidence in spiritual matters. Of the monasteries close to Ulan Bator Khoto, the most far-famed is the so-called Manjushri Khit. From it the late Bogdo-Gegen was kidnapped. All places in Mongolia are enveloped in legend.
+The action of will used at a great distance has been remarkably developed in Mongolia. Quite recently one young Mongolian lama wrote a book about the path to Shambhala. Books about this path written by the Tashi-Lama, the Abbot of Wu-t'ai-shan, a Buriat lama, are also known. The aspirations of the Mongols all face in this direction. Many other neighboring nationalities also understand all the reality of the meaning of Shambhala. Some of the Mongolian lamas know a great deal. Whenever we asked them questions, their answers showed deep knowledge. But then, it is not so easy to win their confidence in spiritual matters. Of the monasteries close to Ulan Bator Khoto, the most far-famed is the so-called Manjushri Khit. From it the late Bogdo-Gegen was kidnapped. All places in Mongolia are enveloped in legend.
 
 - - - - -
 
@@ -5872,7 +5870,7 @@ the site for the future Dukang of Shambhala is already fenced around. The Mongol
 
 - - - - -
 
-In the automobiles, crossing the small rivers in the spring and because of the lack of roads, we have ten breakdowns a day. If one can traverse seventy miles it is indeed a lucky day. Ordinarily, one does not make even twelve miles. Many Kereksurs (old graves), Kurgans: traces of great migrations. A remarkable stone figure---they say that here lived a notorious bandit and that now he has become a guard of the Path. The travelers smear the lips of the statue with grease in order to request a favor. Konchak, our servant, stands for long before this image and repeatedly demands that we have a good road. On the way, skulls and bones, the corpse of a baby wrapped in a sheepskin coat. Turpans, wild geese, all sort of ducks fly toward the north. Herds of kulans.
+In the automobiles, crossing the small rivers in the spring and because of the lack of roads, we have ten breakdowns a day. If one can traverse seventy miles it is indeed a lucky day. Ordinarily, one does not make even twelve miles. Many Kereksurs (old graves), Kurgans: traces of great migrations. A remarkable stone figure---they say that here lived a notorious bandit and that now he has become a guard of the Path. The travelers smear the lips of the statue with grease in order to request a favor. Konchak, our servant, stands for long before this image and repeatedly demands that we have a good road. On the way, skulls and bones, the corpse of a baby wrapped in a sheepskin coat. *Turpans*, wild geese, all sort of ducks fly toward the north. Herds of kulans.
 
 - - - - -
 
@@ -5942,7 +5940,7 @@ The Central Gobi is ended. Interior Mongolia, waterless, with its eroded aurifer
 
 - - - - -
 
-Because we successfully administered medicine to them, the Mongols request us to invoke the rain, because of the unprecedented drought. They offer us five dollars from each yurta.
+Because we successfully administered medicine to them, the Mongols request us to invoke the rain, because of the unprecedented drought. They offer us five dollars from each *yurta*.
 
 - - - - -
 
@@ -5972,7 +5970,7 @@ Three new books are being compiled. The peaks glow white with snow; the air is f
 
 - - - - -
 
-On July fourteenth the annual holiday of the Mongols is celebrated. They are building a new obo (a kind of Suburgan); there are races and festivity! The young people of our camp beg us to let them go to the festival.
+On July fourteenth the annual holiday of the Mongols is celebrated. They are building a new *obo* (a kind of Suburgan); there are races and festivity! The young people of our camp beg us to let them go to the festival.
 
 Since morning we have discussed the need of a Pan-Asiatic language which, at least elementally, would reconcile the three hundred dialects of Asia. In the evening our lamas read the
 
@@ -5986,7 +5984,7 @@ The rain and wind begin. The middle of July is more like autumn. At night the ra
 
 - - - - -
 
-In the midst of the rain and storm, most unexpected news reaches us. Such conquest of space is amazing. There is even news of the passing here of the Mahatma forty years ago. Again a veritable buran and showers. It is cold.
+In the midst of the rain and storm, most unexpected news reaches us. Such conquest of space is amazing. There is even news of the passing here of the Mahatma forty years ago. Again a veritable *buran* and showers. It is cold.
 
 - - - - -
 
@@ -6100,7 +6098,7 @@ Part XII
 
 Like black spiders with long legs are hidden the black tents of the Tibetans, stretched upon the longest ropes. The border troops take our passport and suggest that we camp for two days, until they bring the answer of General Horchichab, that is the chief ruler of the Province, Hor, and the chief commander of the northern front. What flowery titles!
 
-We camp in the middle of a marshy plain overgrown with thin, prickly weeds. On the horizon is the lake and dead mountains. I call them dead because this is a veritable cemetery. Long ago, these were great mountains, perhaps rivals of Everest; now they are eroded and crumbled into small stones. The deep valleys became filled, forming a hill of fifteen thousand feet, open to the brutal winds. Before reaching the most significant sites, before the heavenly Himalayas, one falls into horrible marshes. The horses are slipping and stumbling among the ugly clumps. There is not a bird, not an animal.
+We camp in the middle of a marshy plain overgrown with thin, prickly weeds. On the horizon is the lake and dead mountains. I call them dead because this is a veritable cemetery. Long ago, these were great mountains, perhaps rivals of Everest; now they are eroded and crumbled into small stones. The deep valleys became filled, forming a hill of 15,000 feet, open to the brutal winds. Before reaching the most significant sites, before the heavenly Himalayas, one falls into horrible marshes. The horses are slipping and stumbling among the ugly clumps. There is not a bird, not an animal.
 
 - - - - -
 
@@ -6140,7 +6138,7 @@ Evidently even a Tibetan cannot withstand the local climate. This is the third d
 
 - - - - -
 
-The General prepares to depart for Kham. Finally he accepts our gift and disappears. And the caressing two days are transformed into a cruel five months of encampment in summer tents, in a frost of sixty Celsius, under whirlwinds and gales, at a height of fifteen thousand feet. A major and some ragamuffin soldiers are stationed with us. We are forbidden to speak to the passing caravans. We are forbidden to buy food from the population. The caravan slowly perishes. Every day there are new corpses near the tents, and packs of wild dogs noisily divide their new repast. Of 104 caravan animals, ninety perish. Five men die---three Mongolian lamas and two Tibetans. MalonofFs body becomes swollen from an attack of his heart and finally he also dies. The wife of the major who was stationed with us gets sick of pneumonia and dies.
+The General prepares to depart for Kham. Finally he accepts our gift and disappears. And the caressing two days are transformed into a cruel five months of encampment in summer tents, in a frost of sixty Celsius, under whirlwinds and gales, at a height of 15,000 feet. A major and some ragamuffin soldiers are stationed with us. We are forbidden to speak to the passing caravans. We are forbidden to buy food from the population. The caravan slowly perishes. Every day there are new corpses near the tents, and packs of wild dogs noisily divide their new repast. Of 104 caravan animals, ninety perish. Five men die---three Mongolian lamas and two Tibetans. Malonoff's body becomes swollen from an attack of his heart and finally he also dies. The wife of the major who was stationed with us gets sick of pneumonia and dies.
 
 Gryphons and eagles fight with packs of dogs over the prey. My letter to the Dalai Lama is found torn on the road. The letters to Colonel Bailey, British Resident of Sikhim, and to the Consul General of the United States in Calcutta are seized.
 
@@ -6190,7 +6188,7 @@ One must understand it thus: Great spiritual hunger descended upon earth. And pe
 
 - - - - -
 
-One cannot believe any statement. All around us is death. For five months on the main road to China and Mongolia only three caravans passed. The Tibetan nomads whisper about the difficult times for Lhasa. Of course under such conditions the country cannot exist. Finally the governors of Nagchu become satisfied with the gifts, and after receiving the information that our money is exhausted, decide to send us out by a roundabout way through Chang-thang to Namru Dzong, Shentsu Dzong, through passes of twenty thousand six hundred feet not marked on maps, to Saga-Dzong, across the Brahmaputra, to Tingri-Dzong, Shekar-Dzong, Kampa-Dzong and through Sepo-la to Sikhim. Evidently they have decided to show us all religions of Tibet so that no doubts should be left in our mind about this country. It is not an easy way. Nobody has yet crossed from Ulan Bator Khoto to Sikhim.
+One cannot believe any statement. All around us is death. For five months on the main road to China and Mongolia only three caravans passed. The Tibetan nomads whisper about the difficult times for Lhasa. Of course under such conditions the country cannot exist. Finally the governors of Nagchu become satisfied with the gifts, and after receiving the information that our money is exhausted, decide to send us out by a roundabout way through Chang-thang to Namru Dzong, Shentsu Dzong, through passes of 20,600 feet not marked on maps, to Saga-Dzong, across the Brahmaputra, to Tingri-Dzong, Shekar-Dzong, Kampa-Dzong and through Sepo-la to Sikhim. Evidently they have decided to show us all religions of Tibet so that no doubts should be left in our mind about this country. It is not an easy way. Nobody has yet crossed from Ulan Bator Khoto to Sikhim.
 
 <a id="373">**373 TIBET**</a>
 
@@ -6238,7 +6236,7 @@ The Black Faith of Bon-po is so in keeping with the black tents. Upon long ropes
 
 - - - - -
 
-At each encampment the same thing happens: If we camp in the usual village, there is no trouble in procuring animals. If the Elder lives in the village, then one may be sure of unpleasant discussions; and if one gets into a dzong or monastery he should be prepared for a delay. Nothing is prepared, in spite of several *da-yig* letters, which were sent long since. It appears that the *da-yigs* were not received; that by mistake they were sent in another direction. It appears that villages where there are animals are far off, and it will take several days to gather yaks and horses. Finally it appears that as usual the peasants simply do not listen to Dzong-pon and refuse to fulfill his order. Sometimes the Dzong-pon suggests that we conduct all negotiations directly with the peasants and write our own letter to the villages with our own seal. And the seal must be red. Otherwise we will have to stay near the Dzong for many days. It sometimes also happens that one Elder suggests to us to arrest another unruly one. He himself leads us to the latter's camp and advises us to bind him and deliver him to Lhasa. Our Torguts have sometimes bound the hands of the Elder tightly behind his back; then his relations come with tongues sticking out and agree to
+At each encampment the same thing happens: If we camp in the usual village, there is no trouble in procuring animals. If the Elder lives in the village, then one may be sure of unpleasant discussions; and if one gets into a dzong or monastery he should be prepared for a delay. Nothing is prepared, in spite of several *da-yig*-letters which were sent long since. It appears that the *da-yigs* were not received; that by mistake they were sent in another direction. It appears that villages where there are animals are far off, and it will take several days to gather yaks and horses. Finally it appears that as usual the peasants simply do not listen to Dzong-pon and refuse to fulfill his order. Sometimes the Dzong-pon suggests that we conduct all negotiations directly with the peasants and write our own letter to the villages with our own seal. And the seal must be red. Otherwise we will have to stay near the Dzong for many days. It sometimes also happens that one Elder suggests to us to arrest another unruly one. He himself leads us to the latter's camp and advises us to bind him and deliver him to Lhasa. Our Torguts have sometimes bound the hands of the Elder tightly behind his back; then his relations come with tongues sticking out and agree to
 
 <a id="376sharugen"></a>
 
@@ -6250,7 +6248,7 @@ SHARUGEN KHAM, TIBET
 
 fulfill the order of the Dalai Lama. Or it may happen that the governor suggests to us to arrest the local Major and to take him bound to Lhasa. At such a possible turn of affairs the Major lowers his tone and becomes more civil.
 
-Before Saga-dzong are two unexpected passes. One is shown on the maps; but the other, a larger one of more than twenty thousand feet, is not indicated. This road is shown on the maps only by a faint outline. Evidently no one ever traversed it. There is the other customary southern road. But the Tibetan government sends us through this unexplored northern path.
+Before Saga-dzong are two unexpected passes. One is shown on the maps; but the other, a larger one of more than 20,000 feet, is not indicated. This road is shown on the maps only by a faint outline. Evidently no one ever traversed it. There is the other customary southern road. But the Tibetan government sends us through this unexplored northern path.
 
 On the way the Elders refuse to give us animals and again, instead of the passport of the governors, they ask us to send a letter with our seal everywhere. For our wax seal makes a greater impression.
 
@@ -6262,7 +6260,11 @@ Saga-dzong is also a small impoverished village. They eat the corpses of animals
 
 The camp is full of excitement. We are approaching the Brahmaputra, the very one which has its source in the sacred Manasaravar, Lake of the Great Nagi. There is where the wise Rig-vedas originated; there one is near the sacred Kailas; there, pilgrims go, realizing on what a noble highway lie these sites. Already files of pilgrims are encountered; they are gloomy and ragged, and carry spears.
 
-Amidst rocks and sand, lilac and purple, lies the Brahmaputra. In May the water is not yet completely risen. The water line on the banks shows to what extent the river rises in June with the snow thaw and rains. There is still greater reverence for the Brahmaputra than for the Blue River. The Blue Yangtse-Kyang is the longest river in the world but the Brahmaputra, son of Brahma, is enveloped by a rich frame-work of legends. It links the sacred bed of the Ganges with the Himalayas; for Manasaravar is close to Sutlej and the source of the Great Indus. There also was born Aryavarta.
+Amidst rocks and sand, lilac and purple, lies the Brahmaputra. In May the water is not yet completely risen. The water line on the banks shows to what extent the river rises in June with
+
+<a id="378">**378 ALTAI-HIMALAYA**</a>
+
+the snow thaw and rains. There is still greater reverence for the Brahmaputra than for the Blue River. The Blue Yangtse-Kyang is the longest river in the world but the Brahmaputra, son of Brahma, is enveloped by a rich frame-work of legends. It links the sacred bed of the Ganges with the Himalayas; for Manasaravar is close to Sutlej and the source of the Great Indus. There also was born Aryavarta.
 
 - - - - -
 
@@ -6286,7 +6288,7 @@ ance sadly stroll about. The Black Believers, on learning that we sympathize wit
 
 - - - - -
 
-With astonishment we look at the *sho,* the only copper coin of Tibet in circulation. We saw neither silver nor gold in the *dzongs* nor in popular use. Although the minting of the small copper coins is poor, yet how grandiose is the inscription: "The government is victorious in all directions." It is astonishing that the half-sho and the quarter-sho are bigger than the *sho* itself.
+With astonishment we look at the *sho,* the only copper coin of Tibet in circulation. We saw neither silver nor gold in the *dzongs* nor in popular use. Although the minting of the small copper coins is poor, yet how grandiose is the inscription: "The government is victorious in all directions." It is astonishing that the half-*sho* and the quarter-*sho* are bigger than the *sho* itself.
 
 - - - - -
 
@@ -6338,7 +6340,7 @@ The last crossing---Sepo-la. This pass is easier than the others. We pass the tu
 
 - - - - -
 
-Zoji La, Khardong La, Karaul Devan, Sasser Pass, Dabsang Pass, Karakorum Pass, Suget Pass, Sanju Pass, Urtu Kashkariin Daban, Ulan Daban, Chahariin Daban, Khentu Pass, Naiji La, Kukushili Pass, Dungbudra Pass, Tang La, Kamrong La, Tasang La, Lamsi Pass, Naptra La, Tamaker Pass, Shentsa Pass, Laptse nagri Pass, Tsag La, Lam ling Pass, Pong chen La, Dong La, Sang mo La, Kyegong La, Tsug chung La, Gya La, Urang La, Sharu La, Galung La, Sepo La; these are the thirty-five passes, each from fourteen thousand to twenty-one thousand feet high, which are crossed.
+Zoji La, Khardong La, Karaul Devan, Sasser Pass, Dabsang Pass, Karakorum Pass, Suget Pass, Sanju Pass, Urtu Kashkariin Daban, Ulan Daban, Chahariin Daban, Khentu Pass, Naiji La, Kukushili Pass, Dungbudra Pass, Tang La, Kamrong La, Tasang La, Lamsi Pass, Naptra La, Tamaker Pass, Shentsa Pass, Laptse nagri Pass, Tsag La, Lam ling Pass, Pong chen La, Dong La, Sang mo La, Kyegong La, Tsug chung La, Gya La, Urang La, Sharu La, Galung La, Sepo La; these are the thirty-five passes, each from 14,000 to 21,000 feet high, which are crossed.
 
 - - - - -
 
@@ -6368,11 +6370,11 @@ We tell about our trip. The letters to America are sent off. We are given a trus
 
 - - - - -
 
-It is necessary to collect and compile all the expedition material. This may take a long time. George, the Doctor, N. V., and P. K. are also preparing their notes. Our fellow-travelers will quickly scatter---one to China, one to Italy, one to Australia. Everywhere they will recall the inexpressible beauty of the Himalayas. Our way led from the Himalayas, and back to them. Majestic is Karakorum and the icy kingdom of Sasser. Beautiful is Kunlun. Fantastic is T'ian Shan---celestial mountains. Broad in sweep is Altai. Decorative is Nan shang. Austere is Angar Dakchin. But all these are only the preface to the unutterable grandeur of the Himalayas.
+It is necessary to collect and compile all the expedition material. This may take a long time. George, the Doctor, N. V., and P. K. are also preparing their notes. Our fellow-travelers will quickly scatter---one to China, one to Italy, one to Australia. Everywhere they will recall the inexpressible beauty of the Himalayas. Our way led from the Himalayas, and back to them. Majestic is Karakorum and the icy kingdom of Sasser. Beautiful is Kwen lun. Fantastic is T'ian Shan---celestial mountains. Broad in sweep is Altai. Decorative is Nan shang. Austere is Angar Dakchin. But all these are only the preface to the unutterable grandeur of the Himalayas.
 
 - - - - -
 
-In the Himalayas the great Vedanta was crystallized. In the Himalayas Buddha became exalted in spirit. The very air of the Himalayas is penetrated with spiritual tension---the true Maitreya Sanga.
+In the Himalayas was crystallized the great Vedanta. In the Himalayas Buddha became exalted in spirit. The very air of the Himalayas is penetrated with spiritual tension---the true Maitreya Sanga.
 
 - - - - -
 
@@ -6380,7 +6382,7 @@ Our friend in Sikhim, the lama, tells us that during the winter he had heard tha
 
 <a id="384">**384 ALTAI-HIMALAYA**</a>
 
-to the words of Mongols of Tsaidam I carried on a war with the Amban of Sining. And according to the words of the Taotai of Khotan I brought a small cannon which would, in ten minutes, destroy entire Khotan and its one hundred thousand inhabitants. We became accustomed to all this and now are no longer astonished by "authentic" rumors. The Mongols firmly remember the "Ameri Khan": Thus the American has been visualized as a kind of warrior. Fairy tales about ourselves from Lhasa were related to us, in which we could only identify ourselves with difficulty.
+to the words of Mongols of Tsaidam I carried on a war with the Amban of Sining. And according to the words of the Taotai of Khotan I brought a small cannon which would, in ten minutes, destroy entire Khotan and its 100,000 inhabitants. We became accustomed to all this and now are no longer astonished by "authentic" rumors. The Mongols firmly remember the "Ameri Khan": Thus the American has been visualized as a kind of warrior. Fairy tales about ourselves from Lhasa were related to us, in which we could only identify ourselves with difficulty.
 
 - - - - -
 
@@ -6554,7 +6556,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Advaita:* A Vedanta non-dualist sect.
 
-*Dalai Lama:* The secular ruler of Tibet, living in the Potala at Lhasa.
+*Dalai-Lama:* The secular ruler of Tibet, living in the Potala at Lhasa.
 
 *Sweeper:* One belonging to the Sudras, the untouchables, or lowest of the four castes.
 
@@ -6600,7 +6602,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Nagis:* Snakes, or snake-worshipers.
 
-*Tashi Lama:* Religious head of Tibet who made his home in the Tashi-lhunpo Monastery in Shigatse. For the first time in history he has fled Tibet thus fulfilling ancient prophecies.
+*Tashi-Lama:* Religious head of Tibet who made his home in the Tashi-lhunpo Monastery in Shigatse. For the first time in history he has fled Tibet thus fulfilling ancient prophecies.
 
 *Potala:* The Palace of the Dalai Lama in Lhasa.
 
@@ -6632,7 +6634,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Rungit:* A river in Sikhim, a tributary of Tista.
 
-*lkon:* The religious paintings of Russia.
+*Ikon:* The religious paintings of Russia.
 
 *Wheel of Life:* A symbol of the great cycle of life, the progress of the spirit or self through the lower nature.
 
@@ -6658,7 +6660,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Padma Sambhava:* Founder of the Red Sect, one of the two great Tibetan Sects.
 
-*T'song-kha-pa:* Founder of the Yellow Sect, the second great sect.
+*Tsong-kha-pa:* Founder of the Yellow Sect, the second great sect.
 
 *Berendeys in "Snowmaiden":* Characters in Rimsky-Korsakoff's opera.
 
@@ -6676,7 +6678,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Avalokiteshvara:* The greatest Bodhisattva of Northern Buddhism. The savior and deliverer. Generally depicted many-armed and many-faced.
 
-*Pemayangtse, Dubdi, Tashiding, Sanga Chöling, Baling:* Monasteries in Sikhim.
+*Pemayangtse, Dubdi, Tashi-ding, Sanga Chöling, Daling:* Monasteries in Sikhim.
 
 *Dharmapala:* Protector of religion.
 
@@ -6880,7 +6882,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Epiphany:* Bishop of Constantine born about 310. Teacher and friend of Jerome and opposed Origen in his numerous writings.
 
-*Irenceus:* One of the early Christian fathers.
+*Irenæus:* One of the early Christian fathers.
 
 *Dukar:* A female deity corresponding to the Tara---the Mother of the World.
 
@@ -6906,7 +6908,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Kirghiz:* A nomad race widely scattered through Central Asia, of Mohammedan faith.
 
-*Kunlun:* A mountain range crossing northern India and Tibet.
+*K'uen lun:* A mountain range crossing northern India and Tibet.
 
 *Kokyar:* A small oasis in foothills south of Kargalik.
 
@@ -6966,9 +6968,9 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Sakya:* A Kshatriya clan, which occupied a territory in the Nepal Terai, from which Buddha sprang.
 
-*Sir Aurel Stein:* Eminent archaeologist.
+*Sir Aurel Stein:* Eminent archæologist.
 
-*Sir Marshall:* Sir John Marshall, Director General of Archaeology in India.
+*Sir Marshall:* Sir John Marshall, Director General of Archæology in India.
 
 *Aksu:* An oasis on the northern route of Chinese Turkestan.
 
@@ -7026,7 +7028,7 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 *Torguts:* A Mongol clan which settled in Russia, later emigrating into Sinkiang.
 
-*P'o-t'ai:* Flat tower of clay marking distances on the Sinkiang roads. The average distances between them are about 2^1^/~2~ miles, although these constantly vary.
+*P'o-t'ai:* Flat tower of clay marking distances on the Sinkiang roads. The average distances between them are about 2 1/2 miles, although these constantly vary.
 
 *Li:* A Chinese measure of distance, approximately 485 yards.
 
