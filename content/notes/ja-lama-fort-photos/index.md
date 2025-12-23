@@ -96,6 +96,8 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 ![250-city.jpg](/notes/lomakina-ja-lama/250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда из книги Голова Джа-ламы")
 
+[Фото в тексте книги "Голова Джа-ламы"](/notes/lomakina-ja-lama/#250).
+
 Неизвестно, есть ли эта фотография в немецком издании или исходном датском. Однако, однозначно выяснено, что фотография есть в издании на датском языке 1947 г. Согласно подписи, фотография сделана не Хаслундом, а участником экспедиции Свена Гедина, к которой присоединился Хаслунд, по фамилии Hembel. Немецкий участник экспедиции C. Hempel упоминается в [отчете](https://www.jarringlibrary.lingfil.uu.se/travel/travels-and-archaeological-field-work-in-mongolia-and-sinkiang/) Travels and Archaeological Field-Work in Mongolia and Sinkiang: A Diary of the Years 1927-1934.
 
 > This is a traveler’s journal written by the Swedish archaeologist Folke Bergman about three expeditions to Mongolia and Sinkiang under the leadership of Dr. Sven Hedin, together with a group of Swedish participants consisting of geologist Erik Norin, medico David Hummel and Germans W. Haude, **C. Hempel**, and H. Dettmann. In February 1927 the expedition arrives in Peking from Moscow on the trans-Siberian railway via Mukden. As a result of archaeological discoveries made by Prof. Johan Gunnar Andersson in Honan, Kansu and Kuku-kor at the beginning of the 1920’s, a prehistory of China was outlined in terms of six successive periods, ranging from the Stone Age to the Iron Age. Especially findings of painted pottery were important in understanding the division of periods. Painted pottery was discovered at sites 4000 km apart. Bergman is excited to further the investigations in Eastern Turkestan to find out more about its role in tying together the Far East and the Near East during the Stone Age. Throughout the journey Bergman gives precise accounts of every place they visit or pass by, noting the time and date of the visits and the distance from the previous place in li – the Chinese measurement where 1 li is about 0,5 km, together with short descriptions of the environment. Black and white photographs and pencil sketches of temples and places are provided throughout the book. On several occasions during its journey the main expedition splits up in order to concentrate on specific research in smaller groups. **The expedition is eventually joined by other travelers, such as Nils Ambolt and Henning Haslund-Christensen.**
@@ -105,8 +107,6 @@ Henning Haslund-Christensen - датский путешественник, ав�
 Подпись (перевод): Пустынный замок Дамбижанцана. Фотография Хемпеля.
 
 Полная ссылка на датское издание: Haslund-Christensen Henning, 1947. Zajagan. Gyldendanske Boghandel Nordisk Forlag. København.
-
-[Фото в тексте](/notes/lomakina-ja-lama/#250).
 
 Фотография получена благодаря помощи Алексея Сидоренко, лично отправившегося в библиотеку в Копенгагене.
 
