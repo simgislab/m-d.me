@@ -106,6 +106,8 @@ Haslund-Christensen Henning, 1947. Zajagan. Gyldendanske Boghandel Nordisk Forla
 
 [Фото в тексте](/notes/lomakina-ja-lama/#250).
 
+Фотография получена благодаря помощи Алексея Сидоренко, лично отправившегося в библиотеку в Копенгагене.
+
 ### Автор неизвестен, год неизвестен
 
 Исходно фотография находится в статье DER RÄCHER LAMA, автор Martin Compart. Однако, по всей видимости он взял её у [Don Croner](https://roerichmongoliamonthly.wordpress.com/2011/02/18/volume-2-feb-18th-2011/), энтузиаста Рериха, американского монголиста, автора [ряда книг](https://www.goodreads.com/author/show/1339085.Don_Croner). В том числе False Lama of Mongolia: The Life and Death of Dambijantsan ([Goodreads](https://www.goodreads.com/book/show/57982152-false-lama-of-mongolia)).
