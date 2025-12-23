@@ -74,7 +74,7 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 > Европейцы разного темперамента и склада оставили описание и фотографии последней крепости Джа-ламы в Черной Гоби (а Николай Рерих - даже живописное полот­но!).
 
-### Хеннинг Хаслунд-Кристенсен, 1928
+### Хеннинг Хаслунд-Кристенсен и C. Hempel (Hembel), 1928
 
 Henning Haslund-Christensen - датский путешественник, автор книг, соратник Свена Гедина, долго прожил в Монголии ([en-wiki](https://en.wikipedia.org/wiki/Henning_Haslund-Christensen)).
 
