@@ -5829,6 +5829,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Кокали (***Kokāli***, Цзюйцзяли \*\*\*\*), Кокалика 156, **387**
 
+<a id="431">*431 Указатель имен*</a>
+
 Конфуций 408
 
 Кракуччханда (***Krakucchanda***, Цзялоцзяцуньто \*\*\*) 163, 367, **388**
@@ -5911,6 +5913,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Надикашьяпа (***Nadikāśyapa***, Надицзяшэбо \*\*\*) 219, 231, **398**
 
+<a id="432">*432 Указатель имен*</a>
+
 Нанда, девушка 392
 
 Нанда (***Nanda***, Наньто \*\*\*), родственник Будды 162, **388**
@@ -5983,9 +5987,11 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Стейн А. 10
 
+<a id="433">*433 Указатель имен*</a>
+
 Стхирамати (***Sthiramati***, Цзянь-хуй \*\*\*) 257, 309, **404**
 
-Субхадра (***Subhadra***, пали *Subhadda,* Субатоло \*\*\*, Шань-сянь 172, 173, **390**
+Субхадра (***Subhadra***, пали *Subhadda,* Субатоло \*\*\*, Шань-сянь \*\*\*) 172, 173, **390**
 
 Субхути (***Subhūti***, Субуди \*\*\*) 129
 
@@ -6061,9 +6067,10 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 **Х**аргривс X. 366
 
-Харшавардхана (***Harṣavardhana***, Хэлишафатаньна \*\*\*, Шань-цзэн \*\*\*) 132, **382**
-
+Харшавардхана (***Harṣavardhana***, Хэлишафатаньна \*\*\*, Шань-цзэн \*\*\*) 132, **382**  
 Харша 10, 378, 382, 383, 407
+
+<a id="434">*434 Указатель имен*</a>
 
 Шиладитья (***Śilāditya***, Шилоадедо, \*\*\*, Цзе-жи \*\*\*) 133, 135-138, 146, 147, 259, 270, 273, 303, 305, 308, 383
 
@@ -6097,7 +6104,7 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Шакьямуни (\*\*\*) 10, 21, 23, 180, 241, 356-358, 361, 364, 367, 372, 388, 392
 
-Шакья (***Śākya***, Шицзя \*\*\* 18, 23, 48-50, 55, 70, 74, 80, 86, 94, 116, 149, 161, 164, 180
+Шакья (***Śākya***, Шицзя \*\*\*) 18, 23, 48-50, 55, 70, 74, 80, 86, 94, 116, 149, 161, 164, 180
 
 Сарвартхасиддха *(****Sarvārthasiddha***, Сапохэлатасито \*\*\*, Ице-и-чэн --- \*\*\*) 165, 183-185, 302, 389, 392
 
@@ -6135,6 +6142,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 **Э**кашринга (***Ekaśṛṅga***, Ду-цзюэ \*\*\*) 81, **368**
 
+<a id="435">*435 Указатель имен*</a>
+
 Элапатра (***Elāpatra***, Инабодало \*\*\*, Илободало \*\*\*) 94, 176, 373
 
 **Ю**й Шунь \*\*\* 31, 347
@@ -6144,6 +6153,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 **Я**шода (***Yaśoda***, Ешэто \*\*\*), Ясоджа (***Yasoja****),* Яша (***Yāśa***, пали ***Yāsa***) 195, **394**
 
 Яшодхара (***Yaśodhara***, Яшутоло \*\*\*) 162, **388**
+
+<a id="436">*436*</a>
 
 ### Указатель географических названий и этнонимов
 
@@ -6222,6 +6233,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 **Б**аглан, провинция 354, 418; см. также Фоцзялан
 
 Бадахшан, провинция см. Бодочуанна
+
+<a id="437">*437 Указатель географических названий и этнонимов*</a>
 
 Байшуй \*\*\*, Аксу, Белые Воды, город 41, **350**
 
@@ -6311,6 +6324,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Брахмана (***Brahmaṇa***, Поломэнь \*\*\*), селение 306, 369, **413**
 
+<a id="438">*438 Указатель географических названий и этнонимов*</a>
+
 Брахманабад см. Афаньча
 
 Брахмапутра, река 380, 407
@@ -6390,6 +6405,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 Ганга (Цзинцзя \*\*\*, Цзя \*\*\*), река 10, 12, 17, 20, 22, 33, 68, 101, 119, 125, 127, 130, 133, 134, 136, 139-141, 143, 144, 149, 178, 188, 190, 191, 194, 196, 197, 200, 201, 203, 205, 265, 266, 268-270, 374, 379-384, 391-393, 395, 402, 405-407
 
 Гандак, река 395
+
+<a id="439">*439 Указатель географических названий и этнонимов*</a>
 
 Ганджам, город 408
 
@@ -6481,6 +6498,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Джамбудвипа, Джамбу (***Jambudvipa***, Шаньбу \*\*\*), миф. континент 13, 19, 22, 32, 33, 125, 129, 130, 161, 179, 204, 205, 208, 220, 264, 269, 295, 296, 320, 321, 326, **347**, 365
 
+<a id="440">*440 Указатель географических названий и этнонимов*</a>
+
 Джамна см. Ямуна
 
 Джанакпур см. Чжаньшуна
@@ -6561,7 +6580,9 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Каликут, город 411
 
-Калинга (***Kaliṅga***, Цзелинцзя \*\*\*), страна 266, 277, 278, 373, **408,** 409
+Калинга (***Kaliṅga***, Цзелинцзя \*\*\*), страна 266, 277, 278, 373, **408**, 409
+
+<a id="441">*441 Указатель географических названий и этнонимов*</a>
 
 Калькутта, город 407
 
@@ -6651,6 +6672,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Кошала (***Kośala***, Цзяосало \*\*\*), Южная Кошала, страна 266, 278, **408**, 413
 
+<a id="442">*442 Указатель географических названий и этнонимов*</a>
+
 Кошала (северная) 195, 372, 381, 385, 394
 
 Кошания см. Цюйшуанницзя
@@ -6732,6 +6755,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 Лумбини (***Lumbini***, Лафани \*\*\*), роща, место рождения Будды 165, 166, **389**
 
 **М**агадха (***Magadha***, Моцзето \*\*\*), страна 12, 15, 18, 20, 22, 100, 110, 135, 196, 197, 200, 201, 205, 213, 223, 237, 238, 243, 250, 260, 264, 286, 305, 374, 377, 393, **395**, 396, 398, 399, 402
+
+<a id="443">*443 Указатель географических названий и этнонимов*</a>
 
 Магадха, город см. Раджагриха
 
@@ -6817,6 +6842,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Наланда (***Nālanda***, Наланьто \*\*\*), монастырский комплекс 10, 12, 135, 217, 254, 256, 271, 384, 398, 404
 
+<a id="444">*444 Указатель географических названий и этнонимов*</a>
+
 Нангархар, провинция см. Нагара
 
 Нарикела (***Nārikela***, Налоцзило \*\*\***),** остров 301, **412**
@@ -6900,6 +6927,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 Праяга (***Prayāga***, Болонацзя \*\*\*), страна 130, 144, 383, **384**
 
 Пуликат, озеро 411
+
+<a id="445">*445 Указатель географических названий и этнонимов*</a>
 
 Пундравардхана (***Puṇḍravardhana***, Бэньнафаданьна \*\*\*), Бардван, Барддхаман, Пабна, страна/город 266, 270, **406**
 
@@ -6986,6 +7015,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Сват см. Субхавасту
 
+<a id="446">*446 Указатель географических названий и этнонимов*</a>
+
 Сват, река 10, 367, 369-372
 
 Сидо \*\*\*, река 33
@@ -7000,7 +7031,7 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Инд 33, 359, 365, 368, 373, 376, 415, 416
 
-Синхала (***Siṅhala***, Сэнцзяло \*\*\*, Ши-цзы 120, 234-236, 264, 277, 279, 291, 292, 299, 374, 379, 400, 411; см. также Цейлон
+Синхала (***Siṅhala***, Сэнцзяло \*\*\*, Ши-цзы \*\*\*) 120, 234-236, 264, 277, 279, 291, 292, 299, 374, 379, 400, 411; см. также Цейлон
 
 Страна Льва 294, 411
 
@@ -7071,6 +7102,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 Талас см. Далосы
 
 Талукан, Талькан, город 357, 418; см. также Далацзянь
+
+<a id="447">*447 Указатель географических названий и этнонимов*</a>
 
 Тамилнаду, штат 12, 411
 
@@ -7158,6 +7191,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Хада, город 364
 
+<a id="448">*448 Указатель географических названий и этнонимов*</a>
+
 Хайберский проход 364
 
 Хайдарабад, город в Индии 413
@@ -7184,9 +7219,7 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Хираньявати см. Аджитавати
 
-Хираньяпарвата (***Hiraṇyaparvata***, Иланьнабофадо \*\*\*), страна 265, 266,
-
-**405**
+Хираньяпарвата (***Hiraṇyaparvata***, Иланьнабофадо \*\*\*), страна 265, 266, **405**
 
 Хо \*\*\*, страна/город 45, 320, 353, **354**, 418; см. также Кундуз
 
@@ -7248,9 +7281,9 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Цейлон, остров 396, 400, 411, 412; см. также Синхала
 
-Цепаньто \*\*\*, Цзепаньто \*\*\*, Кэпаньто, Хэпаньто, страна 318, 327, 330, 417
+Цепаньто \*\*\*, Цзепаньто \*\*\*, Кэпаньто, Хэпаньто, страна 318, 327, 330, 417, **419**
 
-**419**
+<a id="449">*449 Указатель географических названий и этнонимов*</a>
 
 Цзебита \*\*\*, страна 109, 127, **381,** 386; см. также Санкашья
 
@@ -7338,6 +7371,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Чилка, озеро 408
 
+<a id="450">*450 Указатель географических названий и этнонимов*</a>
+
 Чина см. Махачина
 
 Чинаб, река 377
@@ -7420,6 +7455,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 Яштивана (***Yaṣṭivana***, Исэчжи-линь \*\*\*, Чжан-линь \*\*\*), лес 240, **401**
 
+<a id="451">*451*</a>
+
 ### Указатель терминов, встречающихся в тексте перевода
 
 «алмазный трон» (***vajrāsana***, *цзинь-ган цзо* \*\*\***)** 24, 219-221, 229, **398** *амрита* см. нектар
@@ -7467,6 +7504,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 *гатха* (***gāthā***, *цзи* \*\*\*) 87, 156, **370**
 
 *дана* (***dāna***, *тань* \*\*\*) 138, **383**
+
+<a id="452">*452 Указатель терминов, встречающихся в тексте перевода*</a>
 
 «десять добродетелей» (***daśaśila***, *ши шань* \*\*\*) 47, **356**
 
@@ -7540,6 +7579,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 «летнее сидение» см. «отрешенная жизнь»
 
+<a id="453">*453 Указатель терминов, встречающихся в тексте перевода*</a>
+
 логика (***hetuvidyā***, *инь мин* \*\*\*) 62, **362**
 
 «ложе льва» (*ши-цзы чуань* \*\*\*) 173, **390;** см. также «трон льва»
@@ -7602,11 +7643,11 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 ордалии (*цзан* \*\*\*) 66, **363**
 
-«отрешенная жизнь» (*ань цзюй* \*\*\***)** 44, 50, 161, 185, 236, 250, 251, 268, 286, **353,** 358
+«отрешенная жизнь» (*ань цзюй* \*\*\***)** 44, 50, 161, 185, 236, 250, 251, 268, 286, **353**, 358  
+«зимнее сидение» (*цзо ла* \*\*\*) 59, **362**  
+«летнее сидение» (*цзо ся* \*\*\*) 59, **353**, 362
 
-«зимнее сидение» (*цзо ла* \*\*\*) 59, **362**
-
-«летнее сидение» (*цзо ся* \*\*\*) 59, **353,** 362
+<a id="454">*454 Указатель терминов, встречающихся в тексте перевода*</a>
 
 *паринирвана* (***parinirvāṇa***, *бонепань* \*\*\*) 120, 171, 172, 191, 192, 205, 221, 239, 250, 347, 358, 372, 375, 389, 391, 398
 
@@ -7671,6 +7712,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 риши (***ṛṣi***, *сянь-жэнь* \*\*\*) 77, 81-83, 85, 115, 130-132, 142, 145, 161, 185, 186, 193, 213, 219, 223, 238, 242, 266, 278, 310, 316, **366,** 369, 370, 382, 388, 393
 
 *самадхи* (***samādhi***, *дин* \*\*\*) 50, 72, 85, 98, 107, 122, 128, 142, 163, 173, 184, 185, 213, 219, 220, 226, 230, 234, 238, 239, 245-248, 284, 285, 289, 329, 331, 333, **358**, 262, 336, 379
+
+<a id="455">*455 Указатель терминов, встречающихся в тексте перевода*</a>
 
 *самматия* (***saṁmatiya***, *чжэнлян-бу* \*\*\*) 127, 128, 144, 150, 152, 161, 178, 179, 191, 274, 308, 309, 311, 314, 316, **381**
 
@@ -7744,6 +7787,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 «трон льва» (***siṅhāsana***, *ши-цзы цзо* \*\*\*) 60, 110, 133, 134, **377;** см. также «ложе льва»
 
+<a id="456">*456 Указатель терминов, встречающихся в тексте перевода*</a>
+
 «угасание» см. *паринирвана*
 
 «узкое воззрение» см. «малая колесница»
@@ -7816,6 +7861,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 *шлока* (***śloka***, *сун* \*\*\*) 82, 103, 122, 149, 333, **369**
 
+<a id="457">*457 Указатель терминов, встречающихся в тексте перевода*</a>
+
 *шравака* (***śrāvaka***, *шэн-вэнъ* \*\*\*) 239, 397, **401**
 
 шраман (***śramaṇa***, *шамэнь* \*\*\*) 61, 67, 69, 78, 83, 94, 104-106, 134-138, 153, 156, 162, 176, 177, 189, 190, 203, 210, 214, 215, 225, 228, 232, 235, 240, 262, 271-273, 275, 324, 325, 333, 338, 339, 362, **363**
@@ -7825,6 +7872,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 шудра (***śūdra***, *шуто* \*\*\*) 64, 121, 308, 311, **363**
 
 *якша* (***уаkṣа****, яоча* \*\*\*) 52, 88, 98, 102, 103, 268, 281, 355, **360**, 370, 372, 406, 409
+
+<a id="458">*458*</a>
 
 ### Словарь растений
 
@@ -7868,6 +7917,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 *Пиппала* (***pippala***, *биболо* \*\*\*) **---** священная смоковница, священная фиговая пальма (Ficus religiosa) 74, 219, 221, 230, **365**
 
+<a id="459">*459 Словарь растений*</a>
+
 Сандал (***candana***, *чжаньтань* \*\*\*) --- вечнозеленое дерево Santalum album 73, 147, 148, 153, 302, 342, **362**, 386, 411; см. также *чжаньтанъ, чжаньтанънибо*  
 Белый сандал 291  
 Красный сандал 306  
@@ -7903,6 +7954,8 @@ The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwe
 
 *Юйцзинъ \*\*\** --- Curcuma longa, высоко ценившееся растение, из которого приго­товляли пряность, 61, 85, 93, 228, 318, **362**
 
+<a id="460">*460*</a>
+
 ### Summary
 
 The text of the *Dai Tang xi yu ji* 大 唐 西 域 記 (*Notes on the Western Lands \[composed under\] the Great Tang*) was composed as a result of the Chinese Buddhist Xuan-zang's trip to India in 629-645. The principal goal of his pilgrimage was to visit Buddhist holy places; another task assigned him---as well as other pilgrims going to India---was the acquisition of Buddhist texts and getting education at Indian monasteries.
@@ -7911,13 +7964,19 @@ Handling and assimilating the heritage of Indian Buddhism was the primary inner 
 
 Xuan-zang's lifetime (600-664) bridged the end of the Sui Dynasty and the beginning of the early Tang, namely the reign of Emperor Tai- zung. According to Buddhist tradition, Xuan-zang dictated the *Dai Tang xi yu Ji* during the final years of his life to a monk named Bai-ji, who recorded it. However, it is obvious that such an voluminous piece of
 
+<a id="461">*461 Summary*</a>
+
 writing, which contains a huge amount of specific data about hundreds of stupas and monasteries and about many countries and cities, could be composed solely on the basis of notes that were being constantly kept during the journey. The *Dai Tang xi yu ji*, as indicated by its very title, belongs to the genre of *ji*, "notes, records." Its text is rigidly structured. The *Notes* consist of 12 *juans*, i.e., long chapters or books; a long chapter is normally (except for Chapters VIII and IX) subdivided into short chapters each of which is a description of a single country. The sequence of short "country" chapters is arranged in accordance with the pilgrim's actual route. Every short "country" chapter has a structure of its own as well: firstly, there is an obligatory short preamble providing a sort of a "summary table" which specifies the country's dimensions and gives extremely concise characteristics of fertility of the soil, climate, mores and the "leamedness" of population; this list is invariably concluded with statistical data on the spread of Buddhism and "external doctrines": the number of monasteries and monks is compared to the number of "devas' temples" and "heterodox believers" themselves. The preamble is followed by an account that unfolds in accordance with the pilgrim's route: one story of holy places (this could be a stupa or a monastery, a mountain or a lake) is followed by another; these stories are connected by "textual arrows" like "I proceeded south-east," "I went north-eastward," etc.---a device that creates the general outline of the text. The included narratives could be both extremely short (like mere recurrent cliches) and very long, full-fledged stories with a developed plot. The text that was extraneous to the above-specified structure became included only into the second *juan*---a wholly logical step, for the author enters India here, and the text in question is a preamble to India at large, although a very detailed preamble.
 
 It is at the junction of the brief formal preamble and the subsequent sequence of narratives that a most interesting transition occurs: the author seems to switch to a different genre, which is probably a "trace" of a different origin of these parts of the text---the first part is obviously related to the traditional geographical reports typical of China, whereas the second part is more similar to Indian Buddhist literature, reflecting the perfect mastering of that tradition by the author. This portion of the text abounds in very diverse plots. A proper understanding of these plots in the order in which they are given in the text is only possible if the reader keeps in mind the contexts of Buddhist narratives in their normal order in traditional versions. As regards their contents, Xuan- zang's narratives are, for the most part, retellings of various episodes
 
+<a id="462">*462 Summary*</a>
+
 evidently derived from the works of Indian Buddhist literature of a wide variety of genres.
 
 The primary goal of this work is to supply a commented Russian translation of the *Notes* by Xuan-zang. The commentary includes data of historical and geographical nature and an analysis of terms. The book is accompanied by indices which, in addition to Chinese proper and geographical names and Buddhist terms, provide, wherever possible, their Sanskrit equivalents.
+
+<a id="463">*463 Summary*</a>
 
 ### Содержание
 
@@ -7951,6 +8010,8 @@ The primary goal of this work is to supply a commented Russian translation of th
 Словарь растений ....................................................................... 458
 Sammary ................................................................................ 460
 
+<a id="464">*464 Summary*</a>
+
 Научное издание
 
 Сюань-цзан
@@ -7979,6 +8040,8 @@ Sammary ........................................................................
 
 ООО «Цифровая типография №21»  
 123022, Москва, ул. Рочдельская, д. 15, стр. 29
+
+<a id="465">*465 Summary*</a>
 
 Так шел три дня, прибыл на вершину хребта. Здесь дуют леденящие ветры, а ущелья завалены снегом. Путники, проходящие здесь, не находят пристанища. Соколы в полете не могут преодолеть хребет, а садятся и пешком переходят его. и только потом летят вниз. Когда глядишь отсюда на горы, они кажутся мелки­ми холмиками. Этот хребет --- высочайший во всей Джамбудвипе. На хребте нет деревьев, лишь только каменные вершины выстроились толпой --- так густо, что похоже на лес. Шел еще три дня. пока не спустил­ся с хребта.
 
