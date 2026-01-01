@@ -5435,7 +5435,7 @@ PTS --- Pali Texts Society
 
 Философия буддизма: энциклопедия 2011 --- Философия буддизма: энциклопедия / Отв. ред. М.Т. Степанянц. М., 2011.
 
-<br><br>
+<br>
 
 Arya 2004 --- *Arya S. N.* History of Pilgrimage in Ancient India. Delhi, 2004.
 
