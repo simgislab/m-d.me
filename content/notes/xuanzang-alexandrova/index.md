@@ -105,11 +105,11 @@ ISBN 978-5-02-036520-9
 
 «Записки о Западных странах \[эпохи\] Великой Тан» («Да Тан си юй цзи» 大唐西域言己) были составлены китайским буддистом Сюань-цзаном 玄壯 после путешествия в Индию, совершенного в 629-645 гг. Целью его паломничества было не только посещение святых мест буддизма --- перед ним, как и перед другими монахами-паломниками, отправлявшимися в Индию, стояла задача приобретения буддийских текстов и обучения в индийских монастырях.
 
-Буддийская культура Китая, в сфере которой развивалась деятельность Сюань-цзана, имела уже длительную историю, восходившую к I в. н.э. К этому времени относила проникновение буддизма в Китай сама буддийская традиция, в которой была популярна легенда о чудесном сне ханьского императора Мин-ди, увидевшего сияющую фигуру Будды. К тому же веку относятся первые упоминания о китайских буддистах --- мирянах и монахах --- в источниках \[Zürcher 2007: 19-22\]. Первый период распространения буддизма в Китае был связан с деятельностью проповедников, приходивших из «Западного Края» --- культурных центров Средней Азии, главным образом Бактрии и Согдианы. Миссионерское движение из Средней Азии через Восточный Туркестан и далее к городским центрам китайской цивилизации было обусловлено формированием Шелкового пути и всей предшествующей историей развития этого региона, создавшей возможность активного культурного обмена. Начиная с создания эллинистических государств, Бактрийского царства и индо-греческих государственных образований складывается историко-культурная ситуация, способствовавшая «проницаемости» культуры, воспринимавшей и западные влияния, исходившие из античного ми-
+Буддийская культура Китая, в сфере которой развивалась деятельность Сюань-цзана, имела уже длительную историю, восходившую к I в. н.э. К этому времени относила проникновение буддизма в Китай сама буддийская традиция, в которой была популярна легенда о чудесном сне ханьского императора Мин-ди, увидевшего сияющую фигуру Будды. К тому же веку относятся первые упоминания о китайских буддистах --- мирянах и монахах --- в источниках \[<a id="b_zrcher2007"></a>[Zürcher 2007](#zrcher2007): 19-22\]. Первый период распространения буддизма в Китае был связан с деятельностью проповедников, приходивших из «Западного Края» --- культурных центров Средней Азии, главным образом Бактрии и Согдианы. Миссионерское движение из Средней Азии через Восточный Туркестан и далее к городским центрам китайской цивилизации было обусловлено формированием Шелкового пути и всей предшествующей историей развития этого региона, создавшей возможность активного культурного обмена. Начиная с создания эллинистических государств, Бактрийского царства и индо-греческих государственных образований складывается историко-культурная ситуация, способствовавшая «проницаемости» культуры, воспринимавшей и западные влияния, исходившие из античного ми-
 
 <a id="4">*4 Введение*</a>
 
-pa, и юго-восточные, исходившие из Индии. Становление Кушанской империи, охватывавшей обширные территории Центральной и Средней Азии, а также Северо-Западной Индии, способствовало продолжению этого процесса; именно к этому периоду относится начало бурного развития буддизма в этих областях \[Puri 2007: 100- 101\], когда складываются свои традиции монастырской жизни, культовой архитектуры, скульптуры и живописи, активно передается текстовая традиция. Многолетние археологические исследования буддийских монастырей древней Бактрии или Бамиана, а также изучение центральноазиатских буддийских текстов создали целые направления в археологии и текстологии. Реализация такой возможности для распространения буддизма была обеспечена политической историей региона и созданием крупных государств, вместе с тем она зависела и от тех потенций, которые были заложены изначально в самом буддийском вероучении, рассматривавшем бытие буддийской *дхармы* (***dharma***, *фо-фа* 佛法 --- «учение Будды», «закон Будды») как продолжающееся во времени «вращение колеса», осваивающего все новые пространства. Соответственно, проповедническая деятельность расценивалась как исполнение этого предназначения и большая религиозная заслуга \[Александрова 2008: 85-86, 110\]. Благодаря всей сумме этих исторических факторов произошло сложение той длинной цепи буддийских монастырей, по которой передвигались проповедники, --- из Индии в Бамиан, Балх, Термез и далее в Среднюю Азию, а затем из этих областей в восточную сторону, в Китай. На этом последнем отрезке пути немаловажную роль сыграла и внешнеполитическая активность китайских правителей, направленная на освоение Западного Края (Си юй 西域), под которым понимались как территории современного Синьцзяна, так и области, находившиеся на пути далее к западу до Бактрии и Согдианы; в это же понятие вошли и те страны, куда можно было попасть по ответвлениям этого пути на юг или юго-восток, включая Индию. В Западный Край направлялись официальные китайские посланники, писавшие отчеты о посещенных областях, где давали подробную информацию, необходимую для установления торговых или дипломатических отношений, ведения войны. Торговые отношения со странами Западного Края не только позволяли китайской аристократии наслаждаться иноземными вещицами, фруктами или получать дорогих среднеазиатских коней \[Шефер 1981\], но и создавали притягательные образы «западной» культуры, в которой немаловажное место занимало
+pa, и юго-восточные, исходившие из Индии. Становление Кушанской империи, охватывавшей обширные территории Центральной и Средней Азии, а также Северо-Западной Индии, способствовало продолжению этого процесса; именно к этому периоду относится начало бурного развития буддизма в этих областях \[<a id="b_puri2007"></a>[Puri 2007](#puri2007): 100-101\], когда складываются свои традиции монастырской жизни, культовой архитектуры, скульптуры и живописи, активно передается текстовая традиция. Многолетние археологические исследования буддийских монастырей древней Бактрии или Бамиана, а также изучение центральноазиатских буддийских текстов создали целые направления в археологии и текстологии. Реализация такой возможности для распространения буддизма была обеспечена политической историей региона и созданием крупных государств, вместе с тем она зависела и от тех потенций, которые были заложены изначально в самом буддийском вероучении, рассматривавшем бытие буддийской *дхармы* (***dharma***, *фо-фа* 佛法 --- «учение Будды», «закон Будды») как продолжающееся во времени «вращение колеса», осваивающего все новые пространства. Соответственно, проповедническая деятельность расценивалась как исполнение этого предназначения и большая религиозная заслуга \[<a id="b_aleksandrova2008"></a>[Александрова 2008](#aleksandrova2008): 85-86, 110\]. Благодаря всей сумме этих исторических факторов произошло сложение той длинной цепи буддийских монастырей, по которой передвигались проповедники, --- из Индии в Бамиан, Балх, Термез и далее в Среднюю Азию, а затем из этих областей в восточную сторону, в Китай. На этом последнем отрезке пути немаловажную роль сыграла и внешнеполитическая активность китайских правителей, направленная на освоение Западного Края (Си юй 西域), под которым понимались как территории современного Синьцзяна, так и области, находившиеся на пути далее к западу до Бактрии и Согдианы; в это же понятие вошли и те страны, куда можно было попасть по ответвлениям этого пути на юг или юго-восток, включая Индию. В Западный Край направлялись официальные китайские посланники, писавшие отчеты о посещенных областях, где давали подробную информацию, необходимую для установления торговых или дипломатических отношений, ведения войны. Торговые отношения со странами Западного Края не только позволяли китайской аристократии наслаждаться иноземными вещицами, фруктами или получать дорогих среднеазиатских коней \[<a id="b_shefer1981"></a>[Шефер 1981](#shefer1981)\], но и создавали притягательные образы «западной» культуры, в которой немаловажное место занимало
 
 <a id="5">*5 Введение*</a>
 
@@ -123,9 +123,9 @@ pa, и юго-восточные, исходившие из Индии. Стан
 
 более острой, что создавало главный стимул к развитию паломничества в Индию.
 
-Паломники передвигались от монастыря к монастырю по тем же путям, по которым буддизм пришел некогда в Китай. По этой причине наиболее естественным был путь через Западный Край, который, впрочем, разделялся на две главные ветви --- более короткую дорогу через Хотан и горные перевалы Гиндукуша и более длинную дорогу через северную часть Синьцзяна, Среднюю Азию и территорию современного Афганистана. Регулярные паломничества начинают происходить со II в. н.э. и особенно активны в IV-V вв. В это время совершил свое путешествие Фа-сянь, о чем хорошо известно благодаря полностью сохранившемуся тексту его «Записок о буддийских странах» («Фо го цзи» 佛國記 \[Beal 1884-1886: I; Jiles 1956; Legge 1965; Александрова 2008\]).
+Паломники передвигались от монастыря к монастырю по тем же путям, по которым буддизм пришел некогда в Китай. По этой причине наиболее естественным был путь через Западный Край, который, впрочем, разделялся на две главные ветви --- более короткую дорогу через Хотан и горные перевалы Гиндукуша и более длинную дорогу через северную часть Синьцзяна, Среднюю Азию и территорию современного Афганистана. Регулярные паломничества начинают происходить со II в. н.э. и особенно активны в IV-V вв. В это время совершил свое путешествие Фа-сянь, о чем хорошо известно благодаря полностью сохранившемуся тексту его «Записок о буддийских странах» («Фо го цзи» 佛國記 \[<a id="b_beal1884"></a>[Beal 1884-1886](#beal1884): I; <a id="b_jiles1956"></a>[Jiles 1956](#jiles1956); <a id="b_legge1965"></a>[Legge 1965](#legge1965); <a id="b_aleksandrova2008"></a>[Александрова 2008](#aleksandrova2008)\]).
 
-Первый период развития китайского буддизма, который был основан на активном контакте с индийской традицией --- и через обучение у приходивших в Китай индийских учителей, и через переводческую деятельность, и через путешествия в Индию, --- требовал от монахов вживания в индийский текст, индийскую культуру, индийскую мифологию и философию. При столь глубокой разнице между двумя культурными традициями и во многом различавшемся сознании адепты формировавшегося китайского буддизма должны были пережить значительные «повороты» в своих представлениях, приобретая иное видение пространства мира, этических проблем, иной характер текстового мышления. Наиболее остро переживали эти метаморфозы именно те, кто действительно попадали в Индию и жили в этой стране в течение долгого времени. Известны случаи настолько глубокого переживания несовместимости того и другого культурного состояния, что паломник чувствовал невозможность возвращения и навсегда оставался в индийском монастыре \[Александрова 2008: 143-144\]. Поэтому наиболее заметно сказывалось влияние индийской культуры именно в начальный период развития китайского буддизма, когда главной задачей было освоение инокультурной традиции, в то время как в дальнейшем китайский буддизм вырабатывает свои школы уже в значительном отрыве от первоистоков. Деятельность Сюань-цзана как раз завершала начальный период и была, наверное, самой его вершиной.
+Первый период развития китайского буддизма, который был основан на активном контакте с индийской традицией --- и через обучение у приходивших в Китай индийских учителей, и через переводческую деятельность, и через путешествия в Индию, --- требовал от монахов вживания в индийский текст, индийскую культуру, индийскую мифологию и философию. При столь глубокой разнице между двумя культурными традициями и во многом различавшемся сознании адепты формировавшегося китайского буддизма должны были пережить значительные «повороты» в своих представлениях, приобретая иное видение пространства мира, этических проблем, иной характер текстового мышления. Наиболее остро переживали эти метаморфозы именно те, кто действительно попадали в Индию и жили в этой стране в течение долгого времени. Известны случаи настолько глубокого переживания несовместимости того и другого культурного состояния, что паломник чувствовал невозможность возвращения и навсегда оставался в индийском монастыре \[<a id="b_aleksandrova2008"></a>[Александрова 2008](#aleksandrova2008): 143-144\]. Поэтому наиболее заметно сказывалось влияние индийской культуры именно в начальный период развития китайского буддизма, когда главной задачей было освоение инокультурной традиции, в то время как в дальнейшем китайский буддизм вырабатывает свои школы уже в значительном отрыве от первоистоков. Деятельность Сюань-цзана как раз завершала начальный период и была, наверное, самой его вершиной.
 
 Время жизни Сюань-цзана (600-664) пришлось на эпоху конца династии Суй и ранней империи Тан (правление танских императо-
 
@@ -5404,233 +5404,233 @@ PTS --- Pali Texts Society
 
 ### Библиография
 
-<a id="alex2003">Александрова 2003</a> --- *Александрова Н.В.* Гандхара --- Кашмир в «Записках» Сюань-цзана. ВДИ. 2003. №3.
+<a id="aleksandrova2003"></a>[Александрова 2003](#b_aleksandrova2003) --- *Александрова Н.В.* Гандхара --- Кашмир в «Записках» Сюань-цзана. ВДИ. 2003. №3.
 
-<a id="alex2004">Александрова 2004</a> --- *Александрова Н.В.* Географическое пространство в картине мира буддиста-паломника // Человек и природа в духовной культуре Востока. М., 2004.
+<a id="aleksandrova2004"></a>[Александрова 2004](#b_aleksandrova2004) --- *Александрова Н.В.* Географическое пространство в картине мира буддиста-паломника // Человек и природа в духовной культуре Востока. М., 2004.
 
-<a id="alex2004a">Александрова 2004а</a> --- *Александрова Н.В.* Кашмирские предания в «Записках» Сюань-цзана: структура текста и смысловые трансформации // Индия --- Тибет: текст и вокруг текста. Рериховские чтения 2002 г. в Институте востоковедения РАН. М., 2004.
+<a id="aleksandrova2004a"></a>[Александрова 2004а](#b_aleksandrova2004a) --- *Александрова Н.В.* Кашмирские предания в «Записках» Сюань-цзана: структура текста и смысловые трансформации // Индия --- Тибет: текст и вокруг текста. Рериховские чтения 2002 г. в Институте востоковедения РАН. М., 2004.
 
-<a id="alex2008">Александрова 2008</a> --- *Александрова Н.В.* Путь и текст. Китайские паломники в Индии. М., 2008.
+<a id="aleksandrova2008"></a>[Александрова 2008](#b_aleksandrova2008) --- *Александрова Н.В.* Путь и текст. Китайские паломники в Индии. М., 2008.
 
-Бартольд 1963 --- *Бартольд В.В.* Сочинения. Т. I. М., 1963.
+<a id="bartold1963"></a>[Бартольд 1963](#b_bartold1963) --- *Бартольд В.В.* Сочинения. Т. I. М., 1963.
 
-Бичурин 1960 --- *Бичурин НЯ.* (Иакинф). Собрание сведений по исторической географии Восточной и Срединной Азии. Чебоксары, 1960.
+<a id="bichurin1960"></a>[Бичурин 1960](#b_bichurin1960) --- *Бичурин НЯ.* (Иакинф). Собрание сведений по исторической географии Восточной и Срединной Азии. Чебоксары, 1960.
 
-БКРС --- Большой китайско-русский словарь. Т. I---IV. М., 1983.
+<a id="brks1983"></a>[БКРС](#b_brks1983) --- Большой китайско-русский словарь. Т. I---IV. М., 1983.
 
-Боровкова 2005 --- *Боровкова Л.А.* Кушанское царство по древним китайским источникам. М., 2005.
+<a id="borovkova2005"></a>[Боровкова 2005](#b_borovkova2005) --- *Боровкова Л.А.* Кушанское царство по древним китайским источникам. М., 2005.
 
-Васубандху 1994 --- *Васубандху.* Абхидхармакоша (Энциклопедия Абхидхармы). Раздел третий. Учение о мире / Пер. с санскр. Е.П. Островской и В.И. Рудого. СПб., 1994.
+<a id="vasubandkhu1994"></a>[Васубандху 1994](#b_vasubandkhu1994) --- *Васубандху.* Абхидхармакоша (Энциклопедия Абхидхармы). Раздел третий. Учение о мире / Пер. с санскр. Е.П. Островской и В.И. Рудого. СПб., 1994.
 
-Духовная культура Китая. Мифология. Религия 2007 --- Духовная культура Китая: энциклопедия в 5 т. / Гл. ред. М.Л. Титаренко. \[Т. 2:\] Мифология. Религия. М., 2007.
+<a id="dukhov2007"></a>[Духовная культура Китая. Мифология. Религия 2007](#b_dukhov2007) --- Духовная культура Китая: энциклопедия в 5 т. / Гл. ред. М.Л. Титаренко. \[Т. 2:\] Мифология. Религия. М., 2007.
 
 <a id="ermak1990"></a>[Ермаков 1990](#b_ermak1990) --- *Ермаков М.Е.* Биографическая и житийная литература раннего китайского буддизма // Буддизм: проблемы истории, культуры, современности. М., 1990.
 
-Индийская философия 2009 --- Индийская философия: энциклопедия. М., 2009.
+<a id="indiys2009"></a>[Индийская философия 2009](#b_indiys2009) --- Индийская философия: энциклопедия. М., 2009.
 
-Комиссарова 1979 --- *Комиссарова Т.Г.* О трех китайских переводах Вималакир- тинирдеша-сутры // Кафаров и его вклад в отечественное востоковедение. Материалы конференции. Ч. 3. М., 1979.
+<a id="komissarova1979"></a>[Комиссарова 1979](#b_komissarova1979) --- *Комиссарова Т.Г.* О трех китайских переводах Вималакир- тинирдеша-сутры // Кафаров и его вклад в отечественное востоковедение. Материалы конференции. Ч. 3. М., 1979.
 
-Корнеева 2007 --- Вишну-смрити / Пер. с санскр., предисл., коммент, и приложения Н.А. Корнеевой. М., 2007 (Памятники письменности Востока. CXXXII).
+<a id="korneeva2007"></a>[Корнеева 2007](#b_korneeva2007) --- Вишну-смрити / Пер. с санскр., предисл., коммент, и приложения Н.А. Корнеевой. М., 2007 (Памятники письменности Востока. CXXXII).
 
-Малявкин 1989 --- *Малявкин А.Г.* Танские хроники о государствах Центральной Азии. Новосибирск, 1989.
+<a id="malyavkin1989"></a>[Малявкин 1989](#b_malyavkin1989) --- *Малявкин А.Г.* Танские хроники о государствах Центральной Азии. Новосибирск, 1989.
 
-Мандельштам 1957 --- *Мандельштам А.М.* Материалы к историко-географическому обзору Памира и припамирских областей. Сталинабад, 1957.
+<a id="mandelshtam1957"></a>[Мандельштам 1957](#b_mandelshtam1957) --- *Мандельштам А.М.* Материалы к историко-географическому обзору Памира и припамирских областей. Сталинабад, 1957.
 
 <a id="424">*424 Библиография*</a>
 
-Русанов 2008 --- *Русанов М.А.* Бодхисаттва в утробе матери. «Лалитавистара». Гл. 6. Схождение в утробу / Вступит. ст., пер. с санскр. и коммент. М.А. Русанова // Восток. 2008. №4.
+<a id="rusanov2008"></a>[Русанов 2008](#b_rusanov2008) --- *Русанов М.А.* Бодхисаттва в утробе матери. «Лалитавистара». Гл. 6. Схождение в утробу / Вступит. ст., пер. с санскр. и коммент. М.А. Русанова // Восток. 2008. №4.
 
-Сутра о мудрости и глупости 2002 --- Сутра о мудрости и глупости (Дзанлун- до) / Пер. с тиб., введ. и коммент. Ю.М. Парфионовича. М., 2002.
+<a id="sutra2002"></a>[Сутра о мудрости и глупости 2002](#b_sutra2002) --- Сутра о мудрости и глупости (Дзанлун- до) / Пер. с тиб., введ. и коммент. Ю.М. Парфионовича. М., 2002.
 
-Шефер 1981 --- *Шефер Э.* Золотые персики Самарканда. Книга о чужеземных диковинах в империи Тан. М., 1960.
+<a id="shefer1981"></a>[Шефер 1981](#b_shefer1981) --- *Шефер Э.* Золотые персики Самарканда. Книга о чужеземных диковинах в империи Тан. М., 1960.
 
-Философия буддизма: энциклопедия 2011 --- Философия буддизма: энциклопедия / Отв. ред. М.Т. Степанянц. М., 2011.
+<a id="filosof2011"></a>[Философия буддизма: энциклопедия 2011](#b_filosof2011) --- Философия буддизма: энциклопедия / Отв. ред. М.Т. Степанянц. М., 2011.
 
 <br>
 
-Arya 2004 --- *Arya S. N.* History of Pilgrimage in Ancient India. Delhi, 2004.
+<a id="arya2004"></a>[Arya 2004](#b_arya2004) --- *Arya S. N.* History of Pilgrimage in Ancient India. Delhi, 2004.
 
-Beal 1884-1886 --- Si-yu-ki. Buddhist Records of the Western World / Transl. by S. Beal. Vol. I-II. L., 1884-1886.
+<a id="beal1884"></a>[Beal 1884-1886](#b_beal1884) --- Si-yu-ki. Buddhist Records of the Western World / Transl. by S. Beal. Vol. I-II. L., 1884-1886.
 
-Bhattacharya 1999 --- *Bhattacharya N.N.* Geographical Dictionary. Ancient and Early Medieval India. N. Delhi, 1999.
+<a id="bhattacharya1999"></a>[Bhattacharya 1999](#b_bhattacharya1999) --- *Bhattacharya N.N.* Geographical Dictionary. Ancient and Early Medieval India. N. Delhi, 1999.
 
-Bhattacharya-Haesner 2008 --- *Bhattacharya-Haesner Ch.* Legendary Xuanzang: Some of His Narratives Reported in Central Asian Art // Xuanzang and Silk Route. N. Delhi, 2008.
+<a id="bhattacharyahaesner2008"></a>[Bhattacharya-Haesner 2008](#b_bhattacharyahaesner2008) --- *Bhattacharya-Haesner Ch.* Legendary Xuanzang: Some of His Narratives Reported in Central Asian Art // Xuanzang and Silk Route. N. Delhi, 2008.
 
-Boucher 2011 --- *Boucher D.* Bodhisattvas of the Forest and the Formation of the Mahayana. A Study and Translation of the RAX (Rapālaparipṛcchā-sūtra). Delhi, 2011 (first publ. 2008).
+<a id="boucher2011"></a>[Boucher 2011](#b_boucher2011) --- *Boucher D.* Bodhisattvas of the Forest and the Formation of the Mahayana. A Study and Translation of the RAX (Rapālaparipṛcchā-sūtra). Delhi, 2011 (first publ. 2008).
 
-Brough 1947 --- *Brough J.* Legends of Khotan and Nepal // BSOAS. 1947.
+<a id="brough1947"></a>[Brough 1947](#b_brough1947) --- *Brough J.* Legends of Khotan and Nepal // BSOAS. 1947.
 
-Burlingame 2005 --- *Burlingame E. W.* Buddhist Legends / Translated from the Original Pali Text of the Dhammapada. Commentary by E.W. Burlingame. Part III. Delhi, 2005.
+<a id="burlingame2005"></a>[Burlingame 2005](#b_burlingame2005) --- *Burlingame E. W.* Buddhist Legends / Translated from the Original Pali Text of the Dhammapada. Commentary by E.W. Burlingame. Part III. Delhi, 2005.
 
-СВЕТА --- 中華電子佛典協會 Chinese Buddhist Electronic Text Association. Chinese Electronic Tripitaka Collection, 2006.
+<a id="cbeta2006"></a>[СВЕТА](#b_cbeta2006) --- 中華電子佛典協會 Chinese Buddhist Electronic Text Association. Chinese Electronic Tripitaka Collection, 2006.
 
-Chavannes 1903 --- *Chavannes E.* Documents sur les Tou-kiue (Turks) Occidentaux. Spb., 1903.
+<a id="chavannes1903"></a>[Chavannes 1903](#b_chavannes1903) --- *Chavannes E.* Documents sur les Tou-kiue (Turks) Occidentaux. Spb., 1903.
 
-Chavannes 1903a --- *Chavannes E.* Voyage de Song Yun dans l'Udyana et le Gandhara // BEFEO. 1903. T III.
+<a id="chavannes1903a"></a>[Chavannes 1903a](#b_chavannes1903a) --- *Chavannes E.* Voyage de Song Yun dans l'Udyana et le Gandhara // BEFEO. 1903. T III.
 
-Chaudhury 2005 --- *Choudhury B.N.* Dictionary of Buddhist Doctrinal and Technical Terms. Kolkata, 2005.
+<a id="chaudhury2005"></a>[Chaudhury 2005](#b_chaudhury2005) --- *Choudhury B.N.* Dictionary of Buddhist Doctrinal and Technical Terms. Kolkata, 2005.
 
-Cunningham 1996 --- *Cunningham A.* The Ancient Geography of India. Delhi, 1996 (1st ed. 1871).
+<a id="cunningham1996"></a>[Cunningham 1996](#b_cunningham1996) --- *Cunningham A.* The Ancient Geography of India. Delhi, 1996 (1st ed. 1871).
 
-Cunningham 1998 --- *Cunningham A.* The Stūpa of Bharhut: A Buddhist Monument Ornamented with Numerous Sculptures Illustrative of Buddhist Legend and History in the Third Century BC. Delhi, 1998.
+<a id="cunningham1998"></a>[Cunningham 1998](#b_cunningham1998) --- *Cunningham A.* The Stūpa of Bharhut: A Buddhist Monument Ornamented with Numerous Sculptures Illustrative of Buddhist Legend and History in the Third Century BC. Delhi, 1998.
 
-Deeg 1999 --- Deeg M. The Saṅgha of Devadatta: Fiction and History of a Heresy in the Buddhist Tradition // Journal of the International College for Advanced Buddhist Studies. 1999.
+<a id="deeg1999"></a>[Deeg 1999](#b_deeg1999) --- Deeg M. The Saṅgha of Devadatta: Fiction and History of a Heresy in the Buddhist Tradition // Journal of the International College for Advanced Buddhist Studies. 1999.
 
-Deleanu 2006 --- *Deleanu F.* The Chapter on the Mundane Path (Laukikamarga) in the Śrāvakabhūmi / A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation and Introductory Study. Vol. I-II. Tokyo, 2006 (Studia Philologica Buddhica. Monograph Series XXa).
+<a id="deleanu2006"></a>[Deleanu 2006](#b_deleanu2006) --- *Deleanu F.* The Chapter on the Mundane Path (Laukikamarga) in the Śrāvakabhūmi / A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation and Introductory Study. Vol. I-II. Tokyo, 2006 (Studia Philologica Buddhica. Monograph Series XXa).
 
-Devuhuti 1983 ---*Devahuti D.* Harsha: A Political Study. Delhi, 1983.
+<a id="devuhuti1983"></a>[Devuhuti 1983](#b_devuhuti1983) ---*Devahuti D.* Harsha: A Political Study. Delhi, 1983.
 
 <a id="425">*425 Библиография*</a>
 
-Dey 1984 --- *Dey N.L.* The Geographical Dictionary of Ancient and Medieval India. N. Delhi, 1984.
+<a id="dey1984"></a>[Dey 1984](#b_dey1984) --- *Dey N.L.* The Geographical Dictionary of Ancient and Medieval India. N. Delhi, 1984.
 
-Dhirasekera 2007 --- *Dhirasekera J.* Buddhist Monastic Discipline. Dehivala, 2007.
+<a id="dhirasekera2007"></a>[Dhirasekera 2007](#b_dhirasekera2007) --- *Dhirasekera J.* Buddhist Monastic Discipline. Dehivala, 2007.
 
-Dictionary of Buddhism 2009 --- Dictionary of Buddhism. Delhi, 2009.
+<a id="dictionaryofbuddhism2009"></a>[Dictionary of Buddhism 2009](#b_dictionaryofbuddhism2009) --- Dictionary of Buddhism. Delhi, 2009.
 
-The Divyāvadāna 1987 --- *The Divyāvadāna.* A Collection of Early Buddhist Legends / Transl. by E.B. Cowell and R.A. Neil. Cambridge, 1987.
+<a id="thedivyvadna1987"></a>[The Divyāvadāna 1987](#b_thedivyvadna1987) --- *The Divyāvadāna.* A Collection of Early Buddhist Legends / Transl. by E.B. Cowell and R.A. Neil. Cambridge, 1987.
 
-Dutt 1978 --- *Dutt N.* Buddhist Sects in India. Delhi, 1978.
+<a id="dutt1978"></a>[Dutt 1978](#b_dutt1978) --- *Dutt N.* Buddhist Sects in India. Delhi, 1978.
 
-Edgerton 2004 --- *Edgerton F.* Buddhist Hybrid Sanskrit Grammar and Dictionary. Vol. II. Dictionary. Delhi, 2004.
+<a id="edgerton2004"></a>[Edgerton 2004](#b_edgerton2004) --- *Edgerton F.* Buddhist Hybrid Sanskrit Grammar and Dictionary. Vol. II. Dictionary. Delhi, 2004.
 
-Feer 1897 --- *Feer M.R.* Les Jatakas dans les mémoires de Hiouen-Thsang // Congrès international des orientalistes. Sect. I. P., 1897.
+<a id="feer1897"></a>[Feer 1897](#b_feer1897) --- *Feer M.R.* Les Jatakas dans les mémoires de Hiouen-Thsang // Congrès international des orientalistes. Sect. I. P., 1897.
 
-Fergusson 2004 --- *Fergusson J.* Tree and Serpent Worship or Illustrations of Mythology and Art in India in the First and Fourth Centuries after Christ from the Sculptures of the Buddhist Topes at Sanchi and Amravati. N. Delhi-Chennai, 2004.
+<a id="fergusson2004"></a>[Fergusson 2004](#b_fergusson2004) --- *Fergusson J.* Tree and Serpent Worship or Illustrations of Mythology and Art in India in the First and Fourth Centuries after Christ from the Sculptures of the Buddhist Topes at Sanchi and Amravati. N. Delhi-Chennai, 2004.
 
-Fleet 1906 --- *Fleet J.F.* The Yojana and the Li // JRAS. 1906.
+<a id="fleet1906"></a>[Fleet 1906](#b_fleet1906) --- *Fleet J.F.* The Yojana and the Li // JRAS. 1906.
 
-Foucher 1897 --- *Foucher A.* Note sur l'itinéraire de Hiuen-Tsang du Gandhara // Congrès international des orientalistes. P., 1897.
+<a id="foucher1897"></a>[Foucher 1897](#b_foucher1897) --- *Foucher A.* Note sur l'itinéraire de Hiuen-Tsang du Gandhara // Congrès international des orientalistes. P., 1897.
 
-Foucher 1902 --- *Foucher A.* Notes sur la geography ancienne du Gandhara. Hanoi, 1902.
+<a id="foucher1902"></a>[Foucher 1902](#b_foucher1902) --- *Foucher A.* Notes sur la geography ancienne du Gandhara. Hanoi, 1902.
 
-Franz 1965 ---*Franz H.* Buddhistische Kunst Indiens. Lpz., 1965.
+<a id="franz1965"></a>[Franz 1965](#b_franz1965) --- *Franz H.* Buddhistische Kunst Indiens. Lpz., 1965.
 
-Getty 1928 --- *Getty A.* The Gods of Northern Buddhism. Oxf., 1928.
+<a id="getty1928"></a>[Getty 1928](#b_getty1928) --- *Getty A.* The Gods of Northern Buddhism. Oxf., 1928.
 
-Gombrich 2007 --- *Gombrich R.F.* How Buddhism Began. The Conditioned Genesis of the Early Teachings. N. Delhi, 2007.
+<a id="gombrich2007"></a>[Gombrich 2007](#b_gombrich2007) --- *Gombrich R.F.* How Buddhism Began. The Conditioned Genesis of the Early Teachings. N. Delhi, 2007.
 
-The Heritage of Nalanda 2008 --- The Heritage of Nalanda / Ed. by C. Mani. N. Delhi, 2008.
+<a id="theheritageofnalanda2008"></a>[The Heritage of Nalanda 2008](#b_theheritageofnalanda2008) --- The Heritage of Nalanda / Ed. by C. Mani. N. Delhi, 2008.
 
-Grierson 1906 --- *Grierson G.A.* Yuan Chwang's Mo-la-po // JRAS. 1906.
+<a id="grierson1906"></a>[Grierson 1906](#b_grierson1906) --- *Grierson G.A.* Yuan Chwang's Mo-la-po // JRAS. 1906.
 
 Hazra 2009--- *Hazra K.L.* The Rise and Decline of Buddhism in India. N. Delhi, 2009.
 
-Hirakawa 1997 --- *Hirakawa A.* A Buddhist Chinese-Sanskrit Dictionary. Tokyo, 1997.
+<a id="hirakawa1997"></a>[Hirakawa 1997](#b_hirakawa1997) --- *Hirakawa A.* A Buddhist Chinese-Sanskrit Dictionary. Tokyo, 1997.
 
-Hureau 2006 --- *Hureau S.* Preaching and Translating on *Pośadha* Days: Kumārajiva's Role in Adapting an Indian Ceremony to China // Journal of the International College for Postgraduate Buddhist Studies. 2006.
+<a id="hureau2006"></a>[Hureau 2006](#b_hureau2006) --- *Hureau S.* Preaching and Translating on *Pośadha* Days: Kumārajiva's Role in Adapting an Indian Ceremony to China // Journal of the International College for Postgraduate Buddhist Studies. 2006.
 
-Jiles 1956 --- *Fa-hsien.* The Travels of Fa-hsien (399-414) or Record of the Buddhistic Kingdoms / Re-transl. by H.A. Jiles. L., 1956.
+<a id="jiles1956"></a>[Jiles 1956](#b_jiles1956) --- *Fa-hsien.* The Travels of Fa-hsien (399-414) or Record of the Buddhistic Kingdoms / Re-transl. by H.A. Jiles. L., 1956.
 
-Joshi 1987 ---*Joshi L.M.* Studies in the Buddhist Culture of India. Delhi, 1987.
+<a id="joshi1987"></a>[Joshi 1987](#b_joshi1987) --- *Joshi L.M.* Studies in the Buddhist Culture of India. Delhi, 1987.
 
-Julien 1857 --- *Hiouen-thsang.* Mémoires sur les contrées occidentales, traduit du Sanskrit en chinoise, en l'an 648 par Hiouen-thsang et du chinois en français par S. Julien. Vol. 1-2. P., 1857.
+<a id="julien1857"></a>[Julien 1857](#b_julien1857) --- *Hiouen-thsang.* Mémoires sur les contrées occidentales, traduit du Sanskrit en chinoise, en l'an 648 par Hiouen-thsang et du chinois en français par S. Julien. Vol. 1-2. P., 1857.
 
-Klaproth 1836 --- *Klaproth J.* Aperçu du voyage de Hiouan Thsang prétre bouddhiste Chinoise dans l'Asie moyenne et l'Inde // Nouvelles Annales des Voyages. 1836. T. 1.
+<a id="klaproth1836"></a>[Klaproth 1836](#b_klaproth1836) --- *Klaproth J.* Aperçu du voyage de Hiouan Thsang prétre bouddhiste Chinoise dans l'Asie moyenne et l'Inde // Nouvelles Annales des Voyages. 1836. T. 1.
 
-Kloetzli 2007 --- *Kloetzli W.R.* Buddhist Cosmology. Delhi, 2007.
+<a id="kloetzli2007"></a>[Kloetzli 2007](#b_kloetzli2007) --- *Kloetzli W.R.* Buddhist Cosmology. Delhi, 2007.
 
-Law 1976 --- *Law B.Ch.* Historical Geography of Ancient India. Delhi, 1976.
+<a id="law1976"></a>[Law 1976](#b_law1976) --- *Law B.Ch.* Historical Geography of Ancient India. Delhi, 1976.
 
-Law 2008 --- *Law B.Ch.* Geography of Early Buddhism. N. Delhi, 2008.
+<a id="law2008"></a>[Law 2008](#b_law2008) --- *Law B.Ch.* Geography of Early Buddhism. N. Delhi, 2008.
 
-Legge 1965 --- A Record of Buddhistic Kingdoms. Being an Account by the Chinese Monk Fa-Hien of His Travels in India and Ceylon (A. D. 399-414) in Search of
+<a id="legge1965"></a>[Legge 1965](#b_legge1965) --- A Record of Buddhistic Kingdoms. Being an Account by the Chinese Monk Fa-Hien of His Travels in India and Ceylon (A. D. 399-414) in Search of
 
 <a id="426">*426 Библиография*</a>
 
-the Buddhist Books of Discipline / Transl., annot. and with a Corean Recension of the Chinese Text by James Legge. N. Y., 1965 (1st ed. Oxf., 1886).
+<a id="books1965"></a>[the Buddhist Books](#b_books1965) of Discipline / Transl., annot. and with a Corean Recension of the Chinese Text by James Legge. N. Y., 1965 (1st ed. Oxf., 1886).
 
-Li Yung-hsi 1957 --- *Li Yung-hsi.* The Life oh Hsuan-tsang, The Tripitaka-master of the Great Tzu En Monastery, Compiled by Monk Hui-li. Peking, 1957.
+<a id="liyunghsi1957"></a>[Li Yung-hsi 1957](#b_liyunghsi1957) --- *Li Yung-hsi.* The Life oh Hsuan-tsang, The Tripitaka-master of the Great Tzu En Monastery, Compiled by Monk Hui-li. Peking, 1957.
 
-Lubotsky 1997 --- *Lubotsky A.* A Rgvedic Word Concordance. New Haven, 1997.
+<a id="lubotsky1997"></a>[Lubotsky 1997](#b_lubotsky1997) --- *Lubotsky A.* A Rgvedic Word Concordance. New Haven, 1997.
 
-Malalasekera 2008 --- *Malalasekera G.P.* Dictionary of Pali Proper Names. Delhi, 2008.
+<a id="malalasekera2008"></a>[Malalasekera 2008](#b_malalasekera2008) --- *Malalasekera G.P.* Dictionary of Pali Proper Names. Delhi, 2008.
 
-Marshall, Foucher 1983 --- *Marshall D., Foucher A.* The Monuments of Sāñchi. Vol. I-III. Delhi, 1982.
+<a id="marshallfoucher1983"></a>[Marshall, Foucher 1983](#b_marshallfoucher1983) --- *Marshall D., Foucher A.* The Monuments of Sāñchi. Vol. I-III. Delhi, 1982.
 
-Monier-Williams 1997 --- *Monier-Williams M.A.* Sanskrit-English Dictionary. Delhi, 1997.
+<a id="monierwilliams1997"></a>[Monier-Williams 1997](#b_monierwilliams1997) --- *Monier-Williams M.A.* Sanskrit-English Dictionary. Delhi, 1997.
 
-Nakamura 2007 --- *Nakamura H.* Indian Buddhism. A Survey with Bibliographical Notes. Delhi, 2007.
+<a id="nakamura2007"></a>[Nakamura 2007](#b_nakamura2007) --- *Nakamura H.* Indian Buddhism. A Survey with Bibliographical Notes. Delhi, 2007.
 
-Narain 1968 --- *Narain A.K.* The Date of Kanishka // Papers on the Date of Kanishka. Leiden, 1968.
+<a id="narain1968"></a>[Narain 1968](#b_narain1968) --- *Narain A.K.* The Date of Kanishka // Papers on the Date of Kanishka. Leiden, 1968.
 
-Nattier 2008 --- *Nattier J.* A Guide to the Earliest Chinese Buddhist Translations. Tokyo, 2008 (Bibliotheca Philologica et Philosophica Buddhica X).
+<a id="nattier2008"></a>[Nattier 2008](#b_nattier2008) --- *Nattier J.* A Guide to the Earliest Chinese Buddhist Translations. Tokyo, 2008 (Bibliotheca Philologica et Philosophica Buddhica X).
 
-Pandey --- *Pandey M.S.* The Historical Geography and Topography of Bihar. Delhi, \[s.a.\].
+<a id="pandey"></a>[Pandey](#b_pandey) --- *Pandey M.S.* The Historical Geography and Topography of Bihar. Delhi, \[s.a.\].
 
-Pathak 2008 --- *Pathak S.K.* Buddhism in Bamiyan // Xuanzang and Silk Route. N. Delhi, 2008.
+<a id="pathak2008"></a>[Pathak 2008](#b_pathak2008) --- *Pathak S.K.* Buddhism in Bamiyan // Xuanzang and Silk Route. N. Delhi, 2008.
 
-Prziluski 1923 --- *Prziluski J.* La Légende de l'Emperor Açoka dans les textes indiens et chinois. P., 1923.
+<a id="prziluski1923"></a>[Prziluski 1923](#b_prziluski1923) --- *Prziluski J.* La Légende de l'Emperor Açoka dans les textes indiens et chinois. P., 1923.
 
-Puri 2007 --- *Puri B.N.* Buddhism in Central Asia. Delhi, 2007.
+<a id="puri2007"></a>[Puri 2007](#b_puri2007) --- *Puri B.N.* Buddhism in Central Asia. Delhi, 2007.
 
-Ray 2010 --- *Ray H.* The Silk Road: In the Footsteps of Xuanzang // India on the Silk Road. Delhi, 2010.
+<a id="ray2010"></a>[Ray 2010](#b_ray2010) --- *Ray H.* The Silk Road: In the Footsteps of Xuanzang // India on the Silk Road. Delhi, 2010.
 
-Sadakata 1999 --- *Sadakata A.* Buddhist Cosmology. Philosophy and Origins. Tokyo, 1999.
+<a id="sadakata1999"></a>[Sadakata 1999](#b_sadakata1999) --- *Sadakata A.* Buddhist Cosmology. Philosophy and Origins. Tokyo, 1999.
 
-Saint Martin 1857--- *Saint Martin L. V. de.* Mémorie analytique sur la carte de l'Asie Centrale et de l'Inde // *Hiouen thsang.* Mémoires sur les contrées occidentals, traduit du Sanskrit en chinoise, en l'an 648 par Hiouen-thsang et du chinois en français par S. Julien. Vol. 2. P., 1857.
+<a id="smartin1857"></a>[Saint Martin 1857](#b_smartin1857)--- *Saint Martin L. V. de.* Mémorie analytique sur la carte de l'Asie Centrale et de l'Inde // *Hiouen thsang.* Mémoires sur les contrées occidentals, traduit du Sanskrit en chinoise, en l'an 648 par Hiouen-thsang et du chinois en français par S. Julien. Vol. 2. P., 1857.
 
-Shravak 2010 --- *Shravak L.* On Xuanzang's Contribution as Translator to the Development of the Buddism in China // India on the Silk Road. Delhi, 2010.
+<a id="shravak2010"></a>[Shravak 2010](#b_shravak2010) --- *Shravak L.* On Xuanzang's Contribution as Translator to the Development of the Buddism in China // India on the Silk Road. Delhi, 2010.
 
-Sircar 1971 --- *Sircar D.C.* Studies in the Geography of Ancient and Medieval India. Delhi-Baranasi-Patna, 1971.
+<a id="sircar1971"></a>[Sircar 1971](#b_sircar1971) --- *Sircar D.C.* Studies in the Geography of Ancient and Medieval India. Delhi-Baranasi-Patna, 1971.
 
-Smith 1898 --- *Smith V.* Sravasti and Kausambi // JRAS. 1898.
+<a id="smith1898"></a>[Smith 1898](#b_smith1898) --- *Smith V.* Sravasti and Kausambi // JRAS. 1898.
 
-Soothill 1998 --- *Soothill W.E.* A Dictionary of Chinese Buddhist Terms. Delhi, 1998.
+<a id="soothill1998"></a>[Soothill 1998](#b_soothill1998) --- *Soothill W.E.* A Dictionary of Chinese Buddhist Terms. Delhi, 1998.
 
-Spooner 1908-1909 --- *Spooner D.B.* Excavations at Shāh-ji-ki-dheri // ASI. 1908-1909.
+<a id="spooner1908"></a>[Spooner 1908-1909](#b_spooner1908) --- *Spooner D.B.* Excavations at Shāh-ji-ki-dheri // ASI. 1908-1909.
 
-Stein 1907 --- *Stein A.* Ancient Chotan. Oxf., 1907.
+<a id="stein1907"></a>[Stein 1907](#b_stein1907) --- *Stein A.* Ancient Chotan. Oxf., 1907.
 
-Stein 1942 --- *Stein A.* From Svat to the Gorges of the Indus // Geographical Journal. 1942. T. 200.
+<a id="stein1942"></a>[Stein 1942](#b_stein1942) --- *Stein A.* From Svat to the Gorges of the Indus // Geographical Journal. 1942. T. 200.
 
-Strong 2007 --- *Strong J.S.* Relics of the Buddha. Delhi, 2007.
+<a id="strong2007"></a>[Strong 2007](#b_strong2007) --- *Strong J.S.* Relics of the Buddha. Delhi, 2007.
 
-Takakusu 1998 --- A Record of the Buddhjst Religion as Practiced in India and the Malaya Archipelago (AD 671-695) by I-Tsing / Transl. by J. Takakusu. Delhi, 1998.
+<a id="takakusu1998"></a>[Takakusu 1998](#b_takakusu1998) --- A Record of the Buddhjst Religion as Practiced in India and the Malaya Archipelago (AD 671-695) by I-Tsing / Transl. by J. Takakusu. Delhi, 1998.
 
 <a id="427">*427 Библиография*</a>
 
-Thomas 2003 --- *Thomas E.J.* The Life of Buddha as Legend and History. N. Delhi, 2003.
+<a id="thomas2003"></a>[Thomas 2003](#b_thomas2003) --- *Thomas E.J.* The Life of Buddha as Legend and History. N. Delhi, 2003.
 
-Upasak 2001 --- *Upasak C.S.* Dictionary of Early Buddhist Monastic Terms (Based on Pali Literature). Nalanda, 2001.
+<a id="upasak2001"></a>[Upasak 2001](#b_upasak2001) --- *Upasak C.S.* Dictionary of Early Buddhist Monastic Terms (Based on Pali Literature). Nalanda, 2001.
 
-Vost 1906 --- *Vost W.* Identifications of the Region of Kapilavastu // JRAS. 1906.
+<a id="vost1906"></a>[Vost 1906](#b_vost1906) --- *Vost W.* Identifications of the Region of Kapilavastu // JRAS. 1906.
 
-Walter 2008 --- *Walter M.N.* Mahāyāna and Hinayāna in Central Asian Buddhist Hjstory: According to the Hsan Tsang and Other Evidence // Xuanzang and Silk Route. N. Delhi, 2008.
+<a id="walter2008"></a>[Walter 2008](#b_walter2008) --- *Walter M.N.* Mahāyāna and Hinayāna in Central Asian Buddhist Hjstory: According to the Hsan Tsang and Other Evidence // Xuanzang and Silk Route. N. Delhi, 2008.
 
-Watters 1904-1906--- *Watters T.* On Juan Chwang's Travels in India (629-645 A.D.). Vol. I-II. L., 1904-1905 (Oriental Translation Fund, New Series. Vol. XIV-XV).
+<a id="watters1904"></a>[Watters 1904-1906](#b_watters1904) --- *Watters T.* On Juan Chwang's Travels in India (629-645 A.D.). Vol. I-II. L., 1904-1905 (Oriental Translation Fund, New Series. Vol. XIV-XV).
 
-Weinstein 1973 --- *Weinstein St.* Imperial Patronage in the Formation of the T'ang Buddhism // Perspectives on the T'ang. New Haven-London, 1973.
+<a id="weinstein1973"></a>[Weinstein 1973](#b_weinstein1973) --- *Weinstein St.* Imperial Patronage in the Formation of the T'ang Buddhism // Perspectives on the T'ang. New Haven-London, 1973.
 
-Wright 1973 --- *Wright A.F.* T'ang T'ai-tsung and Buddhism // Perspectives on the T'ang. New Haven-London, 1973.
+<a id="wright1973"></a>[Wright 1973](#b_wright1973) --- *Wright A.F.* T'ang T'ai-tsung and Buddhism // Perspectives on the T'ang. New Haven-London, 1973.
 
-Yule 1873 --- *Yule H.* Notes on Hwen Thsan's Account of the Principalities of Tokharistan // JRAS. 1873. T. VI.
+<a id="yule1873"></a>[Yule 1873](#b_yule1873) --- *Yule H.* Notes on Hwen Thsan's Account of the Principalities of Tokharistan // JRAS. 1873. T. VI.
 
-Zürcher 1968 --- *Zürcher E.* The Yueh-chih and Kanishka in the Chinese Sources // Papers on the Date of Kanishka. Leiden, 1968.
+<a id="zrcher1968"></a>[Zürcher 1968](#b_zrcher1968) --- *Zürcher E.* The Yueh-chih and Kanishka in the Chinese Sources // Papers on the Date of Kanishka. Leiden, 1968.
 
-Zürcher 2007 --- *Zürcher E.* The Buddhist Conquest of China. The Spread and Adaptation of Buddhism in Early Medieval China. Leiden, 2007.
+<a id="zrcher2007"></a>[Zürcher 2007](#b_zrcher2007) --- *Zürcher E.* The Buddhist Conquest of China. The Spread and Adaptation of Buddhism in Early Medieval China. Leiden, 2007.
 
 <br>
 
-*Арья Шура.* Гирлянда джатак, или Сказания о подвигах бодхисаттвы / Пер. с санскр. А.П. Баранникова и О.Ф. Волковой. М., 2000.
+<a id="arya2000"></a>[*Арья Шура.*](#b_arya2000) Гирлянда джатак, или Сказания о подвигах бодхисаттвы / Пер. с санскр. А.П. Баранникова и О.Ф. Волковой. М., 2000.
 
-*Бируни А.Р.* Индия. М., 1995.
+<a id="biruni1995"></a>[*Бируни А.Р.*](#b_biruni1995) Индия. М., 1995.
 
-The Collection of the Middle Length Sayings (Majjhima-Nikāya) / Transl. from the Pali by LB. Homer. Vol. I-III. Delhi, 2004.
+<a id="collect2004"></a>[The Collection](#b_collect2004) of the Middle Length Sayings (Majjhima-Nikāya) / Transl. from the Pali by LB. Homer. Vol. I-III. Delhi, 2004.
 
-*Jonston E.H.* Aśvaghosa's Buddhacarita: Or, Acts of the Buddha. Delhi, 2007.
+<a id="johnson2007"></a>[*Jonston E.H.*](#b_johnson2007) Aśvaghosa's Buddhacarita: Or, Acts of the Buddha. Delhi, 2007.
 
-The Digha Nikaya / Ed. by T.W. Rhys Davids and J.E. Carpenter. Vol. 1-3. Delhi, 2008.
+<a id="digha2008"></a>[The Digha Nikaya](#b_digha2008) / Ed. by T.W. Rhys Davids and J.E. Carpenter. Vol. 1-3. Delhi, 2008.
 
-The Divyāvadāna. A Collection of Early Buddhist Legends / Transl. by E.B. Cowell and R.A. Neil. Cambridge, 1987.
+<a id="diva1987"></a>[The Divyāvadāna.](#b_diva1987) A Collection of Early Buddhist Legends / Transl. by E.B. Cowell and R.A. Neil. Cambridge, 1987.
 
-The Harshacarita of Bāṇabhaṭṭa / Ed. by P.V. Kane. Delhi, 1997.
+<a id="har1997"></a>[The Harshacarita](#b_har1997) of Bāṇabhaṭṭa / Ed. by P.V. Kane. Delhi, 1997.
 
-The Jātaka or Stories of the Buddha's Former Births / Transl. by E.B. Cowell. Vol. 12. Delhi, 2001.
+<a id="jataka2001"></a>[The Jātaka or Stories](#b_jataka2001) of the Buddha's Former Births / Transl. by E.B. Cowell. Vol. 12. Delhi, 2001.
 
-Lalita-vistara. P.L. Vaidya (ed). The Mithila Institute of Post-Graduate Studies and Research in Sanskrit Learning. Darbhanga, 1987.
+<a id="lalita1987"></a>[Lalita-vistara.](#b_lalita1987) P.L. Vaidya (ed). The Mithila Institute of Post-Graduate Studies and Research in Sanskrit Learning. Darbhanga, 1987.
 
-The Mahāvaṃsa or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwela, 2007; The Mahāvaṃsa / Ed. by W. Geiger. L., 1908 (PTS).
+<a id="maha2007"></a>[The Mahāvaṃsa](#b_maha2007) or the Great Chronicle of Ceylon / Transl. by W. Geiger. Dehiwela, 2007; The Mahāvaṃsa / Ed. by W. Geiger. L., 1908 (PTS).
 
 <a id="428">*428*</a>
 
