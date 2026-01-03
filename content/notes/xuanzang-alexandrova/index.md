@@ -22,21 +22,21 @@ fediverse: "@username@instance.url"
 
 Источники:
 
-* Исходный PDF книги Александровой.
+* Исходный PDF книги Александровой ([скачать](https://drive.google.com/file/d/1WH0vcNtijF64uP6JcgsatvgfbTvCB8yx/view?usp=sharing)).
 * Распознанный и отредактированный текст введения на [vostlit.info](https://www.vostlit.info/Texts/Dokumenty/China/VII/620-640/Sjuan_tsan_II/frametext1.htm).
 * Распознанный и отредактированный текст повествования на [vostlint.info](https://www.vostlit.info/Texts/Dokumenty/China/VII/620-640/Sjuan_tsan_II/vved.phtml).
 
 Копирайты теста с <vostlit.info>:
 
-© текст --- Александрова Н. В. 2012
-© сетевая версия --- Strori. 2015
-© OCR --- Иванов А. 2015
-© дизайн --- Войтехович А. 2001
+© текст --- Александрова Н. В. 2012  
+© сетевая версия --- Strori. 2015  
+© OCR --- Иванов А. 2015  
+© дизайн --- Войтехович А. 2001  
 © Восточная литература. 2012
 
 ## Список изменений
 
-Относительно версии на vostlit.info.
+Относительно версии vostlit.info.
 
 * Возвращен список сокращений, библиография, указатели, summary, содержание.
 * Возвращены санскритская диакритика и иероглифы (возможны ошибки).
