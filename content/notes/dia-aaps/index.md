@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Инструкции и заметки по сборке и настройке AndroidAPS (AAPS).
+Инструкции и заметки по сборке и настройке AndroidAPS (AAPS), Libre, XDrip+ и др.
 
 ## Сборка приложения
 
@@ -28,10 +28,10 @@ fediverse: "@username@instance.url"
 * Аккаунт на Google (если есть почта на gmail, то аккаунт уже есть)
 * Установить VSCode + расширение Live server
 
-### Инструкция по сборке Android AAPS
+### Первичная сборка Android AAPS
 
-1. Сделать Fork репозитория приложения AAPS <https://github.com/simgislab/AndroidAPS>
-2. [Скачать](https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html) aaps-ci-preparation.html. Это страница-хелпер которая поможет сгенерировать KEYSTORE_SET и GDRIVE_OAUTH2.
+1. Сделать Fork репозитория приложения AAPS. Перейти в [официальный репозиторий](https://github.com/nightscout/AndroidAPS), нажать Fork, адрес форка <https://github.com/simgislab/AndroidAPS>
+2. [Скачать](https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html) aaps-ci-preparation.html. Это страница-хелпер которая поможет сгенерировать KEYSTORE_SET и GDRIVE_OAUTH2. Репозиторий [aaps-ci-preparation](https://github.com/nightscout/aaps-ci-preparation). Текущая версия 1.1.2 Oct 13, 2025.
 3. Открыть в VSCode и запустить страницу в Live server.
 4. Сгенерировать в хелпере KEYSTORE_SET.
 5. Добавить секрет репозитория KEYSTORE_SET со значением выше (Repository secret, не путать с Environment secret) <https://github.com/simgislab/AndroidAPS/settings/secrets/actions>.
@@ -39,12 +39,25 @@ fediverse: "@username@instance.url"
 7. Добавить секрет репозитория GDRIVE_OAUTH2 со значением (Repository secret, не путать с Environment secret) <https://github.com/simgislab/AndroidAPS/settings/secrets/actions>.
 8. Выбрать Actions в репозитории с форком (или перейти по ссылке <https://github.com/simgislab/AndroidAPS/actions>)
 9. All workflows -> AAPS CI -> Run workflow. Branch: master, Build: FullRelease
-10. Дождите результата, файл APK появится в [личном Google Drive](https://drive.google.com/drive/my-drive), в папке AAPS.
+10. Дождитесь результата, файл APK появится в [личном Google Drive](https://drive.google.com/drive/my-drive), в папке AAPS.
 
 Примечания:
 
 * Видео-превью в [официальной документации](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/BrowserBuild.html) требуют VPN.
 * Ошибка "There was a problem while parsing the package" при установке означает, что вы пытаетесь установить из APK на телефоне со старой (неподдерживаемой) версией операционной системы Android - найдите другое, более современное устройство.
+
+### Обновление сборки Android AAPS
+
+При условии, что успешно выполнено всё, что выше.
+
+1. В репозитории форка выбрать Sync fork
+2. Выбрать Actions в репозитории с форком (или перейти по ссылке <https://github.com/simgislab/AndroidAPS/actions>)
+3. All workflows -> AAPS CI -> Run workflow. Branch: master, Build: FullRelease
+4. Дождитесь результата, файл APK появится в [личном Google Drive](https://drive.google.com/drive/my-drive), в папке AAPS.
+
+Примечания:
+
+* Замечено периодическое падение сборки на этапе Build APKs, 403 ошибки gradle. Помогает простой перезапуск сборки.
 
 ## Настройки
 
@@ -72,6 +85,13 @@ fediverse: "@username@instance.url"
 * AAPS 3.3.2.1 (требуемая версия Android 11 и выше). Эта версия не совместима с 14.2.6, не важно v1 или v3.
 
 Чем отличается [V3 от V1](https://androidaps.readthedocs.io/en/latest/Maintenance/ReleaseNotes.html#important-comments-on-using-v3-versus-v1-api-for-nightscout-with-aaps).
+
+### Перенос настроек
+
+Примечания:
+
+* Чтобы файл json с настройками увидело приложение, он должен лежать в подпапке preferences.
+* При восстановлени настроек из json - профиль не будет подхвачен автоматически. Чтобы он подхватился нужно после импорта настроек его активировать или выбрать через Setup Wizard.
 
 ## XDrip+ и Libre 1
 
