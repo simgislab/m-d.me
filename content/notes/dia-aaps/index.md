@@ -93,6 +93,16 @@ fediverse: "@username@instance.url"
 * Чтобы файл json с настройками увидело приложение, он должен лежать в подпапке preferences.
 * При восстановлени настроек из json - профиль не будет подхвачен автоматически. Чтобы он подхватился нужно после импорта настроек его активировать или выбрать через Setup Wizard.
 
+### Objectives/Цели
+
+### Objective 1
+
+Чтобы пройти задачу "Pump status available in NS or Tidepool" нужно чтобы в сборке NightScout был pump и другие переменные описанные в [настройках](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/Nightscout.html#manual-nightscout-setup). Если их нет, то требуется изменение переменных среды и пересборка.
+
+### Objective 2
+
+Display the Loop plugin’s content. Этот раздел это не раздел в Config builder, в нем всегда включенная и засеренная галка и пустой раздел настройки. Чтобы пройти задачу, нужно нажать гамбургер и выбрать Loop там.
+
 ## XDrip+ и Libre 1
 
 [Официальный сайт](https://jamorham.github.io/#xdrip-plus) XDrip+.
