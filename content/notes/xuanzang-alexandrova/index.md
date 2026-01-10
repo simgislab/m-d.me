@@ -5603,7 +5603,7 @@ the Buddhist Books of Discipline / Transl., annot. and with a Corean Recension o
 
 <a id="vost1906"></a>Vost 1906 --- *Vost W.* Identifications of the Region of Kapilavastu // JRAS. 1906.
 
-<a id="walter2008"></a>Walter 2008 --- *Walter M.N.* Mahāyāna and Hinayāna in Central Asian Buddhist Hjstory: According to the Hsan Tsang and Other Evidence // Xuanzang and Silk Route. N. Delhi, 2008.
+<a id="walter2008"></a>Walter 2008 --- *Walter M.N.* Mahāyāna and Hīnayāna in Central Asian Buddhist Hjstory: According to the Hsan Tsang and Other Evidence // Xuanzang and Silk Route. N. Delhi, 2008.
 
 <a id="watters1904"></a>Watters 1904-1906 --- *Watters T.* On Juan Chwang's Travels in India (629-645 A.D.). Vol. I-II. L., 1904-1905 (Oriental Translation Fund, New Series. Vol. XIV-XV).
 
@@ -5660,7 +5660,7 @@ the Buddhist Books of Discipline / Transl., annot. and with a Corean Recension o
 
 Анатхапиндада см. Судатта
 
-Ангулимала (***Angulimāla***, Янцзюйлимоло 是鸯窶利摩羅, Чжи-мань 指鬉) [152](#152), [153](#153), **[386](#386)**
+Ангулимала (***Aṅgulimāla***, Янцзюйлимоло 是鸯窶利摩羅, Чжи-мань 指鬉) [152](#152), [153](#153), **[386](#386)**
 
 Анируддха (***Aniruddha***, ***Anuruddha***, Анилюйто 阿泥聿陀) [174](#174), [175](#175), **[391](#391)**
 
@@ -5984,6 +5984,14 @@ the Buddhist Books of Discipline / Transl., annot. and with a Corean Recension o
 Праджапати (***Prajāpati***, Болошэбоди 鉢邏闍鉢底) [152](#152), **[386](#386)**
 
 Прасенаджит (***Prasenajit***, Болосинашидо 鉢邏犀那恃多, Шэн-цзюнь 勝軍) [152](#152), [153](#153), [159](#159), [163](#163), [164](#164), [381](#381), [385](#385)
+
+Пулакеша (*Pulakeśa*, Булоцишэ 補羅稽舍) 303
+
+Пурна (***Рūrṇа***, Булана 布刺拏) 107
+
+Пурнаварман (***Рūrṇаvarman***, Буланафамо 補剌拏伐摩, Мань-чжоу 滿胄) 223, 259, 399
+
+Пурнамайтраянипутра (***Рūrṇаmaitrāyaṇiputra***, Буланамэйдалияньнифудало 布朿IJ拏梅咀麗衍尼弗阻羅) 116
 
 <br>
 
