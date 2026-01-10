@@ -8176,4 +8176,4 @@ The primary goal of this work is to supply a commented Russian translation of th
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/146)
+[**Обсудить**](https://t.me/answer42geo/151)
