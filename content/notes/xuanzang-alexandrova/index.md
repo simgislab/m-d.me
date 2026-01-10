@@ -54,7 +54,7 @@ fediverse: "@username@instance.url"
 
 ## Содержание книги
 
-![titul.png](titul.png#full)
+![titul.png](titul.png)
 
 <a id="1">*1*</a>
 
