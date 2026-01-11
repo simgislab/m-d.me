@@ -201,12 +201,13 @@ Baadekspeditionens Landstigning efter Turen paa Socho-Nor. Lieberenz fot.
 
 Высадка лодочной экспедиции после плавания по Сочо-Нор. Фото Либеренца.
 
-### Высадка лодочной экспедиции
+### Пустынная крепость Дамбиджанцан
 
 ![haslund-photo.png](../ja-lama-fort-photos/haslund-photo.png "Dambin Djansangs Ørkenborg. Hembel fot.")
 
 Dambin Djansangs Ørkenborg. Hembel fot.
 
+Пустынная крепость Дамбиджанцана. Фото Хембеля.
 
 ### 
 

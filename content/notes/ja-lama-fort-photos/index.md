@@ -94,9 +94,9 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Полная ссылка на немецкое издание: Haslund-Christensen H. Zajagan Menschen und Götter in der Mongolei / Von Henning Haslund-Christensen; Mit einem Vorwort von Sven Hedin und einer Übersichtskarte sowie 34 Bildern nach Originalaußnahmen der Sven-Hedin-Zentral-Asien-Expedition, [Nach der schwedischen Originalausgabe ... übers. von Marie Franzos ...]. — Stuttgart [u. a.] : Union Deutsche Verl.-Ges., [1936]. — 279 с., 9 л. ил. ил., нот., карт.; 24 см.
 
-![250-city.jpg](/notes/lomakina-ja-lama/250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда из книги Голова Джа-ламы")
+![250-city.jpg](../lomakina-ja-lama/250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда из книги Голова Джа-ламы")
 
-[Фото в тексте книги "Голова Джа-ламы"](../lomakina-ja-lama/#250).
+[Фото в тексте книги "Голова Джа-ламы"](/notes/lomakina-ja-lama/#250).
 
 Неизвестно, есть ли эта фотография в немецком издании или исходном датском. Однако, однозначно выяснено, что фотография есть в издании на датском языке 1947 г.
 
