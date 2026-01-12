@@ -100,13 +100,13 @@ V. Pica, L. Vauxellcs, Arsène Alexandre, A. Koiransky, B. Grigorief, O. Dymoff,
 
 Special issues of magazines were dedicated to Roerich's art by *Mir Isskustva; Isskustvo; Vessi; Zolotoye Runo; L'Art Decoratif,* Paris; *Studio,* London; *The Touchstone,* New York; *Colour,* London; *Gazette des Beaux Arts,* Paris; *Volne Smeri,* Prague; *Dilo,* Prague; *Art and Archæology,* Washington; and many others.
 
-Information about his various foreign works is strewn in many series of editions: *Studio,* London; *International Studio,* New York; *Emporium,* Milan; *Les Arts et les Artistes,* Paris; *Volne Smeri* and *Dilo,* Prague; *Deutsche Kunst,* Darmstadt; *The Review,* Calcutta; and many other Hindu, Japanese and Ameri­can magazines.
+Information about his various foreign works is strewn in many series of editions: *Studio,* London; *International Studio,* New York; *Emporium,* Milan; *Les Arts et les Artistes,* Paris; *Volne Smeri* and *Dilo,* Prague; *Deutsche Kunst,* Darmstadt; *The Review,* Calcutta; and many other Hindu, Japanese and American magazines.
 
-The large monograph, "Himalaya," published by Brentano's, New York (1926), gives 100 reproductions of Roerich's paintings of 1923-25. The monograph published by Corona Mundi, Inter­national Art Center, in 1923, also "Nicholas Roerich," published by Editions de la Revue du Vrai et du Beau, as well as Roerich's works "Adamant" (1923) and "Paths of Blessing" (1925), ac­quaint us with his consciousness in all its phases.
+The large monograph, "Himalaya," published by Brentano's, New York (1926), gives 100 reproductions of Roerich's paintings of 1923-25. The monograph published by Corona Mundi, International Art Center, in 1923, also "Nicholas Roerich," published by Editions de la Revue du Vrai et du Beau, as well as Roerich's works "Adamant" (1923) and "Paths of Blessing" (1925), acquaint us with his consciousness in all its phases.
 
 For four and a half years, Roerich in an unrepeatable circle, encompassed Central Asia. Starting in the Himalayas so beloved of him, he courageously brought his Expedition through all obstacles again to the same place in the foothills of these highest mountains of the world.
 
-The entire series of paintings which he made on that mem­orable journey and the published works of the members of the Expedition will reflect its valuable results. Now the opportunity is offered to read Roerich's travel notes, those "thoughts upon horseback and in the tent," induced by the contemplation of lofty
+The entire series of paintings which he made on that memorable journey and the published works of the members of the Expedition will reflect its valuable results. Now the opportunity is offered to read Roerich's travel notes, those "thoughts upon horseback and in the tent," induced by the contemplation of lofty
 
 <a id="vii">**vii PUBLISHER’S NOTE**</a>
 
@@ -116,7 +116,7 @@ What is this book? Is it a scientific treatise? Obviously not, because such a wo
 
 In conclusion it may not be amiss to quote a fragment of one of Roerich's letters sent from Little Tibet, to Corona Mundi, International Art Center, in 1925, in which he indicates his program and purpose:
 
-"Friends, it would have been far easier for me to have set down the entire journey in all its fairy-tale of 'fantasy,' which colors every peak and every desert space with unprecedented truth. But then some will be incredulous, as he who sleeps in dark­ness does not believe in the sun. Is it possible that the sun is already rising? Facts are needed. I am writing only facts. I am setting down fragments of the thoughts as they now live in the East. I am setting down distances and tales, as they are now related. But even in facts, the Sunrise comes from the East. . . ."
+"Friends, it would have been far easier for me to have set down the entire journey in all its fairy-tale of 'fantasy,' which colors every peak and every desert space with unprecedented truth. But then some will be incredulous, as he who sleeps in darkness does not believe in the sun. Is it possible that the sun is already rising? Facts are needed. I am writing only facts. I am setting down fragments of the thoughts as they now live in the East. I am setting down distances and tales, as they are now related. But even in facts, the Sunrise comes from the East. . . ."
 
 - - - - -
 
@@ -124,13 +124,13 @@ As the first news from the Roerich American Expedition, after its lengthy wander
 
 "Roerich American Expedition after many hardships has reached Himalayas. Thus ended big Central Asiatic Expedition. Many artistic and scientific results. Already sent several series of paintings to New York. Hope last sending from Mongolia safely reached you. Many observations regarding Buddhism.
 
-"Expedition started in 1924 from Sikhim through Punjab, Kashmir, Ladak, Karakorum, Khotan, Kashgar, Karashahr, Ur­umchi, Irtysh, Altai Mountains, Oyrot region, Mongolia, Central Gobi, Kansu, Tsaidam, Tibet.
+"Expedition started in 1924 from Sikhim through Punjab, Kashmir, Ladak, Karakorum, Khotan, Kashgar, Karashahr, Urumchi, Irtysh, Altai Mountains, Oyrot region, Mongolia, Central Gobi, Kansu, Tsaidam, Tibet.
 
 <a id="viii">**viii PUBLISHER’S NOTE**</a>
 
 "Peaceful American flag encircled Central Asia. Everywhere warmly greeted except Khotan and Lhasa Governments. Further movement Expedition from Khotan assisted by British Consul at Kashgar. On Tibetan territory have been attacked by armed robbers. Superiority of our firearms prevented bloodshed. In spite of Tibetan passports Expedition forcibly stopped by Tibetan authorities on Oct. 6, two days north of Nagchu. With inhuman cruelty Expedition has been detained for five months at altitude of 15,000 feet in summer tents amidst severe cold about 40 degrees below Centigrade.
 
-"Expedition suffered from want of fuel and fodder. During stay in Tibet five men, Mongols, Buriats and Tibetans died and ninety caravan animals perished. By order of authorities all letters and wires addressed to Lhasa Government and Calcutta British authorities seized. Forbidden to speak to passing cara­vans. Forbidden to buy foodstuffs from population. Money and medicines came to an end. The presence of three women in caravan and medical certificate about heart weakness not taken into consideration. With great difficulties on March 4, Expedi­tion started southward. All nine European members of the Expedition safe. Courageously bore hardships of exceptionally severe Winter. Greetings."
+"Expedition suffered from want of fuel and fodder. During stay in Tibet five men, Mongols, Buriats and Tibetans died and ninety caravan animals perished. By order of authorities all letters and wires addressed to Lhasa Government and Calcutta British authorities seized. Forbidden to speak to passing caravans. Forbidden to buy foodstuffs from population. Money and medicines came to an end. The presence of three women in caravan and medical certificate about heart weakness not taken into consideration. With great difficulties on March 4, Expedition started southward. All nine European members of the Expedition safe. Courageously bore hardships of exceptionally severe Winter. Greetings."
 
 <a id="ix">**ix**</a>
 

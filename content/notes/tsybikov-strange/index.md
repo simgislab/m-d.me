@@ -21,7 +21,7 @@ fediverse: "@username@instance.url"
 Что странного:
 
 1. G.G. Tsybikoff --- что за отчество? Отчество Цыбикова было [Цэбекович](https://ru.wikipedia.org/wiki/%D0%A6%D1%8B%D0%B1%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%93%D0%BE%D0%BC%D0%B1%D0%BE%D0%B6%D0%B0%D0%B1_%D0%A6%D1%8D%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2%D0%B8%D1%87). Это Ts или наконец C, откуда взялось G?
-2. Кто вообще написал статью? Если сам Цыбиков (он указан как автор), то зачем он обращается к себе в третьем лице и называет себя M. Tsybikoff (мистер Цыбиков). 
+2. Кто вообще написал статью? Если сам Цыбиков (он указан как автор), то зачем он обращается к себе в третьем лице и называет себя M. Tsybikoff (мистер Цыбиков).
 3. Где полные ссылки? В статье упоминается *Izvestia of the Russian Geographical Society (1903, iii.).* Что означает iii? Скорее всего речь об Известиях ИРГО. Т. XXXIX, но что за куцая ссылка? Ни в начале журнала, ни в конце никакого намека на ссылки нет. **См. ответ Geographical Journal в конце материала.**
 4. В конце статьи говорится о наборе из 66 фото описанном Известиях. Но [в упомянутом томе их 77](/notes/lhasa-monastery-photos/), 45 Норзунова и 32 Цыбикова и конечно самому Цыбикову это было известно.
 5. На странице статьи в JSTOR указано, что на нее ссылается статья The Primordial Sea Under the City Temple of Lhasa and the Willows Before the Sanctuary. Siegbert Hummel, G. Vogliotti. The Tibet Journal, Vol. 24, No. 4 (Winter 1999), pp. 12-21. Но никаких упоминаний Цыбикова в этой статье нет. **См. ответ JSTOR в конце материала.**
@@ -68,13 +68,13 @@ We omit also the description of Lhasa, and only remark that M. Tsybikoff confirm
 
 Several important monasteries are situated near Lhasa, the chief of them being Sera, Daibun, and Galdan. The second, 7 miles northwest of the capital, is the largest; Sera (3 miles to the north) comes next, and Galdan (20 miles) is on the south-east of Ui-chu, on the slope of Mount Bsog-ri.\* (\* Ri means "a holy mountain.") All three were founded in the lifetime of Tsonhava, at the beginning of the sixteenth century, and they have from 15,000 to 16,000 monks (8000 to 8500 in Daibun). These monasteries are now not so much refuges of asceticism as schools for the teaching of philosophical theology for the Lamaite clergy. Still, the Sera monastery is as renowned for its ascetics, who live isolated in their *ritods,* or cells, plunged into contemplation, as Daibun is renowned for its prophets, or oracles, who foretell the future. Galdan, on its side, is famous for its relics.
 
-M. Tsybikoff visited also a few other monasteries. 
+M. Tsybikoff visited also a few other monasteries.
 
 ![LHASA, VIEWED FROM THE NORTH.](https://ic.pics.livejournal.com/answer_42/8642793/40160/40160_original.png "LHASA, VIEWED FROM THE NORTH.")
 
 LHASA, VIEWED FROM THE NORTH.
 
-One of them, Tashi-lhumpo, is situated 167 miles west of Lhasa, on the right bank of the Brahmaputra, which is called Tsan-chu, or Tsanpo-chu, in its course within Tibet. 
+One of them, Tashi-lhumpo, is situated 167 miles west of Lhasa, on the right bank of the Brahmaputra, which is called Tsan-chu, or Tsanpo-chu, in its course within Tibet.
 
 ![THE POTALA, LHASA.](https://ic.pics.livejournal.com/answer_42/8642793/40239/40239_original.png "THE POTALA, LHASA.")
 
@@ -94,7 +94,7 @@ Tibet receives from India chiefly cloth, velveteen, china, and all sorts of baga
 
 As to Mongolia, all trade is carried on by caravans, which are sent out by the monasteries, and the pious collections made for the latter contribute a great deal to the prosperity of the lamas.
 
-After having left Lhasa on September 23, 1901, M. Tsybikoff, after many delays, reached Urga only on April 18 of next year. 
+After having left Lhasa on September 23, 1901, M. Tsybikoff, after many delays, reached Urga only on April 18 of next year.
 
 ![MONASTERY TASHI-LHUMPO.](https://ic.pics.livejournal.com/answer_42/8642793/40663/40663_original.png "MONASTERY TASHI-LHUMPO.")
 
@@ -134,9 +134,9 @@ It must also be said that about the same time, that is, at the end of 1899, the 
 >
 > I have examined the sequence of Journal Manuscripts in our Archives and there is no evidence that this article was actively submitted from an external source for possible publication in our Journal, nor was it presented as a lecture to our Fellows.
 >
-> I also note that it was printed in the section of our Journal covering the 'geographical news updates' area of its output, which explains the lack of manuscripts as above.  The Geographical Journal (GJ) and its predecessors not only published papers speculatively submitted and/or presented as lectures to the Fellowship, but traditionally kept our audiences informed of geographical matters on an international scale.  It appears to me, given its physical positioning within the issue, that the (re-)publication of the Tsybikoff article content falls into that latter category.
+> I also note that it was printed in the section of our Journal covering the 'geographical news updates' area of its output, which explains the lack of manuscripts as above. The Geographical Journal (GJ) and its predecessors not only published papers speculatively submitted and/or presented as lectures to the Fellowship, but traditionally kept our audiences informed of geographical matters on an international scale. It appears to me, given its physical positioning within the issue, that the (re-)publication of the Tsybikoff article content falls into that latter category.
 >
-> The Society would have received the latest issue of the Izvestia of the Russian Geographical Society into its Library collection to add to its periodical run as normal.  I would surmise that the Izvestia article by Tsybikoff was then noted by the Librarian of the time (Edward Heawood) and flagged internally to Society Editor J. Scott Keltie for inclusion/mention within our own GJ.  Sadly there is no correspondence or minute book content to support that; I imagine that the process would have involved a face-to-face discussion between colleagues, however, so that is not altogether surprising.  The Society didn't maintain records re receipt of individual issues for hundreds of periodical subscriptions, so I cannot give you an acquisition date for that particular Izvestia issue ("1903, iii"), but I imagine it would have been received towards the end of that year, giving enough time for its inclusion in the first of our 12 GJ issues for 1904.
+> The Society would have received the latest issue of the Izvestia of the Russian Geographical Society into its Library collection to add to its periodical run as normal. I would surmise that the Izvestia article by Tsybikoff was then noted by the Librarian of the time (Edward Heawood) and flagged internally to Society Editor J. Scott Keltie for inclusion/mention within our own GJ. Sadly there is no correspondence or minute book content to support that; I imagine that the process would have involved a face-to-face discussion between colleagues, however, so that is not altogether surprising. The Society didn't maintain records re receipt of individual issues for hundreds of periodical subscriptions, so I cannot give you an acquisition date for that particular Izvestia issue ("1903, iii"), but I imagine it would have been received towards the end of that year, giving enough time for its inclusion in the first of our 12 GJ issues for 1904.
 >
 > I'm sorry that we have not been able to provide a definitive answer with supporting paperwork, but trust that my suggestions given above will prove of interest.
 >
@@ -164,9 +164,9 @@ It must also be said that about the same time, that is, at the end of 1899, the 
 >
 > Search our online catalogue -- Browse our scanned images -- Attend our events -- View our online exhibitions
 >
-> PLEASE NOTE: Since the coronavirus (COVID-19) outbreak and its associated health and safety concerns, certain elements of the Society's services have changed.  See <https://www.rgs.org/about-us/visit-us> for more information.
+> PLEASE NOTE: Since the coronavirus (COVID-19) outbreak and its associated health and safety concerns, certain elements of the Society's services have changed. See <https://www.rgs.org/about-us/visit-us> for more information.
 >
-> And do bear in mind that Society staff are now flexi-working (partially at headquarters, partially home-working).  So a query which requires examination of Collections stock in person cannot necessarily be answered on date of receipt; please allow more time for responses.
+> And do bear in mind that Society staff are now flexi-working (partially at headquarters, partially home-working). So a query which requires examination of Collections stock in person cannot necessarily be answered on date of receipt; please allow more time for responses.
 
 ## Запрос к JSTOR
 

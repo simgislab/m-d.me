@@ -16,7 +16,7 @@ fediverse: "@username@instance.url"
 
 The Central Asian Expedition (CAE) — [caemap.com/en](https://caemap.com/en/#m=4/40.02/90.35&l=Gr) — is an excellent resource providing detailed mapping information about Nicholas Roerich’s five-year expedition described in [*Trails to Inmost Asia*](/notes/roerich-trails-to-asia-en/). The website is available in both English and Russian.
 
-Data from the website is described in a [separate note](/content/notes/roerich-cae-data/).
+Data from the website is described in a [separate note](/notes/roerich-cae-data/).
 
 The reconstruction of the route, organization of the material and overall design is of exceptionally high quality. Level of the implementation is very high compared other historical web projects.
 
