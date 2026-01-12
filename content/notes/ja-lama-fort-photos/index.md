@@ -66,7 +66,7 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 Черно-белая репродукция картины [опубликована](/notes/roerich-altai-himalaya/#356jalama) в первом издании книги [Altai-Himalaya: A Travel Diary](/notes/roerich-altai-himalaya/) 1929 г.
 
-![356jalama.jpg](/notes/roerich-altai-himalaya/356jalama.jpg "Tenpei-Jal-Tsin Baishin, City of the Ja-Lama in the Central Gobi")
+![356jalama.jpg](356jalama-reused.jpg "Tenpei-Jal-Tsin Baishin, City of the Ja-Lama in the Central Gobi")
 
 Подпись:  "Tenpei jal-tsin baishin, City of the Ja-lama in the Central Gobi" ("Темпей-джал-тзин-байсин, город Джа-ламы в Центральной Гоби").
 
@@ -94,7 +94,7 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Полная ссылка на немецкое издание: Haslund-Christensen H. Zajagan Menschen und Götter in der Mongolei / Von Henning Haslund-Christensen; Mit einem Vorwort von Sven Hedin und einer Übersichtskarte sowie 34 Bildern nach Originalaußnahmen der Sven-Hedin-Zentral-Asien-Expedition, [Nach der schwedischen Originalausgabe ... übers. von Marie Franzos ...]. — Stuttgart [u. a.] : Union Deutsche Verl.-Ges., [1936]. — 279 с., 9 л. ил. ил., нот., карт.; 24 см.
 
-![250-city.jpg](250-city.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда из книги Голова Джа-ламы")
+![250-city.jpg](250-city-reused.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда из книги Голова Джа-ламы")
 
 [Фото в тексте книги "Голова Джа-ламы"](/notes/lomakina-ja-lama/#250).
 
