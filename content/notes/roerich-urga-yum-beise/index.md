@@ -333,11 +333,11 @@ Kuch'eng (Gucheng, Chinese: 古城县; Uyghur: گۇچۇڭ ناھىيىسى) - н
 * Амар буянт
 * Юм бэйсийн хошуу
 
-![080-yum-beise.png](/notes/roerich-trails-to-asia-en/080-yum-beise.png "Photo from Trails to Inmost Asia")
+![080-yum-beise.png](080-yum-beise-reused.png "Photo from Trails to Inmost Asia")
 
 Интересно, что [Симуков](/notes/simukov-green-map/) сделал свою фотографию Юм-бейсе в том же году, в котором в монастыре побывала экспедиция Рериха.
 
-![simukov-yumbeise.png](/notes/norzunov-route/simukov-yumbeise.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
+![simukov-yumbeise.png](simukov-yumbeise-reused.png "Баяраа С., Конгая Ю., Лхагвасурэн И., Симуков А.Д. Труды о Монголии и для Монголии. Том 1. https://www.geokniga.org/books/30330")
 
 Подробнее о местонахождении монастыря в [маршруте Норзунова](/content/notes/norzunov-route/#%d1%8e%d0%bd%d0%b4%d1%83%d0%bd-%d0%b1%d1%8d%d0%b9%d1%81%d0%b5%d0%b8%d0%bd-%d0%ba%d1%83%d1%80%d0%b5-youndoun-beisiin-kure).
 
