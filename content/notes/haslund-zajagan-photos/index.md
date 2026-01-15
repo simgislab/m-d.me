@@ -72,7 +72,7 @@ Bodsøvende foran Jolros Lamas Bolig. Lieberenz fot.
 
 ![haslund-zajagan-all-photos_03_2.jpg](haslund-zajagan-all-photos_03_2.jpg "„Festpladsen laa hen i bagende Sol...“ Lieberenz fot.")
 
-"Festpladsen laa hen i bagende Sol..." Lieberenz fot.
+„Festpladsen laa hen i bagende Sol...“ Lieberenz fot.
 
 «Праздничная площадь под палящим солнцем…». Фото Либеренца.
 
@@ -80,7 +80,7 @@ Bodsøvende foran Jolros Lamas Bolig. Lieberenz fot.
 
 ![haslund-zajagan-all-photos_04_1.jpg](haslund-zajagan-all-photos_04_1.jpg "„Buga“, en af Dødskongens Forløbere.")
 
-"Buga", en af Dødskongens Forløbere.
+„Buga“, en af Dødskongens Forløbere.
 
 «Буга», один из предвестников Царя Смерти.
 
@@ -120,9 +120,9 @@ Tsaghan Obogon, „Den hvide Olding“. Hummel fot.
 
 ![haslund-zajagan-all-photos_05_1.jpg](haslund-zajagan-all-photos_05_1.jpg "Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. Kaull fot.")
 
-Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. Kaull fot.
+Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. v. Kaull fot.
 
-Выветрившиеся руины Хара-Хото всё ещё возвышаются над песком. Фото Каулля.
+Выветрившиеся руины Хара-Хото всё ещё возвышаются над песком. Фото фон Каулля.
 
 ### Хорошо сохранившийся мусульманский храм
 
@@ -130,23 +130,23 @@ Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. Kaull fot.
 
 „Et velbevaret muhammedansk Gudshus ligger beskyttet af den vestlige Bymur“. v. Kaull fot.
 
-«Хорошо сохранившийся мусульманский храм лежит под защитой западной городской стены». Фото В. Каулля.
+«Хорошо сохранившийся мусульманский храм лежит под защитой западной городской стены». Фото фон Каулля.
 
-### Этцинские-торгуты
+### Эдзинские торгуты
 
 ![haslund-zajagan-all-photos_06_1_g.jpg](haslund-zajagan-all-photos_06_1_g.jpg "Etsina-Torguter, Mand og Yngling. v. Kaull fot.")
 
 Etsina-Torguter, Mand og Yngling. v. Kaull fot.
 
-Этцинские-торгуты: мужчина и юноша. Фото В. Каулля.
+Эдзинские торгуты: мужчина и юноша. Фото фон Каулля.
 
-### Девушка этцинский-торгут
+### Девушка эдзинский торгут
 
 ![haslund-zajagan-all-photos_06_2.jpg](haslund-zajagan-all-photos_06_2.jpg "")
 
 Etsina-Torgut, Pige. v. Kaull fot.
 
-Девушка этцинский-торгут. Фото В. Каулля.
+Девушка эдзинский торгут. Фото фон Каулля.
 
 ### Пробы крови
 
@@ -420,7 +420,7 @@ Torgutisk Rytterakrobatik.
 
 „Mani“-Sten med tibetansk Bønneindskrift. v. Kaull fot.
 
-«Мани»-камень с тибетской молитвенной надписью. Фото В. Каулля.
+«Мани»-камень с тибетской молитвенной надписью. Фото фон Каулля.
 
 ### Монастырь Дунцзе в Тибете
 
@@ -756,7 +756,7 @@ Den indfangede Kameltyv Obogon ved Tilbagekomsten til Lejren. Lieberenz fot.
 
 „Da Dagens March var til Ende, vandrede vi ind i Skyggen af løvrige Popler“. v. Kaull fot.
 
-«Когда дневной переход подошёл к концу, мы вошли в тень тополей». Фото В. Каулля.
+«Когда дневной переход подошёл к концу, мы вошли в тень тополей». Фото фон Каулля.
 
 ### Кочевой дом Бергмана и мой
 
