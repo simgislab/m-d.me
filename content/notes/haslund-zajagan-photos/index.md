@@ -70,7 +70,7 @@ Bodsøvende foran Jolros Lamas Bolig. Lieberenz fot.
 
 ### Праздничная площадь под палящим солнцем
 
-![haslund-zajagan-all-photos_03_2.jpg](haslund-zajagan-all-photos_03_2.jpg ""Festpladsen laa hen i bagende Sol..." Lieberenz fot.")
+![haslund-zajagan-all-photos_03_2.jpg](haslund-zajagan-all-photos_03_2.jpg "„Festpladsen laa hen i bagende Sol...“ Lieberenz fot.")
 
 "Festpladsen laa hen i bagende Sol..." Lieberenz fot.
 
