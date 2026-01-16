@@ -804,4 +804,4 @@ Sartiske Musikanter. Bergman fot.
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/151)
+[**Обсудить**](https://t.me/answer42geo/153)
