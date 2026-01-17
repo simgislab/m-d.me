@@ -34,14 +34,16 @@ fediverse: "@username@instance.url"
 
 > Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translated from Swedish by Elizabeth Sprigge and Claude Napier. New York: E.P. Dutton & co.
 
+Нажмите на ссылку в колонке Страница, чтобы перейти к фотографии.
+
 | Название                                                                                         | Страница     |
 |--------------------------------------------------------------------------------------------------|--------------|
 | His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of all the Torguts. Commander of the Royal Vasa Order, second class. 1884–1932 | Frontispiece |
 | The grottoes of Yün Kang                                                                         | [4](#гроты-юньган)            |
 | The grottoes of Yün Kang                                                                         | [5](#гроты-юньган)            |
-| Yolros Lama. *Photo Lieberenz*                                                                   | 32           |
-| Shirup Geling with Yolros Lama's dog. *Photo Lieberenz*                                          | 32           |
-| "The Festival place lay bathed in sunlight . . ." *Photo Lieberenz*                              | 40           |
+| Yolros Lama. *Photo Lieberenz*                                                                   | [32](#джолрос-лама)           |
+| Shirup Geling with Yolros Lama's dog. *Photo Lieberenz*                                          | [32](#шируп-гелинг)           |
+| "The Festival place lay bathed in sunlight . . ." *Photo Lieberenz*                              | [40](#праздничная-площадь-под-палящим-солнцем)           |
 | "On the south side the monastery orchestra was stationed"                                        | 48           |
 | Tsagan Oborgon, "The white old man" *Photo Hummel*                                               | 48           |
 | "One of the last to go up to Maidari was my little old woman . . ."                              | 49           |
@@ -166,7 +168,7 @@ EN: нет
 
 «Буга», один из предвестников Царя Смерти.
 
-### Оркестр располагался на юге
+### Оркестр располагался на южной стороне
 
 ![haslund-zajagan-all-photos_04_2.jpg](haslund-zajagan-all-photos_04_2.jpg "„Orkestret var placeret i Syd“.")
 
