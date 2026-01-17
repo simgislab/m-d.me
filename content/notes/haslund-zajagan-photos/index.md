@@ -36,8 +36,7 @@ fediverse: "@username@instance.url"
 
 | Название                                                                                         | Страница     |
 |--------------------------------------------------------------------------------------------------|--------------|
-| His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of all the Torguts. | Frontispiece |
-| Commander of the Royal Vasa Order, second class. 1884–1932                                       |              |
+| His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of all the Torguts. Commander of the Royal Vasa Order, second class. 1884–1932 | Frontispiece |
 | The grottoes of Yüm Kang                                                                         | 4            |
 | The grottoes of Yüm Kang                                                                         | 5            |
 | Yolros Lama *Photo Lieberenz*                                                                    | 32           |
