@@ -64,8 +64,8 @@ fediverse: "@username@instance.url"
 | The Däde Mongols' *Khuruldei*. *Photo Bergman*                                                   | [185](#хурул-даде-монголов)          |
 | After the hunt                                                                                   | [185](#после-охоты)          |
 | Seng Chen's earthly father, Tu-yen Meng-ku khan                                                  | [188](#отец-син-чина)          |
-| "Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven." *Photo Bergman*  | 192          |
-| A Charklik beauty                                                                                | [188](#вождь-даде-монголов)          |
+| "Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven." *Photo Bergman*  | [192](#вождь-даде-монголов)          |
+| A Charklik beauty                                                                                | [188](#чаркликская-красавица)          |
 | Camel transport across the river. *Photo Bergman*                                                | [193](#перевозка-верблюдов-через-реку)          |
 | Torgut soldier                                                                                   | [193](#торгутский-воин)          |
 | "Arselan Consul"                                                                                 | [224]()          |
@@ -144,7 +144,7 @@ EN: Shirup Geling with Yolros Lama's dog. *Photo Lieberenz*
 
 Bodsøvende foran Jolros Lamas Bolig. Lieberenz fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Паломники перед резиденцией Джолрос-ламы. Фото Либеренца.
 
@@ -164,7 +164,7 @@ EN: "The Festival place lay bathed in sunlight . . ." *Photo Lieberenz*
 
 „Buga“, en af Dødskongens Forløbere.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 «Буга», один из предвестников Царя Смерти.
 
@@ -194,7 +194,7 @@ EN: Tsagan Oborgon, "The white old man" *Photo Hummel*
 
 „Fra det vajende Banner foran Hovedtemplet skuede den milde Maidaris Billede ned.“ (Nederst til venstre)
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 «С развевающегося знамени перед главным храмом взирал вниз образ кроткого Майдари». (Внизу слева)
 
@@ -214,7 +214,7 @@ EN: “One of the last to go up to Maidari was my little old woman . . .”
 
 Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. v. Kaull fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Выветрившиеся руины Хара-Хото всё ещё возвышаются над песком. Фото фон Каулля.
 
@@ -224,7 +224,7 @@ EN: нет
 
 „Et velbevaret muhammedansk Gudshus ligger beskyttet af den vestlige Bymur“. v. Kaull fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 «Хорошо сохранившийся мусульманский храм лежит под защитой западной городской стены». Фото фон Каулля.
 
@@ -234,7 +234,7 @@ EN: нет
 
 Etsina-Torguter, Mand og Yngling. v. Kaull fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Эдзинские торгуты: мужчина и юноша. Фото фон Каулля.
 
@@ -244,7 +244,7 @@ EN: нет
 
 Etsina-Torgut, Pige. v. Kaull fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Девушка эдзинский торгут. Фото фон Каулля.
 
@@ -254,7 +254,7 @@ EN: нет
 
 Hver Gang jeg forsøgte at tage Blodprøver paa Mongolerne saa de ulykkelige ud. Bergman fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Каждый раз, когда я пытался брать у монголов пробы крови, они выглядели несчастными. Фото Бергмана.
 
@@ -264,7 +264,7 @@ EN: нет
 
 Tangert Gegen.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Тангерт-Геген.
 
@@ -286,7 +286,7 @@ I seks Sekler havde dette døde Menneskeminde slumret i Ørkenens Favntag, da Ko
 
 Vor gamle Torgut-Vejviser udpegede de Bjerge i Horisonten, som i et langt Liv havde udgjort hans daglige Inspiration. Hummel fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 «Наш старый торгут-проводник указал на горы на горизонте, которые на протяжении долгой жизни ежедневно его вдохновляли». Фото Хуммеля.
 
@@ -316,7 +316,7 @@ EN: Landing of the boat expedition after the voyage on Socho-nor. *Photo Liebere
 
 Dambin Djansangs Ørkenborg. Hembel fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Пустынная крепость Дамбиджанцана. Фото Хембеля.
 
@@ -386,7 +386,7 @@ EN: A Mongol salutes his Chief
 
 Dambin Djansangs sølvbeslagne Ridetøj.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Украшенная серебром упряжь Дамбиджанцана.
 
@@ -396,7 +396,7 @@ EN: нет
 
 Dambin Djansangs sølvbeslagne Sadel.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Отделанное серебром седло Дамбиджанцана.
 
@@ -407,7 +407,7 @@ EN: нет
 Øverst: Den Kvindedragt som endnu anvendes at Tsagechin Beile-Stammen (hjemført til det svenske etnografiske Museum i 1929).  
 Nederst: Kvindedragt hjemført af Løjtnan (opbevares i det svenske kgl. Livrustkammer).
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Вверху: женская одежда, которая до сих пор используется племенем Цагечин-бэйле (привезена в Шведский этнографический музей в 1929 году).  
 Внизу: женская одежда, доставленная лейтенантом (хранится в Шведской королевской Оружейной палате).
@@ -418,7 +418,7 @@ EN: нет
 
 I det tibetanske Højland. Bergman fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Тибетское нагорье. Фото Бергмана.
 
@@ -428,7 +428,7 @@ EN: нет
 
 Makejefs Grav ved Tash-Dawan.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Могила Макеева у Таш-Давана.
 
@@ -478,7 +478,7 @@ EN: The Däde Mongols' *Khuruldei*. *Photo Bergman*
 
 Stridsscene indlem Manshuer og Djungarer. Efter gammel Radering tilh. Sophus Blacks Samlinger i Rungsted.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Боевая сцена между маньчжурами и джунгарами. По старинной гравюре из собрания Софуса Блэка в Рунгстеде.
 
@@ -514,7 +514,7 @@ EN: Mongrolda Noyen
 
 Livvagten foran Paladset.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Личная охрана перед дворцом.
 
@@ -524,7 +524,7 @@ EN: нет
 
 Torgut-Regentens Vinterresidens.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Зимняя резиденция торгутского регента.
 
@@ -584,7 +584,7 @@ EN: Torgut Cavalry Acrobatics. *Photo Hempel*
 
 „Mani“-Sten med tibetansk Bønneindskrift. v. Kaull fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 «Мани»-камень с тибетской молитвенной надписью. Фото фон Каулля.
 
@@ -624,7 +624,7 @@ EN: Fresco in the Dongtse Monastery representing Seng Chen's spiritual father, t
 
 Forfatteren, Buran og Suidör.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Автор, Буран и Суйдор.
 
@@ -634,7 +634,7 @@ EN: нет
 
 Mongolske Adelsmænd.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Монгольские аристократы.
 
@@ -664,7 +664,7 @@ EN: The author with Lamaistic philosophers
 
 Blade af *Tsachin Bichik* og Manuskriptrulle af den buddhistiske Kanon antagelig fra det 9. Aarh.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Листы Цачин-бичик и рукописный свиток буддийского канона, предположительно IX века.
 
@@ -694,7 +694,7 @@ EN: Painting of Obish Khan
 
 Sin Chins Moder. G. Man nerheim fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Мать Син Чина. Фото Г. Маннергейма.
 
@@ -704,7 +704,7 @@ EN: нет
 
 Torguternes Khansegl, skænket af Kejser Ch'ien Lung 1776, 1/6 nat. Størr. (Nederst: til venstre og i Midten)
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Ханские печати торгутов, пожалованные императором Цяньлуном в 1776 году, в 1/6 натуральной величины. (Внизу: слева и в центре)
 
@@ -714,7 +714,7 @@ EN: нет
 
 En af Sin Chins jordiske Forfædre.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Один из земных предков Син Чина.
 
@@ -734,7 +734,7 @@ EN: есть, но подпись не к изображению, а к музы
 
 Sin Chins Lejr omgivet af turgutiske Underhøvdinges Telte. Det forreste af Teltene i Midten er Gegen-ni-ordo.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Лагерь Син Чина, окружённый шатрами подчинённых торгутских вождей. Передний из шатров в центре — ставка Гегена.
 
@@ -744,7 +744,7 @@ EN: нет
 
 Den ejendommelige Frisure hos de ugifte Kvinder af *Tsagechin Beile*-Stammen.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Своеобразная причёска незамужних женщин племени Цагечин-бэйле.
 
@@ -764,7 +764,7 @@ EN: A Charklik beauty
 
 Ung Pige fra Shéndi.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Молодая девушка из Шэнди.
 
@@ -774,7 +774,7 @@ EN: нет
 
 Ugift *Tsageehin Beile*-Kvinde.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Незамужняя женщина племени Цагечин-бэйле.
 
@@ -814,7 +814,7 @@ EN: Torgut Chiefs (*merin* and *gusdä*)
 
 Torgutisk Sagnfortæller.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Торгутский сказитель.
 
@@ -824,7 +824,7 @@ EN: нет
 
 Töin Geling.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Тоин-Гелинг.
 
@@ -834,7 +834,7 @@ EN: нет
 
 Overdragelsen af *gegen-ni-ordo* til Kong Gustav V. I Midten Kong Gustav, Sven Hedin og Forfatteren.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Передача геген-ни-ордо (ставка Гегена) королю Густаву V. В центре — король Густав, Свен Гедин и автор.
 
@@ -844,7 +844,7 @@ EN: нет
 
 Jagtudrustning til Obish Khans Gevær.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Охотничье снаряжение для ружья Обиш-хана.
 
@@ -864,7 +864,7 @@ EN: Interior of *gegen-ni-ordo* on its erection at Urumchi
 
 Geværlaas paa samme.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Затвор того же ружья.
 
@@ -874,7 +874,7 @@ EN: нет
 
 Det af Obish Khan i 1767 fra Tyrkerne røvede Gevær, som skænkedes Forfatteren af Sin Chin Gegen. Opbevares paa Stockholms etnografiske Museum.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Ружьё, похищенное Обиш-ханом у турок в 1767 году, которое было подарено автору Син Чин Гегеном. Хранится в Стокгольмском этнографическом музее.
 
@@ -894,7 +894,7 @@ EN: Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*
 
 Jeg maatte skilles fra mine Heste, for det var forbi med de galoperende Dage paa Steppen.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Мне пришлось расстаться с моими лошадьми, дни галопа по степи были окончены.
 
@@ -956,7 +956,7 @@ EN: The twenty-four *Shanag*. *Photo Hummel*
 
 „Langsomt skrider Optoget rundt om Klostret ...“
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 «Медленно движется процессия вокруг монастыря…»
 
@@ -996,7 +996,7 @@ EN: The Mongolian Monastery of Baying Shandai Sume. *Photo Lieberenz*
 
 Den indfangede Kameltyv Obogon ved Tilbagekomsten til Lejren. Lieberenz fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Пойманный верблюжий вор Обогон при возвращении в лагерь. Фото Либеренца.
 
@@ -1006,7 +1006,7 @@ EN: нет
 
 „Da Dagens March var til Ende, vandrede vi ind i Skyggen af løvrige Popler“. v. Kaull fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 «Когда дневной переход подошёл к концу, мы вошли в тень тополей». Фото фон Каулля.
 
@@ -1016,7 +1016,7 @@ EN: нет
 
 Bergmans og mit Nomadehjem. Bergman fot.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 Мой с Бергманом кочевой дом. Фото Бергмана.
 
@@ -1026,7 +1026,7 @@ EN: нет
 
 „Tre ærværdige Graaskæg“.
 
-EN: нет
+EN: фото нет в англоязычном издании 1935 г.
 
 «Три почтенных старца».
 
