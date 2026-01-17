@@ -63,6 +63,7 @@ fediverse: "@username@instance.url"
 | After the hunt                                                                                   | 185          |
 | Seng Chen's earthly father, Tu-yen Meng-ku khan                                                  | 188          |
 | "Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven." *Photo Bergman*  | 192          |
+| A Charklik beauty                                                                                | 188          |
 | Camel transport across the river. *Photo Bergman*                                                | 193          |
 | Torgut soldier                                                                                   | 193          |
 | "Arselan Consul"                                                                                 | 224          |
@@ -191,7 +192,7 @@ EN: Tsagan Oborgon, "The white old man" *Photo Hummel*
 
 „Fra det vajende Banner foran Hovedtemplet skuede den milde Maidaris Billede ned.“ (Nederst til venstre)
 
-EN: 
+EN: нет
 
 «С развевающегося знамени перед главным храмом взирал вниз образ кроткого Майдари». (Внизу слева)
 
@@ -211,7 +212,7 @@ EN: “One of the last to go up to Maidari was my little old woman . . .”
 
 Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. v. Kaull fot.
 
-EN: 
+EN: нет
 
 Выветрившиеся руины Хара-Хото всё ещё возвышаются над песком. Фото фон Каулля.
 
@@ -221,7 +222,7 @@ EN:
 
 „Et velbevaret muhammedansk Gudshus ligger beskyttet af den vestlige Bymur“. v. Kaull fot.
 
-EN: 
+EN: нет
 
 «Хорошо сохранившийся мусульманский храм лежит под защитой западной городской стены». Фото фон Каулля.
 
@@ -231,7 +232,7 @@ EN:
 
 Etsina-Torguter, Mand og Yngling. v. Kaull fot.
 
-EN: 
+EN: нет
 
 Эдзинские торгуты: мужчина и юноша. Фото фон Каулля.
 
@@ -241,7 +242,7 @@ EN:
 
 Etsina-Torgut, Pige. v. Kaull fot.
 
-EN: 
+EN: нет
 
 Девушка эдзинский торгут. Фото фон Каулля.
 
@@ -251,7 +252,7 @@ EN:
 
 Hver Gang jeg forsøgte at tage Blodprøver paa Mongolerne saa de ulykkelige ud. Bergman fot.
 
-EN: 
+EN: нет
 
 Каждый раз, когда я пытался брать у монголов пробы крови, они выглядели несчастными. Фото Бергмана.
 
@@ -261,7 +262,7 @@ EN:
 
 Tangert Gegen.
 
-EN: 
+EN: нет
 
 Тангерт-Геген.
 
@@ -283,7 +284,7 @@ I seks Sekler havde dette døde Menneskeminde slumret i Ørkenens Favntag, da Ko
 
 Vor gamle Torgut-Vejviser udpegede de Bjerge i Horisonten, som i et langt Liv havde udgjort hans daglige Inspiration. Hummel fot.
 
-EN: 
+EN: нет
 
 «Наш старый торгут-проводник указал на горы на горизонте, которые на протяжении долгой жизни ежедневно его вдохновляли». Фото Хуммеля.
 
@@ -323,7 +324,7 @@ EN: нет
 
 Dambin Djansang, den Æventyrer, som lod vild Fortid opstaa paa Stepperne.
 
-EN: 
+EN: Dambin Jansang the adventurer who revived the savagery of ancient times on the steppes
 
 Дамбиджанцан — авантюрист, ожививший дикое прошлое степей.
 
@@ -331,7 +332,7 @@ EN:
 
 Ved Siden lians Underskrift.
 
-EN: 
+EN: изображение есть, но подписи - нет
 
 Рядом — его подпись.
 
@@ -355,15 +356,17 @@ EN: Tsagechin Beile
 
 Когда Цагечин-бейле представал в родовой одежде, создавалось впечатление, что он настоящий кочевой вождь.
 
-### Цагечин-бэйле в русской одежде
+### Цагечин-бэйле в русском костюме
 
 ![haslund-zajagan-all-photos_12_1_g.jpg](haslund-zajagan-all-photos_12_1_g.jpg "Tsagechin Beile i russisk Dragt.")
 
 Tsagechin Beile i russisk Dragt.
 
-EN: 
+EN: "Tsagachin Beile often appeared in an ill-fitting Russian costume"
 
-Цагечин-бэйле в русской одежде.
+Цагечин-бэйле в русском костюме.
+
+"Цагечин-бэйле часто появлялся в плохо сидящем русском костюме"
 
 ### Монгол приветствует своего вождя
 
@@ -381,7 +384,7 @@ EN: A Mongol salutes his Chief
 
 Dambin Djansangs sølvbeslagne Ridetøj.
 
-EN: 
+EN: нет
 
 Украшенная серебром упряжь Дамбиджанцана.
 
@@ -391,7 +394,7 @@ EN:
 
 Dambin Djansangs sølvbeslagne Sadel.
 
-EN: 
+EN: нет
 
 Отделанное серебром седло Дамбиджанцана.
 
@@ -402,7 +405,7 @@ EN:
 Øverst: Den Kvindedragt som endnu anvendes at Tsagechin Beile-Stammen (hjemført til det svenske etnografiske Museum i 1929).  
 Nederst: Kvindedragt hjemført af Løjtnan (opbevares i det svenske kgl. Livrustkammer).
 
-EN: 
+EN: нет
 
 Вверху: женская одежда, которая до сих пор используется племенем Цагечин-бэйле (привезена в Шведский этнографический музей в 1929 году).  
 Внизу: женская одежда, доставленная лейтенантом (хранится в Шведской королевской Оружейной палате).
@@ -413,7 +416,7 @@ EN:
 
 I det tibetanske Højland. Bergman fot.
 
-EN: 
+EN: нет
 
 Тибетское нагорье. Фото Бергмана.
 
@@ -423,7 +426,7 @@ EN:
 
 Makejefs Grav ved Tash-Dawan.
 
-EN: 
+EN: нет
 
 Могила Макеева у Таш-Давана.
 
@@ -443,7 +446,7 @@ EN: After the hunt
 
 Temirlik-boer. Bergman fot.
 
-EN: 
+EN: Inhabitants of Temerlik. *Photo Bergman*
 
 Жители посёлка Темирлик. Фото Бергмана.
 
@@ -453,7 +456,7 @@ EN:
 
 Iført en vid losdyrsbræmmet Kappe sad *däde*-mongolernes Høvding mod en Baggrund af et sort Tæppe, hvori Billedet af en glubsk Tiger var indvævet. Bergman fot.
 
-EN: 
+EN: "Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven." *Photo Bergman*
 
 Одетый в широкую накидку, отороченную мехом рыси, вождь даде-монголов сидел на фоне чёрного ковра, с вытканным образом хищного тигра. Фото Бергмана.
 
@@ -473,7 +476,7 @@ EN: The Däde Mongols' *Khuruldei*. *Photo Bergman*
 
 Stridsscene indlem Manshuer og Djungarer. Efter gammel Radering tilh. Sophus Blacks Samlinger i Rungsted.
 
-EN: 
+EN: нет
 
 Боевая сцена между маньчжурами и джунгарами. По старинной гравюре из собрания Софуса Блэка в Рунгстеде.
 
@@ -489,7 +492,7 @@ EN:
 
 Torgutisk Kriger.
 
-EN: 
+EN: Torgut soldier
 
 Торгутский воин.
 
@@ -499,7 +502,7 @@ EN:
 
 Mongrolde Noyen.
 
-EN: 
+EN: Mongrolda Noyen
 
 Монгрольде-нойон.
 
@@ -509,7 +512,7 @@ EN:
 
 Livvagten foran Paladset.
 
-EN: 
+EN: нет
 
 Личная охрана перед дворцом.
 
@@ -519,7 +522,7 @@ EN:
 
 Torgut-Regentens Vinterresidens.
 
-EN: 
+EN: нет
 
 Зимняя резиденция торгутского регента.
 
@@ -529,7 +532,7 @@ EN:
 
 Mongolernes Musik. Efter Pallas’ Sammlungen historischen Nachrichten. St. Petersburg 1776.
 
-EN: 
+EN: изображение есть, но подпись не к изображению, а к музыке: “The red Standard”
 
 Музыка монголов. По историческим сообщениям из собраний Палласа. Санкт-Петербург, 1776.
 
@@ -539,7 +542,7 @@ EN:
 
 Gifte Torgut-Kvinder.
 
-EN: 
+EN: Torgut married women
 
 Замужние торгутские женщины.
 
@@ -549,7 +552,7 @@ EN:
 
 Torgut-Regentens bator er kampklare. Bemærk, at alle Hestene er dresseret til at kaste sig til Jorden som Dækning for Rytteren.
 
-EN: 
+EN: The Torgut Regent's *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders
 
 Батыры торгутского регента готовы к бою. Обратите внимание, что все лошади выдрессированы падать на землю, служа укрытием для всадника.
 
@@ -559,7 +562,7 @@ EN:
 
 Lodong, Sin Chin Gegen og Lyrup. Anbolt fot.
 
-EN: 
+EN: Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*
 
 Лодонг, Син Чин Геген и Люруп. Фото Анболта.
 
@@ -569,7 +572,7 @@ EN:
 
 Torgutisk Rytterakrobatik.
 
-EN: 
+EN: Torgut Cavalry Acrobatics. *Photo Hempel*
 
 Торгутская конная акробатика.
 
@@ -579,7 +582,7 @@ EN:
 
 „Mani“-Sten med tibetansk Bønneindskrift. v. Kaull fot.
 
-EN: 
+EN: нет
 
 «Мани»-камень с тибетской молитвенной надписью. Фото фон Каулля.
 
@@ -589,7 +592,7 @@ EN:
 
 Dongtse Klostret i Tibet. Sin Chins aandelige Hjemsted. L. Ludlow fot.
 
-EN: 
+EN: The Dongtse Monastery in Tibet, Seng Chen's spiritual home. *Photo F. Ludlow*
 
 Монастырь Дунцзе в Тибете. Духовная родина Син Чина. Фото Л. Ладлоу.
 
@@ -599,7 +602,7 @@ EN:
 
 Torgutisk Lejr. Anbolt fot.
 
-EN: 
+EN: Torgut camp. *Photo Ambolt*
 
 Торгутский лагерь. Фото Анболта.
 
@@ -609,7 +612,7 @@ EN:
 
 Freskomaleri i Dongtse Klostret, forestillende Sin Chins aandelige Fader, Tigergudens fjerde Reinkarnation. L. Ludlow fot.
 
-EN: 
+EN: Fresco in the Dongtse Monastery representing Seng Chen's spiritual father, the Tiger god's fourth reincarnation. *Photo F. Ludlow*
 
 Фресковая роспись в монастыре Дунцзе, изображающая духовного отца Син Чина — четвёртую реинкарнацию Тигриного бога. Фото Л. Ладлоу.
 
@@ -619,7 +622,7 @@ EN:
 
 Forfatteren, Buran og Suidör.
 
-EN: 
+EN: нет
 
 Автор, Буран и Суйдор.
 
@@ -629,7 +632,7 @@ EN:
 
 Mongolske Adelsmænd.
 
-EN: 
+EN: нет
 
 Монгольские аристократы.
 
@@ -639,7 +642,7 @@ EN:
 
 De tre Tronstole i Torguternes Khantelt.
 
-EN: 
+EN: The three thrones in the Khan's Tent of the Torguts
 
 Три трона в ханском шатре торгутов.
 
@@ -649,7 +652,7 @@ EN:
 
 Forfatteren i Selskab med lamaistiske Filosoffer.
 
-EN: 
+EN: The author with Lamaistic philosophers
 
 Автор в обществе ламаистских философов.
 
@@ -659,7 +662,7 @@ EN:
 
 Blade af *Tsachin Bichik* og Manuskriptrulle af den buddhistiske Kanon antagelig fra det 9. Aarh.
 
-EN: 
+EN: нет
 
 Листы Цачин-бичик и рукописный свиток буддийского канона, предположительно IX века.
 
@@ -673,15 +676,15 @@ EN: Seng Chen's earthly father, Tu-yen Meng-ku khan
 
 Земной отец Син Чина — Ту-джен Менг-Ку-хан. (Вверху слева)
 
-### Картина с изображением Кбиш-хана
+### Картина с изображением Обиш-хана
 
-![haslund-zajagan-all-photos_26_2_g.jpg](haslund-zajagan-all-photos_26_2_g.jpg "Maleri af Qbish Khan.")
+![haslund-zajagan-all-photos_26_2_g.jpg](haslund-zajagan-all-photos_26_2_g.jpg "Maleri af Obish Khan.")
 
-Maleri af Qbish Khan.
+Maleri af Obish Khan.
 
-EN: 
+EN: Painting of Obish Khan
 
-Картина с изображением Кбиш-хана.
+Картина с изображением Обиш-хана.
 
 ### Мать Син Чина
 
@@ -689,7 +692,7 @@ EN:
 
 Sin Chins Moder. G. Man nerheim fot.
 
-EN: 
+EN: нет
 
 Мать Син Чина. Фото Г. Маннергейма.
 
@@ -699,7 +702,7 @@ EN:
 
 Torguternes Khansegl, skænket af Kejser Ch'ien Lung 1776, 1/6 nat. Størr. (Nederst: til venstre og i Midten)
 
-EN: 
+EN: нет
 
 Ханские печати торгутов, пожалованные императором Цяньлуном в 1776 году, в 1/6 натуральной величины. (Внизу: слева и в центре)
 
@@ -709,7 +712,7 @@ EN:
 
 En af Sin Chins jordiske Forfædre.
 
-EN: 
+EN: нет
 
 Один из земных предков Син Чина.
 
@@ -719,7 +722,7 @@ EN:
 
 Tempeltelt.
 
-EN: 
+EN: есть, но подпись не к изображению, а к музыке: “Baredo soldep” (Tibetan prayer)
 
 Храмовый шатёр.
 
@@ -729,7 +732,7 @@ EN:
 
 Sin Chins Lejr omgivet af turgutiske Underhøvdinges Telte. Det forreste af Teltene i Midten er Gegen-ni-ordo.
 
-EN: 
+EN: нет
 
 Лагерь Син Чина, окружённый шатрами подчинённых торгутских вождей. Передний из шатров в центре — ставка Гегена.
 
@@ -739,7 +742,7 @@ EN:
 
 Den ejendommelige Frisure hos de ugifte Kvinder af *Tsagechin Beile*-Stammen.
 
-EN: 
+EN: нет
 
 Своеобразная причёска незамужних женщин племени Цагечин-бэйле.
 
@@ -749,7 +752,7 @@ EN:
 
 Charklik-Skønhed.
 
-EN: 
+EN: A Charklik beauty
 
 Чаркликская красавица.
 
@@ -759,7 +762,7 @@ EN:
 
 Ung Pige fra Shéndi.
 
-EN: 
+EN: нет
 
 Молодая девушка из Шэнди.
 
@@ -769,7 +772,7 @@ EN:
 
 Ugift *Tsageehin Beile*-Kvinde.
 
-EN: 
+EN: нет
 
 Незамужняя женщина племени Цагечин-бэйле.
 
@@ -779,7 +782,7 @@ EN:
 
 Tibetansk Storlama. Humme! fot.
 
-EN: 
+EN: Tibetan High Lama. *Photo Hummel*
 
 Тибетский великий лама. Фото Хуммеля.
 
@@ -789,9 +792,9 @@ EN:
 
 Shiri, som beherskede Tonernes Stigen og Fald.
 
-EN: 
+EN: Shiri, who “commanded the gliding, soaring and falling of the notes like a proud eagle on the wing”
 
-Шири, мастерски владевшая восхождением и падением тонов.
+Шири, мастерски владевшая восхождением и падением музыкальных тонов.
 
 ### Торгутские вожди (мерин и гусда)
 
@@ -799,7 +802,7 @@ EN:
 
 Torgutiske Høvdinge (merin og gusdâ).
 
-EN: 
+EN: Torgut Chiefs (*merin* and *gusdä*)
 
 Торгутские вожди (мерин и гусда).
 
@@ -809,7 +812,7 @@ EN:
 
 Torgutisk Sagnfortæller.
 
-EN: 
+EN: нет
 
 Торгутский сказитель.
 
@@ -819,7 +822,7 @@ EN:
 
 Töin Geling.
 
-EN: 
+EN: нет
 
 Тоин-Гелинг.
 
@@ -829,7 +832,7 @@ EN:
 
 Overdragelsen af *gegen-ni-ordo* til Kong Gustav V. I Midten Kong Gustav, Sven Hedin og Forfatteren.
 
-EN: 
+EN: нет
 
 Передача геген-ни-ордо (ставка Гегена) королю Густаву V. В центре — король Густав, Свен Гедин и автор.
 
@@ -839,7 +842,7 @@ EN:
 
 Jagtudrustning til Obish Khans Gevær.
 
-EN: 
+EN: нет
 
 Охотничье снаряжение для ружья Обиш-хана.
 
@@ -849,7 +852,7 @@ EN:
 
 Interior fra gegen-ni-ordo ved Opstil-lingen i Urumchi. (Øverst)
 
-EN: 
+EN: Interior of *gegen-ni-ordo* on its erection at Urumchi
 
 Интерьер геген-ни-ордо при стоянке в Урумчи. (Вверху)
 
@@ -859,7 +862,7 @@ EN:
 
 Geværlaas paa samme.
 
-EN: 
+EN: нет
 
 Затвор того же ружья.
 
@@ -869,7 +872,7 @@ EN:
 
 Det af Obish Khan i 1767 fra Tyrkerne røvede Gevær, som skænkedes Forfatteren af Sin Chin Gegen. Opbevares paa Stockholms etnografiske Museum.
 
-EN: 
+EN: нет
 
 Ружьё, похищенное Обиш-ханом у турок в 1767 году, которое было подарено автору Син Чин Гегеном. Хранится в Стокгольмском этнографическом музее.
 
@@ -879,7 +882,7 @@ EN:
 
 Hjørne af gegen-ni-ordo efter Opstillingen i Stockholm.
 
-EN: 
+EN: Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*
 
 Часть геген-ни-ордо после установки в Стокгольме.
 
@@ -889,7 +892,7 @@ EN:
 
 Jeg maatte skilles fra mine Heste, for det var forbi med de galoperende Dage paa Steppen.
 
-EN: 
+EN: нет
 
 Мне пришлось расстаться с моими лошадьми, дни галопа по степи были окончены.
 
@@ -899,7 +902,7 @@ EN:
 
 Kort over Hovedekspeditionens og Forfatterens Rejser
 
-EN: 
+EN: карта есть, но полностью переделанная
 
 Карта главной экспедиции и путешествий автора.
 
@@ -909,9 +912,11 @@ EN:
 
 Khochin Torgut, Sjene Torgut
 
-EN: 
+EN: The Thirteen Signet-bearing Princes. (Outline sketch of the formation of the Torgut Horde’s Thirteen Tribes.)
 
 Хочин-торгуты, Сьене-торгуты (восточные) ?
+
+Тринадцать князей — носителей печатей. (Cхема формирования тринадцати племён торгутской орды.)
 
 ### Жёны вождей и любопытные принцессы
 
@@ -949,7 +954,7 @@ EN: The twenty-four *Shanag*. *Photo Hummel*
 
 „Langsomt skrider Optoget rundt om Klostret ...“
 
-EN: 
+EN: нет
 
 «Медленно движется процессия вокруг монастыря…»
 
@@ -989,7 +994,7 @@ EN: The Mongolian Monastery of Baying Shandai Sume. *Photo Lieberenz*
 
 Den indfangede Kameltyv Obogon ved Tilbagekomsten til Lejren. Lieberenz fot.
 
-EN: 
+EN: нет
 
 Пойманный верблюжий вор Обогон при возвращении в лагерь. Фото Либеренца.
 
@@ -999,7 +1004,7 @@ EN:
 
 „Da Dagens March var til Ende, vandrede vi ind i Skyggen af løvrige Popler“. v. Kaull fot.
 
-EN: 
+EN: нет
 
 «Когда дневной переход подошёл к концу, мы вошли в тень тополей». Фото фон Каулля.
 
@@ -1009,9 +1014,9 @@ EN:
 
 Bergmans og mit Nomadehjem. Bergman fot.
 
-EN: 
+EN: нет
 
-Кочевой дом Бергмана и мой. Фото Бергмана.
+Мой с Бергманом кочевой дом. Фото Бергмана.
 
 ### Три почтенных седобородых
 
@@ -1019,7 +1024,7 @@ EN:
 
 „Tre ærværdige Graaskæg“.
 
-EN: 
+EN: нет
 
 «Три почтенных старца».
 
@@ -1029,7 +1034,7 @@ EN:
 
 Kameltransport over en Flod. Bergman fot.
 
-EN: 
+EN: Camel transport across the river. *Photo Bergman*
 
 Перевозка верблюдов через реку. Фото Бергмана.
 
