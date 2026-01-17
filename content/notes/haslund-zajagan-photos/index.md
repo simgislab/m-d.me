@@ -60,39 +60,39 @@ fediverse: "@username@instance.url"
 | Tsagechin Beile                                                                                  | [161](#цагечин-бейле-в-родовой-одежде)          |
 | A Mongol salutes his Chief                                                                       | [168](#монгол-приветствует-своего-вождя)          |
 | Sart Musicians. *Photo Bergman*                                                                  | [184](#сартские-музыканты)          |
-| The Sart *aksakal* and Chinese *amban*. *Photo Bergman*                                          | [184]()          |
-| The Däde Mongols' *Khuruldei*. *Photo Bergman*                                                   | [185]()          |
-| After the hunt                                                                                   | [185]()          |
-| Seng Chen's earthly father, Tu-yen Meng-ku khan                                                  | [188]()          |
+| The Sart *aksakal* and Chinese *amban*. *Photo Bergman*                                          | [184](#сартский-аксакал-и-китайский-амбань)          |
+| The Däde Mongols' *Khuruldei*. *Photo Bergman*                                                   | [185](#хурул-даде-монголов)          |
+| After the hunt                                                                                   | [185](#после-охоты)          |
+| Seng Chen's earthly father, Tu-yen Meng-ku khan                                                  | [188](#отец-син-чина)          |
 | "Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven." *Photo Bergman*  | 192          |
-| A Charklik beauty                                                                                | [188]()          |
-| Camel transport across the river. *Photo Bergman*                                                | [193]()          |
-| Torgut soldier                                                                                   | [193]()          |
+| A Charklik beauty                                                                                | [188](#вождь-даде-монголов)          |
+| Camel transport across the river. *Photo Bergman*                                                | [193](#перевозка-верблюдов-через-реку)          |
+| Torgut soldier                                                                                   | [193](#торгутский-воин)          |
 | "Arselan Consul"                                                                                 | [224]()          |
-| Mongrolda Noyen                                                                                  | [224]()          |
+| Mongrolda Noyen                                                                                  | [224](#монгрольде-нойон)          |
 | "The red Standard"                                                                               | [225]()          |
-| Shiri, who "commanded the gliding, soaring and falling of the notes like a proud eagle on the wing"   | [240]()     |
-| Torgut married women                                                                             | [240]()          |
-| The Torgut Regent's *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders | 241          |
+| Shiri, who "commanded the gliding, soaring and falling of the notes like a proud eagle on the wing"| [240](#шири)   |
+| Torgut married women                                                                             | [240](#замужние-торгутские-женщины)          |
+| The Torgut Regent's *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders | [241](##батыры-торгутского-регента)          |
 | Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*                                      | [244]()          |
-| Torgut Cavalry Acrobatics. *Photo Hempel*                                                        | [245]()          |
-| Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                                | [248]()          |
+| Torgut Cavalry Acrobatics. *Photo Hempel*                                                        | [245](#торгутская-конная-акробатика)          |
+| Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                                | [248](#лодонг-син-чин-геген-и-люруп)          |
 | Young Torguts. *Photo Ambolt*                                                                    | [249]()          |
-| Inhabitants of Temerlik. *Photo Bergman*                                                         | [252]()          |
-| Torgut camp. *Photo Ambolt*                                                                      | [252]()          |
-| Torgut Chiefs (*merin* and *gusdä*)                                                              | [253]()          |
-| Dambin Jansang the adventurer who revived the savagery of ancient times on the steppes           | [253]()          |
-| The Dongtse Monastery in Tibet, Seng Chen's spiritual home. *Photo F. Ludlow*                    | [256]()          |
-| Painting of Obish Khan                                                                           | [257]()          |
-| Tibetan High Lama. *Photo Hummel*                                                                | [257]()          |
-| Fresco in the Dongtse Monastery representing Seng Chen's spiritual father, the Tiger god's fourth reincarnation. *Photo F. Ludlow*| [280]()          |
+| Inhabitants of Temerlik. *Photo Bergman*                                                         | [252](#жители-посёлка-темирлик)          |
+| Torgut camp. *Photo Ambolt*                                                                      | [252](#торгутский-лагерь)          |
+| Torgut Chiefs (*merin* and *gusdä*)                                                              | [253](#торгутские-вожди-мерин-и-гусда)          |
+| Dambin Jansang the adventurer who revived the savagery of ancient times on the steppes           | [253](#дамбиджанцан--авантюрист-и-его-подпись)          |
+| The Dongtse Monastery in Tibet, Seng Chen's spiritual home. *Photo F. Ludlow*                    | [256](#монастырь-дунцзе-в-тибете)          |
+| Painting of Obish Khan                                                                           | [257](#картина-с-изображением-обиш-хана)          |
+| Tibetan High Lama. *Photo Hummel*                                                                | [257](#тибетский-великий-лама)          |
+| Fresco in the Dongtse Monastery representing Seng Chen's spiritual father, the Tiger god's fourth reincarnation. *Photo F. Ludlow*| [280](#фресковая-роспись-в-монастыре-дунцзе)          |
 | Torgut Temple Tent. From Pallas' "*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*", *St. Petersburg*, 1776    | [281]()          |
-| The author with Lamaistic philosophers                                                           | [304]()          |
+| The author with Lamaistic philosophers                                                           | [304](#автор-в-обществе-ламаистских-философов)          |
 | "Baredo soldep" (Tibetan prayer)                                                                 | [312]()          |
-| Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*                        | [320]()          |
-| Interior of *gegen-ni-ordo* on its erection at Urumchi                                           | [320]()          |
-| The three thrones in the Khan's Tent of the Torguts                                              | [320]()          |
-| "Tsagachin Beile often appeared in an ill-fitting Russian costume"                               | [320]()          |
+| Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*                        | [320](#часть-геген-ни-ордо)          |
+| Interior of *gegen-ni-ordo* on its erection at Urumchi                                           | [320](#интерьер-геген-ни-ордо-при-стоянке-в-урумчи)          |
+| The three thrones in the Khan's Tent of the Torguts                                              | [320](#три-трона)          |
+| "Tsagachin Beile often appeared in an ill-fitting Russian costume"                               | [320](#цагечин-бэйле-в-русском-костюме)          |
 | Baldan *gusdä*                                                                                   | [321]()          |
 | Map                                                                                              | [328]()          |
 
