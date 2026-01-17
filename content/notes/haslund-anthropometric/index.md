@@ -21,6 +21,8 @@ fediverse: "@username@instance.url"
 
 ## Хаслунд
 
+Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translated from Swedish by Elizabeth Sprigge and Claude Napier. New York: E.P. Dutton & co.
+
 > A couple of young men visiting our tent consented after minute explanations to go through the ordeal. But when Hummel opened his case and displayed the many shining instruments which were necessary for calculating the shape of the head and taking other measurements they slunk quickly away, leaving behind them the promised silver dollars.
 >
 > We had better luck with one proud soldier, for after I had egged him on by comparing him with the dauntless warriors of some imaginary race in the north, he wanted to demonstrate both his build and his courage. Sweating with concern he underwent a twenty minutes’ examination before a large and admiring audience. Finally Hummel was to take a specimen of his blood with a hypodermic needle. The fellow got his little prick, but we did not succeed in getting his blood, for this innocent operation gave rise to a hysterical yell and caused great commotion among the onlookers.
@@ -42,7 +44,7 @@ Before noon the news of our mysterious designs had spread over the whole monaste
 >
 > Было ясно, что антропометрическая затея нисколько не приблизила нас к возможности попасть за стены храма. Поэтому Хуммель снова упаковал свои изящные инструменты и вместо этого отправился собирать прибрежные растения, насекомых и степные мхи. Это вызвало оживлённое обсуждение среди монголов, но его спокойный итог свёлся к тому, что белые люди, должно быть, являются чем-то вроде коллег китайских ловцов жаворонков.
 
-Фотография из книги Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan) ([все фотографии](/notes/haslund-zajagan-photos/)):
+Фотография из книги Haslund-Christensen Henning, 1947. Zajagan. ([все фотографии](/notes/haslund-zajagan-photos/)):
 
 ![haslund-zajagan-all-photos_06_3.jpg](haslund-zajagan-all-photos_06_3.jpg "Hver Gang jeg forsøgte at tage Blodprøver paa Mongolerne saa de ulykkelige ud. Bergman fot.")
 
@@ -52,4 +54,14 @@ Hver Gang jeg forsøgte at tage Blodprøver paa Mongolerne saa de ulykkelige ud.
 
 ## Рерих
 
+Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. ([Полный текст](/notes/roerich-trails-to-asia-en/))
+
 > It is as yet impossible to determine what people constructed the Leh graves. Dr. Francke believes them to have been Dards. (20) All the skulls so far discovered were distinctly dolichocephalic, whereas modern Tibetans of Ladak are brachycephalic. The Tibetans are a composite race, and I have collected during my stay among the nomads of Tibet a number of facts which show that there once existed an ancient stratum of dolichocephalic population in Tibet. The nomad tribes of the Tibetan border country still show dolichocephalic and brachycephalic indexes. The results of my investigations can be summarized thus: the Hor-pas of the Thang La region --- mostly dolichocephalic; the Panags, Goloks, and Nya-rong-was --- numerous dolichocephalic skulls, the same being true of the Northern Kham Province; the Chang-pas of the lake region --- mostly brachycephalic indexes, some showing a transitional type; the agricultural population of the Brahmaputra Valley and south-eastern Tibet --- mostly brachycephalic indexes. It is clear from the above that the dolichocephalic population had been preserved along the Tibetan border, whereas the center of the country had been conquered at some early date by a brachycephalic race. I am inclined to think that the graves at Teu-gser-po were left by the ancient stratum of dolichocephalic tribes of Tibet. It is interesting to note that the Leh graves are popularly called "nomad graves," and it is precisely among the nomad population that we find the dolichocephalic type with fine features and straight hair. Unfortunately the missionaries were obliged to stop their excavations and a great many of these graves are still unexplored. It will be very instructive to compare the Ladak graves to the analogous graves found in the lake region north of the Trans-Himalayas.
+
+Перевод:
+
+> Перевод на русский:
+>
+> Пока ещё невозможно определить, каким народом были сооружены захоронения в Лехе. Доктор Франке полагает, что их создателями были дарды (20). Все обнаруженные до настоящего времени черепа имеют отчётливо долихоцефальный тип, тогда как современные тибетцы Ладака являются брахицефалами. Тибетцы представляют собой смешанную расу, и за время моего пребывания среди кочевников Тибета я собрал ряд фактов, свидетельствующих о том, что в Тибете некогда существовал древний слой долихоцефального населения. Кочевые племена пограничных районов Тибета и поныне демонстрируют как долихоцефальные, так и брахицефальные показатели. Результаты моих исследований можно суммировать следующим образом: хор-па области Танг-ла — преимущественно долихоцефалы; панаки, голоки и ньяронгцы — имеют значительное число долихоцефальных черепов; то же самое относится и к северной провинции Кам; чанг-па озёрного района — в основном брахицефальные показатели, при наличии некоторых переходных типов; земледельческое население долины Брахмапутры и юго-восточного Тибета — преимущественно брахицефальные показатели. Из сказанного ясно, что долихоцефальное население сохранилось вдоль тибетских окраин, тогда как центральная часть страны была в какой-то ранний период завоёвана брахицефальной расой. Я склонен полагать, что погребения в Теу-гсер-по были оставлены древним слоем долихоцефальных племён Тибета. Любопытно отметить, что захоронения в Лехе в народе называются «кочевническими могилами», и именно среди кочевого населения мы встречаем долихоцефальный тип с тонкими чертами лица и прямыми волосами. К сожалению, миссионеры были вынуждены прекратить раскопки, и значительная часть этих могил до сих пор остаётся неисследованной. Было бы весьма поучительно сопоставить ладакские захоронения с аналогичными погребениями, обнаруженными в озёрной области к северу от Трансгималаев.
+
+
