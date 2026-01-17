@@ -26,6 +26,8 @@ fediverse: "@username@instance.url"
 
 Представленные фото не всегда удовлетворительного качества и приводятся скорее для индекса.
 
+Списка иллюстраций в издании 1947 г. нет.
+
 ## Список иллюстраций из англоязычного издания
 
 Англоязычные подписи и перевод с них к конкретным фотографиям ниже приведены по этому изданию.
@@ -73,7 +75,7 @@ fediverse: "@username@instance.url"
 | "The red Standard"                                                                               | [225]()          |
 | Shiri, who "commanded the gliding, soaring and falling of the notes like a proud eagle on the wing"| [240](#шири)   |
 | Torgut married women                                                                             | [240](#замужние-торгутские-женщины)          |
-| The Torgut Regent's *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders | [241](##батыры-торгутского-регента)          |
+| The Torgut Regent's *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders | [241](#батыры-торгутского-регента)          |
 | Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*                                      | [244]()          |
 | Torgut Cavalry Acrobatics. *Photo Hempel*                                                        | [245](#торгутская-конная-акробатика)          |
 | Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                                | [248](#лодонг-син-чин-геген-и-люруп)          |
@@ -1054,11 +1056,21 @@ EN: The Sart *aksakal* and Chinese *amban*. *Photo Bergman*
 
 ![haslund-zajagan-all-photos3_7_3.jpg](haslund-zajagan-all-photos3_7_3.jpg "Sartiske Musikanter. Bergman fot.")
 
-Sartiske Musikanter. Bergman fot.
+DA: Sartiske Musikanter. Bergman fot.
 
 EN: Sart Musicians. *Photo Bergman*
 
-Сартские музыканты. Фото Бергмана.
+RU: Сартские музыканты. Фото Бергмана.
+
+### Монгрольде-нойон с личной охраной
+
+![haslund-zajagan-en-mongrolda.png](haslund-zajagan-en-mongrolda.png "Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard")
+
+DA: фото нет в датскоязычном издании 1935 г.
+
+EN: Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard
+
+RU: Монгрольде-нойон, молодой предводитель хошутских монголов, со своей личной охраной.
 
 ## Благодарности
 
