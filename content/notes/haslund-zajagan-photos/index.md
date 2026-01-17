@@ -58,7 +58,7 @@ fediverse: "@username@instance.url"
 | The genesis of "Long Snake." *Photo Lieberenz*                                                   | [129](#процесс-создания-длинного-змея)          |
 | Landing of the boat expedition after the voyage on Socho-nor. *Photo Lieberenz*                  | [129](#высадка-лодочной-экспедиции)          |
 | "In the red cloud of dust a dense mass of galloping horsemen." *Photo Hempel*                    | [160](#тяжёлые-силуэты-всадников)          |
-| Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard                      | [161]()          |
+| Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard                      | [161](#монгрольде-нойон-с-личной-охраной)          |
 | Tsagechin Beile                                                                                  | [161](#цагечин-бейле-в-родовой-одежде)          |
 | A Mongol salutes his Chief                                                                       | [168](#монгол-приветствует-своего-вождя)          |
 | Sart Musicians. *Photo Bergman*                                                                  | [184](#сартские-музыканты)          |
@@ -1066,11 +1066,21 @@ RU: Сартские музыканты. Фото Бергмана.
 
 ![haslund-zajagan-en-mongrolda.png](haslund-zajagan-en-mongrolda.png "Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard")
 
-DA: фото нет в датскоязычном издании 1935 г.
+DA: фото нет в датскоязычном издании 1957 г.
 
 EN: Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard
 
 RU: Монгрольде-нойон, молодой предводитель хошутских монголов, со своей личной охраной.
+
+### Консул Арселана
+
+![haslund-zajagan-en-arselan.png](haslund-zajagan-en-arselan.png "\"Arselan Consul\"")
+
+DA: фото нет в датскоязычном издании 1935 г.
+
+EN: "Arselan Consul"
+
+RU: Консул Арселана
 
 ## Благодарности
 
