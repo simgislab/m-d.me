@@ -90,12 +90,12 @@ fediverse: "@username@instance.url"
 | Fresco in the Dongtse Monastery representing Seng Chen's spiritual father, the Tiger god's fourth reincarnation. *Photo F. Ludlow*| [280](#фресковая-роспись-в-монастыре-дунцзе)          |
 | Torgut Temple Tent. From Pallas' "*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*", *St. Petersburg*, 1776    | [281](#храмовая-юрта-торгутов)          |
 | The author with Lamaistic philosophers                                                           | [304](#автор-в-обществе-ламаистских-философов)          |
-| "Baredo soldep" (Tibetan prayer)                                                                 | [312]()          |
+| "Baredo soldep" (Tibetan prayer)                                                                 | [312](#тибетская-молитва)          |
 | Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*                        | [320](#часть-геген-ни-ордо)          |
 | Interior of *gegen-ni-ordo* on its erection at Urumchi                                           | [320](#интерьер-геген-ни-ордо-при-стоянке-в-урумчи)          |
 | The three thrones in the Khan's Tent of the Torguts                                              | [320](#три-трона)          |
 | "Tsagachin Beile often appeared in an ill-fitting Russian costume"                               | [320](#цагечин-бэйле-в-русском-костюме)          |
-| Baldan *gusdä*                                                                                   | [321]()          |
+| Baldan *Gusdä*                                                                                   | [321]()          |
 | Map                                                                                              | [328]()          |
 
 ## Фотографии
@@ -1066,7 +1066,7 @@ RU: Сартские музыканты. Фото Бергмана.
 
 ![haslund-zajagan-en-mongrolda.png](haslund-zajagan-en-mongrolda.png "Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard")
 
-DA: фото нет в датскоязычном издании 1957 г.
+DA: фото нет в датскоязычном издании 1947 г.
 
 EN: Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard
 
@@ -1076,7 +1076,7 @@ RU: Монгрольде-нойон, молодой предводитель х�
 
 ![haslund-zajagan-en-arselan.png](haslund-zajagan-en-arselan.png "\"Arselan Consul\"")
 
-DA: фото нет в датскоязычном издании 1935 г.
+DA: фото нет в датскоязычном издании 1947 г.
 
 EN: "Arselan Consul"
 
@@ -1086,7 +1086,7 @@ RU: "Консул Арселан"
 
 ![haslund-zajagan-en-redstandard.png](haslund-zajagan-en-redstandard.png "\"Arselan Consul\"")
 
-DA: изображения нот нет в датскоязычном издании 1935 г.
+DA: изображения нот нет в датскоязычном издании 1947 г.
 
 EN: "The red Standard"
 
@@ -1098,7 +1098,7 @@ RU: "Красный стандарт" (Красное знамя?)
 
 ![haslund-zajagan-en-baldangusda.png](haslund-zajagan-en-baldangusda.png "Baldan gusdä, the Regent, Lodong chanse, Lyrup chanse")
 
-DA: фото нет в датскоязычном издании 1935 г.
+DA: фото нет в датскоязычном издании 1947 г.
 
 EN: Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*
 
@@ -1108,7 +1108,7 @@ RU: Балдан-гусда, регент, Лодонг-чансе, Лируп-�
 
 ![haslund-zajagan-en-youngtorguts.png](haslund-zajagan-en-youngtorguts.png "Young Torguts. Photo Ambolt")
 
-DA: изображение нот отсутствует в датскоязычном издании 1935 г.
+DA: изображение нот отсутствует в датскоязычном издании 1947 г.
 
 EN: Young Torguts. *Photo Ambolt*
 
@@ -1118,7 +1118,7 @@ RU: Молодые торгуты. Фото Амболта
 
 ![haslund-zajagan-en-templetent.png](haslund-zajagan-en-templetent.png "Torgut Temple Tent. From Pallas’ “Sammlungen historischer Nachrichten über die mongolischen Völkerschaften”, St. Petersburg, 1776")
 
-DA: фото нет в датскоязычном издании 1935 г.
+DA: фото нет в датскоязычном издании 1947 г.
 
 EN: Torgut Temple Tent. From Pallas’ “Sammlungen historischer Nachrichten über die mongolischen Völkerschaften”, St. Petersburg, 1776
 
@@ -1128,13 +1128,33 @@ RU: Храмовая юрта торгутов. Из издания: П. С. П�
 
 ![haslund-zajagan-en-baredo.png](haslund-zajagan-en-baredo.png "“Baredo soldep” (Tibetan prayer)")
 
-DA: изображение нот отсутствует в датскоязычном издании 1935 г.
+DA: изображение нот отсутствует в датскоязычном издании 1947 г.
 
 EN: “Baredo soldep” (Tibetan prayer)
 
 RU: «Баредо сольдеп» (тибетская молитва)
 
 Изображение нот смешано с иллюстрацией "[Храмовый шатёр](#храмовый-шатёр)" подпись к которой в англоязычном издании, наоборот, пропущено.
+
+### Балдан-гусда
+
+![haslund-zajagan-en-baldan.png](haslund-zajagan-en-baldan.png "Baldan Gusdä")
+
+DA: фото нет в датскоязычном издании 1947 г.
+
+EN: Baldan Gusdä
+
+RU: Балдан-гусда
+
+### Карта
+
+![haslund-zajagan-en-map.png](haslund-zajagan-en-map.png "Map")
+
+DA: в датскоязычном издании 1947 г. карта на датском языке
+
+EN: Map
+
+RU: Карта
 
 ## Благодарности
 
