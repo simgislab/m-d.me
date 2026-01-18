@@ -1114,6 +1114,16 @@ EN: Young Torguts. *Photo Ambolt*
 
 RU: Молодые торгуты. Фото Амболта
 
+### Храмовая юрта торгутов
+
+![haslund-zajagan-en-templetent.png](haslund-zajagan-en-templetent.png "Torgut Temple Tent. From Pallas’ “Sammlungen historischer Nachrichten über die mongolischen Völkerschaften”, St. Petersburg, 1776")
+
+DA: фото нет в датскоязычном издании 1935 г.
+
+EN: Torgut Temple Tent. From Pallas’ “Sammlungen historischer Nachrichten über die mongolischen Völkerschaften”, St. Petersburg, 1776
+
+RU: Храмовая юрта торгутов. Из издания: П. С. Паллас, «Sammlungen historischer Nachrichten über die mongolischen Völkerschaften», Санкт-Петербург, 1776.
+
 ## Благодарности
 
 Фотографии получены благодаря помощи Алексея Сидоренко.
