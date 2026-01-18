@@ -70,7 +70,7 @@ fediverse: "@username@instance.url"
 | A Charklik beauty                                                                                | [188](#чаркликская-красавица)          |
 | Camel transport across the river. *Photo Bergman*                                                | [193](#перевозка-верблюдов-через-реку)          |
 | Torgut soldier                                                                                   | [193](#торгутский-воин)          |
-| "Arselan Consul"                                                                                 | [224]()          |
+| "Arselan Consul"                                                                                 | [224](#консул-арселан)          |
 | Mongrolda Noyen                                                                                  | [224](#монгрольде-нойон)          |
 | "The red Standard"                                                                               | [225]()          |
 | Shiri, who "commanded the gliding, soaring and falling of the notes like a proud eagle on the wing"| [240](#шири)   |
@@ -1072,7 +1072,7 @@ EN: Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard
 
 RU: Монгрольде-нойон, молодой предводитель хошутских монголов, со своей личной охраной.
 
-### Консул Арселана
+### Консул Арселан
 
 ![haslund-zajagan-en-arselan.png](haslund-zajagan-en-arselan.png "\"Arselan Consul\"")
 
@@ -1080,7 +1080,29 @@ DA: фото нет в датскоязычном издании 1935 г.
 
 EN: "Arselan Consul"
 
-RU: Консул Арселана
+RU: "Консул Арселан"
+
+### Красный стандарт
+
+![haslund-zajagan-en-redstandard.png](haslund-zajagan-en-redstandard.png "\"Arselan Consul\"")
+
+DA: изображения нот нет в датскоязычном издании 1935 г.
+
+EN: "The red Standard"
+
+RU: "Красный стандарт" (Красное знамя?)
+
+Изображение нот смешано с иллюстрацией "[Музыка монголов. По историческим сообщениям из собраний Палласа. Санкт-Петербург, 1776.](#музыка-монголов)" подпись к которой в англоязычном издании, наоборот, пропущено.
+
+### Балдан-гусда, регент, Лодонг и Люруп
+
+![haslund-zajagan-en-arselan.png](haslund-zajagan-en-arselan.png "Baldan gusdä, the Regent, Lodong chanse, Lyrup chanse")
+
+DA: фото нет в датскоязычном издании 1935 г.
+
+EN: Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*
+
+RU: Балдан-гусда, регент, Лодонг-чансе, Лируп-чансе.
 
 ## Благодарности
 
