@@ -79,7 +79,7 @@ fediverse: "@username@instance.url"
 | Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*                                      | [244](#балдан-гусда-регент-лодонг-и-люруп)          |
 | Torgut Cavalry Acrobatics. *Photo Hempel*                                                        | [245](#торгутская-конная-акробатика)          |
 | Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                                | [248](#лодонг-син-чин-геген-и-люруп)          |
-| Young Torguts. *Photo Ambolt*                                                                    | [249]()          |
+| Young Torguts. *Photo Ambolt*                                                                    | [249](#молодые-торгуты)          |
 | Inhabitants of Temerlik. *Photo Bergman*                                                         | [252](#жители-посёлка-темирлик)          |
 | Torgut camp. *Photo Ambolt*                                                                      | [252](#торгутский-лагерь)          |
 | Torgut Chiefs (*merin* and *gusdä*)                                                              | [253](#торгутские-вожди-мерин-и-гусда)          |
@@ -88,7 +88,7 @@ fediverse: "@username@instance.url"
 | Painting of Obish Khan                                                                           | [257](#картина-с-изображением-обиш-хана)          |
 | Tibetan High Lama. *Photo Hummel*                                                                | [257](#тибетский-великий-лама)          |
 | Fresco in the Dongtse Monastery representing Seng Chen's spiritual father, the Tiger god's fourth reincarnation. *Photo F. Ludlow*| [280](#фресковая-роспись-в-монастыре-дунцзе)          |
-| Torgut Temple Tent. From Pallas' "*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*", *St. Petersburg*, 1776    | [281]()          |
+| Torgut Temple Tent. From Pallas' "*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*", *St. Petersburg*, 1776    | [281](#храмовая-юрта-торгутов)          |
 | The author with Lamaistic philosophers                                                           | [304](#автор-в-обществе-ламаистских-философов)          |
 | "Baredo soldep" (Tibetan prayer)                                                                 | [312]()          |
 | Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*                        | [320](#часть-геген-ни-ордо)          |
@@ -1108,7 +1108,7 @@ RU: Балдан-гусда, регент, Лодонг-чансе, Лируп-�
 
 ![haslund-zajagan-en-youngtorguts.png](haslund-zajagan-en-youngtorguts.png "Young Torguts. Photo Ambolt")
 
-DA: фото нет в датскоязычном издании 1935 г.
+DA: изображение нот отсутствует в датскоязычном издании 1935 г.
 
 EN: Young Torguts. *Photo Ambolt*
 
@@ -1123,6 +1123,18 @@ DA: фото нет в датскоязычном издании 1935 г.
 EN: Torgut Temple Tent. From Pallas’ “Sammlungen historischer Nachrichten über die mongolischen Völkerschaften”, St. Petersburg, 1776
 
 RU: Храмовая юрта торгутов. Из издания: П. С. Паллас, «Sammlungen historischer Nachrichten über die mongolischen Völkerschaften», Санкт-Петербург, 1776.
+
+### Тибетская молитва
+
+![haslund-zajagan-en-baredo.png](haslund-zajagan-en-baredo.png "“Baredo soldep” (Tibetan prayer)")
+
+DA: изображение нот отсутствует в датскоязычном издании 1935 г.
+
+EN: “Baredo soldep” (Tibetan prayer)
+
+RU: «Баредо сольдеп» (тибетская молитва)
+
+Изображение нот смешано с иллюстрацией "[Храмовый шатёр](#храмовый-шатёр)" подпись к которой в англоязычном издании, наоборот, пропущено.
 
 ## Благодарности
 
