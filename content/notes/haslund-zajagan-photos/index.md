@@ -72,11 +72,11 @@ fediverse: "@username@instance.url"
 | Torgut soldier                                                                                   | [193](#торгутский-воин)          |
 | "Arselan Consul"                                                                                 | [224](#консул-арселан)          |
 | Mongrolda Noyen                                                                                  | [224](#монгрольде-нойон)          |
-| "The red Standard"                                                                               | [225]()          |
+| "The red Standard"                                                                               | [225](#красный-стандарт)          |
 | Shiri, who "commanded the gliding, soaring and falling of the notes like a proud eagle on the wing"| [240](#шири)   |
 | Torgut married women                                                                             | [240](#замужние-торгутские-женщины)          |
 | The Torgut Regent's *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders | [241](#батыры-торгутского-регента)          |
-| Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*                                      | [244]()          |
+| Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*                                      | [244](#балдан-гусда-регент-лодонг-и-люруп)          |
 | Torgut Cavalry Acrobatics. *Photo Hempel*                                                        | [245](#торгутская-конная-акробатика)          |
 | Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                                | [248](#лодонг-син-чин-геген-и-люруп)          |
 | Young Torguts. *Photo Ambolt*                                                                    | [249]()          |
@@ -568,7 +568,7 @@ Lodong, Sin Chin Gegen og Lyrup. Anbolt fot.
 
 EN: Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*
 
-Лодонг, Син Чин Геген и Люруп. Фото Анболта.
+Лодонг, Син Чин Геген и Люруп. Фото Амболта.
 
 ### Торгутская конная акробатика
 
@@ -608,7 +608,7 @@ Torgutisk Lejr. Anbolt fot.
 
 EN: Torgut camp. *Photo Ambolt*
 
-Торгутский лагерь. Фото Анболта.
+Торгутский лагерь. Фото Амболта.
 
 ### Фресковая роспись в монастыре Дунцзе
 
@@ -1096,13 +1096,23 @@ RU: "Красный стандарт" (Красное знамя?)
 
 ### Балдан-гусда, регент, Лодонг и Люруп
 
-![haslund-zajagan-en-arselan.png](haslund-zajagan-en-arselan.png "Baldan gusdä, the Regent, Lodong chanse, Lyrup chanse")
+![haslund-zajagan-en-baldangusda.png](haslund-zajagan-en-baldangusda.png "Baldan gusdä, the Regent, Lodong chanse, Lyrup chanse")
 
 DA: фото нет в датскоязычном издании 1935 г.
 
 EN: Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*
 
 RU: Балдан-гусда, регент, Лодонг-чансе, Лируп-чансе.
+
+### Молодые торгуты
+
+![haslund-zajagan-en-youngtorguts.png](haslund-zajagan-en-youngtorguts.png "Young Torguts. Photo Ambolt")
+
+DA: фото нет в датскоязычном издании 1935 г.
+
+EN: Young Torguts. *Photo Ambolt*
+
+RU: Молодые торгуты. Фото Амболта
 
 ## Благодарности
 
