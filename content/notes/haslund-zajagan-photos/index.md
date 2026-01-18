@@ -500,11 +500,15 @@ EN: фото нет в англоязычном издании 1935 г.
 
 Боевая сцена между маньчжурами и джунгарами. По старинной гравюре из собрания Софуса Блэка в Рунгстеде.
 
-### Иллюстрация без подписи
+### Молитвенный флажок с символом «хи-мори»
 
-![haslund-zajagan-all-photos_18_1.jpg](haslund-zajagan-all-photos_18_1.jpg)
+![haslund-zajagan-all-photos_18_1.jpg](haslund-zajagan-all-photos_18_1.jpg "Prayer-flag with Symbol of Hi-mori and Sacred Texts.")
 
-Иллюстрация без подписи.
+DA: Подпись не зафиксирована.
+
+EN: Prayer-flag with Symbol of Hi-mori and Sacred Texts.
+
+RU: Молитвенный флажок с символом «хи-мори» и священными надписями.
 
 ### Торгутский воин
 
