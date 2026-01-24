@@ -13,6 +13,8 @@
 
 Область интересов: анализ геоданных, открытые технологии и данные.
 
+SCOPUS ID: [36980570100](https://www.scopus.com/authid/detail.uri?authorId=36980570100), [ORCID: 0000-0002-6582-4145](https://orcid.org/0000-0002-6582-4145)
+
 ## Резюме
 
 https://m-d.me/docs/dubinin_cv_ru.pdf
