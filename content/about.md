@@ -17,7 +17,7 @@ SCOPUS ID: [36980570100](https://www.scopus.com/authid/detail.uri?authorId=36980
 
 ## Резюме
 
-https://m-d.me/docs/dubinin_cv_ru.pdf
+<https://m-d.me/docs/dubinin_cv_ru.pdf>
 
 ## Организации
 
