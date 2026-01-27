@@ -13,7 +13,7 @@ tag = 'tags'
 # Meta description
 description = "Личный сайт Максима Дубинина"
 showFooter = true
-footerContent = "CC BY-SA 4.0. Максим Дубинин, [maxim.dubinin@nextgis.com](mailto:maxim.dubinin@nextgis.com), tg: [Answer42geo](https://t.me/answer42geo)"
+footerContent = "CC BY-SA 4.0, Максим Дубинин, [maxim.dubinin@nextgis.com](mailto:maxim.dubinin@nextgis.com), tg: [Answer42geo](https://t.me/answer42geo), [RSS](/notes/index.xml)"
 
 
 # Appearance settings
