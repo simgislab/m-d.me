@@ -7,7 +7,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
-    {{ $tagsPage := strings.HasPrefix .Title "Tags" }}
+    {{ $tagsPage := eq .RelPermalink "/tags/" }}
 
     {{ $paginationSize := 1 }}
     {{ if (gt .Site.Params.paginationSize 0) }}
