@@ -7,29 +7,26 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
-    {{ $tagsPage := eq .RelPermalink "/tags/" }}
+    {{ $tagsPage := eq .Title "Tags"}}
 
-    {{ $paginationSize := 1 }}
+    {{ $paginationSize := 1}}
     {{ if (gt .Site.Params.paginationSize 0) }}
     {{ $paginationSize = .Site.Params.paginationSize }}
     {{ end }}
 
     {{ $paginator := .Paginate (.Pages) $paginationSize }}
 
-    {{ if $tagsPage }}
-        {{ $paginator = .Paginate (sort .Pages "Title" "asc") $paginationSize }}
-    {{ end }}
-
     {{ range $index, $page := $paginator.Pages }}
-        {{ if $tagsPage }}
-            {{ partial "tag-entry.html" $page }}
-        {{ else }}
-            {{ partial "post-entry.html" $page }}
-        {{ end }}
+
+    {{ if $tagsPage }}
+    {{ partial "tag-entry.html" $page}}
+    {{ else }}
+    {{ partial "post-entry.html" $page}}
     {{ end }}
 
-    {{ partial "pagination-controls.html" $paginator }}
+    {{ end }}
+
+    {{ partial "pagination-controls.html" $paginator}}
 
 </div>
-
 {{ end }}
