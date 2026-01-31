@@ -7,26 +7,31 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
-    {{ $tagsPage := eq .Title "Tags"}}
+    {{ $tagsPage := eq .RelPermalink "/tags/" }} <!-- Проверяем, что это страница с тегами -->
 
-    {{ $paginationSize := 1}}
+    {{ $paginationSize := 1 }}
     {{ if (gt .Site.Params.paginationSize 0) }}
-    {{ $paginationSize = .Site.Params.paginationSize }}
+        {{ $paginationSize = .Site.Params.paginationSize }}
     {{ end }}
 
+    <!-- Определяем $paginator до условия -->
     {{ $paginator := .Paginate (.Pages) $paginationSize }}
 
-    {{ range $index, $page := $paginator.Pages }}
-
+    <!-- Если это страница с тегами, применяем сортировку по заголовку -->
     {{ if $tagsPage }}
-    {{ partial "tag-entry.html" $page}}
-    {{ else }}
-    {{ partial "post-entry.html" $page}}
+        {{ $paginator = .Paginate (sort .Pages "Title" "asc") $paginationSize }}
     {{ end }}
 
+    {{ range $index, $page := $paginator.Pages }}
+        {{ if $tagsPage }}
+            {{ partial "tag-entry.html" $page }} <!-- Для страницы с тегами -->
+        {{ else }}
+            {{ partial "post-entry.html" $page }} <!-- Для всех остальных страниц -->
+        {{ end }}
     {{ end }}
 
-    {{ partial "pagination-controls.html" $paginator}}
+    {{ partial "pagination-controls.html" $paginator }}
 
 </div>
+
 {{ end }}
