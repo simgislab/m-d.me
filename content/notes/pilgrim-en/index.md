@@ -6,7 +6,7 @@ description: "Landing page. Toponyms, maps, articles, translations."
 toc: true
 autonumber: false
 math: false
-tags: ["Tsybikov", "Nozunov", "Shishmarev", "Ulanov", "Ulyanov", "Jungruev", "Roerich", "Tibet", "Mongolia"]
+tags: ["Tsybikov", "Norzunov", "Shishmarev", "Ulanov", "Ulyanov", "Jungruev", "Roerich", "Tibet", "Mongolia"]
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
