@@ -14,23 +14,22 @@
     {{ $paginationSize = .Site.Params.paginationSize }}
     {{ end }}
 
+    {{ $paginator := .Paginate (.Pages) $paginationSize }}
+
     {{ if $tagsPage }}
-        {{ $paginator := .Paginate (sort .Pages "Title" "asc") $paginationSize }}
-    {{ else }}
-        {{ $paginator := .Paginate (.Pages) $paginationSize }}
+        {{ $paginator = .Paginate (sort .Pages "Title" "asc") $paginationSize }}
     {{ end }}
 
     {{ range $index, $page := $paginator.Pages }}
-
-    {{ if $tagsPage }}
-        {{ partial "tag-entry.html" $page }}
-    {{ else }}
-        {{ partial "post-entry.html" $page }}
-    {{ end }}
-
+        {{ if $tagsPage }}
+            {{ partial "tag-entry.html" $page }}
+        {{ else }}
+            {{ partial "post-entry.html" $page }}
+        {{ end }}
     {{ end }}
 
     {{ partial "pagination-controls.html" $paginator }}
 
 </div>
+
 {{ end }}
