@@ -14,7 +14,11 @@
     {{ $paginationSize = .Site.Params.paginationSize }}
     {{ end }}
 
-    {{ $paginator := .Paginate (.Pages) $paginationSize }}
+    {{ if $tagsPage }}
+        {{ $paginator := .Paginate (sort .Pages "Title" "asc") $paginationSize }}
+    {{ else }}
+        {{ $paginator := .Paginate (.Pages) $paginationSize }}
+    {{ end }}
 
     {{ range $index, $page := $paginator.Pages }}
 
