@@ -7,7 +7,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
-    {{ $tagsPage := eq .Title "Tags" }}
+    {{ $tagsPage := strings.HasPrefix .Title "Tags" }}
 
     {{ $paginationSize := 1 }}
     {{ if (gt .Site.Params.paginationSize 0) }}
