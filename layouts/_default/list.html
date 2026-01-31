@@ -7,9 +7,9 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
-    {{ $tagsPage := eq .Title "Tags"}}
+    {{ $tagsPage := eq .Title "Tags" }}
 
-    {{ $paginationSize := 1}}
+    {{ $paginationSize := 1 }}
     {{ if (gt .Site.Params.paginationSize 0) }}
     {{ $paginationSize = .Site.Params.paginationSize }}
     {{ end }}
@@ -23,14 +23,14 @@
     {{ range $index, $page := $paginator.Pages }}
 
     {{ if $tagsPage }}
-    {{ partial "tag-entry.html" $page}}
+        {{ partial "tag-entry.html" $page }}
     {{ else }}
-    {{ partial "post-entry.html" $page}}
+        {{ partial "post-entry.html" $page }}
     {{ end }}
 
     {{ end }}
 
-    {{ partial "pagination-controls.html" $paginator}}
+    {{ partial "pagination-controls.html" $paginator }}
 
 </div>
 {{ end }}
