@@ -6,7 +6,7 @@ description: "How to decode a text source into a database well prepared for mapp
 toc: true
 autonumber: false
 math: false
-tags: []
+tags: ["Methodology"]
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"

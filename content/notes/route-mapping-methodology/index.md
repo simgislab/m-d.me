@@ -6,7 +6,7 @@ description: "Как декодировать текстовый источни�
 toc: true
 autonumber: false
 math: false
-tags: []
+tags: ["Методология"]
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
