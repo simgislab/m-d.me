@@ -65,6 +65,8 @@ Prishchepov, A.V., V.C. Radeloff, **Dubinin, M.**, Alcantara C. 2012. The effect
 
 ## 2010
 
+Dubinin M. (2010). Effects of land use change on fire, vegetation and wildlife dynamics in arid ecosystems of Southern Russia. PhD Thesis ([скачать](https://m-d.me/docs/dubinin10_thesis_web.pdf))
+
 **Дубинин, М.Ю.**, Лущекина, А.А., & Раделоф, В.К. (2010). Оценка современной динамики пожаров в аридных экосистемах по материалам космической съемки (на примере Черных Земель). Аридные экосистемы, 16, 5-16 ([pdf](https://m-d.me/docs/dubinin2010_aridnye_ecosystemy_fin.pdf))
 
 **Dubinin, M.**, Potapov, P., Lushchekina, A., & Radeloff, V.C. (2010). Reconstructing long time series of burned areas in arid grasslands of southern Russia by satellite remote sensing. Remote Sensing of Environment, 114, 1638-1648 ([link](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V6V-4YVG86W-1&_user=443835&_coverDate=08%2F16%2F2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1491296203&_rerunOrigin=google&_acct=C000020958&_version=1))
@@ -84,6 +86,8 @@ Prishchepov, A.V., V.C. Radeloff, **Dubinin, M.**, Alcantara C. 2012. The effect
 Potapov, P., Yaroshenko, A., Turubanova, S., **Dubinin, M.**, Laestadius, L., Thies, C., Aksenov, D., Egorov, A., Yesipova, Y., Glushkov, I., Karpachevskiy, M., Kostikova, A., Manisha, A., Tsybikova, E., & Zhuravleva, I. (2008). Mapping the World's Intact Forest Landscapes by Remote Sensing. Ecology and Society, 13, Article No.: 51 ([pdf](http://www.ecologyandsociety.org/vol13/iss2/art51/ES-2008-2670.pdf)) ([HTML](http://www.ecologyandsociety.org/vol13/iss2/art51/))
 
 ## 2007
+
+Dubinin M. (2007). NASA Earth System Science Fellowship Application ([скачать](https://m-d.me/docs/dubinin07-nasa-final.pdf))
 
 Ktitorov, P., Bairlein, F. & **Dubinin, M.** The importance of landscape context for songbirds on migration: body mass gain is related to habitat cover. Landscape Ecology, 2007
 

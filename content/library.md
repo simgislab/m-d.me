@@ -1,12 +1,14 @@
 # Библиотека
 
-Здесь книги, статьи которые было нелегко найти. Отсканировано в большинстве случаев мной. Отсортировано по первому автору.
+Здесь книги или статьи не моего авторства, которые было нелегко найти. Отсканировано, а иногда распознано и отредактировано в большинстве случаев мной. Мои публикации см. на странице [Публикации](/pubs).
 
 ## Тибет и Монголия
 
-Андреев, А.И. (1997). От Байкала до Священной Лхасы: Новые материалы о рус. экспедициях в Центр. Азию в первой половине ХХ в. (Бурятия, Монголия, Тибет). – Самара:Агни,1997 – с.335. ([подробнее](/notes/andreev-baikal-lhasa))
+Андреев, А.И., 1997. От Байкала до Священной Лхасы: Новые материалы о рус. экспедициях в Центр. Азию в первой половине ХХ в. (Бурятия, Монголия, Тибет). – Самара:Агни,1997 – с.335. ([подробнее](/notes/andreev-baikal-lhasa))
 
-Цыбиков, Гомбожав Цэбекович. Монгол, Төвдөөр зорчсон тэмдэглэл. Оrchuulsan, Mootgon Dariin Badamnyam; orchuulgyn redaktor, Ts. Sukhbaatar. 3-р хэвлэл. Description: 244 p. : ill., ports. ; 22 cm. Монсудар хэвлэлийн газар, Улаанбаатар, 2001. ([подробнее](/notes/tsybikov-mongolian-source))
+Цыбиков, Гомбожав Цэбекович, 2001. Монгол, Төвдөөр зорчсон тэмдэглэл. Оrchuulsan, Mootgon Dariin Badamnyam; orchuulgyn redaktor, Ts. Sukhbaatar. 3-р хэвлэл. Description: 244 p. : ill., ports. ; 22 cm. Монсудар хэвлэлийн газар, Улаанбаатар. ([подробнее](/notes/tsybikov-mongolian-source))
+
+Roerich, Nicholas, 1929. Altai-Himalaya: A Travel Diary. New York: Frederick A. Stokes Company.
 
 ## Тянь-Шань
 
@@ -15,6 +17,10 @@
 Липский, В. И., 1905. Флора Средней Азии, то есть Русского Туркестана и ханств Бухары и Хивы. Том II. Ботанические коллекции из Средней Азии. Прибавление — Санкт-Петербург: Типо-литография "Гарольда". — 249-337 с. ([подробнее](/notes/lipsky-semenov-tianshan))
 
 Липский, В. И., 1905.  Флора Средней Азии, то есть Русского Туркестана и ханств Бухары и Хивы. Том III. Ботанические коллекции из Средней Азии. Прибавление — Санкт-Петербург: Типо-литография "Гарольда". — 341-841 с. ([подробнее](/notes/lipsky-semenov-tianshan))
+
+## Индия
+
+Сюань-цзан, 2012. Записки о западных странах [эпохи] Великой Тан (Да Тан си юй цзи). Введение, перевод с китайского и комментарий Н.В. Александровой; Ин-т востоковедения РАН. — М.: Издательская фирма “Восточная литература”, 2012. — 463 с.: ил. 一 ISBN 978-5-02-036520-9 (в пер.) ([подробнее](/notes/xuanzang-alexandrova/))
 
 ## Экология
 
@@ -45,9 +51,3 @@ Matthews, E. (1983). Global Vegetation and Land-Use - New High-Resolution Data-B
 UNEP (1990). Desertification revisited : proceedings of an Ad Hoc Consultative Meeting on the Assessment of Desertification. Nairobi, 15-17 February 1990: UNEP-DC/PAC ([скачать](https://m-d.me/docs/unep90_desertification%20revisited.pdf), [обсудить](http://answer-42.livejournal.com/53575.html)) (отсутствуют стр. 85-88)
 
 Zonn, I.S., Nikolaev, V.N., Orlovsky, N.S., & Svintsov, I.P. (1982). Combating desertification in the USSR: problems and experience. Moscow: Centre of international projects GKNT ([скачать](https://m-d.me/docs/zonn82_combat_desertification_ussr.pdf), [обсудить](http://answer-42.livejournal.com/63681.html))
-
-## Диссертация PhD и заявка на fellowship
-
-Dubinin M. (2007). NASA Earth System Science Fellowship Application ([скачать](https://m-d.me/docs/dubinin07-nasa-final.pdf))
-
-Dubinin M. (2010). Effects of land use change on fire, vegetation and wildlife dynamics in arid ecosystems of Southern Russia. PhD Thesis ([скачать](https://m-d.me/docs/dubinin10_thesis_web.pdf))
