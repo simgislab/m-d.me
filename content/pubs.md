@@ -2,12 +2,16 @@
 
 Publish or perish. Здесь публикации в рецензируемых журналах и книги. [Напишите](/about/), если нужен PDF.
 
+* SCOPUS ID: [36980570100](https://www.scopus.com/authid/detail.uri?authorId=36980570100)
+* ORCID: [0000-0002-6582-4145](https://orcid.org/0000-0002-6582-4145)
+* Google [Scholar](https://scholar.google.com/citations?hl=en&user=fzc-rY0AAAAJ)
+
 ## 2025
 
 Liu, D., Silveira, E.M.O., Razenkova, E., Anand, A., **Dubinin, M.**, Hobi, M., Pidgeon, A.M., Radeloff, V.C.,
-Global dynamic habitat indices (DHIs) based on MODIS and VIIRS vegetation products. Remote Sensing of Environment 332 (2026) https://doi.org/10.1016/j.rse.2025.115099.
+Global dynamic habitat indices (DHIs) based on MODIS and VIIRS vegetation products. Remote Sensing of Environment 332 (2026) <https://doi.org/10.1016/j.rse.2025.115099>.
 
-Bukvareva E.,  Grigoryan A.,  **Dubinin M.**,  Kazakov E. 2025. Integrating actual land cover data and landscape zone map to assess terrestrial ecosystems in Armenia. Explora: Environment and Resource 4996 (2025). https://doi.org/10.36922/eer.4996
+Bukvareva E.,  Grigoryan A.,  **Dubinin M.**,  Kazakov E. 2025. Integrating actual land cover data and landscape zone map to assess terrestrial ecosystems in Armenia. Explora: Environment and Resource 4996 (2025). <https://doi.org/10.36922/eer.4996>
 
 ## 2023
 
@@ -33,7 +37,7 @@ V.C. Radeloff, **M. Dubinin**, N.C. Coops, A.M. Allen, T.M. Brooks, M.K. Clayton
 
 ## 2017
 
-Hobi M.L., **Dubinin, M.**, Graham C.H., Coops N.C., Clayton M.K., Pidgeon A.M., V.C. Radeloff. 2017. A comparison of Dynamic Habitat Indices derived from different MODIS products as predictors of avian species richness. Remote Sensing of Environment, 195, pp. 142-152 ([link](http://www.sciencedirect.com/science/article/pii/S0034425717301682))
+Hobi M.L., **Dubinin, M.**, Graham C.H., Coops N.C., Clayton M.K., Pidgeon A.M., V.C. Radeloff. 2017. A comparison of Dynamic Habitat Indices derived from different MODIS products as predictors of avian species richness. Remote Sensing of Environment, 195, pp. 142-152 <http://www.sciencedirect.com/science/article/pii/S0034425717301682>
 
 ## 2013
 
@@ -47,15 +51,15 @@ Neronov V.M., **Dubinin M.Y.**, Karimova T.Y., Lushchekina A.A., Arylova N.Y., 2
 
 ## 2012
 
-Prishchepov, A.V., Müller, D., **Dubinin, M.**, Baumann, M., V.C. Radeloff. 2013. Determinants of agricultural land abandonment in post-Soviet European Russia. Land Use Policy, 30, 1, pp. 873–884 ([link](http://www.sciencedirect.com/science/article/pii/S0264837712001160))
+Prishchepov, A.V., Müller, D., **Dubinin, M.**, Baumann, M., V.C. Radeloff. 2013. Determinants of agricultural land abandonment in post-Soviet European Russia. Land Use Policy, 30, 1, pp. 873–884 <http://www.sciencedirect.com/science/article/pii/S0264837712001160>
 
-Radeloff, V. C., F. Beaudry, T. M. Brooks, V. Butsic, **M. Dubinin**, T. Kuemmerle, and A. M. Pidgeon. 2012. Hot moments for biodiversity conservation. Conservation Letters, 6, 1, pp. 58-65 ([link](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-263X.2012.00290.x/abstract))
+Radeloff, V. C., F. Beaudry, T. M. Brooks, V. Butsic, **M. Dubinin**, T. Kuemmerle, and A. M. Pidgeon. 2012. Hot moments for biodiversity conservation. Conservation Letters, 6, 1, pp. 58-65 <http://onlinelibrary.wiley.com/doi/10.1111/j.1755-263X.2012.00290.x/abstract>
 
-Prishchepov, A.V., V.C. Radeloff, **Dubinin, M.**, Alcantara C. 2012. The effect of Landsat ETM/ETM+ image acquisition dates on the detection of agricultural land abandonment in Eastern Europe. Remote Sensing of Environment, 126, pp. 195–209. ([link](http://www.sciencedirect.com/science/article/pii/S0034425712003306))
+Prishchepov, A.V., V.C. Radeloff, **Dubinin, M.**, Alcantara C. 2012. The effect of Landsat ETM/ETM+ image acquisition dates on the detection of agricultural land abandonment in Eastern Europe. Remote Sensing of Environment, 126, pp. 195–209. <http://www.sciencedirect.com/science/article/pii/S0034425712003306>
 
 ## 2011
 
-**Dubinin, M.**, Luschekina, A., & Radeloff, V. Climate, Livestock, and Vegetation: What Drives Fire Increase in the Arid Ecosystems of Southern Russia? Ecosystems, 1-16 ([link](http://www.springerlink.com/content/8k3546x7074685p4/))
+**Dubinin, M.**, Luschekina, A., & Radeloff, V. Climate, Livestock, and Vegetation: What Drives Fire Increase in the Arid Ecosystems of Southern Russia? Ecosystems, 1-16 <http://www.springerlink.com/content/8k3546x7074685p4/>
 
 Аксенов Д.Е., Глушков И.В., **Дубинин М.Ю.**, Карпачевский М.Л., Кобяков К.Н., Костикова А.М., Ликсакова Н.С., Пуреховский А.Ж., Скворцов В.Э., Смирнов Д.Ю., Яницкая Т.О., 2011. Выделение лесов высокой природоохранной ценности в Хабаровском крае и Еврейской автономной области. Категории, важные для сохранения биоразнообразия растительного покрова. Всемирный фонд дикой природы, Санкт-Петербург, ISBN 978-5-902643-05-0, 218 с.
 

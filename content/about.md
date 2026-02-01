@@ -13,8 +13,6 @@
 
 Область интересов: картирование биоразнообразия, разработка ПО, историческая география, открытые технологии и данные.
 
-SCOPUS ID: [36980570100](https://www.scopus.com/authid/detail.uri?authorId=36980570100), [ORCID: 0000-0002-6582-4145](https://orcid.org/0000-0002-6582-4145), [Google Scholar](https://scholar.google.com/citations?hl=en&user=fzc-rY0AAAAJ)
-
 ## Резюме
 
 <https://m-d.me/docs/dubinin_cv_ru.pdf>
