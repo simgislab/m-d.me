@@ -18,7 +18,7 @@ This is a complete text version of Roerich's first report from his 5 year long C
 
 Full citation:
 
-Roerich, Nicholas. Altai-Himalaya: A Travel Diary. New York: Frederick A. Stokes Company, 1929.
+> Roerich, Nicholas, 1929. Altai-Himalaya: A Travel Diary. New York: Frederick A. Stokes Company.
 
 Sources:
 
