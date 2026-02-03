@@ -66,19 +66,15 @@ fediverse: "@username@instance.url"
 
 ## Базовые контакты
 
-Penguin:
-
-* Subsidiary Rights <https://www.penguin.com/welcome-to-the-rights-desk/>
-* <ecustomerservice@penguinrandomhouse.com>
-
 Gyldendal Group Agency:
 
 * <https://www.gyldendal.dk/gyldendal/gyldendal-group-agency>
 * <gyldendal@gyldendal.dk>
 
-## Переписка с Penguin
+Penguin:
 
-Ответ:
+* Subsidiary Rights <https://www.penguin.com/welcome-to-the-rights-desk/>
+* <ecustomerservice@penguinrandomhouse.com>
 
 ## Переписка с Gyldendal
 
@@ -103,6 +99,12 @@ Gyldendal Group Agency:
 > Gyldendal Group Agency  
 > Klareboderne 3 / DK- 1001 Copenhagen K / Denmark  
 > <www.gyldendalgroupagency.dk>
+
+## Переписка с Penguin
+
+Ответ:
+
+
 
 ## Комментарии
 
