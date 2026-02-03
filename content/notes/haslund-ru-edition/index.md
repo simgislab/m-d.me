@@ -95,13 +95,13 @@ Gyldendal Group Agency:
 > Henning Haslund-Christensen’s work Zajagan is in public domain, so you are welcome to translate from the original Danish manuscript.
 >
 > --- ---
-> Head of Agency / Literary Agent
-> Mail: --- ---
-> Direct Phone: --- ---
+> Head of Agency / Literary Agent  
+> Mail: --- ---  
+> Direct Phone: --- ---  
 > Mobile: --- ---
 >
-> Gyldendal Group Agency
-> Klareboderne 3 / DK- 1001 Copenhagen K / Denmark
+> Gyldendal Group Agency  
+> Klareboderne 3 / DK- 1001 Copenhagen K / Denmark  
 > <www.gyldendalgroupagency.dk>
 
 ## Комментарии
