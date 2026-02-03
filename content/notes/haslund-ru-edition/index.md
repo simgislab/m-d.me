@@ -90,7 +90,7 @@ Penguin:
 >
 > Henning Haslund-Christensen’s work Zajagan is in public domain, so you are welcome to translate from the original Danish manuscript.
 >
-> --- ---
+> ---
 > Head of Agency / Literary Agent  
 > Mail: --- ---  
 > Direct Phone: --- ---  
@@ -104,8 +104,6 @@ Penguin:
 
 Ответ:
 
-
-
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/153)
+[**Обсудить**](https://t.me/answer42geo/170)
