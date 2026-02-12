@@ -78,19 +78,8 @@ Penguin:
 
 ## Переписка с Gyldendal
 
-Запрос:
+Отвечает:
 
-> I am writing to inquire about the translation rights for Henning Haslund-Christensen's book "Zajagan" (originally published in 1935). I plan to translate this book from the Danish edition, which was published by Gyldendanske Boghandel Nordisk Forlag in 1947.
->
-> As the book was originally published in 1935, I understand the original text may be in the public domain, but I would like to clarify whether the Danish translation published in 1947 is still protected by copyright. If so, I would appreciate guidance on how to obtain permission to use this translation for my new project.
-
-Ответ:
-
-> Thank you for your mail.
->
-> Henning Haslund-Christensen’s work Zajagan is in public domain, so you are welcome to translate from the original Danish manuscript.
->
-> ---
 > Head of Agency / Literary Agent  
 > Mail: --- ---  
 > Direct Phone: --- ---  
@@ -99,6 +88,26 @@ Penguin:
 > Gyldendal Group Agency  
 > Klareboderne 3 / DK- 1001 Copenhagen K / Denmark  
 > <www.gyldendalgroupagency.dk>
+
+Запрос 1:
+
+> I am writing to inquire about the translation rights for Henning Haslund-Christensen's book "Zajagan" (originally published in 1935). I plan to translate this book from the Danish edition, which was published by Gyldendanske Boghandel Nordisk Forlag in 1947.
+>
+> As the book was originally published in 1935, I understand the original text may be in the public domain, but I would like to clarify whether the Danish translation published in 1947 is still protected by copyright. If so, I would appreciate guidance on how to obtain permission to use this translation for my new project.
+
+Ответ 1:
+
+> Thank you for your mail.
+>
+> Henning Haslund-Christensen’s work Zajagan is in public domain, so you are welcome to translate from the original Danish manuscript.
+
+Запрос 2:
+
+> Can you please also let me know if you have any information on the source of photos published in the book? May be the Gyldendal has some version of them to be reused for new translation?
+
+Ответ 2:
+
+> I’m afraid we cannot help with the illustrations, photos or any of the content. We simply don’t have any access for it.
 
 ## Переписка с Penguin
 
