@@ -134,18 +134,18 @@ Penguin:
 >
 > EMAILS:
 >
-> For Random House Permissions: Permissions@penguinrandomhouse.com
-> For RH Subrights (which includes reprinting a whole book, translation rights and film rights) : randomrights@penguinrandomhouse.com
+> For Random House Permissions: <Permissions@penguinrandomhouse.com>
+> For RH Subrights (which includes reprinting a whole book, translation rights and film rights): <randomrights@penguinrandomhouse.com>
 >
 > WEBSITE INFORMATION:
 >
-> For Penguin Permissions: https://permissions.penguinrandomhouse.com/
+> For Penguin Permissions: <https://permissions.penguinrandomhouse.com/>
 >
-> For Penguin Subrights (which includes reprinting a whole book, translation rights and film rights): http://www.penguin.com/subrights/
+> For Penguin Subrights (which includes reprinting a whole book, translation rights and film rights): <http://www.penguin.com/subrights/>
 >
->*Request generally take 6-8 weeks*
+> *Request generally take 6-8 weeks*
 
-Запрос 2 (копия на <randomrights@penguinrandomhouse.com)>
+Запрос 2 (копия на <randomrights@penguinrandomhouse.com>)
 
 Ответ 2:
 
