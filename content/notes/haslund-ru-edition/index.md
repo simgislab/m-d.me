@@ -75,6 +75,7 @@ Penguin:
 
 * Subsidiary Rights <https://www.penguin.com/welcome-to-the-rights-desk/>
 * <ecustomerservice@penguinrandomhouse.com>
+* RH Subrights (which includes reprinting a whole book, translation rights and film rights): <randomrights@penguinrandomhouse.com>
 
 ## Переписка с Gyldendal
 
@@ -109,9 +110,46 @@ Penguin:
 
 > I’m afraid we cannot help with the illustrations, photos or any of the content. We simply don’t have any access for it.
 
+Запрос 3:
+
+> 1935 edition has number of photographs made by different people. When you mentioned that the book is in Public domain, do I understand that this includes both text and pictures?
+
+Ответ 3:
+
+пока не поступил
+
 ## Переписка с Penguin
 
-Ответ:
+Запрос 1:
+
+> Before submitting an official request via the publisher, I would like to clarify whether rights must be acquired for the translation and publication of the following book:
+>
+> Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translated from Swedish by Elizabeth Sprigge and Claude Napier. New York: E.P. Dutton & Co.
+>
+> As this edition is itself a translation, would it be necessary to also contact the publisher of the original work for rights, or does the translation publisher hold exclusive rights for subsequent editions?
+
+Ответ 1:
+
+> Please contact the Permissions / Subrights Department using the information provided below.
+>
+> EMAILS:
+>
+> For Random House Permissions: Permissions@penguinrandomhouse.com
+> For RH Subrights (which includes reprinting a whole book, translation rights and film rights) : randomrights@penguinrandomhouse.com
+>
+> WEBSITE INFORMATION:
+>
+> For Penguin Permissions: https://permissions.penguinrandomhouse.com/
+>
+> For Penguin Subrights (which includes reprinting a whole book, translation rights and film rights): http://www.penguin.com/subrights/
+>
+>*Request generally take 6-8 weeks*
+
+Запрос 2 (копия на <randomrights@penguinrandomhouse.com)>
+
+Ответ 2:
+
+пока не поступил
 
 ## Комментарии
 
