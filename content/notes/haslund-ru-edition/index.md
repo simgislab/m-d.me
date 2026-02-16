@@ -135,6 +135,7 @@ Penguin:
 > EMAILS:
 >
 > For Random House Permissions: <Permissions@penguinrandomhouse.com>
+>
 > For RH Subrights (which includes reprinting a whole book, translation rights and film rights): <randomrights@penguinrandomhouse.com>
 >
 > WEBSITE INFORMATION:
