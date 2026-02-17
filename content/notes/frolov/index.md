@@ -30,9 +30,9 @@ fediverse: "@username@instance.url"
 
 > Лаборатория исторической геоинформатики Института всеобщей истории РАН и Российский государственный архив древних актов запустили веб-ГИС "Русские чертежи XVII века", которая открывает интернет-пользователю возможность ознакомиться с оцифрованными изображениями практически всех чертежей, выявленных в РГАДА, и некоторых чертежей из других собраний. Система снабжена инструментарием текстового поиска по данным о чертеже. Кроме того, более 700 чертежей получили привязку на карте, которая и занимает центральное место в веб-ГИС. На карте отображается очень условное положение чертежа относительно местности, а также полигоном очерчена та местность, которую изображение на чертеже "закрывает". Реализована возможность перехода от карты к данным атрибутивной таблицы и к нетрансформированному геокодингом изображению и обратно. Работа над улучшением системы (уточнение описания архивных дел, улучшение качества оцифровки, привязка к карте пока еще не локализованных чертежей и т.д.) ведется постоянно.
 
-[http://rgada.info/index.php?page=14](https://l.facebook.com/l.php?u=http%3A%2F%2Frgada.info%2Findex.php%3Fpage%3D14%26fbclid%3DIwZXh0bgNhZW0CMTAAAR0mchMZH0vy8rTBzYuSUJbV1R1hKwgdjlamwVWrtKWBqI6dExzaAFMkiiI_aem_RM75gnTHemEEZQZti6wx6A&h=AT09-foceTF4W1OTpWLFzPR57mVRtppsKWYN0J7Cwptp49kHkR9fFnbfWyh1gTPaacn33_z4qfJmLhSgNyG8285TSAb5zWZRU9fEyHArJnrxDlyVkLY8UQzp6QTI2P-D&__tn__=-UK-R&c[0]=AT2v-EFC5CTqaDiMrM1xUkvzHuZBxLcfzHVa36jYBNke1eeX7T7Kd5hNKfttaY2Q4oY4XOH_O4s9cMQFbJdOyfLu8OHHv_ntW81JpuxythEPqkfj-aDr7DFVeqv1SGzWINT--T1lXIBuuzLPlRiYtmEdFksB2uj257CzZFtNpDsE1IfcOw4)
+Описание системы: [http://rgada.info/index.php?page=14](http://rgada.info/index.php?page=14)
 
-[http://rgada.info/geos2/](https://l.facebook.com/l.php?u=http%3A%2F%2Frgada.info%2Fgeos2%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0EzSjNqBz1wugeGIZSEn386HdzOHBZ_9mRt-5HxdvBowdc4QHSb-IpjYI_aem_RCURl4z8OmCU-PDt6ktUrA&h=AT0UjVINqsmmMMGxmRFHLRhpAvLYY96ng3hj2imzZ42j7lA5OdOInPLaI7stn0hgz8Y1RqoroeBydX_-Lo_u8enbqxt1SBeN-dgW-DPIRbw5xqQPVNM2Bymg4n31MoE_&__tn__=-UK-R&c[0]=AT2v-EFC5CTqaDiMrM1xUkvzHuZBxLcfzHVa36jYBNke1eeX7T7Kd5hNKfttaY2Q4oY4XOH_O4s9cMQFbJdOyfLu8OHHv_ntW81JpuxythEPqkfj-aDr7DFVeqv1SGzWINT--T1lXIBuuzLPlRiYtmEdFksB2uj257CzZFtNpDsE1IfcOw4)
+Система: [http://rgada.info/geos2/](http://rgada.info/geos2)
 
 ![rgada.png](rgada.png)
 
