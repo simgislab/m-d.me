@@ -938,9 +938,9 @@ DA: Khochin Torgut, Sjene Torgut
 
 EN: The Thirteen Signet-bearing Princes. (Outline sketch of the formation of the Torgut Horde’s Thirteen Tribes.)
 
-Хочин-торгуты, Сьене-торгуты (восточные) ?
-
 RU: Тринадцать князей — носителей печатей. (Cхема формирования тринадцати племён торгутской орды.)
+
+Хочин-торгуты (khochin - старые), Сьене-торгуты (восточные, в английском тексте Shene Torgut - новые торгуты).
 
 ### Жёны вождей и любопытные принцессы
 

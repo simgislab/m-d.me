@@ -8,7 +8,7 @@
 
 Цыбиков, Гомбожав Цэбекович, 2001. Монгол, Төвдөөр зорчсон тэмдэглэл. Оrchuulsan, Mootgon Dariin Badamnyam; orchuulgyn redaktor, Ts. Sukhbaatar. 3-р хэвлэл. Description: 244 p. : ill., ports. ; 22 cm. Монсудар хэвлэлийн газар, Улаанбаатар. ([подробнее](/notes/tsybikov-mongolian-source))
 
-Roerich, Nicholas, 1929. Altai-Himalaya: A Travel Diary. New York: Frederick A. Stokes Company.
+Roerich, Nicholas, 1929. Altai-Himalaya: A Travel Diary. New York: Frederick A. Stokes Company. ([подробнее](/notes/roerich-altai-himalaya/))
 
 ## Тянь-Шань
 
