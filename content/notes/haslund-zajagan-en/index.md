@@ -876,7 +876,7 @@ Reverentially I walked backwards towards the door, trying all the time to mainta
 
 The same night Hummel, Lieberenz and I slept in the most holy part of the holy monastery.
 
-<a id="39">**39 YOLROS LAMA**</a>
+<a id="39">**39**</a>
 
 ## CHAPTER V
 
@@ -1544,7 +1544,7 @@ He said it a little dejectedly, as if he almost repented of that day's deed. But
 
 <a id="83">**83**</a>
 
-##CHAPTER IX
+## CHAPTER IX
 
 **BRIEF ENCOUNTER WITH THE ADVANCE COLUMN**
 
