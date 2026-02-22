@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-This is a complete text version of 1935 English edition of Henning Haslund-Christensen's book: "Zajagan". Original PDF was OCRed and edited, interactive indices were added.
+This is a complete text version of 1935 English edition of Henning Haslund-Christensen's book: "Zajagan". Original PDF was OCRed and edited.
 
 Full citation:
 
@@ -23,6 +23,13 @@ Full citation:
 Sources:
 
 * Original [PDF](https://www.tsemrinpoche.com/download/Biographies-Autobiographies-Works/en/Henning%20Haslund%20-%20Men%20and%20Gods%20in%20Mongolia.pdf), same PDF, different link [PDF](https://drive.google.com/file/d/1tUvmZmF5oSsQqcHPF09cjcixSu2_3NmQ/view?usp=sharing).
+
+## List of changes
+
+* Better quality illustrations are inserted from Danish 1947 edition.
+* Clickable [Contents](#ix).
+* Clickable [list of illustrations](#xi).
+* Clickable Index [list of illustrations](#xi).
 
 ## Book contents
 
@@ -124,9 +131,9 @@ Henning Haslund-Christensen.
 
 <a id="ix">**ix**</a>
 
-CONTENTS
+## CONTENTS
 
-Foreword xiii
+Foreword [xiii](#xiii)
 
 |       | BOOK I                                                     | PAGE |
 |:-----:|:-----------------------------------------------------------|-----:|
@@ -183,7 +190,7 @@ CONTENTS
 
 <a id="xi">**xi**</a>
 
-LIST OF ILLUSTRATIONS
+## LIST OF ILLUSTRATIONS
 
 His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of all the Torguts. Commander of the Royal Vasa Order, second class. 1884---1932. *Frontispiece*
 
@@ -255,7 +262,7 @@ LIST OF ILLUSTRATIONS
 
 <a id="xiii">**xiii**</a>
 
-FOREWORD
+## FOREWORD
 
 IT was in the little town of Chugochak on the borders of Sinkiang that I met Henning Haslund and enjoyed the pleasure, seldom vouchsafed to us Mongols, of talking freely and unconstrainedly about our country.
 
