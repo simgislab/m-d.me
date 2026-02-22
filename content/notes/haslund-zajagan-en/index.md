@@ -26,10 +26,10 @@ Sources:
 
 ## List of changes
 
-* Better quality illustrations are inserted from Danish 1947 edition.
+* Better quality illustrations are inserted from Danish 1947 edition. [Full list](/notes/haslund-zajagan-photos/) of images from both 1935 and 1947 editions.
 * Clickable [Contents](#ix).
 * Clickable [list of illustrations](#xi).
-* Clickable Index [list of illustrations](#xi).
+* Clickable [Index](#332).
 
 ## Book contents
 
@@ -3633,9 +3633,7 @@ It had grown silent round the fire, and the glances of the Mongols wandered betw
 
 "Your air-horse endures and is strong," he murmured in a remote and impersonal voice.
 
-"*Chindimani Erendi* sparkles with all his jewel radiance
-
-from your *hi-mori.*^1^
+"*Chindimani Erendi* sparkles with all his jewel radiance from your *hi-mori.*^1^
 
 "The prayer-flag's sacred formulæ confer Manyusri's wisdom and Avalokita's protection against fear and an evil mind. They purify the soul from sin and guard against sickness and other earthly misfortunes.
 
@@ -5470,13 +5468,11 @@ Alcohol, modern Kalmucks victims of, 215
 
 Alkaline water, thirst accentuated by drinking, 75
 
-Altai Gegen, 218
-
---- *(hutuktu),* meeting with, 199; sheep given in compensation by Yetum presented to, 199; caravan of, overtaken, 201; confessions made to, by Yetum, 202
-
+Altai Gegen, 218  
+--- *(hutuktu),* meeting with, 199; sheep given in compensation by Yetum presented to, 199; caravan of, overtaken, 201; confessions made to, by Yetum, 202  
 --- Mountains, 167, 279; descendants of original Dzungarian Khoshut tribe living among, 200
 
-*Altan Khan-gr**ä**n gruregrold*ä (golden bird of imagination), 292
+*Altan Khan-grän gruregroldä* (golden bird of imagination), 292
 
 Altyn-tagh mountains, 182, 185
 
@@ -5486,8 +5482,7 @@ Amblers, exported by Torguts, 241
 
 Ambolt, convalescence of, 320
 
-Amitabha, 250; reincarnation of, 232
-
+Amitabha, 250; reincarnation of, 232  
 --- Buddha, 4
 
 Amu Khatun (Queen), wife of Galdan, 206; slain in battle while fighting, 206
@@ -5500,8 +5495,7 @@ Andersson, Professor J. G., 12
 
 Anglo-Indian Force at Lhasa (1904), Töin Lama's admiration at conduct of, 254
 
-Antelope herd, superstitious belief regarding, 22, 23
-
+Antelope herd, superstitious belief regarding, 22, 23  
 --- herds, ravages among, from wild animals at calving-time, 22
 
 Antelopes, herds of, on steppe, 20 yellow, of steppes, calvingtime of, 22
@@ -5524,25 +5518,21 @@ Archaeological discoveries in Tibet, 201
 
 Archaeologist of Sven Hedin Expedition, 119
 
-Argali (wild sheep, *Ovis poli*)*, 248*
-
+Argali (wild sheep, *Ovis poli*)*, 248*  
 --- (*Ovis ammon),* flocks of, 223, 224; horns of, weight and length, 224; shooting of, by Mongol hunters, 224
 
 Army command, qualifications for, according to Yenghiz Khan, 266
 
 Arselan (Haslund), signifying "The Tiger", 313
 
-Asia, disastrous flight of Torguts through, 213, 214
-
+Asia, disastrous flight of Torguts through, 213, 214  
 --- Central, originator of lamais- tic form of Buddhism in (footnote), 247
 
 Asses, Etsina Torguts only Mongols preferring to ride on, 120
 
 Astrakhan, Boro Örölok killed outside, 207
 
-Astronomical observations, check
-
-ing time-factor in, by wireless, 145
+Astronomical observations, checking time-factor in, by wireless, 145
 
 Ataman Annenkov, Cossack corps of, 185
 
@@ -5576,8 +5566,7 @@ Banners of Khara Shar Torguts, commanders of, 229
 
 Barun-jassak, *notog* of Khoshut Mongols, 200
 
-Barun Kung, 39, 67
-
+Barun Kung, 39, 67  
 --- --- Chief, born in year of "Firehorse" (1907), 61; appearance, dress and accoutrements of, 61, 62
 
 Bater Halak Sume, 72; meaning of, 29
@@ -5596,12 +5585,9 @@ Batu, 89
 
 Batur Khun-taiji, 204; combination of West-Mongol tribes under, 204; policy of expansion, how indicated, 205; successor of, 205
 
-Baying Bulak, 18, 19
-
---- --- (rich spring): in Gobi desert, 153; in Black Gobi, 156
-
---- Shandai Sumo, 74; monastery of, arrival at, 72
-
+Baying Bulak, 18, 19  
+--- --- (rich spring): in Gobi desert, 153; in Black Gobi, 156  
+--- Shandai Sumo, 74; monastery of, arrival at, 72  
 --- Surong, song of, 274
 
 Beggars, respect to, enjoined by Jenghiz Khan, 266
@@ -5624,8 +5610,7 @@ Bichigen Khan (the little Khan), 240, 244, 299
 
 *Bichik,* Torgut book of law, 208 Bird life in neighbourhood of
 
-Etsin-gol river, 117
-
+Etsin-gol river, 117  
 --- song, love of by Chinese, 21
 
 Black Gobi Desert, 119, 144, 145, 157, 158, 175; bandits of, 147; presence of two wells in, 147; winter in, 159; *see also* Gobi Desert
@@ -5636,19 +5621,15 @@ Boat for navigating salt lakes, construction proposed, 116
 
 Bodhisattva Avalokites' vara (footnote), 247
 
-Bogdo Gegen, 25; "Living Buddha " in Urga, 284
-
---- Gushi Khan, homage paid to Turu-baihu under name of, 200
-
---- Khan, 280; identified with Chinese Emperor, 246
-
+Bogdo Gegen, 25; "Living Buddha " in Urga, 284  
+--- Gushi Khan, homage paid to Turu-baihu under name of, 200  
+--- Khan, 280; identified with Chinese Emperor, 246  
 --- Ula, now in Chinese territory, 291; three snow-clad peaks of, 291
 
-Boro Örölok (Ho-orlyk), 205; maintaining connection with West-Mongol tribes, 205; Torgut chief, 207; invasion of Russia by, 207; makes war on tribes of Western Siberia, 207;
+Boro Örölok (Ho-orlyk), 205; maintaining connection with West-Mongol tribes, 205; Torgut chief, 207; invasion of Russia by, 207; makes war on tribes of Western Siberia, 207; killed outside Astrakhan (*circ.* 1643), 207; successor of, 207
 
-killed outside Astrakhan (*circ.* 1643), 207; successor of, 207
-
-Borotola Ola. Chahar song, 260 --- Valley, Chahar Mongols in, 263
+Borotola Ola. Chahar song, 260  
+--- Valley, Chahar Mongols in, 263
 
 <a id="332">**332 INDEX"**</a>
 
@@ -5664,8 +5645,7 @@ Buddha, birthplace of, 255; victory of over the "six heresies", celebration of, 
 
 Buddhism: Messiah of (Maidari), 20; original, *Tsam* dance not connected with, 46; victory over ancient magic, reminder of, 56; lamas of, dispute with those holding different faiths in India, 226; lamaistic form, originator of, in Central Asia (footnote), 247
 
-Buddhist art of ancient Græco - Bactrian Kingdom, 5
-
+Buddhist art of ancient Græco-Bactrian Kingdom, 5  
 --- pantheon, minor celebrities of, 4
 
 Budul Ola, sacred mountain of, 292
@@ -5680,32 +5660,25 @@ Buran, Haslund's horse, 271, 272, 289. 323, 324, 326; given to Torgut princess (
 
 "Burial grounds, masters of", 43 Burkhan Bash, Mongolian Deity, 288
 
-Buryat delegates at Russian Court (footnote), 247
-
+Buryat delegates at Russian Court (footnote), 247  
 --- monastery, 308
 
 Buryats, 120; Etsina Torguts despised by, 120
 
 "Calmuckea" (Dzungaria), 174
 
-Camel, Bactrian *(Camelus Bar- trianus,* two-humped camel):
-
-employed in winter only, 72, 73; how differing from *Camelus dromedarius,* one- humped camel, 73; used in Gobi Desert, 72
+Camel, Bactrian *(Camelus Bar- trianus,* two-humped camel): employed in winter only, 72, 73; how differing from *Camelus dromedarius,* one- humped camel, 73; used in Gobi Desert, 72
 
 Camel, missing, search for, 74, 75; second fall of, fatal, 101; fallen, death-agony prolonged, 101, 102
 
-Camel-fortress of Dzungarian cavalry, 205, 206
-
+Camel-fortress of Dzungarian cavalry, 205, 206  
 --- thieves: severe enactments against, under Mongolian law (footnote), 91; Mongols' expression of racial contempt for, 100
 
 Camels: collection and purchase for Sven Hedin Expedition, 17, 18, 19; purchases made by Mongols, 19; humps of, nutriment stored up in, 73; skeletons of, guiding to track in desert, 78, 79; instinct for keeping to right track, 79; death of, on caravan march, 87; fallen, prejudice among natives of shortening life of, 102; package-loaded, method of relieving, 102; bad condition of, in Torgut camp, 144; Bactrian: number composing Sven Hedin Expedition, 72; promotion of shedding of old coat and growth of new, 73; insect pests of, 73
 
-Camp No. 8, 18, 19
-
---- No. 21, 89
-
---- No. 34 at Odakhroi, 96
-
+Camp No. 8, 18, 19  
+--- No. 21, 89  
+--- No. 34 at Odakhroi, 96  
 --- No. 49, 113
 
 Camping-places of Sven Hedin Expedition, why not called after local names, 18, 19
@@ -5714,14 +5687,12 @@ Canoes, light, for navigating Etsin-gol and salt lakes, 133
 
 Capra siberica, *see* Tekhe---wild goats
 
-Caravan of Sven Hedin Expedition: number of camels composing, 72; division into four columns, 73, 74; conduction of middle column entrusted to Haslund, 146 
+Caravan of Sven Hedin Expedition: number of camels composing, 72; division into four columns, 73, 74; conduction of middle column entrusted to Haslund, 146  
 --- dogs, 88
 
 <a id="333">**333 INDEX"**</a>
 
-Caravan routes, protection by
-
-Damding Surong, 60
+Caravan routes, protection by Damding Surong, 60
 
 Carlson, A., 320
 
@@ -5735,10 +5706,8 @@ Celsius, Dean Olof, 173
 
 Central Asiatic Expedition, 16
 
-Chahar, 143, 145
-
---- Mongols in Borotola Valley, 263
-
+Chahar, 143, 145  
+--- Mongols in Borotola Valley, 263  
 --- song, "Borotola Ola", 260
 
 Chang Tso-lin, Marshal, defeat of, 11, 12
@@ -5747,79 +5716,54 @@ Chang Tso-lin, Marshal, defeat of, 11, 12
 
 Chao Hui, Chinese General, dominion over Tien-Shan assumed by, 207
 
-Charklik, 201; magnificent welcome of people of, to Bergman and Haslund, 182; oasis town of, in Lop desert, 182; description of, 183; emigration to, 183; origin of name, 183; different racial types among native population of, 184
-
+Charklik, 201; magnificent welcome of people of, to Bergman and Haslund, 182; oasis town of, in Lop desert, 182; description of, 183; emigration to, 183; origin of name, 183; different racial types among native population of, 184  
 --- and Urumchi, distance between, 202
 
 Charles XII of Sweden, Torguts take the field against, 208
 
-Cherchen, 183, 192; first Stone- Age urn found in Sinkiang acquired at, 201
+Cherchen, 183, 192; first Stone-Age urn found in Sinkiang acquired at, 201  
+--- darya, River, 183, 187; source of, 201
 
-darya, River, 183, 187; source of, 201
+Chiang Lan Chiao, 1, 2, 11; business carried on by, 2; past life in Mongolia, 2, 3; pilgrims visiting stores of, 6
 
-Chiang Lan Chiao, 1, 2, 11; business carried on by, 2; past life in
-
-Mongolia, 2, 3; pilgrims visiting stores of, 6
-
-Chi'en Lung (Manchu Emperor), 309; invitation to Torguts to return to Dzungaria, 211;
-
-new laws imposed upon conquered Dzungars by, 267, 268 Children born without wedlock, Jenghiz Khan's decree regarding, 266
+Chi'en Lung (Manchu Emperor), 309; invitation to Torguts to return to Dzungaria, 211; new laws imposed upon conquered Dzungars by, 267, 268 Children born without wedlock, Jenghiz Khan's decree regarding, 266
 
 Chin Shujen, Governor, opposition to aim of Sven Hedin Expedition, 202
 
 *Chin wang,* prince of the first rank, 262
 
-China: inspiration in for creations in art and literature, whence derived, 237; overlordship over nomads, once beneficial, now disastrous, 249; era in, for fashion for everything western, 253; Northern dynasty ruling a thousand years ago, 264
-
+China: inspiration in for creations in art and literature, whence derived, 237; overlordship over nomads, once beneficial, now disastrous, 249; era in, for fashion for everything western, 253; Northern dynasty ruling a thousand years ago, 264  
 --- Emperor of, 172; watchtowers erected by, 117; embassy from, to ruler of Torguts in Russia, 209; secret inducement for Torguts to return to Dzungaria rejected, 209; account of his reception of returned Torguts (quoted by Father Amyot), 214, protects and rehabilitates fugitive Torguts, 214; Bogdo Khan associated with, 246
 
 Chinaman, and *Irgen* convertible terms, 30
 
 *Chindimani Erendi,* 225
 
-Chinese: love of bird song, 21; assistance of Torgut cavalry and camel transport refused to, in crushing Tungan revolt, 243; attempts of, to crush Mongolian
-
-nationalism, 243; opposition to Töin Lama's national policy, 243; attempt to deprive Töin Lama of power frustrated, 244; Töin Lama's opinion of, 249, 250; knowledge of medicine possessed by, 251; promotion of Lamaism
+Chinese: love of bird song, 21; assistance of Torgut cavalry and camel transport refused to, in crushing Tungan revolt, 243; attempts of, to crush Mongolian nationalism, 243; opposition to Töin Lama's national policy, 243; attempt to deprive Töin Lama of power frustrated, 244; Töin Lama's opinion of, 249, 250; knowledge of medicine possessed by, 251; promotion of Lamaism
 
 <a id="334">**334 INDEX"**</a>
 
-Chinese *(continued)---* among the nomads by, 268; immense price obtained from, for *maral* antlers, 303
-
---- army, Khara Khoto besieged by, 107, 108
-
---- authorities, search for Has- lund, 270
-
---- Colonial Ministry, Ordinances of (1789, 1815), 267, 268
-
---- drama, Mongolian court patronage of, 237
-
---- Empire threatened by West Mongols, 204
-
---- forces, hopeless struggle of West Mongols with, 207
-
---- Foreign Office, Penal code for Mongolia compiled by (1789): punishment for camel stealing (footnote), 91 --- manuscripts, knowledge of
-
-West Mongols obtained from,
-
---- Marshal, Töin Lama appointed, 244
-
---- name for Bater Halak Sume monastery, 29
-
---- officials and colonists, oppression and interference with
-
-Etsina Torguts, 120
-
---- Provincial Governor, Sinkiang, base and treacherous conduct of, 325
-
---- Republic, foundation of, 29 territory, Bogdo Ula now in, 291
-
---- verse forms, origin of, 237 --- and Mongolian territory, stone marking boundary between (1750), at Maomo (footnote), 119
+Chinese *(continued)---* among the nomads by, 268; immense price obtained from, for *maral* antlers, 303  
+--- army, Khara Khoto besieged by, 107, 108  
+--- authorities, search for Haslund, 270  
+--- Colonial Ministry, Ordinances of (1789, 1815), 267, 268  
+--- drama, Mongolian court patronage of, 237  
+--- Empire threatened by West Mongols, 204  
+--- forces, hopeless struggle of West Mongols with, 207  
+--- Foreign Office, Penal code for Mongolia compiled by (1789): punishment for camel stealing (footnote), 91 --- manuscripts, knowledge of West Mongols obtained from,  
+--- Marshal, Töin Lama appointed, 244  
+--- name for Bater Halak Sume monastery, 29  
+--- officials and colonists, oppression and interference with Etsina Torguts, 120  
+--- Provincial Governor, Sinkiang, base and treacherous conduct of, 325  
+--- Republic, foundation of, 29 territory, Bogdo Ula now in, 291  
+--- verse forms, origin of, 237  
+--- and Mongolian territory, stone marking boundary between (1750), at Maomo (footnote), 119
 
 Ching-Chang Railway, course of, 9; terminus of, 9, 17
 
 Chingho, River, 263
 
-Christian, King of Denmark, 288 *Ch**ü**n wang,* prince of the second rank, 262
+Christian, King of Denmark, 288 *Chün wang*, prince of the second rank, 262
 
 Cleanliness, Jenghiz Khan's maxim regarding, 265
 
@@ -5833,8 +5777,7 @@ Cossacks: bands of, spying upon Torguts, 211; hereditary foes of Torguts, 213
 
 Craftsman, *darkhan,* Mongolian word for, 30
 
-*Däde* (dwellers in high altitudes), 199
-
+*Däde* (dwellers in high altitudes), 199  
 --- Mongols: aggressive character of, 193; characteristics of, 193; arrogance of chief of, 194; anthropometric measurements carried out among, 199; origin of, 199, 200; by Gas-nor, constituting one "banner" of Teyi- ner *notog,* 200; locality at present inhabited by, 205; in North-Eastern Tibet, descendants of Khoshut Mongols among, 216
 
 Dageling Gompo, monastery of, 126
@@ -5847,45 +5790,37 @@ Dambin Jansang: false lama, 90; robber chief of Black Gobi, 147; fortress of, in
 
 <a id="335">**335 INDEX"**</a>
 
-Dambin Jansang *(continued)*
-
+Dambin Jansang *(continued)*  
 155: supposed supernatural powers of, 155; captive in Russian prison, 155; murder of, 157; Tsagechin Beile captured by, 165; saddle of, 166
 
 Damchan: two *gurtums* possessed by, 58, 59; possession by, marked by ecstasy, 59 (and footnote, 59)
 
 Damding Surong, 64, 65; exrobber chief turned fighter against bandits, 60; protection of caravan routes by, 60; importance of taking anthropometric measurements perceived by, 61
 
-Dance of masked lamas, a religious act, 50 --- of the gods, 39 *et seq.*
-
+Dance of masked lamas, a religious act, 50  
+--- of the gods, 39 *et seq.*  
 --- *see also* Tsam dance
 
-*Dara* *ä**kh**ä**:* Mongol popular name for exalted beings possessing a large number of titles (footnote), 247; lama- istic goddess ot Mercy (foot- note), 247; special patroness of women (footnote), 247
+*Dara* *äkhä**:* Mongol popular name for exalted beings possessing a large number of titles (footnote), 247; lamaistic goddess ot Mercy (footnote), 247; special patroness of women (footnote), 247
 
-*Darkhan,* meaning of, 30; Mongol middle class, exempt from socage (footnote), 118
-
---- Beile Kung, 62
-
---- --- Prince: audience of, 52, 53; administrative functions of, 53; presentation of *ha- daks* to, 53; advice to beware of *gurtums,* 54; kindliness of, 54
-
---- --- Wang, King, 30; arrival at monastery, 40
-
+*Darkhan,* meaning of, 30; Mongol middle class, exempt from socage (footnote), 118  
+--- Beile Kung, 62  
+--- --- Prince: audience of, 52, 53; administrative functions of, 53; presentation of *hadaks* to, 53; advice to beware of *gurtums,* 54; kindliness of, 54  
+--- --- Wang, King, 30; arrival at monastery, 40  
 --- Prince, steppe territory of, 21
 
 Dawan-Chen Pass, 217
 
-Death masks, significance of, 50 --- sentence on Torgut criminals, restriction of, 264
+Death masks, significance of, 50  
+--- sentence on Torgut criminals, restriction of, 264
 
 Deities, four Great Khans supposed incarnation of, 246
 
 De Quincey, flight of Torguts through Asia described as unparalleled exploit by, 213
 
-Desert, the: oppression of, 101
-*et seq.*; mirages of, 103
-
---- travel in, early morning hours easiest for, 102; sword- belts, amulets and images of gods dug up from, 110
-
---- justice, exemplification of, 89 *et seq.*
-
+Desert, the: oppression of, 101 *et seq.*; mirages of, 103  
+--- travel in, early morning hours easiest for, 102; sword- belts, amulets and images of gods dug up from, 110  
+--- justice, exemplification of, 89 *et seq.*  
 --- sands, country of Tanguts now overwhelmed by, 106; destruction of forest trees by, 110
 
 Dettmann, 145
@@ -5904,10 +5839,8 @@ Doctrine, instruction in the, 55
 
 Dolor burkhani ordo Kharchi, Holy precinct of Torguts, 282
 
-Donduk Ombo, 171
-
---- succession as ruler of Torguts in Russia, 210
-
+Donduk Ombo, 171  
+--- succession as ruler of Torguts in Russia, 210  
 --- Taiji, successor to Donduk Ombo as ruler of Torguts in Russia, 210
 
 Dondur-gol, River, 125, 135, 136
@@ -5916,13 +5849,10 @@ Dongtse, monastery of, 255; punishment of inmates ot, 257
 
 Doreche, 309; envoy of Panchen Bogdo, 232, 234
 
-Dragon, burning, ceremony of, 66, 67
-
+Dragon, burning, ceremony of, 66, 67  
 --- Throne, 249, 251, 268
 
-Drunkenness, Jenghiz Khan's de
-
-cree regarding, 266
+Drunkenness, Jenghiz Khan's decree regarding, 266
 
 Duck, wild, 117
 
@@ -5932,7 +5862,8 @@ Duck, wild, 117
 
 Dukar, 170
 
-Durbet öret (West-Mongol coalition), 200; the fourfold alliance: union of West- Mongol tribes in, 203, 204; principal tribes within, 204 --- tribe: in Durbet öret alliance, 204; troops of, arrive at Volga, 210
+Durbet öret (West-Mongol coalition), 200; the fourfold alliance: union of West- Mongol tribes in, 203, 204; principal tribes within, 204  
+--- tribe: in Durbet öret alliance, 204; troops of, arrive at Volga, 210
 
 Dyna, 168
 
@@ -5940,12 +5871,10 @@ Dzarung Khashor, 28
 
 Dzungaria (Western Mongolia), 119, 204, 283, 307, 321; sovereign of, 172; expansion of West-Mongol coalition to territories outside, 200; migration of Khoshut Mongols from, to Russia, 200; emigration of Mongolian tribes from, 204. 205; origin of name, 204; short period of peace in, 206; migrations of Torguts from, 207, 208; Chinese Emperor's secret inducement to Ayuk Khan to return to, rejected, 209; districts assigned to returned Torguts in, 214, 216; map brought home from, to Sweden by Renat (1724) (footnote), 263
 
-Dzungarian cavalry, camel-fortress of, 205, 206
-
+Dzungarian cavalry, camel-fortress of, 205, 206  
 --- Khoshut tribe: Mongols of, 199, 200; widespread distribution of, 200
 
-Dzungars, 204, 322; expedition to, 169; Buchhohz expedition annihilated by, 170; power of, broken by Emperor of China, 172; conquered, new laws imposed upon, by Manchu Emperor (1789; revised 1815), 267, 268; and Manchus, feud between, 119
-
+Dzungars, 204, 322; expedition to, 169; Buchhohz expedition annihilated by, 170; power of, broken by Emperor of China, 172; conquered, new laws imposed upon, by Manchu Emperor (1789; revised 1815), 267, 268; and Manchus, feud between, 119  
 --- *see also* West Mongols
 
 Early morning hours, easiest for travel in desert, 102
@@ -5970,25 +5899,23 @@ Ejil-Tsar river (Volga), 119, 293 Elizabeth, Empress of Russia (footnote), 247; 
 
 Erdeni Dzu, name of first Mongolian monastery, 284
 
-"Eren Habirgran Ole'n" (Tor- gut song), 271
+"Eren Habirgran Ole'n" (Torgut song), 271
 
 Eren Habirga Mountains, 263 Ericsson (L. M.) Telephone Company, 289
 
-Ether-carriage (*nisdeg telleg),* 245 
+Ether-carriage (*nisdeg telleg),* 245
 
 Etsin-gol, river, 74, 87, too, 109, 117, 123, 142, 145, 146, 147, 216; Gobi Desert lying west of, 87; valley of, 103; arrival at, 106 *et seq.*; legendary origin of, 107; arrival of caravan at, 111; discharge of, into salt lakes, 116; bird life in neighbourhood of, 117; grant of land by, assigned to son and descendants of Arab Jur (1732), 119; animal life by, 122; sources of, 134; course of, 135; banks of, description of, 136, 137; dismal surroundings of, at delta, 139
 
 <a id="337">**337 INDEX"**</a>
 
-Etsin-gol and salt lakes of Gobi Desert, building of canoes for navigation of, 132, 133
+Etsin-gol and salt lakes of Gobi Desert, building of canoes for navigation of, 132, 133  
+--- Torguts, 263; advice of Tangert Gegen, *hutuktu,* sought by, 123
 
---- Torguts, 263; advice of Tan- gert Gegen, *hutuktu,* sought by, 123
-
-Etsina described by Marco Polo, 109; discovery of treasures at, by Koslov (1909), 109, 110; mined city, 109; Mohammedan mosque by wall of, 109
-
---- Torgut Wang: residency of (Ser-sonche), 125; retired life of, 126, 128; sons of, 126, 128
-
---- --- women: dress of, 121,--- according with that of women of distant main stem, 121; women practically sterile, 121
+Etsina described by Marco Polo, 109; discovery of treasures at, by Koslov (1909), 109, 110; mined city, 109; Mohammedan mosque by wall of, 109  
+--- Torgut Wang: residency of (Ser-sonche), 125; retired life of, 126, 128; sons of, 126, 128  
+--- --- women: dress of, 121  
+--- according with that of women of distant main stem, 121; women practically sterile, 121
 
 --- Torguts: relationship to main stem of race, 118; origin of present settlement of, 119; present chief of, bearing title of 119; present troubled existence of, 119, 120; held in contempt by Buryats and Northern Mongols, 120; only Mongols preferring to ride on asses, 120; pressure put upon, by Chinese officials and colonists, 120; absorption of Tangut population by, 121; anthropometric measurements of, 121; character of, 121; *hutuktu* of, 122, 123; men intermarrying among other tribes, 121
 
@@ -6006,46 +5933,35 @@ Fatalism of Mongolian women, 24
 
 Feng Yu-hsiang, General, advance from Kansu forbidden by Regent to be checked by Torgut cavalry, 243
 
-Film camera, use of, in monastery, 39
-
---- photographer to Sven Hedin Expedition (Lieberenz), 17, 18
-
+Film camera, use of, in monastery, 39  
+--- photographer to Sven Hedin Expedition (Lieberenz), 17, 18  
 --- pictures, collection for Sven Hedin Expedition, 17, 18
 
-Filming of capture of Oborgon,
-
-115, 116
+Filming of capture of Oborgon, 115, 116
 
 Films, taking of, at Maidari festival, 21
 
-Fire, pollution of, punishment for, in *Yassa* and Tsächin Bichik contrasted, 267
-
---- Ape, sacred, year of (1896), 70
-
---- Hare, year of (1927), 70
-
---- Monkey, year of (1896), 231
-
+Fire, pollution of, punishment for, in *Yassa* and Tsächin Bichik contrasted, 267  
+--- Ape, sacred, year of (1896), 70  
+--- Hare, year of (1927), 70  
+--- Monkey, year of (1896), 231  
 --- Pig, year of (1887), 255
 
 "Firehorse", auspicious year of (1907), 61
 
 Folk music ot Mongols, 237
 
-Forest trees, destruction by en
-
-croaching desert sands, 110
+Forest trees, destruction by encroaching desert sands, 110
 
 Fortress, stone-built, in Gobi desert, bandits dwelling in, 151
 
-*Fostbr**ö**dralag,* meaning of (footnote), 313
+*Fostbrödralag*, meaning of (footnote), 313
 
 Frederic, King, 171
 
 Fritz, Isac, 173
 
-Fru Brigitta: merciless treatment of by Dzungars, 170; slavery of, 170, 171; death of, 173
-
+Fru Brigitta: merciless treatment of by Dzungars, 170; slavery of, 170, 171; death of, 173  
 --- and Renat, marriage between, 172
 
 Fuel of the desert, tamarisk as the, 85
@@ -6056,19 +5972,17 @@ Gadfly, pest of Bactrian camel, 73
 
 <a id="338">**338 INDEX"**</a>
 
-Galdan: successor of Batur Khun-taiji, 205
-
---- defeat of Manchu Emperor by, 205; twice defeated by Manchu Emperor, 205, 206; power of usurped by Tse- wang Raptan, 206; murder of (1687), 206
-
+Galdan: successor of Batur Khun-taiji, 205  
+--- defeat of Manchu Emperor by, 205; twice defeated by Manchu Emperor, 205, 206; power of usurped by Tse- wang Raptan, 206; murder of (1687), 206  
 --- Tsering, 172; successor to father, Tsewang Raptan (1727), 206; defeat of (1732), 206
 
 Gandhara art of Northern India, 5 Gas, 183
 
-Gashun-nor, salt lake, discharge of river Etsin-gol into, 116
-
+Gashun-nor, salt lake, discharge of river Etsin-gol into, 116  
 --- alkaline lake in Gobi desert, Murin-gol river carried into, 135
 
-Gas-nor, Lake of, 190, 194 --- river, 193; Däde Mongols by, 200
+Gas-nor, Lake of, 190, 194  
+--- river, 193; Däde Mongols by, 200
 
 Gautama Buddha, 68
 
