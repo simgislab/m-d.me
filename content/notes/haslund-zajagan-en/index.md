@@ -4504,9 +4504,7 @@ We made a halt under the lee of a steep mountainside. There was dry wood in plen
 
 An owl hooted, and the cry was answered by the mysterious spirits of the mountain.
 
-pic
-
-“Eren Habirgran Ole’n.” (Torgut Song.)
+![notes_p271.png](notes_p271.png "“Eren Habirgran Ole’n.” (Torgut Song.)")
 
 <a id="272">**272 IN THE OPEN**</a>
 
