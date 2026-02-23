@@ -207,23 +207,23 @@ His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of 
 | Tsagan Oborgon, “The white old man” *Photo Hummel*                                     | [48](#48p2)  |
 | “One of the last to go up to Maidari was my little old woman ...”                      | [49](#49p1)  |
 | The twenty-four *Shanag*. *Photo Hummel*                                               | [49](#49p2)  |
-| Gurtum. *Photo Zimmerman*                                                              | [60](#60)   |
-| Consorts of the Chief and curious Princesses                                           | [60](#60)   |
-| Leave-taking from Lamas and Chiefs at Bater Halak Sume. *Photo Lieberenz*              | [61](#61)   |
-| The Mongolian Monastery of Baying Shandai Sume. *Photo Lieberenz*                      | [72](#72)   |
-| The Expedition’s camels assembled before the start from Hojertai-gol. *Photo Lieberenz*| [128](#128) |
-| The genesis of “Long Snake.” *Photo Lieberenz*                                         | [129](#129) |
-| Landing of the boat expedition after the voyage on Socho-nor. *Photo Lieberenz*        | [129](#129) |
-| “In the red cloud of dust a dense mass of galloping horsemen.” *Photo Hempel*          | [160](#160) |
-| Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard            | [161](#161) |
-| Tsagechin Beile                                                                        | [161](#161) |
-| A Mongol salutes his Chief                                                             | [168](#168) |
-| Sart Musicians. *Photo Bergman*                                                        | [184](#184) |
-| The Sart *aksakal* and Chinese *amban*. *Photo Bergman*                                | [184](#184) |
-| The Däde Mongols’ *Khuruldei*. *Photo Bergman*                                         | [185](#185) |
-| After the hunt                                                                         | [185](#185) |
-| Seng Chen’s earthly father, Tu-yen Meng-ku khan                                        | [188](#188) |
-| A Charklik beauty                                                                      | [188](#188) |
+| Gurtum. *Photo Zimmerman*                                                              | [60](#60p1)   |
+| Consorts of the Chief and curious Princesses                                           | [60](#60p2)   |
+| Leave-taking from Lamas and Chiefs at Bater Halak Sume. *Photo Lieberenz*              | [61](#61p1)   |
+| The Mongolian Monastery of Baying Shandai Sume. *Photo Lieberenz*                      | [72](#72p1)   |
+| The Expedition’s camels assembled before the start from Hojertai-gol. *Photo Lieberenz*| [128](#128p1) |
+| The genesis of “Long Snake.” *Photo Lieberenz*                                         | [129](#129p1) |
+| Landing of the boat expedition after the voyage on Socho-nor. *Photo Lieberenz*        | [129](#129p2) |
+| “In the red cloud of dust a dense mass of galloping horsemen.” *Photo Hempel*          | [160](#160p1) |
+| Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard            | [161](#161p1) |
+| Tsagechin Beile                                                                        | [161](#161p2) |
+| A Mongol salutes his Chief                                                             | [168](#168p1) |
+| Sart Musicians. *Photo Bergman*                                                        | [184](#184p1) |
+| The Sart *aksakal* and Chinese *amban*. *Photo Bergman*                                | [184](#184p2) |
+| The Däde Mongols’ *Khuruldei*. *Photo Bergman*                                         | [185](#185p1) |
+| After the hunt                                                                         | [185](#185p2) |
+| Seng Chen’s earthly father, Tu-yen Meng-ku khan                                        | [188](#188p1) |
+| A Charklik beauty                                                                      | [188](#188p2) |
 
 <a id="xii">**xii**</a>
 
@@ -231,36 +231,36 @@ LIST OF ILLUSTRATIONS
 
 |                                                                                   | PAGE         |
 |:----------------------------------------------------------------------------------|-------------:|
-| “Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven.” *Photo Bergman*                                                                            |  [192](#) |
-| Camel transport across the river. *Photo Bergman*                                 |  [193](#193) |
-| Torgut soldier                                                                    |  [193](#193) |
-| ”Arselan Consul”                                                                  |  [224](#224) |
-| Mongrolda Noyen                                                                   |  [224](#224) |
-| ”The red Standard”                                                                |  [225](#225) |
-| Shiri, who “commanded the gliding, soaring and falling of the notes like a proud eagle on the wing”                                                                               |  [240](#240) |
-| Torgut married women                                                              |  [240](#240) |
+| “Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven.” *Photo Bergman*                                                                            |  [192](#192p1) |
+| Camel transport across the river. *Photo Bergman*                                 |  [193](#193p1) |
+| Torgut soldier                                                                    |  [193](#193p2) |
+| ”Arselan Consul”                                                                  |  [224](#224p1) |
+| Mongrolda Noyen                                                                   |  [224](#224p2) |
+| ”The red Standard”                                                                |  [225](#225p1) |
+| Shiri, who “commanded the gliding, soaring and falling of the notes like a proud eagle on the wing”                                                                               |  [240](#240p1) |
+| Torgut married women                                                              |  [240](#240p2) |
 | The Torgut Regent’s *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders            |  [241](#241) |
-| Baldan *gusdä*, the Regent, Lodong chanse, Lyrup chanse                           |  [244](#244) |
-| Torgut Cavalry Acrobatics. *Photo Hempel*                                         |  [245](#245) |
-| Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                 |  [248](#248) |
-| Young Torguts. *Photo Ambolt*                                                     |  [249](#249) |
-| Inhabitants of Temerlik. *Photo Bergman*                                          |  [252](#252) |
-| Torgut camp. *Photo Ambolt*                                                       |  [252](#252) |
-| Torgut Chiefs (*merin* and *gusdä*)                                               |  [253](#253) |
-| Dambin Jansang the adventurer who revived the savagery of ancient times on the steppes.|  [253](#253) |
-| The Dongtse Monastery in Tibet, Seng Chen’s spiritual home. *Photo F. Ludlow*     |  [256](#256) |
-| Painting of Obish Khan                                                            |  [257](#256) |
-| Tibetan High Lama. *Photo Hummel*                                                 |  [257](#257) |
-| Fresco in the Dongtse Monastery representing Seng Chen’s spiritual father, the Tiger god’s fourth reincarnation. *Photo F. Ludlow* |  [280](#280) |
-| Torgut Temple Tent. From Pallas’ “*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*” St. Petersburg, 1776 |  [281](#281) |
-| The author with Lamaistic philosophers                                            |  [304](#304) |
-| “Baredo soldep” (Tibetan prayer)                                                  |  [312](#312) |
-| Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*         |  [320](#320) |
-| Interior of *gegen-ni-ordo* on its erection at Urumchi                            |  [320](#320) |
-| The three thrones in the Khan's Tent of the Torguts                               |  [320](#320) |
-| “Tsagachin Beile often appeared in an ill-fitting Russian costume”                |  [320](#320) |
-| Baldan *gusdä*                                                                    |  [321](#321) |
-| Map                                                                               |  [328](#328) |
+| Baldan *gusdä*, the Regent, Lodong chanse, Lyrup chanse                           |  [244](#244p1) |
+| Torgut Cavalry Acrobatics. *Photo Hempel*                                         |  [245](#245p1) |
+| Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                 |  [248](#248p1) |
+| Young Torguts. *Photo Ambolt*                                                     |  [249](#249p1) |
+| Inhabitants of Temerlik. *Photo Bergman*                                          |  [252](#252p1) |
+| Torgut camp. *Photo Ambolt*                                                       |  [252](#252p2) |
+| Torgut Chiefs (*merin* and *gusdä*)                                               |  [253](#253p1) |
+| Dambin Jansang the adventurer who revived the savagery of ancient times on the steppes.|  [253](#253p1) |
+| The Dongtse Monastery in Tibet, Seng Chen’s spiritual home. *Photo F. Ludlow*     |  [256](#256p1) |
+| Painting of Obish Khan                                                            |  [257](#257p1) |
+| Tibetan High Lama. *Photo Hummel*                                                 |  [257](#257p2) |
+| Fresco in the Dongtse Monastery representing Seng Chen’s spiritual father, the Tiger god’s fourth reincarnation. *Photo F. Ludlow* |  [280](#280p1) |
+| Torgut Temple Tent. From Pallas’ “*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*” St. Petersburg, 1776 |  [281](#281p1) |
+| The author with Lamaistic philosophers                                            |  [304](#304p1) |
+| “Baredo soldep” (Tibetan prayer)                                                  |  [312](#312p1) |
+| Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*         |  [320](#320p1) |
+| Interior of *gegen-ni-ordo* on its erection at Urumchi                            |  [320](#320p2) |
+| The three thrones in the Khan's Tent of the Torguts                               |  [320](#320p3) |
+| “Tsagachin Beile often appeared in an ill-fitting Russian costume”                |  [320](#320p4) |
+| Baldan *gusdä*                                                                    |  [321](#321p1) |
+| Map                                                                               |  [328](#328p1) |
 
 <a id="xiii">**xiii**</a>
 
