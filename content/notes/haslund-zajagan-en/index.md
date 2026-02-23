@@ -773,7 +773,7 @@ The monastery was terraced within a hollow in the southern slope of the ridge th
 
 The view across the cloister city was enchanting. Its background was the vast green ridge which carried seven pagoda-formed *soboroks*(1) on its crest. And underneath, the shining golden roofs of the temple buildings hung like flounces one beneath the other. The sinuous line of each roof stood out against the upper third part of the white walls of the temple next behind it. Everywhere the eye was captivated by minarets and pinnacles, sym-
 
-1 *Soborok* (Tibetan *chorten*)*---*a pagoda-like building in which the relics *of* a deceased *hutuktu* or high lama are preserved. The form of the *soborok* symbolizes the five elements into which the body is dissolved after death.
+1 *Soborok* (Tibetan *chorten*)---a pagoda-like building in which the relics *of* a deceased *hutuktu* or high lama are preserved. The form of the *soborok* symbolizes the five elements into which the body is dissolved after death.
 
 <a id="32">**32 YOLROS LAMA**</a>
 
@@ -789,11 +789,11 @@ How could we strangers make the monks realize that our minds were free from scor
 
 After a pretty fruitless conference back in the tent, we set to work on our other task, that of taking anthropo-
 
-<a id="32p1">
+<a id="32p1"></a>
 
 ![haslund-zajagan-all-photos_02_1_g-reused.jpg](haslund-zajagan-all-photos_02_1_g-reused.jpg "Yolros Lama *Photo Lieberenz*")
 
-<a id="32p2">
+<a id="32p2"></a>
 
 ![haslund-zajagan-all-photos_02_2_g-reused.jpg](haslund-zajagan-all-photos_02_2_g-reused.jpg "Shirup Geling with Yolros Lama's dog. *Photo Lieberenz*")
 
