@@ -206,7 +206,7 @@ His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of 
 | “On the south side the monastery orchestra was stationed”                              | [48](#48p1)  |
 | Tsagan Oborgon, “The white old man” *Photo Hummel*                                     | [48](#48p2)  |
 | “One of the last to go up to Maidari was my little old woman ...”                      | [49](#49p1)  |
-| The twenty-four *Shanag*. *Photo Hummel*                                               | [49](#49p1)  |
+| The twenty-four *Shanag*. *Photo Hummel*                                               | [49](#49p2)  |
 | Gurtum. *Photo Zimmerman*                                                              | [60](#60)   |
 | Consorts of the Chief and curious Princesses                                           | [60](#60)   |
 | Leave-taking from Lamas and Chiefs at Bater Halak Sume. *Photo Lieberenz*              | [61](#61)   |
@@ -791,11 +791,11 @@ After a pretty fruitless conference back in the tent, we set to work on our othe
 
 <a id="32p1">
 
-![haslund-zajagan-all-photos_02_1_g-reused.jpg](haslund-zajagan-all-photos_02_1_g-reused.jpg "Yolros Lama. Photo Lieberenz")
+![haslund-zajagan-all-photos_02_1_g-reused.jpg](haslund-zajagan-all-photos_02_1_g-reused.jpg "Yolros Lama *Photo Lieberenz*")
 
 <a id="32p2">
 
-![haslund-zajagan-all-photos_02_2_g-reused.jpg](haslund-zajagan-all-photos_02_2_g-reused.jpg "Shirup Geling with Yolros Lama’s dog. Photo Lieberenz")
+![haslund-zajagan-all-photos_02_2_g-reused.jpg](haslund-zajagan-all-photos_02_2_g-reused.jpg "Shirup Geling with Yolros Lama's dog. *Photo Lieberenz*")
 
 <a id="33">**33 YOLROS LAMA**</a>
 
@@ -919,7 +919,7 @@ Long-drawn muted notes from gigantic Tibetan bassoons followed by the booming of
 
 <a id="40p1"></a>
 
-![haslund-zajagan-all-photos_03_2-reused.jpg](haslund-zajagan-all-photos_03_2-reused.jpg "“The Festival place lay bathed in sunlight . . .” Photo Lieberenz")
+![haslund-zajagan-all-photos_03_2-reused.jpg](haslund-zajagan-all-photos_03_2-reused.jpg ""The Festival place lay bathed in sunlight ..." *Photo Lieberenz*")
 
 <a id="41">**41 THE DANCE OF THE GODS**</a>
 
@@ -1231,9 +1231,17 @@ Damding Surong had received his appointment as chief of the robber fighters from
 
 Still it was constantly happening that Damding Surong and his men were obliged to take the field, for new bands of robbers often appeared along the boundary and tried to carry on his old trade. But none had yet been able to hold his own against him and to this day his name was a terror on the steppe to all dishonest folk, just as it had formerly been to honest ones.
 
-pic
+<a id="60p1"></a>
 
-pic
+![haslund-zajagan-en-gurtum-reused.png](haslund-zajagan-en-gurtum-reused.png "Gurtum. *Photo Zimmerman*")
+
+<a id="60p2"></a>
+
+![haslund-zajagan-all-photos3_2_1-reused.jpg](haslund-zajagan-all-photos3_2_1-reused.jpg "Consorts of the Chief and curious Princesses")
+
+<a id="61p1"></a>
+
+![haslund-zajagan-all-photos3_3_2-reused.jpg](haslund-zajagan-all-photos3_3_2-reused.jpg "Leave-taking from Lamas and Chiefs at Bater Halak Sume. *Photo Lieberenz*")
 
 <a id="61">**61 DANCE OF THE MAGICIANS**</a>
 
@@ -1421,9 +1429,11 @@ Unfortunately our expedition had been obliged to start its long caravan journey 
 
 The Bactrian camel, which is used in the Gobi Desert, works only in winter and rests in summer, when it lays up new stores of strength to resist the hardships of the next winter. The conception one obtains from novels
 
-<a id="73">**73 SUIDOR DISAPPEARS FROM THE CAMP**</a>
+<a id="72p1"></a>
 
-pic
+![haslund-zajagan-all-photos3_4_2-reused.jpg](haslund-zajagan-all-photos3_4_2-reused.jpg "The Mongolian Monastery of Baying Shandai Sume. *Photo Lieberenz*")
+
+<a id="73">**73 SUIDOR DISAPPEARS FROM THE CAMP**</a>
 
 about deserts and tourist camels, that the "ship of the desert" belongs among palm trees in tropical heat, is particularly misleading in regard to the two-humped Bactrian camel, the animal upon which one depends for travelling in the Mongolian deserts. The difference between *Camelus dromedarius,* the single-humped camel, and *Camelus Bactrianus,* the two-humped camel, is so fundamental that, as regards their habit of life and performance, they are no more to be confused than a team of Arctic dogs and a pack of Australian dingos.
 
@@ -2210,11 +2220,17 @@ Puntsuk told us that his good old father was so full of years that the wisdom he
 
 For this reason they had built this new residence for him on the quiet desolate gravel plateau far from the bustle and purl of wood and water, and now
 
-pic
+<a id="128p1"></a>
 
-pic
+![haslund-zajagan-all-photos3_4_1-reused.jpg](haslund-zajagan-all-photos3_4_1-reused.jpg "The Expedition's camels assembled before the start from Hojertai-gol. *Photo Lieberenz*")
 
-pic
+<a id="129p1"></a>
+
+![haslund-zajagan-all-photos_08_2-reused.jpg](haslund-zajagan-all-photos_08_2-reused.jpg "The genesis of "Long Snake." *Photo Lieberenz*")
+
+<a id="129p2"></a>
+
+![haslund-zajagan-all-photos_08_3-reused.jpg](haslund-zajagan-all-photos_08_3-reused.jpg "Landing of the boat expedition after the voyage on Socho-nor. *Photo Lieberenz*")
 
 <a id="129">**129 ASIA'S BIRDS OF PASSAGE**</a>
 
@@ -2664,11 +2680,17 @@ Two days later we were in Hami where we were brought before the Chinese commanda
 
 ^1^ Sart is the name given to the town dwellers of Eastern Turkestan. They are Mohammedans and are often of mixed Turkish and Persian race.
 
-pic
+<a id="160p1"></a>
 
-pic
+![haslund-zajagan-all-photos_11_1-reused.jpg](haslund-zajagan-all-photos_11_1-reused.jpg ""In the red cloud of dust a dense mass of galloping horsemen." *Photo Hempel*")
 
-pic
+<a id="161p1"></a>
+
+![haslund-zajagan-en-mongrolda-reused.png](haslund-zajagan-en-mongrolda-reused.png "Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard")
+
+<a id="161p2"></a>
+
+![haslund-zajagan-all-photos_11_2-reused.jpg](haslund-zajagan-all-photos_11_2-reused.jpg "Tsagechin Beile")
 
 <a id="161">**161 PRISONERS**</a>
 
@@ -2778,7 +2800,9 @@ The son, Johan Gustaf Renat, enlisted at the age of eighteen in the artillery, w
 
 Among the prisoners of war from Poltava there was
 
-pic
+<a id="168p1"></a>
+
+![haslund-zajagan-all-photos_12_2-reused.jpg](haslund-zajagan-all-photos_12_2-reused.jpg "A Mongol salutes his Chief")
 
 <a id="169">**169 FACTS AND MUSINGS**</a>
 
@@ -2990,13 +3014,21 @@ We sought out the white newcomer at Selim Bay's poor *sarai* and found a Russian
 
 Smigonov and Makejef had been chums for many years and so strong had their friendship been that the
 
-pic
+<a id="184p1"></a>
 
-pic
+![haslund-zajagan-all-photos3_7_3-reused.jpg](haslund-zajagan-all-photos3_7_3-reused.jpg "Sart Musicians. *Photo Bergman*")
 
-pic
+<a id="184p2"></a>
 
-pic
+![haslund-zajagan-all-photos3_7_2-reused.jpg](haslund-zajagan-all-photos3_7_2-reused.jpg "The Sart *aksakal* and Chinese *amban*. *Photo Bergman*")
+
+<a id="185p1"></a>
+
+![haslund-zajagan-all-photos_16_3-reused.jpg](haslund-zajagan-all-photos_16_3-reused.jpg "The Däde Mongols' *Khuruldei*. *Photo Bergman*")
+
+<a id="185p2"></a>
+
+![haslund-zajagan-all-photos_15_3-reused.jpg](haslund-zajagan-all-photos_15_3-reused.jpg "After the hunt")
 
 <a id="185">**185 THE OASIS BEYOND THE DESERT**</a>
 
@@ -3050,9 +3082,13 @@ Dsuk was coming on, and it had to be dealt with.
 
 One tent and a small supply of provisions were carried by the caravan men to the top of the pass where they were loaded on to one of the camels, and then Bergman went on with the rest of the unladen camels to seek such safety as he might find beside the blue-green lake to the southward. I myself stayed with two caravan men, *Buran* and our three donkeys to solve the problem north of the pass.
 
-pic
+<a id="188p1"></a>
 
-pic
+![haslund-zajagan-all-photos_26_1-reused.jpg](haslund-zajagan-all-photos_26_1-reused.jpg "Seng Chen's earthly father, Tu-yen Meng-ku khan")
+
+<a id="188p2"></a>
+
+![haslund-zajagan-all-photos_28_2-reused.jpg](haslund-zajagan-all-photos_28_2-reused.jpg "A Charklik beauty")
 
 <a id="189">**189 IN "THE SNOW COUNTRY"**</a>
 
@@ -3120,11 +3156,17 @@ I sought out the elders of the community and related my tragic experience in the
 
 As a last attempt to ease my evil conscience I determined to report the matter to the local Mongol chief. It is true I was vehemently advised against this course by the Mohammedans on the ground that it would raise a great fuss among the Mongols even if the horses did not belong to their herds, in which case the lamentable story would never become known unless I myself related it. I was not, however, so sure of this, since my hunting companion had levanted not long before our arrival at Temirlik and might be expected to have informed against me so as to divert suspicion from himself.
 
-pic
+<a id="192p1"></a>
 
-pic
+![haslund-zajagan-all-photos_16_2-reused.jpg](haslund-zajagan-all-photos_16_2-reused.jpg ""Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven." *Photo Bergman*")
 
-pic
+<a id="193p1"></a>
+
+![haslund-zajagan-all-photos3_7_1-reused.jpg](haslund-zajagan-all-photos3_7_1-reused.jpg "Camel transport across the river. *Photo Bergman*")
+
+<a id="193p2"></a>
+
+![haslund-zajagan-all-photos_19_1-reused.jpg](haslund-zajagan-all-photos_19_1-reused.jpg "Torgut soldier")
 
 <a id="193">**193 IN "THE SNOW COUNTRY"**</a>
 
@@ -3638,11 +3680,17 @@ The leader of these hunters was a magnificent specimen of the man of the wilds, 
 
 Suddenly the old man's gaze shifted from the flames
 
-pic
+<a id="224p1"></a>
 
-pic
+![haslund-zajagan-en-arselan-reused.png](haslund-zajagan-en-arselan-reused.png "\"Arselan Consul\"")
 
-pic
+<a id="224p2"></a>
+
+![haslund-zajagan-all-photos_19_2-reused.jpg](haslund-zajagan-all-photos_19_2-reused.jpg "Mongrolda Noyen")
+
+<a id="225p1"></a>
+
+![haslund-zajagan-en-redstandard-reused.png](haslund-zajagan-en-redstandard-reused.png "\"The red Standard\")
 
 <a id="225">**225 BEFORE THE GOAL**</a>
 
@@ -3914,11 +3962,17 @@ My four young Asiatic friends willingly explained much that perplexed me; only t
 
 Töin Lama's brother had been Khan of the Torguts until his death in 1920, and since the present Regent as *hutuktu* was debarred from marriage, the power would pass at his death to the dead brother's son, now, in 1928, fifteen years old, whom the Torguts called Bichigen Khan, (the little Khan). Both Bichigen Khan and his sister,
 
-pic
+<a id="240p1"></a>
 
-pic
+![haslund-zajagan-all-photos_28_6-reused.jpg](haslund-zajagan-all-photos_28_6-reused.jpg "Shiri, who \"commanded the gliding, soaring and falling of the notes like a proud eagle on the wing\"")
 
-pic
+<a id="240p2"></a>
+
+![haslund-zajagan-all-photos_20_2-reused.jpg](haslund-zajagan-all-photos_20_2-reused.jpg "Torgut married women")
+
+<a id="241p1"></a>
+
+![haslund-zajagan-all-photos_21_1-reused.jpg](haslund-zajagan-all-photos_21_1-reused.jpg "The Torgut Regent's *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders")
 
 <a id="241">**241 STRONG MAN OF THE TORGUTS**</a>
 
@@ -3982,9 +4036,13 @@ Taking it all together I perceived more and more that the expedition's successfu
 
 In November I sent a courier to Urumchi for mail, and he was instructed to bring back a lot of illustrated papers from headquarters. I knew by experience what a highly
 
-pic
+<a id="244p1"></a>
 
-pic
+![haslund-zajagan-en-baldangusda-reused.png](haslund-zajagan-en-baldangusda-reused.png "Baldan *gusdä*, the Regent, Lodong *chanse*, Lyrup *chanse*")
+
+<a id="245p1"></a>
+
+![haslund-zajagan-all-photos_22-reused.jpg](haslund-zajagan-all-photos_22-reused.jpg "Torgut Cavalry Acrobatics. *Photo Hempel*")
 
 <a id="245">**245 STRONG MAN OF THE TORGUTS**</a>
 
@@ -4040,9 +4098,13 @@ Sometimes I was afraid for the ultimate consequences of this rapidly growing ind
 
 "Our greatest danger lies in the transplantation to the steppes of the ways of life of neighbouring nations, for these effeminize our people. A good horse and a free steppe under God's heaven is the Mongol's
 
-pic
+<a id="248p1"></a>
 
-pic
+![haslund-zajagan-all-photos_21_2-reused.jpg](haslund-zajagan-all-photos_21_2-reused.jpg "Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*")
+
+<a id="249p1"></a>
+
+![haslund-zajagan-en-youngtorguts-reused.png](haslund-zajagan-en-youngtorguts-reused.png "Young Torguts. *Photo Ambolt*")
 
 <a id="249">**249 "THE PRIMORDIAL SPARK"**</a>
 
@@ -4122,13 +4184,21 @@ On many grounds I declined this suggestion, but I kept the talisman and afterwar
 
 Yet now P'u Yi once more holds an imperial title, and Hsuan Tung has become K'ang Te and is to-day Emperor of Manchukuo and the chosen leader of many of Mongolia's nomad tribes.
 
-pic
+<a id="252p1"></a>
 
-pic
+![haslund-zajagan-all-photos_16_1-reused.jpg](haslund-zajagan-all-photos_16_1-reused.jpg "Inhabitants of Temerlik. *Photo Bergman*")
 
-pic
+<a id="252p2"></a>
 
-pic
+![haslund-zajagan-all-photos_23_3-reused.jpg](haslund-zajagan-all-photos_23_3-reused.jpg "Torgut camp. *Photo Ambolt*")
+
+<a id="253p1"></a>
+
+![haslund-zajagan-all-photos_28_7-reused.jpg](haslund-zajagan-all-photos_28_7-reused.jpg "Torgut Chiefs (*merin* and *gusdä*)")
+
+<a id="253p2"></a>
+
+![haslund-zajagan-all-photos_09_2-reused.jpg](haslund-zajagan-all-photos_09_2-reused.jpg "Dambin Jansang the adventurer who revived the savagery of ancient times on the steppes")
 
 <a id="253">**253**</a>
 
@@ -4194,11 +4264,17 @@ passed their lives in meditation. The earthly remains of the three first of thes
 
 "Calmly he received the tidings of his doom and went of his own accord to the Kongbu river, by the bank of which he took up a position on a rock jutting out high over the water. A countless host of sorrowing
 
-pic
+<a id="256p1"></a>
 
-pic
+![haslund-zajagan-all-photos_23_2-reused.jpg](haslund-zajagan-all-photos_23_2-reused.jpg "The Dongtse Monastery in Tibet, Seng Chen's spiritual home. *Photo F. Ludlow*")
 
-pic
+<a id="257p1"></a>
+
+![haslund-zajagan-all-photos_26_2_g-reused.jpg](haslund-zajagan-all-photos_26_2_g-reused.jpg "Painting of Obish Khan")
+
+<a id="257p2"></a>
+
+![haslund-zajagan-all-photos_28_5-reused.jpg](haslund-zajagan-all-photos_28_5-reused.jpg "Tibetan High Lama. *Photo Hummel*")
 
 <a id="257">**257 AND SPIRITUAL BIRTHS**</a>
 
@@ -4587,9 +4663,13 @@ In the evening of the third day Lyrup Geling arrived at the camp in the valley w
 
 Lyrup had orders from the Regent that we were to keep out of the way in the mountains until the Chinese
 
-pic
+<a id="280p1"></a>
 
-pic
+![haslund-zajagan-all-photos_23_4-reused.jpg](haslund-zajagan-all-photos_23_4-reused.jpg "Fresco in the Dongtse Monastery representing Seng Chen's spiritual father, the Tiger god's fourth reincarnation. *Photo F. Ludlow*")
+
+<a id="281p1"></a>
+
+![haslund-zajagan-en-templetent-reused.png](haslund-zajagan-en-templetent-reused.png "Torgut Temple Tent. From Pallas' "*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*", *St. Petersburg*, 1776")
 
 <a id="281">**281 UNDER THE SMOKE-HOOD**</a>
 
@@ -5003,7 +5083,9 @@ She was of noble family and mistress of one of the tribe's greatest tents. But s
 
 Now she prayed to the great Mother of Compassion for grace and protection against the affliction that pursued her. All her thoughts and prayers, all her time and strength she offered to the goddess that she might protect
 
-pic
+<a id="304p1"></a>
+
+![haslund-zajagan-all-photos_25_1-reused.jpg](haslund-zajagan-all-photos_25_1-reused.jpg "The author with Lamaistic philosophers")
 
 <a id="305">**305 ORIGIN OF THE TORGUTS"**</a>
 
@@ -5171,7 +5253,9 @@ Incense was thrown on the fire, which sent up clouds, soot-black, silver-white a
 
 Gegen and the astrologers straightened themselves up from their crouching position, the lamas fell silent and the orchestra's infernal discord ceased. For a while the three holy men gazed at me, but impersonally and absently as though they saw me not. Then their strained and sweating faces lighted up with friendly smiles and their kind glances met my astonished eyes.
 
-pic
+<a id="312p1"></a>
+
+![haslund-zajagan-en-baredo-reused.png](haslund-zajagan-en-baredo-reused.png "\"Baredo soldep\" (Tibetan prayer)")
 
 "Baredo soldep" (Tibetan prayer)
 
@@ -5313,13 +5397,25 @@ The expedition's headquarters at Urumchi lay almost deserted. Sven Hedin and Hum
 
 On arriving at Urumchi I at once telegraphed to Stockholm for instructions concerning the temple and
 
-pic
+<a id="320p1"></a>
 
-pic
+![haslund-zajagan-all-photos_30_5-reused.jpg](haslund-zajagan-all-photos_30_5-reused.jpg "Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*")
 
-pic
+<a id="320p2"></a>
 
-pic
+![haslund-zajagan-all-photos_30_2-reused.jpg](haslund-zajagan-all-photos_30_2-reused.jpg "Interior of *gegen-ni-ordo* on its erection at Urumchi")
+
+<a id="320p3"></a>
+
+![haslund-zajagan-all-photos_24_3_g-reused.jpg](haslund-zajagan-all-photos_24_3_g-reused.jpg "The three thrones in the Khan's Tent of the Torguts")
+
+<a id="320p4"></a>
+
+![haslund-zajagan-all-photos_12_1_g-reused.jpg](haslund-zajagan-all-photos_12_1_g-reused.jpg "\"Tsagachin Beile often appeared in an ill-fitting Russian costume\"")
+
+<a id="321p1"></a>
+
+![haslund-zajagan-en-baldan-reused.png](haslund-zajagan-en-baldan-reused.png "Baldan *Gusdä*")
 
 <a id="321">**321 FAREWELL"**</a>
 
@@ -5465,7 +5561,9 @@ Waddell, L. A., *The Buddhism of Tibet.* Cambridge, 1934.
 
 <a id="328">**328**</a>
 
-pic
+<a id="328p1"></a>
+
+![haslund-zajagan-en-map-reused.png](haslund-zajagan-en-map-reused.png)
 
 <a id="329">**329**</a>
 

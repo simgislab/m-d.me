@@ -76,8 +76,8 @@ EN издание - 56 фотографий и иллюстраций. Спис�
 | The Däde Mongols' *Khuruldei*. *Photo Bergman*                                                   | [185](#хурул-даде-монголов)          |
 | After the hunt                                                                                   | [185](#после-охоты)          |
 | Seng Chen's earthly father, Tu-yen Meng-ku khan                                                  | [188](#отец-син-чина)          |
-| "Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven." *Photo Bergman*  | [192](#вождь-даде-монголов)          |
 | A Charklik beauty                                                                                | [188](#чаркликская-красавица)          |
+| "Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven." *Photo Bergman*  | [192](#вождь-даде-монголов)          |
 | Camel transport across the river. *Photo Bergman*                                                | [193](#перевозка-верблюдов-через-реку)          |
 | Torgut soldier                                                                                   | [193](#торгутский-воин)          |
 | "Arselan Consul"                                                                                 | [224](#консул-арселан)          |
