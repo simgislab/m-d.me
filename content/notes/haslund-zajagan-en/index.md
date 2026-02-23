@@ -333,9 +333,9 @@ From *Orientalische Reisebeschreibung*, von Jürgen Andersen---Schleswig, 1669.
 
 MEN AND GODS IN MONGOLIA
 
-BOOK I
+## BOOK I
 
-## CHAPTER I
+### CHAPTER I
 
 **RUMOURS OF A KHAN IN THE WEST**
 
@@ -446,7 +446,7 @@ And then the 13th January, 1927, arrived.
 
 <a id="9">**9**</a>
 
-## CHAPTER II
+### CHAPTER II
 
 **I BECOME A MEMBER OF THE SVEN HEDIN EXPEDITION**
 
@@ -561,7 +561,7 @@ But that same melody was to become the expedition's favourite tune; its stimulat
 
 <a id="17">**17 OF THE SVEN HEDIN EXPEDITION**</a>
 
-## CHAPTER III
+### CHAPTER III
 
 **THE WORK BEGINS**
 
@@ -709,7 +709,7 @@ The holy cloister city was awaiting us.
 
 <a id="27">**27 THE WORK BEGINS**</a>
 
-## CHAPTER IV
+### CHAPTER IV
 
 **YOLROS LAMA**
 
@@ -889,7 +889,7 @@ The same night Hummel, Lieberenz and I slept in the most holy part of the holy m
 
 <a id="39">**39**</a>
 
-## CHAPTER V
+### CHAPTER V
 
 **THE DANCE OF THE GODS**
 
@@ -1087,7 +1087,7 @@ The nomads were not brooding over the terrifying impressions of the day. For nat
 
 <a id="52">**52**</a>
 
-## CHAPTER VI
+### CHAPTER VI
 
 **THE DANCE OF THE MAGICIANS**
 
@@ -1279,7 +1279,7 @@ Over that evening's dying fire we clasped hands with a firm grip, for his fists 
 
 <a id="64">**64**</a>
 
-## CHAPTER VII
+### CHAPTER VII
 
 **ZAYAGAN**
 
@@ -1415,7 +1415,7 @@ In the temple court the freshness of the dark summer night received us. The mona
 
 <a id="72">**72**</a>
 
-## CHAPTER VIII
+### CHAPTER VIII
 
 **SUIDOR DISAPPEARS FROM THE CAMP**
 
@@ -1575,7 +1575,7 @@ He said it a little dejectedly, as if he almost repented of that day's deed. But
 
 <a id="83">**83**</a>
 
-## CHAPTER IX
+### CHAPTER IX
 
 **BRIEF ENCOUNTER WITH THE ADVANCE COLUMN**
 
@@ -1665,7 +1665,7 @@ In the loneliness of the desert a man is conscious of nature's greatness, his ow
 
 <a id="89">**89**</a>
 
-## CHAPTER X
+### CHAPTER X
 
 **DESERT JUSTICE**
 
@@ -1839,7 +1839,7 @@ And the end of this eventful day was good, for when I went to my tent the Mongol
 
 <a id="101">**101**</a>
 
-## CHAPTER XI
+### CHAPTER XI
 
 **THE OPPRESSION OF THE DESERT**
 
@@ -1906,7 +1906,7 @@ At the end of the road."
 
 <a id="106">**106**</a>
 
-## CHAPTER XII
+### CHAPTER XII
 
 **ETSIN-GOL AT LAST**
 
@@ -2016,7 +2016,7 @@ The dream of Etsin-gol had come true.
 
 <a id="114">**114**</a>
 
-## CHAPTER XIII
+### CHAPTER XIII
 
 **LIFE BY THE RIVER**
 
@@ -2158,7 +2158,7 @@ The going down of the sun made us all silent, for just as the ball of fire sank 
 
 <a id="125">**125**</a>
 
-## CHAPTER XIV
+### CHAPTER XIV
 
 **ASIA'S BIRDS OF PASSAGE**
 
@@ -2274,7 +2274,7 @@ But the boat did not come. The bubbling mass of water rushed by us, scornful and
 
 <a id="132">**132**</a>
 
-## CHAPTER XV
+### CHAPTER XV
 
 **SAILING ON UNCHARTED WATERS WITH THE CHIEF**
 
@@ -2410,7 +2410,7 @@ Next morning there was a dead calm, and we were compelled to row the heavy craft
 
 <a id="143">**143**</a>
 
-## CHAPTER XVI
+### CHAPTER XVI
 
 **WE TRAVERSE BLACK GOBI**
 
@@ -2508,7 +2508,7 @@ We were overjoyed for now we regarded ourselves as saved, and when four days lat
 
 <a id="150">**150**</a>
 
-## CHAPTER XVII
+### CHAPTER XVII
 
 **A ROBBER'S STRONGHOLD IN THE DESERT**
 
@@ -2646,7 +2646,7 @@ It is whispered round the camp fires of the nomads that the fighting lama's arro
 
 <a id="159">**159**</a>
 
-## CHAPTER XVIII
+### CHAPTER XVIII
 
 **PRISONERS**
 
@@ -2716,7 +2716,7 @@ The old Governor Yang soon became filled with inquisitive interest in our projec
 
 <a id="163">**163**</a>
 
-## CHAPTER XIX
+### CHAPTER XIX
 
 **FACTS AND MUSINGS ABOUT A COIN AND A WOMAN'S DRESS**
 
@@ -2890,7 +2890,7 @@ It is also easy to connect with the Renat family the Caroline silver coin which 
 
 <a id="175">**175**</a>
 
-## CHAPTER XX
+### CHAPTER XX
 
 **NEW FIELDS OF WORK**
 
@@ -2960,7 +2960,7 @@ There was no breaking of camp that evening, for the rider was a courier from hea
 
 <a id="181">**181**</a>
 
-## CHAPTER XXI
+### CHAPTER XXI
 
 **THE OASIS BEYOND THE DESERT**
 
@@ -3054,7 +3054,7 @@ And on the same day that we realized this we started.
 
 <a id="187">**187**</a>
 
-## CHAPTER XXII
+### CHAPTER XXII
 
 **ADVENTURE IN "THE SNOW COUNTRY"**
 
@@ -3204,7 +3204,7 @@ All joy had deserted our camp in face of the doom which might cut short the expe
 
 <a id="196">**196**</a>
 
-## CHAPTER XXIII
+### CHAPTER XXIII
 
 **I BECOME A SHAMAN**
 
@@ -3320,13 +3320,13 @@ I was met in Urumchi by tragic news. Old Governor Yang, the friend and supporter
 
 <a id="203">**203**</a>
 
-BOOK II
+## BOOK II
 
 "Perhaps we are people who do not know much; but all that is simple and natural, that we know and fully understand ..."
 
 *From a Mongol's letter.*
 
-## THE CAVALCADE OF THE WEST MONGOLS THROUGH THE CENTURIES
+### THE CAVALCADE OF THE WEST MONGOLS THROUGH THE CENTURIES
 
 THE legend-interwoven story of the Torguts has long captivated my fancy, and I have in the course of years sought from books and original sources to evoke the historical background to the present condition of this Mongolian tribe. I have observed how its fate through the centuries has been linked up with that of its West-Mongol kin, and from many sources, of which the chief have been Chinese and Russian manuscripts and historical documents, I have tried to compose a tolerably clear picture of that fate so far as there is any record of it.
 
@@ -3546,7 +3546,7 @@ At Hami we had been taken captive by wild riders who called themselves Torguts a
 
 <a id="217">**217**</a>
 
-## CHAPTER I
+### CHAPTER I
 
 **BEFORE THE GOAL**
 
@@ -3634,7 +3634,7 @@ There, a bare yard away from me, were breathing the descendants of the great chi
 
 ![haslund-zajagan-all-photos_18_1-reused.jpg](haslund-zajagan-all-photos_18_1-reused.jpg "Prayer-flag with Symbol of Hi-mori and Sacred Texts.")
 
-## CHAPTER II
+### CHAPTER II
 
 **MY "AIR-HORSE" GALLOPS BEFORE THE WIND**
 
@@ -3752,7 +3752,7 @@ The nearer we came to the lowlands the oftener we fell in with parties of Torgut
 
 <a id="228">**228**</a>
 
-## CHAPTER III
+### CHAPTER III
 
 **I AM BROUGHT INTO THE PRESENCE OF “THE KHAN IN THE WEST”**
 
@@ -3864,7 +3864,7 @@ I could not have had more agreeable colleagues.
 
 <a id="235">**235**</a>
 
-## CHAPTER IV
+### CHAPTER IV
 
 **THE MUSIC OF THE MONGOLS**
 
@@ -3942,7 +3942,7 @@ The music of the Mongols is my richest memory from those days, a fascinating lin
 
 <a id="240">**240**</a>
 
-## CHAPTER V
+### CHAPTER V
 
 **THE STRONG MAN OF THE TORGUTS**
 
@@ -4080,7 +4080,7 @@ That the Tsars *of* Russia have, since the Empresses Elizabeth and Catherine, be
 
 <a id="248">**248**</a>
 
-## CHAPTER VI
+### CHAPTER VI
 
 **"THE PRIMORDIAL SPARK"**
 
@@ -4200,7 +4200,7 @@ Yet now P'u Yi once more holds an imperial title, and Hsuan Tung has become K'an
 
 <a id="253">**253**</a>
 
-## CHAPTER VII
+### CHAPTER VII
 
 **THE RULER'S BODILY AND SPIRITUAL BIRTHS**
 
@@ -4316,7 +4316,7 @@ Could that have been the reason for the Torguts' interest in the birthmark above
 
 <a id="260">**260**</a>
 
-## CHAPTER VIII
+### CHAPTER VIII
 
 **THE LAWS OF THE STEPPE**
 
@@ -4472,7 +4472,7 @@ For according to "the yellow doctrine" many torments and rebirths would be neces
 
 <a id="270">**270**</a>
 
-## CHAPTER IX
+### CHAPTER IX
 
 **IN THE OPEN**
 
@@ -4581,7 +4581,7 @@ It sounded like a hymn to industry and the joy of work.
 
 <a id="276">**276**</a>
 
-## CHAPTER X
+### CHAPTER X
 
 **UNDER THE SMOKE-HOOD**
 
@@ -4687,7 +4687,7 @@ To know the child of nature in his natural surroundings is a wonderful experienc
 
 <a id="282">**282**</a>
 
-## CHAPTER XI
+### CHAPTER XI
 
 **THE TENT TEMPLES OF THE TORGUTS**
 
@@ -4767,7 +4767,7 @@ And then was born my dream of bearing such a sanctuary to the remote West, for t
 
 <a id="287">**287**</a>
 
-## CHAPTER XII
+### CHAPTER XII
 
 **ACROSS THE MOUNTAINS**
 
@@ -4917,7 +4917,7 @@ The same evening we arrived at the gates of Öreget.
 
 <a id="295">**295**</a>
 
-## CHAPTER XIII
+### CHAPTER XIII
 
 **THE YEAR OF THE "IRON SNAKE" COMES IN**
 
@@ -5031,7 +5031,7 @@ I rode with Lyrup Geling to the monastery, where we lodged with the prior.
 
 <a id="302">**302**</a>
 
-## CHAPTER XIV
+### CHAPTER XIV
 
 **THE ORIGIN OF THE TORGUTS**
 
@@ -5213,7 +5213,7 @@ But the gods of Asia were once more to smile upon me.
 
 <a id="311">**311**</a>
 
-## CHAPTER XV
+### CHAPTER XV
 
 **OCCULTISM IN A TEMPLE TENT**
 
@@ -5341,7 +5341,7 @@ This was Zayagan.
 
 <a id="318">**318**</a>
 
-## CHAPTER XVI
+### CHAPTER XVI
 
 **FAREWELL**
 
