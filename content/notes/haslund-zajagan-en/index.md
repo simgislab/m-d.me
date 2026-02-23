@@ -33,6 +33,8 @@ Sources:
 
 ## Book contents
 
+![cover.png](cover.png)
+
 MEN AND GODS IN MONGOLIA
 
 HENNING HASLUND
@@ -75,7 +77,7 @@ ABOUT HASLUND'S: TENTS IN MONGOLIA
 
 <a id="v"></a>
 
-pic
+![haslund-zajagan-all-photos3_1-reused.jpg](haslund-zajagan-all-photos3_1-reused.jpg "His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of all the Torguts. Commander of the Royal Vasa Order, second class. 1884–1932")
 
 <a id="vi"></a>
 
@@ -135,130 +137,130 @@ Henning Haslund-Christensen.
 
 Foreword [xiii](#xiii)
 
-|       | BOOK I                                                     | PAGE     |
-|:-----:|:-----------------------------------------------------------|---------:|
-| I     | Rumours of a Khan in the West                              |[1](#1)   |
-| II    | I become a Member of the Sven Hedin Expedition             |[9](#9)   |
-| III   | The Work Begins                                            |[17](#17) |
-| IV    | Yolros Lama                                                |[27](#27) |
-| V     | The Dance of the Gods                                      |[39](#39) |
-| VI    | The Dance of the Magicians                                 |   52 |
-| VII   | Zayagan                                                    |   64 |
-| VIII  | Suidor Disappears from the Camp                            |   72 |
-| IX    | Brief Encounter with the Advance Column                    |   83 |
-| X     | Desert Justice                                             |   89 |
-| XI    | The Oppression of the Desert                               |  101 |
-| XII   | Etsin-gol at Last                                          |  106 |
-| XIII  | Life by the River                                          |  114 |
-| XIV   | Asia’s Birds of Passage                                    |  125 |
-| XV    | Sailing on Uncharted Waters with the Chief .               |  132 |
-| XVI   | We Traverse Black Gobi                                     |  143 |
-| XVII  | A Robber’s Stronghold in the Desert                        |  150 |
-| XVIII | Prisoners                                                  |  159 |
-| XIX   | Facts and Musings about a Coin and a Woman’s Dress         |  163 |
-| XX    | New Fields of Work                                         |  175 |
-| XXI   | The Oasis beyond the Desert                                |  181 |
-| XXII  | Adventure in “The Snow Country”                            |  187 |
-| XXIII | I Become a Shaman                                          |  196 |
+|       | BOOK I                                                     | PAGE        |
+|:-----:|:-----------------------------------------------------------|------------:|
+| I     | Rumours of a Khan in the West                              | [1](#1)     |
+| II    | I become a Member of the Sven Hedin Expedition             | [9](#9)     |
+| III   | The Work Begins                                            | [17](#17)   |
+| IV    | Yolros Lama                                                | [27](#27)   |
+| V     | The Dance of the Gods                                      | [39](#39)   |
+| VI    | The Dance of the Magicians                                 | [52](#52)   |
+| VII   | Zayagan                                                    | [64](#64)   |
+| VIII  | Suidor Disappears from the Camp                            | [72](#72)   |
+| IX    | Brief Encounter with the Advance Column                    | [83](#83)   |
+| X     | Desert Justice                                             | [89](#89)   |
+| XI    | The Oppression of the Desert                               | [101](#101) |
+| XII   | Etsin-gol at Last                                          | [106](#106) |
+| XIII  | Life by the River                                          | [114](#114) |
+| XIV   | Asia’s Birds of Passage                                    | [125](#125) |
+| XV    | Sailing on Uncharted Waters with the Chief .               | [132](#132) |
+| XVI   | We Traverse Black Gobi                                     | [143](#143) |
+| XVII  | A Robber’s Stronghold in the Desert                        | [150](#150) |
+| XVIII | Prisoners                                                  | [159](#159) |
+| XIX   | Facts and Musings about a Coin and a Woman’s Dress         | [163](#163) |
+| XX    | New Fields of Work                                         | [175](#175) |
+| XXI   | The Oasis beyond the Desert                                | [181](#181) |
+| XXII  | Adventure in “The Snow Country”                            | [187](#187) |
+| XXIII | I Become a Shaman                                          | [196](#196) |
 
 <a id="x">**x**</a>
 
 CONTENTS
 
-|       | BOOK II                                                   | PAGE |
-|:-----:|:----------------------------------------------------------|-----:|
-|       | The Cavalcade of the West Mongols through the Centuries   |  203 |
-| I     | Before the Goal                                           |  217 |
-| II    | My “Air-Horse” Gallops before the Wind                    |  222 |
-| III   | I am Brought into the Presence of “The Khan in the West”  |  228 |
-| IV    | The Music of the Mongols                                  |  235 |
-| V     | The Strong Man of the Torguts                             |  240 |
-| VI    | “The Primordial Spark”                                    |  248 |
-| VII   | The Ruler’s Bodily and Spiritual Births                   |  253 |
-| VIII  | The Laws of the Steppe                                    |  260 |
-| IX    | In the Open                                               |  270 |
-| X     | Under the Smoke-hood                                      |  276 |
-| XI    | The Tent Temples of the Torguts                           |  282 |
-| XII   | Across the Mountains                                      |  287 |
-| XIII  | The Year of the “Iron Snake” comes in                     |  295 |
-| XIV   | The Origin of the Torguts                                 |  302 |
-| XV    | Occultism in a Temple Tent                                |  311 |
-| XVI   | Farewell                                                  |  318 |
-|       | What has Happened Since                                   |  325 |
-|       | Authorities                                               |  327 |
-|       | Index                                                     |  329 |
+|       | BOOK II                                                   | PAGE         |
+|:-----:|:----------------------------------------------------------|-------------:|
+|       | The Cavalcade of the West Mongols through the Centuries   |  [203](#203) |
+| I     | Before the Goal                                           |  [217](#217) |
+| II    | My “Air-Horse” Gallops before the Wind                    |  [222](#222) |
+| III   | I am Brought into the Presence of “The Khan in the West”  |  [228](#228) |
+| IV    | The Music of the Mongols                                  |  [235](#235) |
+| V     | The Strong Man of the Torguts                             |  [240](#240) |
+| VI    | “The Primordial Spark”                                    |  [248](#148) |
+| VII   | The Ruler’s Bodily and Spiritual Births                   |  [253](#253) |
+| VIII  | The Laws of the Steppe                                    |  [260](#260) |
+| IX    | In the Open                                               |  [270](#270) |
+| X     | Under the Smoke-hood                                      |  [276](#276) |
+| XI    | The Tent Temples of the Torguts                           |  [282](#282) |
+| XII   | Across the Mountains                                      |  [287](#287) |
+| XIII  | The Year of the “Iron Snake” comes in                     |  [295](#295) |
+| XIV   | The Origin of the Torguts                                 |  [302](#302) |
+| XV    | Occultism in a Temple Tent                                |  [311](#311) |
+| XVI   | Farewell                                                  |  [318](#318) |
+|       | What has Happened Since                                   |  [325](#325) |
+|       | Authorities                                               |  [327](#327) |
+|       | Index                                                     |  [329](#329) |
 
 <a id="xi">**xi**</a>
 
 ## LIST OF ILLUSTRATIONS
 
-His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of all the Torguts. Commander of the Royal Vasa Order, second class. 1884---1932. *Frontispiece*
+His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of all the Torguts. Commander of the Royal Vasa Order, second class. 1884---1932. *[Frontispiece](#v)*
 
-| Title                                                                                 | Page |
-|:--------------------------------------------------------------------------------------|-----:|
-| The grottoes of Yün Kang                                                              |    4 |
-| The grottoes of Yün Kang                                                              |    5 |
-| Yolros Lama *Photo Lieberenz*                                                         |   32 |
-| Shirup Geling with Yolros Lama’s dog. *Photo Lieberenz*                               |   32 |
-| “The Festival place lay bathed in sunlight ...” *Photo Lieberenz*                     |   40 |
-| “On the south side the monastery orchestra was stationed”                             |   48 |
-| Tsagan Oborgon, “The white old man” *Photo Hummel*                                    |   48 |
-| “One of the last to go up to Maidari was my little old woman ...”                     |   49 |
-| The twenty-four *Shanag*. *Photo Hummel*                                              |   49 |
-| Gurtum. *Photo Zimmerman*                                                             |   60 |
-| Consorts of the Chief and curious Princesses                                          |   60 |
-| Leave-taking from Lamas and Chiefs at Bater Halak Sume. *Photo Lieberenz*             |   61 |
-| The Mongolian Monastery of Baying Shandai Sume. *Photo Lieberenz*                     |   72 |
-| The Expedition’s camels assembled before the start from Hojertai-gol. *Photo Lieberenz*|  128 |
-| The genesis of “Long Snake.” *Photo Lieberenz*                                        |  129 |
-| Landing of the boat expedition after the voyage on Socho-nor. *Photo Lieberenz*       |  129 |
-| “In the red cloud of dust a dense mass of galloping horsemen.” *Photo Hempel*         |  160 |
-| Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard           |  161 |
-| Tsagechin Beile                                                                       |  161 |
-| A Mongol salutes his Chief                                                            |  168 |
-| Sart Musicians. *Photo Bergman*                                                       |  184 |
-| The Sart *aksakal* and Chinese *amban*. *Photo Bergman*                               |  184 |
-| The Däde Mongols’ *Khuruldei*. *Photo Bergman*                                        |  185 |
-| After the hunt                                                                        |  185 |
-| Seng Chen’s earthly father, Tu-yen Meng-ku khan                                       |  188 |
-| A Charklik beauty                                                                     |  188 |
+|                                                                                        | PAGE         |
+|:---------------------------------------------------------------------------------------|-------------:|
+| The grottoes of Yün Kang                                                               | [4](#4p1)    |
+| The grottoes of Yün Kang                                                               | [5](#4p1)    |
+| Yolros Lama *Photo Lieberenz*                                                          | [32](#32p1)  |
+| Shirup Geling with Yolros Lama’s dog. *Photo Lieberenz*                                | [32](#32p2)  |
+| “The Festival place lay bathed in sunlight ...” *Photo Lieberenz*                      | [40](#40p1)  |
+| “On the south side the monastery orchestra was stationed”                              | [48](#48p1)  |
+| Tsagan Oborgon, “The white old man” *Photo Hummel*                                     | [48](#48p2)  |
+| “One of the last to go up to Maidari was my little old woman ...”                      | [49](#49p1)  |
+| The twenty-four *Shanag*. *Photo Hummel*                                               | [49](#49p1)  |
+| Gurtum. *Photo Zimmerman*                                                              | [60](#60)   |
+| Consorts of the Chief and curious Princesses                                           | [60](#60)   |
+| Leave-taking from Lamas and Chiefs at Bater Halak Sume. *Photo Lieberenz*              | [61](#61)   |
+| The Mongolian Monastery of Baying Shandai Sume. *Photo Lieberenz*                      | [72](#72)   |
+| The Expedition’s camels assembled before the start from Hojertai-gol. *Photo Lieberenz*| [128](#128) |
+| The genesis of “Long Snake.” *Photo Lieberenz*                                         | [129](#129) |
+| Landing of the boat expedition after the voyage on Socho-nor. *Photo Lieberenz*        | [129](#129) |
+| “In the red cloud of dust a dense mass of galloping horsemen.” *Photo Hempel*          | [160](#160) |
+| Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard            | [161](#161) |
+| Tsagechin Beile                                                                        | [161](#161) |
+| A Mongol salutes his Chief                                                             | [168](#168) |
+| Sart Musicians. *Photo Bergman*                                                        | [184](#184) |
+| The Sart *aksakal* and Chinese *amban*. *Photo Bergman*                                | [184](#184) |
+| The Däde Mongols’ *Khuruldei*. *Photo Bergman*                                         | [185](#185) |
+| After the hunt                                                                         | [185](#185) |
+| Seng Chen’s earthly father, Tu-yen Meng-ku khan                                        | [188](#188) |
+| A Charklik beauty                                                                      | [188](#188) |
 
 <a id="xii">**xii**</a>
 
 LIST OF ILLUSTRATIONS
 
-| Title                                                                             | Page |
-|:----------------------------------------------------------------------------------|-----:|
-| “Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven.” *Photo Bergman*                                                 |  192 |
-| Camel transport across the river. *Photo Bergman*                                 |  193 |
-| Torgut soldier                                                                    |  193 |
-| ”Arselan Consul”                                                                  |  224 |
-| Mongrolda Noyen                                                                   |  224 |
-| ”The red Standard”                                                                |  225 |
-| Shiri, who “commanded the gliding, soaring and falling of the notes like a proud eagle on the wing”                                                                               |  240 |
-| Torgut married women                                                              |  240 |
-| The Torgut Regent’s *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders            |  241 |
-| Baldan *gusdä*, the Regent, Lodong chanse, Lyrup chanse                           |  244 |
-| Torgut Cavalry Acrobatics. *Photo Hempel*                                         |  245 |
-| Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                 |  248 |
-| Young Torguts. *Photo Ambolt*                                                     |  249 |
-| Inhabitants of Temerlik. *Photo Bergman*                                          |  252 |
-| Torgut camp. *Photo Ambolt*                                                       |  252 |
-| Torgut Chiefs (*merin* and *gusdä*)                                               |  253 |
-| Dambin Jansang the adventurer who revived the savagery of ancient times on the steppes.|  253 |
-| The Dongtse Monastery in Tibet, Seng Chen’s spiritual home. *Photo F. Ludlow*     |  256 |
-| Painting of Obish Khan                                                            |  257 |
-| Tibetan High Lama. *Photo Hummel*                                                 |  257 |
-| Fresco in the Dongtse Monastery representing Seng Chen’s spiritual father, the Tiger god’s fourth reincarnation. *Photo F. Ludlow* |  280 |
-| Torgut Temple Tent. From Pallas’ “*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*” St. Petersburg, 1776 |  281 |
-| The author with Lamaistic philosophers                                            |  304 |
-| “Baredo soldep” (Tibetan prayer)                                                  |  312 |
-| Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*         |  320 |
-| Interior of *gegen-ni-ordo* on its erection at Urumchi                            |  320 |
-| The three thrones in the Khan's Tent of the Torguts                               |  320 |
-| “Tsagachin Beile often appeared in an ill-fitting Russian costume”                |  320 |
-| Baldan *gusdä*                                                                    |  321 |
-| Map                                                                               |  328 |
+|                                                                                   | PAGE         |
+|:----------------------------------------------------------------------------------|-------------:|
+| “Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven.” *Photo Bergman*                                                                            |  [192](#) |
+| Camel transport across the river. *Photo Bergman*                                 |  [193](#193) |
+| Torgut soldier                                                                    |  [193](#193) |
+| ”Arselan Consul”                                                                  |  [224](#224) |
+| Mongrolda Noyen                                                                   |  [224](#224) |
+| ”The red Standard”                                                                |  [225](#225) |
+| Shiri, who “commanded the gliding, soaring and falling of the notes like a proud eagle on the wing”                                                                               |  [240](#240) |
+| Torgut married women                                                              |  [240](#240) |
+| The Torgut Regent’s *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders            |  [241](#241) |
+| Baldan *gusdä*, the Regent, Lodong chanse, Lyrup chanse                           |  [244](#244) |
+| Torgut Cavalry Acrobatics. *Photo Hempel*                                         |  [245](#245) |
+| Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                 |  [248](#248) |
+| Young Torguts. *Photo Ambolt*                                                     |  [249](#249) |
+| Inhabitants of Temerlik. *Photo Bergman*                                          |  [252](#252) |
+| Torgut camp. *Photo Ambolt*                                                       |  [252](#252) |
+| Torgut Chiefs (*merin* and *gusdä*)                                               |  [253](#253) |
+| Dambin Jansang the adventurer who revived the savagery of ancient times on the steppes.|  [253](#253) |
+| The Dongtse Monastery in Tibet, Seng Chen’s spiritual home. *Photo F. Ludlow*     |  [256](#256) |
+| Painting of Obish Khan                                                            |  [257](#256) |
+| Tibetan High Lama. *Photo Hummel*                                                 |  [257](#257) |
+| Fresco in the Dongtse Monastery representing Seng Chen’s spiritual father, the Tiger god’s fourth reincarnation. *Photo F. Ludlow* |  [280](#280) |
+| Torgut Temple Tent. From Pallas’ “*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*” St. Petersburg, 1776 |  [281](#281) |
+| The author with Lamaistic philosophers                                            |  [304](#304) |
+| “Baredo soldep” (Tibetan prayer)                                                  |  [312](#312) |
+| Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*         |  [320](#320) |
+| Interior of *gegen-ni-ordo* on its erection at Urumchi                            |  [320](#320) |
+| The three thrones in the Khan's Tent of the Torguts                               |  [320](#320) |
+| “Tsagachin Beile often appeared in an ill-fitting Russian costume”                |  [320](#320) |
+| Baldan *gusdä*                                                                    |  [321](#321) |
+| Map                                                                               |  [328](#328) |
 
 <a id="xiii">**xiii**</a>
 
@@ -288,9 +290,13 @@ I wish to emphasize that the European's way of thinking and attitude to life lie
 
 He has not only learnt to love the mountains and the steppes, the vast expanses, the clouds and the brilliant stars of Central Asia, but which is far more important --- he has understood what guiding stars they are that the artless, freedom-loving sons of the wilderness follow, eager to learn, ready to listen to tidings from the outer world.
 
+![princess1.png](princess1.png)
+
 *Princess of Torgut.*
 
 Eren Khabirga.
+
+![princess2.png](princess2.png)
 
 <a id="xv">**xv**</a>
 
@@ -383,9 +389,8 @@ At the time when these grottoes were hewn out and embellished with innumerable i
 
 Now these hidden caves are almost forgotten. The chisels and hammers of those countless slaves have been quiet for fifteen hundred years, but Amitabha Buddha and his celestial kin still gaze out from the sandstone cliffs. Prisoners of war were brought thither from far- off lands of Western civilization, new generations of slaves were born in captivity, and all of them died in
 
-pic
-
-pic
+<a id="4p1"></a>
+![haslund-zajagan-all-photos_01-reused.jpg](haslund-zajagan-all-photos_01-reused.jpg "The grottoes of Yün Kang")
 
 <a id="5">**5 IN THE WEST**</a>
 
@@ -672,6 +677,8 @@ glittered on his silver-mounted knives, and the wind tore at the long ends of hi
 
 He rode up to a nomad family proceeding at a foot pace and then made his horse show its best paces. The hoof-beats sounded like a roll of drums and he himself swung out of the saddle with swaggering audacity and elegance. In the centre of the group rode a marriageable and desirable young girl, and to her he made his fiery declaration of love.
 
+![notes_p25.png](notes_p25.png)
+
 "Look at my horse. Its head and ears vie with one another.
 
 Look at my saddle. It is heavy with silver mounting.
@@ -764,9 +771,9 @@ The view to the north was entirely dominated by the monastery with its dazzling 
 
 The monastery was terraced within a hollow in the southern slope of the ridge that bounds the outlook to northward and was so constructed that all the temples and all the holy images inside the sanctuary faced southwest towards Lhassa, the holy city of Lamaism. Every temple was surrounded by a spacious walled courtyard and all the lesser temples lay gathered round the main temple whose double roof overtopped the pinnacles of even those temples lying highest on the slope.
 
-The view across the cloister city was enchanting. Its background was the vast green ridge which carried seven pagoda-formed *soboroks*^*[^1^](#sdfootnote1sym)*^ on its crest. And underneath, the shining golden roofs of the temple buildings hung like flounces one beneath the other. The sinuous line of each roof stood out against the upper third part of the white walls of the temple next behind it. Everywhere the eye was captivated by minarets and pinnacles, sym-
+The view across the cloister city was enchanting. Its background was the vast green ridge which carried seven pagoda-formed *soboroks*(1) on its crest. And underneath, the shining golden roofs of the temple buildings hung like flounces one beneath the other. The sinuous line of each roof stood out against the upper third part of the white walls of the temple next behind it. Everywhere the eye was captivated by minarets and pinnacles, sym-
 
-[1](#sdfootnote1anc) *Soborok* (Tibetan *chorten*)*---*a pagoda-like building in which the relics *of* a deceased *hutuktu* or high lama are preserved. The form of the *soborok* symbolizes the five elements into which the body is dissolved after death.
+1 *Soborok* (Tibetan *chorten*)*---*a pagoda-like building in which the relics *of* a deceased *hutuktu* or high lama are preserved. The form of the *soborok* symbolizes the five elements into which the body is dissolved after death.
 
 <a id="32">**32 YOLROS LAMA**</a>
 
@@ -782,9 +789,13 @@ How could we strangers make the monks realize that our minds were free from scor
 
 After a pretty fruitless conference back in the tent, we set to work on our other task, that of taking anthropo-
 
-pic
+<a id="32p1">
 
-pic
+![haslund-zajagan-all-photos_02_1_g-reused.jpg](haslund-zajagan-all-photos_02_1_g-reused.jpg "Yolros Lama. Photo Lieberenz")
+
+<a id="32p2">
+
+![haslund-zajagan-all-photos_02_2_g-reused.jpg](haslund-zajagan-all-photos_02_2_g-reused.jpg "Shirup Geling with Yolros Lama’s dog. Photo Lieberenz")
 
 <a id="33">**33 YOLROS LAMA**</a>
 
@@ -906,7 +917,9 @@ It was the ruler of the country and the people, come to make humble obeisance be
 
 Long-drawn muted notes from gigantic Tibetan bassoons followed by the booming of gongs announced that the festival was about to begin in the court of the chief temple. The participants hurriedly turned away from Yolros Lama's domain and slowly followed the pilgrim throng.
 
-pic
+<a id="40p1"></a>
+
+![haslund-zajagan-all-photos_03_2-reused.jpg](haslund-zajagan-all-photos_03_2-reused.jpg "“The Festival place lay bathed in sunlight . . .” Photo Lieberenz")
 
 <a id="41">**41 THE DANCE OF THE GODS**</a>
 
@@ -1020,13 +1033,21 @@ A couple of raven masks tried to approach the demolished sacrifice, but were at 
 
 The exorcizing ceremony of the *Tsam* dance was at an end.
 
-pic
+<a id="48p1"></a>
 
-pic
+![haslund-zajagan-all-photos_04_2-reused.jpg](haslund-zajagan-all-photos_04_2-reused.jpg "“On the south side the monastery orchestra was stationed”")
 
-pic
+<a id="48p2"></a>
 
-pic
+![haslund-zajagan-all-photos_04_3-reused.jpg](haslund-zajagan-all-photos_04_3-reused.jpg "Tsagan Oborgon, "The white old man" *Photo Hummel*")
+
+<a id="49p1"></a>
+
+![haslund-zajagan-all-photos_04_5-reused.jpg](haslund-zajagan-all-photos_04_5-reused.jpg "“One of the last to go up to Maidari was my little old woman . . .”")
+
+<a id="49p2"></a>
+
+![haslund-zajagan-all-photos3_2_3-reused.jpg](haslund-zajagan-all-photos3_2_3-reused.jpg "The twenty-four *Shanag*. *Photo Hummel*")
 
 <a id="49">**49 THE DANCE OF THE GODS**</a>
 
