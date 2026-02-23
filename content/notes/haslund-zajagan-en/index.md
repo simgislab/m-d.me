@@ -339,9 +339,7 @@ MEN AND GODS IN MONGOLIA
 
 **RUMOURS OF A KHAN IN THE WEST**
 
-THE Mongols' twelfth month is bitterly cold. The snowstorms sweep across the Grass Country, and man and beast grow dispirited and full of
-
-longing for the spring.
+THE Mongols' twelfth month is bitterly cold. The snowstorms sweep across the Grass Country, and man and beast grow dispirited and full of longing for the spring.
 
 But spring was far away, and I accordingly left for the nearest outpost of civilization, Ta-t'ung Fu, the ancient city of the Shansi Chinese.
 
@@ -1883,7 +1881,7 @@ But the music of strings and minstrels' song kept all thoughts of sand and heavy
 
 I set the record going. The prelude sounded like a summons, and its notes invited silence. Then suspense was resolved by a powerful male voice singing. And the words were attuned to the longing of our hearts; they spoke of that which fills the minds of journeying men---the more persistently the further the journey goes.
 
-> " . . . keep right on to the end of the road. If the way be long, Let your heart be strong . . ."
+> " ... keep right on to the end of the road. If the way be long, Let your heart be strong ..."
 
 I saw with joy how the melody captivated. Eyes gleamed with rapture in response to the unseen singer's voice which rang out like a challenge from the boundless expanses, like a cheery greeting from something loved and longed for, like a stirring bugle-call to action.
 
@@ -7244,4 +7242,4 @@ Yün Kang, sculptured caves of, [4](#4),---origin, [4](#4),---style of, [5](#5);
 
 ## Discussion
 
-[**Questions or comments?**](https://t.me/answer42geo/153)
+[**Questions or comments?**](https://t.me/answer42geo/176)
