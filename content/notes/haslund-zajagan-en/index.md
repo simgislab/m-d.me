@@ -3322,7 +3322,7 @@ I was met in Urumchi by tragic news. Old Governor Yang, the friend and supporter
 
 ## BOOK II
 
-"Perhaps we are people who do not know much; but all that is simple and natural, that we know and fully understand ..."
+> "Perhaps we are people who do not know much; but all that is simple and natural, that we know and fully understand ..."
 
 *From a Mongol's letter.*
 
@@ -3518,7 +3518,7 @@ Observations among the surviving descendants of these people give a depressing i
 
 The Danish physician and explorer, Hans S. Kaarsberg, who visited the Kalmuck steppes by the Volga in 1891, writes as follows:
 
-The race is looked down upon, but if the Kalmucks had not in past times helped the Russians the latter would hardly be what they now are in the Caucasus. The Kalmucks are Russian subjects, judged according to Russian law and are compelled to do military service in the Tsar's army. . . . The horse was once the Kalmucks' wealth, but that time is now past. ... In past days a well-to-do Kalmuck owned a hundred horses, a rich one a thousand. One Kalmuck owned three thousand horses sixteen years ago; now he has none at all. . . .
+> The race is looked down upon, but if the Kalmucks had not in past times helped the Russians the latter would hardly be what they now are in the Caucasus. The Kalmucks are Russian subjects, judged according to Russian law and are compelled to do military service in the Tsar's army. . . . The horse was once the Kalmucks' wealth, but that time is now past. ... In past days a well-to-do Kalmuck owned a hundred horses, a rich one a thousand. One Kalmuck owned three thousand horses sixteen years ago; now he has none at all. . . .
 
 Kaarsberg saw in the Volga Kalmucks a dying people, by nature friendly, helpful and good humoured, but sodden with disease and vice. They have accepted civilization's evil gifts of alcohol and syphilis without having been able to make such use of its good ones as might have prevented a destructive degeneration. He estimated their number as ten thousand in all.
 
@@ -3640,15 +3640,15 @@ There, a bare yard away from me, were breathing the descendants of the great chi
 
 ![notes_p222.png](notes_p222.png)
 
-High among the snow-clad peaks of the mountains stands a tent.
-
-It is white as the sun-white peaks, and from its entrance Lobson Chanab gazes along the southern horizon.
-
-His stallion is white and swifter than the arrow, and upon it he overtakes the wild deer.
-
-The eagle on his strong wings hunts the wild swan, but Lobson Chanab is swifter than the strongest eagle.
-
-Many have been envious of Lobson Chanab, but in battle they learned Greatest of all is the black eagle Lobson Chanab.
+> High among the snow-clad peaks of the mountains stands a tent.
+>
+> It is white as the sun-white peaks, and from its entrance Lobson Chanab gazes along the southern horizon.
+>
+> His stallion is white and swifter than the arrow, and upon it he overtakes the wild deer.
+>
+> The eagle on his strong wings hunts the wild swan, but Lobson Chanab is swifter than the strongest eagle.
+>
+> Many have been envious of Lobson Chanab, but in battle they learned Greatest of all is the black eagle Lobson Chanab.
 
 <a id="223">**223 BEFORE THE GOAL**</a>
 
@@ -4396,25 +4396,25 @@ Jenghiz Khan exalted a man according to the measure of his services, and everyon
 
 But many of Jenghiz Khan's maxims hold good upon the steppes to this day.
 
-Jenghiz Khan said: "None shall ever defile water or fire, but neither shall any ever make distinction between clean and unclean, but shall learn that all things are clean."
-
-He ordained: "All religions are to be respected and none
+> Jenghiz Khan said: "None shall ever defile water or fire, but neither shall any ever make distinction between clean and unclean, but shall learn that all things are clean."
+>
+> He ordained: "All religions are to be respected and none
 
 <a id="266">**266 THE LAWS OF THE STEPPE**</a>
 
-preferred before the others, for thereby one pleases The Great God."
-
-He said: "When a traveller passes people who are eating he shall have the right to unsaddle and eat with them without asking leave, and none shall hinder him."
-
-He bade them show respect to the old and to beggars.
-
-He decreed: "Children born without wedlock shall be regarded as true children and receive their share of the inheritance with their father's other children."
-
-He said: "The man who can govern his tent can also govern many tents; he who can lead ten men well can be entrusted with a great army, and he will lead them well also."
-
-He said also: "As a guest among friendly people a man shall be as a calf, little and tractable, but in time of war he must be like a hungry falcon on the hunt; he must go into battle shouting savagely."
-
-He said also: "If a man cannot possibly abstain from drinking, let him get drunk three times in a month; if he gets drunk more than three times in thirty days he does wrongly; if he gets drunk twice in a month it is better, and if he only gets drunk once in a month it is better still; and if a man never gets drunk it is best of all. But where is such a man to be found? "
+> preferred before the others, for thereby one pleases The Great God."
+>
+> He said: "When a traveller passes people who are eating he shall have the right to unsaddle and eat with them without asking leave, and none shall hinder him."
+>
+> He bade them show respect to the old and to beggars.
+>
+> He decreed: "Children born without wedlock shall be regarded as true children and receive their share of the inheritance with their father's other children."
+>
+> He said: "The man who can govern his tent can also govern many tents; he who can lead ten men well can be entrusted with a great army, and he will lead them well also."
+>
+> He said also: "As a guest among friendly people a man shall be as a calf, little and tractable, but in time of war he must be like a hungry falcon on the hunt; he must go into battle shouting savagely."
+>
+> He said also: "If a man cannot possibly abstain from drinking, let him get drunk three times in a month; if he gets drunk more than three times in thirty days he does wrongly; if he gets drunk twice in a month it is better, and if he only gets drunk once in a month it is better still; and if a man never gets drunk it is best of all. But where is such a man to be found? "
 
 Whereas *Yassa* ordains tolerance towards those of other faiths as pleasing to the one Almighty God, the code of 1640 proclaims Lamaism as the only true doctrine and renders the adherents of Shamanism punishable.
 
@@ -4428,19 +4428,19 @@ The law of 1640 exchanges many of the death sentences ordained in *Yassa* for fi
 
 The Mongolian woman has long been under the protection of the law, and even before the code of 1640 it was a punishable offence to "tear the hair from a woman's head or the tassel from her cap." *Tsächin Bichik* shows great respect for the woman; as mistress of the tent she is inviolable and he who insults her brings the vengeance of the law upon his head.
 
-When the mistress of the tent takes up the place proper to her alone, to the right of the entrance, between the hearth and her lord's sleeping place, no one may touch her, but she may unhindered revile the stranger, yes, even throw wood and other objects at him. But if the woman's wrath should drive her from her place in the tent or should she step outside her tent, she loses her privileged position and may be punished for her outrages.
+> When the mistress of the tent takes up the place proper to her alone, to the right of the entrance, between the hearth and her lord's sleeping place, no one may touch her, but she may unhindered revile the stranger, yes, even throw wood and other objects at him. But if the woman's wrath should drive her from her place in the tent or should she step outside her tent, she loses her privileged position and may be punished for her outrages.
 
 Another clause in the law of 1640 says:
 
-If a woman go to her chief to beg grace for offences committed by herself or any member of her family, her request shall be granted and the punishment mitigated in consideration of her sex.
+> If a woman go to her chief to beg grace for offences committed by herself or any member of her family, her request shall be granted and the punishment mitigated in consideration of her sex.
 
 The fines laid down in *Tsächin Bichik* for certain kinds of theft give an idea of the war equipment of the West Mongols at that time.
 
-for the theft of cuirass, armour or a good bow with ten arrows in the quiver shall be fined thrice nine head of cattle.
-
-for the theft of helm, cap, a good sword or a middling bow with quiver shall be fined nine head of cattle.
-
-for theft of a good lance shall be fined three head of cattle, for a poor one, one horse, for a good crossbow with quiver and ten arrows twenty seven head of cattle.
+> for the theft of cuirass, armour or a good bow with ten arrows in the quiver shall be fined thrice nine head of cattle.
+>
+> for the theft of helm, cap, a good sword or a middling bow with quiver shall be fined nine head of cattle.
+>
+> for theft of a good lance shall be fined three head of cattle, for a poor one, one horse, for a good crossbow with quiver and ten arrows twenty seven head of cattle.
 
 When the Manchu Emperor Ch'ien Lung conquered the Dzungars he promulgated new laws for the population of the conquered territory, "the first ordinance of the Chinese Colonial Ministry", which came into force probably in 1789. These ordinances were to a large
 
@@ -4574,8 +4574,8 @@ The notes from the valley floated like light and graceful birds' wings when Shir
 
 ![notes_p275.png](notes_p275.png)
 
-"Our labour is not hard but light
-because our work is our delight."
+> "Our labour is not hard but light
+> because our work is our delight."
 
 It sounded like a hymn to industry and the joy of work.
 
@@ -4781,35 +4781,35 @@ A letter to the Torgut Regent was composed in English and Mongolian, signed by D
 
 <a id="288">**288 ACROSS THE MOUNTAINS**</a>
 
-His Holiness Seng CHEN Doryechan,
-
-He who holds the Signet of the Torgut Khanate,
-
-Öreget, Khara Shar.
-
-Arselan Noyen, subject of Christian, Khan of Denmark who is a brother to Gustaf, Khan over the Swedes, has made me aware of all the kindness and help that has fallen to his lot from Your Holiness during his sojourn in Your palace.
-
-On behalf of my Khan and my people I desire to express my deeply felt gratitude to You and my hope that the friendly relations which have been established may continue and be improved in the future.
-
-I desire also to thank Your Holiness for the invitation to Arselan Noyen again to visit your city.
-
-With us in Sweden a Mongolian tribe, the Lapps, has settled. Many years ago they left their original home in Mongolia and now live in friendly understanding with our people, under the protection of our Khan.
-
-Just as six hundred years ago when the two great Mongol Khans, Jenghiz and Kublai, sent their ambassadors to distant foreign lands and invited people from those lands to their court to see and study foreign manners and customs, so have I and my expedition come here by desire of my Khan and my countrymen.
-
-In Sweden many different religions are represented, but hitherto no lamaistic temple has been erected there. There is a strong desire in my Khan and my countrymen to see and learn how the Mongols worship Burkhan Bash and the other gods whom Your Holiness represents.
-
-I send Arselan Noyen to Your Holiness with my cordial greetings and pray Your Holiness to support him with counsel and help in this his task so important to my expedition.
-
-I can assure Your Holiness that all religious objects and symbols that are carried to our country will be regarded as such and treated with the greatest respect and reverence.
-
-I hope that we may soon meet so that I may be able personally to thank Your Holiness for Your friendship and hospitality shown to Arselan Noyen.
-
-I take this occasion to assure Your Holiness of my deepest respect and esteem.
-
-Sven Hedin,
-
-*Seal.*
+> His Holiness Seng CHEN Doryechan,
+>
+> He who holds the Signet of the Torgut Khanate,
+>
+> Öreget, Khara Shar.
+>
+> Arselan Noyen, subject of Christian, Khan of Denmark who is a brother to Gustaf, Khan over the Swedes, has made me aware of all the kindness and help that has fallen to his lot from Your Holiness during his sojourn in Your palace.
+>
+> On behalf of my Khan and my people I desire to express my deeply felt gratitude to You and my hope that the friendly relations which have been established may continue and be improved in the future.
+>
+> I desire also to thank Your Holiness for the invitation to Arselan Noyen again to visit your city.
+>
+> With us in Sweden a Mongolian tribe, the Lapps, has settled. Many years ago they left their original home in Mongolia and now live in friendly understanding with our people, under the protection of our Khan.
+>
+> Just as six hundred years ago when the two great Mongol Khans, Jenghiz and Kublai, sent their ambassadors to distant foreign lands and invited people from those lands to their court to see and study foreign manners and customs, so have I and my expedition come here by desire of my Khan and my countrymen.
+>
+> In Sweden many different religions are represented, but hitherto no lamaistic temple has been erected there. There is a strong desire in my Khan and my countrymen to see and learn how the Mongols worship Burkhan Bash and the other gods whom Your Holiness represents.
+>
+> I send Arselan Noyen to Your Holiness with my cordial greetings and pray Your Holiness to support him with counsel and help in this his task so important to my expedition.
+>
+> I can assure Your Holiness that all religious objects and symbols that are carried to our country will be regarded as such and treated with the greatest respect and reverence.
+>
+> I hope that we may soon meet so that I may be able personally to thank Your Holiness for Your friendship and hospitality shown to Arselan Noyen.
+>
+> I take this occasion to assure Your Holiness of my deepest respect and esteem.
+>
+> Sven Hedin,
+>
+> *Seal.*
 
 In the baggage for my new expedition to Öreget I was further to take a photograph of Sven Hedin's meeting with Panchen Bogdo in Peking, taken before the expedition's
 
@@ -5101,67 +5101,67 @@ We read of the remote ancestor of the Torgut Khan dynasty who had migrated north
 
 The introduction in *Toregut rarelro* to the account of the reigning dynasty from Geril Dare Khan to the sons of Shykyr Daichin, between whom the Torgut horde was apportioned in the still existing tribal divisions, reads as follows:
 
-TOREGUT RARELRO
-
-*Om, sain amorolan boltora* (O that fortune may continue)
-
-Inspired by the life of the three worlds and Lama nome'en Khan Bogdo Tson Khapa I insignificantly meditate and acquire strength to write this book which contains the family tree of the *khochin* (old) and *shene* (new) Torguts' Khan noyen.
-
-In Enet-keghien oron-etse (India) was born Geril Dare Khan (Khan of supreme radiance). He later travelled to Sinanfu(1) where Khara kitad lived.
-
-There "he captured" the golden signet and became Khan. Before that happened Khara kitad had had no Khan or *noyen*. For many many years after Khara kitad was ruled by his descendants and one of these bore the name of Naren Khan (The Sun Khan).
-
-Naren Khan had thirty sons, and the eldest became Tangman Khan who also had many sons, and one of these was On-Tas.
-
-On-Tas had contentions at home and left his homeland with nine followers. After long journeying On-Tas came with his following to his mother's elder brother Gramin Khan who ruled in Mörindäva.
-
-Gramin Khan gave On-Tas many people to rule.
-
-On-Tas dwelt there for many years, after which he determined to travel out among the Mongols and came to Jenghiz Khan.
-
-Jenghiz Khan gave On-Tas his daughter and many people to rule, and On-Tas took up his abode in Böge Mörin.
+> TOREGUT RARELRO
+>
+> *Om, sain amorolan boltora* (O that fortune may continue)
+>
+> Inspired by the life of the three worlds and Lama nome'en Khan Bogdo Tson Khapa I insignificantly meditate and acquire strength to write this book which contains the family tree of the *khochin* (old) and *shene* (new) Torguts' Khan noyen.
+>
+> In Enet-keghien oron-etse (India) was born Geril Dare Khan (Khan of supreme radiance). He later travelled to Sinanfu(1) where Khara kitad lived.
+>
+> There "he captured" the golden signet and became Khan. Before that happened Khara kitad had had no Khan or *noyen*. For many many years after Khara kitad was ruled by his descendants and one of these bore the name of Naren Khan (The Sun Khan).
+>
+> Naren Khan had thirty sons, and the eldest became Tangman Khan who also had many sons, and one of these was On-Tas.
+>
+> On-Tas had contentions at home and left his homeland with nine followers. After long journeying On-Tas came with his following to his mother's elder brother Gramin Khan who ruled in Mörindäva.
+>
+> Gramin Khan gave On-Tas many people to rule.
+>
+> On-Tas dwelt there for many years, after which he determined to travel out among the Mongols and came to Jenghiz Khan.
+>
+> Jenghiz Khan gave On-Tas his daughter and many people to rule, and On-Tas took up his abode in Böge Mörin.
 
 > 1 Sinanfu---probably means Sianfu.
 
 <a id="307">**307 ORIGIN OF THE TORGUTS"**</a>
 
-Three generations of On-Tas ruled there, and the fourth descendant was Kibving Noyen.
-
-Kibving Noyen sent Tushure with five others of his men to the Öret Khanate to see whether it was good land.
-
-When Toro Taiji Khan of Öret saw Kibving Noyen's six messengers he burst out: "*Ö**nge, biye sahan tanar yun iche turelluk biyetai sahan olos bie*" (What tall and stately men you are).
-
-From the word *turelluk* (tall, stately) came later the word *toregut.*
-
-Toro Taiji gave his daughter to Kibving and two hundred and fifty tents for him to rule over.
-
-The two hundred and fifty later became many, and Durebet Öret (the four Öret) later became one.
-
-The family tree of the Khans from Geril Dare is not written here but is among the archives of Khara kitad.
-
-Geril Dare Khan was very mighty and pious, and his descendants reign to this day.
-
-Kibving Noyen became Wang Khan.
-
-His eldest son was Boro Örölok Khan, and his son was Shykyr Daichin who had many sons.
-
-The eldest was Toregut Khan, and the rest were Khobok Sairi Chin Wang, Taburn Notog (Khara Ossun) Jy Wang.
-
-Döoner Beile
-
-Taburn Notog Beise.
-
-Döoner Gyn.
-
-Khobok Sairi Taiji, two.
-
-Döoner Taiji.
-
-Etsini Beile.
-
-Wang Khan's fifth son Losang became Jingin Beile and his son Oskhon Chabchin became Altai Jy Wang.
-
-One of Oskhon Chabchin's sons became Altai Beise.
+> Three generations of On-Tas ruled there, and the fourth descendant was Kibving Noyen.
+>
+> Kibving Noyen sent Tushure with five others of his men to the Öret Khanate to see whether it was good land.
+>
+> When Toro Taiji Khan of Öret saw Kibving Noyen's six messengers he burst out: "*Ö**nge, biye sahan tanar yun iche turelluk biyetai sahan olos bie*" (What tall and stately men you are).
+>
+> From the word *turelluk* (tall, stately) came later the word *toregut.*
+>
+> Toro Taiji gave his daughter to Kibving and two hundred and fifty tents for him to rule over.
+>
+> The two hundred and fifty later became many, and Durebet Öret (the four Öret) later became one.
+>
+> The family tree of the Khans from Geril Dare is not written here but is among the archives of Khara kitad.
+>
+> Geril Dare Khan was very mighty and pious, and his descendants reign to this day.
+>
+> Kibving Noyen became Wang Khan.
+>
+> His eldest son was Boro Örölok Khan, and his son was Shykyr Daichin who had many sons.
+>
+> The eldest was Toregut Khan, and the rest were Khobok Sairi Chin Wang, Taburn Notog (Khara Ossun) Jy Wang.
+>
+> Döoner Beile
+>
+> Taburn Notog Beise.
+>
+> Döoner Gyn.
+>
+> Khobok Sairi Taiji, two.
+>
+> Döoner Taiji.
+>
+> Etsini Beile.
+>
+> Wang Khan's fifth son Losang became Jingin Beile and his son Oskhon Chabchin became Altai Jy Wang.
+>
+> One of Oskhon Chabchin's sons became Altai Beise.
 
 Among the ancient manuscripts in the locked pavilion there was also a short bamboo tube in the hollow of which was a rolled-up document in Chinese and Mongolian text. It contains the Manchu Emperor's invitation to the Torguts by the Volga to return to their ancestral steppes in Dzungaria. It was the actual secret document which was sent by the Emperor K'ang Hsi in 1714 with a mission from Peking to the steppes by the Volga, the mission which the Caroline J. Chr. Schnitscher accompanied from Tomsk to Ayuk Khan's camp at Saratov.
 
