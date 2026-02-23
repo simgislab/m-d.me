@@ -773,7 +773,7 @@ The monastery was terraced within a hollow in the southern slope of the ridge th
 
 The view across the cloister city was enchanting. Its background was the vast green ridge which carried seven pagoda-formed *soboroks*(1) on its crest. And underneath, the shining golden roofs of the temple buildings hung like flounces one beneath the other. The sinuous line of each roof stood out against the upper third part of the white walls of the temple next behind it. Everywhere the eye was captivated by minarets and pinnacles, sym-
 
-    1 *Soborok* (Tibetan *chorten*)---a pagoda-like building in which the relics *of* a deceased *hutuktu* or high lama are preserved. The form of the *soborok* symbolizes the five elements into which the body is dissolved after death.
+> 1 *Soborok* (Tibetan *chorten*)---a pagoda-like building in which the relics *of* a deceased *hutuktu* or high lama are preserved. The form of the *soborok* symbolizes the five elements into which the body is dissolved after death.
 
 <a id="32">**32 YOLROS LAMA**</a>
 
