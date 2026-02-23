@@ -1039,7 +1039,7 @@ The exorcizing ceremony of the *Tsam* dance was at an end.
 
 <a id="48p2"></a>
 
-![haslund-zajagan-all-photos_04_3-reused.jpg](haslund-zajagan-all-photos_04_3-reused.jpg "Tsagan Oborgon, "The white old man" *Photo Hummel*")
+![haslund-zajagan-all-photos_04_3-reused.jpg](haslund-zajagan-all-photos_04_3-reused.jpg "Tsagan Oborgon, “The white old man” *Photo Hummel*")
 
 <a id="49p1"></a>
 
