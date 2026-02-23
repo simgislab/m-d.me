@@ -41,7 +41,7 @@ HENNING HASLUND
 
 <a id="ii"></a>
 
-**PARACON BOOK CALLERY. LTD.**
+PARAGON BOOK CALLERY. LTD.
 
 "The Oriental Book Store of America"
 
