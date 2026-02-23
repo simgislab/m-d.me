@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Introduction
 
-This is a complete text version of 1935 English edition of Henning Haslund-Christensen's book: "Zajagan". Original PDF was OCRed and edited.
+This is a complete text version of 1935 English edition of Henning Haslund-Christensen's book: "Zajagan". Original PDF was OCRed and edited, some additional improvements were made (see List of changes below).
 
 Full citation:
 
@@ -28,7 +28,7 @@ Sources:
 
 * Better quality illustrations are inserted from Danish 1947 edition. [Full list](/notes/haslund-zajagan-photos/) of images from both 1935 and 1947 editions.
 * Clickable [Contents](#ix).
-* Clickable [list of illustrations](#xi).
+* Clickable [List of illustrations](#xi).
 * Clickable [Index](#332).
 
 ## Book contents
@@ -196,17 +196,17 @@ CONTENTS
 
 His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of all the Torguts. Commander of the Royal Vasa Order, second class. 1884---1932. *[Frontispiece](#v)*
 
-|                                                                                        | PAGE         |
-|:---------------------------------------------------------------------------------------|-------------:|
-| The grottoes of Yün Kang                                                               | [4](#4p1)    |
-| The grottoes of Yün Kang                                                               | [5](#4p1)    |
-| Yolros Lama *Photo Lieberenz*                                                          | [32](#32p1)  |
-| Shirup Geling with Yolros Lama’s dog. *Photo Lieberenz*                                | [32](#32p2)  |
-| “The Festival place lay bathed in sunlight ...” *Photo Lieberenz*                      | [40](#40p1)  |
-| “On the south side the monastery orchestra was stationed”                              | [48](#48p1)  |
-| Tsagan Oborgon, “The white old man” *Photo Hummel*                                     | [48](#48p2)  |
-| “One of the last to go up to Maidari was my little old woman ...”                      | [49](#49p1)  |
-| The twenty-four *Shanag*. *Photo Hummel*                                               | [49](#49p2)  |
+|                                                                                        | PAGE          |
+|:---------------------------------------------------------------------------------------|--------------:|
+| The grottoes of Yün Kang                                                               | [4](#4p1)     |
+| The grottoes of Yün Kang                                                               | [5](#4p1)     |
+| Yolros Lama *Photo Lieberenz*                                                          | [32](#32p1)   |
+| Shirup Geling with Yolros Lama’s dog. *Photo Lieberenz*                                | [32](#32p2)   |
+| “The Festival place lay bathed in sunlight ...” *Photo Lieberenz*                      | [40](#40p1)   |
+| “On the south side the monastery orchestra was stationed”                              | [48](#48p1)   |
+| Tsagan Oborgon, “The white old man” *Photo Hummel*                                     | [48](#48p2)   |
+| “One of the last to go up to Maidari was my little old woman ...”                      | [49](#49p1)   |
+| The twenty-four *Shanag*. *Photo Hummel*                                               | [49](#49p2)   |
 | Gurtum. *Photo Zimmerman*                                                              | [60](#60p1)   |
 | Consorts of the Chief and curious Princesses                                           | [60](#60p2)   |
 | Leave-taking from Lamas and Chiefs at Bater Halak Sume. *Photo Lieberenz*              | [61](#61p1)   |
@@ -255,7 +255,7 @@ LIST OF ILLUSTRATIONS
 | Torgut Temple Tent. From Pallas’ “*Sammlungen historischer Nachrichten über die mongolischen Völkerschaften*” St. Petersburg, 1776 |  [281](#281p1) |
 | The author with Lamaistic philosophers                                            |  [304](#304p1) |
 | “Baredo soldep” (Tibetan prayer)                                                  |  [312](#312p1) |
-| Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D.*         |  [320](#320p1) |
+| Corner of *gegen-ni-ordo* after its erection in Stockholm. *Photo Sv. D*.         |  [320](#320p1) |
 | Interior of *gegen-ni-ordo* on its erection at Urumchi                            |  [320](#320p2) |
 | The three thrones in the Khan's Tent of the Torguts                               |  [320](#320p3) |
 | “Tsagachin Beile often appeared in an ill-fitting Russian costume”                |  [320](#320p4) |
@@ -327,7 +327,7 @@ Dass man soll den Schöpfer preisen, /
 Der die grosse Wunder Welt  
 Hat erschaffen und erhält.
 
-From *Orientalische Reisebeschreibung,* von Jürgen Andersen---Schleswig, 1669.
+From *Orientalische Reisebeschreibung*, von Jürgen Andersen---Schleswig, 1669.
 
 <a id="1">**1**</a>
 
@@ -355,11 +355,11 @@ Chiang's junior shop-assistant took charge of my two lean and exhausted horses, 
 
 request been left out in the yard tied to a solitary tree, and I myself had had to feed and groom them, because Chiang and his twelve assistants had considered the horses altogether too uncivilized and wild to associate either with Chinese errand boys or with refined asses and mules.
 
-We went now into the warmth of the banqueting- room, and Chiang and the eight eldest boys smilingly speculated whether the four youngest servant boys would succeed in producing fresh bowls of the smoking Chinese food in unbroken succession, each before I finished the last. For a long time I held my own with them, but at last I had to give in, and the cook behind the scenes was called in, sweating but smiling, to receive his silver dollar.
+We went now into the warmth of the banqueting room, and Chiang and the eight eldest boys smilingly speculated whether the four youngest servant boys would succeed in producing fresh bowls of the smoking Chinese food in unbroken succession, each before I finished the last. For a long time I held my own with them, but at last I had to give in, and the cook behind the scenes was called in, sweating but smiling, to receive his silver dollar.
 
 And then came tea and those pipes which, when one is full fed, induce such pleasant companionship and intimate conversation.
 
-Chiang Lan Chiao was one of those delightful old Chinamen whom one meets on one's travels in out- of-the-way corners of the Middle Kingdom. He was capable, honest and obliging, hospitable to guests, deferential to the Mandarins, and a strict but just dictator in his own kingdom.
+Chiang Lan Chiao was one of those delightful old Chinamen whom one meets on one's travels in out-of-the-way corners of the Middle Kingdom. He was capable, honest and obliging, hospitable to guests, deferential to the Mandarins, and a strict but just dictator in his own kingdom.
 
 Chiang's kingdom was the celebrated shop on the west side of Ta-t'ung Fu's northerly street, scarcely five hundred yards from the northern gate of the city, and he kept this shop of his well stocked with Chinese tea and tobacco, with English cigarettes and American petroleum. The business had been in the family for generations, and it was only seventeen years since Chiang had in the course of nature become the head of the family and of the old tea and tobacco firm. Before this, from his earliest youth until seventeen years before, when he attained dignity and splendour in Ta-t'ung Fu's northern main street, Chiang had lived for thirty long and strenuous years out on the steppes of the North. And it was his memories of these years among the Mongols that formed a tie between Chiang and me.
 
@@ -375,7 +375,7 @@ But these fantastically wealthy Mongol princes who lived only for the chase, adv
 
 Chiang's façade on the main street was richly carved and decorated as befitted a house of such ancient worth and dignity. The site could not have been better, since more than half the traffic of the town passed along the main street from north to south. In the middle of the town this street was crossed by another running east and west, and at their junction rose the old watchtower.
 
-Travellers from afar nearly always passed along this main street from north to south, and in it were to be found the shop fronts of the oldest and best-known businesses and the entrances to the largest *sarais.* Through the south gate the main street ran straight out into the old road to Tai-Yuan Fu, which is the capital of Shansi and the residence of its governors.
+Travellers from afar nearly always passed along this main street from north to south, and in it were to be found the shop fronts of the oldest and best-known businesses and the entrances to the largest *sarais*. Through the south gate the main street ran straight out into the old road to Tai-Yuan Fu, which is the capital of Shansi and the residence of its governors.
 
 Along this road goes a steady stream of travellers. There are officials and traders, carriers of mails and merchandise, and along the same way pass the countless
 
@@ -385,9 +385,9 @@ hordes of Buddhist pilgrims who are drawn from all the corners of Asia to the ho
 
 Through the northern gate, on the other hand, one leaves civilization and enters the land of the barbarians. But on the way thither stands a mighty monument proudly bearing witness that, in the time of their greatness, the barbarians too had thought for something beside war and deeds of violence. Hidden behind the mountain which forms the present boundary between Mongolia and China lie the fantastically sculptured caves of Yün Kang---one of the earliest indications of the coming of Buddhism to China.
 
-At the time when these grottoes were hewn out and embellished with innumerable images of Buddhas, Bodhisats and other minor celebrities of the Buddhist pantheon, the whole of this part of Northern China was occupied by tribes from the steppes whose chief proclaimed himself the founder of a new dynasty, the northern Wei. During the sixth century the Wei dynasty moved its headquarters to Ping Cheng, near to what is now Ta- t'ung Fu, and from there carried on a victorious campaign against the evicted Chinese and their adversaries. From their wars in distant parts the Wei people brought many prisoners home to Ping Cheng, and the story goes that over a million of these captives worked for more than a hundred years to transform the rugged side of the mountain into those strange caves and sculptured galleries which are now known as Yün Kang.
+At the time when these grottoes were hewn out and embellished with innumerable images of Buddhas, Bodhisats and other minor celebrities of the Buddhist pantheon, the whole of this part of Northern China was occupied by tribes from the steppes whose chief proclaimed himself the founder of a new dynasty, the northern Wei. During the sixth century the Wei dynasty moved its headquarters to Ping Cheng, near to what is now Ta-t'ung Fu, and from there carried on a victorious campaign against the evicted Chinese and their adversaries. From their wars in distant parts the Wei people brought many prisoners home to Ping Cheng, and the story goes that over a million of these captives worked for more than a hundred years to transform the rugged side of the mountain into those strange caves and sculptured galleries which are now known as Yün Kang.
 
-Now these hidden caves are almost forgotten. The chisels and hammers of those countless slaves have been quiet for fifteen hundred years, but Amitabha Buddha and his celestial kin still gaze out from the sandstone cliffs. Prisoners of war were brought thither from far- off lands of Western civilization, new generations of slaves were born in captivity, and all of them died in
+Now these hidden caves are almost forgotten. The chisels and hammers of those countless slaves have been quiet for fifteen hundred years, but Amitabha Buddha and his celestial kin still gaze out from the sandstone cliffs. Prisoners of war were brought thither from far-off lands of Western civilization, new generations of slaves were born in captivity, and all of them died in
 
 <a id="4p1"></a>
 ![haslund-zajagan-all-photos_01-reused.jpg](haslund-zajagan-all-photos_01-reused.jpg "The grottoes of Yün Kang")
@@ -525,11 +525,11 @@ In this mighty centre of trade our great expedition
 
 was now to be equipped and provisioned. Before his departure from Tientsin Larson had begun to compile a list of what it was necessary to carry, and he had even started buying in accordance with it. I had now to complete this work in such a manner as to satisfy the many requirements of the various members of the expedition over a period of two years. I had not so much as seen any of them, and I could certainly only surmise a small part of what they would suppose themselves to need.
 
-It was the devil of a job and one for which I had no qualifications whatever. My years in the wilderness had been spent on the lightest possible footing, and from my first day in Mongolia I had realized that the more the baggage the greater the trouble. Experience had also taught me that the greatest charm of the wilderness lies in the very fact that one lives like the people one is living among. On this subject the chief had the same view as I, but then there were the other twenty- seven gentlemen to consider.
+It was the devil of a job and one for which I had no qualifications whatever. My years in the wilderness had been spent on the lightest possible footing, and from my first day in Mongolia I had realized that the more the baggage the greater the trouble. Experience had also taught me that the greatest charm of the wilderness lies in the very fact that one lives like the people one is living among. On this subject the chief had the same view as I, but then there were the other twenty-seven gentlemen to consider.
 
 Later on I got excellent help from two newly arrived German members of the expedition, and also from Mrs. Larson, and on the twentieth of March our train actually started for the north, carrying twenty thousand dollars' worth of food. Every dollar spent was going to increase the load of the caravan by four and a half pounds.
 
-In Peking the slow goods train made a whole twenty- four hours' halt, and I employed the time in paying a round of farewell visits to my friends. This, as we know, is a very arduous labour, and when, after some hours, on my way through Morrison Street, I passed a music shop, I halted the sweating rickshaw coolie, so that we might both have a moment's relaxation. He got himself a watermelon, and I went into the music shop to see whether the new gramophone records were worthy to be included in the expedition's programme. But they were not. Shrieking jazz music would only have produced discord in the desert.
+In Peking the slow goods train made a whole twenty-four hours' halt, and I employed the time in paying a round of farewell visits to my friends. This, as we know, is a very arduous labour, and when, after some hours, on my way through Morrison Street, I passed a music shop, I halted the sweating rickshaw coolie, so that we might both have a moment's relaxation. He got himself a watermelon, and I went into the music shop to see whether the new gramophone records were worthy to be included in the expedition's programme. But they were not. Shrieking jazz music would only have produced discord in the desert.
 
 I expressed my dissatisfaction to the little lady of the shop and enjoined her to put her whole soul into the task of procuring me a melody for men who for years
 
@@ -615,7 +615,7 @@ A passion of work prevailed in Camp No. 8. There were days when the young and ne
 
 Late May passed into early June, and we experienced the swiftly advancing summer that is the spring of the steppes.
 
-The camp's little watercourse, Hojertai-gol, rushed along in spate with greetings from the snow fields of its source. The lovely cups of irises threw a shining blue veil over the green luxuriance along the banks of the stream. The Mongols call the iris "little daughter- in-law", for it is the fairest flower of the steppe and as longed for and as welcome as the little daughter-in-law in the camp. And just as the iris is the ornament of the steppe, so is the son's young wife the delight of the tent, since the tent's own young daughters must early leave home to adorn the tents of others.
+The camp's little watercourse, Hojertai-gol, rushed along in spate with greetings from the snow fields of its source. The lovely cups of irises threw a shining blue veil over the green luxuriance along the banks of the stream. The Mongols call the iris "little daughter-in-law", for it is the fairest flower of the steppe and as longed for and as welcome as the little daughter-in-law in the camp. And just as the iris is the ornament of the steppe, so is the son's young wife the delight of the tent, since the tent's own young daughters must early leave home to adorn the tents of others.
 
 The jerboas crept forth from the ground and leapt about in the grass like elegant miniature kangaroos. *Tarbagan* (the marmot) sunned its sallow winter coat in cautious proximity to its hole. And far out on the waterless expanses of the steppe antelopes and gazelles gathered in vast herds, for it was time for the does to drop their fawns.
 
@@ -689,7 +689,7 @@ Are you willing to light the fire in it?"
 
 Everyone laughed good-humouredly; only the chosen one turned her eyes upon the ground before the horseman's bold glances.
 
-From time to time we passed red-robed and yellow- robed lamas and wandering pilgrims carrying their worldly goods in a little wicker-work frame on their backs. Many of these pilgrims were emaciated wanderers who spent years of their lives in penitential journeys from one Buddhist holy place to another. Now they were hurrying towards Bater Halak Sume so as not to miss the Maidari festival there.
+From time to time we passed red-robed and yellow-robed lamas and wandering pilgrims carrying their worldly goods in a little wicker-work frame on their backs. Many of these pilgrims were emaciated wanderers who spent years of their lives in penitential journeys from one Buddhist holy place to another. Now they were hurrying towards Bater Halak Sume so as not to miss the Maidari festival there.
 
 This holy cloister, to which were all bound, was widely famous in the lamaistic world, for there it was that Yolros Lama meditated, the one of lamaisms *hutuktus* who, next to Bogdo Gegen at Urga, was regarded by many as representing the highest divine incarnation in the land of the Mongols. Moreover, this monastery was renowned because it bred lamas who could be transformed into *gurtums.*
 
@@ -853,7 +853,7 @@ Yolros was a divinity, both in the belief of his coreligionists and of himself.
 
 A long silence followed. Yolros Lama prayed softly while his thin, aristocratic hands turned over again and again the rustling oblong sheets of manuscript in the thick pile in front of him. He had assumed the posture of a sitting Buddha, and his crossed legs were hidden by a wide red skirt. The upper part of his body was covered with a jerkin of gold-embroidered silver brocade and his bare arms were thrust out from its wide armholes. Over his shoulders and round his waist lay the ample draperies of a toga of red silk.
 
-The five layers of cushions in the sacred colours on which he sat were among his privileges as *hutuktu.* The cushions rested upon a wide throne which was a masterpiece of carving and tastefully blended gilding and barbarically vivid colour. The high back of the chair was draped with brocade. Above the sitter's head floated a baldequin of gold brocade from which three silken flounces of different colours hung down. On his right stood a carved table on which lay sacred books and religious objects worn and patinated with many years of diligent use.
+The five layers of cushions in the sacred colours on which he sat were among his privileges as *hutuktu*. The cushions rested upon a wide throne which was a masterpiece of carving and tastefully blended gilding and barbarically vivid colour. The high back of the chair was draped with brocade. Above the sitter's head floated a baldequin of gold brocade from which three silken flounces of different colours hung down. On his right stood a carved table on which lay sacred books and religious objects worn and patinated with many years of diligent use.
 
 The walls of the room were decorated with temple flags and pictures of Buddhist places of pilgrimage. A set of coloured oleographs of the emperors and princes of the late Manchu dynasty bore witness to a conservatism unaffected by republican ideas.
 
@@ -893,7 +893,7 @@ The same night Hummel, Lieberenz and I slept in the most holy part of the holy m
 
 **THE DANCE OF THE GODS**
 
-ЕARLY next morning both ourselves and the monas- tery were awakened by the notes of the white conch. From the topmost platform of the high tower the lamas were sending out the notes of the instrument symbolic of good fortune to the ten regions of the world. Our bedroom, which occupied the entire width of the pavilion, had Chinese windows facing both the inner and the outer courts. Yet another guest had been received during the night at Yolros Lama's, and he had been given the room above ours. This was Barun Kung, the western Duke, chieftain of the westernmost of the Darkhan Beile "banners".
+ЕARLY next morning both ourselves and the monastery were awakened by the notes of the white conch. From the topmost platform of the high tower the lamas were sending out the notes of the instrument symbolic of good fortune to the ten regions of the world. Our bedroom, which occupied the entire width of the pavilion, had Chinese windows facing both the inner and the outer courts. Yet another guest had been received during the night at Yolros Lama's, and he had been given the room above ours. This was Barun Kung, the western Duke, chieftain of the westernmost of the Darkhan Beile "banners".
 
 Both courtyards were beginning to fill with people, for to-day the otherwise so unapproachable Yolros Lama threw open his gates to the stream of pilgrims of both sexes. The crowd was immense. Distinguished men of wealth and poor herdsmen, monks and soldiers, men and women, old and young, and children of all ages jostled one another in the struggle to reach the place from which the *hutuktu* would sprinkle his holy water.
 
@@ -941,7 +941,7 @@ After some hesitation Shirup Geling agreed to our placing the film camera on the
 
 of the two masts that had been set up in the middle of the ground. From this elevation we had a splendid view of all we wanted to see---all that so few white men had ever seen.
 
-The centre of the immense space was paved with large flat stones, unhewn but worn smooth by countless dragging steps. And this clear space in the middle was surrounded by thousands of spectators who thronged along the temple walls. The area was skirted on all four sides by temple buildings. To the north lay the lofty and dominant main temple whose façade was half darkened bv the shadow of its projecting double roof. In front of this was stretched a huge banner, thirty- two feet by twenty, with the image of Maidari the Messiah of Lamaism executed on silk in gorgeous colours and gold thread. At the foot of this stood a long altar laden with offerings and all the splendid, glittering accessories of lamaistic worship. Behind the temple banner stood a richly carved sedan chair beneath the baldequin of which a shining statue of Maidari had been placed. The chair was flanked by two sixteen-foot statues representing Maidari's servants and assistants, Tsamba and Jobting. Opposite the main temple lay a building intersected by a wide porched portal, and this formed the entrance to the temple court. The archway was guarded by two statues representing warriors of grotesque appearance.
+The centre of the immense space was paved with large flat stones, unhewn but worn smooth by countless dragging steps. And this clear space in the middle was surrounded by thousands of spectators who thronged along the temple walls. The area was skirted on all four sides by temple buildings. To the north lay the lofty and dominant main temple whose façade was half darkened bv the shadow of its projecting double roof. In front of this was stretched a huge banner, thirty-two feet by twenty, with the image of Maidari the Messiah of Lamaism executed on silk in gorgeous colours and gold thread. At the foot of this stood a long altar laden with offerings and all the splendid, glittering accessories of lamaistic worship. Behind the temple banner stood a richly carved sedan chair beneath the baldequin of which a shining statue of Maidari had been placed. The chair was flanked by two sixteen-foot statues representing Maidari's servants and assistants, Tsamba and Jobting. Opposite the main temple lay a building intersected by a wide porched portal, and this formed the entrance to the temple court. The archway was guarded by two statues representing warriors of grotesque appearance.
 
 To east and west the temple court was bounded by two low buildings which contained the monastery's colossal library. In front of these buildings places of honour had been arranged with mats gleaming with the ancient authentic colours of the East, with embroidered silken cushions and back-rests hung with tinselled brocades that glittered in the sunlight.
 
@@ -969,7 +969,7 @@ The music fell silent, and a new figure was carried in and placed in the middle 
 
 Drums and cymbals awakened eerie anticipations in the audience. The whole orchestra joined in with its mysterious and alien notes that rose and fell in intervals strange to our ears and threw us into amazement. But as the motif recurred and the ear learned to follow, it conveyed an impression of ritual sublimity.
 
-A trumpet-call announced that new dancers were approaching. Out of the temple rushed the forerunners of the god of death, a flock of fantastic, terrifying figures. Half of them represent *Buga* (in Tibetan *Saba*)*,* and the rest *Bukha.* The former wear big stags' heads between whose antlers *Cintamani,* the mystic jewel that grows in the depths of the universe, shines forth. Their long, wide cloaks are richly ornamented with brown, yellow and wine-red. The *Bukha* wear blue yak masks, and their wide cloaks are shot with blue, rose and yellow.
+A trumpet-call announced that new dancers were approaching. Out of the temple rushed the forerunners of the god of death, a flock of fantastic, terrifying figures. Half of them represent *Buga* (in Tibetan *Saba*), and the rest *Bukha*. The former wear big stags' heads between whose antlers *Cintamani*, the mystic jewel that grows in the depths of the universe, shines forth. Their long, wide cloaks are richly ornamented with brown, yellow and wine-red. The *Bukha* wear blue yak masks, and their wide cloaks are shot with blue, rose and yellow.
 
 The dancers moved in small circles round the outer edges of the stage, swinging gleaming swords and clanking rings in their hands. The dance was wild but
 
@@ -993,7 +993,7 @@ accompanied by a distant muttering of muffled drums. "The rulers of the steppe o
 
 And in brains aroused to ecstasy the image of Tsaghuradu, terrible and admonitory.
 
-Tsaghuradu is "The Land of Confused Ideas", the region plunged in fog, in whose uncounted labyrinths the soul must wander after death unless in life it has assured itself of the right way. For seven times seven horror- haunted days and nights the soul released by death must seek until it find a new rebirth along some one of the innumerable paths leading to a higher or a lower plane, nearer to or farther from Nirvana.
+Tsaghuradu is "The Land of Confused Ideas", the region plunged in fog, in whose uncounted labyrinths the soul must wander after death unless in life it has assured itself of the right way. For seven times seven horror-haunted days and nights the soul released by death must seek until it find a new rebirth along some one of the innumerable paths leading to a higher or a lower plane, nearer to or farther from Nirvana.
 
 In its wanderings the soul comes to glorious regions, but the paths of these lead to the land of the Passions, and wondrous and alluring beings draw it towards invisible abysses. But in Tsaghuradu the soul also encounters all the terrifying figures that are impersonated in the *Tsam* dance, the guardians of religion in their grisly guise. And he who flees at the sight of these monstrous beings falls into the abyss, but he who confidently draws near to them, remembering that behind the ferocious mask are concealed the gentle features of a god, is led on the right way.
 
@@ -1005,11 +1005,11 @@ The *Tsam* dance and its symbolism has no place in the original Buddhism, which 
 
 At the time when the nomads of Central Asia were converted from Shamanism to Lamaism they evaded the greatest difficulties of such a change by announcing the simultaneous conversion of the demons of their fathers, and all the rest of the spirits of Shamanism. Thus they now live under the new religion, without disloyalty to the old. And faith and loyalty are qualities deeply rooted in the nomads.
 
-Again the "rulers of the steppes of death" withdrew outside the circle of *dokshit,* who now turned towards the entrance gate of the temple from which a few lamas had just emerged. These carried a large brocade- covered wooden tray which they placed in the middle of the temple court. On the tray were a number of mysterious objects, and in the middle of it lay a fifteeninch puppet of dough representing a human being. This was the human sacrifice *linga* surrounded by the mystical cult objects *sor**.*
+Again the "rulers of the steppes of death" withdrew outside the circle of *dokshit*, who now turned towards the entrance gate of the temple from which a few lamas had just emerged. These carried a large brocade-covered wooden tray which they placed in the middle of the temple court. On the tray were a number of mysterious objects, and in the middle of it lay a fifteeninch puppet of dough representing a human being. This was the human sacrifice *linga* surrounded by the mystical cult objects *sor**.*
 
 Again the full orchestra struck up, and its strains swelled to a deafening din which announced that the climax of the ceremony was at hand.
 
-From the dim interior of the temple a colossal figure stepped suddenly into the sun, a devil of the pit whose appearance bore witness to the most ferocious savagery. A gasp of dread went up from the multitude at finding themselves face to face with Ikhe Khara himself, "The Great Black One", lord of Sickness and Death and Prince of Hell. The enormous head represents an ox, and the long horns are surrounded by metal ornaments in the shape of gilded flames. A third eye of wisdom stares wildly out from the forehead, and long wild boars' teeth jut from the mouth. His garb is in gorgeous colours embroidered and decked with gems, for Ikhe Khara is the foremost of all *dokshit,* the strongest of the defenders of the faith.
+From the dim interior of the temple a colossal figure stepped suddenly into the sun, a devil of the pit whose appearance bore witness to the most ferocious savagery. A gasp of dread went up from the multitude at finding themselves face to face with Ikhe Khara himself, "The Great Black One", lord of Sickness and Death and Prince of Hell. The enormous head represents an ox, and the long horns are surrounded by metal ornaments in the shape of gilded flames. A third eye of wisdom stares wildly out from the forehead, and long wild boars' teeth jut from the mouth. His garb is in gorgeous colours embroidered and decked with gems, for Ikhe Khara is the foremost of all *dokshit*, the strongest of the defenders of the faith.
 
 He took up his position at the boundary between sun and shade. In his uplifted right hand he held an avenging sword, in his left the "magic club", a staff gleaming with metal, at the end of which a skull was fixed.
 
@@ -1021,11 +1021,11 @@ the arena to throw himself at once into a maniacal dance. All the other *dokshit
 
 The spectators were seized by a hysterical ecstasy. Some wanted to rush forward and cast themselves down before the Mighty One, others tried to clutch at the passing dancers' swaying cloaks, and the police lamas had to keep on swinging their metal mounted staves in order to hold the crowd in check. The savagely threatening eyes of the dancers passed close under us where we stood on our pedestal, and a hysterical Mongol close beside us shrieked: "May the enemies of religion and all who hinder the spreading of the faith be turned to dust and ashes."
 
-While the "Prince of Hell" was hewing the pseudo- human sacrifice asunder in the middle of the courtyard, all the *dokshit* were performing the wildest capers, slashing about them with their gleaming weapons and tossing their antlered heads as if they would hew in pieces all the demons of the world. The orchestra evoked a hellish din of discord, and those assembled in front of the temple chanted noisily:
+While the "Prince of Hell" was hewing the pseudo-human sacrifice asunder in the middle of the courtyard, all the *dokshit* were performing the wildest capers, slashing about them with their gleaming weapons and tossing their antlered heads as if they would hew in pieces all the demons of the world. The orchestra evoked a hellish din of discord, and those assembled in front of the temple chanted noisily:
 
 "Trample upon and slay that enemy who has done evil to the threefold jewel; separate him from the good that was his at birth. Tear him from his tutelary deity. Annihilate him and let the rain of sickness and poisoned wounds fall upon him, and let the sword dismember him."
 
-The slaughter was ended, the foe vanquished. With long and solemn steps, the "Prince of Hell" strode back towards the temple entrance followed by all the *dokshit.* With plastic movements of their arms, gyrating like automata, they disappeared into the mysterious interior of the temple.
+The slaughter was ended, the foe vanquished. With long and solemn steps, the "Prince of Hell" strode back towards the temple entrance followed by all the *dokshit*. With plastic movements of their arms, gyrating like automata, they disappeared into the mysterious interior of the temple.
 
 The orchestra was silent and the arena empty.
 
@@ -1105,7 +1105,7 @@ Early that morning one of Darkhan Beile's whip-armed bodyguard came to our pavil
 
 <a id="53">**53 DANCE OF THE MAGICIANS**</a>
 
-his master desired a visit from us. Taking with us our finest *hadaks* of ceremony we accompanied the splendid- looking guard to the prince's monastery residence which lay outside the temple precincts.
+his master desired a visit from us. Taking with us our finest *hadaks* of ceremony we accompanied the splendid-looking guard to the prince's monastery residence which lay outside the temple precincts.
 
 Three spacious buildings bordered a large courtyard, and the whole block was enclosed by a high wall. In the courtyard swarmed Mongols who had come to pay their loyal respects to the ruler. In the windows of the side buildings we caught a glimpse of the curious faces of the chieftain's wives and merry young princesses.
 
@@ -1125,9 +1125,9 @@ We presented our *hadaks* with the wish that the causes of his prosperity might 
 
 his confidence that we were good men since we were the guests of Yolros Lama himself, and he had summoned us because of the responsibility he felt for our persons during the time we stayed in his domains.
 
-He exhorted us to take thought for our safety that day and to keep out of the way when the *gurtums,* possessed by terrible gods, were let loose. We had nothing to fear from the lamas of the monastery or from his nomads, but a possessed *gurtum* was not a human being but was the god himself incarnate in a chosen human body. No man could be responsible for the actions of a possessed *gurtum,* since during his ecstasy he was a god. A *gurtum* carried the god's dangerous weapons, and it might happen that the god's will was to make away with an objectionable person.
+He exhorted us to take thought for our safety that day and to keep out of the way when the *gurtums*, possessed by terrible gods, were let loose. We had nothing to fear from the lamas of the monastery or from his nomads, but a possessed *gurtum* was not a human being but was the god himself incarnate in a chosen human body. No man could be responsible for the actions of a possessed *gurtum*, since during his ecstasy he was a god. A *gurtum* carried the god's dangerous weapons, and it might happen that the god's will was to make away with an objectionable person.
 
-We were strangers here and acknowledged gods who were unknown on the steppes, and the sight of us might call forth the infuriated *gurtum's* lust for vengeance. No Mongol could protect us against *gurtums,* for the people of the steppes could not set themselves against the gods of the steppes.
+We were strangers here and acknowledged gods who were unknown on the steppes, and the sight of us might call forth the infuriated *gurtum's* lust for vengeance. No Mongol could protect us against *gurtums*, for the people of the steppes could not set themselves against the gods of the steppes.
 
 We reassured the kindly old prince by a diplomatic promise to be prudent, and he showed his relief by at once turning the conversation to gayer matters.
 
@@ -1159,13 +1159,13 @@ whose yearly repetition is a reminder of the victory of Buddhism over the ancien
 
 The orchestra played subdued melodious music, and out of the temple glided pair after pair of decorative figures. They were clothed in long black silken capes embroidered with yellow symbolical designs. They wore no masks but had broad-brimmed hats on their heads from which long black silken fringes hung down and obscured their faces. These black hats were adorned on top with death's heads mounted in a shining aureole of gilded metal and this served at the same time for the fastening of a fan-shaped ornament of long peacocks' feathers which shimmered in the sunlight and swayed with every movement of the dancers.
 
-These are the twenty-four *shanag,* magicians of the fellowship of the black hat, and the origin of the pantomime they perform is explained by a historic legend.
+These are the twenty-four *shanag*, magicians of the fellowship of the black hat, and the origin of the pantomime they perform is explained by a historic legend.
 
 In the ninth century Langdarma ruled over Tibet. He was a bad king, a fierce opponent of the new religion, and he did all he could to prevent the true doctrine from spreading among the people. He himself was a prominent magician and defender of "the black doctrine"
 
-Langdarma had the Buddhist monastery burned, and his soldiers scoured the land to cut down the adherents of the true doctrine. However, a Buddhist ascetic, Pal- dorje, determined to free the land from this tyranny, and disguised in a magician's black robe he set out on the journey to Lhassa where Langdarma dwelt. He rode a white pony but just before his arrival at the city he poured black charcoal dust over the animal so that it became black.
+Langdarma had the Buddhist monastery burned, and his soldiers scoured the land to cut down the adherents of the true doctrine. However, a Buddhist ascetic, Pal-dorje, determined to free the land from this tyranny, and disguised in a magician's black robe he set out on the journey to Lhassa where Langdarma dwelt. He rode a white pony but just before his arrival at the city he poured black charcoal dust over the animal so that it became black.
 
-Black magicians were always welcomed by Langdarma, and Pal-dorje received permission to perform a magic dance in front of the king. When, under the spell of the dance, he came near to the disguised dancer, Pal- dorje drew from his wide sleeves a bow and a poisoned arrow and shot the king dead.
+Black magicians were always welcomed by Langdarma, and Pal-dorje received permission to perform a magic dance in front of the king. When, under the spell of the dance, he came near to the disguised dancer, Pal-dorje drew from his wide sleeves a bow and a poisoned arrow and shot the king dead.
 
 During the tumult that arose the lama succeeded in escaping on his horse. He was followed by furious soldiers but as he crossed the river that ran past the
 
@@ -1295,11 +1295,11 @@ Damding Surong now announced in a loud voice that we were good men with no evil 
 
 stood but in confidence in the understanding of their chief. What he said must be right.
 
-But when we set up our instruments, a certain uneasiness nevertheless pervaded the group, and when Dam- ding Surong called out the first, the fellow's eyes were full of panic.
+But when we set up our instruments, a certain uneasiness nevertheless pervaded the group, and when Damding Surong called out the first, the fellow's eyes were full of panic.
 
 It was a difficult and tedious job taking the required measurements. Damding Surong chattered and swore to encourage the man under operation at the moment. And those who had been through it helped us by scoffing at their timorous successors, saying that old hardened warriors ought not to be scared at a little thing like that.
 
-In this manner the expedition made its first twenty- four anthropometric measurements. And Damding was the richer by twenty-four silver dollars. And twenty- four is a good number, at least so Damding Surong said when we finally wanted to measure his own interesting cranium.
+In this manner the expedition made its first twenty-four anthropometric measurements. And Damding was the richer by twenty-four silver dollars. And twenty-four is a good number, at least so Damding Surong said when we finally wanted to measure his own interesting cranium.
 
 The sound of the orchestra from the cloister city announced that the day's religious festival had begun.
 
@@ -1435,7 +1435,7 @@ The Bactrian camel, which is used in the Gobi Desert, works only in winter and r
 
 <a id="73">**73 SUIDOR DISAPPEARS FROM THE CAMP**</a>
 
-about deserts and tourist camels, that the "ship of the desert" belongs among palm trees in tropical heat, is particularly misleading in regard to the two-humped Bactrian camel, the animal upon which one depends for travelling in the Mongolian deserts. The difference between *Camelus dromedarius,* the single-humped camel, and *Camelus Bactrianus,* the two-humped camel, is so fundamental that, as regards their habit of life and performance, they are no more to be confused than a team of Arctic dogs and a pack of Australian dingos.
+about deserts and tourist camels, that the "ship of the desert" belongs among palm trees in tropical heat, is particularly misleading in regard to the two-humped Bactrian camel, the animal upon which one depends for travelling in the Mongolian deserts. The difference between *Camelus dromedarius*, the single-humped camel, and *Camelus Bactrianus*, the two-humped camel, is so fundamental that, as regards their habit of life and performance, they are no more to be confused than a team of Arctic dogs and a pack of Australian dingos.
 
 After a summer's rest the Bactrian camel works admirably throughout the whole winter. Its thick winter coat protects it against the severe Central Asiatic cold, and the beast can travel for weeks through completely sterile regions, utilizing the stored nutriment of its humps, and is satisfied with the moisture it can obtain from the snow on the ground.
 
@@ -1447,7 +1447,7 @@ As the great expedition could not lie idle, on account of the camels, waiting fo
 
 <a id="74">**74 SUIDOR DISAPPEARS FROM THE CAMP**</a>
 
-column", under Larson's guidance, consisted of all the camels carrying such of the provisions and equipment as would not be required during the next few months. This column, which contained a hundred and fifteen animals, was to proceed as directly and easily as possible to Etsin-gol unencumbered by the troublesome scientists. The "scientific column" started from Baying Shandai Sume eight days later than the advance column and consisted of sixty-seven camels, and of this I was caravan leader. In addition, two independent columns of twenty- six and fifteen camels respectively were to be formed under the leadership of Norin and Yuan.
+column", under Larson's guidance, consisted of all the camels carrying such of the provisions and equipment as would not be required during the next few months. This column, which contained a hundred and fifteen animals, was to proceed as directly and easily as possible to Etsin-gol unencumbered by the troublesome scientists. The "scientific column" started from Baying Shandai Sume eight days later than the advance column and consisted of sixty-seven camels, and of this I was caravan leader. In addition, two independent columns of twenty-six and fifteen camels respectively were to be formed under the leadership of Norin and Yuan.
 
 Before the start there had been eager discussion of the relative merits of different methods of travel, but since the caravan men were as inexperienced as Larson and I in marching under these special conditions and since our respective views were widely different, we finally agreed that each caravan leader should pursue his own tactics.
 
@@ -1459,7 +1459,7 @@ At the camel inspection that evening it appeared that one of our camels was miss
 
 <a id="75">**75 SUIDOR DISAPPEARS FROM THE CAMP**</a>
 
-surrounding sea of sand. The tamarisk belt extended for a mile or so from east to west, but was only a few hundred yards in width. Round the whole area the surface of the sand lay undisturbed; only the wind had fashioned it. No living creature during the last twenty- four hours had ventured forth from the tamarisk grove out into the desert.
+surrounding sea of sand. The tamarisk belt extended for a mile or so from east to west, but was only a few hundred yards in width. Round the whole area the surface of the sand lay undisturbed; only the wind had fashioned it. No living creature during the last twenty-four hours had ventured forth from the tamarisk grove out into the desert.
 
 When I got back to camp it was night, and the Chinese and Mongolian searchers had already returned without having found the vanished camel. It was hopeless to continue the search in the dense darkness, and since the animal must clearly be in the tamarisk thickets I turned in, after having first given the camel keepers a good dressing down for their lack of vigilance which had given us so much extra work during the sorely needed resting-time.
 
@@ -1485,7 +1485,7 @@ At noon we halted for a consultation. We could not go on in this way any longer.
 
 <a id="77">**77 SUIDOR DISAPPEARS FROM THE CAMP**</a>
 
-of our water flasks was already empty. It was well-nigh impossible to get the camels going again after the halt; every step was accompanied by their plaintive scream--- but we must go on.
+of our water flasks was already empty. It was well-nigh impossible to get the camels going again after the halt; every step was accompanied by their plaintive scream---but we must go on.
 
 The trail now took a southerly direction, and on the top of a turret-shaped dune we found the impression of a human being who had thrown himself down on the sand. A tired and despairing man had rested here not long since, here he had lashed the sand with his camel whip, and a few yards further on he had thrown away his boots.
 
@@ -1493,7 +1493,7 @@ Then we held another consultation. We persuaded one another that we were not at 
 
 I was just collating my observations so as to work out the quickest way back to the camp when suddenly a gust of wind tore the paper with my notes out of my hand. Bato dashed off after the little scrap of paper which to us in that place and in that situation was a document of such importance, but he came back dejected with his errand unperformed. The puff of wind was followed by a persistent gale that set the light sand in motion. The air was soon full of flying grains of sand, and our range of vision was limited to a few yards. The midday sun was changed to a pallid spot upon a grey heaven and the trail in the sand was blotted out before our eyes.
 
-In a few minutes the surrounding landscape was completely changed. The horizon had vanished, the storm whistled and howled around us and the sand rose like a grey mist several yards into the air. A tall sand-pillar whirled howling past---it sounded like a threat from the desert powers that were raging round us---it felt as though the wind were bringing unknown dangers ever nearer, and the consciousness of the presence of Death took hold of us with all the silent thoughts that this involves. But that consciousness also rouses the instinct of self- preservation and we soon found ourselves fighting for our own salvation.
+In a few minutes the surrounding landscape was completely changed. The horizon had vanished, the storm whistled and howled around us and the sand rose like a grey mist several yards into the air. A tall sand-pillar whirled howling past---it sounded like a threat from the desert powers that were raging round us---it felt as though the wind were bringing unknown dangers ever nearer, and the consciousness of the presence of Death took hold of us with all the silent thoughts that this involves. But that consciousness also rouses the instinct of self-preservation and we soon found ourselves fighting for our own salvation.
 
 If we kept on a southern course it was obvious that
 
@@ -1531,7 +1531,7 @@ Again we had to follow devious tracks, to the right, to the left, round and roun
 
 <a id="80">**80 SUIDOR DISAPPEARS FROM THE CAMP**</a>
 
-made our route shorter than that followed by the walking man. While I remained on the crest of a sand wave Bato followed the trail, singing at the top of his voice, over the tops of the dunes and down in the valleys between them, until I could hardly hear his song any longer. Then I gave a shout which resounded across the sands and which was the signal for Bato to go on to the top of the nearest wave and stop there till I came up to him. I rode towards him in a straight line from my starting- point, thus sparing my camel the erratic detours.
+made our route shorter than that followed by the walking man. While I remained on the crest of a sand wave Bato followed the trail, singing at the top of his voice, over the tops of the dunes and down in the valleys between them, until I could hardly hear his song any longer. Then I gave a shout which resounded across the sands and which was the signal for Bato to go on to the top of the nearest wave and stop there till I came up to him. I rode towards him in a straight line from my starting-point, thus sparing my camel the erratic detours.
 
 Then I rode forward and calculated the distance at which we could be expected to hear each other, and Bato followed me up and saved his camel the detours of that stretch. This procedure suited the camels, but the excessive singing and shouting made us men drier and drier in the throat and frightfully thirsty.
 
@@ -1651,7 +1651,7 @@ We could not help crowing a little.
 
 The fire burned down. Soon there was dead silence in the sleeping camp. Only the full moon sailed on past the brilliant stars of the desert sky.
 
-Next morning at three o'clock the advance column was making ready for a start. Larson and I sat on the top of a sand dune and held a last conference before we once more parted. Everything was soon ready, and the stout fellow mounted his imposing camel and gave the sign for *Yabonah.* And the first rays of the sun gilded his long train of camels before they were swallowed up by the sand to northward.
+Next morning at three o'clock the advance column was making ready for a start. Larson and I sat on the top of a sand dune and held a last conference before we once more parted. Everything was soon ready, and the stout fellow mounted his imposing camel and gave the sign for *Yabonah*. And the first rays of the sun gilded his long train of camels before they were swallowed up by the sand to northward.
 
 It was a marvellous morning.
 
@@ -1705,7 +1705,7 @@ He who steals a camel shall pay to its rightful owner nine times fifteen camels.
 
 He who steals two camels is punished by transportation for hard labour in an unhealthy climate for life and a hundred and ninety stripes. *Penal code for Mongolia compiled by the*
 
-*Chinese Foreign Office,* 1789.
+*Chinese Foreign Office*, 1789.
 
 As these stipulations show, the laws in Mongolia have always been severe regarding the theft of horses and camels. For him who robs a traveller of his transport animals in a place where these cannot be replaced the punishment, says an unwritten law, cannot be severe enough, and in practice it often happens that in the event of the malefactor being caught he is killed in a rage by the man robbed. And I have heard of a recent case of such a horse or camel thief being "slaughtered like a sheep".
 
@@ -1729,7 +1729,7 @@ Gleam"), the circumspect and reliable Mendo ("Serenity"), and the instructed and
 
 Hour after hour the hunt went on. Three mighty chains of sand dunes now lay between us and the camp, the sun was getting high and the camels were tired. We found ourselves in a veritable ocean of surging sand waves. From the crests of the dunes we had a hopeless view over a lifeless immensity. And when we rode through the hollows between the dunes we saw only a limited ring of yellow sand, the upper edge of which met in every direction a circle of suh-baked sky and torrid, trembling air.
 
-Anywhere within a few hundred yards an army might lie in wait. Everywhere one suspected invisible hiding- places---and at a nod from the desert powers the storm might be let loose and set the sand in motion and give new shapes to this oppressive superfluity of yellow, unfettered drift-sand.
+Anywhere within a few hundred yards an army might lie in wait. Everywhere one suspected invisible hiding-places---and at a nod from the desert powers the storm might be let loose and set the sand in motion and give new shapes to this oppressive superfluity of yellow, unfettered drift-sand.
 
 But all lay silent and still, and the trail led us on. A new disappointment met us upon each laboriously ascended sand-wave, but hope beckoned always from behind the next. The tracks often changed direction, and in one place the trampled sand showed that the robber had made a halt and had afterwards ridden to and fro in uncertainty.
 
@@ -1861,7 +1861,7 @@ To kill a doomed animal with the knowledge of the natives may have the most seri
 
 One must therefore employ artifice if one would mitigate one's future memories of a dying camel, must pretend a shooting expedition as a pretext for getting away from the caravan and to provide a plausible explanation of the sound produced by the merciful shot. Now and then one lets oneself be deterred from carrying out such an intention by one's own inertia or weariness or by the aroused suspicions of the caravan folk, but it is a neglect which one regrets often and for long.
 
-We were all now going afoot to spare the riding camels and let them relieve those of the pack animals which showed signs of giving up. In the morning the reveille was sounded in camp while it was still dark, so that the caravan should be ready for the start when the first faint flush showed in the eastern horizon. These early morning hours were the easiest in the day's march, but so soon as the sun had been baking the sand for a few hours our sufferings began anew. The worst was to watch the camels' wavering, dragging gait and the far- seeing look in their unfathomable eyes that held a presentiment of the nearness of the valley of death which so many of them were soon to tread.
+We were all now going afoot to spare the riding camels and let them relieve those of the pack animals which showed signs of giving up. In the morning the reveille was sounded in camp while it was still dark, so that the caravan should be ready for the start when the first faint flush showed in the eastern horizon. These early morning hours were the easiest in the day's march, but so soon as the sun had been baking the sand for a few hours our sufferings began anew. The worst was to watch the camels' wavering, dragging gait and the far-seeing look in their unfathomable eyes that held a presentiment of the nearness of the valley of death which so many of them were soon to tread.
 
 <a id="103">**103 THE OPPRESSION OF THE DESERT**</a>
 
@@ -1877,7 +1877,7 @@ The "firewater" soon inspired our musicians to
 
 <a id="104">**104 THE OPPRESSION OF THE DESERT**</a>
 
-unsuspected feats, and the soughing of the desert wind sounded like a caress as it swept through the wealth of illuminated leaves waving above our heads like millions of blood-red and golden-yellow hearts. Now and then a great splendid star peered down through our many- coloured roof of leaves. The same star was staring at the dead, sand sea that surged around us. We knew it well from many a night march, that great white desert star.
+unsuspected feats, and the soughing of the desert wind sounded like a caress as it swept through the wealth of illuminated leaves waving above our heads like millions of blood-red and golden-yellow hearts. Now and then a great splendid star peered down through our many-coloured roof of leaves. The same star was staring at the dead, sand sea that surged around us. We knew it well from many a night march, that great white desert star.
 
 But the music of strings and minstrels' song kept all thoughts of sand and heavy-footed marching at a distance, and soon the stimulating notes of the gramophone were heard. Songs from home, that called for ready peals of laughter were succeeded by grave words to airs by the great masters. Our whole repertoire was dragged forth from the depths of dust-choked cases, and I came upon a flat parcel which recalled a half-forgotten memory.
 
@@ -1906,7 +1906,7 @@ At the end of the road."
 
 <a id="106">**106**</a>
 
-##CHAPTER XII
+## CHAPTER XII
 
 **ETSIN-GOL AT LAST**
 
@@ -1922,7 +1922,7 @@ And then I began to hear legends of Khara Khoto, "The black and dead city", whic
 
 <a id="107">**107 ETSIN-GOL AT LAST**</a>
 
-because he could talk *Khara ugge*" (black words--- magic formulas).
+because he could talk *Khara ugge*" (black words---magic formulas).
 
 Khara Bator's power grew so great that the Chinese Emperor feared him and despatched a mighty army to subdue the "Black Hero", and before the Chinese army's greatly superior force Khara Bator was finally compelled to withdraw within the walls of Khara Khoto.
 
@@ -1930,7 +1930,7 @@ The Chinese siege endured for long, but there was abundance of food and forage i
 
 Before the Chinese army encircled Khara Khoto, Khara Bator had succeeded in sending couriers to tribes in the west which were well disposed towards him, and the besieged awaited with confidence the arrival of succour in order to deliver the attack which should crush the Chinese. But the latter, whose weapon ever is guile, had foreseen this and had set up a row of watch towers between Khara Khoto and the country to the west and in this way had cut off the auxiliary forces from the beleaguered town.
 
-Yet, in spite of this, Khara Bator withstood all assaults upon the walls of the town, and the Chinese had again to resort to guile. The Emperor himself threw a magic stone into the river which gave water to the besieged, and the stone, falling between the town and the sources of the river, caused the water to leave its ancient bed and break a new course for itself far to the westward of the town. The new river created by the Emperor is Etsin- gol, and it took its name from him (*Etsin Khan---*lord and king).
+Yet, in spite of this, Khara Bator withstood all assaults upon the walls of the town, and the Chinese had again to resort to guile. The Emperor himself threw a magic stone into the river which gave water to the besieged, and the stone, falling between the town and the sources of the river, caused the water to leave its ancient bed and break a new course for itself far to the westward of the town. The new river created by the Emperor is Etsin-gol, and it took its name from him (*Etsin Khan---*lord and king).
 
 Khara Bator, who with his people was now without water, determined to die fighting at the head of his brave warriors. He prepared for the attack, but his favourite daughter prevailed on him to save his life. After a parley with the Chinese emperor it was decided that the Chinese should be allowed to enter the town unopposed on the following morning by the gate in the west wall.
 
@@ -1952,7 +1952,7 @@ The "Black Hero" and his warriors went never again on victorious campaigns, for 
 
 But during the night, before the Chinese obtained entrance to the town, Khara Bator's daughter threw its remaining treasures into the dried-up well. In the morning the Chinese found to their consternation that what at sunset had been forests and fertile grazinggrounds was now transformed to barren desert. Raging they stormed into the town to seek vengeance and to plunder, but all they found was one lonely girl who sat weeping in a watch tower.
 
-Khara Bator's treasure was never found by the Chinese, for the girl was slain without having revealed its hiding- place, and the soldiers had to flee hurriedly from the dead town and its barren surroundings if they were not to perish of thirst and hunger.
+Khara Bator's treasure was never found by the Chinese, for the girl was slain without having revealed its hiding-place, and the soldiers had to flee hurriedly from the dead town and its barren surroundings if they were not to perish of thirst and hunger.
 
 Since that time many treasure seekers have tried to bring to light the assembled treasure of the town. On certain nights it may be seen lying in a great pot deep down in the well, but so soon as anyone approaches flames rise up for its protection. Shamans and Tibetan lamas have been brought to frustrate the magic power that protects it. But all has been in vain. The "Black Hero's" spirit still guards the riches of the town.
 
@@ -1986,7 +1986,7 @@ cartographers announced that we had covered six hundred miles since our departur
 
 This small caravan consisted of one Mongol, two Chinese, eight camels laden with hides and a big black dog. The two Chinese were traders on their way to Kwei-hwa Ch'eng with the produce they had bought by Etsin-gol. The Mongol was the owner of the camels and the caravan leader. In the west whence they came and whither we were bound rose a lengthy ridge, and at the place where the line of march crossed the ridge we saw the spiky outline of an *obo.*
 
-"Up there," muttered the young Mongol regretfully, pointing to the *obo,* "up there one greets and up there one takes leave of Etsin-gol."
+"Up there," muttered the young Mongol regretfully, pointing to the *obo*, "up there one greets and up there one takes leave of Etsin-gol."
 
 All the members of the expedition were gathered by the *obo* long before the slowly pacing caravan reached it. And there it lay at last, the river. Through our glasses we could distinguish the movement of the tree-tops, and the sight gave promise of water, shade, fuel and rest. It called up kindred thoughts in all of us, and all of us rejoiced.
 
@@ -2094,7 +2094,7 @@ On one point only there was some confusion. There fathers had told them that the
 
 The Etsina Torguts came to their present grazinggrounds with the young chief Arab Jur who, with his people, separated from the main tribe by the Volga in order to perform a mass pilgrimage to holy Lhasa. They travelled in the true Mongolian way, taking with them tents, women and children. During this time, however, when Arab Jur and his people were living in the highlands of Tibet, a feud had arisen between the Manchus and the Dzungars, and when the pilgrim caravan on its return would have crossed Dzungaria it found the way barred by the Manchu-Dzungar battle-front.
 
-Unable to reunite with the main tribe by the Volga, Arab Jur, who had remained to the south of the fighting line, decided to proceed into China instead and beg the help of the Manchu emperor. Thus he arrived in Peking in 1705. He was assigned grazing-grounds for himself and his people by the emperor and later on was given a Manchu title. His son and his descendants received a grant of the fertile land by Etsin-gol, and the little Torgut tribe settled down by the green banks of the river in 1732.(1) Half a century later the chief's family was given the rank of *Beile,* and the present chief of the Etsina Torguts, who is a direct descendant of Arab Jur, bears like his father the title of *Wang,* a distinction which the family received in consideration of its loyalty to the new Chinese republic.
+Unable to reunite with the main tribe by the Volga, Arab Jur, who had remained to the south of the fighting line, decided to proceed into China instead and beg the help of the Manchu emperor. Thus he arrived in Peking in 1705. He was assigned grazing-grounds for himself and his people by the emperor and later on was given a Manchu title. His son and his descendants received a grant of the fertile land by Etsin-gol, and the little Torgut tribe settled down by the green banks of the river in 1732.(1) Half a century later the chief's family was given the rank of *Beile*, and the present chief of the Etsina Torguts, who is a direct descendant of Arab Jur, bears like his father the title of *Wang*, a distinction which the family received in consideration of its loyalty to the new Chinese republic.
 
 The present Torguts by Etsin-gol live in great and fatal isolation from their kindred, and their existence is ever
 
@@ -2102,15 +2102,15 @@ The present Torguts by Etsin-gol live in great and fatal isolation from their ki
 
 <a id="120">**120 LIFE BY THE RIVER**</a>
 
-growing more precarious. For a long time hordes of soldiers and officials from the neighbouring over- populated territory of China have brought pressure to bear on them, and Chinese colonists are crowding in from the south, damming up the river to improve their newly cultivated lands and thereby robbing the Torguts in the north of the greater part of their pasturage. At times the river is almost dried up, the belt of fertile ground is narrowing and the desert creeping closer, from both east and west. Owing to the scarcity of fodder the Torguts' herds of cattle, horses and sheep are also dwindling every year. And their chance of expanding northwards is entirely cut off, for there hovers Soviet Mongolia with ideals and regulations incomprehensible to the freedom-loving Mongols.
+growing more precarious. For a long time hordes of soldiers and officials from the neighbouring over-populated territory of China have brought pressure to bear on them, and Chinese colonists are crowding in from the south, damming up the river to improve their newly cultivated lands and thereby robbing the Torguts in the north of the greater part of their pasturage. At times the river is almost dried up, the belt of fertile ground is narrowing and the desert creeping closer, from both east and west. Owing to the scarcity of fodder the Torguts' herds of cattle, horses and sheep are also dwindling every year. And their chance of expanding northwards is entirely cut off, for there hovers Soviet Mongolia with ideals and regulations incomprehensible to the freedom-loving Mongols.
 
 One can see in these Etsin Torguts that they are putting up a hopeless fight. They are often timid in their bearing and their faces bear the stamp of tragedy. And by Etsin-gol I saw for the first and only time Mongols who rode by preference upon asses.
 
-At all times the Torguts have been in constant contact with the dwellers in the north, for the people from Sain Noyen Aimak(1) and the Buryats from the shores of Lake Baikal have always used the track along the river for their pilgrimages to holy Lhasa. The high-spirited Buryats and the vigorous northern Mongols regard these Etsin- gol people and their country with contempt. They are used to trees which provide far better timber and fuel than the poplars along the river, and they cannot regard an ass-riding Mongol as a good Mongol. "Just as the poplars are the poorest of all trees, so are the Etsin-gol Torguts the poorest of all Mongols," they put it.
+At all times the Torguts have been in constant contact with the dwellers in the north, for the people from Sain Noyen Aimak(1) and the Buryats from the shores of Lake Baikal have always used the track along the river for their pilgrimages to holy Lhasa. The high-spirited Buryats and the vigorous northern Mongols regard these Etsin-gol people and their country with contempt. They are used to trees which provide far better timber and fuel than the poplars along the river, and they cannot regard an ass-riding Mongol as a good Mongol. "Just as the poplars are the poorest of all trees, so are the Etsin-gol Torguts the poorest of all Mongols," they put it.
 
 Now, as ever, Tsereat was invaluable to us as our best introduction to the camp fires of the Mongols. He was
 
-1 *Aimak---*old Mongolian denomination for a chief's territory, consisting of one or more principalities. The *aimak* is divided into *hoshun* (banners) which are independent and go by inheritance to younger branches of the family, but the alliance within the *aimak* is maintained, and the oldest prince of the family who rules the principal *hoshun* is regarded as head of the tribe and leader of the whole *aimak.* The *hoshun* is divided into *sumon* (arrows).
+1 *Aimak---*old Mongolian denomination for a chief's territory, consisting of one or more principalities. The *aimak* is divided into *hoshun* (banners) which are independent and go by inheritance to younger branches of the family, but the alliance within the *aimak* is maintained, and the oldest prince of the family who rules the principal *hoshun* is regarded as head of the tribe and leader of the whole *aimak*. The *hoshun* is divided into *sumon* (arrows).
 
 <a id="121">**121 LIFE BY THE RIVER**</a>
 
@@ -2148,7 +2148,7 @@ In the tent which he himself inhabited there were a number of holy books and rel
 
 The Torguts used to say that Tangert Gegen understood the language of animals, and they had seen the *hutuktu* feeding with his own hand wild beasts of the forest which ordinary men only regarded as human food. No huntsman dared to hunt in the neighbourhood of his camp and all wild creatures throve and multiplied.
 
-Tangert Gegen had not become a famous *hutuktu,* because he had not surrounded himself with the mysterious atmosphere of inaccessibility of a Mongolian divinity. He himself never sought anyone out, but lamas needing advice and Torguts oppressed with sin came often to him, and he was always ready to help with counsel and blessing. His prophecies gave an immediate impression of wisdom, for his ear was tuned to the divine in nature; he had learned of its wonders, listened to its voices and had grown aware of many profound truths.
+Tangert Gegen had not become a famous *hutuktu*, because he had not surrounded himself with the mysterious atmosphere of inaccessibility of a Mongolian divinity. He himself never sought anyone out, but lamas needing advice and Torguts oppressed with sin came often to him, and he was always ready to help with counsel and blessing. His prophecies gave an immediate impression of wisdom, for his ear was tuned to the divine in nature; he had learned of its wonders, listened to its voices and had grown aware of many profound truths.
 
 <a id="124">**124 LIFE BY THE RIVER**</a>
 
@@ -2168,7 +2168,7 @@ The chief's abode consisted of one large and several smaller houses constructed 
 
 In the south wall was an enormous red lacquer door. This was closed and would remain closed, for on the ground in front of it were laid three great tree-trunks in such a way that with the threshold on the fourth side they formed a rectangle. This might signify that the prince was ill or afflicted with some trouble, but it might equally well imply that the lamas were in this way shielding their lord from "the evil eye".
 
-The surroundings of Ser-Sonche were desolate and grey. The buildings lay on a stony plateau which trailed away to the west, but with sharp eyes and in good visibility one could make out the band of woods which indicated the course of the river's two branches, Dondur- gol and Obo'en-gol. Not far from the residency in the direction of Obo'en-gol lay a little temple from which issued the melancholy notes of some wind instrument. Otherwise all was silent and deserted.
+The surroundings of Ser-Sonche were desolate and grey. The buildings lay on a stony plateau which trailed away to the west, but with sharp eyes and in good visibility one could make out the band of woods which indicated the course of the river's two branches, Dondur-gol and Obo'en-gol. Not far from the residency in the direction of Obo'en-gol lay a little temple from which issued the melancholy notes of some wind instrument. Otherwise all was silent and deserted.
 
 A few hundred yards beyond the princely abode lay a row of tents and thence three men approached us. They were finely dressed, dignified people, and one of them wore in his hat the peacock-feather insignia of nobility. The latter bowed courteously to us and pointed to the tree-trunks symbolizing the impassable rectangle
 
@@ -2194,7 +2194,7 @@ Prince of the second class . *chün (jy) wang*
 
 Prince of the third class . . *beile*
 
-Duke of the first or second class . *kung* 
+Duke of the first or second class . *kung*
 
 Noble of the first or second class . *taiji*
 
@@ -2274,7 +2274,7 @@ But the boat did not come. The bubbling mass of water rushed by us, scornful and
 
 <a id="132">**132**</a>
 
-##CHAPTER XV
+## CHAPTER XV
 
 **SAILING ON UNCHARTED WATERS WITH THE CHIEF**
 
@@ -2306,7 +2306,7 @@ And so the nerve-racking moment arrived for this remarkable vessel to be launche
 
 was lowered down the steep bank and with a thud and a splash landed in the river. And the exultation was great for the boat floated away on the swift stream until the mooring ropes checked its further movement. And there it lay rocking on the swift stream, a little ungainly but as solid as a broad-breasted goose.
 
-We christened her *Ormen lange,(1) our famous boat that took so long to build but had at last materialized. And then we went on board for a trial trip. With one leg in each canoe we sat on the narrow thwarts. On the "desk" in front of him the chief had his compass and other map-making gear. My only tool was a two- bladed oar, a kind of makeshift paddle.
+We christened her *Ormen lange,(1) our famous boat that took so long to build but had at last materialized. And then we went on board for a trial trip. With one leg in each canoe we sat on the narrow thwarts. On the "desk" in front of him the chief had his compass and other map-making gear. My only tool was a two-bladed oar, a kind of makeshift paddle.
 
 On the bank stood the Mongols speechless with amazement, while our delighted companions ran along the edge of the water but we sailed proudly past them.
 
@@ -2324,7 +2324,7 @@ The sources of Etsin-gol are far down in the south at the foot of Nan Shan, the 
 
 which the river carries its waters farther north and into Mongolia. Here the river splits into an eastern and a western branch, and these themselves divide again into smaller branches which all discharge and disappear into the two alkaline lakes, Gashun-nor and Socho-nor.
 
-The eastern of the two great branches of the river is called by the Mongols Etsin-gol or Ikhe-gol (the great river), and this in its turn splits into an eastern stream, Dondur-gol (the central river), and a westerly, Obo'en- gol (the river of the Obo). These two branches empty themselves into Socho-nor with the exception of the body of water which is carried by a lesser tributary of Obo'en-gol over to Gashun-nor. That the most easterly of these watercourses is called "the central river" would seem to be a relic from the time when the whole of that now completely sterile district round Khara Khoto was an irrigated and fertile land. The western of the two great branches is called Murin-gol (the winding river) and all its water is carried into Gashun-nor.
+The eastern of the two great branches of the river is called by the Mongols Etsin-gol or Ikhe-gol (the great river), and this in its turn splits into an eastern stream, Dondur-gol (the central river), and a westerly, Obo'en-gol (the river of the Obo). These two branches empty themselves into Socho-nor with the exception of the body of water which is carried by a lesser tributary of Obo'en-gol over to Gashun-nor. That the most easterly of these watercourses is called "the central river" would seem to be a relic from the time when the whole of that now completely sterile district round Khara Khoto was an irrigated and fertile land. The western of the two great branches is called Murin-gol (the winding river) and all its water is carried into Gashun-nor.
 
 The main camp of the expedition lay by the one of the two great branches that is called Ikhe-gol, and the boat expedition was to follow its course northward till the stream divided, when it would follow the eastern branch up to Socho-nor. On the seventeenth of October we struck camp and in company with our little auxiliary caravan journeyed to the place where we had left *Long Snake* the evening before. It was a glorious morning, still and full of sounds, and the sun cast warming beams which within the wood were transmuted into colour. The river wound about, and from time to time we were carried by the current into its inner concave bends towards the sheer eroded banks and sometimes swung at an easy pace between long tongues of land and sand islands. There were often men and beasts on the banks, for all came to the river for water.
 
@@ -2340,7 +2340,7 @@ The pull of the current often ran from one bank to the other and it was when we 
 
 At three in the afternoon we came to the point where the river divides, and glided into the eastern branch, Dondur-gol. Towards evening the river suddenly narrowed into a channel scarcely fifty feet wide squeezed into a tunnel of steep wooded banks. Poplars leaned over the water at a sharp angle, the stream ran silent and unruffled, but dark and opaque as a bog. Rays of warm colour from the setting sun pierced through the golden-red mosaic of the vault of autumn leaves, and a drinking fox stole away at the sight of us. Shortly afterwards the smell of smoke drifted across us and soon our cosy blue tent loomed up on the bank.
 
-Larson served *shaslik* and other nomad delicacies in honour of the day. The fire spread its kindly warmth over our circle, and Banche sang sweetly in tones which for all their softness carried far. The night whispered and rustled and the wind crooned quietly in the tree- tops. Another of the Mongols played the flute and drifted from theme to theme while Banche sang of the worlds of phantasy. One heard, as if in a dream, the beating of the earth's very pulse, and it was late before anyone wished to sleep.
+Larson served *shaslik* and other nomad delicacies in honour of the day. The fire spread its kindly warmth over our circle, and Banche sang sweetly in tones which for all their softness carried far. The night whispered and rustled and the wind crooned quietly in the tree-tops. Another of the Mongols played the flute and drifted from theme to theme while Banche sang of the worlds of phantasy. One heard, as if in a dream, the beating of the earth's very pulse, and it was late before anyone wished to sleep.
 
 <a id="137">**137 SAILING UNCHARTED WATERS**</a>
 
@@ -2358,7 +2358,7 @@ I had no notion what *socho* were, but after an anxious glance towards the lake 
 
 <a id="138">**138 SAILING UNCHARTED WATERS**</a>
 
-of the gods. In order to punish the people the angry gods one night caused the whole city to sink into the earth, and in the hollow made by this they created a lake into which they cast alkali and salt so that no people would be able to live in its proximity. But the innocent cattle were not to suffer for the sake of their sinful owners and the animals therefore were transformed into *socho,* the water cattle, who could live and multiply on the rich pastures of the lake's bed. Sometimes one could see them rise to the surface of the water, but always right out in the middle of the lake. Sometimes, when the water level was specially low, early morning hunters had seen their tracks on the brink, and old folk could remember their parents telling them how sixty years ago, when the lake was dried up after a very dry summer, the mysterious water cattle had been seen disappearing into the interior of the earth through a hole in the bottom of the lake.
+of the gods. In order to punish the people the angry gods one night caused the whole city to sink into the earth, and in the hollow made by this they created a lake into which they cast alkali and salt so that no people would be able to live in its proximity. But the innocent cattle were not to suffer for the sake of their sinful owners and the animals therefore were transformed into *socho*, the water cattle, who could live and multiply on the rich pastures of the lake's bed. Sometimes one could see them rise to the surface of the water, but always right out in the middle of the lake. Sometimes, when the water level was specially low, early morning hunters had seen their tracks on the brink, and old folk could remember their parents telling them how sixty years ago, when the lake was dried up after a very dry summer, the mysterious water cattle had been seen disappearing into the interior of the earth through a hole in the bottom of the lake.
 
 The lake was ruled over by *socho* and was therefore known as "The Lake of Water Cattle" and *socho* were in intimate contact with the gods. Once upon a time, many generations before, men were better than they are now, and in those times it could happen that a poor huntsman who lived a pure life would hear at night the tree-tops whispering a mystic formula. And if this poor huntsman on the next night led a cow to the edge of the lake and laid himself down to sleep beside it after having cried the proper formula out over the lake, during the night the cow would be visited by *socho* and soon afterwards would become pregnant and give birth to a calf whose productivity was equal to that of a herd of many hundred animals. But nowadays, when people were less good, these miracles occurred no more."
 
@@ -2372,7 +2372,7 @@ In the end we were brought to a complete standstill by a wide barrier of sand bl
 
 At last our caravan came in sight. Rapid measures of rescue were now taken, and we were able to walk ashore over an improvised bridge of case-lids. After this the boat was hauled in by the camels to the bank. A hundred yards beyond the western edge of the delta the lake shore was comparatively firm, and thither the vessel was dragged. And then it was launched on Socho-nor.
 
-The wind had risen, the misty grey air grew clearer, and soon the sun's rays broke through the clouds. The surroundings seemed less repellent as soon as we grew less cold. The surface of the water in front of us took on a clear greenish-blue colour which clearly defined the line of the shore to east and west until this disappeared in grey-blue haze. To northward the lake stretched farther than the eye could see and seemed to melt into the distant horizon. Some screaming lapwings tried to drive us away, and out on the little white- crested waves groups of water-fowl were floating.
+The wind had risen, the misty grey air grew clearer, and soon the sun's rays broke through the clouds. The surroundings seemed less repellent as soon as we grew less cold. The surface of the water in front of us took on a clear greenish-blue colour which clearly defined the line of the shore to east and west until this disappeared in grey-blue haze. To northward the lake stretched farther than the eye could see and seemed to melt into the distant horizon. Some screaming lapwings tried to drive us away, and out on the little white-crested waves groups of water-fowl were floating.
 
 <a id="140">**140 SAILING UNCHARTED WATERS**</a>
 
@@ -2430,7 +2430,7 @@ over. The forces they had now collected must last them for at least the next sev
 
 We went home by way of the place where the men in charge of the expedition's camels were encamped. The Chinese camel-drivers were busily engaged in making warm stockings and mittens of camel wool, but the Mongols just sat and looked melancholy.
 
-In the reed beds in front of the faded tents hundreds of camels were grazing, happily unconscious that soon they would again be laden with heavy burdens and driven over arduous desert marches. The saddle- galls on their backs were now healed, and their humps had risen somewhat, but their thighs were still flabby and thin, and the animals seemed broken down, cowed and weary of life. I tried to startle them with a revolver shot, but they scarcely responded; they only gazed stupidly in my direction and at once resumed their munching. Many of the camels seemed too exhausted to be able to sustain a winter at Etsin-gol, and I wondered how many of them would be fit to get through the winter's strenuous marches through Black Gobi.
+In the reed beds in front of the faded tents hundreds of camels were grazing, happily unconscious that soon they would again be laden with heavy burdens and driven over arduous desert marches. The saddle-galls on their backs were now healed, and their humps had risen somewhat, but their thighs were still flabby and thin, and the animals seemed broken down, cowed and weary of life. I tried to startle them with a revolver shot, but they scarcely responded; they only gazed stupidly in my direction and at once resumed their munching. Many of the camels seemed too exhausted to be able to sustain a winter at Etsin-gol, and I wondered how many of them would be fit to get through the winter's strenuous marches through Black Gobi.
 
 The thoughts of the Mongols did not go out towards the west. The late autumn is the time of all others when the nomad on a caravan journey is seized with longing for his home tent.
 
@@ -2448,7 +2448,7 @@ At the end of October the various groups of the expedition were once more assemb
 
 The four hundred and thirty miles that lay between us and Kami, the easternmost oasis town of Sinkiang, was the most intimidating stage of our long journey, and the preparations for it were made with care.
 
-Our caravan was divided into three columns. The largest, consisting of a hundred and twenty-seven camels was to make its way along the northern edge of the desert so as to avail itself of the probably existing water- places. With this column the chief and eleven of the expedition's staff would travel, and the conduct of it was entrusted to Larson. Norin and Bergman with a caravan of thirty camels were to follow the southern edge of the desert, while the third column was to cross its very heart. The middle column was made up of the meteorologists Haude and Li with Dettmann, Hempel and Kaul, who were respectively to take astronomical observations, to map the route and to maintain wireless communication with the German station at Nauen for checking the time factor in their calculations. The oasis town of Hami was the common goal at which the three groups counted on meeting in the
+Our caravan was divided into three columns. The largest, consisting of a hundred and twenty-seven camels was to make its way along the northern edge of the desert so as to avail itself of the probably existing water-places. With this column the chief and eleven of the expedition's staff would travel, and the conduct of it was entrusted to Larson. Norin and Bergman with a caravan of thirty camels were to follow the southern edge of the desert, while the third column was to cross its very heart. The middle column was made up of the meteorologists Haude and Li with Dettmann, Hempel and Kaul, who were respectively to take astronomical observations, to map the route and to maintain wireless communication with the German station at Nauen for checking the time factor in their calculations. The oasis town of Hami was the common goal at which the three groups counted on meeting in the
 
 <a id="146">**146 WE TRAVERSE BLACK GOBI**</a>
 
@@ -2484,7 +2484,7 @@ For three days we wandered, and our camping-places
 
 were nameless specks in the desert. The nights were cold, and the days' dismal impressions haunted our brains. Etsin-gol was infinitely far, and uncertainty lay in front of us. The country we traversed was empty of life, but each morning we had heard for a short while the song of a lark, which enchanted us in the great stillness. We persuaded ourselves that it was the same lark accompanying us, and the Mongols were convinced that it was the reincarnation of a good spirit that was leading us through the desert.
 
-But on the fourth morning we lay long in our sleeping- bags vainly awaiting the bird's glad morning greeting.
+But on the fourth morning we lay long in our sleeping-bags vainly awaiting the bird's glad morning greeting.
 
 All through the day the glances of the Mongols were often turned on Yolros Lama's prayer-flag in expectation of a new sign to support their hopefulness.
 
@@ -2532,7 +2532,7 @@ We were dead tired and longed to pitch camp, but sought in vain for an inviting 
 
 Suddenly a new silhouette appeared against the starry sky to the southward, and the caravan pulled up. We seemed to be standing before an immense stronghold of darkness, and since the caravan could not risk having its hidden danger in its rear, we halted.
 
-Our distance from the fortress was greater than I reckoned, and I counted over nine hundred camel paces before the surmised contours were transformed into the astonishing reality. In front of me lay a huge stone- built fortress with towers and walls, a colossus reared by human hands in the midst of the unpeopled desert.
+Our distance from the fortress was greater than I reckoned, and I counted over nine hundred camel paces before the surmised contours were transformed into the astonishing reality. In front of me lay a huge stone-built fortress with towers and walls, a colossus reared by human hands in the midst of the unpeopled desert.
 
 Cautiously I rode along the wall until the acrid smoke of Chinese *dunsa*(1) suddenly tickled my nostrils. I pulled up my camel. Four horses stood tied up behind a projection in the wall, but their smoking riders were invisible. I was just going to give my companions the agreed signal of distress, three rapid shots, when my camel rushed off bellowing loudly. I had lost one stirrup, and felt a heavy living being attach itself firmly at the back of my saddle.
 
@@ -2582,7 +2582,7 @@ and made a practice of giving as his domicile some place far remote from that of
 
 The man was born in Russia and derived from the Western Mongolian *Durbet* stock which lives a nomadic life by the Volga. As a result of his virulent revolutionary activity he early found himself in a Russian prison, but succeeded in escaping and went into hiding in far Tibet. There he devoted himself for several years to the study of Buddhistic metaphysics and the mystic formulas of the *Tantra* system, and he himself asserted that he had acquired in India the supernatural qualities of the fakirs.
 
-Europeans who have met him say that he had mastered Sanskrit as well as Tibetan, Mongolian, Chinese and Russian. He had served in the Chang-chia *hutuktu's Yamen,* the ecclesiastical institution in Peking which draws up the Mongolian calendar and is occupied with other astronomical and metaphysical problems.
+Europeans who have met him say that he had mastered Sanskrit as well as Tibetan, Mongolian, Chinese and Russian. He had served in the Chang-chia *hutuktu's Yamen*, the ecclesiastical institution in Peking which draws up the Mongolian calendar and is occupied with other astronomical and metaphysical problems.
 
 It was about the year 1900 that Dambin Jansang began his struggle for power. The Russian professor Pozdneef, relates that at this time he heard him spoken of as a young lama travelling magnificently dressed through the Mongolian steppes. He then called himself Ten-pei Jalsang and claimed to be the son of Temursana and descendant of Amursana, the great champions of liberty among the West Mongols.
 
@@ -2596,7 +2596,7 @@ should assemble the tribes and re-create the ancient *ö**ret* confederation. Al
 
 He was the most prominent of those who inspired the Mongols' national struggle for freedom in 1911 and 1912, and he commanded the horde of West Mongols that attacked the Chinese garrison of Kobdo. After the town fell Dambin Jansang had the Chinese and Mohammedan inhabitants massacred, and himself slaughtered ten persons according to an occult ritual and with their blood painted tokens of victory on the standards of the troops.
 
-For his great services to the newly formed Mongolian nation Dambin Jansang received profuse gratitude from the authorities at Urga. He was invested with the title of *Kung* and was proclaimed as *hutuktu,* and as military governor of Western Mongolia he soon became one of the richest and most powerful chieftains in the country.
+For his great services to the newly formed Mongolian nation Dambin Jansang received profuse gratitude from the authorities at Urga. He was invested with the title of *Kung* and was proclaimed as *hutuktu*, and as military governor of Western Mongolia he soon became one of the richest and most powerful chieftains in the country.
 
 He was cruel to his enemies and was feared by his adherents. The Mongol chiefs behaved towards him as though they had been his servants and on several occasions he humiliated them to the degree of making them hold his stirrup when he mounted. Any who dared to disobey were annihilated; none could escape the fighting lama's terrible vengeance.
 
@@ -2650,7 +2650,7 @@ It is whispered round the camp fires of the nomads that the fighting lama's arro
 
 **PRISONERS**
 
-THE temperature was falling daily. We struggled against the desert's bitter winds, but it was not until the nineteenth of November that the Siberian winter seized upon Black Gobi with storm and snow. For thirty hours we lay cowering in our sleeping- bags, and no one spoke.
+THE temperature was falling daily. We struggled against the desert's bitter winds, but it was not until the nineteenth of November that the Siberian winter seized upon Black Gobi with storm and snow. For thirty hours we lay cowering in our sleeping-bags, and no one spoke.
 
 When the gale at last died down we awoke again to life, but round about us nature lay cold and terrifying. The camels were deeply buried in the snow. Two pregnant ones had slipped their foals during the night, and we were obliged to shoot them. The tents were fluttering in rags, our watches had stopped from the cold and it was difficult even to simulate optimism.
 
@@ -2658,7 +2658,7 @@ When the grey of the sky grew less dense and the sun became visible as a pale di
 
 Day after day we hastened westward, driven by longing for the security of Hami, fleeing from the brooding menace of the desert.
 
-At last, on the twenty-seventh of November, twenty- eight days after the start from Etsin-gol, we came in sight of vegetation. We fell to cheering, for now we believed that all our troubles lay behind us. We camped under some poplar trees and hastened towards some houses with smoking chimneys, filled with longing to encounter human beings.
+At last, on the twenty-seventh of November, twenty-eight days after the start from Etsin-gol, we came in sight of vegetation. We fell to cheering, for now we believed that all our troubles lay behind us. We camped under some poplar trees and hastened towards some houses with smoking chimneys, filled with longing to encounter human beings.
 
 But we never reached the inviting human dwellings, for we were checked by the thunder of hooves. Suddenly we were surrounded by a wild troop of horsemen whose fierce cries we did not understand, but whose faces expressed obvious hostility. They shrieked
 
@@ -2666,7 +2666,7 @@ But we never reached the inviting human dwellings, for we were checked by the th
 
 and howled, and several hundred rifle muzzles encircled us.
 
-The Chinese-speaking leader, a wild-eyed, black- bearded Sart,(1) informed us harshly that the Chinese Governor-General of Sinkiang, Yang Tseng-Hsien, refused us entrance to his domains, and that the soldiers had strict orders to drive us back into the desert whence we came.
+The Chinese-speaking leader, a wild-eyed, black-bearded Sart,(1) informed us harshly that the Chinese Governor-General of Sinkiang, Yang Tseng-Hsien, refused us entrance to his domains, and that the soldiers had strict orders to drive us back into the desert whence we came.
 
 This was nothing less than a death sentence on the caravan, and the impossibility of obeying the order confirmed our courage and our contumacy. We were now at Miao-go, an outlying oasis two days' journey from Hami, and there we were allowed to remain under guard. In the course of the following days we were often threatened with execution, but so much the oftener did we roar our battle song, "Keep right on to the end of the road."
 
@@ -2676,7 +2676,7 @@ On the fifth day our captors received cavalry reinforcements---which, however, w
 
 We stared in amazement at the newly arrived warriors, for they were all dressed in Cossack uniforms and their evolutions were carried out with western military precision. And I was even more astonished when the young leader of the troopers walked into our tent, for his bearing was stamped with dignified grace and his words were Mongolian.
 
-Two days later we were in Hami where we were brought before the Chinese commandant of the town, an opium- ravaged human wreck, and before the commander of
+Two days later we were in Hami where we were brought before the Chinese commandant of the town, an opium-ravaged human wreck, and before the commander of
 
 1 Sart is the name given to the town dwellers of Eastern Turkestan. They are Mohammedans and are often of mixed Turkish and Persian race.
 
@@ -2696,7 +2696,7 @@ Two days later we were in Hami where we were brought before the Chinese commanda
 
 the whole eastern front of Sinkiang, a man of about forty in the uniform of a Chinese Marshal. The few words the Marshal uttered were in Mongolian, and his eyes had a friendly, enquiring glance. I met with the young Mongol officer who brought us from Miao-go to Hami, a number of times, and we arrived at relations which were friendly if also strictly reserved. From him I learned that our hostile reception was due to unfavourable reports received, concerning the expedition, by the Governor-General of the province but that he thought everything would be satisfactorily arranged.
 
-In response to our anxious enquiries as to the northern column's fate he told me what the Mongolian scouts had reported. The column had been pursued by ill- fortune; many of the camels had died; and the rest were no longer fit to carry loads; the Chief lay sick with a few members of the expedition at the waterplace of Sebistei far within the desert; the remaining members were on their way to Hami on foot, since there was not provision for the prolonged stay of so many people in the desert.
+In response to our anxious enquiries as to the northern column's fate he told me what the Mongolian scouts had reported. The column had been pursued by ill-fortune; many of the camels had died; and the rest were no longer fit to carry loads; the Chief lay sick with a few members of the expedition at the waterplace of Sebistei far within the desert; the remaining members were on their way to Hami on foot, since there was not provision for the prolonged stay of so many people in the desert.
 
 This was depressing news, and we tried by every means we could think of to get leave to carry the succour to our colleagues. But every attempt stranded on the refusal of the Chinese Governor-General in distant Urumchi.
 
@@ -2710,7 +2710,7 @@ On the twenty-third of January, after seventy-three days in Black Gobi, the last
 
 members were already on their way to the capital. We travelled the whole way under guard of the young Mongolian chief who had brought us from Miao-go to Hami. I soon came to know that he was Mongrolda Noyen, the leader of the Khoshut Mongols, and that among his soldiers there were Torguts belonging to the great tribe that I was seeking. The chief and his people treated us with friendly courtesy, but I never succeeded in getting from them any information about their native country.
 
-The morning before our arrival in Urumchi, Mongrolda Noyen had disappeared and had been replaced by a Chinese escort, and when we made our entry into the Governor-General's *yamen,* we passed through a guard of honour of soldiers presenting arms.
+The morning before our arrival in Urumchi, Mongrolda Noyen had disappeared and had been replaced by a Chinese escort, and when we made our entry into the Governor-General's *yamen*, we passed through a guard of honour of soldiers presenting arms.
 
 The old Governor Yang soon became filled with inquisitive interest in our project, and from that time onward he was to become the protector of the expedition until his death which, alas, occurred before its task was finished.
 
@@ -2732,7 +2732,7 @@ Central Asiatic ethnography and still had in his possession a great many rare an
 
 One day I went to see him in his hut. We went through his large collections together, and he explained them and told stories about them for hours on end. Among other things he had an extensive collection of coins which he had dug up from various sources or purchased from the natives. The many lead-soft silver pieces and patinated copper coins threw gleams of light on the chequered history of Central Asia, and we read in them the epochs of the dominance of foreign invaders. I listened fascinated to the aged consul's expositions and theories which lent to these old silver and copper coins the attraction of gold itself.
 
-Suddenly I gave a start, for in the collection of those impressed with oriental hieroglyphics lay a silver Swedish coin. It was a Caroline *daler,* and in its upper edge was a cord-worn hole indicating that it had for long been used as an amulet. The consul had bought this coin from a Mongolian prince, the chief of the Tsagechin Beile tribe, who had stated that it came from the tribal treasure chest inherited from his father.
+Suddenly I gave a start, for in the collection of those impressed with oriental hieroglyphics lay a silver Swedish coin. It was a Caroline *daler*, and in its upper edge was a cord-worn hole indicating that it had for long been used as an amulet. The consul had bought this coin from a Mongolian prince, the chief of the Tsagechin Beile tribe, who had stated that it came from the tribal treasure chest inherited from his father.
 
 How this Swedish silver *daler* more than two centuries old came to crop up in the heart of Central Asia the consul could in nowise explain, and we both cudgelled our brains over it without finding a likely explanation.
 
@@ -2750,7 +2750,7 @@ In the company of strangers he was silent and abstracted and appeared embarrasse
 
 Tsagechin Beile was extremely well read both in secular Mongolian and Tibetan religious literature, and he could write in both those languages. While he was yet a young hereditary prince his wide learning and prudent counsels had been famous on the steppes.
 
-But these very merits of his had been the cause of events which left dark memories upon his life. One night he had been taken unawares by the dreaded freebooter Dambin Jansang, who took him captive and soon made use of his valuable abilities on his staff. For years the young prince had sat as coadjutor in the false *hutuktu's* council tent and had been one of the leaders of the robber band. For so great was Dambin Jan- sang's mastery over men's minds that he could persuade honest folk against their will to perpetrate deeds of violence and attach them to his wishes by a mysterious compelling power.
+But these very merits of his had been the cause of events which left dark memories upon his life. One night he had been taken unawares by the dreaded freebooter Dambin Jansang, who took him captive and soon made use of his valuable abilities on his staff. For years the young prince had sat as coadjutor in the false *hutuktu's* council tent and had been one of the leaders of the robber band. For so great was Dambin Jansang's mastery over men's minds that he could persuade honest folk against their will to perpetrate deeds of violence and attach them to his wishes by a mysterious compelling power.
 
 But at the same moment that Dambin Jansang fell Tsagechin Beile had become himself again. The sight of the freebooter's severed head had released him from the hypnotic influence which had dominated him for years. And in the confusion after the fall of the chieftain he had succeeded in getting hold of the desert stronghold's swiftest horse and had fled on its back out into Black Gobi. No avenging pursuer had been able to overtake him, for the horse he rode and the saddle under him had belonged to Dambin Jansang himself. He had turned loose the horse when he reached his father's tent, but the saddle he still had in his possession.
 
@@ -2858,7 +2858,7 @@ During the latter years of Tsewang Raptan the Emperor of China had completely br
 
 With this prince too the Swedish couple enjoyed great favour, and soon the hour of their deliverance struck. For although he released unwillingly "these two so useful and agreeable persons", the chief did not wish for his own benefit to hinder their "pleasure and desire". On March 22nd, 1733, the Renat family took leave of their benefactor, having then sojourned seventeen years among "these Barbarians", of whom the biography of Fru Brigitta says that "in uprightness, mutual Love and several other virtues they compare with many Christian Nations, if they should not in certain respects with reason be preferred to them". After having set out upon the journey Fru Brigitta received as a token of the love they bore her "several handkerchiefs, one after another, whereon were seen signs of the tears which these Princesses had let fall on account of her departure ".
 
-The Swedish couple had succeeded in obtaining the release of eighteen Swedes and a hundred and thirty- four Russians from Dzungarian slavery. On the journey home our travellers were accompanied by the eighteen Swedes and also by twenty "Cottonian Slaves" whom Fru Brigitta wished to bring home to Sweden in order
+The Swedish couple had succeeded in obtaining the release of eighteen Swedes and a hundred and thirty-four Russians from Dzungarian slavery. On the journey home our travellers were accompanied by the eighteen Swedes and also by twenty "Cottonian Slaves" whom Fru Brigitta wished to bring home to Sweden in order
 
 <a id="173">**173 FACTS AND MUSINGS**</a>
 
@@ -2944,7 +2944,7 @@ And so soon as the tent was furnished and homelike, I threw myself down on my bl
 
 sweet and smiling I had heartily agreed to both propositions. But as day and months went by and everything changed except his ritual, he forced on me the irritating thought that perhaps it was I who was a prize idiot who had not a portrait to hang on the tent-pole. And I went through a new mental experience.
 
-Between the hot days we had the boon of cool nights, and we threw ourselves on the cold sand to rest our sun- tormented eyes in the dim remoteness of the gentle stars. The dogs lay in a circle about us ready with friendly waggings of their tail on the slightest glance from their masters. The servants slept, and the camels breathed deeply and heavily in the great stillness.
+Between the hot days we had the boon of cool nights, and we threw ourselves on the cold sand to rest our sun-tormented eyes in the dim remoteness of the gentle stars. The dogs lay in a circle about us ready with friendly waggings of their tail on the slightest glance from their masters. The servants slept, and the camels breathed deeply and heavily in the great stillness.
 
 Every month came the full moon, and then we experienced a strange intimacy with all that was obliterated in the sober light of day. Slowly the round moon glided across a star sprinkled sky, we felt a blessed sense of mental relaxation, the night was timeless and filled with sleepless rest. Occasionally we exchanged an idea, and in the gleaming silver mirror of the moon's disk we interpreted the dreams of our longing. In my desert moon I found the picture of a girl. I knew her attributes and understood her meaning. But Bergman could never see her, and so we kept each his own, and the two girls were equally near to us and almost equally distant.
 
@@ -3058,7 +3058,7 @@ And on the same day that we realized this we started.
 
 **ADVENTURE IN "THE SNOW COUNTRY"**
 
-THE caravan consisted of twenty camels, three donkeys and my *Buran.* Our goal was the source of the Cherchen-darya river in the Tibetan highlands. During the journey Bergman was to look for places for archaeological excavation and I to examine anthropologically such people as we chanced to meet with.
+THE caravan consisted of twenty camels, three donkeys and my *Buran*. Our goal was the source of the Cherchen-darya river in the Tibetan highlands. During the journey Bergman was to look for places for archaeological excavation and I to examine anthropologically such people as we chanced to meet with.
 
 We took a cordial farewell of the dwellers in the oasis, and the old *aksakal* furnished us both with provisions and with friendly counsels and warning. And we received them with gratitude, particularly the latter, for we had never before attempted such elevations as we were now to climb, and the entry to the Snow Country was by the notorious Tash-Dawan, the "Stone Pass", where Makajef had met his fate.
 
@@ -3122,25 +3122,25 @@ Our immediate goal was Temirlik on the mountain lake of Gas-nor, where we expect
 
 We marched for days through magnificent mountain solitudes, and absolute silence enfolded us.
 
-We were constantly on the look out for the animal life of these regions which includes such interesting varieties as the wild horse (*Equus Prschevalski),* and the *kulan* (*Equus hemionus).* The wild horse takes its Latin name from the explorer N. M. Prschevalski, who was the first Westerner in modern times to come on the tracks of that elusive animal. We ourselves never saw any wild horses, though we often came across their tracks.
+We were constantly on the look out for the animal life of these regions which includes such interesting varieties as the wild horse (*Equus Prschevalski)*, and the *kulan* (*Equus hemionus)*. The wild horse takes its Latin name from the explorer N. M. Prschevalski, who was the first Westerner in modern times to come on the tracks of that elusive animal. We ourselves never saw any wild horses, though we often came across their tracks.
 
-The *kulan,* which in appearance suggests a yellowish- brown mule, is far commoner and is often hunted by Mohammedan hunters, who regard its flesh as a great delicacy. The hide of the *kulan* is also much sought after, for it surpasses all others in wearing qualities and is used in preference for the making of sandals and boots. The *kulan* is enormously tenacious of life, and the hunters assert that even after the animal has been flayed
+The *kulan*, which in appearance suggests a yellowish-brown mule, is far commoner and is often hunted by Mohammedan hunters, who regard its flesh as a great delicacy. The hide of the *kulan* is also much sought after, for it surpasses all others in wearing qualities and is used in preference for the making of sandals and boots. The *kulan* is enormously tenacious of life, and the hunters assert that even after the animal has been flayed
 
 <a id="191">**191 IN "THE SNOW COUNTRY"**</a>
 
 and its skin dressed its tail still goes on lashing at the flies!
 
-Now and then we saw leaping *tekhe* (wild goats, ibex, *Capra siberica)* and *argali* (wild sheep, *Ovis Poli*)*.* The sheep often kept to the most inaccessible peaks and their colossal horns stood out silhouetted trumpet-shaped against the sky. They shot over the abysses like winged creatures, and we saw them climb the steepest mountainsides with playful case.
+Now and then we saw leaping *tekhe* (wild goats, ibex, *Capra siberica)* and *argali* (wild sheep, *Ovis Poli*). The sheep often kept to the most inaccessible peaks and their colossal horns stood out silhouetted trumpet-shaped against the sky. They shot over the abysses like winged creatures, and we saw them climb the steepest mountainsides with playful case.
 
-The farther south we went the oftener we saw the tracks and droppings of *kulan.* We were very anxious to procure a handsome specimen for the expedition's zoological collections and had made many excursions to that end, but had not hitherto succeeded in getting within range of any. When therefore one afternoon I met a Mohammedan hunter who had shot a *kulan* that same morning, I persuaded him by the promise of payment to take me to his hunting-ground which lay a few hours' distance from our camp.
+The farther south we went the oftener we saw the tracks and droppings of *kulan*. We were very anxious to procure a handsome specimen for the expedition's zoological collections and had made many excursions to that end, but had not hitherto succeeded in getting within range of any. When therefore one afternoon I met a Mohammedan hunter who had shot a *kulan* that same morning, I persuaded him by the promise of payment to take me to his hunting-ground which lay a few hours' distance from our camp.
 
 We set out at midnight and rode through darkness and silence. Beside a little mountain lake we pitched camp in high reeds. When the first streak of dawn appeared in the east there was a crackling among the reeds, and my companion stiffened in his watchful attitude. Dark silhouettes were stealing forward out of the grey dawn. There was a splashing in the water, and we crawled cautiously in the direction of the sound. When we reached the edge of the reed bed we could distinguish seven horselike animals at a distance of scarcely three hundred yards. They had stopped drinking and were standing with heads erect sniffing in our direction.
 
 "*Kulan*" whispered my companion and pointed out the two which ought to be dropped first.
 
-Suddenly disquiet arose in the herd, and our shots sent them all in thundering flight into the morning mist. But two had fallen, and I ran to the edge of the lake to have a look at my first *kulan.* I was wondering at their resemblance to Mongolian ponies, and then I perceived that one of them was gelded---and I understood.
+Suddenly disquiet arose in the herd, and our shots sent them all in thundering flight into the morning mist. But two had fallen, and I ran to the edge of the lake to have a look at my first *kulan*. I was wondering at their resemblance to Mongolian ponies, and then I perceived that one of them was gelded---and I understood.
 
-Raging I turned to my guide and saw that he was wild- eyed with terror. In a voice of supplication he asked
+Raging I turned to my guide and saw that he was wild-eyed with terror. In a voice of supplication he asked
 
 <a id="192">**192 ADVENTURE**</a>
 
@@ -3264,9 +3264,9 @@ Bergman and I spent the rest of the day in anxious expectation of the sheep whic
 
 event the sympathy of the Mongols might soon return to Yetum's side, and new difficulties be in store for us.
 
-The sun went down upon our anxiety, but with the darkness came the longed-for sheep. It was large and fat, and upon its horns was laid a costly *hadak.* The bringers of the beast were deferential men, and they presented their master's humble greetings.
+The sun went down upon our anxiety, but with the darkness came the longed-for sheep. It was large and fat, and upon its horns was laid a costly *hadak*. The bringers of the beast were deferential men, and they presented their master's humble greetings.
 
-By the pilgrim's way to Lhasa, not far from our camp a number of pilgrims were encamped, and I had heard that one of them was a highly esteemed *hutuktu.* Following an inspiration I dragged the sheep to the pilgrim camp and presented it to the Mongolian incarnation of divinity.
+By the pilgrim's way to Lhasa, not far from our camp a number of pilgrims were encamped, and I had heard that one of them was a highly esteemed *hutuktu*. Following an inspiration I dragged the sheep to the pilgrim camp and presented it to the Mongolian incarnation of divinity.
 
 And the *hutuktu* proved to be Altai Gegen, one of the saints of the Torguts.
 
@@ -3282,11 +3282,11 @@ The Däde Mongols (*däde---*dwelling in high altitudes) who now roam the region
 
 Khoshut tribe which conquered these Tibetan territories two hundred years ago.
 
-When in the beginning of the seventeenth century the great West Mongol coalition, Durbet öret, began its expansion to the territories outside Dzungaria, one of the four main tribes, the Khoshut, drifted to the south under the leadership of the valiant chieftain Turu- baihu. In 1637 the Khoshut Mongols took possession of the country round Kuku-nor. Afterwards they stormed Lhasa, drove out the last king of Tsang and set up the hierarchical dominion which still prevails in Tibet. For this service homage is paid to Turu-baihu throughout the lamaist world as "the defender of the yellow doctrine" under the name of Bogdo Gushi Khan.
+When in the beginning of the seventeenth century the great West Mongol coalition, Durbet öret, began its expansion to the territories outside Dzungaria, one of the four main tribes, the Khoshut, drifted to the south under the leadership of the valiant chieftain Turu-baihu. In 1637 the Khoshut Mongols took possession of the country round Kuku-nor. Afterwards they stormed Lhasa, drove out the last king of Tsang and set up the hierarchical dominion which still prevails in Tibet. For this service homage is paid to Turu-baihu throughout the lamaist world as "the defender of the yellow doctrine" under the name of Bogdo Gushi Khan.
 
 The Khoshut Mongols of these regions are called Taburn tsaidam (*taburn*---five) and are divided into five *notog* (domiciles). The five *notog* are called Kuket-beise, Kurluk-beise, Barun-jassak, Jun-jassak and Teyiner. Each *notog* is subject to a prince who has several subordinate chiefs of whom each is the leader of a "banner". The total strength of the Khoshut Mongols in these regions amounts to twenty-one "banners" numbering altogether about twelve hundred tent families.
 
-The Däde Mongols by Gas-nor among whom we were now staying constitute one "banner" of Teyiner *notog.* The "banner" chief was the grim nomad leader who had his camp not far from our tent, but the prince of their *notog* resided by the lake of Teyiner-nor about two days' journey to the south-east of Gas-nor.
+The Däde Mongols by Gas-nor among whom we were now staying constitute one "banner" of Teyiner *notog*. The "banner" chief was the grim nomad leader who had his camp not far from our tent, but the prince of their *notog* resided by the lake of Teyiner-nor about two days' journey to the south-east of Gas-nor.
 
 Descendants of the original Dzungarian Khoshut tribe are living in other parts too. Thus there is one "banner" in the Altai mountains south of Kobdo, and there are three at Khara Shar by the lake of Bagrash-Köl. There are Khoshut Mongols by the Volga, descendants of the three thousand tent families which at the end of the eighteenth century migrated under the leadership of Kondolen Ubashi from Dzungaria to Russia.
 
@@ -3294,11 +3294,11 @@ During our further stay in Tibet Bergman executed a map of our route, and here a
 
 <a id="201">**201 I BECOME A SHAMAN**</a>
 
-high-lying source of Cherchen-darya which lay imbedded in the massed flowers of the short-lived alpine summer, and when we turned northward again to follow the river to the lowlands, archaeological finds began to crop up. At the oasis town of Cherchen Bergman acquired the first Stone-Age urn found in Sinkiang, and this epoch- making discovery led to his decision to devote prolonged investigation to the ruined towns and burial places of these regions.
+high-lying source of Cherchen-darya which lay imbedded in the massed flowers of the short-lived alpine summer, and when we turned northward again to follow the river to the lowlands, archaeological finds began to crop up. At the oasis town of Cherchen Bergman acquired the first Stone-Age urn found in Sinkiang, and this epoch-making discovery led to his decision to devote prolonged investigation to the ruined towns and burial places of these regions.
 
 The time during which Altai Gegen was to rest at Temirlik before returning with his train of pilgrims to the land of the Torguts was now overpast by several weeks. I was seized with impatience to be off, for each day carried the *hutuktu* a day's journey farther to the north, and with him disappeared this chance of reaching the goal of my longing. But I hoped that riding alone and without heavy baggage I should be able to catch up with his slow camels on the desert road between Charklik and Toksun before the caravan disappeared in the Tien Shan mountains.
 
-So I parted from Folke Bergman, the best of travelling companions on trying journeys, and rode out into the desert alone on *Buran.* For five days I traversed the same sand ocean that Marco Polo crossed six hundred years ago and of which he related that "it is a well- known fact that this desert is a haunt of evil spirits which entice travellers to destruction bv the most splendid illusions".
+So I parted from Folke Bergman, the best of travelling companions on trying journeys, and rode out into the desert alone on *Buran*. For five days I traversed the same sand ocean that Marco Polo crossed six hundred years ago and of which he related that "it is a well-known fact that this desert is a haunt of evil spirits which entice travellers to destruction bv the most splendid illusions".
 
 In Charklik I learned that Altai Gegen and his Torguts had passed the oasis ten days earlier on their way to Turfan, and I accordingly went on post haste to the northward. I passed the dead and dying regions of the Lop desert, froze while riding over the passes in the heights of Kuruk-tagh (5,500 ft.) and scrambled down the mountains' northern slopes to the tropical heat of the Turfan depression six hundred and fifty feet below sea level.
 
@@ -3308,7 +3308,7 @@ Here I overtook Altai Gegen the day before he and his train were to leave the ca
 
 journey for twenty-four hours and during this time he listened smiling and with kind eyes to my wishes. By the end of the time I knew a good deal about the Torguts and had received the holy man's assurance that I should be well received by his tribesmen.
 
-Altai Gegen told me that, in the evening following my departure from Temirlik, Yetum had visited the *hutuktu* to confess a number of his life's sins and to speak about the curse which "the white lama" had called down upon him. He wished to know whether "the white lama" really had such power and what, in that event, he should do to reconcile himself with the gods. The *hutuktu,* who had already heard my version of the affair, assured him that my power and my knowledge were such as the greatest shaman's and that the only way for Yetum to be rid of the curse was to deliver a sheep weekly to the tribal monastery until its prior found his life in better agreement with the Doctrine.
+Altai Gegen told me that, in the evening following my departure from Temirlik, Yetum had visited the *hutuktu* to confess a number of his life's sins and to speak about the curse which "the white lama" had called down upon him. He wished to know whether "the white lama" really had such power and what, in that event, he should do to reconcile himself with the gods. The *hutuktu*, who had already heard my version of the affair, assured him that my power and my knowledge were such as the greatest shaman's and that the only way for Yetum to be rid of the curse was to deliver a sheep weekly to the tribal monastery until its prior found his life in better agreement with the Doctrine.
 
 The prior had later informed Altai Gegen that Yetum's tale of sins was so black that it would take about two years to wash away. A hundred and four weeks was letting him off cheaply, Altai Gegen considered, for Yetum was the possessor of over two hundred sheep.
 
@@ -3316,7 +3316,7 @@ I was now obliged to go on immediately to Urumchi to fit out the expedition to t
 
 The four hundred and fifty miles between Charklik and Urumchi had taken two and a half months on the outward journey with the caravan, but my *Buran* galloped it in twelve days and nights, which on top of an arduous journey of three hundred miles was a proud performance on the part of my splendid horse.
 
-I was met in Urumchi by tragic news. Old Governor Yang, the friend and supporter of our whole expedition, had been murdered during the summer by his own foreign minister who in his turn had been executed with certain of his adherents. The new governor, Chin Shu- jen, was ill disposed to the expedition's aims and had already begun the series of intrigues which were for long to hamper our work in his domains.
+I was met in Urumchi by tragic news. Old Governor Yang, the friend and supporter of our whole expedition, had been murdered during the summer by his own foreign minister who in his turn had been executed with certain of his adherents. The new governor, Chin Shujen, was ill disposed to the expedition's aims and had already begun the series of intrigues which were for long to hamper our work in his domains.
 
 <a id="203">**203**</a>
 
@@ -3342,9 +3342,9 @@ This West-Mongol confederation arose in the extensive territory of Dzungaria, an
 
 The name Dzungaria (from *dzun---*left, and *gare---* hand) is explained by the Mongols as having arisen from the fact that the nomads of Dzungaria constituted the left hand or wing on the Mongols' long front against the non-Mongolian hereditary enemies in the north.
 
-Under the warlike Öret Khans Mahmud, Togon and Essen the West Mongols dominated the whole of Mongolia and were a constant menace to the Chinese empire. Essen took one of the Ming emperors prisoner, but not long after, on the death of Essen in 1453, the West- Mongol confederation lost its political power, and for more than a century and a half the Dzungars (West Mongols) exerted little influence on Mongolia's destiny.
+Under the warlike Öret Khans Mahmud, Togon and Essen the West Mongols dominated the whole of Mongolia and were a constant menace to the Chinese empire. Essen took one of the Ming emperors prisoner, but not long after, on the death of Essen in 1453, the West-Mongol confederation lost its political power, and for more than a century and a half the Dzungars (West Mongols) exerted little influence on Mongolia's destiny.
 
-Towards the end of the sixteenth and at the beginning of the seventeenth century powerful leaders again arose among the Öret chiefs. Khara Khula united the West- Mongol tribes under his strong will and assumed the title of *Khun-taiji* (supreme chief).
+Towards the end of the sixteenth and at the beginning of the seventeenth century powerful leaders again arose among the Öret chiefs. Khara Khula united the West-Mongol tribes under his strong will and assumed the title of *Khun-taiji* (supreme chief).
 
 His son and successor Batur Khun-taiji brought about an alliance between Western and Northern Mongolia (Dzungaria and Khalka), which was ratified in 1640 at a congress in which forty-four Mongolian tribes took part. The West Mongols were now approaching another period of greatness, and their Khun-taiji was a powerful ruler greatly feared by neighbouring peoples.
 
@@ -3400,7 +3400,7 @@ He was succeeded by his son, Shykyr Daichin. After a series of feuds with the Ru
 
 <a id="208">**208 CAVALCADE OF THE WEST MONGOLS**</a>
 
-on behalf of his father and the people, faith and obedience to the Tsar. To show the sincerity of his oath Puntsuk called the gods to witness, kissed the Torgut book of law, *Bichik,* licked his knife and turned its shining steel against his throat.
+on behalf of his father and the people, faith and obedience to the Tsar. To show the sincerity of his oath Puntsuk called the gods to witness, kissed the Torgut book of law, *Bichik*, licked his knife and turned its shining steel against his throat.
 
 But despite this solemn oath the Torguts continued to make incursions into Russian territory, to plunder their villages and to carry off the inhabitants as slaves. The Tsar, however, overlooked these deeds of violence partly because of his own powerlessness, partly because the Torguts readily stood by the Russians whenever the southern frontier was threatened by Mohammedan hordes.
 
@@ -3508,7 +3508,7 @@ Then they went in my suite even to the imperial palace at Jehol where I entertai
 
 Of the Mongols left behind on the western bank of the Volga there were about fifteen thousand tents with seventy thousand inhabitants. It is their descendants who in our days live a nomadic life on the most barren salt steppes by the Volga, isolated among Turkish- and Russian-speaking peoples.
 
-The word Kalmuck, which in the west has come to denote all West Mongols, is not of Mongolian origin, but is derived from the Turkish *kalmak,* "the remaining" or "the left behind". With the passage of time it has been accepted as a designation by the remnant of a
+The word Kalmuck, which in the west has come to denote all West Mongols, is not of Mongolian origin, but is derived from the Turkish *kalmak*, "the remaining" or "the left behind". With the passage of time it has been accepted as a designation by the remnant of a
 
 <a id="215">**215 CAVALCADE OF THE WEST MONGOLS**</a>
 
@@ -3516,7 +3516,7 @@ people beside the Volga, but among the West Mongols of Central Asia it is regard
 
 Observations among the surviving descendants of these people give a depressing idea of the fate which would have overtaken the whole of the proud Torgut people if Obish Khan with wise foresight had not ventured to flee with his nomads to the free steppes of Dzungaria.
 
-The Danish physician and explorer, Hans S. Kaars- berg, who visited the Kalmuck steppes by the Volga in 1891, writes as follows:
+The Danish physician and explorer, Hans S. Kaarsberg, who visited the Kalmuck steppes by the Volga in 1891, writes as follows:
 
 The race is looked down upon, but if the Kalmucks had not in past times helped the Russians the latter would hardly be what they now are in the Caucasus. The Kalmucks are Russian subjects, judged according to Russian law and are compelled to do military service in the Tsar's army. . . . The horse was once the Kalmucks' wealth, but that time is now past. ... In past days a well-to-do Kalmuck owned a hundred horses, a rich one a thousand. One Kalmuck owned three thousand horses sixteen years ago; now he has none at all. . . .
 
@@ -3586,7 +3586,7 @@ Our gallop across the plain ended at its north-western
 
 edge where four tents lay in shelter close to the hillside birch forest. Lissom Mongol women ran out of the tents to catch up the barking dogs, and in front of the principal tent a young Mongol whom I knew stood smiling, Mongrolda Noyen, one of the chiefs of the Khoshut Mongols and my former gaoler.
 
-In the Khoshut camp round about there was a bustle of preparation for departure, for it was the time when the nomads move from the alpine summer pastures to the more sheltered steppes along the banks of Bagrash- Köl in the southern lowlands. But in Mongrolda Noyen's tent the bustle gave way to hospitality, and we ate and drank and let the time go by.
+In the Khoshut camp round about there was a bustle of preparation for departure, for it was the time when the nomads move from the alpine summer pastures to the more sheltered steppes along the banks of Bagrash-Köl in the southern lowlands. But in Mongrolda Noyen's tent the bustle gave way to hospitality, and we ate and drank and let the time go by.
 
 The young *Khatun* was a frank and fresh steppe beauty who performed her duties as mistress of the tent with youthful grace and practiced assurance. Twenty-three summers stood behind her, and she was in the full bloom of her beauty. Her carriage and movements were those of the wild, modified by tradition, her eyes were quick and limpid, and her teeth gleamed with startling whiteness behind her bright red, smiling lips.
 
@@ -3608,7 +3608,7 @@ The young hostess of the chief's tent was a daughter of the most powerful dynast
 
 Mongrolda's uncle, known and revered in the tribe under the name of Töin Geling, had secured to himself, his family and perhaps the whole Khoshut tribe the favour of the gods by renouncing the benefits of this life. Nine years before, he had withdrawn with two assistant lamas into a remote mountain tract where the three hermits now lived absorbed in holy writings and in the pure beauty of nature.
 
-The three Khoshut tribes which now lead a nomadic life in the neighbourhood of the Torguts had shared much of the fate of the latter. Generations of Khoshut and Torgut tribes had together pastured their flocks by the banks of the distant Volga. It was one of Mon- grolda Noyen's ancestors who had fled from the massacre in Dzungaria to seek refuge with the mighty Ayuk Khan and another who had listened to Obish Khan's cry of "*Yabonah*" and then with the Torguts had defied the sore distresses and fought out the bloody struggles of the long flight from west to east.
+The three Khoshut tribes which now lead a nomadic life in the neighbourhood of the Torguts had shared much of the fate of the latter. Generations of Khoshut and Torgut tribes had together pastured their flocks by the banks of the distant Volga. It was one of Mongrolda Noyen's ancestors who had fled from the massacre in Dzungaria to seek refuge with the mighty Ayuk Khan and another who had listened to Obish Khan's cry of "*Yabonah*" and then with the Torguts had defied the sore distresses and fought out the bloody struggles of the long flight from west to east.
 
 Thanks to his ability and the strength of his youth, Mongrolda Noyen had been appointed chief of the cavalry which the twelve Khoshut banners placed under the orders of the Torgut regent, and since his connection by marriage with the Torgut ruling family he had been made chief of one of the squadrons forming the regent's bodyguard.
 
@@ -3670,7 +3670,7 @@ At times the Mongols and the horses checked and stood motionless as statues, and
 
 bucks whose imposing horns curved in fantastic silhouettes against the pale sky.
 
-After a whispered consultation we rode on in a direction other than that of the shy game, but before we did so two marksmen had imperceptibly slipped from their horses to follow the game on foot. We all halted in the next valley, and the shots of the hunters were the signal which sent two of our Mongols back with their horses. Twice the hunters came back with white-breasted *argali.* The horns alone weighed anything up to forty-five pounds and, measured on the outer curve, had a length of nearly five feet. And yet the Mongols assured me that these sheep were only undeveloped youngsters.
+After a whispered consultation we rode on in a direction other than that of the shy game, but before we did so two marksmen had imperceptibly slipped from their horses to follow the game on foot. We all halted in the next valley, and the shots of the hunters were the signal which sent two of our Mongols back with their horses. Twice the hunters came back with white-breasted *argali*. The horns alone weighed anything up to forty-five pounds and, measured on the outer curve, had a length of nearly five feet. And yet the Mongols assured me that these sheep were only undeveloped youngsters.
 
 We made camp before sundown in a high-lying mountain hollow, and I invited Mongrolda Noyen to be my guest for the night in my tent. The Mongols ate and were invited to lodge in the tent of the Chinese, but after the meal they soon wandered out into the open air where they lighted a big fire, and their saddles, laid out on the grass, showed where they preferred to take their rest.
 
@@ -3696,7 +3696,7 @@ Suddenly the old man's gaze shifted from the flames
 
 of the fire, and his ears turned from the sounds of the forest. His whole attention was directed to my tent which wavered in the firelight, and to my prayer-flag which fluttered above its top in the capricious mountain wind. I fixed my eyes on the furrowed face, hoping to share the man's imaginative inspiration. The flag's painted "air-horse" leapt into a gallop before one of the hurrying winds of night, and its mystic formulæ glowed in the light from the fire.
 
-It was the flag which Yolros Lama had given me with his promise of *Zayagan,* and my hope of an experience was so intense that I felt something must happen.
+It was the flag which Yolros Lama had given me with his promise of *Zayagan*, and my hope of an experience was so intense that I felt something must happen.
 
 It had grown silent round the fire, and the glances of the Mongols wandered between the prayer-flag and the old man's face.
 
@@ -3710,13 +3710,13 @@ It had grown silent round the fire, and the glances of the Mongols wandered betw
 
 "We too, who sleep this night under its wind-blown prayers, shall acquire its blessings. It shall bring us hunting luck on our journey to the new river."
 
-These were good words, and it was well that they were heard by many who could afterwards carry the rumour of my luck-bringing *hi-mori.* I told the old man from whom I had received the flag and with what promise, and he listened in tense excitement.
+These were good words, and it was well that they were heard by many who could afterwards carry the rumour of my luck-bringing *hi-mori*. I told the old man from whom I had received the flag and with what promise, and he listened in tense excitement.
 
 He willingly acceded to my request to explain the origin and meaning of the "air-horse".
 
 "The *hi-mori* flag is the strongest of all prayer-flags, but your life must be lived in accordance with its mystic formulæ in order that the wind may blow strength into your air-horse. If you defy the import of its symbol, its power is weakened, and you go towards misfortune.
 
-1 Mongolian *hi-mori,* Tibetan *lung-ta.*
+1 Mongolian *hi-mori*, Tibetan *lung-ta.*
 
 <a id="226">**226 BEFORE THE GOAL**</a>
 
@@ -3772,11 +3772,11 @@ We wheeled into the western street, and wherever Mongrolda Noyen rode the soldie
 
 Within the inner wall lay a new system of straight streets bordered by the walled courtyards of flat-roofed whitewashed houses in the Tibetan style. These dwellings formed the winter residences of the Torgut chiefs and great lamas, and guest-houses for visiting dignitaries. Over the five largest houses floated different-coloured triangular banners each with a white disk in its centre, indicating that they were the quarters of the five *gusdä*(1) who lead the five "banners" of the Khara Shar Torguts.
 
-A white cloister wall divided this section of the town from the strictly isolated inmost centre. Above the wall one caught a glimpse of the trees of a hidden garden and from the northern side of the wall could see the upper storey of a long white building. From the tree- grown region south of this emerged the hollow and peculiar sounds that characterize the lamaistic temple service.
+A white cloister wall divided this section of the town from the strictly isolated inmost centre. Above the wall one caught a glimpse of the trees of a hidden garden and from the northern side of the wall could see the upper storey of a long white building. From the tree-grown region south of this emerged the hollow and peculiar sounds that characterize the lamaistic temple service.
 
 Filled with amazement I followed my conductor through the streets so un-Asiatic in their cleanliness, wondering within myself where the tent-born nomad leader had obtained the impulse and the knowledge to erect these gleaming white brick buildings.
 
-1.  *Gusdä*---commander of a "banner" (1,500-2,000 men).
+1 *Gusdä*---commander of a "banner" (1,500-2,000 men).
 
 <a id="230">**230 I AM BROUGHT INTO THE PRESENCE**</a>
 
@@ -3832,7 +3832,7 @@ Next morning tea and a kind of pancakes were served to me almost in my sleeping-
 
 Outside, the sun was shining on all the white walls, and the mysteriously monotonous sound of some temple service blended with the noise of barrack life. Signal horns blared, horses neighed and words of command tried to shout down the combined turmoil.
 
-While I was taking my morning meal the Regent's two *chanse,* Lodong and Lyrup, came in and Doreche and Lobson, Panchen Bogdo's two envoys, all of whom
+While I was taking my morning meal the Regent's two *chanse*, Lodong and Lyrup, came in and Doreche and Lobson, Panchen Bogdo's two envoys, all of whom
 
 <a id="233">**233 OF “THE KHAN IN THE WEST”**</a>
 
@@ -3858,7 +3858,7 @@ The whole assembly of exalted and deposed Mongol dignitaries followed our conver
 
 It soon aroused a good deal of displeasure that I did not show any interest in the political questions of the day, but after I had made them aware of my honest interest in the past of the Torgut people and in all that was noble in their teaching and traditions, their mistrust disappeared and we passed from inflammable subjects to conversation which lay nearer to the tolerant habit of thought of the nomad.
 
-Before the audience was over I took occasion to lay before the Regent my wishes concerning the work which I wanted to carry out among his people, and he promised me permission and all the help which it lay in his power to give. The two *chanse,* Lodong and Lyrup, were at once appointed as my assistants and with them the Tibetan lamas Doreche and Lobson soon associated themselves.
+Before the audience was over I took occasion to lay before the Regent my wishes concerning the work which I wanted to carry out among his people, and he promised me permission and all the help which it lay in his power to give. The two *chanse*, Lodong and Lyrup, were at once appointed as my assistants and with them the Tibetan lamas Doreche and Lobson soon associated themselves.
 
 I could not have had more agreeable colleagues.
 
@@ -3890,7 +3890,7 @@ Unfortunately the Regent insisted on being present during the recordings, and th
 
 The delights of these days culminated in the evenings when I made the little machine give out the day's results. When they heard their own and their friends' voices well forth from the tin funnel they were wild with ecstasy. A Mongol laughs when he is happy, and that is his natural frame of mind, but when he is really amused his delight is exuberant, and the sound of it can be heard afar off. They rolled on the ground, slapped themselves on the thighs and one another on the back, and tears of joy streamed down their checks. The jubilation grew so violent that the horses tied up outside broke loose and rushed round the courtyard in panic.
 
-And with the home-coming singers the stories spread abroad of their adventurous experiences at the court and of *Khilitai abder Kymin,* "the man with the box that can talk".
+And with the home-coming singers the stories spread abroad of their adventurous experiences at the court and of *Khilitai abder Kymin*, "the man with the box that can talk".
 
 If one would enter into the character and mental life of a people one must learn to know its art and its literature.
 
@@ -3948,7 +3948,7 @@ The music of the Mongols is my richest memory from those days, a fascinating lin
 
 I WAS often summoned in the evening to the Regent's study, but it was always full of other guests and servants, and I never met Töin Lama in intimate colloquy. The relations between us long remained ceremonious and impersonal, but I longed to get into touch with him and obtain replies to the questions which only he could answer and which I must find opportunity to put to him without offending against Mongolian etiquette.
 
-Everyone spoke of him as *Gegen* or *Töin Lama.* Neither was his name, but only denoted "the reincarnation" or "the princely lama". About his real name and his lineage I could only interrogate himself, for a Mongol cannot utter the name of his father or his ruler, both of which are sacred to him.
+Everyone spoke of him as *Gegen* or *Töin Lama*. Neither was his name, but only denoted "the reincarnation" or "the princely lama". About his real name and his lineage I could only interrogate himself, for a Mongol cannot utter the name of his father or his ruler, both of which are sacred to him.
 
 Was he actually a descendant of Obish Khan or only the holder of his signet?
 
@@ -4014,7 +4014,7 @@ The Torgut Regent's independent tendencies showed themselves also in his attitud
 
 At his brother's court the Chinese interest had been all-prevailing, and the Mongolian national spirit which awoke after Töin Lama's assumption of sovereignty among the so long meekly obedient Torguts was observed by the Chinese authorities with a suspicion which soon passed into fear. The Regent was spoken of by the Chinese as "the Torguts' strong man", and they made repeated attempts to put down the movement of which he was the origin and which in a few years transformed what had been a cowed population of herdsmen into a defiant and purposeful nomad nation.
 
-When in 1924 the Chinese were to crush the leader of the Tungan revolt, Ma Ti-t'ai, the Governor-General, gave orders for the mobilization of Torgut cavalry and camel transport, but Töin Lama flatly refused the request of the Chinese for assistance. In the beginning of the year 1925 the Regent was asked to send his cavalry to Urumchi to chuck the "Christian" General Feng Yu- hsiang's threatening advance from Kansu, but again Töin Lama answered that his soldiers should not shed their blood in other's wars, but only for their own interests.
+When in 1924 the Chinese were to crush the leader of the Tungan revolt, Ma Ti-t'ai, the Governor-General, gave orders for the mobilization of Torgut cavalry and camel transport, but Töin Lama flatly refused the request of the Chinese for assistance. In the beginning of the year 1925 the Regent was asked to send his cavalry to Urumchi to chuck the "Christian" General Feng Yu-hsiang's threatening advance from Kansu, but again Töin Lama answered that his soldiers should not shed their blood in other's wars, but only for their own interests.
 
 For generations the Torguts had been China's most reliable auxiliaries in Central Asia, and Governor-General Yang Tseng-hsiu perceived that if the nomads would no longer allow themselves to be compelled he must inveigle them with political craft and friendly complaisance.
 
@@ -4044,11 +4044,11 @@ In November I sent a courier to Urumchi for mail, and he was instructed to bring
 
 <a id="245">**245 STRONG MAN OF THE TORGUTS**</a>
 
-valued entertainment these were among the Mongols. I received a packet of old *Weekly Journals,* and their abundant photographic illustrations gave me a starting- point for many accounts of peoples and countries completely unknown to this isolated nomad tribe.
+valued entertainment these were among the Mongols. I received a packet of old *Weekly Journals*, and their abundant photographic illustrations gave me a starting-point for many accounts of peoples and countries completely unknown to this isolated nomad tribe.
 
 It was illustrated papers that were to open the way to the first intimacy between Töin Lama and me. He was the most eager of all my auditors, and every evening we went in detail through the pictures in a year-old weekly paper with all the matter for discussion to which each picture gave rise.
 
-The number containing Charles Lindbergh's Atlantic flight lasted three evenings, and I wonder whether the exploit of that blond scion of Scandinavia with the monstrous *nisdeg telleg,* "ether-carriage", anywhere produced more astonishment and delight than among the Torguts of "the Mountains of Heaven".
+The number containing Charles Lindbergh's Atlantic flight lasted three evenings, and I wonder whether the exploit of that blond scion of Scandinavia with the monstrous *nisdeg telleg*, "ether-carriage", anywhere produced more astonishment and delight than among the Torguts of "the Mountains of Heaven".
 
 The marvellous news of man's ability to follow the flight of the bird gave birth to a plan for the future in the primitive but progress-loving mind of Töin Lama. Of course it would be only a question of time before the Torguts would have their own "ether carriages", and with their aid one of the country's greatest riddles would be solved.
 
@@ -4072,7 +4072,7 @@ These four Great *Khans* are incarnation of divinities: Srong-tsang-Gampo Khan w
 
 the Russians and the incarnation of the goddess Dara äkhä.(1)
 
-The Regent now learned to his surprise that in the wide world there were other independent sovereigns who stood in no tributary relation to any of the four Great *Khans.* And I succeeded in giving a convincing demonstration of King Gustaf's greatness by means of a picture of the day of the Swedish flag in which vast crowds of people and numerous deputations with a forest of flags are shown bringing their "tribute" to the chieftain of all the Swedes---"Sweduin Khan", as I christened His Majesty.
+The Regent now learned to his surprise that in the wide world there were other independent sovereigns who stood in no tributary relation to any of the four Great *Khans*. And I succeeded in giving a convincing demonstration of King Gustaf's greatness by means of a picture of the day of the Swedish flag in which vast crowds of people and numerous deputations with a forest of flags are shown bringing their "tribute" to the chieftain of all the Swedes---"Sweduin Khan", as I christened His Majesty.
 
 1 Dara äkhä is a lamaistic goddess of Mercy and the special patroness of women. She it is, too, who protects the traveller from falling rocks and from the obstacle of swift streams upon his way. Dara äkhä was formed of Bodhisattva Avalokites'vara's tears and reincarnated in two Buddhist princesses, one Chinese (Tsaghan dara äkhä) and one Nepalese (Nogon dara äkhä). These two princesses married the renowned ruler of Tibet, Srong-tsang-Gampo, who under the influence of his two consorts became in the eighth century a Buddhist and originator of the lamaistic form of Buddhism in Central Asia. These two *dara* *ä**kh**ä* are among the host of *dolma* who are also called among the Mongols "The mothers guiding to Nirvana *Dara* *ä**kh**ä* is the Mongols' popular name for these exalted beings who possess besides a large number of titles which are contained in a manuscript, "The divine and venerable *dolma's* eight hundred and eight names". The number eight hundred and eight is sacred and is found again in the eight hundred and eight beads of the lamaistic rosary.
 
@@ -4086,7 +4086,7 @@ That the Tsars *of* Russia have, since the Empresses Elizabeth and Catherine, be
 
 THE nationalist political agitation which originated with the Regent was very noticeable in his entourage.
 
-Couriers came and went daily between the residency in Öreget and the tents of the subordinate Torgut princes. Galloping riders carried despatches to far-dwelling Mongol leaders who were interested in the aspirations for freedom. In the halls of the palace *hutukius* expelled from Khalka, high lamas and chieftains discussed the modern spirit which threatened the steppes, and envoys from far-off princes of the lamaistic church sought out Töin Lama to confer as to the measures to be taken to defend "the yellow doctrine" against the anti- religious propaganda from the north.
+Couriers came and went daily between the residency in Öreget and the tents of the subordinate Torgut princes. Galloping riders carried despatches to far-dwelling Mongol leaders who were interested in the aspirations for freedom. In the halls of the palace *hutukius* expelled from Khalka, high lamas and chieftains discussed the modern spirit which threatened the steppes, and envoys from far-off princes of the lamaistic church sought out Töin Lama to confer as to the measures to be taken to defend "the yellow doctrine" against the anti-religious propaganda from the north.
 
 Sometimes I was afraid for the ultimate consequences of this rapidly growing independence movement among the nomads, and I once hinted to the Regent at the responsibility he was assuming. He did not take my outspokenness amiss, but was at the pains to detail the convictions which dictated his actions.
 
@@ -4208,7 +4208,7 @@ FROM the evening when Töin Lama confided in me his views and object in life our
 
 Töin Lama's was a fascinating personality. He was deeply versed in lamaistic metaphysics and other Buddhist learning, and he had an astonishing knowledge of parts of the world with which he had never been in contact. His information upon the republican mode of government and life in Paris appeared to be derived from a Torgut princess who had received a western education in Peking and was now completing her studies in France. He had not seen this princess since she left the steppes as a child, but he often received communications from her and endeavoured to bring the contents of these into agreement with the learning he himself had acquired at Lhasa.
 
-This princess's brother was the present chief of the Torgut tribe at Khara Ossun (*taburn notog*)*,* who in his youth had served as a page at the Russian court. That these young Torguts had found their way to a world so remote from their steppes was explained by the fact that their father had served in the Peking government during the first year of the Republic when everything western was the fashion in China.
+This princess's brother was the present chief of the Torgut tribe at Khara Ossun (*taburn notog*), who in his youth had served as a page at the Russian court. That these young Torguts had found their way to a world so remote from their steppes was explained by the fact that their father had served in the Peking government during the first year of the Republic when everything western was the fashion in China.
 
 One evening when the two Tibetans and I were again with Töin Lama the conversation turned to the holy
 
@@ -4228,7 +4228,7 @@ Töin Lama's fleshly descent contains in itself a complete explanation of his do
 
 He told us later of his spiritual fathers and his own divine birth.
 
-"One of the hidden valleys of the 'Mountains of Heaven', called *Olon Chogorso Hagochin Toredolok,* is a frequent resort of pilgrims, for there are to be found
+"One of the hidden valleys of the 'Mountains of Heaven', called *Olon Chogorso Hagochin Toredolok*, is a frequent resort of pilgrims, for there are to be found
 
 <a id="255">**255 AND SPIRITUAL BIRTHS**</a>
 
@@ -4286,7 +4286,7 @@ disciples lay at the foot of the rock listening to his last pronouncements from 
 
 "Three years later, rumours of the miracles occurring at the birth of the little Torgut prince were spread by Torgut pilgrims, and since they were further able to testify that their prince bore the bodily defect which characterized Seng Chen's earthly incarnations, a deformity of one kneecap, the faithful remembered the prophecy of the martyr saint of Dongtse of rebirth in a land of felt tents, and Panchen Bogdo himself in his omniscience proclaimed that the three year old Torgut prince was Seng Chen Doryechan's fifth reincarnation on earth.
 
-"This exalted recognition deprived the little prince of his baptismal name, and he exchanged it for Seng Chen Doryechan, 'Powerful Tiger-Jewel-Treasure', and since this name was altogether too precious to be uttered by any, he was simply called *Gegen,* 'the reincarnate', or *Töin Lama,* 'the princely lama'.
+"This exalted recognition deprived the little prince of his baptismal name, and he exchanged it for Seng Chen Doryechan, 'Powerful Tiger-Jewel-Treasure', and since this name was altogether too precious to be uttered by any, he was simply called *Gegen*, 'the reincarnate', or *Töin Lama*, 'the princely lama'.
 
 <a id="258">**258 THE RULER'S BODILY**</a>
 
@@ -4346,9 +4346,9 @@ The aggregate numbers of the Torgut tribes were stated at figures so divergent a
 
 Each of the thirteen 'Torgut principalities is ruled by its *Jassak* (hereditary chief), but the chief of the Khara Shar tribe is the Khan of all the Torguts, and the other twelve are subordinate to him for military and other important purposes.
 
-Of the twelve subordinate chiefs two bear the title of *chin wang* (prince of the first rank), two of *ch**ü**n wang* (prince of the second rank), three of *beile* (prince of the third rank), one of *beitse.* (prince of the fourth rank), one of *kung* (duke of the first rank), and three of *taiji* (noble of the first rank). Each *hoshun* (principality) has a *tuslakchi* who is its civil administrator and is appointed by the chief.
+Of the twelve subordinate chiefs two bear the title of *chin wang* (prince of the first rank), two of *ch**ü**n wang* (prince of the second rank), three of *beile* (prince of the third rank), one of *beitse*. (prince of the fourth rank), one of *kung* (duke of the first rank), and three of *taiji* (noble of the first rank). Each *hoshun* (principality) has a *tuslakchi* who is its civil administrator and is appointed by the chief.
 
-For military purposes each *hoshun* is divided into *sumon* (arrows) of which five constitute a "banner" under the command of a *gusdä.* The military strength of a *sumon* is recruited from one to two hundred tents and is under the leadership of a *meiren.* The total Torgut force under the Regent's command amounts to a hundred and fifty-four *sumon* of which fifty-four are furnished by the Khara Shar tribe alone.
+For military purposes each *hoshun* is divided into *sumon* (arrows) of which five constitute a "banner" under the command of a *gusdä*. The military strength of a *sumon* is recruited from one to two hundred tents and is under the leadership of a *meiren*. The total Torgut force under the Regent's command amounts to a hundred and fifty-four *sumon* of which fifty-four are furnished by the Khara Shar tribe alone.
 
 In addition the Regent has a personal bodyguard of
 
@@ -4534,7 +4534,7 @@ At first I was afraid that my first notes would discordantly disturb his mood. B
 
 The sound of hooves announced the approach of a horseman, and the singer came into view.
 
-"*Amorkhan sain, mendo sain,* peace be in your soul, health in your body," was his greeting, and he dismounted to lay down in front of him the unfriendly rifle.
+"*Amorkhan sain, mendo sain*, peace be in your soul, health in your body," was his greeting, and he dismounted to lay down in front of him the unfriendly rifle.
 
 He was dressed in a cloak of the gayest blue, and round his head and waist he had tied gaudy cotton handkerchiefs, the blood-red and flame-yellow ends of which fluttered freely in the wind. On his feet he had lashed pieces of untanned cowhide with the hairy side outward. After the fashion of laymen he wore a long shining black pigtail down his back. His face was sunburnt and tanned with the wind, and his eyes were surrounded by a fine network of young wrinkles carved by intensive peering against wind and weather and by many a happy smile.
 
@@ -4562,7 +4562,7 @@ We had thrown ourselves down on the grass, and now watched across the pearly dew
 
 <a id="275">**275 IN THE OPEN**</a>
 
-lowing and bleating mothers. The brightly coloured, slender figures of the young daughters and daughters- in-law of the camp came into view as with laughter and happy cries they took up their multifarious morning tasks.
+lowing and bleating mothers. The brightly coloured, slender figures of the young daughters and daughters-in-law of the camp came into view as with laughter and happy cries they took up their multifarious morning tasks.
 
 The sound of the clearest girl's voice rose towards us. "That is Shiri singing," Baying Surong informed me.
 
@@ -4619,7 +4619,7 @@ It was not until towards evening that the mood of the tent became such that I co
 
 FOR three days I stayed in that secluded Mongol camp, and for so long did old Purup put off his departure for Öreget. I smoked pipes and drank tea with the two ancients, and roving hunters and herdsmen from neighbouring camps came to hear new things and to relate old. In three days we devoured the sheep slaughtered on the first, and life in the camp was blissful.
 
-Two of the visiting hunters greeted me as an old acquaintance and turned out to have belonged to the group of Torguts who had slept one night under my "air-horse" on their journey to the hunting-grounds by "the new river", Their leader's prophecy of good hunting luck had been abundantly fulfilled, since the eight hunters had in three days brought down forty- three wild pig and could now look forward with equanimity to the winter.
+Two of the visiting hunters greeted me as an old acquaintance and turned out to have belonged to the group of Torguts who had slept one night under my "air-horse" on their journey to the hunting-grounds by "the new river", Their leader's prophecy of good hunting luck had been abundantly fulfilled, since the eight hunters had in three days brought down forty-three wild pig and could now look forward with equanimity to the winter.
 
 On the morning of the third day a report came into the camp that horse-thieves had been active in the next valley. This communication immediately transformed the smiling and hospitable nomads into raging wild beasts. The Kirghiz who had their tents on the northern side of the mountain got the blame, and soon every man capable of bearing arms was riding at a wild gallop towards their camp.
 
@@ -4699,7 +4699,7 @@ But before I could leave the Torgut capital with an easy mind and a clear consci
 
 In the park to the southward of the Regent's palace stood seven magnificently appointed temple tents before whose altars the highest and most learned lamas in the land performed their unending temple service. At every hour of the twenty-four their chanting voices could be heard, and at dead of night the mysterious sounds of bassoons, conchs and hollow drums arose from the inner sanctuaries.
 
-This the most holy precinct of the Torgut nomads bore the name of *Dolor burkhani ordo kharchi,* and the altars of the seven (*dolor*) temples are sacred to lamaism's supreme gods (*burkhan*) and to the branches of "the yellow doctrine" which these gods represent. One temple was devoted to astrology (*tsurkha*)*,* another to medicine (*nianba*)*,* and a third to occultism (*yute*)*,* and these temples were called *tsurka-yin-ordo, emchi-yin-ordo* and *yute-yin-ordo.*
+This the most holy precinct of the Torgut nomads bore the name of *Dolor burkhani ordo kharchi*, and the altars of the seven (*dolor*) temples are sacred to lamaism's supreme gods (*burkhan*) and to the branches of "the yellow doctrine" which these gods represent. One temple was devoted to astrology (*tsurkha*), another to medicine (*nianba*), and a third to occultism (*yute*), and these temples were called *tsurka-yin-ordo, emchi-yin-ordo* and *yute-yin-ordo.*
 
 The last-named temple was occupied by two aged lamas who were skilful astrologers and enjoyed a great reputation for their knowledge of the mystical *tantra*
 
@@ -4711,7 +4711,7 @@ Another of the temple tents was called *gegen-ni-ordo* and this, with the lamas 
 
 Chief among the gods of this temple was Maidari the coming saviour, the deity whom the ruler of the Torguts most highly honoured.
 
-To the left of the altar stood the canopied throne from which, in his capacity of reincarnation of the Seng Chen deity, the Regent dispensed blessings to the assembled pilgrims. In front of the throne stood a richly carved and cunningly painted table spread with all the sacred attributes proper to a *hutuktu.* Along the eastern side of the tent stood the red lacquered and gilded bed which Seng Chen used on his travels.
+To the left of the altar stood the canopied throne from which, in his capacity of reincarnation of the Seng Chen deity, the Regent dispensed blessings to the assembled pilgrims. In front of the throne stood a richly carved and cunningly painted table spread with all the sacred attributes proper to a *hutuktu*. Along the eastern side of the tent stood the red lacquered and gilded bed which Seng Chen used on his travels.
 
 The interior of the tent was draped with blue and red silk, and from the roof hung temple banners with representations of *dokshit* of terrifying aspect for the protection of the gentler gods upon the altar. Cult objects of massive silver glittered in the fluttering light of the oil-lamps, and the strong and strident colours in the dim interior of the tent produced a concentrated effect of Asiatic splendour and hallowed mystery.
 
@@ -4729,7 +4729,7 @@ According to the Mongolian chronicle it was Tümengkhen, a son of the Khalka pri
 
 After his return from Lhasa, Abatai in 1586 erected the first Mongolian monastery by the river Orkhon. The new monastery which was given the name of Erdeni Dzu, "The Jewel Wreath", became the first centre from which Tibetan and afterwards Mongolian lamas preached "the yellow doctrine".
 
-In 1640 the Mongols acquired their own "yellow" pontiff, in that the fifteen-year-old son of Tusheto Khan was, under the name of Lobsang Damba Dshamdsan, proclaimed *gegen,* "enlightened", and it is his rebirths who down to 1925 have been the Mongols' spiritual leader Bogdo Gegen, "the living Buddha" in Urga.
+In 1640 the Mongols acquired their own "yellow" pontiff, in that the fifteen-year-old son of Tusheto Khan was, under the name of Lobsang Damba Dshamdsan, proclaimed *gegen*, "enlightened", and it is his rebirths who down to 1925 have been the Mongols' spiritual leader Bogdo Gegen, "the living Buddha" in Urga.
 
 Several Mongolian monasteries derive from the latter half of the seventeenth century or are even more recent, for the new Manchu dynasty had numerous temples built on the wide expanses of the grasslands in order to transform the warlike nomads into peaceful herdsmen, and pious monks. Herein lies the explanation of the fact that most of the monastic buildings of Mongolia are built in the Manchu-Chincsc style and not in the Tibetan, although "the yellow doctrine" originated in Tibet.
 
@@ -4753,13 +4753,13 @@ That the old nomad tradition that even the gods should be lodged in tents as mob
 
 Tibet, the tribe was living beyond the frontier of distant Russia.
 
-On one of my last evenings in Öreget I followed Seng Chen into *gegen-ni-ordo,* and he did not hinder me. We had just finished the usual discussion of the actual problems of a sinful world, but when he changed his European costume for the long yellow lama's robe it was as though the man before me changed his nature. The quick intelligent glance grew introverted and unseeing, the lively play of feature subsided into tranquil receptivity.
+On one of my last evenings in Öreget I followed Seng Chen into *gegen-ni-ordo*, and he did not hinder me. We had just finished the usual discussion of the actual problems of a sinful world, but when he changed his European costume for the long yellow lama's robe it was as though the man before me changed his nature. The quick intelligent glance grew introverted and unseeing, the lively play of feature subsided into tranquil receptivity.
 
 I saw him sink down in prayer before Maidari and the other gilded images of gods which to him symbolized lofty ideals and profound truths. The sacred colours of the silken hangings and temple banners, white, yellow, red, green and blue, shifted in the dim light from the altar, and the mist of incense floated about the kneeling being in the flame-yellow silk robe.
 
 The *hutuktu's* orientally slender hands carried out plastic movements, tracing sacred symbols in the air.
 
-Then he aspersed *darpana,* the dull bronze mirror of the Omniscient with drops of holy water---and I left him, for alone with his gods must the Holy one decipher *darpana's* all-knowing answer.
+Then he aspersed *darpana*, the dull bronze mirror of the Omniscient with drops of holy water---and I left him, for alone with his gods must the Holy one decipher *darpana's* all-knowing answer.
 
 For long I walked about in the neighbourhood of the tent, for its atmosphere held me. I drank in the steppe wind and counted the stars. I hummed the nomad's lovely songs and thought their happy thoughts.
 
@@ -4903,7 +4903,7 @@ freedom but could never leave the camp, which was guarded by the Tsar's soldiers
 
 "After searching for days he came to a great fire by which sat a magician. He was just in time to see the magician cast his beloved to a gigantic serpent which swallowed her and their unborn child. When the serpent had devoured its hapless victims it was thrown into a great cauldron that was boiling over the fire. The white magician ceaselessly muttered secret spells, and from time to time he stirred the cauldron with a staff.
 
-"Towards night the magician fell asleep and the terror- stricken youth ventured forward to the fire. An oily brew was bubbling in the cauldron, and the boy made bold to seek with the staff for a fragment of his beloved, whose skull might serve him as a talisman. Suddenly he stumbled and dropped the staff, which fell so that it struck the sleeping magician's hand. In a moment the man was writhing in his death agony.
+"Towards night the magician fell asleep and the terror-stricken youth ventured forward to the fire. An oily brew was bubbling in the cauldron, and the boy made bold to seek with the staff for a fragment of his beloved, whose skull might serve him as a talisman. Suddenly he stumbled and dropped the staff, which fell so that it struck the sleeping magician's hand. In a moment the man was writhing in his death agony.
 
 "The contents of the cauldron were a deadly magic poison for the preparation of which was required a serpent that had swallowed a young girl bearing her first child in her womb.
 
@@ -4935,7 +4935,7 @@ I myself began the installation of the telephones I had
 
 <a id="296">**296 THE YEAR OF THE "IRON SNAKE"**</a>
 
-brought from Urumchi, a task which Seng Chen followed with immense curiosity and eager expectation. With three intervening poles I connected the Regent's study with the room in the *yamen* occupied by the *tuslakchi.* The Regent was enraptured, grateful and proud about his new acquisition, but the conservative official on the other hand was less enthusiastic over coming into such close contact with his energetic ruler.
+brought from Urumchi, a task which Seng Chen followed with immense curiosity and eager expectation. With three intervening poles I connected the Regent's study with the room in the *yamen* occupied by the *tuslakchi*. The Regent was enraptured, grateful and proud about his new acquisition, but the conservative official on the other hand was less enthusiastic over coming into such close contact with his energetic ruler.
 
 When the Khan had guests, his marvellous new possession had to be demonstrated in the most effective way. Accordingly he announced to his amazed audience that at a time fixed by himself the *tuslakchi* would come into the room without anyone having been sent to fetch him. A ring of the bell; a few orders on the wire, and there stood the venerable official breathless in the doorway!
 
@@ -4951,7 +4951,7 @@ wails were hung with banners and prayer-flags, and in the temple tents chanting 
 
 And so "the Earth Dragon's year" went out, and " the Iron Snake's year" came in.
 
-*Shene Jil,* the Mongolian New Year, is ushered in by *tsaghan sar,* the white month, and the year's greatest festivities are celebrated during the first half of that month, when the nomads, chiefs and herdsmen, acclaim the return of light and spring.
+*Shene Jil*, the Mongolian New Year, is ushered in by *tsaghan sar*, the white month, and the year's greatest festivities are celebrated during the first half of that month, when the nomads, chiefs and herdsmen, acclaim the return of light and spring.
 
 On the first day of the New Year a new tent was set up in front of the palace. It was of imposing dimensions, about forty-five feet in diameter, and gleaming white, for the felt which covered its surface was prepared from the wool of young lambs.
 
@@ -4965,7 +4965,7 @@ Nothing in the tent was of recent manufacture; every object was a treasure inher
 
 <a id="298">**298 THE YEAR OF THE "IRON SNAKE"**</a>
 
-mony symbolizing the tribe's adherence to the time- honoured traditions of its fathers.
+mony symbolizing the tribe's adherence to the time-honoured traditions of its fathers.
 
 This was the Khan's tent of the Torguts, and the silver chest on the ground contained the ancient signet of the Khanate.
 
@@ -4973,11 +4973,11 @@ The place in front of the tent was swarming with Mongols dressed in their gaily 
 
 In various places soldiers and secretaries stood to receive the people's New Year's gifts to the Regent. Herdsmen were leading mettlesome horses, mighty oxen and fat sheep, all festally adorned with silken ribbons; hunters brought precious furs or live *maral*(1) fawns, and the poor brought whatever their tents could afford; all were gifts to the country's ruler.
 
-A blast on a horn hushed the turmoil and reduced it to a devout silence. Through a thousand-headed crowd of kneeling men Seng Chen stepped slowly out from his palace towards the Khan's tent of the Torguts. He was robed in the sacred garments of a *hutuktu,* and his yellow mantle shone in the sun like hammered gold.
+A blast on a horn hushed the turmoil and reduced it to a devout silence. Through a thousand-headed crowd of kneeling men Seng Chen stepped slowly out from his palace towards the Khan's tent of the Torguts. He was robed in the sacred garments of a *hutuktu*, and his yellow mantle shone in the sun like hammered gold.
 
 Before him walked two old hunters in simple deerskin dresses. Both carried silver-mounted muzzle-loaders over their shoulders, and costly hunting-gear hung from their belts. These hunters were descendants of two warriors of Obish Khan's bodyguard, and the ancient guns with their appurtenances were a part of Obish Khan's personal war booty from the campaign against the Turks in 1768.
 
-After the Regent came the procession of chiefs and nobles from the various Torgut tribes, *hutuktus,* great lamas and chiefs taking part in his liberation movement, who had come all the way from Tibet and Khalka Mongolia---and "the Consul" from the far north.
+After the Regent came the procession of chiefs and nobles from the various Torgut tribes, *hutuktus*, great lamas and chiefs taking part in his liberation movement, who had come all the way from Tibet and Khalka Mongolia---and "the Consul" from the far north.
 
 1 *Maral*---the Asiatic equivalent of our red deer.
 
@@ -5047,7 +5047,7 @@ The prior of the monastery was an intelligent and learned high lama who maintain
 
 five boys from among the laity for whose instruction they were responsible.
 
-In the neighbourhood of the monastery the lamas had fenced in a large tract of forest, and it was Seng Chen's intention there to establish a *maral* farm. The hunters had received orders to make their New Year's gifts as far as possible in the form of *maral* fawns, and the stock on the farm now amounted to about fifty animals. The antlers of the *maral* fetch an enormous price from the Chinese who use them in the preparation of medicine for preserving youthful vitality, and it was Seng Chen's idea that the farm would become a valuable source of income to the tribe, without the capital represented by the animals, which were scarce and hard to come by, being diminished by their slaughter. Each spring, when the antlers were new and full of blood, they were to be cut off, and each animal would thus bring in an annual income of upwards of a hundred and twenty *taels,* fifteen to twenty pounds.
+In the neighbourhood of the monastery the lamas had fenced in a large tract of forest, and it was Seng Chen's intention there to establish a *maral* farm. The hunters had received orders to make their New Year's gifts as far as possible in the form of *maral* fawns, and the stock on the farm now amounted to about fifty animals. The antlers of the *maral* fetch an enormous price from the Chinese who use them in the preparation of medicine for preserving youthful vitality, and it was Seng Chen's idea that the farm would become a valuable source of income to the tribe, without the capital represented by the animals, which were scarce and hard to come by, being diminished by their slaughter. Each spring, when the antlers were new and full of blood, they were to be cut off, and each animal would thus bring in an annual income of upwards of a hundred and twenty *taels*, fifteen to twenty pounds.
 
 During our visit to Shara Sume we attended the last of the fifteen sacred readings which introduce the monastic New Year.
 
@@ -5109,7 +5109,7 @@ Inspired by the life of the three worlds and Lama nome'en Khan Bogdo Tson Khapa 
 
 In Enet-keghien oron-etse (India) was born Geril Dare Khan (Khan of supreme radiance). He later travelled to Sinanfu(1) where Khara kitad lived.
 
-There "he captured" the golden signet and became Khan. Before that happened Khara kitad had had no Khan or *noyen.* For many many years after Khara kitad was ruled by his descendants and one of these bore the name of Naren Khan (The Sun Khan).
+There "he captured" the golden signet and became Khan. Before that happened Khara kitad had had no Khan or *noyen*. For many many years after Khara kitad was ruled by his descendants and one of these bore the name of Naren Khan (The Sun Khan).
 
 Naren Khan had thirty sons, and the eldest became Tangman Khan who also had many sons, and one of these was On-Tas.
 
@@ -5177,7 +5177,7 @@ The room was fitted up as a museum of objects to which tradition ascribed a conn
 
 Underneath this painting were displayed in miniature on the one side the portrait painter and on the other the Khan's biographer, both engaged on their respective tasks.
 
-After six paintings of Seng Chen's forefathers comes the first photograph in the gallery, representing Seng Chen s father Tu-yen Meng-ku who in his youth performed a pilgrimage to a Buryat monastery. The photograph was taken by a Russian Buryat and shows the Khan in the holy robe of a penitent. Tu-yen Meng- ku, who assumed the Khanate in 1891, was succeeded by his son, who in turn was succeeded by his brother, the present Regent, in 1920.
+After six paintings of Seng Chen's forefathers comes the first photograph in the gallery, representing Seng Chen s father Tu-yen Meng-ku who in his youth performed a pilgrimage to a Buryat monastery. The photograph was taken by a Russian Buryat and shows the Khan in the holy robe of a penitent. Tu-yen Meng-ku, who assumed the Khanate in 1891, was succeeded by his son, who in turn was succeeded by his brother, the present Regent, in 1920.
 
 In the museum there was also the silver-mounted box in which the signet of the Torgut Khanate was preserved. The signet was presented to Obish Khan in
 
@@ -5201,7 +5201,7 @@ Sven Hedin's book which describes his visit to the pontiff at Tashi-Lhumpo twent
 
 The Regent now began to devote more and more of his time to superintending the work upon the temple tent. We worked with feverish zeal, for my stay among the Torguts might at any moment come to the knowledge of the Chinese authorities, and this would certainly lead to my recall to Urumchi.
 
-But the weeks went by without interruption, and the work was nearing its completion. The women combined smooth silk and glittering brocades in symbolic patterns, accomplished lamas painted temple banners and prayer- flags, and the Regent's personal *darkhan*(1) hammered copper and silver into pots and sacrificial vessels. Every detail was carefully carried out, and the industry and achievement of the craftsmen were worthy of the promised payment.
+But the weeks went by without interruption, and the work was nearing its completion. The women combined smooth silk and glittering brocades in symbolic patterns, accomplished lamas painted temple banners and prayer-flags, and the Regent's personal *darkhan*(1) hammered copper and silver into pots and sacrificial vessels. Every detail was carefully carried out, and the industry and achievement of the craftsmen were worthy of the promised payment.
 
 Nevertheless the new *gegen-ni-ordo* was a disappointment to me. The copy had none of the atmosphere of its prototype, and this was not to be bought for money. The sharp brush strokes of the symbolic paintings lacked the warm patina of time, the hammer marks on the metal objects had not been worn by the hands of the faithful, the fragrance of incense, the flames of the lamps and the fervent prayers of mankind had not breathed life into the altar s images of gods. The temple was an article admirably executed for export, cold and stripped of the profound significance of its original.
 
@@ -5231,7 +5231,7 @@ The hollow thud of drums sounded from somewhere, the strident note of some instr
 
 <a id="312">**312 OCCULTISM IN A TEMPLE TENT"**</a>
 
-The moment the pulsation of the drums ceased out there Lobson hade me follow him. In silence we walked towards the enclosure of the seven tents. The night was pitch dark; only here and there a pale star peeped through the storm-torn clouds. We passed six sleeping tents, but strange sounds came from *yude-yin- ordo,* and a cone of light rose from the roof-opening of the sanctuary.
+The moment the pulsation of the drums ceased out there Lobson hade me follow him. In silence we walked towards the enclosure of the seven tents. The night was pitch dark; only here and there a pale star peeped through the storm-torn clouds. We passed six sleeping tents, but strange sounds came from *yude-yin-ordo*, and a cone of light rose from the roof-opening of the sanctuary.
 
 Then I followed my guide in through the tent door and set foot in the dim temple of the *tantra* cult. The air was thick with incense, and the dark mysticism of Central Asia closed in about me. In the restless light from the fire and the oil lamps I caught glimpses, through misty veils of smoke and incense, of the room's astounding colours.
 
@@ -5411,7 +5411,7 @@ On arriving at Urumchi I at once telegraphed to Stockholm for instructions conce
 
 presently received orders to convey it as soon as possible to its destination.
 
-And then came the day when the caravan with the temple filed in to the expedition's courtyard. The leader of the caravan was the stern Baldan *gusdä,* and the twenty camels were conducted by six Torgut soldiers. Behind the caravan rode four red-clad lamas whose task it was to attend the temple's gods with prayers until the moment when they were delivered into my charge.
+And then came the day when the caravan with the temple filed in to the expedition's courtyard. The leader of the caravan was the stern Baldan *gusdä*, and the twenty camels were conducted by six Torgut soldiers. Behind the caravan rode four red-clad lamas whose task it was to attend the temple's gods with prayers until the moment when they were delivered into my charge.
 
 Seng Chen had given orders that the tent temple was to be erected in our quarters under my superintendence, so that the four lamas might make certain that, on its coming installation in a foreign land, all the gods and sacred objects would be put in their right places.
 
@@ -5485,7 +5485,7 @@ Again I started from Kashmir, despite the warnings of my lamaistic companion, an
 
 In the beginning of 1932 the good news ceased, and then came the information through Princess Nirgitma that the Torguts' proud dreams of the future had been crushed.
 
-A movement of revolt against the Chinese provincial government had arisen among the Mohammedan population of Sinkiang. The Governor invited Seng Chen to Urumchi in order, as he pretended, to discuss with him the suppression of the revolt. Seng Chen arrived surrounded by his most powerful chiefs, but no discussion ever took place. For after the first day's banquet, as the Torguts sat drinking tea in the Governor's *yamen,* he had the whole of the guests shot from behind by his servants.
+A movement of revolt against the Chinese provincial government had arisen among the Mohammedan population of Sinkiang. The Governor invited Seng Chen to Urumchi in order, as he pretended, to discuss with him the suppression of the revolt. Seng Chen arrived surrounded by his most powerful chiefs, but no discussion ever took place. For after the first day's banquet, as the Torguts sat drinking tea in the Governor's *yamen*, he had the whole of the guests shot from behind by his servants.
 
 In consequence of the shortsightedness of an incompetent administration many able and innocent persons
 
@@ -5505,49 +5505,49 @@ And I rejoice when I think of Buran galloping unsaddled over the luxuriant high 
 
 ## AUTHORITIES
 
-Baddeley, *Russia, Mongolia, China.* 1919.
+Baddeley, *Russia, Mongolia, China*. 1919.
 
-*Buddhist Catechism,* ed. by H. S. Olcott. Madras, 1915.
+*Buddhist Catechism*, ed. by H. S. Olcott. Madras, 1915.
 
-Buxton, L. H. Dudley, *The Peoples of Asia.* London, 1925.
+Buxton, L. H. Dudley, *The Peoples of Asia*. London, 1925.
 
-Consten, Hermann, *Weideplatze der Mongolen im Reiche der Chalcha.* I-II. Berlin, 1919.
+Consten, Hermann, *Weideplatze der Mongolen im Reiche der Chalcha*. I-II. Berlin, 1919.
 
-de Quincey, Th., *Revolt of the Tartars,* ed. by Ch. S. Baldwin. New York, 1898.
+de Quincey, Th., *Revolt of the Tartars*, ed. by Ch. S. Baldwin. New York, 1898.
 
-Filchner, Wilhelm, *Kumbum Dschambaling.* Leipzig, 1933.
+Filchner, Wilhelm, *Kumbum Dschambaling*. Leipzig, 1933.
 
-Grünwedel, Albert, *Mythologie des Buddhismus in Tibet und der Mongolei.* Leipzig, 1900.
+Grünwedel, Albert, *Mythologie des Buddhismus in Tibet und der Mongolei*. Leipzig, 1900.
 
-Kaarsberg, Hans S., *Gjennem Stepperne.* Köpenhamn, 1892.
+Kaarsberg, Hans S., *Gjennem Stepperne*. Köpenhamn, 1892.
 
-Kawaguchi, Ekai, *Three Years in Tibet.* Madras, 1909.
+Kawaguchi, Ekai, *Three Years in Tibet*. Madras, 1909.
 
-Korostovetz, I. J. *Von Cinggis Khan zur Sowjetrepublik.* Berlin and Leipzig, 1926.
+Korostovetz, I. J. *Von Cinggis Khan zur Sowjetrepublik*. Berlin and Leipzig, 1926.
 
-Kozlow, P. K., *Zur Toten Stadt Chara-Choto.* Berlin, 1925.
+Kozlow, P. K., *Zur Toten Stadt Chara-Choto*. Berlin, 1925.
 
-Lattimore, Owen, *The Desert Road to Turkestan.* London, 1928.
+Lattimore, Owen, *The Desert Road to Turkestan*. London, 1928.
 
-Leder, Hans, *Das geheimnisvolle Tibet.* Leipzig, 1909.
+Leder, Hans, *Das geheimnisvolle Tibet*. Leipzig, 1909.
 
-*Orientalische Reisebeschreibung,* von Jürgen Andersen. Hrsg. von Adam Olearius. Schleswig, 1669.
+*Orientalische Reisebeschreibung*, von Jürgen Andersen. Hrsg. von Adam Olearius. Schleswig, 1669.
 
-Parker, E. H., *A Thousand Years of the Tartars.* London, 1924.
+Parker, E. H., *A Thousand Years of the Tartars*. London, 1924.
 
-Polo, Marco, *Travels.* London, 1925.
+Polo, Marco, *Travels*. London, 1925.
 
-Prschevalski, N. M., *Explorations in Central Asia.* Edited by Sven Hedin. Stockholm, 1891.
+Prschevalski, N. M., *Explorations in Central Asia*. Edited by Sven Hedin. Stockholm, 1891.
 
-Riasanovsky, V. A., *Customary Law of the Mongol Tribes.* I-III. Harbin, 1929.
+Riasanovsky, V. A., *Customary Law of the Mongol Tribes*. I-III. Harbin, 1929.
 
-Schnitscher, J. Chr., *Ber**ä**ttelse om Ajuckiniska Calmuckiet.* Stockholm, 1744.
+Schnitscher, J. Chr., *Ber**ä**ttelse om Ajuckiniska Calmuckiet*. Stockholm, 1744.
 
-*Toregut Rarelro.* Mongolian manuscript.
+*Toregut Rarelro*. Mongolian manuscript.
 
-Waddell, L. A., *The Buddhism of Tibet.* Cambridge, 1934.
+Waddell, L. A., *The Buddhism of Tibet*. Cambridge, 1934.
 
---- *Lhasa and its Mysteries.* London, 1905.
+--- *Lhasa and its Mysteries*. London, 1905.
 
 <a id="328">**328**</a>
 
@@ -5559,1688 +5559,1688 @@ Waddell, L. A., *The Buddhism of Tibet.* Cambridge, 1934.
 
 ## INDEX
 
-Abatai, first Mongolian monastery erected by, 284
+Abatai, first Mongolian monastery erected by, [284](#284)
 
-Abdal, oasis of, 184
+Abdal, oasis of, [184](#184)
 
-Adultery, law regarding, in *Yassa* and *Tsächin Bichik* contrasted, 266
+Adultery, law regarding, in *Yassa* and *Tsächin Bichik* contrasted, [266](#266)
 
-Afghanistan, ruler of, 246
+Afghanistan, ruler of, [246](#246)
 
-*Aimak,* 120; division into *hoshun* (banners) (footnote), 120; Mongolian denomination for chief's territory (footnote), 120; four, transference and present residence of, 264
+*Aimak*, [120](#120); division into *hoshun* (banners) (footnote), [120](#120); Mongolian denomination for chief's territory (footnote), [120](#120); four, transference and present residence of, [264](#264)
 
-Air-horse painted on prayerflag, 223, 225
+Air-horse painted on prayerflag, [223](#223), [225](#225)
 
-*Akha-due,* meaning of (footnote), 313
+*Akha-due*, meaning of (footnote), [313](#313)
 
-Alcohol, modern Kalmucks victims of, 215
+Alcohol, modern Kalmucks victims of, [215](#215)
 
-Alkaline water, thirst accentuated by drinking, 75
+Alkaline water, thirst accentuated by drinking, [75](#75)
 
-Altai Gegen, 218  
---- *(hutuktu),* meeting with, 199; sheep given in compensation by Yetum presented to, 199; caravan of, overtaken, 201; confessions made to, by Yetum, 202  
---- Mountains, 167, 279; descendants of original Dzungarian Khoshut tribe living among, 200
+Altai Gegen, [218](#218)
+--- *(hutuktu)*, meeting with, [199](#199); sheep given in compensation by Yetum presented to, [199](#199); caravan of, overtaken, [201](#201); confessions made to, by Yetum, [202](#202)
+--- Mountains, [167](#167), [279](#279); descendants of original Dzungarian Khoshut tribe living among, [200](#200)
 
-*Altan Khan-grän gruregroldä* (golden bird of imagination), 292
+*Altan Khan-grän gruregroldä* (golden bird of imagination), [292](#292)
 
-Altyn-tagh mountains, 182, 185
+Altyn-tagh mountains, [182](#182), [185](#185)
 
-Amanullah, ruler of Afghanistan, 246
+Amanullah, ruler of Afghanistan, [246](#246)
 
-Amblers, exported by Torguts, 241
+Amblers, exported by Torguts, [241](#241)
 
-Ambolt, convalescence of, 320
+Ambolt, convalescence of, [320](#320)
 
-Amitabha, 250; reincarnation of, 232  
---- Buddha, 4
+Amitabha, [250](#250); reincarnation of, [232](#232)
+--- Buddha, [4](#4)
 
-Amu Khatun (Queen), wife of Galdan, 206; slain in battle while fighting, 206
+Amu Khatun (Queen), wife of Galdan, [206](#206); slain in battle while fighting, [206](#206)
 
-Amulets, dug up from desert, 110 Amursana, Dambin Jansang descendant of, 154; Dambin Jansang, incarnation on earth of, 165; Ölet chieftain, 207; exploits of, still extolled, 207; war of liberation of West Mongols against Chinese conducted by, 207
+Amulets, dug up from desert, [110](#110) Amursana, Dambin Jansang descendant of, [154](#154); Dambin Jansang, incarnation on earth of, [165](#165); Ölet chieftain, [207](#207); exploits of, still extolled, [207](#207); war of liberation of West Mongols against Chinese conducted by, [207](#207)
 
-Amyot, Father (French Jesuit), on Chinese Emperor's account of his reception of returned Torguts, 214
+Amyot, Father (French Jesuit), on Chinese Emperor's account of his reception of returned Torguts, [214](#214)
 
-Andersson, Professor J. G., 12
+Andersson, Professor J. G., [12](#12)
 
-Anglo-Indian Force at Lhasa (1904), Töin Lama's admiration at conduct of, 254
+Anglo-Indian Force at Lhasa (1904), Töin Lama's admiration at conduct of, [254](#254)
 
-Antelope herd, superstitious belief regarding, 22, 23  
---- herds, ravages among, from wild animals at calving-time, 22
+Antelope herd, superstitious belief regarding, [22](#22), [23](#23)
+--- herds, ravages among, from wild animals at calving-time, [22](#22)
 
-Antelopes, herds of, on steppe, 20 yellow, of steppes, calvingtime of, 22
+Antelopes, herds of, on steppe, [20](#20) yellow, of steppes, calvingtime of, [22](#22)
 
-Anthropometric measurements: of Mongols, attempts at, 33; success in obtaining, 61; of band of ex-robbers, 64, 65; of Etsina Torguts, 121; carried out among Däde Mongols, 199; of Torguts, 235
+Anthropometric measurements: of Mongols, attempts at, [33](#33); success in obtaining, [61](#61); of band of ex-robbers, [64](#64), [65](#65); of Etsina Torguts, [121](#121); carried out among Däde Mongols, [199](#199); of Torguts, [235](#235)
 
 <a id="330">**330 INDEX**</a>
 
-Anti-religious propaganda from the North, defence of the "yellow doctrine" against, 248
+Anti-religious propaganda from the North, defence of the "yellow doctrine" against, [248](#248)
 
-Anti-Russian opinion among Tor- guts, 234
+Anti-Russian opinion among Torguts, [234](#234)
 
-Antlers of *maral,* immense price obtained for, from Chinese, 303
+Antlers of *maral*, immense price obtained for, from Chinese, [303](#303)
 
-Arab Jur, 119, 128; arrival at Peking (1705), 119; family of, given rank of Beile, 119; granted a Manchu title, 119; son and descendants of, assigned a grant of land by river Etsin-gol (1732), 119
+Arab Jur, [119](#119), [128](#128); arrival at Peking (1705), [119](#119); family of, given rank of Beile, [119](#119); granted a Manchu title, [119](#119); son and descendants of, assigned a grant of land by river Etsin-gol (1732), [119](#119)
 
-*Araben-gurben tamag-tai noyen* (the thirteen signet-bearing princes), 263
+*Araben-gurben tamag-tai noyen* (the thirteen signet-bearing princes), [263](#263)
 
-Archaeological discoveries in Tibet, 201
+Archaeological discoveries in Tibet, [201](#201)
 
-Archaeologist of Sven Hedin Expedition, 119
+Archaeologist of Sven Hedin Expedition, [119](#119)
 
-Argali (wild sheep, *Ovis poli*)*, 248*  
---- (*Ovis ammon),* flocks of, 223, 224; horns of, weight and length, 224; shooting of, by Mongol hunters, 224
+Argali (wild sheep, *Ovis poli*)*, [248](#248)*
+--- (*Ovis ammon)*, flocks of, [223](#223), [224](#224); horns of, weight and length, [224](#224); shooting of, by Mongol hunters, [224](#224)
 
-Army command, qualifications for, according to Yenghiz Khan, 266
+Army command, qualifications for, according to Yenghiz Khan, [266](#266)
 
-Arselan (Haslund), signifying "The Tiger", 313
+Arselan (Haslund), signifying "The Tiger", [313](#313)
 
-Asia, disastrous flight of Torguts through, 213, 214  
---- Central, originator of lamais- tic form of Buddhism in (footnote), 247
+Asia, disastrous flight of Torguts through, [213](#213), [214](#214)
+--- Central, originator of lamaistic form of Buddhism in (footnote), [247](#247)
 
-Asses, Etsina Torguts only Mongols preferring to ride on, 120
+Asses, Etsina Torguts only Mongols preferring to ride on, [120](#120)
 
-Astrakhan, Boro Örölok killed outside, 207
+Astrakhan, Boro Örölok killed outside, [207](#207)
 
-Astronomical observations, checking time-factor in, by wireless, 145
+Astronomical observations, checking time-factor in, by wireless, [145](#145)
 
-Ataman Annenkov, Cossack corps of, 185
+Ataman Annenkov, Cossack corps of, [185](#185)
 
-Atlantic flight of Charles Lindbergh, effect of knowledge of, upon Töin Lama, 245
+Atlantic flight of Charles Lindbergh, effect of knowledge of, upon Töin Lama, [245](#245)
 
-Autumn, season of, attachment of Mongols to, 144, 145
+Autumn, season of, attachment of Mongols to, [144](#144), [145](#145)
 
-Avalokita, protection of, how forthcoming, 225
+Avalokita, protection of, how forthcoming, [225](#225)
 
-Ayuk Khan, 170, 216; chieftain of Volga Torguts, 171; compact with Peter the Great, 208; qualities as a chieftain, 208; son and successor of Puntsuk. 208; title of *Khan* conferred upon, 208; daughter of, married to Tsewang Raptan, ruler of Dzungaria, 209; rejects Chinese Emperor's secret inducement to Torguts to return to Dzungaria, 209; camp of, at Saratov, 307
+Ayuk Khan, [170](#170), [216](#216); chieftain of Volga Torguts, [171](#171); compact with Peter the Great, [208](#208); qualities as a chieftain, [208](#208); son and successor of Puntsuk. [208](#208); title of *Khan* conferred upon, [208](#208); daughter of, married to Tsewang Raptan, ruler of Dzungaria, [209](#209); rejects Chinese Emperor's secret inducement to Torguts to return to Dzungaria, [209](#209); camp of, at Saratov, [307](#307)
 
 Bactrian camel, *see* Camel, Bactrian
 
-Bagrash-köl, lake of, 200, 311, 320
+Bagrash-köl, lake of, [200](#200), [311](#311), [320](#320)
 
-Baldan Dorje, murder of Dambin Jansang by, 156
+Baldan Dorje, murder of Dambin Jansang by, [156](#156)
 
-Baldan Güsdä, 321, 326
+Baldan Güsdä, [321](#321), [326](#326)
 
-Bamboo comb of past centuries, discovery of, 110
+Bamboo comb of past centuries, discovery of, [110](#110)
 
-Banche, 136
+Banche, [136](#136)
 
-Bandits, meeting with, 95
+Bandits, meeting with, [95](#95)
 
-Banner, under command of a *gusdä,* 262
+Banner, under command of a *gusdä*, [262](#262)
 
-"Banner" chiefs of Khoshut Mongols, 200
+"Banner" chiefs of Khoshut Mongols, [200](#200)
 
-Banners of Khara Shar Torguts, commanders of, 229
+Banners of Khara Shar Torguts, commanders of, [229](#229)
 
-Barun-jassak, *notog* of Khoshut Mongols, 200
+Barun-jassak, *notog* of Khoshut Mongols, [200](#200)
 
-Barun Kung, 39, 67  
---- --- Chief, born in year of "Firehorse" (1907), 61; appearance, dress and accoutrements of, 61, 62
+Barun Kung, [39](#39), [67](#67)
+--- --- Chief, born in year of "Firehorse" (1907), [61](#61); appearance, dress and accoutrements of, [61](#61), [62](#62)
 
-Bater Halak Sume, 72; meaning of, 29
+Bater Halak Sume, [72](#72); meaning of, [29](#29)
 
 <a id="331">**331 INDEX**</a>
 
-Bater Halak Sume, monastery of, 21, 23, 25; objects of visit to, by pilgrims, 25, 26; Chinese name for, 29; rebuilding of, 29; burning of (1911), 29; description of, 31; number of lamas inhabiting, 31; Hummel, Lieberenz and Haslund admitted as guests of, 38; festal array of, described, 42; library of, 42; orchestra of, 43, 44
+Bater Halak Sume, monastery of, [21](#21), [23](#23), [25](#25); objects of visit to, by pilgrims, [25](#25), [26](#26); Chinese name for, [29](#29); rebuilding of, [29](#29); burning of (1911), [29](#29); description of, [31](#31); number of lamas inhabiting, [31](#31); Hummel, Lieberenz and Haslund admitted as guests of, [38](#38); festal array of, described, [42](#42); library of, [42](#42); orchestra of, [43](#43), [44](#44)
 
-Bato, 77, 78, 80, 81, 92
+Bato, [77](#77), [78](#78), [80](#80), [81](#81), [92](#92)
 
-Bator, 92, 94; rewarded for pursuit of Oborgon, 100
+Bator, [92](#92), [94](#94); rewarded for pursuit of Oborgon, [100](#100)
 
-*Bator* (heroes), meaning of name, 92; warriors bearing name of, 263
+*Bator* (heroes), meaning of name, [92](#92); warriors bearing name of, [263](#263)
 
-Batu, 89
+Batu, [89](#89)
 
-Batur Khun-taiji, 204; combination of West-Mongol tribes under, 204; policy of expansion, how indicated, 205; successor of, 205
+Batur Khun-taiji, [204](#204); combination of West-Mongol tribes under, [204](#204); policy of expansion, how indicated, [205](#205); successor of, [205](#205)
 
-Baying Bulak, 18, 19  
---- --- (rich spring): in Gobi desert, 153; in Black Gobi, 156  
---- Shandai Sumo, 74; monastery of, arrival at, 72  
---- Surong, song of, 274
+Baying Bulak, [18](#18), [19](#19)
+--- --- (rich spring): in Gobi desert, [153](#153); in Black Gobi, [156](#156)
+--- Shandai Sumo, [74](#74); monastery of, arrival at, [72](#72)
+--- Surong, song of, [274](#274)
 
-Beggars, respect to, enjoined by Jenghiz Khan, 266
+Beggars, respect to, enjoined by Jenghiz Khan, [266](#266)
 
-*Beile,* meaning of, 30; rank of, given to family of Arab Jur, 119; prince of the third rank, 262
+*Beile*, meaning of, [30](#30); rank of, given to family of Arab Jur, [119](#119); prince of the third rank, [262](#262)
 
-*Beitse,* prince of the fourth rank, 262
+*Beitse*, prince of the fourth rank, [262](#262)
 
-Belirniao, 29
+Belirniao, [29](#29)
 
-Benzelius, Erik, Bishop of Linköping, 173
+Benzelius, Erik, Bishop of Linköping, [173](#173)
 
-Bergman, F., 187, 188, 193; archaeological discoveries under leadership of, 19; source of watch-towers erected west of
+Bergman, F., [187](#187), [188](#188), [193](#193); archaeological discoveries under leadership of, [19](#19); source of watch-towers erected west of
 
-Etsin-gol river (footnote), 117; expedition through Black Gobi under direction of, 145; map of route in Tibet executed by, 200; acquisition of first Stone- Age urn found in Sinkiang, 201
+Etsin-gol river (footnote), [117](#117); expedition through Black Gobi under direction of, [145](#145); map of route in Tibet executed by, [200](#200); acquisition of first Stone-Age urn found in Sinkiang, [201](#201)
 
-Bergman, F., and Haslund, travels through Lop desert, 175; tents of, 178; reputation as physicians in Charklik, 184
+Bergman, F., and Haslund, travels through Lop desert, [175](#175); tents of, [178](#178); reputation as physicians in Charklik, [184](#184)
 
-Bichigen Khan (the little Khan), 240, 244, 299
+Bichigen Khan (the little Khan), [240](#240), [244](#244), [299](#299)
 
-*Bichik,* Torgut book of law, 208 Bird life in neighbourhood of
+*Bichik*, Torgut book of law, [208](#208) Bird life in neighbourhood of
 
-Etsin-gol river, 117  
---- song, love of by Chinese, 21
+Etsin-gol river, [117](#117)
+--- song, love of by Chinese, [21](#21)
 
-Black Gobi Desert, 119, 144, 145, 157, 158, 175; bandits of, 147; presence of two wells in, 147; winter in, 159; *see also* Gobi Desert
+Black Gobi Desert, [119](#119), [144](#144), [145](#145), [157](#157), [158](#158), [175](#175); bandits of, [147](#147); presence of two wells in, [147](#147); winter in, [159](#159); *see also* Gobi Desert
 
-Black hat, magicians of the fellowship of the *(Shanag),* 56
+Black hat, magicians of the fellowship of the *(Shanag)*, [56](#56)
 
-Boat for navigating salt lakes, construction proposed, 116
+Boat for navigating salt lakes, construction proposed, [116](#116)
 
-Bodhisattva Avalokites' vara (footnote), 247
+Bodhisattva Avalokites' vara (footnote), [247](#247)
 
-Bogdo Gegen, 25; "Living Buddha " in Urga, 284  
---- Gushi Khan, homage paid to Turu-baihu under name of, 200  
---- Khan, 280; identified with Chinese Emperor, 246  
---- Ula, now in Chinese territory, 291; three snow-clad peaks of, 291
+Bogdo Gegen, [25](#25); "Living Buddha " in Urga, [284](#284)
+--- Gushi Khan, homage paid to Turu-baihu under name of, [200](#200)
+--- Khan, [280](#280); identified with Chinese Emperor, [246](#246)
+--- Ula, now in Chinese territory, [291](#291); three snow-clad peaks of, [291](#291)
 
-Boro Örölok (Ho-orlyk), 205; maintaining connection with West-Mongol tribes, 205; Torgut chief, 207; invasion of Russia by, 207; makes war on tribes of Western Siberia, 207; killed outside Astrakhan (*circ.* 1643), 207; successor of, 207
+Boro Örölok (Ho-orlyk), [205](#205); maintaining connection with West-Mongol tribes, [205](#205); Torgut chief, [207](#207); invasion of Russia by, [207](#207); makes war on tribes of Western Siberia, [207](#207); killed outside Astrakhan (*circ*. 1643), [207](#207); successor of, [207](#207)
 
-Borotola Ola. Chahar song, 260  
---- Valley, Chahar Mongols in, 263
+Borotola Ola. Chahar song, [260](#260)
+--- Valley, Chahar Mongols in, [263](#263)
 
 <a id="332">**332 INDEX**</a>
 
-Brahmanism, sign that religion of Lamaists was stronger than doctrines of, 226
+Brahmanism, sign that religion of Lamaists was stronger than doctrines of, [226](#226)
 
-Bramaputra, River, 257
+Bramaputra, River, [257](#257)
 
-Brussels, 323
+Brussels, [323](#323)
 
-Buckholt. Lieut.-Col. Johann, 169
+Buckholt. Lieut.-Col. Johann, [169](#169)
 
-Buddha, birthplace of, 255; victory of over the "six heresies", celebration of, 301
+Buddha, birthplace of, [255](#255); victory of over the "six heresies", celebration of, [301](#301)
 
-Buddhism: Messiah of (Maidari), 20; original, *Tsam* dance not connected with, 46; victory over ancient magic, reminder of, 56; lamas of, dispute with those holding different faiths in India, 226; lamaistic form, originator of, in Central Asia (footnote), 247
+Buddhism: Messiah of (Maidari), [20](#20); original, *Tsam* dance not connected with, [46](#46); victory over ancient magic, reminder of, [56](#56); lamas of, dispute with those holding different faiths in India, [226](#226); lamaistic form, originator of, in Central Asia (footnote), [247](#247)
 
-Buddhist art of ancient Græco-Bactrian Kingdom, 5  
---- pantheon, minor celebrities of, 4
+Buddhist art of ancient Græco-Bactrian Kingdom, [5](#5)
+--- pantheon, minor celebrities of, [4](#4)
 
-Budul Ola, sacred mountain of, 292
+Budul Ola, sacred mountain of, [292](#292)
 
-*Buga* (Tibetan *Saba),* 44; attire of, 44
+*Buga* (Tibetan *Saba)*, [44](#44); attire of, [44](#44)
 
-Bukha, 44
+Bukha, [44](#44)
 
-Bulugon, River, 263
+Bulugon, River, [263](#263)
 
-Buran, Haslund's horse, 271, 272, 289. 323, 324, 326; given to Torgut princess (Nirgitma), 324
+Buran, Haslund's horse, [271](#271), [272](#272), [289](#289). [323](#323), [324](#324), [326](#326); given to Torgut princess (Nirgitma), [324](#324)
 
-"Burial grounds, masters of", 43 Burkhan Bash, Mongolian Deity, 288
+"Burial grounds, masters of", [43](#43) Burkhan Bash, Mongolian Deity, [288](#288)
 
-Buryat delegates at Russian Court (footnote), 247  
---- monastery, 308
+Buryat delegates at Russian Court (footnote), [247](#247)
+--- monastery, [308](#308)
 
-Buryats, 120; Etsina Torguts despised by, 120
+Buryats, [120](#120); Etsina Torguts despised by, [120](#120)
 
-"Calmuckea" (Dzungaria), 174
+"Calmuckea" (Dzungaria), [174](#174)
 
-Camel, Bactrian *(Camelus Bar- trianus,* two-humped camel): employed in winter only, 72, 73; how differing from *Camelus dromedarius,* one- humped camel, 73; used in Gobi Desert, 72
+Camel, Bactrian *(Camelus Bactrianus*, two-humped camel): employed in winter only, [72](#72), [73](#73); how differing from *Camelus dromedarius*, one-humped camel, [73](#73); used in Gobi Desert, [72](#72)
 
-Camel, missing, search for, 74, 75; second fall of, fatal, 101; fallen, death-agony prolonged, 101, 102
+Camel, missing, search for, [74](#74), [75](#75); second fall of, fatal, [101](#101); fallen, death-agony prolonged, [101](#101), [102](#102)
 
-Camel-fortress of Dzungarian cavalry, 205, 206  
---- thieves: severe enactments against, under Mongolian law (footnote), 91; Mongols' expression of racial contempt for, 100
+Camel-fortress of Dzungarian cavalry, [205](#205), [206](#206)
+--- thieves: severe enactments against, under Mongolian law (footnote), [91](#91); Mongols' expression of racial contempt for, [100](#100)
 
-Camels: collection and purchase for Sven Hedin Expedition, 17, 18, 19; purchases made by Mongols, 19; humps of, nutriment stored up in, 73; skeletons of, guiding to track in desert, 78, 79; instinct for keeping to right track, 79; death of, on caravan march, 87; fallen, prejudice among natives of shortening life of, 102; package-loaded, method of relieving, 102; bad condition of, in Torgut camp, 144; Bactrian: number composing Sven Hedin Expedition, 72; promotion of shedding of old coat and growth of new, 73; insect pests of, 73
+Camels: collection and purchase for Sven Hedin Expedition, [17](#17), [18](#18), [19](#19); purchases made by Mongols, [19](#19); humps of, nutriment stored up in, [73](#73); skeletons of, guiding to track in desert, [78](#78), [79](#79); instinct for keeping to right track, [79](#79); death of, on caravan march, [87](#87); fallen, prejudice among natives of shortening life of, [102](#102); package-loaded, method of relieving, [102](#102); bad condition of, in Torgut camp, [144](#144); Bactrian: number composing Sven Hedin Expedition, [72](#72); promotion of shedding of old coat and growth of new, [73](#73); insect pests of, [73](#73)
 
-Camp No. 8, 18, 19  
---- No. 21, 89  
---- No. 34 at Odakhroi, 96  
---- No. 49, 113
+Camp No. [8](#8), [18](#18), [19](#19)
+--- No. [21](#21), [89](#89)
+--- No. [34](#34) at Odakhroi, [96](#96)
+--- No. [49](#49), [113](#113)
 
-Camping-places of Sven Hedin Expedition, why not called after local names, 18, 19
+Camping-places of Sven Hedin Expedition, why not called after local names, [18](#18), [19](#19)
 
-Canoes, light, for navigating Etsin-gol and salt lakes, 133
+Canoes, light, for navigating Etsin-gol and salt lakes, [133](#133)
 
 Capra siberica, *see* Tekhe---wild goats
 
-Caravan of Sven Hedin Expedition: number of camels composing, 72; division into four columns, 73, 74; conduction of middle column entrusted to Haslund, 146  
---- dogs, 88
+Caravan of Sven Hedin Expedition: number of camels composing, [72](#72); division into four columns, [73](#73), [74](#74); conduction of middle column entrusted to Haslund, [146](#146)
+--- dogs, [88](#88)
 
 <a id="333">**333 INDEX**</a>
 
-Caravan routes, protection by Damding Surong, 60
+Caravan routes, protection by Damding Surong, [60](#60)
 
-Carlson, A., 320
+Carlson, A., [320](#320)
 
-Cartographers, record of mileage covered by caravan since leaving Camp No. 8, 111
+Cartographers, record of mileage covered by caravan since leaving Camp No. [8](#8), [111](#111)
 
-Catherine, Empress of Russia (footnote), 247; policy of, directed towards retaining Torguts by the Volga, 211
+Catherine, Empress of Russia (footnote), [247](#247); policy of, directed towards retaining Torguts by the Volga, [211](#211)
 
-Cattle, improvement in breeds of, under Töin Lama, 241
+Cattle, improvement in breeds of, under Töin Lama, [241](#241)
 
-Celsius, Dean Olof, 173
+Celsius, Dean Olof, [173](#173)
 
-Central Asiatic Expedition, 16
+Central Asiatic Expedition, [16](#16)
 
-Chahar, 143, 145  
---- Mongols in Borotola Valley, 263  
---- song, "Borotola Ola", 260
+Chahar, [143](#143), [145](#145)
+--- Mongols in Borotola Valley, [263](#263)
+--- song, "Borotola Ola", [260](#260)
 
-Chang Tso-lin, Marshal, defeat of, 11, 12
+Chang Tso-lin, Marshal, defeat of, [11](#11), [12](#12)
 
-*Chanse,* first secretaries, 232
+*Chanse*, first secretaries, [232](#232)
 
-Chao Hui, Chinese General, dominion over Tien-Shan assumed by, 207
+Chao Hui, Chinese General, dominion over Tien-Shan assumed by, [207](#207)
 
-Charklik, 201; magnificent welcome of people of, to Bergman and Haslund, 182; oasis town of, in Lop desert, 182; description of, 183; emigration to, 183; origin of name, 183; different racial types among native population of, 184  
---- and Urumchi, distance between, 202
+Charklik, [201](#201); magnificent welcome of people of, to Bergman and Haslund, [182](#182); oasis town of, in Lop desert, [182](#182); description of, [183](#183); emigration to, [183](#183); origin of name, [183](#183); different racial types among native population of, [184](#184)
+--- and Urumchi, distance between, [202](#202)
 
-Charles XII of Sweden, Torguts take the field against, 208
+Charles XII of Sweden, Torguts take the field against, [208](#208)
 
-Cherchen, 183, 192; first Stone-Age urn found in Sinkiang acquired at, 201  
---- darya, River, 183, 187; source of, 201
+Cherchen, [183](#183), [192](#192); first Stone-Age urn found in Sinkiang acquired at, [201](#201)
+--- darya, River, [183](#183), [187](#187); source of, [201](#201)
 
-Chiang Lan Chiao, 1, 2, 11; business carried on by, 2; past life in Mongolia, 2, 3; pilgrims visiting stores of, 6
+Chiang Lan Chiao, [1](#1), [2](#2), [11](#11); business carried on by, [2](#2); past life in Mongolia, [2](#2), [3](#3); pilgrims visiting stores of, [6](#6)
 
-Chi'en Lung (Manchu Emperor), 309; invitation to Torguts to return to Dzungaria, 211; new laws imposed upon conquered Dzungars by, 267, 268 Children born without wedlock, Jenghiz Khan's decree regarding, 266
+Chi'en Lung (Manchu Emperor), [309](#309); invitation to Torguts to return to Dzungaria, [211](#211); new laws imposed upon conquered Dzungars by, [267](#267), [268](#268) Children born without wedlock, Jenghiz Khan's decree regarding, [266](#266)
 
-Chin Shujen, Governor, opposition to aim of Sven Hedin Expedition, 202
+Chin Shujen, Governor, opposition to aim of Sven Hedin Expedition, [202](#202)
 
-*Chin wang,* prince of the first rank, 262
+*Chin wang*, prince of the first rank, [262](#262)
 
-China: inspiration in for creations in art and literature, whence derived, 237; overlordship over nomads, once beneficial, now disastrous, 249; era in, for fashion for everything western, 253; Northern dynasty ruling a thousand years ago, 264  
---- Emperor of, 172; watchtowers erected by, 117; embassy from, to ruler of Torguts in Russia, 209; secret inducement for Torguts to return to Dzungaria rejected, 209; account of his reception of returned Torguts (quoted by Father Amyot), 214, protects and rehabilitates fugitive Torguts, 214; Bogdo Khan associated with, 246
+China: inspiration in for creations in art and literature, whence derived, [237](#237); overlordship over nomads, once beneficial, now disastrous, [249](#249); era in, for fashion for everything western, [253](#253); Northern dynasty ruling a thousand years ago, [264](#264)
+--- Emperor of, [172](#172); watchtowers erected by, [117](#117); embassy from, to ruler of Torguts in Russia, [209](#209); secret inducement for Torguts to return to Dzungaria rejected, [209](#209); account of his reception of returned Torguts (quoted by Father Amyot), [214](#214), protects and rehabilitates fugitive Torguts, [214](#214); Bogdo Khan associated with, [246](#246)
 
-Chinaman, and *Irgen* convertible terms, 30
+Chinaman, and *Irgen* convertible terms, [30](#30)
 
-*Chindimani Erendi,* 225
+*Chindimani Erendi*, [225](#225)
 
-Chinese: love of bird song, 21; assistance of Torgut cavalry and camel transport refused to, in crushing Tungan revolt, 243; attempts of, to crush Mongolian nationalism, 243; opposition to Töin Lama's national policy, 243; attempt to deprive Töin Lama of power frustrated, 244; Töin Lama's opinion of, 249, 250; knowledge of medicine possessed by, 251; promotion of Lamaism
+Chinese: love of bird song, [21](#21); assistance of Torgut cavalry and camel transport refused to, in crushing Tungan revolt, [243](#243); attempts of, to crush Mongolian nationalism, [243](#243); opposition to Töin Lama's national policy, [243](#243); attempt to deprive Töin Lama of power frustrated, [244](#244); Töin Lama's opinion of, [249](#249), [250](#250); knowledge of medicine possessed by, [251](#251); promotion of Lamaism
 
 <a id="334">**334 INDEX**</a>
 
-Chinese *(continued)---* among the nomads by, 268; immense price obtained from, for *maral* antlers, 303  
---- army, Khara Khoto besieged by, 107, 108  
---- authorities, search for Haslund, 270  
---- Colonial Ministry, Ordinances of (1789, 1815), 267, 268  
---- drama, Mongolian court patronage of, 237  
---- Empire threatened by West Mongols, 204  
---- forces, hopeless struggle of West Mongols with, 207  
---- Foreign Office, Penal code for Mongolia compiled by (1789): punishment for camel stealing (footnote), 91 --- manuscripts, knowledge of West Mongols obtained from,  
---- Marshal, Töin Lama appointed, 244  
---- name for Bater Halak Sume monastery, 29  
---- officials and colonists, oppression and interference with Etsina Torguts, 120  
---- Provincial Governor, Sinkiang, base and treacherous conduct of, 325  
---- Republic, foundation of, 29 territory, Bogdo Ula now in, 291  
---- verse forms, origin of, 237  
---- and Mongolian territory, stone marking boundary between (1750), at Maomo (footnote), 119
+Chinese *(continued)---* among the nomads by, [268](#268); immense price obtained from, for *maral* antlers, [303](#303)
+--- army, Khara Khoto besieged by, [107](#107), [108](#108)
+--- authorities, search for Haslund, [270](#270)
+--- Colonial Ministry, Ordinances of (1789, 1815), [267](#267), [268](#268)
+--- drama, Mongolian court patronage of, [237](#237)
+--- Empire threatened by West Mongols, [204](#204)
+--- forces, hopeless struggle of West Mongols with, [207](#207)
+--- Foreign Office, Penal code for Mongolia compiled by (1789): punishment for camel stealing (footnote), [91](#91)
+--- manuscripts, knowledge of West Mongols obtained from,
+--- Marshal, Töin Lama appointed, [244](#244)
+--- name for Bater Halak Sume monastery, [29](#29)
+--- officials and colonists, oppression and interference with Etsina Torguts, [120](#120)
+--- Provincial Governor, Sinkiang, base and treacherous conduct of, [325](#325)
+--- Republic, foundation of, [29](#29) territory, Bogdo Ula now in, [291](#291)
+--- verse forms, origin of, [237](#237)
+--- and Mongolian territory, stone marking boundary between (1750), at Maomo (footnote), [119](#119)
 
-Ching-Chang Railway, course of, 9; terminus of, 9, 17
+Ching-Chang Railway, course of, [9](#9); terminus of, [9](#9), [17](#17)
 
-Chingho, River, 263
+Chingho, River, [263](#263)
 
-Christian, King of Denmark, 288 *Chün wang*, prince of the second rank, 262
+Christian, King of Denmark, [288](#288) *Chün wang*, prince of the second rank, [262](#262)
 
-Cleanliness, Jenghiz Khan's maxim regarding, 265
+Cleanliness, Jenghiz Khan's maxim regarding, [265](#265)
 
-Coins collected by former consul of Sinkiang, 164
+Coins collected by former consul of Sinkiang, [164](#164)
 
-Consul of Torgut nation, Has- lund created, 295
+Consul of Torgut nation, Haslund created, [295](#295)
 
-Cossack uniform, wearing of, by Mongols, 217, 219; Torgut soldiers wearing, 228
+Cossack uniform, wearing of, by Mongols, [217](#217), [219](#219); Torgut soldiers wearing, [228](#228)
 
-Cossacks: bands of, spying upon Torguts, 211; hereditary foes of Torguts, 213
+Cossacks: bands of, spying upon Torguts, [211](#211); hereditary foes of Torguts, [213](#213)
 
-Craftsman, *darkhan,* Mongolian word for, 30
+Craftsman, *darkhan*, Mongolian word for, [30](#30)
 
-*Däde* (dwellers in high altitudes), 199  
---- Mongols: aggressive character of, 193; characteristics of, 193; arrogance of chief of, 194; anthropometric measurements carried out among, 199; origin of, 199, 200; by Gas-nor, constituting one "banner" of Teyi- ner *notog,* 200; locality at present inhabited by, 205; in North-Eastern Tibet, descendants of Khoshut Mongols among, 216
+*Däde* (dwellers in high altitudes), [199](#199)
+--- Mongols: aggressive character of, [193](#193); characteristics of, [193](#193); arrogance of chief of, [194](#194); anthropometric measurements carried out among, [199](#199); origin of, [199](#199), [200](#200); by Gas-nor, constituting one "banner" of Teyiner *notog*, [200](#200); locality at present inhabited by, [205](#205); in North-Eastern Tibet, descendants of Khoshut Mongols among, [216](#216)
 
-Dageling Gompo, monastery of, 126
+Dageling Gompo, monastery of, [126](#126)
 
-Dalai Lama: counsel of regarding exodus of Torguts sought by Obish Khan, 212; first expression of human fear, 254; jealousy of, aroused by popularity of Seng Chen, 256
+Dalai Lama: counsel of regarding exodus of Torguts sought by Obish Khan, [212](#212); first expression of human fear, [254](#254); jealousy of, aroused by popularity of Seng Chen, [256](#256)
 
-*Daler,* Swedish coin, used as amulet, 164
+*Daler*, Swedish coin, used as amulet, [164](#164)
 
-Dambin Jansang: false lama, 90; robber chief of Black Gobi, 147; fortress of, in Gobi desert, 152; force of will and hypnotic power of, 153; extent of travels of, 154; adventurous career of, 154-8; cruelty of, 155; Mongols' national struggle for freedom inspired by,
+Dambin Jansang: false lama, [90](#90); robber chief of Black Gobi, [147](#147); fortress of, in Gobi desert, [152](#152); force of will and hypnotic power of, [153](#153); extent of travels of, [154](#154); adventurous career of, [154](#154)–[8](#8); cruelty of, [155](#155); Mongols' national struggle for freedom inspired by,
 
 <a id="335">**335 INDEX**</a>
 
-Dambin Jansang *(continued)*  
-155: supposed supernatural powers of, 155; captive in Russian prison, 155; murder of, 157; Tsagechin Beile captured by, 165; saddle of, 166
+Dambin Jansang *(continued)*
+[155](#155): supposed supernatural powers of, [155](#155); captive in Russian prison, [155](#155); murder of, [157](#157); Tsagechin Beile captured by, [165](#165); saddle of, [166](#166)
 
-Damchan: two *gurtums* possessed by, 58, 59; possession by, marked by ecstasy, 59 (and footnote, 59)
+Damchan: two *gurtums* possessed by, [58](#58), [59](#59); possession by, marked by ecstasy, [59](#59) (and footnote, [59](#59))
 
-Damding Surong, 64, 65; exrobber chief turned fighter against bandits, 60; protection of caravan routes by, 60; importance of taking anthropometric measurements perceived by, 61
+Damding Surong, [64](#64), [65](#65); exrobber chief turned fighter against bandits, [60](#60); protection of caravan routes by, [60](#60); importance of taking anthropometric measurements perceived by, [61](#61)
 
-Dance of masked lamas, a religious act, 50  
---- of the gods, 39 *et seq.*  
+Dance of masked lamas, a religious act, [50](#50)
+--- of the gods, [39](#39) *et seq*.
 --- *see also* Tsam dance
 
-*Dara* *äkhä**:* Mongol popular name for exalted beings possessing a large number of titles (footnote), 247; lamaistic goddess ot Mercy (footnote), 247; special patroness of women (footnote), 247
+*Dara* *äkhä**:* Mongol popular name for exalted beings possessing a large number of titles (footnote), [247](#247); lamaistic goddess ot Mercy (footnote), [247](#247); special patroness of women (footnote), [247](#247)
 
-*Darkhan,* meaning of, 30; Mongol middle class, exempt from socage (footnote), 118  
---- Beile Kung, 62  
---- --- Prince: audience of, 52, 53; administrative functions of, 53; presentation of *hadaks* to, 53; advice to beware of *gurtums,* 54; kindliness of, 54  
---- --- Wang, King, 30; arrival at monastery, 40  
---- Prince, steppe territory of, 21
+*Darkhan*, meaning of, [30](#30); Mongol middle class, exempt from socage (footnote), [118](#118)
+--- Beile Kung, [62](#62)
+--- --- Prince: audience of, [52](#52), [53](#53); administrative functions of, [53](#53); presentation of *hadaks* to, [53](#53); advice to beware of *gurtums*, [54](#54); kindliness of, [54](#54)
+--- --- Wang, King, [30](#30); arrival at monastery, [40](#40)
+--- Prince, steppe territory of, [21](#21)
 
-Dawan-Chen Pass, 217
+Dawan-Chen Pass, [217](#217)
 
-Death masks, significance of, 50  
---- sentence on Torgut criminals, restriction of, 264
+Death masks, significance of, [50](#50)
+--- sentence on Torgut criminals, restriction of, [264](#264)
 
-Deities, four Great Khans supposed incarnation of, 246
+Deities, four Great Khans supposed incarnation of, [246](#246)
 
-De Quincey, flight of Torguts through Asia described as unparalleled exploit by, 213
+De Quincey, flight of Torguts through Asia described as unparalleled exploit by, [213](#213)
 
-Desert, the: oppression of, 101 *et seq.*; mirages of, 103  
---- travel in, early morning hours easiest for, 102; sword- belts, amulets and images of gods dug up from, 110  
---- justice, exemplification of, 89 *et seq.*  
---- sands, country of Tanguts now overwhelmed by, 106; destruction of forest trees by, 110
+Desert, the: oppression of, [101](#101) *et seq.*; mirages of, [103](#103)
+--- travel in, early morning hours easiest for, [102](#102); swordbelts, amulets and images of gods dug up from, [110](#110)
+--- justice, exemplification of, [89](#89) *et seq*.
+--- sands, country of Tanguts now overwhelmed by, [106](#106); destruction of forest trees by, [110](#110)
 
-Dettmann, 145
+Dettmann, [145](#145)
 
-Dhyanibuddha Amitabha, earthly incarnation of, 251
+Dhyanibuddha Amitabha, earthly incarnation of, [251](#251)
 
-Ding'en Hotak (Well of the Lamp), 103
+Ding'en Hotak (Well of the Lamp), [103](#103)
 
-Dinosaurus, discoverer of egg of, 16
+Dinosaurus, discoverer of egg of, [16](#16)
 
-Divination, methods of, practised in Mongolia (footnote), 313
+Divination, methods of, practised in Mongolia (footnote), [313](#313)
 
-Doctrine, instruction in the, 55
+Doctrine, instruction in the, [55](#55)
 
-*Dokshit,* 47, 48
+*Dokshit*, [47](#47), [48](#48)
 
-Dolor burkhani ordo Kharchi, Holy precinct of Torguts, 282
+Dolor burkhani ordo Kharchi, Holy precinct of Torguts, [282](#282)
 
-Donduk Ombo, 171  
---- succession as ruler of Torguts in Russia, 210  
---- Taiji, successor to Donduk Ombo as ruler of Torguts in Russia, 210
+Donduk Ombo, [171](#171)
+--- succession as ruler of Torguts in Russia, [210](#210)
+--- Taiji, successor to Donduk Ombo as ruler of Torguts in Russia, [210](#210)
 
-Dondur-gol, River, 125, 135, 136
+Dondur-gol, River, [125](#125), [135](#135), [136](#136)
 
-Dongtse, monastery of, 255; punishment of inmates ot, 257
+Dongtse, monastery of, [255](#255); punishment of inmates ot, [257](#257)
 
-Doreche, 309; envoy of Panchen Bogdo, 232, 234
+Doreche, [309](#309); envoy of Panchen Bogdo, [232](#232), [234](#234)
 
-Dragon, burning, ceremony of, 66, 67  
---- Throne, 249, 251, 268
+Dragon, burning, ceremony of, [66](#66), [67](#67)
+--- Throne, [249](#249), [251](#251), [268](#268)
 
-Drunkenness, Jenghiz Khan's decree regarding, 266
+Drunkenness, Jenghiz Khan's decree regarding, [266](#266)
 
-Duck, wild, 117
+Duck, wild, [117](#117)
 
-*Duguns* (temple buildings), 31
+*Duguns* (temple buildings), [31](#31)
 
 <a id="336">**336 INDEX**</a>
 
-Dukar, 170
+Dukar, [170](#170)
 
-Durbet öret (West-Mongol coalition), 200; the fourfold alliance: union of West- Mongol tribes in, 203, 204; principal tribes within, 204  
---- tribe: in Durbet öret alliance, 204; troops of, arrive at Volga, 210
+Durbet öret (West-Mongol coalition), [200](#200); the fourfold alliance: union of West-Mongol tribes in, [203](#203), [204](#204); principal tribes within, [204](#204)
+--- tribe: in Durbet öret alliance, [204](#204); troops of, arrive at Volga, [210](#210)
 
-Dyna, 168
+Dyna, [168](#168)
 
-Dzarung Khashor, 28
+Dzarung Khashor, [28](#28)
 
-Dzungaria (Western Mongolia), 119, 204, 283, 307, 321; sovereign of, 172; expansion of West-Mongol coalition to territories outside, 200; migration of Khoshut Mongols from, to Russia, 200; emigration of Mongolian tribes from, 204. 205; origin of name, 204; short period of peace in, 206; migrations of Torguts from, 207, 208; Chinese Emperor's secret inducement to Ayuk Khan to return to, rejected, 209; districts assigned to returned Torguts in, 214, 216; map brought home from, to Sweden by Renat (1724) (footnote), 263
+Dzungaria (Western Mongolia), [119](#119), [204](#204), [283](#283), [307](#307), [321](#321); sovereign of, [172](#172); expansion of West-Mongol coalition to territories outside, [200](#200); migration of Khoshut Mongols from, to Russia, [200](#200); emigration of Mongolian tribes from, [204](#204). [205](#205); origin of name, [204](#204); short period of peace in, [206](#206); migrations of Torguts from, [207](#207), [208](#208); Chinese Emperor's secret inducement to Ayuk Khan to return to, rejected, [209](#209); districts assigned to returned Torguts in, [214](#214), [216](#216); map brought home from, to Sweden by Renat (1724) (footnote), [263](#263)
 
-Dzungarian cavalry, camel-fortress of, 205, 206  
---- Khoshut tribe: Mongols of, 199, 200; widespread distribution of, 200
+Dzungarian cavalry, camel-fortress of, [205](#205), [206](#206)
+--- Khoshut tribe: Mongols of, [199](#199), [200](#200); widespread distribution of, [200](#200)
 
-Dzungars, 204, 322; expedition to, 169; Buchhohz expedition annihilated by, 170; power of, broken by Emperor of China, 172; conquered, new laws imposed upon, by Manchu Emperor (1789; revised 1815), 267, 268; and Manchus, feud between, 119  
+Dzungars, [204](#204), [322](#322); expedition to, [169](#169); Buchhohz expedition annihilated by, [170](#170); power of, broken by Emperor of China, [172](#172); conquered, new laws imposed upon, by Manchu Emperor (1789; revised 1815), [267](#267), [268](#268); and Manchus, feud between, [119](#119)
 --- *see also* West Mongols
 
-Early morning hours, easiest for travel in desert, 102
+Early morning hours, easiest for travel in desert, [102](#102)
 
-Earring, legend of origin of, 277 Earrings, wearing of, not common among Mongols, 276
+Earring, legend of origin of, [277](#277) Earrings, wearing of, not common among Mongols, [276](#276)
 
-Earth Dragon, year of (1928), 70, 297
+Earth Dragon, year of (1928), [70](#70), [297](#297)
 
-Ebi-nor, 170
+Ebi-nor, [170](#170)
 
-Ecstasy, possession by Damchan marked by, 59 (and footnote, 59)
+Ecstasy, possession by Damchan marked by, [59](#59) (and footnote, [59](#59))
 
-Ehr Lang, ruse adopted by, to secure Kuko Khoto and Shansi territory to the Chinese, 5
+Ehr Lang, ruse adopted by, to secure Kuko Khoto and Shansi territory to the Chinese, [5](#5)
 
-Eight hundred and eight, a sacred number (footnote), 247
+Eight hundred and eight, a sacred number (footnote), [247](#247)
 
-Ejil-Tsar river (Volga), 119, 293 Elizabeth, Empress of Russia (footnote), 247; influence upon Obish Khan, 211
+Ejil-Tsar river (Volga), [119](#119), [293](#293) Elizabeth, Empress of Russia (footnote), [247](#247); influence upon Obish Khan, [211](#211)
 
-*Enet-khegien oron-etse* (India), 226 English Military Expedition, arrival at Lhasa (1904), 254
+*Enet-khegien oron-etse* (India), [226](#226) English Military Expedition, arrival at Lhasa (1904), [254](#254)
 
-*Equus hemionus, see Kulan Prschevalski* (wild horse), 190
+*Equus hemionus, see Kulan Prschevalski* (wild horse), [190](#190)
 
-Erdeni Dzu, name of first Mongolian monastery, 284
+Erdeni Dzu, name of first Mongolian monastery, [284](#284)
 
-"Eren Habirgran Ole'n" (Torgut song), 271
+"Eren Habirgran Ole'n" (Torgut song), [271](#271)
 
-Eren Habirga Mountains, 263 Ericsson (L. M.) Telephone Company, 289
+Eren Habirga Mountains, [263](#263) Ericsson (L. M.) Telephone Company, [289](#289)
 
-Ether-carriage (*nisdeg telleg),* 245
+Ether-carriage (*nisdeg telleg)*, [245](#245)
 
-Etsin-gol, river, 74, 87, too, 109, 117, 123, 142, 145, 146, 147, 216; Gobi Desert lying west of, 87; valley of, 103; arrival at, 106 *et seq.*; legendary origin of, 107; arrival of caravan at, 111; discharge of, into salt lakes, 116; bird life in neighbourhood of, 117; grant of land by, assigned to son and descendants of Arab Jur (1732), 119; animal life by, 122; sources of, 134; course of, 135; banks of, description of, 136, 137; dismal surroundings of, at delta, 139
+Etsin-gol, river, [74](#74), [87](#87), too, [109](#109), [117](#117), [123](#123), [142](#142), [145](#145), [146](#146), [147](#147), [216](#216); Gobi Desert lying west of, [87](#87); valley of, [103](#103); arrival at, [106](#106) *et seq.*; legendary origin of, [107](#107); arrival of caravan at, [111](#111); discharge of, into salt lakes, [116](#116); bird life in neighbourhood of, [117](#117); grant of land by, assigned to son and descendants of Arab Jur (1732), [119](#119); animal life by, [122](#122); sources of, [134](#134); course of, [135](#135); banks of, description of, [136](#136), [137](#137); dismal surroundings of, at delta, [139](#139)
 
 <a id="337">**337 INDEX**</a>
 
-Etsin-gol and salt lakes of Gobi Desert, building of canoes for navigation of, 132, 133  
---- Torguts, 263; advice of Tangert Gegen, *hutuktu,* sought by, 123
+Etsin-gol and salt lakes of Gobi Desert, building of canoes for navigation of, [132](#132), [133](#133)
+--- Torguts, [263](#263); advice of Tangert Gegen, *hutuktu*, sought by, [123](#123)
 
-Etsina described by Marco Polo, 109; discovery of treasures at, by Koslov (1909), 109, 110; mined city, 109; Mohammedan mosque by wall of, 109  
---- Torgut Wang: residency of (Ser-sonche), 125; retired life of, 126, 128; sons of, 126, 128  
---- --- women: dress of, 121  
---- according with that of women of distant main stem, 121; women practically sterile, 121
+Etsina described by Marco Polo, [109](#109); discovery of treasures at, by Koslov (1909), [109](#109), [110](#110); mined city, [109](#109); Mohammedan mosque by wall of, [109](#109)
+--- Torgut Wang: residency of (Ser-sonche), [125](#125); retired life of, [126](#126), [128](#128); sons of, [126](#126), [128](#128)
+--- --- women: dress of, [121](#121)
+--- according with that of women of distant main stem, [121](#121); women practically sterile, [121](#121)
 
---- Torguts: relationship to main stem of race, 118; origin of present settlement of, 119; present chief of, bearing title of 119; present troubled existence of, 119, 120; held in contempt by Buryats and Northern Mongols, 120; only Mongols preferring to ride on asses, 120; pressure put upon, by Chinese officials and colonists, 120; absorption of Tangut population by, 121; anthropometric measurements of, 121; character of, 121; *hutuktu* of, 122, 123; men intermarrying among other tribes, 121
+--- Torguts: relationship to main stem of race, [118](#118); origin of present settlement of, [119](#119); present chief of, bearing title of [119](#119); present troubled existence of, [119](#119), [120](#120); held in contempt by Buryats and Northern Mongols, [120](#120); only Mongols preferring to ride on asses, [120](#120); pressure put upon, by Chinese officials and colonists, [120](#120); absorption of Tangut population by, [121](#121); anthropometric measurements of, [121](#121); character of, [121](#121); *hutuktu* of, [122](#122), [123](#123); men intermarrying among other tribes, [121](#121)
 
-Europe, period of Torguts' greatness in, 208
+Europe, period of Torguts' greatness in, [208](#208)
 
-Europeans, murder at Hankau, 11 Exorcizing ceremony of Tsam dance, 47, 48
+Europeans, murder at Hankau, [11](#11) Exorcizing ceremony of Tsam dance, [47](#47), [48](#48)
 
-Explorers, imprisonment of, at Miao-go, 160, 162
+Explorers, imprisonment of, at Miao-go, [160](#160), [162](#162)
 
-Ex-robbers, band of, anthropometric measurements of undertaken, 64, 65
+Ex-robbers, band of, anthropometric measurements of undertaken, [64](#64), [65](#65)
 
-Far East, half-caste children in, 15
+Far East, half-caste children in, [15](#15)
 
-Fatalism of Mongolian women, 24
+Fatalism of Mongolian women, [24](#24)
 
-Feng Yu-hsiang, General, advance from Kansu forbidden by Regent to be checked by Torgut cavalry, 243
+Feng Yu-hsiang, General, advance from Kansu forbidden by Regent to be checked by Torgut cavalry, [243](#243)
 
-Film camera, use of, in monastery, 39  
---- photographer to Sven Hedin Expedition (Lieberenz), 17, 18  
---- pictures, collection for Sven Hedin Expedition, 17, 18
+Film camera, use of, in monastery, [39](#39)
+--- photographer to Sven Hedin Expedition (Lieberenz), [17](#17), [18](#18)
+--- pictures, collection for Sven Hedin Expedition, [17](#17), [18](#18)
 
-Filming of capture of Oborgon, 115, 116
+Filming of capture of Oborgon, [115](#115), [116](#116)
 
-Films, taking of, at Maidari festival, 21
+Films, taking of, at Maidari festival, [21](#21)
 
-Fire, pollution of, punishment for, in *Yassa* and Tsächin Bichik contrasted, 267  
---- Ape, sacred, year of (1896), 70  
---- Hare, year of (1927), 70  
---- Monkey, year of (1896), 231  
---- Pig, year of (1887), 255
+Fire, pollution of, punishment for, in *Yassa* and Tsächin Bichik contrasted, [267](#267)
+--- Ape, sacred, year of (1896), [70](#70)
+--- Hare, year of (1927), [70](#70)
+--- Monkey, year of (1896), [231](#231)
+--- Pig, year of (1887), [255](#255)
 
-"Firehorse", auspicious year of (1907), 61
+"Firehorse", auspicious year of (1907), [61](#61)
 
-Folk music ot Mongols, 237
+Folk music ot Mongols, [237](#237)
 
-Forest trees, destruction by encroaching desert sands, 110
+Forest trees, destruction by encroaching desert sands, [110](#110)
 
-Fortress, stone-built, in Gobi desert, bandits dwelling in, 151
+Fortress, stone-built, in Gobi desert, bandits dwelling in, [151](#151)
 
-*Fostbrödralag*, meaning of (footnote), 313
+*Fostbrödralag*, meaning of (footnote), [313](#313)
 
-Frederic, King, 171
+Frederic, King, [171](#171)
 
-Fritz, Isac, 173
+Fritz, Isac, [173](#173)
 
-Fru Brigitta: merciless treatment of by Dzungars, 170; slavery of, 170, 171; death of, 173  
---- and Renat, marriage between, 172
+Fru Brigitta: merciless treatment of by Dzungars, [170](#170); slavery of, [170](#170), [171](#171); death of, [173](#173)
+--- and Renat, marriage between, [172](#172)
 
-Fuel of the desert, tamarisk as the, 85
+Fuel of the desert, tamarisk as the, [85](#85)
 
-*Funkis* effect of houses of Öreget, 230
+*Funkis* effect of houses of Öreget, [230](#230)
 
-Gadfly, pest of Bactrian camel, 73
+Gadfly, pest of Bactrian camel, [73](#73)
 
 <a id="338">**338 INDEX**</a>
 
-Galdan: successor of Batur Khun-taiji, 205  
---- defeat of Manchu Emperor by, 205; twice defeated by Manchu Emperor, 205, 206; power of usurped by Tse- wang Raptan, 206; murder of (1687), 206  
---- Tsering, 172; successor to father, Tsewang Raptan (1727), 206; defeat of (1732), 206
+Galdan: successor of Batur Khun-taiji, [205](#205)
+--- defeat of Manchu Emperor by, [205](#205); twice defeated by Manchu Emperor, [205](#205), [206](#206); power of usurped by Tsewang Raptan, [206](#206); murder of (1687), [206](#206)
+--- Tsering, [172](#172); successor to father, Tsewang Raptan (1727), [206](#206); defeat of (1732), [206](#206)
 
-Gandhara art of Northern India, 5 Gas, 183
+Gandhara art of Northern India, [5](#5) Gas, [183](#183)
 
-Gashun-nor, salt lake, discharge of river Etsin-gol into, 116  
---- alkaline lake in Gobi desert, Murin-gol river carried into, 135
+Gashun-nor, salt lake, discharge of river Etsin-gol into, [116](#116)
+--- alkaline lake in Gobi desert, Murin-gol river carried into, [135](#135)
 
-Gas-nor, Lake of, 190, 194  
---- river, 193; Däde Mongols by, 200
+Gas-nor, Lake of, [190](#190), [194](#194)
+--- river, [193](#193); Däde Mongols by, [200](#200)
 
-Gautama Buddha, 68
+Gautama Buddha, [68](#68)
 
-Gazelles, herds of, on steppe, 20
+Gazelles, herds of, on steppe, [20](#20)
 
-Geese, wild, 117
+Geese, wild, [117](#117)
 
-Gegen, 311, 312
+Gegen, [311](#311), [312](#312)
 
-*Gegen-ni-ordo,* 295, 296; set up in Stockholm, 324
+*Gegen-ni-ordo*, [295](#295), [296](#296); set up in Stockholm, [324](#324)
 
-Geling Lama, 126
+Geling Lama, [126](#126)
 
-Geologist of Sven Hedin Expedition, 19
+Geologist of Sven Hedin Expedition, [19](#19)
 
-Geril Dare Khan, birth of, in India, 306
+Geril Dare Khan, birth of, in India, [306](#306)
 
-"Gerken", 171
+"Gerken", [171](#171)
 
-Gobi Desert. Bactrian camel used in, 72; rivers and salt lakes of, 132; expedition through, preparations for, 146, difficulties of, 164; dog's guidance to wells of, 148, 149; robbers in fear of, 150; oasis in, 152
+Gobi Desert. Bactrian camel used in, [72](#72); rivers and salt lakes of, [132](#132); expedition through, preparations for, [146](#146), difficulties of, [164](#164); dog's guidance to wells of, [148](#148), [149](#149); robbers in fear of, [150](#150); oasis in, [152](#152)
 
-God of death, forerunners of, 44
+God of death, forerunners of, [44](#44)
 
-Gods of the tent, performance of *kow-tows* before, 221
+Gods of the tent, performance of *kow-tows* before, [221](#221)
 
-Gombo, 33, 133, 149, 152
+Gombo, [33](#33), [133](#133), [149](#149), [152](#152)
 
-Græco-Bactrian kingdom, Buddhist art of, 5
+Græco-Bactrian kingdom, Buddhist art of, [5](#5)
 
-Gramophone record purchased in Peking, 14, 16; played in desert, 104
+Gramophone record purchased in Peking, [14](#14), [16](#16); played in desert, [104](#104)
 
-Great Khans: four, supposed incarnation of deities, 246; four only in the world according to Mongolian ideas, 246, 247
+Great Khans: four, supposed incarnation of deities, [246](#246); four only in the world according to Mongolian ideas, [246](#246), [247](#247)
 
-Wall of China, 205, 206 Grouse, *see* Steppe grouse Guardians of religion, 45, 46 Guchengtse, trading town, 167 *Gurtums,* 52; transformation of lamas into, 25; possessed, danger of, 54; two: possessed by Damchan, maniacal behaviour of, 58, 59, inhuman expression of, opinion as to, 59, lifeless trance of, following spiritual stress, 59
+Wall of China, [205](#205), [206](#206) Grouse, *see* Steppe grouse Guardians of religion, [45](#45), [46](#46) Guchengtse, trading town, [167](#167) *Gurtums*, [52](#52); transformation of lamas into, [25](#25); possessed, danger of, [54](#54); two: possessed by Damchan, maniacal behaviour of, [58](#58), [59](#59), inhuman expression of, opinion as to, [59](#59), lifeless trance of, following spiritual stress, [59](#59)
 
-*Gusdä,* "banner" under command of a, 262; five, commanders of banners" of Khara Shar Torguts, 229
+*Gusdä*, "banner" under command of a, [262](#262); five, commanders of banners" of Khara Shar Torguts, [229](#229)
 
-Gushi Khan, 205: maintaining connection with West-Mongol tribes, 205
+Gushi Khan, [205](#205): maintaining connection with West-Mongol tribes, [205](#205)
 
-Gustaf, King of Sweden, 246, 247, 288
+Gustaf, King of Sweden, [246](#246), [247](#247), [288](#288)
 
-*Hudak*, 68; description of, 39; symbolizing the rainbow, 39; affixed to horns of sheep, 199
+*Hudak*, [68](#68); description of, [39](#39); symbolizing the rainbow, [39](#39); affixed to horns of sheep, [199](#199)
 
-*Hudaks*: presentation to *hutuktu,* 39; presentation to Prince Darkhan Beile, 53
+*Hudaks*: presentation to *hutuktu*, [39](#39); presentation to Prince Darkhan Beile, [53](#53)
 
-Hairy wild men of desert, supposed danger from, 84
+Hairy wild men of desert, supposed danger from, [84](#84)
 
-Half-caste children in Far East, 15
+Half-caste children in Far East, [15](#15)
 
-Hami, 145, 146, 175, 229, 244, 277; imprisonment of explorers at, 160, 161; capture of members of Expedition at, by riders calling themselves Mongols, 216, 217
+Hami, [145](#145), [146](#146), [175](#175), [229](#229), [244](#244), [277](#277); imprisonment of explorers at, [160](#160), [161](#161); capture of members of Expedition at, by riders calling themselves Mongols, [216](#216), [217](#217)
 
 <a id="339">**339 INDEX**</a>
 
-Han Dynasty, watch towers erected by Emperor of China derived from (footnote), 117 Hankau, murder of Europeans at, 11
+Han Dynasty, watch towers erected by Emperor of China derived from (footnote), [117](#117) Hankau, murder of Europeans at, [11](#11)
 
-Hanna, portrait of, 178 Hare year (1771), 212
+Hanna, portrait of, [178](#178) Hare year (1771), [212](#212)
 
-*Harhungs,* 53
+*Harhungs*, [53](#53)
 
-Haslund, H., 34, 49. 116; becomes member of the Sven Hedin Expedition, 9; equipment of Sven Hedin Expedition entrusted to, 10, 11; journey to Peking on behalf of Sven Hedin Expedition, 11; admitted as guest to most sacred part of monastery, 38; final interview with Yolros Lama (*hutuktu*), 70; leader of "scientific column" of caravan of Sven Hedin Expedition, 74; adoption of Suidor as attendant and follower, 82; pursuit of Oborgon by, 92, 93, 94, 95; conduction of middle column of caravan entrusted to, 146; compensation for horse killing offered by, 196; defence made by, before the court, 196; part of a shaman acted by, before the court, 196, 198; exposure of Yetum's life and conduct, 198; carries out anthropometric measurements among Däde Mongols, 199; prayer- flag presented to, by Yolros Lama, 225; first interview with the Regent of the Torguts, 233; intimacy with Töin Lama, how obtained, 245; eventful visit to Tientsin, 251, 252; meeting with Ex-Emperor of China, Hsuan Tung, 252; searched for, by Chinese authorities, 270; departure from Öreget, 270, 271; departure from Urumchi, 289; return to Öreget, 289, 290; created Consul of Torgut nation, 295; initiation of, by fire in Öreget, ceremonial, 311-14; farewell gifts to, on departure from Öreget, 318, 319
+Haslund, H., [34](#34), [49](#49). [116](#116); becomes member of the Sven Hedin Expedition, [9](#9); equipment of Sven Hedin Expedition entrusted to, [10](#10), [11](#11); journey to Peking on behalf of Sven Hedin Expedition, [11](#11); admitted as guest to most sacred part of monastery, [38](#38); final interview with Yolros Lama (*hutuktu*), [70](#70); leader of "scientific column" of caravan of Sven Hedin Expedition, [74](#74); adoption of Suidor as attendant and follower, [82](#82); pursuit of Oborgon by, [92](#92), [93](#93), [94](#94), [95](#95); conduction of middle column of caravan entrusted to, [146](#146); compensation for horse killing offered by, [196](#196); defence made by, before the court, [196](#196); part of a shaman acted by, before the court, [196](#196), [198](#198); exposure of Yetum's life and conduct, [198](#198); carries out anthropometric measurements among Däde Mongols, [199](#199); prayer-flag presented to, by Yolros Lama, [225](#225); first interview with the Regent of the Torguts, [233](#233); intimacy with Töin Lama, how obtained, [245](#245); eventful visit to Tientsin, [251](#251), [252](#252); meeting with Ex-Emperor of China, Hsuan Tung, [252](#252); searched for, by Chinese authorities, [270](#270); departure from Öreget, [270](#270), [271](#271); departure from Urumchi, [289](#289); return to Öreget, [289](#289), [290](#290); created Consul of Torgut nation, [295](#295); initiation of, by fire in Öreget, ceremonial, [311](#311)–[14](#14); farewell gifts to, on departure from Öreget, [318](#318), [319](#319)
 
-Haslund, H., and Bergman: travels through Lop Desert, 175; tent of, 178; reputation as physicians in Charklik, 184
+Haslund, H., and Bergman: travels through Lop Desert, [175](#175); tent of, [178](#178); reputation as physicians in Charklik, [184](#184)
 
-Haude, 145; meteorological work of Sven Hedin Expedition carried out under, 19
+Haude, [145](#145); meteorological work of Sven Hedin Expedition carried out under, [19](#19)
 
-Heathen, one reason for objection to the term, 49
+Heathen, one reason for objection to the term, [49](#49)
 
-Hedin, Sven, 12, 116, 142; expedition to Sinkiang undertaken by, 10, *see also* Sven Hedin Expedition to Sinkiang; member of tribunal in judgment of Oborgon, 97; in boat expedition through Etsin-gol and salt lakes of Gobi desert, 134; letter to Torgut Regent signed by, 287, 288; meeting of, with Panchen Bogdo, 288; photograph of, subject, 309; visit to pontiff at Tashi-Lhumpo, 310; departure to the United States, 320
+Hedin, Sven, [12](#12), [116](#116), [142](#142); expedition to Sinkiang undertaken by, [10](#10), *see also* Sven Hedin Expedition to Sinkiang; member of tribunal in judgment of Oborgon, [97](#97); in boat expedition through Etsin-gol and salt lakes of Gobi desert, [134](#134); letter to Torgut Regent signed by, [287](#287), [288](#288); meeting of, with Panchen Bogdo, [288](#288); photograph of, subject, [309](#309); visit to pontiff at Tashi-Lhumpo, [310](#310); departure to the United States, [320](#320)
 
-Hempel, 145
+Hempel, [145](#145)
 
-Hierarchical dominion set up by Khoshut Mongols, 200
+Hierarchical dominion set up by Khoshut Mongols, [200](#200)
 
-*Hi-mori,* symbol of, on prayerflag (illustrated), 222  
---- flag, strongest of all prayer-flags, 225
+*Hi-mori*, symbol of, on prayerflag (illustrated), [222](#222)
+--- flag, strongest of all prayer-flags, [225](#225)
 
-Hindu Kush, 5
+Hindu Kush, [5](#5)
 
-Hobog Sairi, river, 263
+Hobog Sairi, river, [263](#263)
 
-Hojertai-gol, water-course of, 20
+Hojertai-gol, water-course of, [20](#20)
 
-Holy of Holies, admission to, 68  
---- water, sprinkling of, by the *hutuktu,* 39
+Holy of Holies, admission to, [68](#68)
+--- water, sprinkling of, by the *hutuktu*, [39](#39)
 
-Ho-orlyk (Boro-Örölok), 205
+Ho-orlyk (Boro-Örölok), [205](#205)
 
-Horoscope cast for infant prince (Tobn Tserend-yömbil), 255
+Horoscope cast for infant prince (Tobn Tserend-yömbil), [255](#255)
 
 <a id="340">**340 INDEX**</a>
 
-Horse, sacred, Haslund's slaying of, in error, 192; compensation offered for, by Haslund, 196, *see also* Kulan  
---- thieves, severe enactments against, under Mongolian law (footnote), 91
+Horse, sacred, Haslund's slaying of, in error, [192](#192); compensation offered for, by Haslund, [196](#196), *see also* Kulan
+--- thieves, severe enactments against, under Mongolian law (footnote), [91](#91)
 
-Horse-racing among Torguts, 242 Horse-stealer (Nimgher), life spared, 269
+Horse-racing among Torguts, [242](#242) Horse-stealer (Nimgher), life spared, [269](#269)
 
-Horses once part of the wealth of Kalmucks, 215; Khara Shar breed, 229; improvement of breeds of, under Töin Lama, 241; and horsebreeding, knowledge of, possessed by Töin Lama, 242
+Horses once part of the wealth of Kalmucks, [215](#215); Khara Shar breed, [229](#229); improvement of breeds of, under Töin Lama, [241](#241); and horsebreeding, knowledge of, possessed by Töin Lama, [242](#242)
 
-*Hoshun* (banners), division of *aimak* into (footnote), 120; division into *sumon* (arrows), (footnote), 120, 262; principality administered by a *tuslakchi,* 262
+*Hoshun* (banners), division of *aimak* into (footnote), [120](#120); division into *sumon* (arrows), (footnote), [120](#120), [262](#262); principality administered by a *tuslakchi*, [262](#262)
 
-Hotel Wagon-Lits, Peking, 11; types of people met with at, 11
+Hotel Wagon-Lits, Peking, [11](#11); types of people met with at, [11](#11)
 
-Hsi-Pao t'ou, 10, 60; terminus of Ching-Chang railway, 9, 17, 18; foregathering of Sven Hedin Expedition at, 17; temporary encampment of Sven Hedin Expedition at, 18
+Hsi-Pao t'ou, [10](#10), [60](#60); terminus of Ching-Chang railway, [9](#9), [17](#17), [18](#18); foregathering of Sven Hedin Expedition at, [17](#17); temporary encampment of Sven Hedin Expedition at, [18](#18)
 
-Hsu, General, 156  
---- Professor, member of tribunal in judgment of Oborgon, 97
+Hsu, General, [156](#156)
+--- Professor, member of tribunal in judgment of Oborgon, [97](#97)
 
-Hsuan Tung, Ex-Emperor of China, 251, 252; now Emperor of Manchukuo under name of K'ang Te, 252; presents Haslund with a talisman, 252
+Hsuan Tung, Ex-Emperor of China, [251](#251), [252](#252); now Emperor of Manchukuo under name of K'ang Te, [252](#252); presents Haslund with a talisman, [252](#252)
 
-Hummel, 21, 49, 116; attempts at anthropometric measurements of Mongols, 33; admitted as guest to most sacred part of monastery, 38; opinion on inhuman expression of the two *gur- tums,* 59; anthropometric measurements obtained by, 61; departure to the United States, 320
+Hummel, [21](#21), [49](#49), [116](#116); attempts at anthropometric measurements of Mongols, [33](#33); admitted as guest to most sacred part of monastery, [38](#38); opinion on inhuman expression of the two *gurtums*, [59](#59); anthropometric measurements obtained by, [61](#61); departure to the United States, [320](#320)
 
-Huron Dorgoi, 96, 97, waterhole of, 91
+Huron Dorgoi, [96](#96), [97](#97), waterhole of, [91](#91)
 
-Hussein, 86
+Hussein, [86](#86)
 
-*Hutuktu,* the, 38, 39, 68; holiness of, how attained, 25, 26; deceased, preservation of relics of, in *soborok,* 31; sprinkling of holy water by, 39; procession at reception of, described, 39, 40; tributes and gifts to, 39, 40; of Etsina Torguts, 122, 123  
---- (Tangert Gegen), visit to, 122, 123  
---- Altai Gegen, 199
+*Hutuktu*, the, [38](#38), [39](#39), [68](#68); holiness of, how attained, [25](#25), [26](#26); deceased, preservation of relics of, in *soborok*, [31](#31); sprinkling of holy water by, [39](#39); procession at reception of, described, [39](#39), [40](#40); tributes and gifts to, [39](#39), [40](#40); of Etsina Torguts, [122](#122), [123](#123)
+--- (Tangert Gegen), visit to, [122](#122), [123](#123)
+--- Altai Gegen, [199](#199)
 
-Ikhe Khara, "The Great Black One": description of, 47; exorcizing ceremony conducted by, 47, 48
+Ikhe Khara, "The Great Black One": description of, [47](#47); exorcizing ceremony conducted by, [47](#47), [48](#48)
 
 Ikhe-gol, *see* Etsin-gol
 
-Ili river, 206, 214, 264, 272, 277; valley of, 204  
---- steppes of, ancestral country of Tsagechin Mongols, 167 *Ili'en shara Ködä* (song of the golden meadows of the Ili river), 272
+Ili river, [206](#206), [214](#214), [264](#264), [272](#272), [277](#277); valley of, [204](#204)
+--- steppes of, ancestral country of Tsagechin Mongols, [167](#167) *Ili'en shara Ködä* (song of the golden meadows of the Ili river), [272](#272)
 
-Illustrated papers, perusal of, by Töin Lama producing intimacy with Haslund, 245
+Illustrated papers, perusal of, by Töin Lama producing intimacy with Haslund, [245](#245)
 
-Images of gods, dug up from desert, 110
+Images of gods, dug up from desert, [110](#110)
 
-India (Enet-khegien oron-etse), dispute in, between lamas of Buddhism and those holding different faiths, 226; voyage of Tibetan Lamas to, and from, 232  
---- Northern, Gandhara art of, 5
+India (Enet-khegien oron-etse), dispute in, between lamas of Buddhism and those holding different faiths, [226](#226); voyage of Tibetan Lamas to, and from, [232](#232)
+--- Northern, Gandhara art of, [5](#5)
 
-Insect pests of Bactrian camel, 73 *Irgen,* signification of, 30; and Chinaman, convertible terms, 30
+Insect pests of Bactrian camel, [73](#73) *Irgen*, signification of, [30](#30); and Chinaman, convertible terms, [30](#30)
 
-Iris, Mongolian name for, 20
+Iris, Mongolian name for, [20](#20)
 
 <a id="341">**341 INDEX**</a>
 
-Iron (*temir* or *tumur),* 199  
---- Snake, year of (1929), 70, 297
+Iron (*temir* or *tumur)*, [199](#199)
+--- Snake, year of (1929), [70](#70), [297](#297)
 
-Irtysh, 169
+Irtysh, [169](#169)
 
-Jacob, Moses, baptism into Swedish Church, 168
+Jacob, Moses, baptism into Swedish Church, [168](#168)
 
-Jahan, Mogul Shah, Taj Mahal of, by whom erected, 237
+Jahan, Mogul Shah, Taj Mahal of, by whom erected, [237](#237)
 
-Jamischoff, siege of, 169, 170 Jamyang (Manjusri), god of wisdom, 246
+Jamischoff, siege of, [169](#169), [170](#170) Jamyang (Manjusri), god of wisdom, [246](#246)
 
-Jamyshev, 169
+Jamyshev, [169](#169)
 
-Japanese concession of Tientsin, 251
+Japanese concession of Tientsin, [251](#251)
 
-Jehol, Manchu Emperor's, by whom erected, 237
+Jehol, Manchu Emperor's, by whom erected, [237](#237)
 
-Jenghiz Khan, 277, 288; one of the four great *Khans,* 246; maxims of, still holding good in Mongolian law, 265, 266; *Yassa* of, 265,---penalty for horse and camel stealing (footnote), 91 Jerboas, 20 Jirgalan, river, 263 Jobting, 65; servant and assistant of Maidari, 42
+Jenghiz Khan, [277](#277), [288](#288); one of the four great *Khans*, [246](#246); maxims of, still holding good in Mongolian law, [265](#265), [266](#266); *Yassa* of, [265](#265),---penalty for horse and camel stealing (footnote), [91](#91) Jerboas, [20](#20) Jirgalan, river, [263](#263) Jobting, [65](#65); servant and assistant of Maidari, [42](#42)
 
-Jun-jassak, *notog* of Khoshut Mongols, 200
+Jun-jassak, *notog* of Khoshut Mongols, [200](#200)
 
-Justice, administration in Torgut court, 265; principles and rules of, in harmony with the character of the nomads, 268
+Justice, administration in Torgut court, [265](#265); principles and rules of, in harmony with the character of the nomads, [268](#268)
 
-Kaarsberg, Hans S., on degeneration of modern Kalmucks, 215
+Kaarsberg, Hans S., on degeneration of modern Kalmucks, [215](#215)
 
-Kalgan, 9, 18
+Kalgan, [9](#9), [18](#18)
 
-Kalmak, Mohammedan name for a Mongol (footnote), 260
+Kalmak, Mohammedan name for a Mongol (footnote), [260](#260)
 
-Kalmuck, derivation of word from Turkish *kalmak,* "the remaining", "the left behind", 214; term of abuse among West Mongols, 215; modern, character of, 215  
---- Territory, 170
+Kalmuck, derivation of word from Turkish *kalmak*, "the remaining", "the left behind", [214](#214); term of abuse among West Mongols, [215](#215); modern, character of, [215](#215)
+--- Territory, [170](#170)
 
-Kalmucks, 171; horses once part of the wealth of the, 215; modern: degeneration of, 215, knowledge of exodus of ancestors possessed by, 215, present population a remnant, 215, Russian subjects, 215, vices of, 215, victims of alcohol and syphilis, 215
+Kalmucks, [171](#171); horses once part of the wealth of the, [215](#215); modern: degeneration of, [215](#215), knowledge of exodus of ancestors possessed by, [215](#215), present population a remnant, [215](#215), Russian subjects, [215](#215), vices of, [215](#215), victims of alcohol and syphilis, [215](#215)
 
-*Kang,* 231
+*Kang*, [231](#231)
 
-K'ang Hsi, Manchu Emperor: driven into China by Dzun- gar hordes (West Mongols), 205; territory allotted to Khalka Mongols by, 205; annihilation of power of West Mongols by, 206; West- Mongol army defeated by, 206; secret document of, 307
+K'ang Hsi, Manchu Emperor: driven into China by Dzungar hordes (West Mongols), [205](#205); territory allotted to Khalka Mongols by, [205](#205); annihilation of power of West Mongols by, [206](#206); West-Mongol army defeated by, [206](#206); secret document of, [307](#307)
 
-Kansu, 100; advance of General Feng Yu-hsiang from, 243
+Kansu, [100](#100); advance of General Feng Yu-hsiang from, [243](#243)
 
-Kasak Tribe, 204
+Kasak Tribe, [204](#204)
 
-Kauffman, His Excellency H., of Danish Legation, Peking, 15
+Kauffman, His Excellency H., of Danish Legation, Peking, [15](#15)
 
-Kaul, 145
+Kaul, [145](#145)
 
-Kerya, oasis town of, in Lop desert, 183
+Kerya, oasis town of, in Lop desert, [183](#183)
 
-Khalka Mongolia, 147, 204, 283 ; annexed by Soviets, 164; borders of, 167  
---- Mongols, 29; alliance with inhabitants of Inner Mongolia, how averted, 29, 30; steppes inhabited by, invaded by West Mongols, 205; territory assigned to, by Manchu Emperor, 205; war against, resumed by Tsewang Raptan, 206
+Khalka Mongolia, [147](#147), [204](#204), [283](#283) ; annexed by Soviets, [164](#164); borders of, [167](#167)
+--- Mongols, [29](#29); alliance with inhabitants of Inner Mongolia, how averted, [29](#29), [30](#30); steppes inhabited by, invaded by West Mongols, [205](#205); territory assigned to, by Manchu Emperor, [205](#205); war against, resumed by Tsewang Raptan, [206](#206)
 
-Khan Bogdo Tson Kapa, 306
+Khan Bogdo Tson Kapa, [306](#306)
 
-"Khan in the West" (Torgut song), 228
+"Khan in the West" (Torgut song), [228](#228)
 
-Khanates, four, of Outer Mongolia, abolition of, 6, 7
+Khanates, four, of Outer Mongolia, abolition of, [6](#6), [7](#7)
 
 Khans, *see* Great Khans
 
-Khara Bator Janjyn, ruler of Khara Khoto, 106, 107; fate of, 108; treasure of, inaccessible, 109; Tangut chief, 117
+Khara Bator Janjyn, ruler of Khara Khoto, [106](#106), [107](#107); fate of, [108](#108); treasure of, inaccessible, [109](#109); Tangut chief, [117](#117)
 
 <a id="342">**342 INDEX**</a>
 
-Khara Gobi, desert of, 21
+Khara Gobi, desert of, [21](#21)
 
-*Khara Jag,* "the black tamarisks", 74
+*Khara Jag*, "the black tamarisks", [74](#74)
 
-Khara Jag Hutuk, arrival of "scientific" column of caravan at, 74  
---- Khoto, 106; besieged by Chinese army, 107, 108; watch-towers beyond, 107 (footnote), 117  
---- Khula, assumes title of Khun- taiji (supreme chief), 204 ; union of West-Mongol tribes by, 204  
---- Kitad. 306; descendants of, 264 --- Ossun (*taburn notog*)*,* chief of Torgut tribe at, 253  
---- Sain, 148, 149  
---- Shar, 214, 218, 281, 316; descendants of original Dzungarian Khoshut tribe living at, 200; breed of horses, 229
---- --- Khanate, Torguts of, 203
---- --- Torguts: commanders of "banners" of (*giisdä*),* 229; grazing-grounds of, 263
---- --- tribe, 262
+Khara Jag Hutuk, arrival of "scientific" column of caravan at, [74](#74)
+--- Khoto, [106](#106); besieged by Chinese army, [107](#107), [108](#108); watch-towers beyond, [107](#107) (footnote), [117](#117)
+--- Khula, assumes title of Khun-taiji (supreme chief), [204](#204) ; union of West-Mongol tribes by, [204](#204)
+--- Kitad, [306](#306); descendants of, [264](#264)
+--- Ossun (*taburn notog*), chief of Torgut tribe at, [253](#253)
+--- Sain, [148](#148), [149](#149)
+--- Shar, [214](#214), [218](#218), [281](#281), [316](#316); descendants of original Dzungarian Khoshut tribe living at, [200](#200); breed of horses, [229](#229)
+--- --- Khanate, Torguts of, [203](#203)
+--- --- Torguts: commanders of "banners" of (*gusdä*), [229](#229); grazing-grounds of, [263](#263)
+--- --- tribe, [262](#262)
 
-*Khara yasse* (black bones), Mongol socagers (footnote), 118
+*Khara yasse* (black bones), Mongol socagers (footnote), [118](#118)
 
-Khobok Sairi tribe, 276
+Khobok Sairi tribe, [276](#276)
 
-Khochin Torguts, 263
+Khochin Torguts, [263](#263)
 
-Khoit tribe, 170; in Durbet Öret alliance, 204; troops of, arrive at the Volga, 210
+Khoit tribe, [170](#170); in Durbet Öret alliance, [204](#204); troops of, arrive at the Volga, [210](#210)
 
-Khoros, tribe in Durbet Öret alliance, 204
+Khoros, tribe in Durbet Öret alliance, [204](#204)
 
-Khoshut banners, 220  
---- Mongols: "banner" chiefs of, 200; divided into five *notog* (domiciles), 200; hierarchical dominion set up by, 200; last king of Tsang driven out by, 200; living by the river Volga, 200; named Taburn tsaidam, 200; possession of country around Kuku-nor taken by (1637), 200; storming of Lhasa by, 200; descendants of, among Däde Mongols in North- Eastern Tibet, 216; Mongrolda Noyen, a chief of, 219 Koshut tribe: in Durbet Öret alliance, 204; troops of, arrive at Volga, 210
+Khoshut banners, [220](#220)
+--- Mongols: "banner" chiefs of, [200](#200); divided into five *notog* (domiciles), [200](#200); hierarchical dominion set up by, [200](#200); last king of Tsang driven out by, [200](#200); living by the river Volga, [200](#200); named Taburn tsaidam, [200](#200); possession of country around Kuku-nor taken by (1637), [200](#200); storming of Lhasa by, [200](#200); descendants of, among Däde Mongols in North-Eastern Tibet, [216](#216); Mongrolda Noyen, a chief of, [219](#219) Koshut tribe: in Durbet Öret alliance, [204](#204); troops of, arrive at Volga, [210](#210)
 
-Khoshuts: migration from Dzungaria, 205; plunder of Lhasa and other aggressions by, 205; migration of, principal cause, 205
+Khoshuts: migration from Dzungaria, [205](#205); plunder of Lhasa and other aggressions by, [205](#205); migration of, principal cause, [205](#205)
 
-*Khoten,* Torguts' name for Mohammedan Sarts (footnote), 260
+*Khoten*, Torguts' name for Mohammedan Sarts (footnote), [260](#260)
 
-Khoten Sumon, Sart village of, 260; inhabitants of, from whom descended, 260
+Khoten Sumon, Sart village of, [260](#260); inhabitants of, from whom descended, [260](#260)
 
-*Khun-taiji*, supreme chief of West Mongols, 204
+*Khun-taiji*, supreme chief of West Mongols, [204](#204)
 
-*Khuruldei,* 195, 196; council of chiefs and magistrates (footnote), 195; judgment to be given by, 195
+*Khuruldei*, [195](#195), [196](#196); council of chiefs and magistrates (footnote), [195](#195); judgment to be given by, [195](#195)
 
-Khunges, river, 263
+Khunges, river, [263](#263)
 
-King of Trees (*Modo'en Khan*)*,* reason why the tamarisk is so named, 85
+King of Trees (*Modo'en Khan*), reason why the tamarisk is so named, [85](#85)
 
-Kipchak, tribe of, subdued by Torguts, 207
+Kipchak, tribe of, subdued by Torguts, [207](#207)
 
-Kirghiz: characteristics of, 279; hereditary foes of Torguts, 212, 213; Mohammedanism of, 279; settlements, position of, 279; legend relating to origin of tribe, 280  
---- tribe, 204  
---- and Torguts, enmity between, 279
+Kirghiz: characteristics of, [279](#279); hereditary foes of Torguts, [212](#212), [213](#213); Mohammedanism of, [279](#279); settlements, position of, [279](#279); legend relating to origin of tribe, [280](#280)
+--- tribe, [204](#204)
+--- and Torguts, enmity between, [279](#279)
 
-Kobdo, 200. 204; garrison of, Dambin Jansang's siege of, 155  
---- Mountains, 279
+Kobdo, [200](#200). [204](#204); garrison of, Dambin Jansang's siege of, [155](#155)
+--- Mountains, [279](#279)
 
-Kondolen Ubashi, Khoshut Mongols migrating to Russia under leadership of, 200
+Kondolen Ubashi, Khoshut Mongols migrating to Russia under leadership of, [200](#200)
 
-Koslov, discovery of treasures at
+Koslov, discovery of treasures at Etsina by (1909), [109](#109), [110](#110)
 
-Etsina by (1909), 109, 110
-
-*Kow-tows,* performance before the gods of the tent, 221
+*Kow-tows*, performance before the gods of the tent, [221](#221)
 
 <a id="343">**343 INDEX**</a>
 
-Kublai, 288
+Kublai, [288](#288)
 
 Kuket-beise, *notog* of Khoshut
 
-Mongols, 200
+Mongols, [200](#200)
 
-Kuko Khoto (Kwei-hwa Ch'eng), 5; how acquired by the Chinese, 5
+Kuko Khoto (Kwei-hwa Ch'eng), [5](#5); how acquired by the Chinese, [5](#5)
 
-Kuku-nor, 199; possession of country around, taken by Khoshut Mongols (1637), 200; district around acquired by Khoshuts, 205; territory around, inhabited by Däde Mongols, 205
+Kuku-nor, [199](#199); possession of country around, taken by Khoshut Mongols (1637), [200](#200); district around acquired by Khoshuts, [205](#205); territory around, inhabited by Däde Mongols, [205](#205)
 
-*Kulan* (wild horse), qualities of, 190; hunting of, 191,---opposed by Mongols, 193;
+*Kulan* (wild horse), qualities of, [190](#190); hunting of, [191](#191),---opposed by Mongols, [193](#193);
 
-Kulans on shore of lake in Gobi desert, 152
+Kulans on shore of lake in Gobi desert, [152](#152)
 
-Kumbum, monastery of, 123
+Kumbum, monastery of, [123](#123)
 
-Kumysh, "the silver village", 217, 218
+Kumysh, "the silver village", [217](#217), [218](#218)
 
-*Kung,* duke of the first rank, 262
+*Kung*, duke of the first rank, [262](#262)
 
-Kurluk-beise, *notog* of Khoshut Mongols, 200
+Kurluk-beise, *notog* of Khoshut Mongols, [200](#200)
 
-Kuruk-tagh Mountains, 201
+Kuruk-tagh Mountains, [201](#201)
 
-Kwei-hwa-Ch'eng, 9; *see also* Kuko Khoto
+Kwei-hwa-Ch'eng, [9](#9); *see also* Kuko Khoto
 
 "Lake of Water Cattle", *see* Socho-nor
 
-Lama, method of announcing nightfall, 29  
+Lama, method of announcing nightfall, [29](#29)
 --- high, *see* Hutuktu
 
-Lamaism: holy city of (Lhasa), 31, 32; *Tsam* dance part of, 46; conversion of spirits of Shamanism to, 47; supposed protector of (Great Khan Srong-tsang-Gampo), 246; promotion by Chinese among the nomads, 268
+Lamaism: holy city of (Lhasa), [31](#31), [32](#32); *Tsam* dance part of, [46](#46); conversion of spirits of Shamanism to, [47](#47); supposed protector of (Great Khan Srong-tsang-Gampo), [246](#246); promotion by Chinese among the nomads, [268](#268)
 
-Lamaist world, homage paid to Turu-baihu throughout, 200
+Lamaist world, homage paid to Turu-baihu throughout, [200](#200)
 
-Lamaistic rosary, the eight hundred and eight beads of (footnote), 247  
---- scriptures, exposition of, 303
+Lamaistic rosary, the eight hundred and eight beads of (footnote), [247](#247)
+--- scriptures, exposition of, [303](#303)
 
-Lamaistic temple service, sounds characterizing, 229  
---- worship, accessories of, arrayed in monastery, 42
+Lamaistic temple service, sounds characterizing, [229](#229)
+--- worship, accessories of, arrayed in monastery, [42](#42)
 
-Lamaists, sign that religion of, was stronger than Brahmanism, 226
+Lamaists, sign that religion of, was stronger than Brahmanism, [226](#226)
 
-Lamas: transformation into *gur- tums,* 25; number inhabiting Bater Halak Sume Monastery, 31; masked, dance of a religious act, 50; with supernatural qualities, 52; advice of Tangert Gegen, *hutuktu,* sought by, 123; warning against the "red doctrine" of the Soviet, 234; reduction in number at Shara Sume monastery, 302  
---- Mongolian, exempt from socage and military service (footnote), 118
+Lamas: transformation into *gurtums*, [25](#25); number inhabiting Bater Halak Sume Monastery, [31](#31); masked, dance of a religious act, [50](#50); with supernatural qualities, [52](#52); advice of Tangert Gegen, *hutuktu*, sought by, [123](#123); warning against the "red doctrine" of the Soviet, [234](#234); reduction in number at Shara Sume monastery, [302](#302)
+--- Mongolian, exempt from socage and military service (footnote), [118](#118)
 
-Langdarma: tyrannous ruler over Tibet, 56; burning of Buddhist monastery by, 56; upholder of black magic, 56; slain by Pal-dorje, Buddhist ascetic, by means of a ruse, 56
+Langdarma: tyrannous ruler over Tibet, [56](#56); burning of Buddhist monastery by, [56](#56); upholder of black magic, [56](#56); slain by Pal-dorje, Buddhist ascetic, by means of a ruse, [56](#56)
 
-Lao Chang, 315
+Lao Chang, [315](#315)
 
-Lark, song-bird of the steppes, 21
+Lark, song-bird of the steppes, [21](#21)
 
-Larks, law of (Pai-ling Ti), 21  
---- from Pai-ling Ti, 21,---high price of, 21,---singing powers of, 21
+Larks, law of (Pai-ling Ti), [21](#21)
+--- from Pai-ling Ti, [21](#21),---high price of, [21](#21),---singing powers of, [21](#21)
 
-Larson, Duke, 13, 85, 116, 132, 134, 136; laconic message by telegram from, 9; leader of "advance column" of caravan of Sven Hedin Expedition, 74; camp of, arrival at, 86; column of, 112, 113; leader of Camel Corps in Etsin-gol expedition, 134; direction for expedition through Black Gobi, 145  
---- Mrs., 14
+Larson, Duke, [13](#13), [85](#85), [116](#116), [132](#132), [134](#134), [136](#136); laconic message by telegram from, [9](#9); leader of "advance column" of caravan of Sven Hedin Expedition, [74](#74); camp of, arrival at, [86](#86); column of, [112](#112), [113](#113); leader of Camel Corps in Etsin-gol expedition, [134](#134); direction for expedition through Black Gobi, [145](#145)
+--- Mrs., [14](#14)
 
-Laws of the Steppes, 260 *et seq.*
+Laws of the Steppes, [260](#260) *et seq.*
 
 <a id="344">**344 INDEX**</a>
 
-Lhasa, 7, 120, 192, 255; holy city of Lamaism, 31, 32; pilgrimages to, 120; storming of, by Khoshut Mongols, 200; plunder by Khoshuts, 205; pilgrims' way to, how barricaded, 211; pilgrimage to, Torguts separating from main group for, 216; admiration of behaviour of Anglo-Indian Force at (1904), expressed by Töin Lama, 254
+Lhasa, [7](#7), [120](#120), [192](#192), [255](#255); holy city of Lamaism, [31](#31), [32](#32); pilgrimages to, [120](#120); storming of, by Khoshut Mongols, [200](#200); plunder by Khoshuts, [205](#205); pilgrims' way to, how barricaded, [211](#211); pilgrimage to, Torguts separating from main group for, [216](#216); admiration of behaviour of Anglo-Indian Force at (1904), expressed by Töin Lama, [254](#254)
 
-Li, 145
+Li, [145](#145)
 
-Library of Bater Halak Sume Monastery, 43
+Library of Bater Halak Sume Monastery, [43](#43)
 
-Lieberenz, 21*,* 34, 49; filmphotographer to Sven Hedin Expedition, 17, 18; admitted as guest to most sacred part of monastery, 38; method of obtaining film photograph of guard, 55; capture of Oborgon filmed by, 115, 116
+Lieberenz, [21](#21), [34](#34), [49](#49); filmphotographer to Sven Hedin Expedition, [17](#17), [18](#18); admitted as guest to most sacred part of monastery, [38](#38); method of obtaining film photograph of guard, [55](#55); capture of Oborgon filmed by, [115](#115), [116](#116)
 
-Lindbergh, Charles, Atlantic flight of, effect of knowledge of, upon Torguts, 245
+Lindbergh, Charles, Atlantic flight of, effect of knowledge of, upon Torguts, [245](#245)
 
-*Linga,* pseudo-human sacrifice, 47 Linnæus, 173
+*Linga*, pseudo-human sacrifice, [47](#47) Linnæus, [173](#173)
 
-"Little Bucharea", 171, 172
+"Little Bucharea", [171](#171), [172](#172)
 
-Liu Jaw Jyä *(Oborgon),* 89
+Liu Jaw Jyä *(Oborgon)*, [89](#89)
 
-Lobsang Damba Dshamdsan, 284
+Lobsang Damba Dshamdsan, [284](#284)
 
-Lobson, 309, 312; envoy of Panchen Bogdo, 232, 234; parting gift to Haslund, 318  
---- Chanab, song of, 222, 223  
---- Geling, 311, 312, 315
+Lobson, [309](#309), [312](#312); envoy of Panchen Bogdo, [232](#232), [234](#234); parting gift to Haslund, [318](#318)
+--- Chanab, song of, [222](#222), [223](#223)
+--- Geling, [311](#311), [312](#312), [315](#315)
 
-Lodong, 309, 326; *chanse* of regent, 232, 234, 236; skill of, in deciphering manuscripts, 305
+Lodong, [309](#309), [326](#326); *chanse* of regent, [232](#232), [234](#234), [236](#236); skill of, in deciphering manuscripts, [305](#305)
 
-Geling, 270, 271
+Geling, [270](#270), [271](#271)
 
-*Long Snake* (*Ormen lange*)*,* canoe for navigating Etsin-gol, 134, 137
+*Long Snake* (*Ormen lange*), canoe for navigating Etsin-gol, [134](#134), [137](#137)
 
-Lop desert, 201; heat of, 175; oases of, 176; cool nights of, 179; mountain patrol in, 181
+Lop desert, [201](#201); heat of, [175](#175); oases of, [176](#176); cool nights of, [179](#179); mountain patrol in, [181](#181)
 
-Lop-nor, 183
+Lop-nor, [183](#183)
 
-Love song, Mongolian, 25
+Love song, Mongolian, [25](#25)
 
-Lyrup, 305, 309, 310, 316, 319, 320, 326  
---- *chanse* of Regent, 232, 234, 236  
----  Geling, 280
+Lyrup, [305](#305), [309](#309), [310](#310), [316](#316), [319](#319), [320](#320), [326](#326)
+--- *chanse* of Regent, [232](#232), [234](#234), [236](#236)
+--- Geling, [280](#280)
 
-Magic, ancient, reminder of victory of Buddhism over, 56  
---- ritual, *Tsam* dance a, 50
+Magic, ancient, reminder of victory of Buddhism over, [56](#56)
+--- ritual, *Tsam* dance a, [50](#50)
 
-Magicians, dance of, 52 *et seq.*; origin of, 56; panic accompanying, 57, 58  
---- of the fellowship of the black hat (*shanag*), 56; *see also* Shanag
+Magicians, dance of, [52](#52) *et seq.*; origin of, [56](#56); panic accompanying, [57](#57), [58](#58)
+--- of the fellowship of the black hat (*shanag*), [56](#56); *see also* Shanag
 
-Magistrate, Mongolian (*merin*)*,* 193 (footnote), 193
+Magistrate, Mongolian (*merin*), [193](#193) (footnote), [193](#193)
 
-Mahmud, Öret Khan, 204
+Mahmud, Öret Khan, [204](#204)
 
-Maidari: feast of, 20, 21, 23; festival of: film taking at, 21, how terminated, 66, 67, journey of nomad Mongolian family groups to, 23; figure of, carried in procession, 65 ; Töin Lama's prophecies regarding, 250, 251  
---- Messiah of Buddhism, 20
---- the Messiah of Lamaism: image of, executed in silk on banner, 42; offerings at altar of, 49
---- Torgut diety, 283
+Maidari: feast of, [20](#20), [21](#21), [23](#23); festival of: film taking at, [21](#21), how terminated, [66](#66), [67](#67), journey of nomad Mongolian family groups to, [23](#23); figure of, carried in procession, [65](#65) ; Töin Lama's prophecies regarding, [250](#250), [251](#251)
+--- Messiah of Buddhism, [20](#20)
+--- the Messiah of Lamaism: image of, executed in silk on banner, [42](#42); offerings at altar of, [49](#49)
+--- Torgut diety, [283](#283)
 
-Makejef: death of, 185; remains of caravan of, on "Stone Pass", 189
+Makejef: death of, [185](#185); remains of caravan of, on "Stone Pass", [189](#189)
 
-Male Mongol, silver ring in ear of, unusual attire, 127
+Male Mongol, silver ring in ear of, unusual attire, [127](#127)
 
-Manchu Emperor's Jehol, by whom erected, 237
+Manchu Emperor's Jehol, by whom erected, [237](#237)
 
-Manchu-Solon, the: character and habits of, 264; origin of, 264
+Manchu-Solon, the: character and habits of, [264](#264); origin of, [264](#264)
 
-Manchus: war against, renewed by Tsewang Raptan, 206; extermination of nine-tenths of Öret Mongols by, 206  
---- and Dzungars, feud between, 119
+Manchus: war against, renewed by Tsewang Raptan, [206](#206); extermination of nine-tenths of Öret Mongols by, [206](#206)
+--- and Dzungars, feud between, [119](#119)
 
 <a id="345">**345 INDEX**</a>
 
-Mendo, 93, 95; meaning of name, 93; rewarded for pursuit of Oborgon, 100
+Mendo, [93](#93), [95](#95); meaning of name, [93](#93); rewarded for pursuit of Oborgon, [100](#100)
 
-Manjusri (Jamyang), all-knowing god of wisdom, 246; abode of, 4; wisdom of, how conferred, 225
+Manjusri (Jamyang), all-knowing god of wisdom, [246](#246); abode of, [4](#4); wisdom of, how conferred, [225](#225)
 
-Maomo, stone at, marking boundary in 1750 between Mongolian and Chinese territory (footnote), 119
+Maomo, stone at, marking boundary in 1750 between Mongolian and Chinese territory (footnote), [119](#119)
 
-Map brought home by Renat from Dzungaria to Sweden (1724), names in (footnote), 263
+Map brought home by Renat from Dzungaria to Sweden (1724), names in (footnote), [263](#263)
 
-*Maral* (red deer), 298  
---- antlers, immense price obtained for, from Chinese, 303 farm, establishment of, 303
+*Maral* (red deer), [298](#298)
+--- antlers, immense price obtained for, from Chinese, [303](#303) farm, establishment of, [303](#303)
 
-Matai Lama, 91, 92, 93, 94, 96; pursuit of Oborgon by, 97, 98; rewarded for pursuit and capture of Oborgon, 100
+Matai Lama, [91](#91), [92](#92), [93](#93), [94](#94), [96](#96); pursuit of Oborgon by, [97](#97), [98](#98); rewarded for pursuit and capture of Oborgon, [100](#100)
 
-Materialism of the Red Doctrine, 249
+Materialism of the Red Doctrine, [249](#249)
 
-Mather, P. (medical missionary), intervention in case of Nim- gher, the horse-stealcr, 267
+Mather, P. (medical missionary), intervention in case of Nimgher, the horse-stealcr, [267](#267)
 
-Ma Ti-t'ai, leader of Tungan revolt, 243
+Ma Ti-t'ai, leader of Tungan revolt, [243](#243)
 
-Ma-tsung Mountains, 153
+Ma-tsung Mountains, [153](#153)
 
-Medicine, knowledge of, possessed by Chinese, 251
+Medicine, knowledge of, possessed by Chinese, [251](#251)
 
-Mercy, lamaistic goddess of (Dara äkhä), 247
+Mercy, lamaistic goddess of (Dara äkhä), [247](#247)
 
-*Merin,* Mongolian magistrate, 193 (footnote), 193
+*Merin*, Mongolian magistrate, [193](#193) (footnote), [193](#193)
 
-Messiah, 68  
---- of Buddhism (Maidari), 20
+Messiah, [68](#68)
+--- of Buddhism (Maidari), [20](#20)
 
-Metal weapons or armour, finding of, at Temirlik, 199  
---- worker, *darkhan* Mongolian word for, 30
+Metal weapons or armour, finding of, at Temirlik, [199](#199)
+--- worker, *darkhan* Mongolian word for, [30](#30)
 
-Meteorological work of Sven Hedin Expedition, 19
+Meteorological work of Sven Hedin Expedition, [19](#19)
 
-Miao-go, imprisonment of explorers at, 160, 162
+Miao-go, imprisonment of explorers at, [160](#160), [162](#162)
 
-Middle class, Mongolian *(darkhan),* (footnote), 118
+Middle class, Mongolian *(darkhan)*, (footnote), [118](#118)
 
-Military service, Mongolian lamas exempt from (footnote), 118
+Military service, Mongolian lamas exempt from (footnote), [118](#118)
 
-Ming Dynasty, 309
+Ming Dynasty, [309](#309)
 
-*Minja khan-gr**ä**n boro* (miraculous stag of inspiration), 292
+*Minja khan-gr**ä**n boro* (miraculous stag of inspiration), [292](#292)
 
-Mirages of the desert, 103
+Mirages of the desert, [103](#103)
 
-Mohammedan hordes blocking way to Lhasa, 212  
---- mosque by wall of Etsina, 109  
---- name for a Mongol (footnote), 260  
---- Sarts, Torguts' name for *(Khoten)* (footnote), 260
+Mohammedan hordes blocking way to Lhasa, [212](#212)
+--- mosque by wall of Etsina, [109](#109)
+--- name for a Mongol (footnote), [260](#260)
+--- Sarts, Torguts' name for *(Khoten)* (footnote), [260](#260)
 
-Monastery, Buddhist, burning by Langdarma, 56  
---- of Bater Halak Sume, 25
+Monastery, Buddhist, burning by Langdarma, [56](#56)
+--- of Bater Halak Sume, [25](#25)
 
-Mongol, the: only need of, 248, 249; Mohammedan name for (footnote), 260  
---- aged, pronouncement of, regarding benefits of prayerflag, 225, 226  
---- hunters, shooting of *argali (Ovis ammon)* by, 224  
---- princes, extermination or banishment by Red Soviet, 3  
---- pursuers and capturers jf Oborgon, recipients of Swedish Medals of Merit (footnote), 100
+Mongol, the: only need of, [248](#248), [249](#249); Mohammedan name for (footnote), [260](#260)
+--- aged, pronouncement of, regarding benefits of prayerflag, [225](#225), [226](#226)
+--- hunters, shooting of *argali (Ovis ammon)* by, [224](#224)
+--- princes, extermination or banishment by Red Soviet, [3](#3)
+--- pursuers and capturers jf Oborgon, recipients of Swedish Medals of Merit (footnote), [100](#100)
 
-Mongols, 218, 219; purchases of camels made by, 19; anthropometric measurements of, attempts at, 33; lust for vengeance, 91; ceremony performed by, expressing racial contempt for camel-thief, 100; manifestation of hostility to Oborgon, 115; social orders into which divided (footnote), 118; love of autumn, 144, 145; attitude of, towards hunting of horses, 193; hunting of *kulan* opposed by, 193; hostility aroused in, against members of the Expedition, 197; of Dzungarian Khoshut tribe,
+Mongols, [218](#218), [219](#219); purchases of camels made by, [19](#19); anthropometric measurements of, attempts at, [33](#33); lust for vengeance, [91](#91); ceremony performed by, expressing racial contempt for camel-thief, [100](#100); manifestation of hostility to Oborgon, [115](#115); social orders into which divided (footnote), [118](#118); love of autumn, [144](#144), [145](#145); attitude of, towards hunting of horses, [193](#193); hunting of *kulan* opposed by, [193](#193); hostility aroused in, against members of the Expedition, [197](#197); of Dzungarian Khoshut tribe,
 
 <a id="346">**346 INDEX**</a>
 
 Mongols *(continued)---*
 
-199, 200; on western bank of Volga, how prevented from joining in migration, 213; left behind on western bank of Volga, number of (1771), 214; wild riders capturing members of the Expedition calling themselves, 216, 217; wearing of Cossack uniform by, 218, 219; abhorrence of being touched manifested by, 235; music of the, 235 *et seq.;* folk music of, 237  
---- Northern, Etsina Torguts despised by, 120
+[199](#199), [200](#200); on western bank of Volga, how prevented from joining in migration, [213](#213); left behind on western bank of Volga, number of (1771), [214](#214); wild riders capturing members of the Expedition calling themselves, [216](#216), [217](#217); wearing of Cossack uniform by, [218](#218), [219](#219); abhorrence of being touched manifested by, [235](#235); music of the, [235](#235) *et seq.;* folk music of, [237](#237)
+--- Northern, Etsina Torguts despised by, [120](#120)
 
-Mongolia, 323; past life and adventures of Chiang Lan Chiao in, 2, 3; highest divine incarnation in, how represented, 25; penal code for, compiled by Chinese Foreign Office; punishment for camel stealing (quoted) (footnote), 91; methods of divination practised in (footnote), 313  
---- Inner, 34; inhabitants of, alliance with Khalka Mongols, how averted, 29, 30  
---- Northern, steppes of, 153  
---- Outer, four Khanates of, abolished, 7  
---- Western: Dambin Jansang, Governor of, 155; and Northern, alliance between effected, 204
+Mongolia, [323](#323); past life and adventures of Chiang Lan Chiao in, [2](#2), [3](#3); highest divine incarnation in, how represented, [25](#25); penal code for, compiled by Chinese Foreign Office; punishment for camel stealing (quoted) (footnote), [91](#91); methods of divination practised in (footnote), [313](#313)
+--- Inner, [34](#34); inhabitants of, alliance with Khalka Mongols, how averted, [29](#29), [30](#30)
+--- Northern, steppes of, [153](#153)
+--- Outer, four Khanates of, abolished, [7](#7)
+--- Western: Dambin Jansang, Governor of, [155](#155); and Northern, alliance between effected, [204](#204)
 
-Mongolian chieftain, ranks of (footnote), 126  
---- court patronage of Chinese drama, 237  
---- hunters: refraining from shooting antelopes, 22, 23; superstition regarding antelope herds, 22, 23  
---- Khans, one reputed survivor of, 7  
---- law, 260 *et seq.*; severe enactments against horse thieves and camel thieves under (footnote), 91; maxims of Jenghiz Khan still holding good in, 265, 266
+Mongolian chieftain, ranks of (footnote), [126](#126)
+--- court patronage of Chinese drama, [237](#237)
+--- hunters: refraining from shooting antelopes, [22](#22), [23](#23); superstition regarding antelope herds, [22](#22), [23](#23)
+--- Khans, one reputed survivor of, [7](#7)
+--- law, [260](#260) *et seq.*; severe enactments against horse thieves and camel thieves under (footnote), [91](#91); maxims of Jenghiz Khan still holding good in, [265](#265), [266](#266)
 
-Mongolian love song, 25  
---- melodies: connection with Russian, 237; rhythm of, 238  
---- name for iris, 20  
---- nationalism, Chinese attempt to crush, 243
+Mongolian love song, [25](#25)
+--- melodies: connection with Russian, [237](#237); rhythm of, [238](#238)
+--- name for iris, [20](#20)
+--- nationalism, Chinese attempt to crush, [243](#243)
 
-New Year *(Shene Jil)*, 297  
---- nobility, peacock-feather insignia of, 125, (footnote) 126  
---- songs: phonographic records taken of, 236; subjects of, 237, 238; single emotion in, 238; words of, 238; sung without or with accompaniment, 238, 239  
---- Soviet State, Dambin Jansang's dangerous enmity towards, 156  
---- tribes, emigration from Dzungaria, 204, 205  
---- women, fatalism of, 24 and Chinese territory, stone marking boundary between (1750), at Maomo (footnote), 119
+New Year *(Shene Jil)*, [297](#297)
+--- nobility, peacock-feather insignia of, [125](#125), (footnote) [126](#126)
+--- songs: phonographic records taken of, [236](#236); subjects of, [237](#237), [238](#238); single emotion in, [238](#238); words of, [238](#238); sung without or with accompaniment, [238](#238), [239](#239)
+--- Soviet State, Dambin Jansang's dangerous enmity towards, [156](#156)
+--- tribes, emigration from Dzungaria, [204](#204), [205](#205)
+--- women, fatalism of, [24](#24) and Chinese territory, stone marking boundary between (1750), at Maomo (footnote), [119](#119)
 
-Mongrolda Noyen, 219, 220, 223, 229, 326; leader of Khoshut Mongols, 162; a chief of Khoshut Mongols, 219; wife of *(Khatun)*, 219, 220, 221, 223, 241; appointments conferred upon, 220; famous ancestors of, 220
+Mongrolda Noyen, [219](#219), [220](#220), [223](#223), [229](#229), [326](#326); leader of Khoshut Mongols, [162](#162); a chief of Khoshut Mongols, [219](#219); wife of *(Khatun)*, [219](#219), [220](#220), [221](#221), [223](#223), [241](#241); appointments conferred upon, [220](#220); famous ancestors of, [220](#220)
 
-Mountain sickness, symptoms of, 190
+Mountain sickness, symptoms of, [190](#190)
 
-Muhlenweg, 116
+Muhlenweg, [116](#116)
 
-Murin-gol, 146; waters of, carried into Gashun-nor, 135 Music, Mongolian, number of records taken of, 239  
---- of the Mongols, 235 *et seq.*
+Murin-gol, [146](#146); waters of, carried into Gashun-nor, [135](#135) Music, Mongolian, number of records taken of, [239](#239)
+--- of the Mongols, [235](#235) *et seq.*
 
-Mystical cult objects (*sor*), 47
+Mystical cult objects (*sor*), [47](#47)
 
 <a id="347">**347 INDEX**</a>
 
-Nan Shan, Tibetan Border Range, 134
+Nan Shan, Tibetan Border Range, [134](#134)
 
-Naren Khan, genealogy of, 306, 307
+Naren Khan, genealogy of, [306](#306), [307](#307)
 
-Nature Spirits, danger of, 84
+Nature Spirits, danger of, [84](#84)
 
-Nauen, wireless station at, 145
+Nauen, wireless station at, [145](#145)
 
-Nava, 168
+Nava, [168](#168)
 
-Nepal, 28
+Nepal, [28](#28)
 
-New Year, Mongolian (*Shene Jil*)*,* 297, 298; feast at, 299
+New Year, Mongolian (*Shene Jil*), [297](#297), [298](#298); feast at, [299](#299)
 
-Nightfall, method of announcing, by lama, 29
+Nightfall, method of announcing, by lama, [29](#29)
 
-*Nimgher* (horse-stealer), life spared, 269; reform of, 269
+*Nimgher* (horse-stealer), life spared, [269](#269); reform of, [269](#269)
 
-Nirgitma, Torgut princess, 322, 323, 324, 325
+Nirgitma, Torgut princess, [322](#322), [323](#323), [324](#324), [325](#325)
 
-*Nisdeg telleg* (ether-carriage), 245 Niya, 183
+*Nisdeg telleg* (ether-carriage), [245](#245) Niya, [183](#183)
 
-Nobles, Mongolian (footnote), 18
+Nobles, Mongolian (footnote), [18](#18)
 
-Nogai, tribe of, subdued by Torguts, 207
+Nogai, tribe of, subdued by Torguts, [207](#207)
 
-Nogon dara akha, Nepalese Buddhist princess (footnote), 247
+Nogon dara akha, Nepalese Buddhist princess (footnote), [247](#247)
 
-Nomad Mongolian family groups: description of members of, 23, 24; journey to Maidari festival, 23, 24
+Nomad Mongolian family groups: description of members of, [23](#23), [24](#24); journey to Maidari festival, [23](#23), [24](#24)
 
-Nomads: retreat of, from Shansi territory, 5; of Central Asia, change of religion, 47; growing independence of, 248; principles and rules of justice in harmony with the character of, 268; promotion of Lamaism among, by the Chinese, 268
+Nomads: retreat of, from Shansi territory, [5](#5); of Central Asia, change of religion, [47](#47); growing independence of, [248](#248); principles and rules of justice in harmony with the character of, [268](#268); promotion of Lamaism among, by the Chinese, [268](#268)
 
-Norm, geologist of Sven Hedin Expedition, 19; expedition through Black Gobi under direction of, 145
+Norm, geologist of Sven Hedin Expedition, [19](#19); expedition through Black Gobi under direction of, [145](#145)
 
-*Nofog* (domiciles), five, Khoshut Mongols divided into, 200
+*Nofog* (domiciles), five, Khoshut Mongols divided into, [200](#200)
 
-*North China Star,* 13
+*North China Star*, [13](#13)
 
-Obish Khan, 254, 308, 309, 319 ; influence of Empress Elizabeth upon, 210, 211; method of diverting Russians from his plan of exodus, 212, of inducing Torguts to leave Russia, 213; seeks the counsel of Dalai Lama, regarding departure of Torguts from Russia, 213; flight of, with Torguts an act of foresight, 215; portrait of, in museum in Regent's palace in Öreget, 308
+Obish Khan, [254](#254), [308](#308), [309](#309), [319](#319) ; influence of Empress Elizabeth upon, [210](#210), [211](#211); method of diverting Russians from his plan of exodus, [212](#212), of inducing Torguts to leave Russia, [213](#213); seeks the counsel of Dalai Lama, regarding departure of Torguts from Russia, [213](#213); flight of, with Torguts an act of foresight, [215](#215); portrait of, in museum in Regent's palace in Öreget, [308](#308)
 
-*Obo,* situated near river Etsin-gol, 111
+*Obo*, situated near river Etsin-gol, [111](#111)
 
-*Obos,* protective against evil, 218 Obo'en-gol (river of Obo), 135 Oborgon, 85; camel driver, 85;
+*Obos*, protective against evil, [218](#218) Obo'en-gol (river of Obo), [135](#135) Oborgon, [85](#85); camel driver, [85](#85);
 
-thefts by, 89, 91; antecedents of, 90; patrol in search of, 92, 93; pursuit of, 92, 93, 96, 97, 98; trail of, 93, 94, 95,---lost, 95; capture of, 99; pursuers and capturers of, how rewarded, 100, (footnote) 100; sentence upon, deferred, 100; captivity of, 114; manifestation of hostility to, by Mongols, 115; capture of, in desert, filming of, 115, 116
+thefts by, [89](#89), [91](#91); antecedents of, [90](#90); patrol in search of, [92](#92), [93](#93); pursuit of, [92](#92), [93](#93), [96](#96), [97](#97), [98](#98); trail of, [93](#93), [94](#94), [95](#95),---lost, [95](#95); capture of, [99](#99); pursuers and capturers of, how rewarded, [100](#100), (footnote) [100](#100); sentence upon, deferred, [100](#100); captivity of, [114](#114); manifestation of hostility to, by Mongols, [115](#115); capture of, in desert, filming of, [115](#115), [116](#116)
 
-Occultism in temple tent at Öreget, 311, 314
+Occultism in temple tent at Öreget, [311](#311), [314](#314)
 
-Odakhroi, 96; camping-ground of, 84; Camp No. 34 at, 96
+Odakhroi, [96](#96); camping-ground of, [84](#84); Camp No. [34](#34) at, [96](#96)
 
-Ohyr'en Ossu (Waterhole of the Ox), 103
+Ohyr'en Ossu (Waterhole of the Ox), [103](#103)
 
-Old age, respect to, enjoined by Jenghiz Khan, 266
+Old age, respect to, enjoined by Jenghiz Khan, [266](#266)
 
-"Old But", career and past undertakings of, 12
+"Old But", career and past undertakings of, [12](#12)
 
-Ölet, tribe in Durbet Öret alliance, 204  
---- bands, scattered and leaderless, 263
+Ölet, tribe in Durbet Öret alliance, [204](#204)
+--- bands, scattered and leaderless, [263](#263)
 
-*Olon Chogorso Hagochin Toredolok*, valley of, 254, 255
+*Olon Chogorso Hagochin Toredolok*, valley of, [254](#254), [255](#255)
 
-Olsen, George, 15, 16; discoverer of egg of dinosaurus, 16; palaeontological work of, 16
+Olsen, George, [15](#15), [16](#16); discoverer of egg of dinosaurus, [16](#16); palaeontological work of, [16](#16)
 
 <a id="348">**348 INDEX**</a>
 
-Orchestra of Bater Halak Sume Monastery, performance of, 43, 44
---- playing of, 55, 56, 57
+Orchestra of Bater Halak Sume Monastery, performance of, [43](#43), [44](#44)
+--- playing of, [55](#55), [56](#56), [57](#57)
 
-Öreget, 235, 276, 277, 278, 282, 286, 287, 296, 305, 308, 311; Torgut city of, 228; description of, 228, 229; houses in Tibetan style, 229; unAsiatic cleanliness of streets of, 229; houses of, style of architecture, 229, 230; departure of Haslund from, 270, 271; return journey to, 2S9 *et seq;* Haslund's departure from, 318
+Öreget, [235](#235), [276](#276), [277](#277), [278](#278), [282](#282), [286](#286), [287](#287), [296](#296), [305](#305), [308](#308), [311](#311); Torgut city of, [228](#228); description of, [228](#228), [229](#229); houses in Tibetan style, [229](#229); unAsiatic cleanliness of streets of, [229](#229); houses of, style of architecture, [229](#229), [230](#230); departure of Haslund from, [270](#270), [271](#271); return journey to, 2S9 *et seq;* Haslund's departure from, [318](#318)
 
-Museum in Regent's palace, 308
+Museum in Regent's palace, [308](#308)
 
-Öret chiefs join Torguts in Russia, 210  
---- Khans, 204  
---- Mongols: extermination of nine-tenths of, 206; steppes of, extent, 204
+Öret chiefs join Torguts in Russia, [210](#210)
+--- Khans, [204](#204)
+--- Mongols: extermination of nine-tenths of, [206](#206); steppes of, extent, [204](#204)
 
-*Ormen lange* (long-snake), canoe for navigating Etsin-gol, 134 ; *see also* Long Snake
+*Ormen lange* (long-snake), canoe for navigating Etsin-gol, [134](#134) ; *see also* Long Snake
 
-Ossendowski, Prof. F., 153
+Ossendowski, Prof. F., [153](#153)
 
-*Ovis ammon (Argali)*, 223, 224  
---- *poli (Argali)*, 191
+*Ovis ammon (Argali)*, [223](#223), [224](#224)
+--- *poli (Argali)*, [191](#191)
 
-Pai-ling Miao (Temple of the Larks), 29, 30
----  larks from, 21; Land of Larks, 21
+Pai-ling Miao (Temple of the Larks), [29](#29), [30](#30)
+--- larks from, [21](#21); Land of Larks, [21](#21)
 
-Pal-dorje: Buddhist ascetic disguised as black magician, 56; slayer of Langdarma by means of a ruse, 56
+Pal-dorje: Buddhist ascetic disguised as black magician, [56](#56); slayer of Langdarma by means of a ruse, [56](#56)
 
-Panchen Bogdo, 288, 309; envoys of, 232
+Panchen Bogdo, [288](#288), [309](#309); envoys of, [232](#232)
 
---- erdeni Bogdo, 251
+--- erdeni Bogdo, [251](#251)
 
-Paris, knowledge of life of, known to Töin Lama, 253
+Paris, knowledge of life of, known to Töin Lama, [253](#253)
 
-Peking, 9, 14, 15, 90, 205; Has- lund's journey to, on behalf of Sven Hedin Expedition, 11; centre of philosophy and other learning, 13; centre of political complications and intrigues, 13; gramophone record purchased in, 14, 16, 104; arrival of Arab Jur at (1705), 119
+Peking, [9](#9), [14](#14), [15](#15), [90](#90), [205](#205); Haslund's journey to, on behalf of Sven Hedin Expedition, [11](#11); centre of philosophy and other learning, [13](#13); centre of political complications and intrigues, [13](#13); gramophone record purchased in, [14](#14), [16](#16), [104](#104); arrival of Arab Jur at (1705), [119](#119)
 
-Penal code for Mongolia compiled by Chinese Foreign Office (1789), punishment for camel stealing (quoted) (footnote), 91
+Penal code for Mongolia compiled by Chinese Foreign Office (1789), punishment for camel stealing (quoted) (footnote), [91](#91)
 
-Penance, method adopted by pilgrims to monastery, 27, 28
+Penance, method adopted by pilgrims to monastery, [27](#27), [28](#28)
 
-Peter the Great, Tsar, 169; compact with Ayuk Khan, 208
+Peter the Great, Tsar, [169](#169); compact with Ayuk Khan, [208](#208)
 
-Pheasants of the steppe, 227
+Pheasants of the steppe, [227](#227)
 
-Phonographic records taken of Mongolian songs, 236
+Phonographic records taken of Mongolian songs, [236](#236)
 
-Photography, Töin Lama's proficiency in, 242
+Photography, Töin Lama's proficiency in, [242](#242)
 
-Pilgrims: visit to Ta'-t'ung Fu, 6; to monastery of Bater Halak Sume, 25, 26, method of penance adopted by, 27, 28, sincerity of, 28
+Pilgrims: visit to Ta'-t'ung Fu, [6](#6); to monastery of Bater Halak Sume, [25](#25), [26](#26), method of penance adopted by, [27](#27), [28](#28), sincerity of, [28](#28)
 
-Ping Cheng, 4
+Ping Cheng, [4](#4)
 
-Pinnacled rocks of desert, superstition as to danger of disturbance of night's rest of, 83, 84
+Pinnacled rocks of desert, superstition as to danger of disturbance of night's rest of, [83](#83), [84](#84)
 
-Police lamas, 32, 48, 58, 66
+Police lamas, [32](#32), [48](#48), [58](#58), [66](#66)
 
-Polo, Marco, 183; on country of Tanguts, 106; Etsina described by, 109; on desert perils, 201
+Polo, Marco, [183](#183); on country of Tanguts, [106](#106); Etsina described by, [109](#109); on desert perils, [201](#201)
 
-Poltava, battle of, 168
+Poltava, battle of, [168](#168)
 
-Poplar trees, oasis of, 103
+Poplar trees, oasis of, [103](#103)
 
-Potala, castle of, 292
+Potala, castle of, [292](#292)
 
-Pozdneef, Prof., 154
+Pozdneef, Prof., [154](#154)
 
-Prayer-flag: with symbol of *hi- mori* and sacred texts, illustration of, 222; "air-horse" painted on, 223, 225; presented to Haslund by Yolros Lama, 225; benefits conferred by sacred formulæ of, 225; benefits of, pronouncement of aged Mongol regarding, 225, 226
+Prayer-flag: with symbol of *hi-mori* and sacred texts, illustration of, [222](#222); "air-horse" painted on, [223](#223), [225](#225); presented to Haslund by Yolros Lama, [225](#225); benefits conferred by sacred formulæ of, [225](#225); benefits of, pronouncement of aged Mongol regarding, [225](#225), [226](#226)
 
-Primordial spark, the, 248 *et seq.*
+Primordial spark, the, [248](#248) *et seq.*
 
 <a id="349">**349 INDEX**</a>
 
-Prschevalski, first European traveller to Charklik, 183; discoverer of wild horse, 190; receives report of dispersion or massacre of Torguts of Yuldus, 216
+Prschevalski, first European traveller to Charklik, [183](#183); discoverer of wild horse, [190](#190); receives report of dispersion or massacre of Torguts of Yuldus, [216](#216)
 
-Pseudo-human sacrifice *(linga),* 47
+Pseudo-human sacrifice *(linga)*, [47](#47)
 
-P'u Yi, Hsuan-Tung, ex-Em- peror of China, now Emperor of Manchukuo, 252
+P'u Yi, Hsuan-Tung, ex-Emperor of China, now Emperor of Manchukuo, [252](#252)
 
-Puntsuk, 128, 276; son of blind prince of Torguts, 137; Puntsuk, son of Shykyr Daichin, 207, 208; successor to Shykyr Daichin, 208; oath of allegiance sworn to Tsar by, 208
+Puntsuk, [128](#128), [276](#276); son of blind prince of Torguts, [137](#137); Puntsuk, son of Shykyr Daichin, [207](#207), [208](#208); successor to Shykyr Daichin, [208](#208); oath of allegiance sworn to Tsar by, [208](#208)
 
-Purup, 278; legend of origin of earring recounted by, 277
+Purup, [278](#278); legend of origin of earring recounted by, [277](#277)
 
-Rai Sarat Chandra Das, Indian Explorer, 256
+Rai Sarat Chandra Das, Indian Explorer, [256](#256)
 
-Rainbow, symbolized by the *hadak,* 39
+Rainbow, symbolized by the *hadak*, [39](#39)
 
-Reborn, the, mystery surrounding, 26
+Reborn, the, mystery surrounding, [26](#26)
 
-Red doctrine: and Tsardom, struggle between, 242; materialism of, 249  
---- --- of the Soviet, warned against, by lamas, 234
+Red doctrine: and Tsardom, struggle between, [242](#242); materialism of, [249](#249)
+--- --- of the Soviet, warned against, by lamas, [234](#234)
 
-"Red Hats", 284
+"Red Hats", [284](#284)
 
-Red Soviet: extermination or banishment of Mongol princes by, 13; territory, extensive, anywhere northward, 9
+Red Soviet: extermination or banishment of Mongol princes by, [13](#13); territory, extensive, anywhere northward, [9](#9)
 
-Regent: personal bodyguard of, 262, 263  
+Regent: personal bodyguard of, [262](#262), [263](#263)
 --- of the Torguts, *see* Torguts
 
-Religious tolerance enjoined by *Yassa,* 266
+Religious tolerance enjoined by *Yassa*, [266](#266)
 
-Renat, Johann Gustaf: family of, 168; imprisoned in So- bolsk, 168, 169, 170, 171; release of, and return to Stockholm, 172; re-marriage of, 173; Mongolian woman's dress brought home by, 174; names in map brought home by, from Dzungaria to Sweden (1724) (footnote), 263
+Renat, Johann Gustaf: family of, [168](#168); imprisoned in Sobolsk, [168](#168), [169](#169), [170](#170), [171](#171); release of, and return to Stockholm, [172](#172); re-marriage of, [173](#173); Mongolian woman's dress brought home by, [174](#174); names in map brought home by, from Dzungaria to Sweden (1724) (footnote), [263](#263)
 
 Renatus, Gustaf Michael, *see* Jacob, Moses
 
-Research, eagerness for, among members of the Sven Hedin Expedition, 20
+Research, eagerness for, among members of the Sven Hedin Expedition, [20](#20)
 
-Riga, 169
+Riga, [169](#169)
 
-Rock Goat's Pass (Tekhe'en Dawan), 290, 291, 292
+Rock Goat's Pass (Tekhe'en Dawan), [290](#290), [291](#291), [292](#292)
 
-Russia: migration of Khoshut Mongols from Dzungaria to, 200; steppes of, over-run by Torguts, 207  
---- Tsar of: oath of allegiance sworn to, by Puntsuk, 208; Tsaghan Khan identified with (footnote), 247
+Russia: migration of Khoshut Mongols from Dzungaria to, [200](#200); steppes of, over-run by Torguts, [207](#207)
+--- Tsar of: oath of allegiance sworn to, by Puntsuk, [208](#208); Tsaghan Khan identified with (footnote), [247](#247)
 
-Russian-bred officer in Torgut army, past history of, 242, 243
+Russian-bred officer in Torgut army, past history of, [242](#242), [243](#243)
 
-Russian Cossack fortresses, barricading way to Lhasa, 211  
---- manuscripts, knowledge of West Torguts obtained from, 203  
---- melodies, connection with Mongolian, 237
+Russian Cossack fortresses, barricading way to Lhasa, [211](#211)
+--- manuscripts, knowledge of West Torguts obtained from, [203](#203)
+--- melodies, connection with Mongolian, [237](#237)
 
-Russians (Shara-oros), 119; political cunning of, how exemplified (footnote), 247; Töin Lama's opinion of, 249, 250
+Russians (Shara-oros), [119](#119); political cunning of, how exemplified (footnote), [247](#247); Töin Lama's opinion of, [249](#249), [250](#250)
 
-Sacred tent, proposed conveyance of, 286-8  
---- texts inscribed on prayerflag, facsimile of, 222
+Sacred tent, proposed conveyance of, [286](#286)–[8](#8)
+--- texts inscribed on prayerflag, facsimile of, [222](#222)
 
-Sain Noyen Aimak, 120; *see also* Aimak  
---- shini-lu (Blessed New Year), 298
+Sain Noyen Aimak, [120](#120); *see also* Aimak
+--- shini-lu (Blessed New Year), [298](#298)
 
-Samara, 207
+Samara, [207](#207)
 
-Sand, successful method of washing out from eyes and nose,  
---- dunes of desert, great size of, 93
+Sand, successful method of washing out from eyes and nose,
+--- dunes of desert, great size of, [93](#93)
 
 <a id="350">**350 INDEX**</a>
 
-Sand-ticks of Lop desert, dangers of, to camels, 176
+Sand-ticks of Lop desert, dangers of, to camels, [176](#176)
 
-Sandstorm, threatened danger from, 77, 78
+Sandstorm, threatened danger from, [77](#77), [78](#78)
 
-Saratov, 307
+Saratov, [307](#307)
 
-Sart village: abandonment of, cause of, 176, 177; nomadic life of former inhabitants, 177; of Khoten Sumon, 260
+Sart village: abandonment of, cause of, [176](#176), [177](#177); nomadic life of former inhabitants, [177](#177); of Khoten Sumon, [260](#260)
 
-Sarts, the, 199; refreshments provided by, in Lop desert, 182; *kulan* hunters, 193; subject to Torgut Regent, 260
+Sarts, the, [199](#199); refreshments provided by, in Lop desert, [182](#182); *kulan* hunters, [193](#193); subject to Torgut Regent, [260](#260)
 
-Schertzenfeldt, Brigitta, career of, 169  
---- Herr Knut, 169
+Schertzenfeldt, Brigitta, career of, [169](#169)
+--- Herr Knut, [169](#169)
 
-Schnitscher, J. C., 307; former officer of Swedish dragoons, attached to Chinese Embassy, 209; account of mission to Torguts, 209; description of the Torguts (quoted), 209
+Schnitscher, J. C., [307](#307); former officer of Swedish dragoons, attached to Chinese Embassy, [209](#209); account of mission to Torguts, [209](#209); description of the Torguts (quoted), [209](#209)
 
-Sebistei, 161
+Sebistei, [161](#161)
 
-Selim Bay, 184
+Selim Bay, [184](#184)
 
-Seng Chen, lama, nobler qualities of, 256; arouses jealousy of Dalai Lama, 256; execution by drowning in river Kong-bu, 257  
---- --- "the Tiger god", 262; allies of, 263  
---- --- (Töin Lama), 270, 276, 277, 286, 287. 309, 310, 311, 321; pardon of Nimgher (horse stealer) by, 269; superstitious character of, 283; Öreget founded by, 285; at Mongolian New Year rejoicings, 298, 299; reception by, at New Year's feast, 299; reduces number of lamas at Shara Sume monastery, 302; paintings of ancestors of, 308; Has- lund's private interview with, 315, 316; Haslund's farewell to, 318; parting gifts of, to Haslund, 319; assassination of, 325, 326
+Seng Chen, lama, nobler qualities of, [256](#256); arouses jealousy of Dalai Lama, [256](#256); execution by drowning in river Kong-bu, [257](#257)
+--- --- "the Tiger god", [262](#262); allies of, [263](#263)
+--- --- (Töin Lama), [270](#270), [276](#276), [277](#277), [286](#286), [287](#287). [309](#309), [310](#310), [311](#311), [321](#321); pardon of Nimgher (horse stealer) by, [269](#269); superstitious character of, [283](#283); Öreget founded by, [285](#285); at Mongolian New Year rejoicings, [298](#298), [299](#299); reception by, at New Year's feast, [299](#299); reduces number of lamas at Shara Sume monastery, [302](#302); paintings of ancestors of, [308](#308); Haslund's private interview with, [315](#315), [316](#316); Haslund's farewell to, [318](#318); parting gifts of, to Haslund, [319](#319); assassination of, [325](#325), [326](#326)
 
-Seng Chen Doryechan: the Tiger divinity, 255; fifth incarnation of, 257
+Seng Chen Doryechan: the Tiger divinity, [255](#255); fifth incarnation of, [257](#257)
 
-Ser-sonche: residency of Etsina Torgut Wang, 125; surroundings of, 125; permanent closure of entrance to, 125, 126
+Ser-sonche: residency of Etsina Torgut Wang, [125](#125); surroundings of, [125](#125); permanent closure of entrance to, [125](#125), [126](#126)
 
-Seson, daughter of Tsewang Raptan, 171; execution of, 172
+Seson, daughter of Tsewang Raptan, [171](#171); execution of, [172](#172)
 
-Shageder, 290
+Shageder, [290](#290)
 
-Shaman, part of, acted by Haslund before the court, 198
+Shaman, part of, acted by Haslund before the court, [198](#198)
 
-Shamanism: spirits of, conversion to lamaism, 47; adherents of, 266
+Shamanism: spirits of, conversion to lamaism, [47](#47); adherents of, [266](#266)
 
-Shamans, treasure of Khara Bator not recovered by power of, 109
+Shamans, treasure of Khara Bator not recovered by power of, [109](#109)
 
-*Shanag,* magicians of the fellowship of the black hat, 56; attire of, 56
+*Shanag*, magicians of the fellowship of the black hat, [56](#56); attire of, [56](#56)
 
-Shansi, 3; acquisition by Chinese through a ruse, 5; retreat of Nomads from, 5  
---- Chinese, 1
+Shansi, [3](#3); acquisition by Chinese through a ruse, [5](#5); retreat of Nomads from, [5](#5)
+--- Chinese, [1](#1)
 
-Shara Holos, well of, 85
+Shara Holos, well of, [85](#85)
 
 Shara-oros (Russians), 1:9
 
-Shara Sume, 301, 308, 309; monastery of, 302, 326, reduction in number of lamas at, 302, sacred readings introducing monastic New Year, 303, woman inmate of, 304
+Shara Sume, [301](#301), [308](#308), [309](#309); monastery of, [302](#302), [326](#326), reduction in number of lamas at, [302](#302), sacred readings introducing monastic New Year, [303](#303), woman inmate of, [304](#304)
 
-*Shaslik,* 134
+*Shaslik*, [134](#134)
 
-Sheep given as compensation by Yetum to Haslund, 198, 199; presented to Altai Gegen (*hutuktu*)*,* 199---*hadak* affixed to horns of, 199
---- wild, qualities of, 191
+Sheep given as compensation by Yetum to Haslund, [198](#198), [199](#199); presented to Altai Gegen (*hutuktu*), [199](#199)---*hadak* affixed to horns of, [199](#199)
+--- wild, qualities of, [191](#191)
 
-Shene Torguts (the new Torguts), 263
+Shene Torguts (the new Torguts), [263](#263)
 
-Shindi, 175
+Shindi, [175](#175)
 
-*Shine Jil,* Mongolian New Year, 297
+*Shine Jil*, Mongolian New Year, [297](#297)
 
-Shiri, singing of, 274, 275
+Shiri, singing of, [274](#274), [275](#275)
 
 <a id="351">**351 INDEX**</a>
 
-Shiri, Noyen, Princess, 241 Shirup Geling, lama, 36, 38, 41, 57, 58, 68, 69
+Shiri, Noyen, Princess, [241](#241) Shirup Geling, lama, [36](#36), [38](#38), [41](#41), [57](#57), [58](#58), [68](#68), [69](#69)
 
-Shoulder-blades, hanging on trees inscribed with Tibetan texts, 122
+Shoulder-blades, hanging on trees inscribed with Tibetan texts, [122](#122)
 
-Shu Ho-te, Chinese Governor, protection of fugitive Torguts by, 214
+Shu Ho-te, Chinese Governor, protection of fugitive Torguts by, [214](#214)
 
-Shykyr Daichin, successor to Boro Örölok, 207, 208; sons of, origin of Torgut horde divisions, 306
+Shykyr Daichin, successor to Boro Örölok, [207](#207), [208](#208); sons of, origin of Torgut horde divisions, [306](#306)
 
-Siberia, collapse of White Russians in, 242  
---- Western, tribes of, made war upon by Boro Örölok, 207
+Siberia, collapse of White Russians in, [242](#242)
+--- Western, tribes of, made war upon by Boro Örölok, [207](#207)
 
-Silver ring in ear of male Mongol, unusual attire, 127
+Silver ring in ear of male Mongol, unusual attire, [127](#127)
 
-Sims, Michael, third husband of Brigitta, Schertzenfeld, 169, death of, 170
+Sims, Michael, third husband of Brigitta, Schertzenfeld, [169](#169), death of, [170](#170)
 
-Sinanfu (Sianfuj), 306
+Sinanfu (Sianfuj), [306](#306)
 
-Singer, 175
+Singer, [175](#175)
 
-Singing competitions among Mongols, 236
+Singing competitions among Mongols, [236](#236)
 
-Sinkiang, 145, 161, 276; Sven Hedin Expedition to, 9, 10; first Stone-Age urn found in, 201; four most celebrated products of, 229; latest news from, 326; *see also* Sven Hedin Expedition
+Sinkiang, [145](#145), [161](#161), [276](#276); Sven Hedin Expedition to, [9](#9), [10](#10); first Stone-Age urn found in, [201](#201); four most celebrated products of, [229](#229); latest news from, [326](#326); *see also* Sven Hedin Expedition
 
-Smigonov, grief of, at loss of Makejef, 185; homage of, to dead friend, 185
---- and Makejef, history of, 184, 185
+Smigonov, grief of, at loss of Makejef, [185](#185); homage of, to dead friend, [185](#185)
+--- and Makejef, history of, [184](#184), [185](#185)
 
-*Soborok,* building tor preservation of relics of deceased *hutuktu,* 31
+*Soborok*, building tor preservation of relics of deceased *hutuktu*, [31](#31)
 
-Socage, Mongolian lamas exempt from (footnote), 118
+Socage, Mongolian lamas exempt from (footnote), [118](#118)
 
-Socagers, Mongolian (footnote), 118
+Socagers, Mongolian (footnote), [118](#118)
 
-*Socho* (water-cattle), 137, 138
+*Socho* (water-cattle), [137](#137), [138](#138)
 
-Socho-nor. 139, 140, 142; salt lake, discharge of river Etsin- gol into, 116; alkaline lake in Gobi desert, 135; legendary site of great city, 137, 138; legends relating to, 137, 138; description of, 139; deep muddy bed of, 140; soundings to ascertain depth of, 140; gale while sailing on, 140; northern shore of, night adventure on, 141
+Socho-nor. [139](#139), [140](#140), [142](#142); salt lake, discharge of river Etsin-gol into, [116](#116); alkaline lake in Gobi desert, [135](#135); legendary site of great city, [137](#137), [138](#138); legends relating to, [137](#137), [138](#138); description of, [139](#139); deep muddy bed of, [140](#140); soundings to ascertain depth of, [140](#140); gale while sailing on, [140](#140); northern shore of, night adventure on, [141](#141)
 
-Sons of Heaven, incarnate, 13 *Sor,* mystical cult objects, 47 Soul, liberation of, idea of Torguts regarding, 291
+Sons of Heaven, incarnate, [13](#13) *Sor*, mystical cult objects, [47](#47) Soul, liberation of, idea of Torguts regarding, [291](#291)
 
-Soviet, the: compulsion cession of Torgut families territory to, 233; red doctrine of, warned against, by lamas, 234  
---- Mongolia, 120
+Soviet, the: compulsion cession of Torgut families territory to, [233](#233); red doctrine of, warned against, by lamas, [234](#234)
+--- Mongolia, [120](#120)
 
-Spring season of steppe, 20  
---- disastrous season for cattle of steppes, 144
+Spring season of steppe, [20](#20)
+--- disastrous season for cattle of steppes, [144](#144)
 
-Srong-tsang Gampo: one of the four great *Khans,* 246; protector of Lamaism, 246; originator of lamaistic form of Buddhism in Central Asia (footnote), 247; ruler of Tibet (footnote), 247
+Srong-tsang Gampo: one of the four great *Khans*, [246](#246); protector of Lamaism, [246](#246); originator of lamaistic form of Buddhism in Central Asia (footnote), [247](#247); ruler of Tibet (footnote), [247](#247)
 
-Stallions, purchase from White Russians by Töin Lama, 241
+Stallions, purchase from White Russians by Töin Lama, [241](#241)
 
-Steppe: animal life of, during spring season, 20; modern spirit threatening, 248  
---- grouse, 117
+Steppe: animal life of, during spring season, [20](#20); modern spirit threatening, [248](#248)
+--- grouse, [117](#117)
 
-Steppe-pheasants, 227
+Steppe-pheasants, [227](#227)
 
-"Steppes of the dead, rulers of", 43. 46, 47
+"Steppes of the dead, rulers of", [43](#43). [46](#46), [47](#47)
 
-Stockholm, 320
+Stockholm, [320](#320)
 
-Stone-Age urn, first found in Sinkiang, acquired at Cher- chen, 201
+Stone-Age urn, first found in Sinkiang, acquired at Cherchen, [201](#201)
 
-"Stone Pass", perils of, 185; adventurous climb over, 188, 189
+"Stone Pass", perils of, [185](#185); adventurous climb over, [188](#188), [189](#189)
 
-Suidor, 117, 315; disappearance from camp, 73, 75, 76; search for, 75, 76, 78, 79, 80; antecedents of, 76; trail of,
+Suidor, [117](#117), [315](#315); disappearance from camp, [73](#73), [75](#75), [76](#76); search for, [75](#75), [76](#76), [78](#78), [79](#79), [80](#80); antecedents of, [76](#76); trail of,
 
 <a id="352">**352 INDEX**</a>
 
-Suidor, *(continued)*  
-76, 77; discovery of, 80, 81; adopted as Haslund's attendant and follower, 82
+Suidor, *(continued)*
+[76](#76), [77](#77); discovery of, [80](#80), [81](#81); adopted as Haslund's attendant and follower, [82](#82)
 
-*Sumon* (arrows), 121; each *hoshun* divided into, 262
+*Sumon* (arrows), [121](#121); each *hoshun* divided into, [262](#262)
 
-Sunit, Prince of, 34
+Sunit, Prince of, [34](#34)
 
-Supernatural qualities, lamas with, 52
+Supernatural qualities, lamas with, [52](#52)
 
-Surructu Erdeni Batur Contaigi, meaning of, 170
+Surructu Erdeni Batur Contaigi, meaning of, [170](#170)
 
 Surgeon, *see* Tatar surgeon
 
-Sven Hedin Expedition to Sinkiang, 91; Haslund becomes a member of, 9, 10; staff of, 10; westward course of, 11; collection and purchase of camels for, 17, 18; collection of film-pictures for, 17, 18; temporary encampment at Hsi-Pao t'ou, 18; archæo- logist of, 19; geologist of, 19; meteorological work of, 19; topographical work of, 19; aims of opposed by Governor Chin Shujen, 202; Töin Lama's suspicions regarding, disarmed, 244; aid rendered to, by Töin Lama, 244; letter to Seng Chen, 287, 288
+Sven Hedin Expedition to Sinkiang, [91](#91); Haslund becomes a member of, [9](#9), [10](#10); staff of, [10](#10); westward course of, [11](#11); collection and purchase of camels for, [17](#17), [18](#18); collection of film-pictures for, [17](#17), [18](#18); temporary encampment at Hsi-Pao t'ou, [18](#18); archæologist of, [19](#19); geologist of, [19](#19); meteorological work of, [19](#19); topographical work of, [19](#19); aims of opposed by Governor Chin Shujen, [202](#202); Töin Lama's suspicions regarding, disarmed, [244](#244); aid rendered to, by Töin Lama, [244](#244); letter to Seng Chen, [287](#287), [288](#288)
 
-Swans, 117; flock of, in flight, 118
+Swans, [117](#117); flock of, in flight, [118](#118)
 
-Sweden: royalties of, interest regarding, aroused in Töin Lama, 246, 247; names in map brought home by Renat from Dzungaria to (1724) (footnote), 263  
---- King of, 172
+Sweden: royalties of, interest regarding, aroused in Töin Lama, [246](#246), [247](#247); names in map brought home by Renat from Dzungaria to (1724) (footnote), [263](#263)
+--- King of, [172](#172)
 
-Swedish flag, 18; tribunal in judgment of Oborgon under, 97
+Swedish flag, [18](#18); tribunal in judgment of Oborgon under, [97](#97)
 
-Swedish Medals of Merit conferred on Mongols who pursued and captured Oborgon (footnote), 100
+Swedish Medals of Merit conferred on Mongols who pursued and captured Oborgon (footnote), [100](#100)
 
-Sweduin Khan, 247
+Sweduin Khan, [247](#247)
 
-Sword-belts dug up from desert, 110
+Sword-belts dug up from desert, [110](#110)
 
-Syphilis: modern Kalmucks victims of, 215; campaign against, among Torguts, 242
+Syphilis: modern Kalmucks victims of, [215](#215); campaign against, among Torguts, [242](#242)
 
-*Taburn,* meaning "five", 200 Tai-Yuan Fu, capital of Shansi, 3
+*Taburn*, meaning "five", [200](#200) Tai-Yuan Fu, capital of Shansi, [3](#3)
 
-*Taiji,* noble of the first rank, 262 Taj Mahal of Mogul Shah Jahan, by whom erected, 237
+*Taiji*, noble of the first rank, [262](#262) Taj Mahal of Mogul Shah Jahan, by whom erected, [237](#237)
 
-Ta K'i-tan Dynasty, 264
+Ta K'i-tan Dynasty, [264](#264)
 
-Tamarisk, fuel of the desert, 85; name given to, by desert dwellers *(Modo'en Khan),* 85
+Tamarisk, fuel of the desert, [85](#85); name given to, by desert dwellers *(Modo'en Khan)*, [85](#85)
 
-Tamarisks, dead or dying at Khara Jag Hutuk, 74
+Tamarisks, dead or dying at Khara Jag Hutuk, [74](#74)
 
-Tangert Gegen, *hutuktu:* lover of wild animals, 123; not a Mongol by birth, 123; dwelling and sanctuary of, 122, 123; visit to, 122, 123; reputation as spiritual adviser, 123
+Tangert Gegen, *hutuktu:* lover of wild animals, [123](#123); not a Mongol by birth, [123](#123); dwelling and sanctuary of, [122](#122), [123](#123); visit to, [122](#122), [123](#123); reputation as spiritual adviser, [123](#123)
 
-Tangut chief, Khara Bater Janjyn, 117  
---- population, original, absorbed by Etsina Torguts, 121
+Tangut chief, Khara Bater Janjyn, [117](#117)
+--- population, original, absorbed by Etsina Torguts, [121](#121)
 
-Tanguts, country of, 106; formerly fertile now desert, 106 *Tantra* system, 154
+Tanguts, country of, [106](#106); formerly fertile now desert, [106](#106) *Tantra* system, [154](#154)
 
-*Tao-t'ai,* district governor (footnote), 270  
---- Chinese, 270
+*Tao-t'ai*, district governor (footnote), [270](#270)
+--- Chinese, [270](#270)
 
-Tarbagatai, 214
+Tarbagatai, [214](#214)
 
-*Tarbagan* (Marmot), 20
+*Tarbagan* (Marmot), [20](#20)
 
-Tarim river, dried up, in Lop desert, 176, 183
+Tarim river, dried up, in Lop desert, [176](#176), [183](#183)
 
-Tash-Dawan, *see* "Stone Pass " Tashi-Lhumpo, 255, 258, 310 Tatar surgeon, fugitive from
+Tash-Dawan, *see* "Stone Pass " Tashi-Lhumpo, [255](#255), [258](#258), [310](#310) Tatar surgeon, fugitive from
 
-Russia, 241; good work of, 242  
---- tribes subdued by Torguts, 207
+Russia, [241](#241); good work of, [242](#242)
+--- tribes subdued by Torguts, [207](#207)
 
-Ta-t'ung Fu, 1, 2, 9, 60; visits of pilgrims to, 6
+Ta-t'ung Fu, [1](#1), [2](#2), [9](#9), [60](#60); visits of pilgrims to, [6](#6)
 
-Tekes, river, 263
+Tekes, river, [263](#263)
 
-*Tekhe* (wild goats---*Capra siberica),* 191
+*Tekhe* (wild goats---*Capra siberica)*, [191](#191)
 
 <a id="353">**353 INDEX**</a>
 
-Tekhe'en Dawan, pass of (Rockgoat's Pass), 290, 291, 292
+Tekhe'en Dawan, pass of (Rockgoat's Pass), [290](#290), [291](#291), [292](#292)
 
-*Temir* or *tumur* (iron), 199
+*Temir* or *tumur* (iron), [199](#199)
 
-Temirlik, 192, 201, 202; origin of place-name, 199  
---- on mountain lake of Gas- nor, 190
+Temirlik, [192](#192), [201](#201), [202](#202); origin of place-name, [199](#199)
+--- on mountain lake of Gas-nor, [190](#190)
 
-Temple, adjunct to main body of, described, 52  
---- buildings (*duguns*), 31  
---- tent: work on, 310; consecrated, presentation of, to Haslund, 316; presented by H.M. King of Sweden to the Ethnographical Museum, Stockholm (footnote), 324
+Temple, adjunct to main body of, described, [52](#52)
+--- buildings (*duguns*), [31](#31)
+--- tent: work on, [310](#310); consecrated, presentation of, to Haslund, [316](#316); presented by H.M. King of Sweden to the Ethnographical Museum, Stockholm (footnote), [324](#324)
 
-Temursana, father of Dambin Jansang, 154
+Temursana, father of Dambin Jansang, [154](#154)
 
 Ten-pei-Jalsang, *see* Dambin Jansang
 
-Tent of the Torguts, the Khan's, decoration of, 297, 298
+Tent of the Torguts, the Khan's, decoration of, [297](#297), [298](#298)
 
-Teyiner *notog*: of Khoshut Mongols, 200; "banner" chief of, 200; prince of, 200
+Teyiner *notog*: of Khoshut Mongols, [200](#200); "banner" chief of, [200](#200); prince of, [200](#200)
 
-Teyiner-nor, 199
+Teyiner-nor, [199](#199)
 
-Theft, fines imposed for certain kinds of, in Tsächin Bichik, 267
+Theft, fines imposed for certain kinds of, in Tsächin Bichik, [267](#267)
 
-Thirst, accentuated by drinking alkaline water, 75
+Thirst, accentuated by drinking alkaline water, [75](#75)
 
-Tibet, 119, 123; tyrannous ruler over (Langdarma), 56; hierarchical dominion still prevailing in, 200; map of route in, executed by Bergman, 200; archaeological discoveries in, 201; renowned ruler of (Srong-tsang- Gampo) (footnote), 247; "Yellow doctrine" originating in, 284  
---- North-Eastern descendants of Koshut Mongols among Däde Mongols, 216
+Tibet, [119](#119), [123](#123); tyrannous ruler over (Langdarma), [56](#56); hierarchical dominion still prevailing in, [200](#200); map of route in, executed by Bergman, [200](#200); archaeological discoveries in, [201](#201); renowned ruler of (Srong-tsang-Gampo) (footnote), [247](#247); "Yellow doctrine" originating in, [284](#284)
+--- North-Eastern descendants of Koshut Mongols among Däde Mongols, [216](#216)
 
-Tibetan lamas: treasure of Khara Bator not recovered by power of, 109; voyage to and from India, 232
+Tibetan lamas: treasure of Khara Bator not recovered by power of, [109](#109); voyage to and from India, [232](#232)
 
-Tibetan style: adjunct to main temple built in, 52; houses of Öreget in, 229  
---- texts, shoulder-blades hanging on trees inscribed with, 122
+Tibetan style: adjunct to main temple built in, [52](#52); houses of Öreget in, [229](#229)
+--- texts, shoulder-blades hanging on trees inscribed with, [122](#122)
 
-Tibetans: visits to Ta-t'ung Fu, 6
+Tibetans: visits to Ta-t'ung Fu, [6](#6)
 
-Tien Shan, dominion over, assumed by Chao Hui, Chinese General, 207  
---- Mountains, 201, 204, 279; Yellow Monastery of Torguts in, 203; foothills of, 217, 218, 289
+Tien Shan, dominion over, assumed by Chao Hui, Chinese General, [207](#207)
+--- Mountains, [201](#201), [204](#204), [279](#279); Yellow Monastery of Torguts in, [203](#203); foothills of, [217](#217), [218](#218), [289](#289)
 
-Tientsin: centre of business activities, 13; time required to reach, from Peking, 13; preparations for Sven Hedin Expedition carried out at, 14; Japanese concession of, 251; Haslund's eventful visit to, 251, 252
+Tientsin: centre of business activities, [13](#13); time required to reach, from Peking, [13](#13); preparations for Sven Hedin Expedition carried out at, [14](#14); Japanese concession of, [251](#251); Haslund's eventful visit to, [251](#251), [252](#252)
 
-Tiger divinity (Seng Chen Doryechan), 255
---- year (1770), 212
+Tiger divinity (Seng Chen Doryechan), [255](#255)
+--- year (1770), [212](#212)
 
-Tiger, The, "Seng-Chen" signifying, 313
+Tiger, The, "Seng-Chen" signifying, [313](#313)
 
-Tobn Tserend-yombil: infant prince named (1884), 255; horoscope cast for, 255; meaning of, 255
+Tobn Tserend-yombil: infant prince named (1884), [255](#255); horoscope cast for, [255](#255); meaning of, [255](#255)
 
-Tobolsk, 169; Swedish warprisoner colony at, 169
+Tobolsk, [169](#169); Swedish warprisoner colony at, [169](#169)
 
-Togon, Öret Khan, 204
+Togon, Öret Khan, [204](#204)
 
-Töin Geling, 289, 290; renunciation of, 220  
---- Lama, 220; winter residence of, 228, 231; *chanse* of. 232; male and female singers summoned to the residency by, 235; strong man of the Lamas, 240 *et seq.;* as *hutuktu* debarred from marriage, 240; real name problematic, 240; improvement in breeds of horses and cattle under, 241; increase of Tor- gut population under, 241;
+Töin Geling, [289](#289), [290](#290); renunciation of, [220](#220)
+--- Lama, [220](#220); winter residence of, [228](#228), [231](#231); *chanse* of. [232](#232); male and female singers summoned to the residency by, [235](#235); strong man of the Lamas, [240](#240) *et seq.;* as *hutuktu* debarred from marriage, [240](#240); real name problematic, [240](#240); improvement in breeds of horses and cattle under, [241](#241); increase of Torgut population under, [241](#241);
 
 <a id="354">**354 INDEX**</a>
 
-Töin Lama *(continued)---*  
-progress of the Torguts under, 241; amateur photographer, 242; knowledge of horses and horse-breeding possessed by, 242; refusal to assist Chinese in crushing Tungan revolt, 243; aid rendered by, to Sven Hedin Expedition. 244; appointed Chinese Marshal, 244; attempt by Chinese to deprive him of power frustrated, 244; suspicions regarding Sven Hedin Expedition disarmed, 244; Haslund's intimacy with, how obtained, 245; interest aroused in, regarding royalties of Sweden, 246, 247; defence of the independence movement of the nomads, 248 *et seq.*; reason for search after Western knowledge, 248, 249; opinion of the Russians and the Chinese, 249, 250; mission of, as stated by himself, 250; prophecies of, 250; knowledge of parts of the world unknown to him, how derived, 253; expresses admiration of behaviour of Anglo-Indian Force at Lhasa, 254; fleshly descent of, 254; origin of name, 257; narrative of, concluded. 258; deformed knee of, 259; *see also* Seng Chen
+Töin Lama *(continued)---*
+progress of the Torguts under, [241](#241); amateur photographer, [242](#242); knowledge of horses and horse-breeding possessed by, [242](#242); refusal to assist Chinese in crushing Tungan revolt, [243](#243); aid rendered by, to Sven Hedin Expedition. [244](#244); appointed Chinese Marshal, [244](#244); attempt by Chinese to deprive him of power frustrated, [244](#244); suspicions regarding Sven Hedin Expedition disarmed, [244](#244); Haslund's intimacy with, how obtained, [245](#245); interest aroused in, regarding royalties of Sweden, [246](#246), [247](#247); defence of the independence movement of the nomads, [248](#248) *et seq.*; reason for search after Western knowledge, [248](#248), [249](#249); opinion of the Russians and the Chinese, [249](#249), [250](#250); mission of, as stated by himself, [250](#250); prophecies of, [250](#250); knowledge of parts of the world unknown to him, how derived, [253](#253); expresses admiration of behaviour of Anglo-Indian Force at Lhasa, [254](#254); fleshly descent of, [254](#254); origin of name, [257](#257); narrative of, concluded. [258](#258); deformed knee of, [259](#259); *see also* Seng Chen
 
-Toksun, 201, 270
+Toksun, [201](#201), [270](#270)
 
-Tomsk, 307
+Tomsk, [307](#307)
 
-Topographical work of Sven Hedin Expedition, 19
+Topographical work of Sven Hedin Expedition, [19](#19)
 
-Torgut, origin of word. 306, 307  
---- army, officers of, 242  
---- book of law (*Bichik*), 208  
---- cavalry, Russians' defence against Ottoman aggression, 208; victorious in campaign against Turks (1768-9), 212, and camel transport refused to Chinese in crushing Tungan revolt, 243
+Torgut, origin of word. [306](#306), [307](#307)
+--- army, officers of, [242](#242)
+--- book of law (*Bichik*), [208](#208)
+--- cavalry, Russians' defence against Ottoman aggression, [208](#208); victorious in campaign against Turks (1768–9), [212](#212), and camel transport refused to Chinese in crushing Tungan revolt, [243](#243)
 
-Torgut Cossacks, 231
---- country, entrance to, 290  
---- court, administration of justice in, 265  
---- criminals, restriction of death sentence on, 264  
---- families, compulsory cession of territory to the Soviet, 233  
---- force under Regent's command, strength of, 262  
---- hunters, 118  
---- Khan, first news of, 7, 8  
---- Khan dynasty, remote ancestor of, 306  
---- Khanate, 220, 288; signet of, 308, 309  
---- nation, Haslund becomes first Consul of, 295  
---- population increase under Töin Lama, 241  
---- princess, Töin Lama's knowledge of Paris derived from, 253  
---- race found to be a vigorous people, 232  
---- *Rarelro,* data regarding West Mongols obtained from, 203; ancient book relating to origin of the Torguts, 305; description of, 305  
---- settlements, names of rivers by which located, 263
+Torgut Cossacks, [231](#231)
+--- country, entrance to, [290](#290)
+--- court, administration of justice in, [265](#265)
+--- criminals, restriction of death sentence on, [264](#264)
+--- families, compulsory cession of territory to the Soviet, [233](#233)
+--- force under Regent's command, strength of, [262](#262)
+--- hunters, [118](#118)
+--- Khan, first news of, [7](#7), [8](#8)
+--- Khan dynasty, remote ancestor of, [306](#306)
+--- Khanate, [220](#220), [288](#288); signet of, [308](#308), [309](#309)
+--- nation, Haslund becomes first Consul of, [295](#295)
+--- population increase under Töin Lama, [241](#241)
+--- princess, Töin Lama's knowledge of Paris derived from, [253](#253)
+--- race found to be a vigorous people, [232](#232)
+--- *Rarelro*, data regarding West Mongols obtained from, [203](#203); ancient book relating to origin of the Torguts, [305](#305); description of, [305](#305)
+--- settlements, names of rivers by which located, [263](#263)
 
-Torgut song ("Eren Habirgran Ole'n"), 271  
---- soldiers, wearing Cossack uniforms, 228  
---- territory, position of, 279  
---- tribe in Durbet Öret alliance, 204  
---- tribes: aggregate number of, 262; organization of, 262
+Torgut song ("Eren Habirgran Ole'n"), [271](#271)
+--- soldiers, wearing Cossack uniforms, [228](#228)
+--- territory, position of, [279](#279)
+--- tribe in Durbet Öret alliance, [204](#204)
+--- tribes: aggregate number of, [262](#262); organization of, [262](#262)
 
-Torguts, 199, 201, 202, 270. 321, 322; reputed home of, 7; Khan of all the, 118; blind prince of, 137; great autumn slaughtering of, 143; con-
+Torguts, [199](#199), [201](#201), [202](#202), [270](#270). [321](#321), [322](#322); reputed home of, [7](#7); Khan of all the, [118](#118); blind prince of, [137](#137); great autumn slaughtering of, [143](#143); con-
 
 <a id="355">**355 INDEX**</a>
 
-Torguts *(continued)---*  
-nection with the West Mongols, 203; of Khara Shar Khanate, well informed in history of their race, 263; Yellow Monastery of, in Tien Shan Mountains, 203; conquest of Tatar tribes by, 207; migration from Dzungaria (1618), 205, 207, 208; migration of, principal cause, 205; continued incursions into Russian territory, 208; alliance with Russians against Mohammedans, 208; period of greatness in Europe, 208; take the field against Charles XII of Sweden, 208; ruler of, receives embassy from Emperor of China, 209; Schnitscher's description of (quoted), 209; secret inducement from Chinese Emperor to return to Dzungaria rejected by Aynn Khan, 209; in Russia joined by Öret chiefs, 210; spied upon by bands of Cossacks, 211; hereditary foes of, 212, 213; exodus from Russia, 213; disastrous flight through Asia, 213, 214; migrating, enormous reduction by slaughter and disease, 213, 214; fugitive: districts assigned to, in Dzungaria, 214, 216,---settled in Dzungaria subsequent history of descendants uncertain, 216; separating from main group on pilgrimage to Lhasa, descendants of, 216; nomad community of, 227; *yamen* of the, 230; Regent of, 230, Haslund's first interview with, 233; anti-Russian opinion among, 234; anthropometric measurements of, 235; strong man of the (Töin Lama), 240 *et seq.*; progress of, under Töin Lama, 241; export of amblers by, 241; campaign against syphilis among, 242; horse-racing among, 242; name of, for Mohammedan Sarts (footnote), 260; *yamen* of, 263; of Khara Shar, 281; religious ceremonial of, 283; tent temples of, 285; idea regarding liberation of the soul, 291; home of religion of, 293; settlement by river Volga, 293; Khan's tent of, 297, 298; tradition of feasting during first fifteen days of the year, 299; origin of, 302 *et seq.*; by Volga, invitation to return to Dzungaria, 307; farewell song to Haslund, 319; final disorganization of, 326; withdrawal to the mountains, 326
+Torguts *(continued)---*
+nection with the West Mongols, [203](#203); of Khara Shar Khanate, well informed in history of their race, [263](#263); Yellow Monastery of, in Tien Shan Mountains, [203](#203); conquest of Tatar tribes by, [207](#207); migration from Dzungaria (1618), [205](#205), [207](#207), [208](#208); migration of, principal cause, [205](#205); continued incursions into Russian territory, [208](#208); alliance with Russians against Mohammedans, [208](#208); period of greatness in Europe, [208](#208); take the field against Charles XII of Sweden, [208](#208); ruler of, receives embassy from Emperor of China, [209](#209); Schnitscher's description of (quoted), [209](#209); secret inducement from Chinese Emperor to return to Dzungaria rejected by Aynn Khan, [209](#209); in Russia joined by Öret chiefs, [210](#210); spied upon by bands of Cossacks, [211](#211); hereditary foes of, [212](#212), [213](#213); exodus from Russia, [213](#213); disastrous flight through Asia, [213](#213), [214](#214); migrating, enormous reduction by slaughter and disease, [213](#213), [214](#214); fugitive: districts assigned to, in Dzungaria, [214](#214), [216](#216),---settled in Dzungaria subsequent history of descendants uncertain, [216](#216); separating from main group on pilgrimage to Lhasa, descendants of, [216](#216); nomad community of, [227](#227); *yamen* of the, [230](#230); Regent of, [230](#230), Haslund's first interview with, [233](#233); anti-Russian opinion among, [234](#234); anthropometric measurements of, [235](#235); strong man of the (Töin Lama), [240](#240) *et seq.*; progress of, under Töin Lama, [241](#241); export of amblers by, [241](#241); campaign against syphilis among, [242](#242); horse-racing among, [242](#242); name of, for Mohammedan Sarts (footnote), [260](#260); *yamen* of, [263](#263); of Khara Shar, [281](#281); religious ceremonial of, [283](#283); tent temples of, [285](#285); idea regarding liberation of the soul, [291](#291); home of religion of, [293](#293); settlement by river Volga, [293](#293); Khan's tent of, [297](#297), [298](#298); tradition of feasting during first fifteen days of the year, [299](#299); origin of, [302](#302) *et seq.*; by Volga, invitation to return to Dzungaria, [307](#307); farewell song to Haslund, [319](#319); final disorganization of, [326](#326); withdrawal to the mountains, [326](#326)
 
-Torguts and Kirghiz, enmity between. 279  
---- *see also* Elsina Torguts Tranander, Fru Brigitta, 169 Tree-Monkey, Year of (1884), 231, 255
+Torguts and Kirghiz, enmity between. [279](#279)
+--- *see also* Elsina Torguts Tranander, Fru Brigitta, [169](#169) Tree-Monkey, Year of (1884), [231](#231), [255](#255)
 
-*Tsachin Bichik* (1640): penalty for camel stealing (footnote), 91; collection of laws of Öret Mongols, 265; class-partiality of, 265; humane spirit inculcated by, 265; law regarding adultery, 266 and *Yassa,* judicial codes of, compared, 265, 266, 267
+*Tsachin Bichik* (1640): penalty for camel stealing (footnote), [91](#91); collection of laws of Öret Mongols, [265](#265); class-partiality of, [265](#265); humane spirit inculcated by, [265](#265); law regarding adultery, [266](#266) and *Yassa*, judicial codes of, compared, [265](#265), [266](#266), [267](#267)
 
-Tsagan Oborgon, "the white old man", earth-spirit, 44; functions of, 44  
---- *yasse* (white bones), Mongol nobles (footnote), 118, 220, 221  
---- Khan, identified with ruler of the Russians, 246  
---- dara äkhä, Chinese Buddhist princess (footnote), 247
+Tsagan Oborgon, "the white old man", earth-spirit, [44](#44); functions of, [44](#44)
+--- *yasse* (white bones), Mongol nobles (footnote), [118](#118), [220](#220), [221](#221)
+--- Khan, identified with ruler of the Russians, [246](#246)
+--- dara äkhä, Chinese Buddhist princess (footnote), [247](#247)
 
 <a id="356">**356 INDEX**</a>
 
-Tsagechin Beile, Prince of, fugitive from Soviets, 156, 164; captured by Dambin Jansang, 165; characteristics of, 165; life-history of, 165, 166; direct ancestor of, adventurous career of, 167; gift of, to Haslund, 168  
---- --- Tribe, 156, 174; dress of married women of, 166, 167
+Tsagechin Beile, Prince of, fugitive from Soviets, [156](#156), [164](#164); captured by Dambin Jansang, [165](#165); characteristics of, [165](#165); life-history of, [165](#165), [166](#166); direct ancestor of, adventurous career of, [167](#167); gift of, to Haslund, [168](#168)
+--- --- Tribe, [156](#156), [174](#174); dress of married women of, [166](#166), [167](#167)
 
-Tsaghan dara äkhä, Goddess of Compassion, 304
+Tsaghan dara äkhä, Goddess of Compassion, [304](#304)
 
 Tsaghuradu," Land of Confused
 
-Ideas", 46
+Ideas", [46](#46)
 
-*Tsam* dance, 43; part of lamaism, 46; not connected with original Buddhism, 46; exorcising ceremony of, 47, 48; a magic ritual, 50
---- dancers, description of, 44, 45; masks of, 45; performances of, 45
+*Tsam* dance, [43](#43); part of lamaism, [46](#46); not connected with original Buddhism, [46](#46); exorcising ceremony of, [47](#47), [48](#48); a magic ritual, [50](#50)
+--- dancers, description of, [44](#44), [45](#45); masks of, [45](#45); performances of, [45](#45)
 
-Tsamba, 65; servant and assistant of Maidari, 42
+Tsamba, [65](#65); servant and assistant of Maidari, [42](#42)
 
-Tsang, last king of, driven out by Khoshut Mongols, 200
+Tsang, last king of, driven out by Khoshut Mongols, [200](#200)
 
-Tsardom and "Red doctrine", struggle between, 242
+Tsardom and "Red doctrine", struggle between, [242](#242)
 
-Tsereat, 33, 34, 69, 71, 91, 92, 96, 117, 118, 122, 133; meaning of name, 92; pursuit of Oborgon by, 97, 98; rewarded for pursuit and capture of Oborgon, 100; popularity of, 120, 121; character of, 121; canoe constructed by, 133; return of, to Chahar, 175
+Tsereat, [33](#33), [34](#34), [69](#69), [71](#71), [91](#91), [92](#92), [96](#96), [117](#117), [118](#118), [122](#122), [133](#133); meaning of name, [92](#92); pursuit of Oborgon by, [97](#97), [98](#98); rewarded for pursuit and capture of Oborgon, [100](#100); popularity of, [120](#120), [121](#121); character of, [121](#121); canoe constructed by, [133](#133); return of, to Chahar, [175](#175)
 
-Tseren Donduk, successor of Ayuk displaced by, 210
+Tseren Donduk, successor of Ayuk displaced by, [210](#210)
 
-Tsewang Raptan: mighty warrior chief of Dzungars, 170, 171; usurper of power of Galdan, 206; renewal by of war against Manchus and Khalka Mongols, 206; poisoned (1727), 172, 206; ruler of Dzungaria, married to daughter of Ayuk Khan, 209
+Tsewang Raptan: mighty warrior chief of Dzungars, [170](#170), [171](#171); usurper of power of Galdan, [206](#206); renewal by of war against Manchus and Khalka Mongols, [206](#206); poisoned (1727), [172](#172), [206](#206); ruler of Dzungaria, married to daughter of Ayuk Khan, [209](#209)
 
-Tsoltus Mountains, 285
---- river, 263, 321, 326; gathering place of Khara Shar Torguts, 281
+Tsoltus Mountains, [285](#285)
+--- river, [263](#263), [321](#321), [326](#326); gathering place of Khara Shar Torguts, [281](#281)
 
-Tsong Kapa, founder of "Yellow Hats", 283
+Tsong Kapa, founder of "Yellow Hats", [283](#283)
 
-Tümengkhen, 284
+Tümengkhen, [284](#284)
 
-*Tumur* or *temir* (iron), 199
+*Tumur* or *temir* (iron), [199](#199)
 
-Turfan, 201, 229
+Turfan, [201](#201), [229](#229)
 
---- depression, 217
+--- depression, [217](#217)
 
-Turkestan, 169
+Turkestan, [169](#169)
 
-Turkish origin, "Kalmuck" a word of, 214
+Turkish origin, "Kalmuck" a word of, [214](#214)
 
-Turks, campaign against (1768-9), Torgut cavalry victorious in, 212
+Turks, campaign against (1768–9), Torgut cavalry victorious in, [212](#212)
 
-Turu-baihu: chieftain of Khoshut Mongols, 200; homage paid to, as "defender of the yellow doctrine", 200
+Turu-baihu: chieftain of Khoshut Mongols, [200](#200); homage paid to, as "defender of the yellow doctrine", [200](#200)
 
 Tushe-Gun-Lama, *see* Dambin Jansang
 
-Tusheto Khan, 284  
---- Khanate in Khalka Mongolia, 283
+Tusheto Khan, [284](#284)
+--- Khanate in Khalka Mongolia, [283](#283)
 
-*Tushmit,* Mongol official, 126
+*Tushmit*, Mongol official, [126](#126)
 
-*Tuslakchi,* the, 296; meaning of (footnote), 230; of the Torguts, reception by, 230, 231; administration of a *hoshun,* 262
+*Tuslakchi*, the, [296](#296); meaning of (footnote), [230](#230); of the Torguts, reception by, [230](#230), [231](#231); administration of a *hoshun*, [262](#262)
 
-Tu-yen Meng-ku, pilgrimage of, to Buriat Monastery, 308
+Tu-yen Meng-ku, pilgrimage of, to Buriat Monastery, [308](#308)
 
-Ubashi or Ubasha: ascends throne of Torguts, 210; receives silver seal symbol of his Khanate, 210; meaning of (footnote), 210
+Ubashi or Ubasha: ascends throne of Torguts, [210](#210); receives silver seal symbol of his Khanate, [210](#210); meaning of (footnote), [210](#210)
 
-Uliassutai, 90
+Uliassutai, [90](#90)
 
-United States, 320
+United States, [320](#320)
 
-Uppsala University, 173
+Uppsala University, [173](#173)
 
 Ural Mountains, crossing of, by
 
-Boro Öröluk, 207  
---- river, 207
+Boro Öröluk, [207](#207)
+--- river, [207](#207)
 
-Urga, 25, 29, 90, 155, 156, 284
+Urga, [25](#25), [29](#29), [90](#90), [155](#155), [156](#156), [284](#284)
 
-Urumchi, 174, 175, 214, 242, 243, 244, 287, 310, 315, 316, 320, 321; capital of Sinkiang,
+Urumchi, [174](#174), [175](#175), [214](#214), [242](#242), [243](#243), [244](#244), [287](#287), [310](#310), [315](#315), [316](#316), [320](#320), [321](#321); capital of Sinkiang,
 
 <a id="357">**357 INDEX**</a>
 
-Urumchi *(continued)---*  
-160, 162; large park area surrounding, 163; couriers with letters from, to Lop Desert, 180; headquarters of Expedition, 282; departure of Haslund from, 289  
---- and Charklik, distance between, 202
+Urumchi *(continued)---*
+[160](#160), [162](#162); large park area surrounding, [163](#163); couriers with letters from, to Lop Desert, [180](#180); headquarters of Expedition, [282](#282); departure of Haslund from, [289](#289)
+--- and Charklik, distance between, [202](#202)
 
-Volga (Ejil-Tsar) river, 119, 207; Khoshut Mongols living by, 200; plunder of towns and villages along, by Torguts, 207; Mongols on western bank of, how prevented from joining in migration, 213; Mongols left behind on western bank of, 214; Torguts living by, 307
+Volga (Ejil-Tsar) river, [119](#119), [207](#207); Khoshut Mongols living by, [200](#200); plunder of towns and villages along, by Torguts, [207](#207); Mongols on western bank of, how prevented from joining in migration, [213](#213); Mongols left behind on western bank of, [214](#214); Torguts living by, [307](#307)
 
-Waltz, Major, 92
+Waltz, Major, [92](#92)
 
-*Wang,* meaning of, 30; title of, borne by present chief of Etsina Torguts, 119
+*Wang*, meaning of, [30](#30); title of, borne by present chief of Etsina Torguts, [119](#119)
 
-War equipment of West Mongols (1640), 267
+War equipment of West Mongols (1640), [267](#267)
 
-Watch towers: beyond Khara Khoto, 107, (footnote) 117; erected by Emperor of China, 117, derived from Han Dynasty (footnote), 117
+Watch towers: beyond Khara Khoto, [107](#107), (footnote) [117](#117); erected by Emperor of China, [117](#117), derived from Han Dynasty (footnote), [117](#117)
 
-Water cattle (Socho), 137, 138
+Water cattle (Socho), [137](#137), [138](#138)
 
-Wedlock, children born without, Jenghiz Khan's decree regarding, 266
+Wedlock, children born without, Jenghiz Khan's decree regarding, [266](#266)
 
-Wei Dynasty, exploits of, 4
+Wei Dynasty, exploits of, [4](#4)
 
-West Mongol army, defeated by Manchu Emperor (K'ang Hsi), 206  
---- coalition (Durbet Öret), expansion of, outside Dzungaria, 200  
---- Confederation, rise and fall of, 204  
---- --- tribes: combination under Batur Khuntaiji, 204; united by Khara Khula, 204
+West Mongol army, defeated by Manchu Emperor (K'ang Hsi), [206](#206)
+--- coalition (Durbet Öret), expansion of, outside Dzungaria, [200](#200)
+--- Confederation, rise and fall of, [204](#204)
+--- --- tribes: combination under Batur Khuntaiji, [204](#204); united by Khara Khula, [204](#204)
 
-West Mongol delegates at Russian Court (footnote), 247  
---- Mongols: cavalcade of, through the centuries, 203 *et seq.*; connection of the Torguts with, 203; several tribes of, union in Durbet Öret, the fourfold alliance, 203, 204; invading territory of Khalka Mongols, 205; power of, annihilated by Emperor K'ang Hsi, 206; hopeless struggle with Chinese, 207; "Kalmuck," a term of abuse among, 215; war equipment of (1640), 267
+West Mongol delegates at Russian Court (footnote), [247](#247)
+--- Mongols: cavalcade of, through the centuries, [203](#203) *et seq.*; connection of the Torguts with, [203](#203); several tribes of, union in Durbet Öret, the fourfold alliance, [203](#203), [204](#204); invading territory of Khalka Mongols, [205](#205); power of, annihilated by Emperor K'ang Hsi, [206](#206); hopeless struggle with Chinese, [207](#207); "Kalmuck," a term of abuse among, [215](#215); war equipment of (1640), [267](#267)
 
-Western knowledge, Töin Lama's reason for search after, 248, 249
+Western knowledge, Töin Lama's reason for search after, [248](#248), [249](#249)
 
-Wheel of Life, 27
+Wheel of Life, [27](#27)
 
-White Guards, defeat of, in Siberia, 163  
---- Russians: purchase of stallions from, 241; collapse in Siberia, 242
+White Guards, defeat of, in Siberia, [163](#163)
+--- Russians: purchase of stallions from, [241](#241); collapse in Siberia, [242](#242)
 
-Wireless, checking time factor in astronomical observations by, 145
+Wireless, checking time factor in astronomical observations by, [145](#145)
 
-Wisdom, god of (Manjusri), 246 Women, Etsina Torgut, practically sterile, 121; respect to, shown by *Tsächin Bichik,* 267
+Wisdom, god of (Manjusri), [246](#246) Women, Etsina Torgut, practically sterile, [121](#121); respect to, shown by *Tsächin Bichik*, [267](#267)
 
-Wooden-Monkey, Year of (1884), 231
+Wooden-Monkey, Year of (1884), [231](#231)
 
-Wu-t'ai Shan, 28; holy place of Buddhism, 4
+Wu-t'ai Shan, [28](#28); holy place of Buddhism, [4](#4)
 
-*Yabonah,* 81, 88, 213, 271
+*Yabonah*, [81](#81), [88](#88), [213](#213), [271](#271)
 
-*Yamen* of the Torguts, 230, 263, 325  
---- building, legal uses of, 264 Yang, Governor, murder of, 162, 202
+*Yamen* of the Torguts, [230](#230), [263](#263), [325](#325)
+--- building, legal uses of, [264](#264) Yang, Governor, murder of, [162](#162), [202](#202)
 
-Yang-Tseng-hsiu obtains assistance of Torgut bodyguard, 243, 244
+Yang-Tseng-hsiu obtains assistance of Torgut bodyguard, [243](#243), [244](#244)
 
-Yaqub Beg, Mohammedan leader, 260
+Yaqub Beg, Mohammedan leader, [260](#260)
 
 <a id="358">**358 INDEX**</a>
 
-*Yassa* of Jenghiz Khan, 265 ; impartiality of, 265; tolerance towards all religions enjoined by, 265, 266; law regarding adultery, 266  
---- and *Tsächin Bichik,* judicial codes of, compared, 265, 266, 267
+*Yassa* of Jenghiz Khan, [265](#265) ; impartiality of, [265](#265); tolerance towards all religions enjoined by, [265](#265), [266](#266); law regarding adultery, [266](#266)
+--- and *Tsächin Bichik*, judicial codes of, compared, [265](#265), [266](#266), [267](#267)
 
-Yellow Doctrine: defence against the anti-religious propaganda of the North, 248
+Yellow Doctrine: defence against the anti-religious propaganda of the North, [248](#248)
 
-"Yellow Hats", sect founded by Tsong Kapa, 283
+"Yellow Hats", sect founded by Tsong Kapa, [283](#283)
 
-Yellow Monastery of Torguts in Tien Shan Mountains, 203
+Yellow Monastery of Torguts in Tien Shan Mountains, [203](#203)
 
-Yetum, 194; anger and hostility of, 194; interview with, 194, behaviour of, before court, 196, 197; life and conduct of, exposed by Haslund, 198; compensation (presentation of a sheep) demanded of and given by, 198, 199: confessions made to the *hutuktu* Altai Gegen, 202
+Yetum, [194](#194); anger and hostility of, [194](#194); interview with, [194](#194), behaviour of, before court, [196](#196), [197](#197); life and conduct of, exposed by Haslund, [198](#198); compensation (presentation of a sheep) demanded of and given by, [198](#198), [199](#199): confessions made to the *hutuktu* Altai Gegen, [202](#202)
 
-Yolros Lama, 27 *et seq.*, 39, 64, 68, 69, 122, 325; sanctity of, 25, 26; access to, obtained, 34; death of, and supposed transmigration of soul of (footnote), 35; description and character of, 35; apartment of, described, 36; dress of, 36; supposed divine nature of, 36; audience of, described, 37; throne of, 37; acceptance of humble gift by, 41; why excluded from festival in honour of the gods, 41; final interview with, 69, 70; gift of, to Haslund, 146, 147; prayer-flag of, 148; promise of *Zayagan,* 225; prayer-flag presented to Haslund by, 225; *see also Hutuktu,* the
+Yolros Lama, [27](#27) *et seq.*, [39](#39), [64](#64), [68](#68), [69](#69), [122](#122), [325](#325); sanctity of, [25](#25), [26](#26); access to, obtained, [34](#34); death of, and supposed transmigration of soul of (footnote), [35](#35); description and character of, [35](#35); apartment of, described, [36](#36); dress of, [36](#36); supposed divine nature of, [36](#36); audience of, described, [37](#37); throne of, [37](#37); acceptance of humble gift by, [41](#41); why excluded from festival in honour of the gods, [41](#41); final interview with, [69](#69), [70](#70); gift of, to Haslund, [146](#146), [147](#147); prayer-flag of, [148](#148); promise of *Zayagan*, [225](#225); prayer-flag presented to Haslund by, [225](#225); *see also Hutuktu*, the
 
-Younghusband, Sir Francis, arrival of English Military Expedition at Lhasa under (1904), 254
+Younghusband, Sir Francis, arrival of English Military Expedition at Lhasa under (1904), [254](#254)
 
-Yuan Shih-K'ai, first president of Chinese Republic, 29
+Yuan Shih-K'ai, first president of Chinese Republic, [29](#29)
 
-Yün Kang, sculptured caves of, 4,---origin, 4,---style of, 5; stone effigies at, 4, 5
+Yün Kang, sculptured caves of, [4](#4),---origin, [4](#4),---style of, [5](#5); stone effigies at, [4](#4), [5](#5)
 
-*Zayagan,* 64, 70, 71, 317, 325; meaning of, 71; promise of, by Yolros Lama, 225
+*Zayagan*, [64](#64), [70](#70), [71](#71), [317](#317), [325](#325); meaning of, [71](#71); promise of, by Yolros Lama, [225](#225)
 
 ## Discussion
 
