@@ -228,7 +228,7 @@ RU: «Одной из последних, кто подошёл к образу 
 
 ### Выветрившиеся руины Хара-Хото
 
-![haslund-zajagan-all-photos_05_1.jpg](haslund-zajagan-all-photos_05_1.jpg "Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. Kaull fot.")
+![haslund-zajagan-all-photos_05_1.jpg](haslund-zajagan-all-photos_05_1.jpg "Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. v. Kaull fot.")
 
 DA: Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. v. Kaull fot.
 
@@ -258,7 +258,7 @@ RU: Эдзинские торгуты: мужчина и юноша. Фото ф
 
 ### Девушка эдзинский торгут
 
-![haslund-zajagan-all-photos_06_2.jpg](haslund-zajagan-all-photos_06_2.jpg "")
+![haslund-zajagan-all-photos_06_2.jpg](haslund-zajagan-all-photos_06_2.jpg "Etsina-Torgut, Pige. v. Kaull fot.")
 
 DA: Etsina-Torgut, Pige. v. Kaull fot.
 
@@ -716,7 +716,7 @@ RU: Картина с изображением Обиш-хана.
 
 ![haslund-zajagan-all-photos_26_3.jpg](haslund-zajagan-all-photos_26_3.jpg "Sin Chins Moder. G. Man nerheim fot.")
 
-DA: Sin Chins Moder. G. Man nerheim fot.
+DA: Sin Chins Moder. G. Mannerheim fot.
 
 EN: фото нет в англоязычном издании 1935 г.
 
@@ -961,6 +961,8 @@ RU: Жёны вождей и любопытные принцессы.
 ![haslund-zajagan-en-gurtum.png](haslund-zajagan-en-gurtum.png "Gurtum. Photo Zimmerman")
 
 DA: Gurtum. Zimmerman fot.
+
+В DA издании фото обрезано справа.
 
 EN: Gurtum. *Photo Zimmerman*
 
