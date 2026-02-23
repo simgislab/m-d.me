@@ -1134,7 +1134,7 @@ RU: Балдан-гусда, регент, Лодонг-чансе, Лируп-�
 
 ![haslund-zajagan-en-youngtorguts.png](haslund-zajagan-en-youngtorguts.png "Young Torguts. Photo Ambolt")
 
-DA: изображение нот отсутствует в датскоязычном издании 1947 г.
+DA: фото нет в датскоязычном издании 1947 г.
 
 EN: Young Torguts. *Photo Ambolt*
 
