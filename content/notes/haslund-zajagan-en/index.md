@@ -843,7 +843,7 @@ His earliest memories were of being assured that he was not as others. He had ne
 
 It was the product of all this that I saw before me,
 
-1 When three years later, in 1930, I revisited the monastery of Bater Halak Sume, *Yolros lama hutuktu* had "changed bedding", that is to say the divine soul had migrated to a new body. The cloister city mourned, for the rebirth had taken place in another and a distant monastery, in the body of a child born at the moment when the man whom I now saw before me ceased to live.
+> 1 When three years later, in 1930, I revisited the monastery of Bater Halak Sume, *Yolros lama hutuktu* had "changed bedding", that is to say the divine soul had migrated to a new body. The cloister city mourned, for the rebirth had taken place in another and a distant monastery, in the body of a child born at the moment when the man whom I now saw before me ceased to live.
 
 <a id="36">**36 YOLROS LAMA**</a>
 
@@ -901,7 +901,7 @@ From our window we had the best possible view of this picturesque spectacle and,
 
 Every one of the arrivals brought his tribute to the *hutuktu* in the form of *hadaks*,(1) and these were supplemented by gifts, varying with the means of the giver from horses and cattle, silver and silk, to brick tea and
 
-1 *Hadak**---*a long piece of silk, usually blue or white, which is presented to the gods or to exalted personages as a mark of veneration. A *hadak* is holy and pleasing to the gods; it possesses secret virtues and symbolizes the rainbow.
+> 1 *Hadak**---*a long piece of silk, usually blue or white, which is presented to the gods or to exalted personages as a mark of veneration. A *hadak* is holy and pleasing to the gods; it possesses secret virtues and symbolizes the rainbow.
 
 <a id="40">**40 THE DANCE OF THE GODS**</a>
 
@@ -1215,7 +1215,7 @@ The same afternoon we received two notable visitors in our pavilion.
 
 A middle-aged man presented himself as the com-
 
-1 In the year 1897 there came to St. Petersburg a lama who declared that when in a state of ecstasy he was possessed of Damchan, and through him able to answer questions about the future. During his ecstasy he was examined by doctors and other men of science. They witnessed how his face and expression were transformed. His head swelled to such a degree that his helmet, which in a normal state had been too large, could not be removed.
+> 1 In the year 1897 there came to St. Petersburg a lama who declared that when in a state of ecstasy he was possessed of Damchan, and through him able to answer questions about the future. During his ecstasy he was examined by doctors and other men of science. They witnessed how his face and expression were transformed. His head swelled to such a degree that his helmet, which in a normal state had been too large, could not be removed.
 
 <a id="60">**60 DANCE OF THE MAGICIANS**</a>
 
@@ -1697,7 +1697,7 @@ I had to employ a stern tone of command to check the outburst of fury which foll
 
 The sand round Huron Dorgoi had been trampled by Larson's camels, and we had to conduct a systematic
 
-1 The man who is taken with a stolen horse or camel shall return the stolen animal to its rightful owner and also pay a fine to him of nine animals of the same kind as that stolen. If he cannot pay this fine he shall give his children in place of the animals and if he have no children the criminal shall be slaughtered like a sheep, that is to say his legs shall be bound together and then his belly ripped open and his heart squeezed by the slaughterer's hand till the criminal dies.
+ > 1 The man who is taken with a stolen horse or camel shall return the stolen animal to its rightful owner and also pay a fine to him of nine animals of the same kind as that stolen. If he cannot pay this fine he shall give his children in place of the animals and if he have no children the criminal shall be slaughtered like a sheep, that is to say his legs shall be bound together and then his belly ripped open and his heart squeezed by the slaughterer's hand till the criminal dies.
 
 *Jenghiz Khan's Yassa.*
 
@@ -1835,7 +1835,7 @@ Before nightfall Oborgon lay in irons, and that evening I was bidden to a feast 
 
 And the end of this eventful day was good, for when I went to my tent the Mongols were pleased and proud, the stars were twinkling softly in the night sky and Oborgon was sitting in his chains consoling himself with a "Chesterfield" cigarette.
 
-1 Swedish Medals of Merit in gold and silver were ceremonially conferred upon the fortunate Mongols in November, 1930.
+> 1 Swedish Medals of Merit in gold and silver were ceremonially conferred upon the fortunate Mongols in November, 1930.
 
 <a id="101">**101**</a>
 
@@ -2070,7 +2070,7 @@ Sun-gilded pheasants screeched in the trees and we caught sight of unknown birds
 
 With twilight came the sound of passing birds following guidance of the river. First came the steppe grouse, circling above the tree-tops in their thousands, then the wild duck, and last of all, when night had almost fallen we listened to the flute-like, long-drawn notes of the wild geese and swans. From time to time, against the background of the starry sky, one even caught a quick
 
-1 It appeared from excavations carried out later by Folke Bergman that this row of watch towers, of which the one by which we were encamped was the most northerly, derived from the Han dynasty. About six miles to the west lay the watch towers which appeared to belong to the period referred to in the Mongol's legends about Khara Khoto.
+> 1 It appeared from excavations carried out later by Folke Bergman that this row of watch towers, of which the one by which we were encamped was the most northerly, derived from the Han dynasty. About six miles to the west lay the watch towers which appeared to belong to the period referred to in the Mongol's legends about Khara Khoto.
 
 <a id="118">**118 LIFE BY THE RIVER**</a>
 
@@ -2086,7 +2086,7 @@ But the tradition of these Torguts about their relationship with a distant main 
 
 Both our guests had met these messengers from far away and had learned from them much about their kin. Particularly they had heard described the wisdom and goodness of the great prince who now held the Khanate. And everything that the Torgut Khan's ambassador had told them about the affinity of the two tribes was corroborated by the traditions handed down from their fathers, and this had made the Etsina Torguts proud and glad.
 
-1 The Mongols are divided into four social orders, *tsagan yasse* (white bones) nobles; *khara yasse* (black bones)---socagers; *darkhan* ---a not numerous middle class, arisen from *khara yasse* but exempt from socage; *lama*---the religious order, exempt from both socage and military service.
+> 1 The Mongols are divided into four social orders, *tsagan yasse* (white bones) nobles; *khara yasse* (black bones)---socagers; *darkhan* ---a not numerous middle class, arisen from *khara yasse* but exempt from socage; *lama*---the religious order, exempt from both socage and military service.
 
 <a id="119">**119 LIFE BY THE RIVER**</a>
 
@@ -2098,7 +2098,7 @@ Unable to reunite with the main tribe by the Volga, Arab Jur, who had remained t
 
 The present Torguts by Etsin-gol live in great and fatal isolation from their kindred, and their existence is ever
 
-1 In the neighbourhood of the Chinese town of Maomo on Etsin-gol, about sixty miles south of the expedition's camp No. 49, there is said to be a stone whose inscription shows that it was erected in 1750 to mark the boundary between Mongolian and Chinese territory.
+> 1 In the neighbourhood of the Chinese town of Maomo on Etsin-gol, about sixty miles south of the expedition's camp No. 49, there is said to be a stone whose inscription shows that it was erected in 1750 to mark the boundary between Mongolian and Chinese territory.
 
 <a id="120">**120 LIFE BY THE RIVER**</a>
 
@@ -2110,7 +2110,7 @@ At all times the Torguts have been in constant contact with the dwellers in the 
 
 Now, as ever, Tsereat was invaluable to us as our best introduction to the camp fires of the Mongols. He was
 
-1 *Aimak---*old Mongolian denomination for a chief's territory, consisting of one or more principalities. The *aimak* is divided into *hoshun* (banners) which are independent and go by inheritance to younger branches of the family, but the alliance within the *aimak* is maintained, and the oldest prince of the family who rules the principal *hoshun* is regarded as head of the tribe and leader of the whole *aimak*. The *hoshun* is divided into *sumon* (arrows).
+> 1 *Aimak*---old Mongolian denomination for a chief's territory, consisting of one or more principalities. The *aimak* is divided into *hoshun* (banners) which are independent and go by inheritance to younger branches of the family, but the alliance within the *aimak* is maintained, and the oldest prince of the family who rules the principal *hoshun* is regarded as head of the tribe and leader of the whole *aimak*. The *hoshun* is divided into *sumon* (arrows).
 
 <a id="121">**121 LIFE BY THE RIVER**</a>
 
@@ -2186,19 +2186,19 @@ During the conversation the tent curtain had often been pulled to one side to ad
 
 Among those who were standing quietly in the background, a young man attracted my special attention.
 
-1 The Mongolian Chieftains' ranks are:
-
-Prince of the first class . . *chin wang*
-
-Prince of the second class . *chün (jy) wang*
-
-Prince of the third class . . *beile*
-
-Duke of the first or second class . *kung*
-
-Noble of the first or second class . *taiji*
-
-The insignia ot the various ranks consist in part of oval buttons on the official hats, formed respectively of ruby, red coral, sapphire, blue opal and rock-crystal, and in part of the peacock feathers, with from one to three "eyes" hanging backward from these buttons.
+> 1 The Mongolian Chieftains' ranks are:
+>
+> Prince of the first class . . *chin wang*
+>
+> Prince of the second class . *chün (jy) wang*
+>
+> Prince of the third class . . *beile*
+>
+> Duke of the first or second class . *kung*
+>
+> Noble of the first or second class . *taiji*
+>
+> The insignia ot the various ranks consist in part of oval buttons on the official hats, formed respectively of ruby, red coral, sapphire, blue opal and rock-crystal, and in part of the peacock feathers, with from one to three "eyes" hanging backward from these buttons.
 
 <a id="127">**127 ASIA'S BIRDS OF PASSAGE**</a>
 
@@ -2318,7 +2318,7 @@ I turned in that night completely happy, for it had been decided that I should b
 
 The sources of Etsin-gol are far down in the south at the foot of Nan Shan, the Tibetan border range. After having drunk from several lesser oases on Chinese territory, the small watercourses unite at Maomo, after
 
-1 *Long Snakes*---famous Viking ship.
+> 1 *Long Snakes*---famous Viking ship.
 
 <a id="135">**135 SAILING UNCHARTED WATERS**</a>
 
@@ -2540,7 +2540,7 @@ The camel's wild plunge quickly relieved me of the assailant behind me, and duri
 
 Three shots from me were answered by nervous salvos from the rifles of my companions, and we gathered for a conference. We all agreed to camp at the foot of the fort, for we had to clear up its mystery by daylight.
 
-1 *Dunsa* (Chinese Tung-shen)---tobacco imported from China which the Mongols smoke in their long pipes.
+> 1 *Dunsa* (Chinese Tung-shen)---tobacco imported from China which the Mongols smoke in their long pipes.
 
 <a id="152">**152 A ROBBER'S STRONGHOLD**</a>
 
@@ -2558,7 +2558,7 @@ The fortress of the night before was still there in the daylight, and our camp l
 
 This was the centre from which mysterious power had until quite lately overspread the whole of Central Asia; this was Dambin Jansang's late chief stronghold, a place which few honest eyes had seen, but which was the focal point of thousands of the tales whispered by the camp-fires of the Mongols. To judge by its appearance
 
-1 Kulan---*Equus hermionus.*
+> 1 Kulan---*Equus hermionus*.
 
 <a id="153">**153 A ROBBER'S STRONGHOLD**</a>
 
@@ -2678,7 +2678,7 @@ We stared in amazement at the newly arrived warriors, for they were all dressed 
 
 Two days later we were in Hami where we were brought before the Chinese commandant of the town, an opium-ravaged human wreck, and before the commander of
 
-1 Sart is the name given to the town dwellers of Eastern Turkestan. They are Mohammedans and are often of mixed Turkish and Persian race.
+> 1 Sart is the name given to the town dwellers of Eastern Turkestan. They are Mohammedans and are often of mixed Turkish and Persian race.
 
 <a id="160p1"></a>
 
@@ -2846,7 +2846,7 @@ When the young princess Seson was betrothed to Ayuk Khan's grandson Donduk Ombo,
 
 Renat, the former Caroline Sergeant Major of artillery, who, through Fru Brigitta's intervention, had succeeded in escaping from his slavery, also enjoyed much favour at the Dzungarian court. He himself, in his petition for discharge delivered to King Frederic, states that he had set up artillery "with guns and mortars and taught 200 Kalmucks the same Art". He also relates that he had taken the field with the Dzungars against the Chinese.
 
-1 In the proceedings of the Russian Academy of Science, 1732 and 1733, it is stated that Renat also taught the nomads to print from movable type instead of from woodcut blocks as they had learnt from the Chinese.
+> 1 In the proceedings of the Russian Academy of Science, 1732 and 1733, it is stated that Renat also taught the nomads to print from movable type instead of from woodcut blocks as they had learnt from the Chinese.
 
 <a id="172">**172 FACTS AND MUSINGS**</a>
 
@@ -2872,9 +2872,9 @@ After having mourned Fru Brigitta for three years Renat married Elizabeth Lenstr
 
 After my arrival in Sweden I chanced to hear that there was a "Kalmuck Chief's dress" in the Armoury collections. This had been handed over sixty years before by Uppsala University with an ancient servitor's dress from the earlier days of that seat of learning and had even been taken for a similar one. It was later identified as the dress brought home from "Calmuckia"
 
-1 Three "Calmuckesses", Altan (Gold), Sava (Moongleam), and Gurban (Three), were examined in the Christian doctrine and baptized on the third Sunday in Advent, 1735. A ten-year-old boy, son of the Scanian dragoon M. Brant and his Mongolian wife, was baptized in Katarina Church, October 6th, 1734.
-
-2 "I have now obtained several species which have come from Calmuckia with H. René, who has brought with him many kinds from thence."
+> 1 Three "Calmuckesses", Altan (Gold), Sava (Moongleam), and Gurban (Three), were examined in the Christian doctrine and baptized on the third Sunday in Advent, 1735. A ten-year-old boy, son of the Scanian dragoon M. Brant and his Mongolian wife, was baptized in Katarina Church, October 6th, 1734.
+>
+> 2 "I have now obtained several species which have come from Calmuckia with H. René, who has brought with him many kinds from thence."
 
 Celsius to Linnæus, 1736.
 
@@ -2926,7 +2926,7 @@ Outside the abandoned village lay the field in which the living had been wont to
 
 Later on we sometimes met with small parties of these former agricultural villagers, who now drifted about out on the steppes as unhappy nomads. The fugitives had been obliged to divide into small groups, since no one water-hole could accommodate them all. They told us of their last troubled year in their native place, when Allah had punished them by taking away their river, but even more willingly they returned in memory to the happy times when Allah was with them and crops and cattle
 
-1 *Aksakal* (Turkish *ak* = white, *sakal* = beard)---village elder.
+> 1 *Aksakal* (Turkish *ak* = white, *sakal* = beard)---village elder.
 
 <a id="178">**178 NEW FIELDS OF WORK**</a>
 
@@ -3178,7 +3178,7 @@ Next morning the sun beat down upon the tent, and the country was resplendent wi
 
 The same afternoon we received a visit from a sumptu-
 
-1 *Merin---*Mongolian magistrate.
+> 1 *Merin---*Mongolian magistrate.
 
 <a id="194">**194 ADVENTURE**</a>
 
@@ -3200,7 +3200,7 @@ appeared to be just, and before we withdrew he declared that the *Khuruldei*(1) 
 
 All joy had deserted our camp in face of the doom which might cut short the expedition on which we had set out with such high expectations. We went through all my arguments in defence, but think as we would the fact remained that next day I was to be judged by Mongols and that by the law of the Mongols I was a criminal.
 
-1 *Khuruldei*---council of chiefs or magistrates.
+> 1 *Khuruldei*---council of chiefs or magistrates.
 
 <a id="196">**196**</a>
 
@@ -3218,7 +3218,7 @@ I concluded my address by bringing out the compensation I offered, and the assem
 
 The chief and his five counsellors carefully considered my words behind the cloud of smoke from their long pipes, and the soldiers in the tent-opening repeated my speech to the multitude outside and described the lustre and weight of the lump of silver. Yetum conferred in whispers with his suite, and then his greed
 
-1  *Yamba*---a lump of silver shaped like a horseshoe, weighing four pounds.
+> 1  *Yamba*---a lump of silver shaped like a horseshoe, weighing four pounds.
 
 <a id="197">**197 I BECOME A SHAMAN**</a>
 
@@ -3350,7 +3350,7 @@ His son and successor Batur Khun-taiji brought about an alliance between Western
 
 At the same time that Batur's policy united the free West-Mongol tribes in a strong combination, several Mongolian tribes, whose chieftains were too freedom-
 
-1 The four tribes which constituted Durbet öret are variously named in different sources. The names given above agree with the Torguts' own records.
+> 1 The four tribes which constituted Durbet öret are variously named in different sources. The names given above agree with the Torguts' own records.
 
 <a id="205">**205 CAVALCADE OF THE WEST MONGOLS**</a>
 
@@ -3442,7 +3442,7 @@ Three years later on his father's death the seventeenyear-old Ubashi ascended th
 
 The Russian ruler with whom young Obish Khan had to deal was the shrewd and ambitious Empress Elizabeth. She perceived that the troublesome disturbances which were constantly inflicted on the Russians
 
-1 *Ubashi* or *Ubasha*---one who has given a promise.
+> 1 *Ubashi* or *Ubasha*---one who has given a promise.
 
 <a id="211">**211 CAVALCADE OF THE WEST MONGOLS**</a>
 
@@ -3716,7 +3716,7 @@ He willingly acceded to my request to explain the origin and meaning of the "air
 
 "The *hi-mori* flag is the strongest of all prayer-flags, but your life must be lived in accordance with its mystic formulæ in order that the wind may blow strength into your air-horse. If you defy the import of its symbol, its power is weakened, and you go towards misfortune.
 
-1 Mongolian *hi-mori*, Tibetan *lung-ta.*
+> 1 Mongolian *hi-mori*, Tibetan *lung-ta.*
 
 <a id="226">**226 BEFORE THE GOAL**</a>
 
@@ -3776,7 +3776,7 @@ A white cloister wall divided this section of the town from the strictly isolate
 
 Filled with amazement I followed my conductor through the streets so un-Asiatic in their cleanliness, wondering within myself where the tent-born nomad leader had obtained the impulse and the knowledge to erect these gleaming white brick buildings.
 
-1 *Gusdä*---commander of a "banner" (1,500-2,000 men).
+> 1 *Gusdä*---commander of a "banner" (1,500-2,000 men).
 
 <a id="230">**230 I AM BROUGHT INTO THE PRESENCE**</a>
 
@@ -3794,7 +3794,7 @@ Yolros Lama's prophecy had reached the Regent through the Torgut soldiers who ha
 
 With obvious satisfaction the *tuslakchi* ascertained that
 
-1 *Tuslakchi---*holder of the highest office of the tribe.
+> 1 *Tuslakchi---*holder of the highest office of the tribe.
 
 <a id="231">**231 OF “THE KHAN IN THE WEST”**</a>
 
@@ -4074,9 +4074,9 @@ the Russians and the incarnation of the goddess Dara äkhä.(1)
 
 The Regent now learned to his surprise that in the wide world there were other independent sovereigns who stood in no tributary relation to any of the four Great *Khans*. And I succeeded in giving a convincing demonstration of King Gustaf's greatness by means of a picture of the day of the Swedish flag in which vast crowds of people and numerous deputations with a forest of flags are shown bringing their "tribute" to the chieftain of all the Swedes---"Sweduin Khan", as I christened His Majesty.
 
-1 Dara äkhä is a lamaistic goddess of Mercy and the special patroness of women. She it is, too, who protects the traveller from falling rocks and from the obstacle of swift streams upon his way. Dara äkhä was formed of Bodhisattva Avalokites'vara's tears and reincarnated in two Buddhist princesses, one Chinese (Tsaghan dara äkhä) and one Nepalese (Nogon dara äkhä). These two princesses married the renowned ruler of Tibet, Srong-tsang-Gampo, who under the influence of his two consorts became in the eighth century a Buddhist and originator of the lamaistic form of Buddhism in Central Asia. These two *dara* *ä**kh**ä* are among the host of *dolma* who are also called among the Mongols "The mothers guiding to Nirvana *Dara* *ä**kh**ä* is the Mongols' popular name for these exalted beings who possess besides a large number of titles which are contained in a manuscript, "The divine and venerable *dolma's* eight hundred and eight names". The number eight hundred and eight is sacred and is found again in the eight hundred and eight beads of the lamaistic rosary.
-
-That the Tsars *of* Russia have, since the Empresses Elizabeth and Catherine, been reckoned by the lamaists as incarnations of *Dara* *ä**kh**ä* is the result of political cunning on the part of the Russians. When the West-Mongol and Buryat delegates were received at the end of the eighteenth century in ceremonial audience at the court, they saw the Empress "in divine splendour and celestial surroundings", and it was easy for the Russians to convince the simple nomads that their ruler was a divine being.
+> 1 Dara äkhä is a lamaistic goddess of Mercy and the special patroness of women. She it is, too, who protects the traveller from falling rocks and from the obstacle of swift streams upon his way. Dara äkhä was formed of Bodhisattva Avalokites'vara's tears and reincarnated in two Buddhist princesses, one Chinese (Tsaghan dara äkhä) and one Nepalese (Nogon dara äkhä). These two princesses married the renowned ruler of Tibet, Srong-tsang-Gampo, who under the influence of his two consorts became in the eighth century a Buddhist and originator of the lamaistic form of Buddhism in Central Asia. These two *dara* *äkhä* are among the host of *dolma* who are also called among the Mongols "The mothers guiding to Nirvana *Dara* *äkhä* is the Mongols' popular name for these exalted beings who possess besides a large number of titles which are contained in a manuscript, "The divine and venerable *dolma's* eight hundred and eight names". The number eight hundred and eight is sacred and is found again in the eight hundred and eight beads of the lamaistic rosary.
+>
+> That the Tsars of Russia have, since the Empresses Elizabeth and Catherine, been reckoned by the lamaists as incarnations of *Dara* *äkhä* is the result of political cunning on the part of the Russians. When the West-Mongol and Buryat delegates were received at the end of the eighteenth century in ceremonial audience at the court, they saw the Empress "in divine splendour and celestial surroundings", and it was easy for the Russians to convince the simple nomads that their ruler was a divine being.
 
 <a id="248">**248**</a>
 
@@ -4328,7 +4328,7 @@ South of the Mongolian town and at a distance of three "hails" from it lay a Sar
 
 This peculiar circumstance of a whole Mohammedan community being subject to a Mongolian Regent was said to be due to the fact that the inhabitants of Khoten Sumon were descendants of a part of the rebel army of the Mohammedan leader Yaqub Beg who, after their
 
-1 *Khoten* is the Torguts' name for the Mohammedan Sarts, and the word has the same derogatory implication as the Turkish word *Kalmak*, which is the Mohammedan's name for a Mongol.
+> 1 *Khoten* is the Torguts' name for the Mohammedan Sarts, and the word has the same derogatory implication as the Turkish word *Kalmak*, which is the Mohammedan's name for a Mongol.
 
 <a id="261">**261**</a>
 
@@ -4370,7 +4370,7 @@ Seng Chen had besides entered into an agreement for mutual help in war with the 
 
 Among the couriers, dripping with sweat, who came and went at a gallop between the Torguts' *yamen* and the distant dwelling-places in the endless wastes of Central Asia I paid special attention to a type of horse-
 
-1 All these names except the first two appear on the map brought home by Renat from Dzungaria to Sweden in 1734. They must thus have been taken over by the Torguts on their arrival in 1771 at the grazing grounds formerly in possession of the West Mongols exterminated by the Manchus.
+> 1 All these names except the first two appear on the map brought home by Renat from Dzungaria to Sweden in 1734. They must thus have been taken over by the Torguts on their arrival in 1771 at the grazing grounds formerly in possession of the West Mongols exterminated by the Manchus.
 
 <a id="264">**264 THE LAWS OF THE STEPPE**</a>
 
@@ -4486,7 +4486,7 @@ Lodong had been commissioned by the Regent to warn me, since if I were found in 
 
 I was to leave Öreget at once. My horse stood ready
 
-1 *Tao-t'ai* was in the time of the Empire the designation of a district governor, and the title continued to be used in Sinkiang.
+> 1 *Tao-t'ai* was in the time of the Empire the designation of a district governor, and the title continued to be used in Sinkiang.
 
 <a id="271">**271 IN THE OPEN**</a>
 
@@ -4719,7 +4719,7 @@ The temple tent is the nomads' original form of shrine, and it was under Chinese
 
 The "Yellow Hats", the sect founded by the Tibetan reformer Tsong Kapa (1356-1418) who preached "the yellow doctrine" as the only true form of lamaism, spread from Tibet into Dzungaria and thence to the Tusheto Khanate in Khalka Mongolia. But up to the end of the sixteenth century lamaism in Mongolia was
 
-1 *Tantra* doctrine---the study of mystical and magical formulæ, among other things for the attainment of communion with the gods.
+> 1 *Tantra* doctrine---the study of mystical and magical formulæ, among other things for the attainment of communion with the gods.
 
 <a id="284">**284 TENT TEMPLES OF THE TORGUTS**</a>
 
@@ -4979,7 +4979,7 @@ Before him walked two old hunters in simple deerskin dresses. Both carried silve
 
 After the Regent came the procession of chiefs and nobles from the various Torgut tribes, *hutuktus*, great lamas and chiefs taking part in his liberation movement, who had come all the way from Tibet and Khalka Mongolia---and "the Consul" from the far north.
 
-1 *Maral*---the Asiatic equivalent of our red deer.
+> 1 *Maral*---the Asiatic equivalent of our red deer.
 
 <a id="299">**299 THE YEAR OF THE "IRON SNAKE"**</a>
 
@@ -5121,7 +5121,7 @@ On-Tas dwelt there for many years, after which he determined to travel out among
 
 Jenghiz Khan gave On-Tas his daughter and many people to rule, and On-Tas took up his abode in Böge Mörin.
 
-1 Sinanfu---probably means Sianfu.
+> 1 Sinanfu---probably means Sianfu.
 
 <a id="307">**307 ORIGIN OF THE TORGUTS"**</a>
 
@@ -5209,7 +5209,7 @@ It was then that I conceived the bold idea of trying to acquire the ancient sanc
 
 But the gods of Asia were once more to smile upon me.
 
-1 *Darkhan---*craftsman, originally smith.
+> 1 *Darkhan---*craftsman, originally smith.
 
 <a id="311">**311**</a>
 
@@ -5269,9 +5269,9 @@ And then the elder lama astrologer spoke:
 
 A lama glided forward to our circle, carrying a smoking incense dish which he placed on the wolfskin round which we were standing. The bottom of the flat dish was covered with embers from which an ash-grey column of smoke and a heavy, stupefying odour arose. Two long incense sticks lay on the wide rim of the
 
-1 This is the only instance of divination by the effect of fire and heat upon skin that I know of in Mongolia. A method of solving the riddles of the future much practised among the Mongols is to study the lines and fissures produced by the heat upon an animal's shoulder-blade laid in the embers of a fire, and in Northern Mongolia I once saw a lama practise divination from the burnt remains of a Russian settler's house. Probably these forms of divination are relics surviving from the nomads' ancient fire cult.
-
-2 *Akha* is the Mongolian word for an elder brother; *due* denotes a younger brother. *Akha-due* is a bond of friendship entered into between two men and may be compared with the Nordic *fostbr**ö**dralag* (sworn brotherhood).
+> 1 This is the only instance of divination by the effect of fire and heat upon skin that I know of in Mongolia. A method of solving the riddles of the future much practised among the Mongols is to study the lines and fissures produced by the heat upon an animal's shoulder-blade laid in the embers of a fire, and in Northern Mongolia I once saw a lama practise divination from the burnt remains of a Russian settler's house. Probably these forms of divination are relics surviving from the nomads' ancient fire cult.
+>
+> 2 *Akha* is the Mongolian word for an elder brother; *due* denotes a younger brother. *Akha-due* is a bond of friendship entered into between two men and may be compared with the Nordic *fostbr**ö**dralag* (sworn brotherhood).
 
 <a id="314">**314 OCCULTISM IN A TEMPLE TENT"**</a>
 
@@ -5369,7 +5369,7 @@ The caravan set out in the direction of Bagrash-köl, and the circle of leave-ta
 
 Erekenchi bichigen sharara snorted and pawed the ground, while the *tuslakchi* continued the song with
 
-1 The name is a Mongolian expression denoting that the horse possesses strength and spirit.
+> 1 The name is a Mongolian expression denoting that the horse possesses strength and spirit.
 
 <a id="320">**320 FAREWELL"**</a>
 
@@ -5469,7 +5469,7 @@ In August *gegen-ni-ordo* had been set up in Stockholm, and on the eighth of Sep
 
 The commission entrusted to me by Seng Chen was accomplished.
 
-1 The tent temple was later handed over by the King to the Ethnographical Museum.
+> 1 The tent temple was later handed over by the King to the Ethnographical Museum.
 
 <a id="325">**325**</a>
 
