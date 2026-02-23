@@ -1108,7 +1108,7 @@ RU: "Консул Арселан"
 
 ### Красный стандарт
 
-![haslund-zajagan-en-redstandard.png](haslund-zajagan-en-redstandard.png "\"Arselan Consul\"")
+![haslund-zajagan-en-redstandard.png](haslund-zajagan-en-redstandard.png "\"The red Standard\"")
 
 DA: изображения нот нет в датскоязычном издании 1947 г.
 
