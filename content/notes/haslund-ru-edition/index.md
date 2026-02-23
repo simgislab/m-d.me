@@ -20,16 +20,18 @@ fediverse: "@username@instance.url"
 
 Кроме оригинального текста и перевода, нужно иметь в виду, что в книге [много фотографий](/notes/haslund-zajagan-photos/). Список фотографий разный в разных изданиях, есть фото в одном отсутствующие в другом и наоборот. Авторов фотографий несколько (не только сам автор):
 
-* Lieberenz
-* Hummel
-* Zimmerman
-* Hempel
-* Bergman
-* Ambolt
-* F. Ludlow (L. Ludlow в EN издании)
+* Ambolt (Nils Ambolt [Sw. 1928-33])
+* Bergman (Folke Bergman [Sw. 1927-28 + 1928-33 + 1933-34])
+* Lieberenz (Paul Lieberenz)
+* Ludlow, F. (L. Ludlow в EN издании)
+* Hempel (Claus Hempel [Ger. 1927-28 + 1928])
+* Hummel (David Hummel [Sw. 1927-28 + 1928-31 + 1933-34])
+* Kaull, v.
+* Mannerheim, G.
 * Sv. D.
-* v. Kaull
-* G. Mannerheim
+* Zimmerman (Eduard Zimmerman [Ger. 1927-28 + 1928-29])
+
+Первая фамилия - то как упомянуты фотографы в книгах, в скобках информация об [участниках экспедиций Свена Гедина](https://svenhedinfoundation.org/hedins-co-workers/) и даты участия. Если в скобках ничего нет, то информации в перечне об этом человеке нет. Сам Хаслунд в перечне указан так: Henning Haslund-Christensen [Dan. 1928-30]
 
 В переписке персональные данные: имена, почта, телефоны заменены на ---.
 
@@ -87,6 +89,10 @@ Penguin:
 * Subsidiary Rights <https://www.penguin.com/welcome-to-the-rights-desk/>
 * <ecustomerservice@penguinrandomhouse.com>
 * RH Subrights (which includes reprinting a whole book, translation rights and film rights): <randomrights@penguinrandomhouse.com>
+
+Etnografiska musee:
+
+* <bildarkiv@etnografiska.se>
 
 ## Переписка с Gyldendal
 
@@ -162,6 +168,40 @@ Penguin:
 Ответ 2:
 
 пока не поступил
+
+## Переписка с Etnografiska musee
+
+Запрос 1:
+
+> I am preparing a translation of Henning Haslund-Christensen’s book Zajagan (Gyldendalske Boghandel Nordisk Forlag, Copenhagen, 1947), and I am trying to identify and obtain high-quality scans of the photographs used in the book for a potential illustrated edition.
+>
+> Many of the images in Zajagan are credited to photographers connected with the Sino-Swedish Expedition and related fieldwork in Inner Mongolia / North China (late 1920s–early 1930s). I would like to locate the best available source files and clarify licensing for publication.
+>
+> As an example to help orient the search, one of the captions I am tracking is:
+“The grottoes of Yün Kang” (often credited as Photo: Paul Lieberenz; Sino-Swedish Expedition period, c. 1927–1930).
+>
+> My request is broader than this single image: I would like help identifying as many photographs from Zajagan as possible that are held in your collections (or collections you can point me to), and obtaining publication-quality digital files.
+>
+> Could you please advise:
+>
+> 1\. Whether your archive holds photographs that match the images/captions from Zajagan, and how best to search for them;
+>
+> 2\. The process for submitting a list of captions/pages for identification (I can provide a full list or scans of the relevant pages);
+>
+> 3\. Are digital files available (resolution, format)
+> 4\. Licensing options and rights information for publication in a translated book (print and e-book)
+>
+> If helpful, I can immediately send:
+>
+> * a complete list of captions and page numbers from Zajagan,
+>
+> * reference scans of the illustration pages,
+>
+> and any known photographer credits (e.g., Paul Lieberenz, Folke Bergman, etc.).
+
+Ответ 1:
+
+ждем
 
 ## Комментарии
 
