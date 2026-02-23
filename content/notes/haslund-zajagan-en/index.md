@@ -1698,16 +1698,16 @@ I had to employ a stern tone of command to check the outburst of fury which foll
 The sand round Huron Dorgoi had been trampled by Larson's camels, and we had to conduct a systematic
 
  > 1 The man who is taken with a stolen horse or camel shall return the stolen animal to its rightful owner and also pay a fine to him of nine animals of the same kind as that stolen. If he cannot pay this fine he shall give his children in place of the animals and if he have no children the criminal shall be slaughtered like a sheep, that is to say his legs shall be bound together and then his belly ripped open and his heart squeezed by the slaughterer's hand till the criminal dies.
-
-*Jenghiz Khan's Yassa.*
-
-He who steals a camel shall pay to its rightful owner nine times fifteen camels. *Tsachin Bichik of* 1640.
-
-He who steals two camels is punished by transportation for hard labour in an unhealthy climate for life and a hundred and ninety stripes. *Penal code for Mongolia compiled by the*
-
-*Chinese Foreign Office*, 1789.
-
-As these stipulations show, the laws in Mongolia have always been severe regarding the theft of horses and camels. For him who robs a traveller of his transport animals in a place where these cannot be replaced the punishment, says an unwritten law, cannot be severe enough, and in practice it often happens that in the event of the malefactor being caught he is killed in a rage by the man robbed. And I have heard of a recent case of such a horse or camel thief being "slaughtered like a sheep".
+>
+> *Jenghiz Khan's Yassa.*
+>
+> He who steals a camel shall pay to its rightful owner nine times fifteen camels. *Tsachin Bichik of* 1640.
+>
+> He who steals two camels is punished by transportation for hard labour in an unhealthy climate for life and a hundred and ninety stripes. *Penal code for Mongolia compiled by the*
+>
+> *Chinese Foreign Office*, 1789.
+>
+> As these stipulations show, the laws in Mongolia have always been severe regarding the theft of horses and camels. For him who robs a traveller of his transport animals in a place where these cannot be replaced the punishment, says an unwritten law, cannot be severe enough, and in practice it often happens that in the event of the malefactor being caught he is killed in a rage by the man robbed. And I have heard of a recent case of such a horse or camel thief being "slaughtered like a sheep".
 
 <a id="92">**92 DESERT JUSTICE**</a>
 
@@ -1883,7 +1883,7 @@ But the music of strings and minstrels' song kept all thoughts of sand and heavy
 
 I set the record going. The prelude sounded like a summons, and its notes invited silence. Then suspense was resolved by a powerful male voice singing. And the words were attuned to the longing of our hearts; they spoke of that which fills the minds of journeying men---the more persistently the further the journey goes.
 
-" . . . keep right on to the end of the road. If the way be long, Let your heart be strong . . ."
+> " . . . keep right on to the end of the road. If the way be long, Let your heart be strong . . ."
 
 I saw with joy how the melody captivated. Eyes gleamed with rapture in response to the unseen singer's voice which rang out like a challenge from the boundless expanses, like a cheery greeting from something loved and longed for, like a stirring bugle-call to action.
 
@@ -1899,10 +1899,10 @@ The sound of bells from a caravan in the distance brought the morrow's march int
 
 How was it the song ended ?
 
-" ... if you are tired and weary,  
-Still journey on till you come to your happy abode,  
-And all you love and long for will be there  
-At the end of the road."
+> " ... if you are tired and weary,  
+> Still journey on till you come to your happy abode,  
+> And all you love and long for will be there  
+> At the end of the road."
 
 <a id="106">**106**</a>
 
