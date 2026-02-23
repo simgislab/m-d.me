@@ -3752,13 +3752,11 @@ The nearer we came to the lowlands the oftener we fell in with parties of Torgut
 
 <a id="228">**228**</a>
 
-CHAPTER III
+## CHAPTER III
 
 **I AM BROUGHT INTO THE PRESENCE OF “THE KHAN IN THE WEST”**
 
-pic
-
-“The Khan in the West.” (Torgut Song.)
+![notes_p228.png](notes_p228.png "\"The Khan in the West.\" (Torgut Song.)")
 
 TÖIN LAMA'S winter residence was a snow-white town which came as a complete surprise in its wild surroundings.
 
@@ -4322,9 +4320,7 @@ Could that have been the reason for the Torguts' interest in the birthmark above
 
 **THE LAWS OF THE STEPPE**
 
-pic
-
-“Borotala Ola.” (Chahar Song.)
+![notes_p260.png](notes_p260.png "\“Borotala Ola.\” (Chahar Song.)")
 
 AS my relations with the ruler of the Torguts grew more friendly so did the confidence of the inhabitants of the town in their guest from afar increase. I could stroll unhindered through the streets and lanes of the Mongolian metropolis to study their way of living.
 
