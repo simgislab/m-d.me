@@ -229,17 +229,17 @@ His Holiness Seng Chen Gegen, fifth reincarnation of the Tiger god and ruler of 
 
 LIST OF ILLUSTRATIONS
 
-|                                                                                   | PAGE         |
-|:----------------------------------------------------------------------------------|-------------:|
+|                                                                                   | PAGE           |
+|:----------------------------------------------------------------------------------|---------------:|
 | “Dressed in an ample cloak of lynx skin he was sitting against the background of a black rug on which the image of a ferocious tiger was inwoven.” *Photo Bergman*                                                                            |  [192](#192p1) |
 | Camel transport across the river. *Photo Bergman*                                 |  [193](#193p1) |
 | Torgut soldier                                                                    |  [193](#193p2) |
 | ”Arselan Consul”                                                                  |  [224](#224p1) |
 | Mongrolda Noyen                                                                   |  [224](#224p2) |
 | ”The red Standard”                                                                |  [225](#225p1) |
-| Shiri, who “commanded the gliding, soaring and falling of the notes like a proud eagle on the wing”                                                                               |  [240](#240p1) |
+| Shiri, who “commanded the gliding, soaring and falling of the notes like a proud eagle on the wing”|  [240](#240p1) |
 | Torgut married women                                                              |  [240](#240p2) |
-| The Torgut Regent’s *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders            |  [241](#241) |
+| The Torgut Regent’s *bator* ready for battle. The horses are trained to throw themselves on the ground as cover for their riders|  [241](#241) |
 | Baldan *gusdä*, the Regent, Lodong chanse, Lyrup chanse                           |  [244](#244p1) |
 | Torgut Cavalry Acrobatics. *Photo Hempel*                                         |  [245](#245p1) |
 | Seng Chen Gegen, Lodong and Lyrup. *Photo Ambolt*                                 |  [248](#248p1) |
@@ -1942,7 +1942,7 @@ before the western gate impatiently awaiting the pillage of the coming day. But 
 
 The warriors, once so proudly mounted, were obliged to escape on foot, for all their horses had died of thirst. Only a single ass was still alive and on this Khara Bator rode at the head of the melancholy remnant of his proud
 
-pic
+![haslund-zajagan-all-photos_07_1-reused.jpg](haslund-zajagan-all-photos_07_1-reused.jpg "Scale Plan of the Ruins of Khara Khoto.")
 
 army. All the while during the flight the chief spoke "black words", and the country about the fugitives was transformed. All natural life died. The trees of the forest threw themselves to the ground, outstretched in the direction in which Khara Bator was disappearing and storms arose which soon buried the country in sand.
 
@@ -3632,13 +3632,13 @@ There, a bare yard away from me, were breathing the descendants of the great chi
 
 <a id="222">**222 BEFORE THE GOAL**</a>
 
-pic
+![haslund-zajagan-all-photos_18_1-reused.jpg](haslund-zajagan-all-photos_18_1-reused.jpg "Prayer-flag with Symbol of Hi-mori and Sacred Texts.")
 
 ## CHAPTER II
 
-**MY "AIR-HORSE" GALLOPS BEFORE THE WIND)**
+**MY "AIR-HORSE" GALLOPS BEFORE THE WIND**
 
-pic
+![notes_p222.png](notes_p222.png)
 
 High among the snow-clad peaks of the mountains stands a tent.
 
@@ -3690,7 +3690,7 @@ Suddenly the old man's gaze shifted from the flames
 
 <a id="225p1"></a>
 
-![haslund-zajagan-en-redstandard-reused.png](haslund-zajagan-en-redstandard-reused.png "\"The red Standard\")
+![haslund-zajagan-en-redstandard-reused.png](haslund-zajagan-en-redstandard-reused.png "\"The red Standard\"")
 
 <a id="225">**225 BEFORE THE GOAL**</a>
 
