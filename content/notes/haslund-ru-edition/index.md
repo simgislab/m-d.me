@@ -26,12 +26,12 @@ fediverse: "@username@instance.url"
 * Ludlow, F. (L. Ludlow в EN издании)
 * Hempel (Claus Hempel [Ger. 1927-28 + 1928])
 * Hummel (David Hummel [Sw. 1927-28 + 1928-31 + 1933-34])
-* Kaull, v.
+* Kaull, v. (Kaull, Bodo v.)
 * Mannerheim, G.
 * Sv. D.
 * Zimmerman (Eduard Zimmerman [Ger. 1927-28 + 1928-29])
 
-Первая фамилия - то как упомянуты фотографы в книгах, в скобках информация об [участниках экспедиций Свена Гедина](https://svenhedinfoundation.org/hedins-co-workers/) и даты участия. Если в скобках ничего нет, то информации в перечне об этом человеке нет. Сам Хаслунд в перечне указан так: Henning Haslund-Christensen [Dan. 1928-30]
+Первая фамилия - то как упомянуты фотографы в книгах, в скобках информация об [участниках экспедиций Свена Гедина](https://svenhedinfoundation.org/hedins-co-workers/) и даты участия в квадратных скобках. Если в скобках ничего нет, то информации в перечне об этом человеке нет. Сам Хаслунд в перечне указан так: Henning Haslund-Christensen [Dan. 1928-30]
 
 В переписке персональные данные: имена, почта, телефоны заменены на ---.
 
@@ -93,6 +93,7 @@ Penguin:
 Etnografiska musee:
 
 * <bildarkiv@etnografiska.se>
+* <info@svenhedinfoundation.org> - [тут](https://svenhedinfoundation.org/copyright/#), просят сюда копировать запросы
 
 ## Переписка с Gyldendal
 
@@ -201,7 +202,13 @@ Etnografiska musee:
 
 Ответ 1:
 
-ждем
+> Thank you for contacting Image request.
+>
+> We have 23 images tagged with Paul Lieberenz, 21 of them taken by himself: https://tinyurl.com/55k5pzuc. 
+>
+> We have 579 images from Sven Hedin´s 4th Central Asian expedition (1927-1935):  https://tinyurl.com/4ek9mvmw. Hopefully you can find "The grottoes of Yün Kang" or other images published in Zajagan.
+>
+>If you find the images you require, kindly let us know the image numbers.
 
 ## Комментарии
 
