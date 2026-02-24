@@ -59,6 +59,8 @@ fediverse: "@username@instance.url"
 
 ## Основная информация об изданиях и издателях
 
+### Gyldendal
+
 Издание на датском языке:
 
 > Haslund-Christensen Henning, 1947. Zajagan. Gyldendanske Boghandel Nordisk Forlag. København.
@@ -66,6 +68,15 @@ fediverse: "@username@instance.url"
 Издатель: Gyldendanske Boghandel Nordisk Forlag, Дания
 
 Сайт: <https://www.gyldendal.dk>
+
+**Базовые контакты**
+
+Gyldendal Group Agency:
+
+* <https://www.gyldendal.dk/gyldendal/gyldendal-group-agency>
+* <gyldendal@gyldendal.dk>
+
+### Dutton & co//Penguin
 
 Издание на английском языке:
 
@@ -77,12 +88,7 @@ fediverse: "@username@instance.url"
 
 Сайт: <https://www.penguin.com/dutton-overview/>
 
-## Базовые контакты
-
-Gyldendal Group Agency:
-
-* <https://www.gyldendal.dk/gyldendal/gyldendal-group-agency>
-* <gyldendal@gyldendal.dk>
+**Базовые контакты**
 
 Penguin:
 
@@ -90,7 +96,11 @@ Penguin:
 * <ecustomerservice@penguinrandomhouse.com>
 * RH Subrights (which includes reprinting a whole book, translation rights and film rights): <randomrights@penguinrandomhouse.com>
 
-Etnografiska musee:
+### Etnografiska musee
+
+База данных по фотографиями экспедиций Свена Гедина.
+
+**Базовые контакты**
 
 * <bildarkiv@etnografiska.se>
 * <info@svenhedinfoundation.org> - [тут](https://svenhedinfoundation.org/copyright/#), просят сюда копировать запросы
@@ -204,9 +214,9 @@ Etnografiska musee:
 
 > Thank you for contacting Image request.
 >
-> We have 23 images tagged with Paul Lieberenz, 21 of them taken by himself: https://tinyurl.com/55k5pzuc. 
+> We have 23 images tagged with Paul Lieberenz, 21 of them taken by himself: <https://tinyurl.com/55k5pzuc>.
 >
-> We have 579 images from Sven Hedin´s 4th Central Asian expedition (1927-1935):  https://tinyurl.com/4ek9mvmw. Hopefully you can find "The grottoes of Yün Kang" or other images published in Zajagan.
+> We have 579 images from Sven Hedin´s 4th Central Asian expedition (1927-1935): <https://tinyurl.com/4ek9mvmw>. Hopefully you can find "The grottoes of Yün Kang" or other images published in Zajagan.
 >
 >If you find the images you require, kindly let us know the image numbers.
 
