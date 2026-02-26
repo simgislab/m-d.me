@@ -22,7 +22,7 @@ fediverse: "@username@instance.url"
 
 * Ambolt (Nils Ambolt [Sw. 1928-33])
 * Bergman (Folke Bergman [Sw. 1927-28 + 1928-33 + 1933-34])
-* Lieberenz (Paul Lieberenz)
+* Lieberenz, 9. Paul Lieberenz
 * Ludlow, F. (L. Ludlow в EN издании)
 * Hempel (Claus Hempel [Ger. 1927-28 + 1928])
 * Hummel (David Hummel [Sw. 1927-28 + 1928-31 + 1933-34])
@@ -102,7 +102,7 @@ Penguin:
 
 **Базовые контакты**
 
-* <bildarkiv@etnografiska.se>
+* <bildarkiv@etnografiska.se> - на запросы на этот адрес отвечают с адреса <image-request@varldskulturmuseerna.se>
 * <info@svenhedinfoundation.org> - [тут](https://svenhedinfoundation.org/copyright/#), просят сюда копировать запросы
 
 ## Переписка с Gyldendal
@@ -144,9 +144,13 @@ Penguin:
 
 Ответ 3:
 
-пока не поступил
+> I’m afraid I don’t have any further information, other than that the text itself is considered in the public domain. The rights to each photograph are held by the individual photographer, and the rights status depends on when the photographer passed away.
 
 ## Переписка с Penguin
+
+Отвечает:
+
+> Subsidiary Rights Associate
 
 Запрос 1:
 
@@ -178,9 +182,23 @@ Penguin:
 
 Ответ 2:
 
-пока не поступил
+> Thank you for your interest in this title. I’m afraid that, due to its age, we don’t have any record of it in our system and are therefore unable to confirm the rights status.
+>
+> Routledge seems to have published an edition recently, though, and may be able to point you in the right direction.
+>
+> <https://www.routledge.com/Men-and-Gods-in-Mongolia/Haslund/p/book/9780367139599>
+>
+> You can find the proper contact here:
+>
+> <https://www.routledge.com/contacts/rights-and-permissions/rights-licensing>
 
 ## Переписка с Etnografiska musee
+
+Отвечает:
+
+> Digitization assistant, Collections / Image request
+>
+> <www.varldskulturmuseerna.se>
 
 Запрос 1:
 
@@ -219,6 +237,20 @@ Penguin:
 > We have 579 images from Sven Hedin´s 4th Central Asian expedition (1927-1935): <https://tinyurl.com/4ek9mvmw>. Hopefully you can find "The grottoes of Yün Kang" or other images published in Zajagan.
 >
 >If you find the images you require, kindly let us know the image numbers.
+
+Запрос 2:
+
+> Thank you very much for the links, I found some photos very interesting for my research. I looked through all of photots from both links, however, none of them match Zajagan ones.
+>
+> Book lists 9 photos attributed to Lieberenz,  no overlap with 21 from your link. Also, there are 100+ photos in Zajagan total and none match the 579 of 4th Central Asian photos collection.
+>
+> Zajagan takes place in 1927 and 1928 but the number of photos from these years are very small compared to 1930s among these 579.
+>
+> I wonder if there another major collection of photos from 1927 and 1928?
+
+Ответ 2:
+
+ждем
 
 ## Комментарии
 
