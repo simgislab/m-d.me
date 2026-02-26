@@ -182,7 +182,7 @@ Penguin:
 
 Ответ 2:
 
-> Thank you for your interest in this title. I’m afraid that, due to its age, we don’t have any record of it in our system and are therefore unable to confirm the rights status.
+> I’m afraid that, due to its age, we don’t have any record of it in our system and are therefore unable to confirm the rights status.
 >
 > Routledge seems to have published an edition recently, though, and may be able to point you in the right direction.
 >
@@ -230,8 +230,6 @@ Penguin:
 
 Ответ 1:
 
-> Thank you for contacting Image request.
->
 > We have 23 images tagged with Paul Lieberenz, 21 of them taken by himself: <https://tinyurl.com/55k5pzuc>.
 >
 > We have 579 images from Sven Hedin´s 4th Central Asian expedition (1927-1935): <https://tinyurl.com/4ek9mvmw>. Hopefully you can find "The grottoes of Yün Kang" or other images published in Zajagan.
@@ -240,7 +238,7 @@ Penguin:
 
 Запрос 2:
 
-> Thank you very much for the links, I found some photos very interesting for my research. I looked through all of photots from both links, however, none of them match Zajagan ones.
+> I looked through all of photots from both links, however, none of them match Zajagan ones.
 >
 > Book lists 9 photos attributed to Lieberenz,  no overlap with 21 from your link. Also, there are 100+ photos in Zajagan total and none match the 579 of 4th Central Asian photos collection.
 >
