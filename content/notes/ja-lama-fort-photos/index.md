@@ -80,37 +80,129 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 В книге Men and Gods in Mongolia (Zayagan), в главе A robber's stronghold in the desert, Хаслунд описывает историю Джа-ламы (у Хаслунда - Dambin Jansang). Фотографии в англоязычном издании книги нет!
 
-Полная ссылка на американское издание: Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translated from Swedish by Elizabeth Sprigge and Claude Napier. New York: E.P. Dutton & co.
+Библиографическая ссылка на американское издание:
 
-[Источник 1](https://www.tsemrinpoche.com/download/Biographies-Autobiographies-Works/en/Henning%20Haslund%20-%20Men%20and%20Gods%20in%20Mongolia.pdf). [Источник 2](https://drive.google.com/file/d/1tUvmZmF5oSsQqcHPF09cjcixSu2_3NmQ/view?usp=sharing).
+> Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translated from Swedish by Elizabeth Sprigge and Claude Napier. New York: E.P. Dutton & co.
+
+* [Полный текст](/notes/haslund-zajagan-en/) книги
+* PDF: [Источник 1](https://www.tsemrinpoche.com/download/Biographies-Autobiographies-Works/en/Henning%20Haslund%20-%20Men%20and%20Gods%20in%20Mongolia.pdf), [Источник 2](https://drive.google.com/file/d/1tUvmZmF5oSsQqcHPF09cjcixSu2_3NmQ/view?usp=sharing)
 
 Ломакина о фотографии в книге "Голова Джа-ламы":
 
 > Мы воспроизводим снимок, сделанный в ноябре 1928 года Х.Хаслундом-Христенсеном и напечатанный в его книге “Заяган. Люди и боги в Монголии”(89).
 
-Ломакина И. И. Голова Джа-ламы / Инесса Ломакина. — Улан-Удэ, СПб. : Агентство ЭкоАрт, 1993. — 223,[32] с. ил., факс.; 20. — (Восток на западе); ISBN 5-85970-007-5
+Библиографическая ссылка на книгу Ломакиной:
+
+> Ломакина И. И. Голова Джа-ламы / Инесса Ломакина. — Улан-Удэ, СПб. : Агентство ЭкоАрт, 1993. — 223,[32] с. ил., факс.; 20. — (Восток на западе); ISBN 5-85970-007-5
 
 Ломакина ссылается на немецкое издание:
 
-Полная ссылка на немецкое издание: Haslund-Christensen H. Zajagan Menschen und Götter in der Mongolei / Von Henning Haslund-Christensen; Mit einem Vorwort von Sven Hedin und einer Übersichtskarte sowie 34 Bildern nach Originalaußnahmen der Sven-Hedin-Zentral-Asien-Expedition, [Nach der schwedischen Originalausgabe ... übers. von Marie Franzos ...]. — Stuttgart [u. a.] : Union Deutsche Verl.-Ges., [1936]. — 279 с., 9 л. ил. ил., нот., карт.; 24 см.
+Библиографическая ссылка на немецкое издание:
+
+> Haslund-Christensen H. Zajagan Menschen und Götter in der Mongolei / Von Henning Haslund-Christensen; Mit einem Vorwort von Sven Hedin und einer Übersichtskarte sowie 34 Bildern nach Originalaußnahmen der Sven-Hedin-Zentral-Asien-Expedition, [Nach der schwedischen Originalausgabe ... übers. von Marie Franzos ...]. — Stuttgart [u. a.] : Union Deutsche Verl.-Ges., [1936]. — 279 с., 9 л. ил. ил., нот., карт.; 24 см.
 
 ![250-city.jpg](250-city-reused.jpg "Город Джа-ламы. 1928г. Фото Х.Хаслунда из книги Голова Джа-ламы")
 
 [Фото в тексте книги "Голова Джа-ламы"](/notes/lomakina-ja-lama/#250).
 
-Неизвестно, есть ли эта фотография в немецком издании или исходном датском (необходимо проверить). Однако, однозначно выяснено, что фотография есть в издании на датском языке 1947 г.
+Неизвестно, есть ли эта фотография в немецком издании или исходном датском 1935 г. (это необходимо проверить). Однако, однозначно выяснено, что фотография есть в издании на датском языке 1947 г.
 
 ![haslund-photo.png](haslund-photo.png "Dambin Djansangs Ørkenborg. Hembel fot.")
 
 Подпись (перевод): Пустынный замок Дамбижанцана. Фотография Хемпеля.
 
-Согласно подписи, фотография сделана не Хаслундом, а участником экспедиции Свена Гедина, к которой присоединился Хаслунд, по фамилии Hembel. Немецкий участник экспедиции C. Hempel упоминается в [отчете](https://www.jarringlibrary.lingfil.uu.se/travel/travels-and-archaeological-field-work-in-mongolia-and-sinkiang/) Travels and Archaeological Field-Work in Mongolia and Sinkiang: A Diary of the Years 1927-1934.
+Согласно подписи, фотография сделана не Хаслундом, а участником экспедиции Свена Гедина, к которой присоединился Хаслунд, по фамилии Hembel. Немецкий участник экспедиции C. Hempel [Claus Hempel] упоминается в [отчете](https://www.jarringlibrary.lingfil.uu.se/travel/travels-and-archaeological-field-work-in-mongolia-and-sinkiang/) Travels and Archaeological Field-Work in Mongolia and Sinkiang: A Diary of the Years 1927-1934.
 
 > This is a traveler’s journal written by the Swedish archaeologist Folke Bergman about three expeditions to Mongolia and Sinkiang under the leadership of Dr. Sven Hedin, together with a group of Swedish participants consisting of geologist Erik Norin, medico David Hummel and Germans W. Haude, **C. Hempel**, and H. Dettmann. In February 1927 the expedition arrives in Peking from Moscow on the trans-Siberian railway via Mukden. As a result of archaeological discoveries made by Prof. Johan Gunnar Andersson in Honan, Kansu and Kuku-kor at the beginning of the 1920’s, a prehistory of China was outlined in terms of six successive periods, ranging from the Stone Age to the Iron Age. Especially findings of painted pottery were important in understanding the division of periods. Painted pottery was discovered at sites 4000 km apart. Bergman is excited to further the investigations in Eastern Turkestan to find out more about its role in tying together the Far East and the Near East during the Stone Age. Throughout the journey Bergman gives precise accounts of every place they visit or pass by, noting the time and date of the visits and the distance from the previous place in li – the Chinese measurement where 1 li is about 0,5 km, together with short descriptions of the environment. Black and white photographs and pencil sketches of temples and places are provided throughout the book. On several occasions during its journey the main expedition splits up in order to concentrate on specific research in smaller groups. **The expedition is eventually joined by other travelers, such as Nils Ambolt and Henning Haslund-Christensen.**
 
-Полная ссылка на датское издание: Haslund-Christensen Henning, 1947. Zajagan. Gyldendanske Boghandel Nordisk Forlag. København.
+Библиографическая ссылка на датское издание:
+
+> Haslund-Christensen Henning, 1947. Zajagan. Gyldendanske Boghandel Nordisk Forlag. København.
 
 Фотография получена благодаря помощи Алексея Сидоренко, лично отправившегося в библиотеку в Копенгагене.
+
+## Фольке Бергман, 27 января 1934
+
+Фольке Бергман (Bergman, Folke, [en-wiki](https://en.wikipedia.org/wiki/Folke_Bergman)) - шведский археолог, участник китайско-шведской экспедиции Свена Гедина.
+
+Серия фотографий замка Джа-ламы Фольке Бергмана из базы данных CARLOTTA Шведского этнографического музея. Фото сделаны в один день, хотя в базе данных иногда указан только год.
+
+Визит Свена Гедина 27 января 1934 г. на руины замка Джа-ламы подтверждается в отчетах китайско-шведской экспедиции (PDF1, [PDF2](https://dokumen.pub/download/history-of-the-expedition-in-asia-1927-1935-part-i-1927-1928.html)).
+
+> Hedin, 1944. History of the Expedition in Asia 1927-1935 by Sven Hedin in collaboration with Folke Bergman. In Reports from the scientific expedition to the North-Western provinces of China under the leadership of Dr. Sven Hedin. The Sino-Swedish expedition. Publication 25. Stockholm. Pp. 41-43.
+
+![hedin-bergman-1034.0019.jpg](hedin-bergman-1034.0019.jpg)
+
+Ключевые слова, оригинал на шведском и перевод.
+
+> landskap, byggnad, mur, borg //
+> пейзаж, здание, стена, замок
+
+Описание, оригинал на шведском и перевод.
+
+> Hedinexpeditionen 1933-35
+> Dambin lamas boy  
+> 1934 no 20 (nytt nr 1034.0020)  
+> neg nr B.947
+> Foto Folke Bergman 27.1.1934
+>
+> Экспедиция Свена Гедина 1933-35
+> Замок Дамбин ламы
+> 1934 № 20 (новый № 1034.0019)
+> негатив № B.945
+> Фото Фольке Бергмана 27.1.1934
+
+1934-01-27 г. <https://collections.smvk.se/carlotta-em/web/object/2066687>
+
+![hedin-bergman-1034.B944.jpg](hedin-bergman-1034.B944.jpg)
+
+Ключевые слова, оригинал на шведском и перевод.
+
+byggnad, hus // здание, дом
+
+1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286567>
+
+![hedin-bergman-1034.0020.jpg](hedin-bergman-1034.0020.jpg)
+
+Ключевые слова, оригинал на шведском и перевод.
+
+> borg
+>
+> замок
+
+Описание, оригинал на шведском и перевод.
+
+> Hedinexpeditionen 1933-35
+> Dambin lamas borg  
+> 1934 no 20 (nytt nr 1034.0020)  
+> neg nr B.947
+> Foto Folke Bergman 27.1.1934
+>
+> Экспедиция Свена Гедина 1933-35
+> Замок Дамбин ламы
+> 1934 № 20 (новый № 1034.0020)
+> негатив № B.947
+> Фото Фольке Бергмана 27.1.1934
+
+1934-01-27 г. <https://collections.smvk.se/carlotta-em/web/object/2066688>
+
+![hedin-bergman-1034.B946.jpg](hedin-bergman-1034.B946.jpg)
+
+Свен Гедин у стены замка.
+
+Ключевые слова, оригинал на шведском и перевод.
+
+> byggnad, hus
+>
+> здание, дом
+
+1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286572>
+
+![hedin-bergman-1034.xxx1.jpg](hedin-bergman-1034.xxx1.jpg)
+
+Сам Свен Гедин.
+
+1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286625>
 
 ### Автор неизвестен, год неизвестен
 
