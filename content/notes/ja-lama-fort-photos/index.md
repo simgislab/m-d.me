@@ -135,12 +135,12 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 ![hedin-bergman-1034.0019.jpg](hedin-bergman-1034.0019.jpg)
 
-Ключевые слова, оригинал на шведском и перевод.
+Ключевые слова, оригинал на шведском и перевод:
 
 > landskap, byggnad, mur, borg //
 > пейзаж, здание, стена, замок
 
-Описание, оригинал на шведском и перевод.
+Описание, оригинал на шведском и перевод:
 
 > Hedinexpeditionen 1933-35
 > Dambin lamas boy  
@@ -154,29 +154,29 @@ Henning Haslund-Christensen - датский путешественник, ав�
 > негатив № B.945
 > Фото Фольке Бергмана 27.1.1934
 
-1934-01-27 г. <https://collections.smvk.se/carlotta-em/web/object/2066687>
+Указанная дата съемки: 1934-01-27 г. <https://collections.smvk.se/carlotta-em/web/object/2066687>
 
 **Главное здание**
 
 ![hedin-bergman-1034.B944.jpg](hedin-bergman-1034.B944.jpg)
 
-Ключевые слова, оригинал на шведском и перевод.
+Ключевые слова, оригинал на шведском и перевод:
 
 byggnad, hus // здание, дом
 
-1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286567>
+Указанная дата съемки: 1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286567>
 
 **Вид на одно из второстеенных зданий**
 
 ![hedin-bergman-1034.0020.jpg](hedin-bergman-1034.0020.jpg)
 
-Ключевые слова, оригинал на шведском и перевод.
+Ключевые слова, оригинал на шведском и перевод:
 
 > borg
 >
 > замок
 
-Описание, оригинал на шведском и перевод.
+Описание, оригинал на шведском и перевод:
 
 > Hedinexpeditionen 1933-35
 > Dambin lamas borg  
@@ -190,25 +190,25 @@ byggnad, hus // здание, дом
 > негатив № B.947
 > Фото Фольке Бергмана 27.1.1934
 
-1934-01-27 г. <https://collections.smvk.se/carlotta-em/web/object/2066688>
+Указанная дата съемки: 1934-01-27 г. <https://collections.smvk.se/carlotta-em/web/object/2066688>
 
 **Свен Гедин у стены замка**
 
 ![hedin-bergman-1034.B946.jpg](hedin-bergman-1034.B946.jpg)
 
-Ключевые слова, оригинал на шведском и перевод.
+Ключевые слова, оригинал на шведском и перевод:
 
 > byggnad, hus
 >
 > здание, дом
 
-1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286572>
+Указанная дата съемки: 1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286572>
 
 **Свен Гедин**
 
 ![hedin-bergman-1034.xxx1.jpg](hedin-bergman-1034.xxx1.jpg)
 
-1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286625>
+Указанная дата съемки: 1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286625>
 
 ### Автор неизвестен, год неизвестен
 
