@@ -137,7 +137,8 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Ключевые слова, оригинал на шведском и перевод:
 
-> landskap, byggnad, mur, borg //
+> landskap, byggnad, mur, borg
+>
 > пейзаж, здание, стена, замок
 
 Описание, оригинал на шведском и перевод:
@@ -162,7 +163,9 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Ключевые слова, оригинал на шведском и перевод:
 
-byggnad, hus // здание, дом
+> byggnad, hus
+>
+> здание, дом
 
 Указанная дата съемки: 1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286567>
 
