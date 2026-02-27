@@ -121,7 +121,7 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Фотография получена благодаря помощи Алексея Сидоренко, лично отправившегося в библиотеку в Копенгагене.
 
-## Фольке Бергман, 27 января 1934
+### Фольке Бергман, 27 января 1934
 
 Фольке Бергман (Bergman, Folke, [en-wiki](https://en.wikipedia.org/wiki/Folke_Bergman)) - шведский археолог, участник китайско-шведской экспедиции Свена Гедина.
 
@@ -130,6 +130,8 @@ Henning Haslund-Christensen - датский путешественник, ав�
 Визит Свена Гедина 27 января 1934 г. на руины замка Джа-ламы подтверждается в отчетах китайско-шведской экспедиции (PDF1, [PDF2](https://dokumen.pub/download/history-of-the-expedition-in-asia-1927-1935-part-i-1927-1928.html)).
 
 > Hedin, 1944. History of the Expedition in Asia 1927-1935 by Sven Hedin in collaboration with Folke Bergman. In Reports from the scientific expedition to the North-Western provinces of China under the leadership of Dr. Sven Hedin. The Sino-Swedish expedition. Publication 25. Stockholm. Pp. 41-43.
+
+**Общий вид руин замка**
 
 ![hedin-bergman-1034.0019.jpg](hedin-bergman-1034.0019.jpg)
 
@@ -154,6 +156,8 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 1934-01-27 г. <https://collections.smvk.se/carlotta-em/web/object/2066687>
 
+**Главное здание**
+
 ![hedin-bergman-1034.B944.jpg](hedin-bergman-1034.B944.jpg)
 
 Ключевые слова, оригинал на шведском и перевод.
@@ -161,6 +165,8 @@ Henning Haslund-Christensen - датский путешественник, ав�
 byggnad, hus // здание, дом
 
 1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286567>
+
+**Вид на одно из второстеенных зданий**
 
 ![hedin-bergman-1034.0020.jpg](hedin-bergman-1034.0020.jpg)
 
@@ -186,9 +192,9 @@ byggnad, hus // здание, дом
 
 1934-01-27 г. <https://collections.smvk.se/carlotta-em/web/object/2066688>
 
-![hedin-bergman-1034.B946.jpg](hedin-bergman-1034.B946.jpg)
+**Свен Гедин у стены замка**
 
-Свен Гедин у стены замка.
+![hedin-bergman-1034.B946.jpg](hedin-bergman-1034.B946.jpg)
 
 Ключевые слова, оригинал на шведском и перевод.
 
@@ -198,9 +204,9 @@ byggnad, hus // здание, дом
 
 1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286572>
 
-![hedin-bergman-1034.xxx1.jpg](hedin-bergman-1034.xxx1.jpg)
+**Свен Гедин**
 
-Сам Свен Гедин.
+![hedin-bergman-1034.xxx1.jpg](hedin-bergman-1034.xxx1.jpg)
 
 1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286625>
 
