@@ -248,7 +248,9 @@ Penguin:
 
 Ответ 2:
 
-ждем
+> At the Museum of Ethnography we have 37 images taken during the first part of Sven Hedin´s fourth Central Asian expedition 1927-1928, <https://tinyurl.com/39nrefh3>. We also have a large collection aquired from the Swedish Missionary Association, containing 4,485 images from China, <https://tinyurl.com/2j5jp25y>, but it´s difficult to know which year the images are taken, as there is a lack of metadata.
+>
+> At the Museum of Far Eastern Antiquities we have 4 images from China aquired in 1928, <https://tinyurl.com/4rezfc6k>, and 1 image taken in Nanking in 1927, <https://collections.smvk.se/carlotta-om/web/object/1046681>.
 
 ## Комментарии
 

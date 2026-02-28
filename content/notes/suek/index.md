@@ -19,7 +19,7 @@ fediverse: "@username@instance.url"
 Варианты написания:
 
 * Кириллица: Суек, Сёок, Суяк, Суiок
-* Латиница: Seok, Suyek, Suyak, Suek, Söök
+* Латиница: Seok, Suyek, Suyak, Suek, Söök, Souka
 * Киргизский: Сөөк
 
 Координаты:
@@ -144,6 +144,16 @@ fediverse: "@username@instance.url"
 ![map_ilin_1876.jpg](map_ilin_1876.jpg "Суяк, Барскаун, Бедель на карте 1876 г.")
 
 [Источник](https://archive.org/details/dr_karta-turkestanskago-general-gubernatorstva-khivinskago-bukharskago-i-kok-11743007)
+
+Карта Ubersichtkarte des Zentralen Tian-Schan, 1904
+
+> This map of Central Tian-Shan can be found in an appendix to Vorläufiger Bericht über eine in den Jahren 1902 und 1903 ausgeführte Forschungsreise in den zentralen Tian-Schan (1904) written by Gottfried Merzbacher.
+
+Странное положение перевалов Суек (Souka 4270) и Барскаун (Bars-kown 3660) относительно друг друга.
+
+![tian-schan1904.png](tian-schan1904.png "Souka, Bars-kown, Bedel")
+
+[Источник](https://www.jarringlibrary.lingfil.uu.se/maps/regions-places/trv037m/)
 
 ## Итого
 

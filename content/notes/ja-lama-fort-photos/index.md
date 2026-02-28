@@ -34,7 +34,7 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 
 Публикация:
 
-Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
+> Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
 
 [Фото в тексте](/notes/roerich-trails-to-asia-en/#211jalama).
 
@@ -74,7 +74,7 @@ Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roer
 
 > Европейцы разного темперамента и склада оставили описание и фотографии последней крепости Джа-ламы в Черной Гоби (а Николай Рерих - даже живописное полот­но!).
 
-### Хеннинг Хаслунд-Кристенсен и C. Hempel (Hembel), 1928
+### Хеннинг Хаслунд-Кристенсен и Хемпель, 1928
 
 Henning Haslund-Christensen - датский путешественник, автор книг, соратник Свена Гедина, долго прожил в Монголии ([en-wiki](https://en.wikipedia.org/wiki/Henning_Haslund-Christensen)).
 
@@ -219,11 +219,11 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Подпись на английском:
 
-> The ruined castle of Danbin Lama at Kung-pao-ch'iian, Ma-tsung-shan
+> The ruined castle of Danbin Lama at Kung-pao-ch'iian, Ma-tsung-shan Hempel Photo
 
 Перевод:
 
-> Руины замка Дамбин Ламы в Кунг-пао-чи'юань, Ма-цунг-шань
+> Руины замка Дамбин Ламы в Кунг-пао-чи'юань, Ма-цун-шань. Фото Хемпеля.
 
 Фотография так же опубликована в отчете (Plate 15), является копией фотографии 1928 г. из [книги Хаслунда](#%d1%85%d0%b5%d0%bd%d0%bd%d0%b8%d0%bd%d0%b3-%d1%85%d0%b0%d1%81%d0%bb%d1%83%d0%bd%d0%b4-%d0%ba%d1%80%d0%b8%d1%81%d1%82%d0%b5%d0%bd%d1%81%d0%b5%d0%bd-%d0%b8-c-hempel-hembel-1928).
 
