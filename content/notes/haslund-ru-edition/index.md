@@ -22,18 +22,18 @@ fediverse: "@username@instance.url"
 
 * Ambolt (Nils Ambolt [Sw. 1928-33])
 * Bergman (Folke Bergman [Sw. 1927-28 + 1928-33 + 1933-34])
-* Lieberenz, 9. Paul Lieberenz
-* Ludlow, F. (L. Ludlow в EN издании)
+* Lieberenz, 9 фото. Paul Lieberenz
+* Ludlow, F., L. Ludlow в EN издании
 * Hempel (Claus Hempel [Ger. 1927-28 + 1928])
 * Hummel (David Hummel [Sw. 1927-28 + 1928-31 + 1933-34])
-* Kaull, v. (Kaull, Bodo v.)
+* Kaull, v., Kaull, Bodo v.
 * Mannerheim, G.
 * Sv. D.
 * Zimmerman (Eduard Zimmerman [Ger. 1927-28 + 1928-29])
 
-Первая фамилия - то как упомянуты фотографы в книгах, в скобках информация об [участниках экспедиций Свена Гедина](https://svenhedinfoundation.org/hedins-co-workers/) и даты участия в квадратных скобках. Если в скобках ничего нет, то информации в перечне об этом человеке нет. Сам Хаслунд в перечне указан так: Henning Haslund-Christensen [Dan. 1928-30]
+Первая фамили --- то, как упомянуты фотографы в книгах. В скобках информация об [участниках экспедиций Свена Гедина](https://svenhedinfoundation.org/hedins-co-workers/) и даты участия в квадратных скобках. Если в скобках ничего нет, то информации в перечне об этом человеке нет. Сам Хаслунд в перечне указан так: Henning Haslund-Christensen [Dan. 1928-30]
 
-В переписке персональные данные: имена, почта, телефоны заменены на ---.
+В переписке персональные данные: имена, личная почта, телефоны удалены.
 
 ## Зарегистрированный копирайт
 
@@ -110,9 +110,6 @@ Penguin:
 Отвечает:
 
 > Head of Agency / Literary Agent  
-> Mail: --- ---  
-> Direct Phone: --- ---  
-> Mobile: --- ---
 >
 > Gyldendal Group Agency  
 > Klareboderne 3 / DK- 1001 Copenhagen K / Denmark  

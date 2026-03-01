@@ -219,13 +219,13 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Подпись на английском:
 
-> The ruined castle of Danbin Lama at Kung-pao-ch'iian, Ma-tsung-shan Hempel Photo
+> The ruined castle of Danbin Lama at Kung-pao-ch'üan, Ma-tsung-shan Hempel Photo
 
 Перевод:
 
 > Руины замка Дамбин Ламы в Кунг-пао-чи'юань, Ма-цун-шань. Фото Хемпеля.
 
-Фотография так же опубликована в отчете (Plate 15), является копией фотографии 1928 г. из [книги Хаслунда](#%d1%85%d0%b5%d0%bd%d0%bd%d0%b8%d0%bd%d0%b3-%d1%85%d0%b0%d1%81%d0%bb%d1%83%d0%bd%d0%b4-%d0%ba%d1%80%d0%b8%d1%81%d1%82%d0%b5%d0%bd%d1%81%d0%b5%d0%bd-%d0%b8-c-hempel-hembel-1928).
+Фотография так же опубликована в отчете (Plate 15), является копией фотографии 1928 г. из [книги Хаслунда](/notes/ja-lama-fort-photos/#хеннинг-хаслунд-кристенсен-и-хемпель-1928).
 
 ### Автор неизвестен, год неизвестен
 
