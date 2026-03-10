@@ -1,8 +1,8 @@
 ---
-title: "陳渠珍 艽野塵夢"
+title: "陳渠珍《艽野尘梦》"
 date: "2026-03-09"
-summary: "Чэнь Цюйчжэнь. Сны в пыли диких земель. Оригинальная версия книги (компиляция)."
-description: "Чэнь Цюйчжэнь. Сны в пыли диких земель. Оригинальная версия книги (компиляция)."
+summary: "Чэнь Цюйчжэнь. Сон в пыли диких земель. Оригинальная версия книги (компиляция)."
+description: "Чэнь Цюйчжэнь. Сон в пыли диких земель. Оригинальная версия книги (компиляция)."
 toc: true
 autonumber: false
 math: false
@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Книга "Сны в пыли диких земель" (艽野塵夢) представленная здесь --- компиляция двух источников.
+Книга "Сон в пыли диких земель" (艽野塵夢) представленная здесь --- компиляция двух источников.
 
 * Издание сентября 1938 года (оригинальное?) <https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-003716450/reader> ([сохраненная копия в PDF](https://drive.google.com/file/d/1jMwvmMvDE7MKS6ORmAcfugk61mQPtMZB/view?usp=sharing))
 * Основной текст книги издания мая 1982 г. с комментариями Жэнь Найцяня <https://github.com/chaimol/chaimol.github.com/blob/master/book/%E8%89%BD%E9%87%8E%E5%B0%98%E6%A2%A6.txt> ([сохраненная копия в TXT](https://drive.google.com/file/d/1ILTLtUfMds-IJPiln_9AFp6yNpSKS5Am/view?usp=sharing))
