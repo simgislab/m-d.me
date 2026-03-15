@@ -90,10 +90,10 @@ fediverse: "@username@instance.url"
 >
 > Over the last few years the Foundation has managed to scan a fair share of the photographs, which will be continuously released via this website and the data base of the Ethnographic Museum, when metadata has been properly added. The Swedish Centenary Fund has supported this work.
 >
-> Requests for using photographs, from the Hedin archives should be directed to:  bildarkiv@etnografiska.se copy to: hakan.wahlquist@svenhedinfoundation.org
+> Requests for using photographs, from the Hedin archives should be directed to: <bildarkiv@etnografiska.se> copy to: <hakan.wahlquist@svenhedinfoundation.org>
 
 ![shfoundation.png](shfoundation.png)
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/170)
+[**Обсудить**](https://t.me/answer42geo/189)
