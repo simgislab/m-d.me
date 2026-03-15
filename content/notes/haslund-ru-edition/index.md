@@ -105,7 +105,7 @@ Penguin:
 * <bildarkiv@etnografiska.se> - на запросы на этот адрес отвечают с адреса <image-request@varldskulturmuseerna.se>
 * <info@svenhedinfoundation.org> - [тут](https://svenhedinfoundation.org/copyright/#), просят сюда копировать запросы
 
-### Gyldendal
+### Sven Hedin Foundation
 
 Фотографии [не входящие](https://svenhedinfoundation.org/collections/) в коллекции Этнографического музея.
 
@@ -259,7 +259,21 @@ Penguin:
 
 ## Переписка с Sven Hedin Foundation
 
+Запрос 1:
 
+> I am preparing a translation of Henning Haslund-Christensen’s book Zajagan (first published in 1935), and I am trying to identify and obtain high-quality scans of the photographs used in the book for a potential illustrated edition.
+>
+> Many of the images in Zajagan are credited to photographers connected with the Sino-Swedish Expedition and related fieldwork in Inner Mongolia / North China (1926-27). I would like to locate the best available source files and clarify licensing for publication.
+>
+> I've made several requests to bildarkiv@etnografiska.se but links they've provided include no photos from Haslund's book.
+>
+> As I see from your website: "the original photos of the first leg of the expedition (1927-28) are all with the Hedin collections" which hopefuly explains why I can't find any at Ethnographic Museum database.
+>
+> Can you please clarify if this is the case and if I can somehow access these photos?
+
+Ответ 1:
+
+ждем
 
 ## Комментарии
 
