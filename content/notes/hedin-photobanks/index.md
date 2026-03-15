@@ -52,6 +52,24 @@ fediverse: "@username@instance.url"
 
 <https://collections.smvk.se/carlotta-em/web/object/2778969>
 
+> Mellan 1927 och 1935 ledde Hedin den svensk-kinesiska expeditionen till Centralasien. Vid Hedins tidigare expeditioner hade han varit ensam västerlänning, medan han nu var ledare för ett vandrande universitet som bestod av ett stort antal svenska och kinesiska vetenskapsmän, däribland arkeologer, botaniker och etnografer. Bland de svenska deltagarna fanns Georg Söderbom, Folke Bergman, David A:son Hummel, August Larson (hertig Larson) och Gösta Montell.
+>
+> Mellan 1927 och 1928 var expeditionen finansierad av Lufthansa och hade flera tyska deltagare. Den skulle göra en allsidig utforskning av de centralasiatiska ökenområdenas naturförhållanden och geografi och Lufthansa hade som villkor att expeditionen skulle undersöka möjliga platser för mellanlandningar på den planerade flyglinjen Berlin-Peking-Shanghai. När militärguvernören i Sinkiang förbjöd flygningar över sitt område tog finansieringen slut. Hedin lyckades dock få finansiering från den svenska riksdagen och privatpersoner, vilket gjorde att expeditionen kunde fortsätta mellan 1929 och 1933, efter förhandlingar med den nye makthavaren i Nanking, Chiang Kai-shek. Stora delar av Inre Mongoliet, Nanshan, Tsaidam, Tarimbäckenet, Tian Shan och nordvästra Tibet utforskades. Ett mycket omfattande material samlades in, en noggrann kartering utfördes och Centralasiens klimatologi klarlades.
+>
+> Mellan 1933 och 1935 finansierades expeditionen av den kinesiska regeringen, med uppdraget att vid sidan av de vetenskapliga undersökningarna studera möjligheten att bygga bilvägar längs de urgamla karavanlederna i Sinkiang. Denna farofyllda färd har Hedin skildrat i trilogien Stora hästens flykt (1935), Sidenvägen (1936) och Den vandrande sjön (1937).
+>
+> Den stora mängden forskningsresultat publicerades mellan 1937 och 1992 i skriftserien Reports from the scientific expedition to the north-western provinces of China under leadership of Dr. Sven Hedin. (Wikipedia 2015-03-10)
+
+Перевод на русский:
+
+> Шведско-китайская экспедиция в Центральной Азии под руководством Свена Гедина продолжалась с 1927 до 1935 года. В прежних своих экспедициях Гедин был единственным западным участником, тогда как теперь он возглавлял своего рода «передвижной университет», состоявший из большого числа западных и китайских учёных, среди которых были археологи, ботаники и этнографы. Среди шведских участников находились Georg Söderbom, Folke Bergman, David A:son Hummel, August Larson (герцог Ларсон) и Gösta Montell.
+>
+> В 1927–1928 годах экспедиция финансировалась компанией Lufthansa и включала несколько немецких участников. Она должна была провести всестороннее исследование природных условий и географии пустынных областей Центральной Азии. Условием финансирования со стороны Lufthansa было то, что экспедиция должна изучить возможные места для промежуточных посадок на планируемой авиалинии Берлин—Пекин—Шанхай. Когда военный губернатор Синьцзян запретил полёты над своей территорией, финансирование прекратилось. Однако Хедину удалось получить средства от шведского риксдага и частных лиц, благодаря чему экспедиция была продолжена в 1929–1933 годах после переговоров с новым правителем в Нанкине — Чан Кайши. Были исследованы значительные части Внутренняя Монголия, Наньшань, Цайдамская впадина, Таримская впадина, Тянь-Шань и северо-западный Тибет. Был собран чрезвычайно обширный научный материал, проведено точное картографирование и прояснены особенности климатологии Центральной Азии.
+>
+> В 1933–1935 годах экспедиция финансировалась китайским правительством. Помимо научных исследований ей было поручено изучить возможность строительства автомобильных дорог вдоль древнейших караванных путей в Синьцзян. Это опасное путешествие Гедин описал в трилогии: Stora hästens flykt (1935), Sidenvägen (1936) и Den vandrande sjön (1937).
+>
+> Большое количество научных результатов было опубликовано между 1937 и 1992 годами в серии изданий Reports from the scientific expedition to the north-western provinces of China under leadership of Dr. Sven Hedin. (Wikipedia, 10.03.2015)
+
 ![carlotta-em.png](carlotta-em.png)
 
 ### Sven Hedin Foundation
