@@ -24,9 +24,9 @@ fediverse: "@username@instance.url"
 
 ### International Dunhuang Programme
 
-Каталог материалов, включая фотографии, хранящихся в Британской Библиотеке и, небольшое количество, из Шведского этнографического музея.
-
 <https://idp.bl.uk>
+
+Каталог материалов, включая фотографии, хранящихся в Британской Библиотеке и, небольшое количество, из Шведского этнографического музея.
 
 ![idp.png](idp.png)
 
@@ -56,6 +56,8 @@ fediverse: "@username@instance.url"
 
 ### Sven Hedin Foundation
 
+<https://svenhedinfoundation.org/collections/>
+
 Описание коллекций Гедина, включая фотографическую. Судя по разделу Databases, раньше на вебсайте были какие-то каталоги, но теперь осталось только описание коллекций, интерфейсов поиска на сайте нет.
 
 В описании однако упоминается, что часть фотографий не переехала в Этнографический музей?
@@ -71,8 +73,6 @@ fediverse: "@username@instance.url"
 > Over the last few years the Foundation has managed to scan a fair share of the photographs, which will be continuously released via this website and the data base of the Ethnographic Museum, when metadata has been properly added. The Swedish Centenary Fund has supported this work.
 >
 > Requests for using photographs, from the Hedin archives should be directed to:  bildarkiv@etnografiska.se copy to: hakan.wahlquist@svenhedinfoundation.org
-
-<https://svenhedinfoundation.org/collections/>
 
 ![shfoundation.png](shfoundation.png)
 
