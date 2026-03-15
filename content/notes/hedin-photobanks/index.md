@@ -32,7 +32,7 @@ fediverse: "@username@instance.url"
 
 ### Varldskultur Museerna
 
-Шведский Музей Мировой Культуры. Система CARLOTTA-VKM.
+Шведский Музей Мировой Культуры в Гётеборге ([en-wiki](https://en.wikipedia.org/wiki/Museum_of_World_Culture)). Система CARLOTTA-VKM.
 
 <https://collections.smvk.se/carlotta-vkm/web>
 
@@ -44,7 +44,7 @@ fediverse: "@username@instance.url"
 
 ### Museum of Ethnography
 
-Шведский Этнографический Музей. Система CARLOTTA-EM.
+Шведский Этнографический Музей в Стокгольме ([en-wiki](https://en.wikipedia.org/wiki/Museum_of_Ethnography,_Sweden)). Система CARLOTTA-EM.
 
 <https://collections.smvk.se/carlotta-em/web>
 
@@ -73,6 +73,8 @@ fediverse: "@username@instance.url"
 > Requests for using photographs, from the Hedin archives should be directed to:  bildarkiv@etnografiska.se copy to: hakan.wahlquist@svenhedinfoundation.org
 
 <https://svenhedinfoundation.org/collections/>
+
+![shfoundation.png](shfoundation.png)
 
 ## Комментарии
 
