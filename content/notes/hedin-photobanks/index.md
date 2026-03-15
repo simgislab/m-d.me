@@ -6,7 +6,6 @@ description: "Перечень источников фотографий из э
 toc: true
 autonumber: false
 math: false
-draft: true
 tags: ["Гедин","Hedin"]
 showTags: true
 hideBackToTop: false
@@ -57,7 +56,9 @@ fediverse: "@username@instance.url"
 
 ### Sven Hedin Foundation
 
-Описание коллекций Гедина, включая фотографическую.
+Описание коллекций Гедина, включая фотографическую. Судя по разделу Databases, раньше на вебсайте были какие-то каталоги, но теперь осталось только описание коллекций, интерфейсов поиска на сайте нет.
+
+В описании однако упоминается, что часть фотографий не переехала в Этнографический музей?
 
 > The Hedin collection of photographs
 >
