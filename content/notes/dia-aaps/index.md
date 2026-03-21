@@ -103,7 +103,7 @@ fediverse: "@username@instance.url"
 
 Display the Loop plugin’s content. Этот раздел это не раздел в Config builder, в нем всегда включенная и засеренная галка и пустой раздел настройки. Чтобы пройти задачу, нужно нажать гамбургер и выбрать Loop там.
 
-## Medtornic, Riley-link, AAPS
+## Medtornic, RileyLink, AAPS
 
 Официальная инструкция на [androidaps.readthedocs.io](https://androidaps.readthedocs.io/en/latest/CompatiblePumps/MedtronicPump.html).
 
