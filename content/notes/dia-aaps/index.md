@@ -107,10 +107,16 @@ Display the Loop plugin’s content. Этот раздел это не разд�
 
 Официальная инструкция на [androidaps.readthedocs.io](https://androidaps.readthedocs.io/en/latest/CompatiblePumps/MedtronicPump.html).
 
-* Medtronic 722
+* Medtronic 722, Worldwide (868 Mhz)
 * [RileyLink 916MHz (Medtronic) to BLE Bridge](https://getrileylink.org/product/rileylink916) (также можно OrangeLink, EmaLink)
 
 ![medtronic722.png](medtronic722.png "Medtronic 722WWS")
+
+Детали:
+
+* Не хотело коннектиться. Помогло отключить блютус, отключить райли, перезапустить помпу, запустить все обратно.
+* Райли при включении - мигает синим.
+* Райли при успешном подключении к помпе - включает зеленый свет.
 
 ## XDrip+ и Libre 1
 
