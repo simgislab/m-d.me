@@ -103,6 +103,15 @@ fediverse: "@username@instance.url"
 
 Display the Loop plugin’s content. Этот раздел это не раздел в Config builder, в нем всегда включенная и засеренная галка и пустой раздел настройки. Чтобы пройти задачу, нужно нажать гамбургер и выбрать Loop там.
 
+## Medtornic, Riley-link, AAPS
+
+Официальная инструкция на [androidaps.readthedocs.io](https://androidaps.readthedocs.io/en/latest/CompatiblePumps/MedtronicPump.html).
+
+* Medtronic 722
+* [RileyLink 916MHz (Medtronic) to BLE Bridge](https://getrileylink.org/product/rileylink916) (также можно OrangeLink, EmaLink)
+
+![medtronic722.png](medtronic722.png "Medtronic 722WWS")
+
 ## XDrip+ и Libre 1
 
 [Официальный сайт](https://jamorham.github.io/#xdrip-plus) XDrip+.
