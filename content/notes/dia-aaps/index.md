@@ -71,7 +71,7 @@ fediverse: "@username@instance.url"
 
 **BR** (basal rate, units/hour) - поставка фонового инсулина, стабилизирует уровень сахара в отсутствии еды или упражнений.
 
-**ISF** (insulin sensitivity factor, correction factor) - на сколько снизится уровень сахара в кроме на одну единицу инсулина.
+**ISF** (insulin sensitivity factor, correction factor) - на сколько снизится уровень сахара в крови на одну единицу инсулина.
 
     autotune: 4 mmol/L
 
