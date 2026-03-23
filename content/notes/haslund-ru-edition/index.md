@@ -259,7 +259,15 @@ Penguin:
 
 ## Переписка с Sven Hedin Foundation
 
-Запрос 1:
+Отвечает:
+
+> Håkan Wahlquist
+>
+> Keeper the Sven Hedin Foundation in the Royal Swedish Academy of Sciences
+>
+> formerly Sr. Curator Asian Collections in the Museum of Ethnography, Stockholm
+
+Запрос 1 (15.03.2026):
 
 > I am preparing a translation of Henning Haslund-Christensen’s book Zajagan (first published in 1935), and I am trying to identify and obtain high-quality scans of the photographs used in the book for a potential illustrated edition.
 >
@@ -271,9 +279,17 @@ Penguin:
 >
 > Can you please clarify if this is the case and if I can somehow access these photos?
 
-Ответ 1:
+Ответ 1 (23.03.2026):
 
-ждем
+> I believe, I could assist you better. The only problem is that I do not know when I will have time to search for the photos you need. It is a time-consuming piece of work and right now, and at least for a month, probably more,  ahead I am totally blocked by other commitments. What does your time schedule look like?
+
+Запрос 2 (23.03.2026):
+
+> I'm not in a rush at all and will wait as much as needed.
+
+Ответ 2:
+
+ждем месяц
 
 ## Комментарии
 
