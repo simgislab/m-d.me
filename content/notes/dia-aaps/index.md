@@ -128,7 +128,7 @@ Display the Loop plugin’s content. Этот раздел это не разд�
 3. Батарея помпы (pump battery level) --- уровень заряда помпы в %.
 4. Возраст батареи помпы (pump battery age) --- сколько времени прошло с замены батареи. Пример: 0d5h.
 
-![Home2020_StatusLights](https://androidaps.readthedocs.io/en/latest/_images/Home2020_StatusLights.png)
+![Home2020_StatusLights.webp](Home2020_StatusLights.webp)
 
 На картинке: первое справа - 3 и 4, второе справа - 2.
 
