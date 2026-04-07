@@ -16,7 +16,7 @@ fediverse: "@username@instance.url"
 
 Инструкции и заметки по сборке и настройке AndroidAPS (AAPS), Libre, XDrip+ и др.
 
-### Версии
+### Версии и оборудование
 
 Текущие версии используемого ПО:
 
@@ -25,6 +25,13 @@ fediverse: "@username@instance.url"
 * Juggluco 10.7.1
 * Freestyle Libre 2 2.13.0.11566
 * Nightscout 15.0.3 (Railway)
+
+Оборудование:
+
+* Помпа Medtronic 722
+* CGM Libre 2
+* RileyLink
+* Samsung A17
 
 ## Сборка приложения
 
@@ -113,7 +120,7 @@ fediverse: "@username@instance.url"
 
 Display the Loop plugin’s content. Этот раздел это не раздел в Config builder, в нем всегда включенная и засеренная галка и пустой раздел настройки. Чтобы пройти задачу, нужно нажать гамбургер и выбрать Loop там.
 
-## Medtornic, RileyLink, AAPS
+## Medtronic, RileyLink, AAPS
 
 Официальная инструкция на [androidaps.readthedocs.io](https://androidaps.readthedocs.io/en/latest/CompatiblePumps/MedtronicPump.html).
 
