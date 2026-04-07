@@ -16,6 +16,15 @@ fediverse: "@username@instance.url"
 
 Инструкции и заметки по сборке и настройке AndroidAPS (AAPS), Libre, XDrip+ и др.
 
+### Версии
+
+Текущие версии используемого ПО:
+
+* AAPS 3.4.0.0
+* XDrip 2025.09.05 (System Status)
+* Juggluco 10.7.1
+* Freestyle Libre 2 2.13.0.11566
+
 ## Сборка приложения
 
 Инструкция по получению APK AndroidAPS на стационарном компьютере (не телефоне) с минимальными усилиями. Без установки Android Studio в браузере, с помощью Github Actions.
