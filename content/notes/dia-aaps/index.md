@@ -24,6 +24,7 @@ fediverse: "@username@instance.url"
 * XDrip 2025.09.05 (System Status)
 * Juggluco 10.7.1
 * Freestyle Libre 2 2.13.0.11566
+* Nightscout 15.0.3 (Railway)
 
 ## Сборка приложения
 
@@ -35,13 +36,13 @@ fediverse: "@username@instance.url"
 
 * Аккаунт на [Github](https://github.com)
 * Аккаунт на Google (если есть почта на gmail, то аккаунт уже есть)
-* Установить VSCode + расширение Live server
+* Установить VS Code + расширение Live server
 
 ### Первичная сборка Android AAPS
 
 1. Сделать Fork репозитория приложения AAPS. Перейти в [официальный репозиторий](https://github.com/nightscout/AndroidAPS), нажать Fork, адрес форка <https://github.com/simgislab/AndroidAPS>
 2. [Скачать](https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html) aaps-ci-preparation.html. Это страница-хелпер которая поможет сгенерировать KEYSTORE_SET и GDRIVE_OAUTH2. Репозиторий [aaps-ci-preparation](https://github.com/nightscout/aaps-ci-preparation). Текущая версия 1.1.2 Oct 13, 2025.
-3. Открыть в VSCode и запустить страницу в Live server.
+3. Открыть файл aaps-ci-preparation.html в VS Code и запустить страницу в Live server.
 4. Сгенерировать в хелпере KEYSTORE_SET.
 5. Добавить секрет репозитория KEYSTORE_SET со значением выше (Repository secret, не путать с Environment secret) <https://github.com/simgislab/AndroidAPS/settings/secrets/actions>.
 6. Сделать в хелпере Google Drive Auth, нажать Start Auth, выбрать аккаунт, принять предупреждение.
