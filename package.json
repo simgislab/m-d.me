@@ -1,0 +1,20 @@
+{
+  "name": "m-d.me",
+  "private": true,
+  "description": "Content of https://m-d.me.",
+  "scripts": {
+    "build": "hugo --minify",
+    "dev": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simgislab/m-d.me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simgislab/m-d.me/issues"
+  },
+  "homepage": "https://github.com/simgislab/m-d.me#readme",
+  "dependencies": {
+    "photoswipe": "^5.4.4"
+  }
+}

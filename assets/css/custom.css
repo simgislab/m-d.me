@@ -4,3 +4,44 @@
   margin-right: auto;
   margin-top: 1rem;
 }
+
+.single-content figure .img-container > img {
+  cursor: zoom-in;
+}
+
+.single-content figure .img-container > img:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+.pswp__custom-caption[hidden] {
+  display: none;
+}
+
+.pswp__custom-caption {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 2.5rem 1rem 1rem;
+  color: #fff;
+  text-align: center;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0));
+  font-size: 0.95rem;
+  line-height: 1.5;
+  pointer-events: auto;
+}
+
+.pswp__custom-caption a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+@media (max-width: 640px) {
+  .pswp__custom-caption {
+    font-size: 0.875rem;
+    padding-right: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 0.75rem;
+  }
+}

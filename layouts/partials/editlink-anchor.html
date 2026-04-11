@@ -1,0 +1,13 @@
+{{- $data := . -}}
+{{- with $data.page.File -}}
+  {{- $relativePath := replace .Path "\\" "/" -}}
+  {{- $repoPath := path.Join "content" $relativePath -}}
+  {{- $editURL := urls.JoinPath "https://github.com/simgislab/m-d.me/edit/main" $repoPath -}}
+  <a
+    href="{{ $editURL }}"
+    {{- with $data.class }} class="{{ . }}"{{- end }}
+    {{- with $data.ariaLabel }} aria-label="{{ . }}"{{- end }}
+    {{- with $data.title }} title="{{ . }}"{{- end }}>
+    {{- with $data.label }}<span>{{ . }}</span>{{- end }}
+  </a>
+{{- end -}}

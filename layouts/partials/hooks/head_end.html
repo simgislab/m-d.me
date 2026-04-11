@@ -1,3 +1,9 @@
+{{- with resources.Get "photoswipe/dist/photoswipe.css" -}}
+{{- with . | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+{{- end -}}
+{{- end -}}
+
 <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.nextgis.net/js/pa-69zHSppdpHBpKDdZ4_jpx.js"></script>
 <script>
