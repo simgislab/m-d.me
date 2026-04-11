@@ -5,6 +5,82 @@
   margin-top: 1rem;
 }
 
+.single-layout--with-toc {
+  display: grid;
+  gap: 2rem;
+}
+
+.single-article {
+  min-width: 0;
+}
+
+.single-toc {
+  min-width: 0;
+  color: var(--content-secondary);
+}
+
+.single-toc__title {
+  margin-bottom: 0.85rem;
+  color: var(--content-primary);
+}
+
+.single-toc__nav,
+.single-toc__nav nav,
+.single-toc__nav ul,
+.single-toc__nav li {
+  min-width: 0;
+}
+
+.single-toc__nav {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.single-toc__nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.single-toc__nav ul ul {
+  margin-left: 0.9rem;
+}
+
+.single-toc__nav li {
+  margin: 0;
+}
+
+.single-toc__nav a {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  padding: 0.24rem 0.35rem 0.24rem 0.85rem;
+  border-left: 2px solid transparent;
+  color: inherit;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  transition:
+    color 0.18s ease,
+    border-color 0.18s ease,
+    background-color 0.18s ease;
+}
+
+.single-toc__nav li.is-active-ancestor > a {
+  color: var(--content-primary);
+}
+
+.single-toc__nav a.is-active {
+  color: var(--content-primary);
+  border-left-color: var(--content-primary);
+  background: color-mix(in srgb, var(--code-background) 75%, transparent);
+}
+
+.single-content h2[id],
+.single-content h3[id],
+.single-content h4[id] {
+  scroll-margin-top: 1.25rem;
+}
+
 .single-content figure .img-container > img {
   cursor: zoom-in;
 }
@@ -43,5 +119,29 @@
     padding-right: 0.75rem;
     padding-bottom: 0.75rem;
     padding-left: 0.75rem;
+  }
+}
+
+@media (min-width: 1100px) {
+  body:has(.single-layout--with-toc) {
+    max-width: 1160px;
+  }
+
+  .single-layout--with-toc {
+    grid-template-columns: minmax(0, 1fr) minmax(15rem, 18rem);
+    gap: clamp(2rem, 4vw, 4rem);
+    align-items: start;
+  }
+
+  .single-toc {
+    position: sticky;
+    top: 1.5rem;
+    max-height: calc(100vh - 3rem);
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-top: 1rem;
+    padding-left: 1rem;
+    border-left: 1px solid var(--code-border);
+    scrollbar-width: thin;
   }
 }

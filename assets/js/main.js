@@ -118,8 +118,136 @@ function initImageGallery() {
   });
 }
 
+function decodeHeadingId(hash) {
+  const rawId = hash.replace(/^#/, '');
+
+  if (!rawId) {
+    return '';
+  }
+
+  try {
+    return decodeURIComponent(rawId);
+  } catch {
+    return rawId;
+  }
+}
+
+function initArticleToc() {
+  const tocSidebar = document.querySelector('[data-toc-sidebar]');
+
+  if (!tocSidebar) {
+    return;
+  }
+
+  const tocLinks = Array.from(tocSidebar.querySelectorAll('a[href^="#"]'));
+  const tocItems = tocLinks
+    .map((link) => {
+      const target = document.getElementById(decodeHeadingId(link.hash));
+
+      if (!target) {
+        return null;
+      }
+
+      return { link, target };
+    })
+    .filter(Boolean);
+
+  if (!tocItems.length) {
+    tocSidebar.hidden = true;
+    return;
+  }
+
+  let activeLink = null;
+  let rafId = null;
+
+  const clearTocState = () => {
+    tocLinks.forEach((link) => {
+      link.classList.remove('is-active');
+      link.removeAttribute('aria-current');
+
+      const listItem = link.closest('li');
+
+      if (listItem) {
+        listItem.classList.remove('is-active', 'is-active-ancestor');
+      }
+    });
+  };
+
+  const setActiveLink = (nextLink) => {
+    if (!nextLink || nextLink === activeLink) {
+      return;
+    }
+
+    clearTocState();
+
+    nextLink.classList.add('is-active');
+    nextLink.setAttribute('aria-current', 'true');
+
+    let listItem = nextLink.closest('li');
+
+    if (listItem) {
+      listItem.classList.add('is-active');
+    }
+
+    while (listItem) {
+      listItem = listItem.parentElement?.closest('li');
+
+      if (listItem) {
+        listItem.classList.add('is-active-ancestor');
+      }
+    }
+
+    nextLink.scrollIntoView({ block: 'nearest', inline: 'nearest' });
+    activeLink = nextLink;
+  };
+
+  const updateActiveLink = () => {
+    const topOffset = window.scrollY + 160;
+    let nextItem = tocItems[0];
+
+    tocItems.forEach((item) => {
+      if (item.target.offsetTop <= topOffset) {
+        nextItem = item;
+      }
+    });
+
+    if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 4) {
+      nextItem = tocItems[tocItems.length - 1];
+    }
+
+    setActiveLink(nextItem.link);
+  };
+
+  const requestUpdate = () => {
+    if (rafId !== null) {
+      return;
+    }
+
+    rafId = window.requestAnimationFrame(() => {
+      rafId = null;
+      updateActiveLink();
+    });
+  };
+
+  window.addEventListener('scroll', requestUpdate, { passive: true });
+  window.addEventListener('resize', requestUpdate);
+  window.addEventListener('hashchange', requestUpdate);
+
+  tocLinks.forEach((link) => {
+    link.addEventListener('click', () => {
+      window.requestAnimationFrame(requestUpdate);
+    });
+  });
+
+  requestUpdate();
+}
+
 if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', initImageGallery, { once: true });
+  document.addEventListener('DOMContentLoaded', () => {
+    initImageGallery();
+    initArticleToc();
+  }, { once: true });
 } else {
   initImageGallery();
+  initArticleToc();
 }

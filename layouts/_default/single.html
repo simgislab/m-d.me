@@ -8,68 +8,72 @@
 
 <div {{ if .Param "autonumber" }} class="autonumber" {{ end }}>
 
-  <div class="single-intro-container">
+  <div class="single-layout{{ if .Param "toc" }} single-layout--with-toc{{ end }}">
+    <article class="single-article">
+      <div class="single-intro-container">
 
-    {{/* Title and Summary */}}
+        {{/* Title and Summary */}}
 
-    <h1 class="single-title">{{ .Title }}</h1>
-    {{ with .Param "summary" }}
-    <p class="single-summary">{{ . | markdownify }}</p>
-    {{ end }}
+        <h1 class="single-title">{{ .Title }}</h1>
+        {{ with .Param "summary" }}
+        <p class="single-summary">{{ . | markdownify }}</p>
+        {{ end }}
 
-    {{/* Reading Time */}}
+        {{/* Reading Time */}}
 
-    <p class="single-readtime">
-      {{ partial "editlinkshort.html" . }}
-      {{ with .Date }}
-      {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
-      {{ $dateHuman := . | time.Format (default ":date_long" $.Site.Params.singleDateFormat) }}
-      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-      {{end}}
+        <p class="single-readtime">
+          {{ partial "editlinkshort.html" . }}
+          {{ with .Date }}
+          {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
+          {{ $dateHuman := . | time.Format (default ":date_long" $.Site.Params.singleDateFormat) }}
+          <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+          {{end}}
 
-      {{ if .Param "readTime" }}
-      &nbsp; · &nbsp;
-      {{ .ReadingTime }} min read
-      {{end }}
-    </p>
+          {{ if .Param "readTime" }}
+          &nbsp; · &nbsp;
+          {{ .ReadingTime }} min read
+          {{end }}
+        </p>
 
-  </div>
+      </div>
 
-  {{ if .Param "showTags" }}
+      {{ if .Param "showTags" }}
 
-  {{ $taxonomy := "tags" }}
-  {{ with .Param $taxonomy }}
+      {{ $taxonomy := "tags" }}
+      {{ with .Param $taxonomy }}
 
-  <div class="single-tags">
-    {{ range $index, $tag := . }}
-    {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
-    <span>
-      <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
-    </span>
-    {{ end }}
-    {{ end }}
-  </div>
+      <div class="single-tags">
+        {{ range $index, $tag := . }}
+        {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
+        <span>
+          <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+        </span>
+        {{ end }}
+        {{ end }}
+      </div>
 
-  {{ end }}
-  {{ end }}
+      {{ end }}
+      {{ end }}
 
-  {{/* Table of Content */}}
+      {{/* Page content */}}
 
-  {{ if .Param "toc" }}
-  <aside class="toc">
-    <p><strong>Table of contents</strong></p>
-    {{ .TableOfContents }}
-  </aside>
-  {{ end }}
+      <div class="single-content">
+        {{ .Content }}
+        {{ if .Site.Params.giscus.enable }}
+        {{ if not .Params.disableComment }}
+        {{ partial "comments.html" . }}
+        {{ end }}
+        {{ end }}
+      </div>
+    </article>
 
-  {{/* Page content */}}
-
-  <div class="single-content">
-    {{ .Content }}
-    {{ if .Site.Params.giscus.enable }}
-    {{ if not .Params.disableComment }}
-    {{ partial "comments.html" . }}
-    {{ end }}
+    {{ if .Param "toc" }}
+    <aside class="toc single-toc" data-toc-sidebar>
+      <p class="single-toc__title"><strong>Table of contents</strong></p>
+      <div class="single-toc__nav" data-toc-nav>
+        {{ .TableOfContents }}
+      </div>
+    </aside>
     {{ end }}
   </div>
 
