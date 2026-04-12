@@ -33,17 +33,17 @@ fediverse: "@username@instance.url"
 * RileyLink
 * Samsung A17
 
-## Сборка приложения
+## Сборка приложения AAPS
 
 Инструкция по получению APK AndroidAPS на стационарном компьютере (не телефоне) с минимальными усилиями. Без установки Android Studio в браузере, с помощью Github Actions.
 
 [Официальная инструкция по сборке в браузере](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/BrowserBuild.html).
 
-### Что нужно для сборки приложения
+### Что нужно для сборки приложения AAPS
 
 * Аккаунт на [Github](https://github.com)
 * Аккаунт на Google (если есть почта на gmail, то аккаунт уже есть)
-* Установить VS Code + расширение Live server
+* Установить [VS Code](https://code.visualstudio.com/download) + расширение Live server
 
 ### Первичная сборка Android AAPS
 
@@ -76,7 +76,7 @@ fediverse: "@username@instance.url"
 
 * Замечено периодическое падение сборки на этапе Build APKs, 403 ошибки gradle. Помогает простой перезапуск сборки.
 
-## Настройки
+## Настройки AAPS
 
 ### Профиль
 
@@ -301,6 +301,16 @@ Settings - Data Sync - Cloud Upload - Nightscout Sync (REST-API)
 * Включить REST API
 * Use mobile data
 * Base URL: <https://password@hostname/api/v1/>, обязательно нужен слэш в конце. Обратить внимание, что если просто использовать эту ссылку в браузере, то он ответит Cannot GET /api/v1/ (но работать будет)
+
+### Очистка базы данных
+
+Размер базы данных показывается когда включен плагин Database Size. Если он не включен - включите, для этого нужно авторизоваться с Nightscout.
+
+![ns-plugins.png](ns-plugins.png)
+
+Если размер базы данных достиг 90% и выше, пора ее чистить.
+
+![ns-large-db.png](ns-large-db.png)
 
 ## Комментарии
 
