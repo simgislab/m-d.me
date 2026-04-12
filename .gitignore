@@ -1,6 +1,7 @@
 todo.md
 .vscode/
 node_modules/
+resources/
 content/notes/ornok-gallery/images/*
 public/*
 update*

@@ -1,0 +1,61 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $imgURL := $u.String -}}
+{{- $imgResource := .Page.Scratch.Get "typoNilVariable" -}}
+
+{{- if $u.Fragment -}}
+  {{- $imgURL = replace $imgURL (printf "#%s" $u.Fragment) "" -}}
+{{- end -}}
+
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- if .PageInner.Resources -}}
+    {{- $imgResource = .PageInner.Resources.Get $path -}}
+  {{- else if (or .PageInner.Parent .PageInner.Parent.Resources) -}}
+    {{- $imgResource = .PageInner.Parent.Resources.Get $path -}}
+  {{- end -}}
+  {{- $imgResource = or $imgResource (resources.Get $path) -}}
+  {{- with $imgResource -}}
+    {{- $imgURL = .RelPermalink -}}
+  {{- end -}}
+  {{- with $u.RawQuery -}}
+    {{- $imgURL = printf "%s?%s" $imgURL . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $classes := slice -}}
+{{- range split $u.Fragment "#" -}}
+  {{- if . -}}
+    {{- $classes = $classes | append (printf "img-%s" .) -}}
+  {{- end -}}
+{{- end -}}
+{{- $classAttr := delimit $classes " " -}}
+
+{{- $isRasterResource := and $imgResource (not (in (slice "gif" "svg") $imgResource.MediaType.SubType)) -}}
+
+{{- if and .IsBlock $isRasterResource -}}
+  {{- partial "picture.html" (dict
+    "resource" $imgResource
+    "alt" .Text
+    "caption" .Title
+    "classes" $classAttr
+  ) -}}
+{{- else if .IsBlock -}}
+<figure{{ with $classAttr }} class="{{ . }}"{{ end }}>
+  <img
+    loading="lazy"
+    decoding="async"
+    alt="{{ .Text }}"
+    src="{{ $imgURL | safeURL }}"
+    {{- with $imgResource }} width="{{ .Width }}" height="{{ .Height }}"{{ end -}}>
+  {{- with .Title }}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+</figure>
+{{- else -}}
+<img
+  loading="lazy"
+  decoding="async"
+  alt="{{ .Text }}"
+  src="{{ $imgURL | safeURL }}"
+  {{- with $imgResource }} width="{{ .Width }}" height="{{ .Height }}"{{ end -}}>
+{{- end -}}

@@ -92,14 +92,82 @@
   scroll-margin-top: 1.25rem;
 }
 
-.single-content figure .img-container {
-  width: min(100%, calc(var(--w) * 1px));
+.single-content figure.single-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
 }
 
+.single-content .single-image__picture {
+  position: relative;
+  display: inline-flex;
+  width: fit-content;
+  max-width: 100%;
+  margin-inline: auto;
+  overflow: hidden;
+  background: var(--code-background);
+}
+
+.single-content .single-image__preview {
+  position: absolute;
+  inset: 0;
+  display: block;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transform: scale(1.04);
+  transition: opacity 0.35s ease;
+  pointer-events: none;
+}
+
+.single-content .single-image__picture > img {
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+
+.single-content .single-image__picture.is-loaded > img,
+.single-content .single-image__picture.is-error > img {
+  opacity: 1;
+}
+
+.single-content .single-image__picture.is-loaded > .single-image__preview,
+.single-content .single-image__picture.is-error > .single-image__preview {
+  opacity: 0;
+}
+
+.single-content figure.single-image figcaption {
+  width: 100%;
+  text-align: center;
+}
+
+.single-content figure.single-image.img-small .single-image__picture {
+  max-width: 80%;
+}
+
+.single-content figure.single-image.img-small .single-image__picture > img {
+  max-height: calc(var(--figure-img-max-height) * 0.8);
+}
+
+.single-content figure.single-image.img-full .single-image__picture {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  max-width: 100vw;
+}
+
+.single-content figure.single-image.img-full .single-image__picture > img {
+  width: 100vw;
+  max-width: 100vw;
+  height: auto;
+}
+
+.single-content .single-image__picture > img,
 .single-content figure .img-container > img {
   cursor: zoom-in;
 }
 
+.single-content .single-image__picture > img:focus-visible,
 .single-content figure .img-container > img:focus-visible {
   outline: 2px solid currentColor;
   outline-offset: 4px;
