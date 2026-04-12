@@ -68,12 +68,40 @@
     </article>
 
     {{ if .Param "toc" }}
+    {{ $toc := .TableOfContents }}
     <aside class="toc single-toc" data-toc-sidebar>
       <p class="single-toc__title"><strong>Table of contents</strong></p>
       <div class="single-toc__nav" data-toc-nav>
-        {{ .TableOfContents }}
+        {{ $toc }}
       </div>
     </aside>
+
+    <button
+      class="single-toc-mobile-toggle"
+      type="button"
+      data-toc-mobile-toggle
+      aria-controls="single-toc-mobile"
+      aria-expanded="false"
+      aria-label="Open table of contents">
+      <span class="single-toc-mobile-toggle__icon" aria-hidden="true">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    </button>
+
+    <div class="single-toc-mobile" id="single-toc-mobile" data-toc-mobile hidden>
+      <button class="single-toc-mobile__backdrop" type="button" data-toc-mobile-close aria-label="Close"></button>
+      <div class="single-toc-mobile__panel" role="dialog" aria-modal="true" aria-label="Table of contents">
+        <div class="single-toc-mobile__header">
+          <p class="single-toc-mobile__title"><strong>Table of contents</strong></p>
+          <button class="single-toc-mobile__close" type="button" data-toc-mobile-close>Close</button>
+        </div>
+        <div class="single-toc-mobile__nav" data-toc-mobile-nav>
+          {{ replace $toc `id="TableOfContents"` `id="TableOfContentsMobile"` | safeHTML }}
+        </div>
+      </div>
+    </div>
     {{ end }}
   </div>
 
