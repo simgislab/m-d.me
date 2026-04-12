@@ -358,6 +358,12 @@ EN: изображение есть, но подписи - нет
 
 RU: Рядом — его подпись.
 
+Иероглифы и перевод:
+
+落音剌林 --- Лоиньлалинь или 諾音喇嘛 --- Nuoyin Lama / Нойон-лама. Джа-лама носил титул Сайд-**нойон**-хутухта ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0-%D0%BB%D0%B0%D0%BC%D0%B0)).
+
+在描中有失真 --- «В прорисовке есть неточности», последний иероглиф может быть 西, но смысла это не добавляет.
+
 ### Тяжёлые силуэты всадников
 
 ![haslund-zajagan-all-photos_11_1.jpg](haslund-zajagan-all-photos_11_1.jpg "„Rytternes tunge Silhouetter dukkede frem af den røde Sandtaage“. Hempel fot.")
