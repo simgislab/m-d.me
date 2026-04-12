@@ -112,6 +112,8 @@ fediverse: "@username@instance.url"
 
 ### Objectives/Цели
 
+Если застряли на экзамене и он сильно стал раздражать своей неадекватностью (как меня) --- напишите, я скажу где взять все ответы на вопросы.
+
 ### Objective 1
 
 Чтобы пройти задачу "Pump status available in NS or Tidepool" нужно чтобы в сборке NightScout был pump и другие переменные описанные в [настройках](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/Nightscout.html#manual-nightscout-setup). Если их нет, то требуется изменение переменных среды и пересборка.
