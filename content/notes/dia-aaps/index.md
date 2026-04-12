@@ -220,7 +220,7 @@ XDrip+ устанавливается из [последней ночной сб
 >
 > ⏰: Let Juggluco use an alarm clock function to ensure the correct timing of connecting to Dexcom G7 and ONE+ sensors. Without it, when the device is in deep sleep when not used, it will sometimes not awake to reconnect to the sensor and it will not immediately receive a glucose value. My WearOS watch had this problem in the middle of the night, probably because I moved very little. Because of backfill afterwards and slow awakening, I didn’t see it on the watch and phone, only in the log files. My phone doesn’t need this setting and seems to perform worse when it turned on.
 >
-> Permission: Previous versions of Juggluco required location permission to find the device address of the sensor. This is no longer necessary for the sensors I use. Maybe there are still sensors out there for which it is necessary; in that case you can turn it on. After the first contact Juggluco http://127.0.0.1:17580/hallo/x/stream saves the device address and location permission is always useless. The device address, if known, is displayed after the sensor identifier. Red means a US-like sensor. Android 12 has a new Nearby devices permission, which can be used instead of location permission for searching for a Bluetooth device address, but it is also needed for later contact with Bluetooth devices.
+> Permission: Previous versions of Juggluco required location permission to find the device address of the sensor. This is no longer necessary for the sensors I use. Maybe there are still sensors out there for which it is necessary; in that case you can turn it on. After the first contact Juggluco <http://127.0.0.1:17580/hallo/x/stream> saves the device address and location permission is always useless. The device address, if known, is displayed after the sensor identifier. Red means a US-like sensor. Android 12 has a new Nearby devices permission, which can be used instead of location permission for searching for a Bluetooth device address, but it is also needed for later contact with Bluetooth devices.
 >
 > Forget: Let Juggluco forget the device address and scan for the device address. For some sensors this is needed to get a connection and is then done automatically by Juggluco. With this button you can manually say that Juggluco should do that, because there are maybe other occasions in which it is also needed.
 >
@@ -302,15 +302,47 @@ Settings - Data Sync - Cloud Upload - Nightscout Sync (REST-API)
 * Use mobile data
 * Base URL: <https://password@hostname/api/v1/>, обязательно нужен слэш в конце. Обратить внимание, что если просто использовать эту ссылку в браузере, то он ответит Cannot GET /api/v1/ (но работать будет)
 
+### База данных Nightscout
+
+NS хранит данные в БД MongoDB. База может располагаться на своем сервере или в облаке --- MongoDB Atlas.
+
+В кластере (набор БД) есть база данных heroku_xx777xxx, в ней таблицы (т.н. "коллекции"). Основные данные (т.н. "документы") лежат в:
+
+* devicestatus - с 2018 накопилось 243537 записей (если оставить 30 дней, то будет удалено 225904)
+* entries - c 2019 года накопилось 849145 записей
+
+### Полный бэкап базы
+
+Полезно если хотите иметь возможность все потом восстановить как было.
+
+1. Скачиваем и ставим [MongoDB Database Tools](https://www.mongodb.com/try/download/database-tools)
+2. Запускаем mongodump. Строку подключения берем из переменных NS, обрезаем до ...net/
+
+Строка подключения выглядит примерно так:
+
+> mongodb+srv://heroku_xx777xxx:4vqss5tn444vfi@cluster-xx777xxx.ha6za.mongodb.net/xx777xxx?retryWrites=true&w=majority
+
+Итого команда:
+
+> mongodump --uri="mongodb+srv://heroku_xx777xxx:4vqss5tn444vfi@cluster-xx777xxx.ha6za.mongodb.net/" --archive=backup-2026-04-12.gz --gzip
+
 ### Очистка базы данных
 
 Размер базы данных показывается когда включен плагин Database Size. Если он не включен - включите, для этого нужно авторизоваться с Nightscout.
 
 ![ns-plugins.png](ns-plugins.png)
 
-Если размер базы данных достиг 90% и выше, пора ее чистить.
+Если размер базы данных достиг 90% и выше (на иллюстрации 93), пора ее чистить.
 
 ![ns-large-db.png](ns-large-db.png)
+
+Для этого:
+
+1. Открываем панель Nighscout
+2. Авторизуемся
+3. Открываем Admin tools
+4. Находим раздел: Clean Mongo entries (glucose entries) database и выбираем количество дней которые хотим оставить.
+5. Альтернативно: делаем тоже самое для devicestatus.
 
 ## Комментарии
 
