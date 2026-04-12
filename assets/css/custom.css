@@ -92,6 +92,10 @@
   scroll-margin-top: 1.25rem;
 }
 
+.single-content figure .img-container {
+  width: min(100%, calc(var(--w) * 1px));
+}
+
 .single-content figure .img-container > img {
   cursor: zoom-in;
 }
