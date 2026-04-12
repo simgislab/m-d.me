@@ -1,6 +1,6 @@
 # m-d.me
 
-Content of <https://m-d.me>.
+Contents of <https://m-d.me>.
 
 Content edits are welcome as pull-requests.
 
