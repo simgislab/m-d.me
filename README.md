@@ -38,4 +38,4 @@ The generated static files are written to `public/`.
 
 Content is licensed under CC-BY-SA 4.0.
 
-Contact: <m.y.dubinin@gmail.com>
+Contact: <maxim.dubinin@nextgis.com>
