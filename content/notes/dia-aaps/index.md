@@ -1,8 +1,8 @@
 ---
-title: "AAPS: cборка и настройка"
+title: "AAPS, XDrip+, Juggluco, Nightscout"
 date: "2025-10-24"
-summary: "Сборка и настройка приложения AAPS для Android для мониторинга сахара."
-description: "Сборка и настройка приложения AAPS для Android для мониторинга сахара."
+summary: "Сборка и настройка приложения AAPS для Android. настройка и работа с XDrip+, Juggluco, Nightscout."
+description: "Сборка и настройка приложения AAPS для Android. настройка и работа с XDrip+, Juggluco, Nightscout."
 toc: true
 autonumber: false
 math: false
