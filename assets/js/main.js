@@ -1,10 +1,41 @@
 import PhotoSwipe from 'photoswipe';
 import PhotoSwipeLightbox from 'photoswipe/lightbox';
 
-const imageSelector = '.single-content figure .img-container > img';
+const imageSelector = '.single-content figure .single-image__picture > img, .single-content figure .img-container > img';
+
+function initProgressiveImages() {
+  const pictures = Array.from(document.querySelectorAll('[data-progressive-image]'));
+
+  pictures.forEach((picture) => {
+    const image = picture.querySelector('img');
+
+    if (!image) {
+      return;
+    }
+
+    const markLoaded = () => {
+      picture.classList.add('is-loaded');
+    };
+
+    if (image.complete && image.naturalWidth > 0) {
+      markLoaded();
+      return;
+    }
+
+    image.addEventListener('load', markLoaded, { once: true });
+    image.addEventListener(
+      'error',
+      () => {
+        picture.classList.add('is-error');
+      },
+      { once: true }
+    );
+  });
+}
 
 function getImageDimension(image, attrName, naturalProp, fallback) {
   return (
+    Number(image.dataset[`gallery${attrName[0].toUpperCase()}${attrName.slice(1)}`]) ||
     Number(image.getAttribute(attrName)) ||
     image[naturalProp] ||
     Math.round(image.getBoundingClientRect()[attrName]) ||
@@ -16,9 +47,10 @@ function buildGalleryItems(images) {
   return images.map((image) => {
     const figure = image.closest('figure');
     const caption = figure ? figure.querySelector('figcaption') : null;
+    const src = image.dataset.gallerySrc || image.currentSrc || image.src;
 
     return {
-      src: image.currentSrc || image.src,
+      src,
       msrc: image.currentSrc || image.src,
       alt: image.getAttribute('alt') || '',
       width: getImageDimension(image, 'width', 'naturalWidth', 1600),
@@ -327,10 +359,12 @@ function initArticleToc() {
 
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', () => {
+    initProgressiveImages();
     initImageGallery();
     initArticleToc();
   }, { once: true });
 } else {
+  initProgressiveImages();
   initImageGallery();
   initArticleToc();
 }

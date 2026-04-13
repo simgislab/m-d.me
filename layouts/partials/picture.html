@@ -1,0 +1,76 @@
+{{- $resource := .resource -}}
+{{- $alt := .alt | default "" -}}
+{{- $caption := .caption -}}
+{{- $classes := .classes | default "" -}}
+{{- $sizes := .sizes | default "(min-width: 1100px) 780px, calc(100vw - 2.8rem)" -}}
+
+{{- $previewWidth := 96 -}}
+{{- if lt $resource.Width $previewWidth -}}
+  {{- $previewWidth = $resource.Width -}}
+{{- end -}}
+
+{{- $preview := $resource.Resize (printf "%dx webp q30" $previewWidth) -}}
+{{- $preview = $preview.Filter (images.GaussianBlur 6) -}}
+
+{{- $widthCandidates := slice 360 540 780 1200 1600 -}}
+{{- $fallbackSrcset := slice -}}
+{{- $webpSrcset := slice -}}
+
+{{- range $widthCandidates -}}
+  {{- if lt . $resource.Width -}}
+    {{- $resized := $resource.Resize (printf "%dx q92" .) -}}
+    {{- $fallbackSrcset = $fallbackSrcset | append (printf "%s %dw" $resized.RelPermalink $resized.Width) -}}
+    {{- if ne $resource.MediaType.SubType "webp" -}}
+      {{- $resizedWebp := $resource.Resize (printf "%dx webp q82" .) -}}
+      {{- $webpSrcset = $webpSrcset | append (printf "%s %dw" $resizedWebp.RelPermalink $resizedWebp.Width) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $fallbackSrcset = $fallbackSrcset | append (printf "%s %dw" $resource.RelPermalink $resource.Width) -}}
+{{- if ne $resource.MediaType.SubType "webp" -}}
+  {{- $originalWebp := $resource.Resize (printf "%dx webp q82" $resource.Width) -}}
+  {{- $webpSrcset = $webpSrcset | append (printf "%s %dw" $originalWebp.RelPermalink $originalWebp.Width) -}}
+{{- end -}}
+
+<figure class="single-image{{ with $classes }} {{ . }}{{ end }}">
+  <picture class="single-image__picture" data-progressive-image>
+    <span
+      class="single-image__preview"
+      style="background-image: url('{{ $preview.RelPermalink }}');"></span>
+    {{- with $webpSrcset }}
+    <source type="image/webp" srcset="{{ delimit . ", " }}" sizes="{{ $sizes }}">
+    {{- end }}
+    <img
+      src="{{ $resource.RelPermalink }}"
+      srcset="{{ delimit $fallbackSrcset ", " }}"
+      sizes="{{ $sizes }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+      decoding="async"
+      width="{{ $resource.Width }}"
+      height="{{ $resource.Height }}"
+      data-gallery-src="{{ $resource.RelPermalink }}"
+      data-gallery-width="{{ $resource.Width }}"
+      data-gallery-height="{{ $resource.Height }}">
+  </picture>
+  {{- with $caption }}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+  <noscript>
+    <picture class="single-image__picture single-image__picture--noscript">
+      {{- with $webpSrcset }}
+      <source type="image/webp" srcset="{{ delimit . ", " }}" sizes="{{ $sizes }}">
+      {{- end }}
+      <img
+        src="{{ $resource.RelPermalink }}"
+        srcset="{{ delimit $fallbackSrcset ", " }}"
+        sizes="{{ $sizes }}"
+        alt="{{ $alt }}"
+        loading="lazy"
+        decoding="async"
+        width="{{ $resource.Width }}"
+        height="{{ $resource.Height }}">
+    </picture>
+  </noscript>
+</figure>
