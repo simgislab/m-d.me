@@ -1,5 +1,5 @@
 ---
-title: "Статья и карта Семенова-Тян-Шанского в PGM."
+title: "Статья и карта Семенова-Тян-Шанского в PGM"
 date: "2025-04-19"
 summary: "Полная версия статьи и карты Семенова-Тян-Шанского в Petermanns Geographische Mitteilungen."
 description: "Полная версия статьи и карты Семенова-Тян-Шанского в Petermanns Geographische Mitteilungen."
