@@ -57,5 +57,12 @@
   decoding="async"
   alt="{{ .Text }}"
   src="{{ $imgURL | safeURL }}"
-  {{- with $imgResource }} width="{{ .Width }}" height="{{ .Height }}"{{ end -}}>
+  {{- with $imgResource }} width="{{ .Width }}" height="{{ .Height }}"{{ end -}}
+  {{- if $isRasterResource -}}
+  data-gallery-src="{{ $imgURL | safeURL }}"
+  data-gallery-width="{{ $imgResource.Width }}"
+  data-gallery-height="{{ $imgResource.Height }}"
+  {{- with .Title }} data-gallery-caption="{{ . }}"{{ end -}}
+  {{- end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}>
 {{- end -}}
