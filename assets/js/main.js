@@ -1,7 +1,7 @@
 import PhotoSwipe from 'photoswipe';
 import PhotoSwipeLightbox from 'photoswipe/lightbox';
 
-const imageSelector = '.single-content figure .single-image__picture > img, .single-content figure .img-container > img';
+const imageSelector = '.single-content img[data-gallery-src], .single-content figure .img-container > img';
 
 function initProgressiveImages() {
   const pictures = Array.from(document.querySelectorAll('[data-progressive-image]'));
@@ -48,6 +48,7 @@ function buildGalleryItems(images) {
     const figure = image.closest('figure');
     const caption = figure ? figure.querySelector('figcaption') : null;
     const src = image.dataset.gallerySrc || image.currentSrc || image.src;
+    const captionText = image.dataset.galleryCaption || image.getAttribute('title') || '';
 
     return {
       src,
@@ -56,6 +57,7 @@ function buildGalleryItems(images) {
       width: getImageDimension(image, 'width', 'naturalWidth', 1600),
       height: getImageDimension(image, 'height', 'naturalHeight', 1200),
       captionHTML: caption ? caption.innerHTML.trim() : '',
+      captionText,
       element: image
     };
   });
@@ -73,10 +75,17 @@ function registerCaption(lightbox) {
         const updateCaption = () => {
           const slide = pswp.currSlide;
           const captionHTML = slide?.data?.captionHTML;
+          const captionText = slide?.data?.captionText || '';
           const alt = slide?.data?.alt || '';
 
           if (captionHTML) {
             el.innerHTML = captionHTML;
+            el.hidden = false;
+            return;
+          }
+
+          if (captionText) {
+            el.textContent = captionText;
             el.hidden = false;
             return;
           }
@@ -137,7 +146,8 @@ function initImageGallery() {
       image.alt ? `Открыть изображение: ${image.alt}` : 'Открыть изображение'
     );
 
-    image.addEventListener('click', () => {
+    image.addEventListener('click', (event) => {
+      event.preventDefault();
       lightbox.loadAndOpen(index);
     });
 

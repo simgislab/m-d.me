@@ -1,8 +1,13 @@
+img {
+  height: auto;
+}
+
 .home-intro-image {
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 1rem;
+  height: auto;
 }
 
 .single-layout--with-toc {
@@ -162,12 +167,12 @@
   height: auto;
 }
 
-.single-content .single-image__picture > img,
+.single-content img[data-gallery-src],
 .single-content figure .img-container > img {
   cursor: zoom-in;
 }
 
-.single-content .single-image__picture > img:focus-visible,
+.single-content img[data-gallery-src]:focus-visible,
 .single-content figure .img-container > img:focus-visible {
   outline: 2px solid currentColor;
   outline-offset: 4px;
