@@ -47,6 +47,8 @@ fediverse: "@username@instance.url"
 
 ### Первичная сборка Android AAPS
 
+Здесь и в следующем разделе, во всех ссылках на Github - simgislab это мой аккаунт, у вас должен быть свой.
+
 1. Сделать Fork репозитория приложения AAPS. Перейти в [официальный репозиторий](https://github.com/nightscout/AndroidAPS), нажать Fork, адрес форка <https://github.com/simgislab/AndroidAPS>
 2. [Скачать](https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html) aaps-ci-preparation.html. Это страница-хелпер которая поможет сгенерировать KEYSTORE_SET и GDRIVE_OAUTH2. Репозиторий [aaps-ci-preparation](https://github.com/nightscout/aaps-ci-preparation). Текущая версия 1.1.2 Oct 13, 2025.
 3. Открыть файл aaps-ci-preparation.html в VS Code и запустить страницу в Live server.
@@ -67,14 +69,24 @@ fediverse: "@username@instance.url"
 
 При условии, что успешно выполнено всё, что выше.
 
-1. В репозитории форка выбрать Sync fork
-2. Выбрать Actions в репозитории с форком (или перейти по ссылке <https://github.com/simgislab/AndroidAPS/actions>)
-3. All workflows -> AAPS CI -> Run workflow. Branch: master, Build: FullRelease
-4. Дождитесь результата, файл APK появится в [личном Google Drive](https://drive.google.com/drive/my-drive), в папке AAPS.
+1. В репозитории форка <https://github.com/simgislab/AndroidAPS> выбрать Sync fork
+2. Нажать Update branch.
+3. В репозитории с форком в верхнем меню выбрать Actions или перейти по ссылке <https://github.com/simgislab/AndroidAPS/actions>
+4. В левой панели: All workflows -> AAPS CI. Справа кнопка: Run workflow. Branch: master, Version: текущая версия AAPS, Build: FullRelease
+5. Ждем около 5 минут. Статус должен смениться с желтого на зеленый.
+6. файл APK появится в [личном Google Drive](https://drive.google.com/drive/my-drive), в папке AAPS.
 
 Примечания:
 
 * Замечено периодическое падение сборки на этапе Build APKs, 403 ошибки gradle. Помогает простой перезапуск сборки.
+
+### Android AAPS Client
+
+Приложение для наблюдения "со стороны". Собирать отдельно не нужно.
+
+Берется в виде APK в основном репозитории AAPS: <https://github.com/nightscout/AndroidAPS/releases/>. Скачиваем файл с названием вида app-aapsclient-release_3.4.2.2.apk.
+
+Версия (3.4.2.2) должна соответствовать версии самого AAPS, иначе будет периодически выдавать предупреждение о несоответствии.
 
 ## Настройки AAPS
 
@@ -122,6 +134,20 @@ fediverse: "@username@instance.url"
 
 Display the Loop plugin’s content. Этот раздел это не раздел в Config builder, в нем всегда включенная и засеренная галка и пустой раздел настройки. Чтобы пройти задачу, нужно нажать гамбургер и выбрать Loop там.
 
+## RileyLink
+
+Соединяет помпу Medtronic 722 и AAPS.
+
+* Для работы на телефоне должен быть включен Bluetooth.
+* У приложения AAPS должен быть доступ к Nearby Devices
+* При включении RileyLink должен мигнуть синий индикатор.
+* RileyLink работает и на зарядке. В процесе зарядки горит красный индикатор.
+* При успешном соединении с помпой горит зеленый индикатор в торце.
+
+Замеченные проблемы:
+
+* Появляется сообщение "ЧИТСТАТУС драйвер помпы изменен/READSTATUS Pump driver changed" после чего рестарты приложения и Bluetooth не помогают, сообщение ни на что не меняется. Помогает удаление и переподключение RileyLink в настройках помпы в AAPS, вкл/выкл самого RileyLink и перезагрузка телефона.
+
 ## Medtronic, RileyLink, AAPS
 
 Официальная инструкция на [androidaps.readthedocs.io](https://androidaps.readthedocs.io/en/latest/CompatiblePumps/MedtronicPump.html).
@@ -131,12 +157,10 @@ Display the Loop plugin’s content. Этот раздел это не разд�
 
 ![medtronic722.png](medtronic722.png "Medtronic 722WWS")
 
-Детали:
+Замеченные проблемы:
 
 * Не хотело коннектиться при первичной установке (переходе с Virtual pump на Medtronic). Помогло отключить Bluetooth, отключить райли, перезапустить помпу, запустить все обратно.
 * Не хотело коннектиться при перестановке сенсора. Помогло отключить Bluetooth, подождать 10 секунд, включить. Райли загорелся зеленым.
-* Райли при включении - мигает синим.
-* Райли при успешном подключении к помпе - включает зеленый свет.
 
 ## Батареи и заряды в AAPS
 
