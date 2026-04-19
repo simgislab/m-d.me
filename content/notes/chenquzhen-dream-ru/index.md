@@ -19,7 +19,10 @@ fediverse: "@username@instance.url"
 * Издание сентября 1938 года (оригинальное?) <https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-003716450/reader> ([сохраненная копия в PDF](https://drive.google.com/file/d/1jMwvmMvDE7MKS6ORmAcfugk61mQPtMZB/view?usp=sharing))
 * Основной текст книги издания мая 1982 г. с комментариями Жэнь Найцяня <https://github.com/chaimol/chaimol.github.com/blob/master/book/%E8%89%BD%E9%87%8E%E5%B0%98%E6%A2%A6.txt> ([сохраненная копия в TXT](https://drive.google.com/file/d/1ILTLtUfMds-IJPiln_9AFp6yNpSKS5Am/view?usp=sharing))
 
-[Оригинальный текст](/notes/chenquzhen-dream/) компиляции на китайском языке.
+Дополнительные материалы:
+
+* [Оригинальный текст](/notes/chenquzhen-dream/) компиляции на китайском языке.
+* Процесс [перевода по блокам](https://docs.google.com/document/d/1X65YU4EL4I1ki4YmwtEhQtcEGGsN_7sC1PB7W8mm2IA/edit?usp=sharing) в Google Docs.
 
 Данный перевод носит предварительный характер, возможны ошибки и неточности.
 
