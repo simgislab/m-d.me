@@ -118,7 +118,7 @@ DA издание - 95 фотографий и иллюстраций. Спис�
 
 ### Его Святейшество Син Чин Геген
 
-![haslund-zajagan-all-photos3_1.jpg](haslund-zajagan-all-photos3_1.jpg "Hans Hellighed Sin Chin Gegen (1884-1932), Tigergudens femte Reinkarnation og alle Torguters Hersker. Kommandør af den svenske Vasaordens 2. Klasse.")
+![haslund-zajagan-all-photos3_1.jpg](haslund-zajagan-all-photos3_1.jpg "Его Святейшество *Син Чин Геген* (1884–1932), пятая реинкарнация Тигриного бога и владыка всех Торгутов. Командор шведского ордена Вазы II класса.")
 
 DA: Hans Hellighed *Sin Chin Gegen* (1884-1932), Tigergudens femte Reinkarnation og alle Torguters Hersker. Kommandør af den svenske Vasaordens 2. Klasse.
 
@@ -128,7 +128,7 @@ RU: Его Святейшество *Син Чин Геген* (1884–1932), п
 
 ### Гроты Юньган
 
-![haslund-zajagan-all-photos_01.jpg](haslund-zajagan-all-photos_01.jpg "Yün Kang-Grotterne.")
+![haslund-zajagan-all-photos_01.jpg](haslund-zajagan-all-photos_01.jpg "Гроты Юньган.")
 
 DA: *Yün Kang*-Grotterne.
 
@@ -138,7 +138,7 @@ RU: Гроты Юньган.
 
 ### Джолрос-лама
 
-![haslund-zajagan-all-photos_02_1_g.jpg](haslund-zajagan-all-photos_02_1_g.jpg "Jolros Lama. Lieberenz fot.")
+![haslund-zajagan-all-photos_02_1_g.jpg](haslund-zajagan-all-photos_02_1_g.jpg "Джолрос-лама. Фото Либеренца.")
 
 DA: Jolros Lama. Lieberenz fot.
 
@@ -148,7 +148,7 @@ RU: Джолрос-лама. Фото Либеренца.
 
 ### Шируп-Гелинг
 
-![haslund-zajagan-all-photos_02_2_g.jpg](haslund-zajagan-all-photos_02_2_g.jpg "Shirup Geling med Jolros Lamas Hund. Lieberenz fot.")
+![haslund-zajagan-all-photos_02_2_g.jpg](haslund-zajagan-all-photos_02_2_g.jpg "Шируп-Гелинг с собакой Джолрос-ламы. Фото Либеренца.")
 
 DA: Shirup Geling med Jolros Lamas Hund. Lieberenz fot.
 
@@ -158,7 +158,7 @@ RU: Шируп-Гелинг с собакой Джолрос-ламы. Фото 
 
 ### Паломники перед резиденцией Джолрос-ламы
 
-![haslund-zajagan-all-photos_03_1.jpg](haslund-zajagan-all-photos_03_1.jpg "Bodsøvende foran Jolros Lamas Bolig. Lieberenz fot.")
+![haslund-zajagan-all-photos_03_1.jpg](haslund-zajagan-all-photos_03_1.jpg "Паломники перед резиденцией Джолрос-ламы. Фото Либеренца.")
 
 DA: Bodsøvende foran Jolros Lamas Bolig. Lieberenz fot.
 
@@ -168,7 +168,7 @@ RU: Паломники перед резиденцией Джолрос-ламы
 
 ### Праздничная площадь под палящим солнцем
 
-![haslund-zajagan-all-photos_03_2.jpg](haslund-zajagan-all-photos_03_2.jpg "„Festpladsen laa hen i bagende Sol...“ Lieberenz fot.")
+![haslund-zajagan-all-photos_03_2.jpg](haslund-zajagan-all-photos_03_2.jpg "«Праздничная площадь под палящим солнцем…». Фото Либеренца.)
 
 DA: „Festpladsen laa hen i bagende Sol...“ Lieberenz fot.
 
@@ -178,7 +178,7 @@ RU: «Праздничная площадь под палящим солнцем
 
 ### Буга
 
-![haslund-zajagan-all-photos_04_1.jpg](haslund-zajagan-all-photos_04_1.jpg "„Buga“, en af Dødskongens Forløbere.")
+![haslund-zajagan-all-photos_04_1.jpg](haslund-zajagan-all-photos_04_1.jpg "«Буга», один из предвестников Царя Смерти.")
 
 DA: „Buga“, en af Dødskongens Forløbere.
 
@@ -188,7 +188,7 @@ RU: «Буга», один из предвестников Царя Смерти
 
 ### Оркестр располагался на южной стороне
 
-![haslund-zajagan-all-photos_04_2.jpg](haslund-zajagan-all-photos_04_2.jpg "„Orkestret var placeret i Syd“.")
+![haslund-zajagan-all-photos_04_2.jpg](haslund-zajagan-all-photos_04_2.jpg "«Оркестр располагался на южной стороне».")
 
 DA: „Orkestret var placeret i Syd“. (Øverst til venstre)
 
@@ -198,7 +198,7 @@ RU: «Оркестр располагался на южной стороне». 
 
 ### Цаган Обогон, «Белый старец»
 
-![haslund-zajagan-all-photos_04_3.jpg](haslund-zajagan-all-photos_04_3.jpg "Tsaghan Obogon, „Den hvide Olding“. Hummel fot.")
+![haslund-zajagan-all-photos_04_3.jpg](haslund-zajagan-all-photos_04_3.jpg "Цаган Обогон, «Белый старец». Фото Хуммеля.")
 
 DA: Tsaghan Obogon, „Den hvide Olding“. Hummel fot.
 
@@ -208,7 +208,7 @@ RU: Цаган Обогон, «Белый старец». Фото Хуммел�
 
 ### Образ Майдари
 
-![haslund-zajagan-all-photos_04_4.jpg](haslund-zajagan-all-photos_04_4.jpg "„Fra det vajende Banner foran Hovedtemplet skuede den milde Maidaris Billede ned.“")
+![haslund-zajagan-all-photos_04_4.jpg](haslund-zajagan-all-photos_04_4.jpg "«С развевающегося знамени перед главным храмом взирал вниз образ кроткого Майдари».")
 
 DA: „Fra det vajende Banner foran Hovedtemplet skuede den milde Maidaris Billede ned.“ (Nederst til venstre)
 
@@ -218,7 +218,7 @@ RU: «С развевающегося знамени перед главным �
 
 ### Образ Майдари - старая женщина
 
-![haslund-zajagan-all-photos_04_5.jpg](haslund-zajagan-all-photos_04_5.jpg "„En af de sidste, der gik til Maidaris Billede var den lille gamle Kone ...“")
+![haslund-zajagan-all-photos_04_5.jpg](haslund-zajagan-all-photos_04_5.jpg "«Одной из последних, кто подошёл к образу Майдари, была маленькая старая женщина…»")
 
 DA: „En af de sidste, der gik til Maidaris Billede var den lille gamle Kone ...“
 
@@ -228,7 +228,7 @@ RU: «Одной из последних, кто подошёл к образу 
 
 ### Выветрившиеся руины Хара-Хото
 
-![haslund-zajagan-all-photos_05_1.jpg](haslund-zajagan-all-photos_05_1.jpg "Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. v. Kaull fot.")
+![haslund-zajagan-all-photos_05_1.jpg](haslund-zajagan-all-photos_05_1.jpg "Выветрившиеся руины Хара-Хото всё ещё возвышаются над песком. Фото фон Каулля.")
 
 DA: Khara Khotos forvitrede Ruiner rejser sig endnu over Sandet. v. Kaull fot.
 
@@ -238,7 +238,7 @@ RU: Выветрившиеся руины Хара-Хото всё ещё воз
 
 ### Хорошо сохранившийся мусульманский храм
 
-![haslund-zajagan-all-photos_05_2.jpg](haslund-zajagan-all-photos_05_2.jpg "„Et velbevaret muhammedansk Gudshus ligger beskyttet af den vestlige Bymur“. v. Kaull fot.")
+![haslund-zajagan-all-photos_05_2.jpg](haslund-zajagan-all-photos_05_2.jpg "«Хорошо сохранившийся мусульманский храм лежит под защитой западной городской стены». Фото фон Каулля.")
 
 DA: „Et velbevaret muhammedansk Gudshus ligger beskyttet af den vestlige Bymur“. v. Kaull fot.
 
@@ -248,7 +248,7 @@ RU: «Хорошо сохранившийся мусульманский хра�
 
 ### Эдзинские торгуты
 
-![haslund-zajagan-all-photos_06_1_g.jpg](haslund-zajagan-all-photos_06_1_g.jpg "Etsina-Torguter, Mand og Yngling. v. Kaull fot.")
+![haslund-zajagan-all-photos_06_1_g.jpg](haslund-zajagan-all-photos_06_1_g.jpg "Эдзинские торгуты: мужчина и юноша. Фото фон Каулля.")
 
 DA: Etsina-Torguter, Mand og Yngling. v. Kaull fot.
 
@@ -258,7 +258,7 @@ RU: Эдзинские торгуты: мужчина и юноша. Фото ф
 
 ### Девушка эдзинский торгут
 
-![haslund-zajagan-all-photos_06_2.jpg](haslund-zajagan-all-photos_06_2.jpg "Etsina-Torgut, Pige. v. Kaull fot.")
+![haslund-zajagan-all-photos_06_2.jpg](haslund-zajagan-all-photos_06_2.jpg "Девушка эдзинский торгут. Фото фон Каулля.")
 
 DA: Etsina-Torgut, Pige. v. Kaull fot.
 
@@ -268,7 +268,7 @@ RU: Девушка эдзинский торгут. Фото фон Каулля
 
 ### Пробы крови
 
-![haslund-zajagan-all-photos_06_3.jpg](haslund-zajagan-all-photos_06_3.jpg "Hver Gang jeg forsøgte at tage Blodprøver paa Mongolerne saa de ulykkelige ud. Bergman fot.")
+![haslund-zajagan-all-photos_06_3.jpg](haslund-zajagan-all-photos_06_3.jpg "Каждый раз, когда я пытался брать у монголов пробы крови, они выглядели несчастными. Фото Бергмана.")
 
 DA: Hver Gang jeg forsøgte at tage Blodprøver paa Mongolerne saa de ulykkelige ud. Bergman fot.
 
@@ -278,7 +278,7 @@ RU: Каждый раз, когда я пытался брать у монгол
 
 ### Тангерт-Геген
 
-![haslund-zajagan-all-photos_06_4.jpg](haslund-zajagan-all-photos_06_4.jpg "Tangert Gegen.")
+![haslund-zajagan-all-photos_06_4.jpg](haslund-zajagan-all-photos_06_4.jpg "Тангерт-Геген.")
 
 DA: Tangert Gegen.
 
@@ -302,7 +302,7 @@ RU: Стены и выветрившиеся остатки всё ещё под
 
 ### Горы на горизонте
 
-![haslund-zajagan-all-photos_08_1.jpg](haslund-zajagan-all-photos_08_1.jpg "Vor gamle Torgut-Vejviser udpegede de Bjerge i Horisonten, som i et langt Liv havde udgjort hans daglige Inspiration. Hummel fot.")
+![haslund-zajagan-all-photos_08_1.jpg](haslund-zajagan-all-photos_08_1.jpg "«Наш старый торгут-проводник указал на горы на горизонте, которые на протяжении долгой жизни ежедневно его вдохновляли». Фото Хуммеля.")
 
 DA: Vor gamle Torgut-Vejviser udpegede de Bjerge i Horisonten, som i et langt Liv havde udgjort hans daglige Inspiration. Hummel fot.
 
@@ -312,7 +312,7 @@ RU: «Наш старый торгут-проводник указал на го
 
 ### Процесс создания «Длинного змея»
 
-![haslund-zajagan-all-photos_08_2.jpg](haslund-zajagan-all-photos_08_2.jpg "„Ormen hin Lange“s Tilblivelse. Lieberenz fot.")
+![haslund-zajagan-all-photos_08_2.jpg](haslund-zajagan-all-photos_08_2.jpg "Процесс создания «Длинного змея». Фото Либеренца.")
 
 DA: „Ormen hin Lange“s Tilblivelse. Lieberenz fot.
 
@@ -322,7 +322,7 @@ RU: Процесс создания «Длинного змея». Фото Ли
 
 ### Высадка лодочной экспедиции
 
-![haslund-zajagan-all-photos_08_3.jpg](haslund-zajagan-all-photos_08_3.jpg "Baadekspeditionens Landstigning efter Turen paa Socho-Nor. Lieberenz fot.")
+![haslund-zajagan-all-photos_08_3.jpg](haslund-zajagan-all-photos_08_3.jpg "Высадка лодочной экспедиции после плавания по Сочо-Нор. Фото Либеренца.")
 
 DA: Baadekspeditionens Landstigning efter Turen paa Socho-Nor. Lieberenz fot.
 
@@ -332,7 +332,7 @@ RU: Высадка лодочной экспедиции после плаван
 
 ### Пустынная крепость Дамбиджанцана
 
-![haslund-photo.png](haslund-photo-reused.png "Dambin Djansangs Ørkenborg. Hembel fot.")
+![haslund-photo.png](haslund-photo-reused.png "Пустынная крепость Дамбиджанцана. Фото Хембеля.")
 
 DA: Dambin Djansangs Ørkenborg. Hembel fot.
 
@@ -342,7 +342,7 @@ RU: Пустынная крепость Дамбиджанцана. Фото Х�
 
 ### Дамбиджанцан — авантюрист и его подпись
 
-![haslund-zajagan-all-photos_09_2.jpg](haslund-zajagan-all-photos_09_2.jpg "Dambin Djansang, den Æventyrer, som lod vild Fortid opstaa paa Stepperne.")
+![haslund-zajagan-all-photos_09_2.jpg](haslund-zajagan-all-photos_09_2.jpg "Дамбиджанцан — авантюрист, ожививший дикое прошлое степей.")
 
 DA: Dambin Djansang, den Æventyrer, som lod vild Fortid opstaa paa Stepperne.
 
@@ -350,7 +350,7 @@ EN: Dambin Jansang the adventurer who revived the savagery of ancient times on t
 
 RU: Дамбиджанцан — авантюрист, ожививший дикое прошлое степей.
 
-![haslund-zajagan-all-photos_09_3.jpg](haslund-zajagan-all-photos_09_3.jpg "Dambin Djansang, den Æventyrer, som lod vild Fortid opstaa paa Stepperne.")
+![haslund-zajagan-all-photos_09_3.jpg](haslund-zajagan-all-photos_09_3.jpg "Рядом — его подпись.")
 
 DA: Ved Siden lians Underskrift.
 
@@ -366,7 +366,7 @@ RU: Рядом — его подпись.
 
 ### Тяжёлые силуэты всадников
 
-![haslund-zajagan-all-photos_11_1.jpg](haslund-zajagan-all-photos_11_1.jpg "„Rytternes tunge Silhouetter dukkede frem af den røde Sandtaage“. Hempel fot.")
+![haslund-zajagan-all-photos_11_1.jpg](haslund-zajagan-all-photos_11_1.jpg "«Тяжёлые силуэты всадников возникли из красной песчаной дымки». Фото Хемпеля.")
 
 DA: „Rytternes tunge Silhouetter dukkede frem af den røde Sandtaage“. Hempel fot.
 
@@ -376,7 +376,7 @@ RU: «Тяжёлые силуэты всадников возникли из к�
 
 ### Цагечин-бейле в родовой одежде
 
-![haslund-zajagan-all-photos_11_2.jpg](haslund-zajagan-all-photos_11_2.jpg "Naar man saa Tsagechin Beile i sin Stammes Dragt, gjorde han Indtryk af at være en sand Nomadehøvding.")
+![haslund-zajagan-all-photos_11_2.jpg](haslund-zajagan-all-photos_11_2.jpg "Когда Цагечин-бейле представал в родовой одежде, создавалось впечатление, что он настоящий кочевой вождь.")
 
 DA: Naar man saa Tsagechin Beile i sin Stammes Dragt, gjorde han Indtryk af at være en sand Nomadehøvding.
 
@@ -386,19 +386,19 @@ RU: Когда Цагечин-бейле представал в родовой 
 
 ### Цагечин-бэйле в русском костюме
 
-![haslund-zajagan-all-photos_12_1_g.jpg](haslund-zajagan-all-photos_12_1_g.jpg "Tsagechin Beile i russisk Dragt.")
+![haslund-zajagan-all-photos_12_1_g.jpg](haslund-zajagan-all-photos_12_1_g.jpg "Цагечин-бэйле в русском костюме.")
 
 DA: Tsagechin Beile i russisk Dragt.
 
 EN: "Tsagachin Beile often appeared in an ill-fitting Russian costume"
 
-Цагечин-бэйле в русском костюме.
+"Цагечин-бэйле часто появлялся в плохо сидящем русском костюме."
 
-RU: "Цагечин-бэйле часто появлялся в плохо сидящем русском костюме"
+RU: Цагечин-бэйле в русском костюме.
 
 ### Монгол приветствует своего вождя
 
-![haslund-zajagan-all-photos_12_2.jpg](haslund-zajagan-all-photos_12_2.jpg "Mongol hilser paa sin Høvding.")
+![haslund-zajagan-all-photos_12_2.jpg](haslund-zajagan-all-photos_12_2.jpg "Монгол приветствует своего вождя.")
 
 DA: Mongol hilser paa sin Høvding.
 
@@ -408,7 +408,7 @@ RU: Монгол приветствует своего вождя.
 
 ### Упряжь Дамбиджанцана
 
-![haslund-zajagan-all-photos_13_1.jpg](haslund-zajagan-all-photos_13_1.jpg "Dambin Djansangs sølvbeslagne Ridetøj.")
+![haslund-zajagan-all-photos_13_1.jpg](haslund-zajagan-all-photos_13_1.jpg "Украшенная серебром упряжь Дамбиджанцана.")
 
 DA: Dambin Djansangs sølvbeslagne Ridetøj.
 
@@ -418,7 +418,7 @@ RU: Украшенная серебром упряжь Дамбиджанцан�
 
 ### Седло Дамбиджанцана
 
-![haslund-zajagan-all-photos_13_2.jpg](haslund-zajagan-all-photos_13_2.jpg "Dambin Djansangs sølvbeslagne Sadel.")
+![haslund-zajagan-all-photos_13_2.jpg](haslund-zajagan-all-photos_13_2.jpg "Отделанное серебром седло Дамбиджанцана.")
 
 DA: Dambin Djansangs sølvbeslagne Sadel.
 
@@ -428,7 +428,7 @@ RU: Отделанное серебром седло Дамбиджанцана.
 
 ### Женская одежда
 
-![haslund-zajagan-all-photos_14.jpg](haslund-zajagan-all-photos_14.jpg "Øverst: Den Kvindedragt som endnu anvendes at Tsagechin Beile-Stammen (hjemført til det svenske etnografiske Museum i 1929). Nederst: Kvindedragt hjemført af Løjtnan (opbevares i det svenske kgl. Livrustkammer).")
+![haslund-zajagan-all-photos_14.jpg](haslund-zajagan-all-photos_14.jpg "Вверху: женская одежда, которая до сих пор используется племенем Цагечин-бэйле (привезена в Шведский этнографический музей в 1929 году). Внизу: женская одежда, доставленная лейтенантом (хранится в Шведской королевской Оружейной палате).")
 
 DA: Øverst: Den Kvindedragt som endnu anvendes at Tsagechin Beile-Stammen (hjemført til det svenske etnografiske Museum i 1929).  
 Nederst: Kvindedragt hjemført af Løjtnan (opbevares i det svenske kgl. Livrustkammer).
@@ -440,7 +440,7 @@ RU: Вверху: женская одежда, которая до сих пор
 
 ### Тибетское нагорье
 
-![haslund-zajagan-all-photos_15_1.jpg](haslund-zajagan-all-photos_15_1.jpg "I det tibetanske Højland. Bergman fot.")
+![haslund-zajagan-all-photos_15_1.jpg](haslund-zajagan-all-photos_15_1.jpg "Тибетское нагорье. Фото Бергмана.")
 
 DA: I det tibetanske Højland. Bergman fot.
 
@@ -450,7 +450,7 @@ RU: Тибетское нагорье. Фото Бергмана.
 
 ### Могила Макеева у Таш-Давана
 
-![haslund-zajagan-all-photos_15_2.jpg](haslund-zajagan-all-photos_15_2.jpg "Makejefs Grav ved Tash-Dawan.")
+![haslund-zajagan-all-photos_15_2.jpg](haslund-zajagan-all-photos_15_2.jpg "Могила Макеева у Таш-Давана.")
 
 DA: Makejefs Grav ved Tash-Dawan.
 
@@ -460,7 +460,7 @@ RU: Могила Макеева у Таш-Давана.
 
 ### После охоты
 
-![haslund-zajagan-all-photos_15_3.jpg](haslund-zajagan-all-photos_15_3.jpg "Efter Jagten.")
+![haslund-zajagan-all-photos_15_3.jpg](haslund-zajagan-all-photos_15_3.jpg "После охоты.")
 
 DA: Efter Jagten.
 
@@ -470,7 +470,7 @@ RU: После охоты.
 
 ### Жители посёлка Темирлик
 
-![haslund-zajagan-all-photos_16_1.jpg](haslund-zajagan-all-photos_16_1.jpg "Temirlik-boer. Bergman fot.")
+![haslund-zajagan-all-photos_16_1.jpg](haslund-zajagan-all-photos_16_1.jpg "Жители посёлка Темирлик. Фото Бергмана.")
 
 DA: Temirlik-boer. Bergman fot.
 
@@ -480,7 +480,7 @@ RU: Жители посёлка Темирлик. Фото Бергмана.
 
 ### Вождь даде-монголов
 
-![haslund-zajagan-all-photos_16_2.jpg](haslund-zajagan-all-photos_16_2.jpg "Iført en vid losdyrsbræmmet Kappe sad däde-mongolernes Høvding mod en Baggrund af et sort Tæppe, hvori Billedet af en glubsk Tiger var indvævet. Bergman fot.")
+![haslund-zajagan-all-photos_16_2.jpg](haslund-zajagan-all-photos_16_2.jpg "Одетый в широкую накидку, отороченную мехом рыси, вождь даде-монголов сидел на фоне чёрного ковра, с вытканным образом хищного тигра. Фото Бергмана.")
 
 DA: Iført en vid losdyrsbræmmet Kappe sad *däde*-mongolernes Høvding mod en Baggrund af et sort Tæppe, hvori Billedet af en glubsk Tiger var indvævet. Bergman fot.
 
@@ -490,7 +490,7 @@ RU: Одетый в широкую накидку, отороченную мех
 
 ### Хурул даде-монголов
 
-![haslund-zajagan-all-photos_16_3.jpg](haslund-zajagan-all-photos_16_3.jpg "Däde-mongolernes khuruldei. Bergman fot.")
+![haslund-zajagan-all-photos_16_3.jpg](haslund-zajagan-all-photos_16_3.jpg "Хурул дäде-монголов. Фото Бергмана.")
 
 DA: *Däde*-mongolernes *khuruldei*. Bergman fot.
 
@@ -500,17 +500,17 @@ RU: Хурул дäде-монголов. Фото Бергмана.
 
 ### Боевая сцена между маньчжурами и джунгарами
 
-![haslund-zajagan-all-photos_17.jpg](haslund-zajagan-all-photos_17.jpg "Stridsscene indlem Manshuer og Djungarer. Efter gammel Radering tilh. Sophus Blacks Samlinger i Rungsted.")
+![haslund-zajagan-all-photos_17.jpg](haslund-zajagan-all-photos_17.jpg "Боевая сцена между маньчжурами и джунгарами. По старинной гравюре из собрания Софуса Блэка в Рунгстеде.")
 
 DA: Stridsscene indlem Manshuer og Djungarer. Efter gammel Radering tilh. Sophus Blacks Samlinger i Rungsted.
 
 EN: фото нет в англоязычном издании 1935 г.
 
-Боевая сцена между маньчжурами и джунгарами. По старинной гравюре из собрания Софуса Блэка в Рунгстеде.
+RU: Боевая сцена между маньчжурами и джунгарами. По старинной гравюре из собрания Софуса Блэка в Рунгстеде.
 
 ### Молитвенный флажок с символом «хи-мори»
 
-![haslund-zajagan-all-photos_18_1.jpg](haslund-zajagan-all-photos_18_1.jpg "Prayer-flag with Symbol of Hi-mori and Sacred Texts.")
+![haslund-zajagan-all-photos_18_1.jpg](haslund-zajagan-all-photos_18_1.jpg "Молитвенный флажок с символом «хи-мори» и священными надписями.")
 
 DA: Подпись не зафиксирована.
 
@@ -520,7 +520,7 @@ RU: Молитвенный флажок с символом «хи-мори» и
 
 ### Торгутский воин
 
-![haslund-zajagan-all-photos_19_1.jpg](haslund-zajagan-all-photos_19_1.jpg "Torgutisk Kriger.")
+![haslund-zajagan-all-photos_19_1.jpg](haslund-zajagan-all-photos_19_1.jpg "Торгутский воин.")
 
 DA: Torgutisk Kriger.
 
@@ -530,7 +530,7 @@ RU: Торгутский воин.
 
 ### Монгрольде-нойон
 
-![haslund-zajagan-all-photos_19_2.jpg](haslund-zajagan-all-photos_19_2.jpg "Mongrolde Noyen.")
+![haslund-zajagan-all-photos_19_2.jpg](haslund-zajagan-all-photos_19_2.jpg "Монгрольде-нойон.")
 
 DA: Mongrolde Noyen.
 
@@ -540,7 +540,7 @@ RU: Монгрольде-нойон.
 
 ### Личная охрана перед дворцом
 
-![haslund-zajagan-all-photos_19_3.jpg](haslund-zajagan-all-photos_19_3.jpg "Livvagten foran Paladset.")
+![haslund-zajagan-all-photos_19_3.jpg](haslund-zajagan-all-photos_19_3.jpg "Личная охрана перед дворцом.")
 
 DA: Livvagten foran Paladset.
 
@@ -550,7 +550,7 @@ RU: Личная охрана перед дворцом.
 
 ### Зимняя резиденция торгутского регента
 
-![haslund-zajagan-all-photos_19_4.jpg](haslund-zajagan-all-photos_19_4.jpg "Torgut-Regentens Vinterresidens.")
+![haslund-zajagan-all-photos_19_4.jpg](haslund-zajagan-all-photos_19_4.jpg "Зимняя резиденция торгутского регента.")
 
 DA: Torgut-Regentens Vinterresidens.
 
@@ -560,7 +560,7 @@ RU: Зимняя резиденция торгутского регента.
 
 ### Музыка монголов
 
-![haslund-zajagan-all-photos_20_1.jpg](haslund-zajagan-all-photos_20_1.jpg "Mongolernes Musik. Efter Pallas’ Sammlungen historischen Nachrichten. St. Petersburg 1776.")
+![haslund-zajagan-all-photos_20_1.jpg](haslund-zajagan-all-photos_20_1.jpg "Музыка монголов. По историческим сообщениям из собраний Палласа. Санкт-Петербург, 1776.")
 
 DA: Mongolernes Musik. Efter Pallas’ Sammlungen historischen Nachrichten. St. Petersburg 1776.
 
@@ -570,7 +570,7 @@ RU: Музыка монголов. По историческим сообщен�
 
 ### Замужние торгутские женщины
 
-![haslund-zajagan-all-photos_20_2.jpg](haslund-zajagan-all-photos_20_2.jpg "Gifte Torgut-Kvinder.")
+![haslund-zajagan-all-photos_20_2.jpg](haslund-zajagan-all-photos_20_2.jpg "Замужние торгутские женщины.")
 
 DA: Gifte Torgut-Kvinder.
 
@@ -580,7 +580,7 @@ RU: Замужние торгутские женщины.
 
 ### Батыры торгутского регента
 
-![haslund-zajagan-all-photos_21_1.jpg](haslund-zajagan-all-photos_21_1.jpg "Torgut-Regentens bator er kampklare. Bemærk, at alle Hestene er dresseret til at kaste sig til Jorden som Dækning for Rytteren.")
+![haslund-zajagan-all-photos_21_1.jpg](haslund-zajagan-all-photos_21_1.jpg "Батыры торгутского регента готовы к бою. Обратите внимание, что все лошади выдрессированы падать на землю, служа укрытием для всадника.")
 
 DA: Torgut-Regentens bator er kampklare. Bemærk, at alle Hestene er dresseret til at kaste sig til Jorden som Dækning for Rytteren.
 
@@ -590,7 +590,7 @@ RU: Батыры торгутского регента готовы к бою. �
 
 ### Лодонг, Син Чин Геген и Люруп
 
-![haslund-zajagan-all-photos_21_2.jpg](haslund-zajagan-all-photos_21_2.jpg "Lodong, Sin Chin Gegen og Lyrup. Anbolt fot.")
+![haslund-zajagan-all-photos_21_2.jpg](haslund-zajagan-all-photos_21_2.jpg "Лодонг, Син Чин Геген и Люруп. Фото Амболта.")
 
 DA: Lodong, Sin Chin Gegen og Lyrup. Anbolt fot.
 
@@ -600,7 +600,7 @@ RU: Лодонг, Син Чин Геген и Люруп. Фото Амболт�
 
 ### Торгутская конная акробатика
 
-![haslund-zajagan-all-photos_22.jpg](haslund-zajagan-all-photos_22.jpg "Torgutisk Rytterakrobatik.")
+![haslund-zajagan-all-photos_22.jpg](haslund-zajagan-all-photos_22.jpg "Торгутская конная акробатика.")
 
 DA: Torgutisk Rytterakrobatik.
 
@@ -610,7 +610,7 @@ RU: Торгутская конная акробатика.
 
 ### «Мани»-камень с тибетской молитвенной надписью
 
-![haslund-zajagan-all-photos_23_1.jpg](haslund-zajagan-all-photos_23_1.jpg "„Mani“-Sten med tibetansk Bønneindskrift. v. Kaull fot.")
+![haslund-zajagan-all-photos_23_1.jpg](haslund-zajagan-all-photos_23_1.jpg "«Мани»-камень с тибетской молитвенной надписью. Фото фон Каулля.")
 
 DA: „Mani“-Sten med tibetansk Bønneindskrift. v. Kaull fot.
 
@@ -620,7 +620,7 @@ RU: «Мани»-камень с тибетской молитвенной на�
 
 ### Монастырь Дунцзе в Тибете
 
-![haslund-zajagan-all-photos_23_2.jpg](haslund-zajagan-all-photos_23_2.jpg "Dongtse Klostret i Tibet. Sin Chins aandelige Hjemsted. L. Ludlow fot.")
+![haslund-zajagan-all-photos_23_2.jpg](haslund-zajagan-all-photos_23_2.jpg "Монастырь Дунцзе в Тибете. Духовная родина Син Чина. Фото Л. Ладлоу.")
 
 DA: Dongtse Klostret i Tibet. Sin Chins aandelige Hjemsted. L. Ludlow fot.
 
@@ -630,7 +630,7 @@ RU: Монастырь Дунцзе в Тибете. Духовная родин
 
 ### Торгутский лагерь
 
-![haslund-zajagan-all-photos_23_3.jpg](haslund-zajagan-all-photos_23_3.jpg "Torgutisk Lejr. Anbolt fot.")
+![haslund-zajagan-all-photos_23_3.jpg](haslund-zajagan-all-photos_23_3.jpg "Торгутский лагерь. Фото Амболта.")
 
 DA: Torgutisk Lejr. Anbolt fot.
 
@@ -640,7 +640,7 @@ RU: Торгутский лагерь. Фото Амболта.
 
 ### Фресковая роспись в монастыре Дунцзе
 
-![haslund-zajagan-all-photos_23_4.jpg](haslund-zajagan-all-photos_23_4.jpg "Freskomaleri i Dongtse Klostret, forestillende Sin Chins aandelige Fader, Tigergudens fjerde Reinkarnation. L. Ludlow fot.")
+![haslund-zajagan-all-photos_23_4.jpg](haslund-zajagan-all-photos_23_4.jpg "Фресковая роспись в монастыре Дунцзе, изображающая духовного отца Син Чина — четвёртую реинкарнацию Тигриного бога. Фото Л. Ладлоу.")
 
 DA: Freskomaleri i Dongtse Klostret, forestillende Sin Chins aandelige Fader, Tigergudens fjerde Reinkarnation. L. Ludlow fot.
 
@@ -650,7 +650,7 @@ RU: Фресковая роспись в монастыре Дунцзе, изо
 
 ### Автор, Буран и Суйдор
 
-![haslund-zajagan-all-photos_24_1.jpg](haslund-zajagan-all-photos_24_1.jpg "Forfatteren, Buran og Suidör.")
+![haslund-zajagan-all-photos_24_1.jpg](haslund-zajagan-all-photos_24_1.jpg "Автор, Буран и Суйдор.")
 
 DA: Forfatteren, Buran og Suidör.
 
@@ -660,7 +660,7 @@ RU: Автор, Буран и Суйдор.
 
 ### Монгольские аристократы
 
-![haslund-zajagan-all-photos_24_2.jpg](haslund-zajagan-all-photos_24_2.jpg "Mongolske Adelsmænd.")
+![haslund-zajagan-all-photos_24_2.jpg](haslund-zajagan-all-photos_24_2.jpg "Монгольские аристократы.")
 
 DA: Mongolske Adelsmænd.
 
@@ -670,7 +670,7 @@ RU: Монгольские аристократы.
 
 ### Три трона
 
-![haslund-zajagan-all-photos_24_3_g.jpg](haslund-zajagan-all-photos_24_3_g.jpg "De tre Tronstole i Torguternes Khantelt.")
+![haslund-zajagan-all-photos_24_3_g.jpg](haslund-zajagan-all-photos_24_3_g.jpg "Три трона в ханском шатре торгутов.")
 
 DA: De tre Tronstole i Torguternes Khantelt.
 
@@ -680,7 +680,7 @@ RU: Три трона в ханском шатре торгутов.
 
 ### Автор в обществе ламаистских философов
 
-![haslund-zajagan-all-photos_25_1.jpg](haslund-zajagan-all-photos_25_1.jpg "Forfatteren i Selskab med lamaistiske Filosoffer.")
+![haslund-zajagan-all-photos_25_1.jpg](haslund-zajagan-all-photos_25_1.jpg "Автор в обществе ламаистских философов.")
 
 DA: Forfatteren i Selskab med lamaistiske Filosoffer.
 
@@ -690,7 +690,7 @@ RU: Автор в обществе ламаистских философов.
 
 ### Листы Цачин-бичик
 
-![haslund-zajagan-all-photos_25_2.jpg](haslund-zajagan-all-photos_25_2.jpg "Blade af Tsachin Bichik og Manuskriptrulle af den buddhistiske Kanon antagelig fra det 9. Aarh.")
+![haslund-zajagan-all-photos_25_2.jpg](haslund-zajagan-all-photos_25_2.jpg "Листы Цачин-бичик и рукописный свиток буддийского канона, предположительно IX века.")
 
 DA: Blade af *Tsachin Bichik* og Manuskriptrulle af den buddhistiske Kanon antagelig fra det 9. Aarh.
 
@@ -700,7 +700,7 @@ RU: Листы Цачин-бичик и рукописный свиток буд
 
 ### Отец Син Чина
 
-![haslund-zajagan-all-photos_26_1.jpg](haslund-zajagan-all-photos_26_1.jpg "Sin Chins jordtske Fader, Tu-jen Meng-Ku Khan.")
+![haslund-zajagan-all-photos_26_1.jpg](haslund-zajagan-all-photos_26_1.jpg "Земной отец Син Чина — Ту-джен Менг-Ку-хан.")
 
 DA: Sin Chins jordtske Fader, Tu-jen Meng-Ku Khan. (Øverst til venstre)
 
@@ -710,7 +710,7 @@ RU: Земной отец Син Чина — Ту-джен Менг-Ку-хан
 
 ### Картина с изображением Обиш-хана
 
-![haslund-zajagan-all-photos_26_2_g.jpg](haslund-zajagan-all-photos_26_2_g.jpg "Maleri af Obish Khan.")
+![haslund-zajagan-all-photos_26_2_g.jpg](haslund-zajagan-all-photos_26_2_g.jpg "Картина с изображением Обиш-хана.")
 
 DA: Maleri af Obish Khan.
 
@@ -720,7 +720,7 @@ RU: Картина с изображением Обиш-хана.
 
 ### Мать Син Чина
 
-![haslund-zajagan-all-photos_26_3.jpg](haslund-zajagan-all-photos_26_3.jpg "Sin Chins Moder. G. Man nerheim fot.")
+![haslund-zajagan-all-photos_26_3.jpg](haslund-zajagan-all-photos_26_3.jpg "Мать Син Чина. Фото Г. Маннергейма.")
 
 DA: Sin Chins Moder. G. Mannerheim fot.
 
@@ -730,7 +730,7 @@ RU: Мать Син Чина. Фото Г. Маннергейма.
 
 ### Ханские печати торгутов
 
-![haslund-zajagan-all-photos_26_4.jpg](haslund-zajagan-all-photos_26_4.jpg "Torguternes Khansegl, skænket af Kejser Ch'ien Lung 1776, 1/6 nat. Størr.")
+![haslund-zajagan-all-photos_26_4.jpg](haslund-zajagan-all-photos_26_4.jpg "Ханские печати торгутов, пожалованные императором Цяньлуном в 1776 году, в 1/6 натуральной величины.")
 
 DA: Torguternes Khansegl, skænket af Kejser Ch'ien Lung 1776, 1/6 nat. Størr. (Nederst: til venstre og i Midten)
 
@@ -740,7 +740,7 @@ RU: Ханские печати торгутов, пожалованные им�
 
 ### Один из земных предков Син Чина
 
-![haslund-zajagan-all-photos_26_5.jpg](haslund-zajagan-all-photos_26_5.jpg "En af Sin Chins jordiske Forfædre.")
+![haslund-zajagan-all-photos_26_5.jpg](haslund-zajagan-all-photos_26_5.jpg "Один из земных предков Син Чина.")
 
 DA: En af Sin Chins jordiske Forfædre.
 
@@ -750,7 +750,7 @@ RU: Один из земных предков Син Чина.
 
 ### Храмовый шатёр
 
-![haslund-zajagan-all-photos_27_1.jpg](haslund-zajagan-all-photos_27_1.jpg "Tempeltelt.")
+![haslund-zajagan-all-photos_27_1.jpg](haslund-zajagan-all-photos_27_1.jpg "Храмовый шатёр.")
 
 DA: Tempeltelt.
 
@@ -760,7 +760,7 @@ RU: Храмовый шатёр.
 
 ### Лагерь Син Чина
 
-![haslund-zajagan-all-photos_27_2.jpg](haslund-zajagan-all-photos_27_2.jpg "Sin Chins Lejr omgivet af turgutiske Underhøvdinges Telte. Det forreste af Teltene i Midten er Gegen-ni-ordo.")
+![haslund-zajagan-all-photos_27_2.jpg](haslund-zajagan-all-photos_27_2.jpg "Лагерь Син Чина, окружённый шатрами подчинённых торгутских вождей. Передний из шатров в центре — ставка Гегена.")
 
 DA: Sin Chins Lejr omgivet af turgutiske Underhøvdinges Telte. Det forreste af Teltene i Midten er Gegen-ni-ordo.
 
@@ -770,7 +770,7 @@ RU: Лагерь Син Чина, окружённый шатрами подчи
 
 ### Своеобразная причёска незамужних женщин племени Цагечин-бэйле
 
-![haslund-zajagan-all-photos_28_1.jpg](haslund-zajagan-all-photos_28_1.jpg "Den ejendommelige Frisure hos de ugifte Kvinder af Tsagechin Bei1e-Stammen.")
+![haslund-zajagan-all-photos_28_1.jpg](haslund-zajagan-all-photos_28_1.jpg "Своеобразная причёска незамужних женщин племени Цагечин-бэйле.")
 
 DA: Den ejendommelige Frisure hos de ugifte Kvinder af *Tsagechin Beile*-Stammen.
 
@@ -780,7 +780,7 @@ RU: Своеобразная причёска незамужних женщин 
 
 ### Чаркликская красавица
 
-![haslund-zajagan-all-photos_28_2.jpg](haslund-zajagan-all-photos_28_2.jpg "Charklik-Skønhed.")
+![haslund-zajagan-all-photos_28_2.jpg](haslund-zajagan-all-photos_28_2.jpg "Чаркликская красавица.")
 
 DA: Charklik-Skønhed.
 
@@ -790,7 +790,7 @@ RU: Чаркликская красавица.
 
 ### Молодая девушка из Шэнди
 
-![haslund-zajagan-all-photos_28_3.jpg](haslund-zajagan-all-photos_28_3.jpg "Ung Pige fra Shéndi.")
+![haslund-zajagan-all-photos_28_3.jpg](haslund-zajagan-all-photos_28_3.jpg "Молодая девушка из Шэнди.")
 
 DA: Ung Pige fra Shéndi.
 
@@ -800,7 +800,7 @@ RU: Молодая девушка из Шэнди.
 
 ### Незамужняя женщина племени Цагечин-бэйле
 
-![haslund-zajagan-all-photos_28_4.jpg](haslund-zajagan-all-photos_28_4.jpg "Ugift Tsageehin Beile-Kvinde.")
+![haslund-zajagan-all-photos_28_4.jpg](haslund-zajagan-all-photos_28_4.jpg "Незамужняя женщина племени Цагечин-бэйле.")
 
 DA: Ugift *Tsageehin Beile*-Kvinde.
 
@@ -810,7 +810,7 @@ RU: Незамужняя женщина племени Цагечин-бэйле
 
 ### Тибетский великий лама
 
-![haslund-zajagan-all-photos_28_5.jpg](haslund-zajagan-all-photos_28_5.jpg "Tibetansk Storlama. Humme! fot.")
+![haslund-zajagan-all-photos_28_5.jpg](haslund-zajagan-all-photos_28_5.jpg "Тибетский великий лама. Фото Хуммеля.")
 
 DA: Tibetansk Storlama. Humme! fot.
 
@@ -820,7 +820,7 @@ RU: Тибетский великий лама. Фото Хуммеля.
 
 ### Шири
 
-![haslund-zajagan-all-photos_28_6.jpg](haslund-zajagan-all-photos_28_6.jpg "Shiri, som beherskede Tonernes Stigen og Fald.")
+![haslund-zajagan-all-photos_28_6.jpg](haslund-zajagan-all-photos_28_6.jpg "Шири, мастерски владевшая восхождением и падением музыкальных тонов.")
 
 DA: Shiri, som beherskede Tonernes Stigen og Fald.
 
@@ -830,7 +830,7 @@ RU: Шири, мастерски владевшая восхождением и 
 
 ### Торгутские вожди (мерин и гусда)
 
-![haslund-zajagan-all-photos_28_7.jpg](haslund-zajagan-all-photos_28_7.jpg "Torgutiske Høvdinge (merin og gusdâ).")
+![haslund-zajagan-all-photos_28_7.jpg](haslund-zajagan-all-photos_28_7.jpg "Торгутские вожди (мерин и гусда).")
 
 DA: Torgutiske Høvdinge (merin og gusdâ).
 
@@ -840,7 +840,7 @@ RU: Торгутские вожди (мерин и гусда).
 
 ### Торгутский сказитель
 
-![haslund-zajagan-all-photos_28_8.jpg](haslund-zajagan-all-photos_28_8.jpg "Torgutisk Sagnfortæller.")
+![haslund-zajagan-all-photos_28_8.jpg](haslund-zajagan-all-photos_28_8.jpg "Торгутский сказитель.")
 
 DA: Torgutisk Sagnfortæller.
 
@@ -850,7 +850,7 @@ RU: Торгутский сказитель.
 
 ### Тоин-Гелинг
 
-![haslund-zajagan-all-photos_28_9.jpg](haslund-zajagan-all-photos_28_9.jpg "Töin Geling.")
+![haslund-zajagan-all-photos_28_9.jpg](haslund-zajagan-all-photos_28_9.jpg "Тоин-Гелинг.")
 
 DA: Töin Geling.
 
@@ -860,7 +860,7 @@ RU: Тоин-Гелинг.
 
 ### Передача геген-ни-ордо королю Густаву V
 
-![haslund-zajagan-all-photos_29.jpg](haslund-zajagan-all-photos_29.jpg "Overdragelsen af gegen-ni-ordo til Kong Gustav V. I Midten Kong Gustav, Sven Hedin og Forfatteren.")
+![haslund-zajagan-all-photos_29.jpg](haslund-zajagan-all-photos_29.jpg "Передача геген-ни-ордо (ставка Гегена) королю Густаву V. В центре — король Густав, Свен Гедин и автор.")
 
 DA: Overdragelsen af *gegen-ni-ordo* til Kong Gustav V. I Midten Kong Gustav, Sven Hedin og Forfatteren.
 
@@ -870,7 +870,7 @@ RU: Передача геген-ни-ордо (ставка Гегена) кор
 
 ### Охотничье снаряжение для ружья Обиш-хана
 
-![haslund-zajagan-all-photos_30_1.jpg](haslund-zajagan-all-photos_30_1.jpg "Jagtudrustning til Obish Khans Gevær.")
+![haslund-zajagan-all-photos_30_1.jpg](haslund-zajagan-all-photos_30_1.jpg "Охотничье снаряжение для ружья Обиш-хана.")
 
 DA: Jagtudrustning til Obish Khans Gevær.
 
@@ -880,7 +880,7 @@ RU: Охотничье снаряжение для ружья Обиш-хана.
 
 ### Интерьер геген-ни-ордо при стоянке в Урумчи
 
-![haslund-zajagan-all-photos_30_2.jpg](haslund-zajagan-all-photos_30_2.jpg "Interior fra gegen-ni-ordo ved Opstil-lingen i Urumchi")
+![haslund-zajagan-all-photos_30_2.jpg](haslund-zajagan-all-photos_30_2.jpg "Интерьер геген-ни-ордо при стоянке в Урумчи.")
 
 DA: Interior fra gegen-ni-ordo ved Opstil-lingen i Urumchi. (Øverst)
 
@@ -890,7 +890,7 @@ RU: Интерьер геген-ни-ордо при стоянке в Урум�
 
 ### Затвор того ружья
 
-![haslund-zajagan-all-photos_30_3.jpg](haslund-zajagan-all-photos_30_3.jpg "Geværlaas paa samme.")
+![haslund-zajagan-all-photos_30_3.jpg](haslund-zajagan-all-photos_30_3.jpg "Затвор того же ружья.")
 
 DA: Geværlaas paa samme.
 
@@ -900,7 +900,7 @@ RU: Затвор того же ружья.
 
 ### Ружьё, похищенное Обиш-ханом у турок в 1767
 
-![haslund-zajagan-all-photos_30_4.jpg](haslund-zajagan-all-photos_30_4.jpg "Det af Obish Khan i 1767 fra Tyrkerne røvede Gevær, som skænkedes Forfatteren af Sin Chin Gegen. Opbevares paa Stockholms etnografiske Museum.")
+![haslund-zajagan-all-photos_30_4.jpg](haslund-zajagan-all-photos_30_4.jpg "Ружьё, похищенное Обиш-ханом у турок в 1767 году, которое было подарено автору Син Чин Гегеном. Хранится в Стокгольмском этнографическом музее.")
 
 DA: Det af Obish Khan i 1767 fra Tyrkerne røvede Gevær, som skænkedes Forfatteren af Sin Chin Gegen. Opbevares paa Stockholms etnografiske Museum.
 
@@ -910,7 +910,7 @@ RU: Ружьё, похищенное Обиш-ханом у турок в 1767 �
 
 ### Часть геген-ни-ордо
 
-![haslund-zajagan-all-photos_30_5.jpg](haslund-zajagan-all-photos_30_5.jpg "Hjørne af gegen-ni-ordo efter Opstillingen i Stockholm.")
+![haslund-zajagan-all-photos_30_5.jpg](haslund-zajagan-all-photos_30_5.jpg "Часть геген-ни-ордо после установки в Стокгольме.")
 
 DA: Hjørne af gegen-ni-ordo efter Opstillingen i Stockholm.
 
@@ -920,7 +920,7 @@ RU: Часть геген-ни-ордо после установки в Сто�
 
 ### Мне пришлось расстаться с моими лошадьми
 
-![haslund-zajagan-all-photos_31.jpg](haslund-zajagan-all-photos_31.jpg "Jeg maatte skilles fra mine Heste, for det var forbi med de galoperende Dage paa Steppen.")
+![haslund-zajagan-all-photos_31.jpg](haslund-zajagan-all-photos_31.jpg "Мне пришлось расстаться с моими лошадьми, дни галопа по степи были окончены.")
 
 DA: Jeg maatte skilles fra mine Heste, for det var forbi med de galoperende Dage paa Steppen.
 
@@ -930,7 +930,7 @@ RU: Мне пришлось расстаться с моими лошадьми,
 
 ### Карта главной экспедиции и путешествий автора
 
-![haslund-zajagan-all-photos_32.jpg](haslund-zajagan-all-photos_32.jpg "Kort over Hovedekspeditionens og Forfatterens Rejser")
+![haslund-zajagan-all-photos_32.jpg](haslund-zajagan-all-photos_32.jpg "Карта главной экспедиции и путешествий автора.")
 
 DA: Kort over Hovedekspeditionens og Forfatterens Rejser
 
@@ -940,19 +940,21 @@ RU: Карта главной экспедиции и путешествий а�
 
 ### Торгуты
 
-![haslund-zajagan-all-photos2_3.jpg](haslund-zajagan-all-photos2_3.jpg "Khochin Torgut, Sjene Torgut")
+![haslund-zajagan-all-photos2_3.jpg](haslund-zajagan-all-photos2_3.jpg "Хочин-торгуты, Сьене-торгуты")
 
 DA: Khochin Torgut, Sjene Torgut
 
 EN: The Thirteen Signet-bearing Princes. (Outline sketch of the formation of the Torgut Horde’s Thirteen Tribes.)
 
-RU: Тринадцать князей — носителей печатей. (Cхема формирования тринадцати племён торгутской орды.)
+Тринадцать князей — носителей печатей. (Cхема формирования тринадцати племён торгутской орды.)
 
-Хочин-торгуты (khochin - старые), Сьене-торгуты (восточные, в английском тексте Shene Torgut - новые торгуты).
+RU: Хочин-торгуты, Сьене-торгуты.
+
+Khochin - старые, Sjene - восточные, в английском тексте Shene Torgut - новые торгуты.
 
 ### Жёны вождей и любопытные принцессы
 
-![haslund-zajagan-all-photos3_2_1.jpg](haslund-zajagan-all-photos3_2_1.jpg "Høvdingehustruer og nysgerrige Prinsesser.")
+![haslund-zajagan-all-photos3_2_1.jpg](haslund-zajagan-all-photos3_2_1.jpg "Жёны вождей и любопытные принцессы.")
 
 DA: Høvdingehustruer og nysgerrige Prinsesser.
 
@@ -962,7 +964,7 @@ RU: Жёны вождей и любопытные принцессы.
 
 ### Гуртум
 
-![haslund-zajagan-all-photos3_2_2.jpg](haslund-zajagan-all-photos3_2_2.jpg "Gurtum. Zimmerman fot.")
+![haslund-zajagan-all-photos3_2_2.jpg](haslund-zajagan-all-photos3_2_2.jpg "Гуртум. Фото Циммермана.")
 
 ![haslund-zajagan-en-gurtum.png](haslund-zajagan-en-gurtum.png "Gurtum. Photo Zimmerman")
 
@@ -976,7 +978,7 @@ RU: Гуртум. Фото Циммермана.
 
 ### Двадцать четыре шанага
 
-![haslund-zajagan-all-photos3_2_3.jpg](haslund-zajagan-all-photos3_2_3.jpg "De fire og tyve shanag. Hummel fot.")
+![haslund-zajagan-all-photos3_2_3.jpg](haslund-zajagan-all-photos3_2_3.jpg "Двадцать четыре шанага. Фото Хуммеля.")
 
 DA: De fire og tyve shanag. Hummel fot.
 
@@ -986,7 +988,7 @@ RU: Двадцать четыре шанага. Фото Хуммеля.
 
 ### Процессия вокруг монастыря
 
-![haslund-zajagan-all-photos3_3_1.jpg](haslund-zajagan-all-photos3_3_1.jpg "„Langsomt skrider Optoget rundt om Klostret ...“")
+![haslund-zajagan-all-photos3_3_1.jpg](haslund-zajagan-all-photos3_3_1.jpg "«Медленно движется процессия вокруг монастыря…»")
 
 DA: „Langsomt skrider Optoget rundt om Klostret ...“
 
@@ -996,7 +998,7 @@ RU: «Медленно движется процессия вокруг мона
 
 ### Прощание с ламами и вождями в Батер-Халак-суме
 
-![haslund-zajagan-all-photos3_3_2.jpg](haslund-zajagan-all-photos3_3_2.jpg "Afskeden fra Lamaer og Høvdinge i Bater Halak Sume. Fra venstre: Hummel, Haslund, to Sekretærer, den levende Buddha, Fyrsten, en Soldat, Lieberenz. Lieberenz fot.")
+![haslund-zajagan-all-photos3_3_2.jpg](haslund-zajagan-all-photos3_3_2.jpg "Прощание с ламами и вождями в Батер-Халак-суме. Слева: Хуммель, Хаслунд, два секретаря, живой Будда, князь, солдат, Либеренц. Фото Либеренца.")
 
 DA: Afskeden fra Lamaer og Høvdinge i Bater Halak Sume. Fra venstre: Hummel, Haslund, to Sekretærer, den levende Buddha, Fyrsten, en Soldat, Lieberenz. Lieberenz fot.
 
@@ -1006,7 +1008,7 @@ RU: Прощание с ламами и вождями в Батер-Халак-
 
 ### Верблюды экспедиции
 
-![haslund-zajagan-all-photos3_4_1.jpg](haslund-zajagan-all-photos3_4_1.jpg "Ekspeditionens Kameler samlede før Opbruddet fra Hodjertaï-gol. Lieberenz fot.")
+![haslund-zajagan-all-photos3_4_1.jpg](haslund-zajagan-all-photos3_4_1.jpg "Верблюды экспедиции, собранные перед выступлением из Ходжертай-гола. Фото Либеренца.")
 
 DA: Ekspeditionens Kameler samlede før Opbruddet fra Hodjertaï-gol. Lieberenz fot.
 
@@ -1016,7 +1018,7 @@ RU: Верблюды экспедиции, собранные перед выс�
 
 ### Монгольский монастырь Байин-Шандай-суме
 
-![haslund-zajagan-all-photos3_4_2.jpg](haslund-zajagan-all-photos3_4_2.jpg "Mongolklostret Bajing Shandai Sume. Lieberenz fot.")
+![haslund-zajagan-all-photos3_4_2.jpg](haslund-zajagan-all-photos3_4_2.jpg "Монгольский монастырь Байин-Шандай-суме. Фото Либеренца.")
 
 DA: Mongolklostret Bajing Shandai Sume. Lieberenz fot.
 
@@ -1026,7 +1028,7 @@ RU: Монгольский монастырь Байин-Шандай-суме. 
 
 ### Пойманный верблюжий вор
 
-![haslund-zajagan-all-photos3_5_1.jpg](haslund-zajagan-all-photos3_5_1.jpg "Den indfangede Kameltyv Obogon ved Tilbagekomsten til Lejren. Lieberenz fot.")
+![haslund-zajagan-all-photos3_5_1.jpg](haslund-zajagan-all-photos3_5_1.jpg "Пойманный верблюжий вор Обогон при возвращении в лагерь. Фото Либеренца.")
 
 DA: Den indfangede Kameltyv Obogon ved Tilbagekomsten til Lejren. Lieberenz fot.
 
@@ -1036,7 +1038,7 @@ RU: Пойманный верблюжий вор Обогон при возвр�
 
 ### Дневной переход подошёл к концу
 
-![haslund-zajagan-all-photos3_5_2.jpg](haslund-zajagan-all-photos3_5_2.jpg "„Da Dagens March var til Ende, vandrede vi ind i Skyggen af løvrige Popler“. v. Kaull fot.")
+![haslund-zajagan-all-photos3_5_2.jpg](haslund-zajagan-all-photos3_5_2.jpg "«Когда дневной переход подошёл к концу, мы вошли в тень тополей». Фото фон Каулля.")
 
 DA: „Da Dagens March var til Ende, vandrede vi ind i Skyggen af løvrige Popler“. v. Kaull fot.
 
@@ -1046,7 +1048,7 @@ RU: «Когда дневной переход подошёл к концу, м�
 
 ### Кочевой дом Бергмана и мой
 
-![haslund-zajagan-all-photos3_6_1.jpg](haslund-zajagan-all-photos3_6_1.jpg "Bergmans og mit Nomadehjem. Bergman fot.")
+![haslund-zajagan-all-photos3_6_1.jpg](haslund-zajagan-all-photos3_6_1.jpg "Мой с Бергманом кочевой дом. Фото Бергмана.")
 
 DA: Bergmans og mit Nomadehjem. Bergman fot.
 
@@ -1056,7 +1058,7 @@ RU: Мой с Бергманом кочевой дом. Фото Бергман�
 
 ### Три почтенных седобородых
 
-![haslund-zajagan-all-photos3_6_2.jpg](haslund-zajagan-all-photos3_6_2.jpg "„Tre ærværdige Graaskæg“.")
+![haslund-zajagan-all-photos3_6_2.jpg](haslund-zajagan-all-photos3_6_2.jpg "«Три почтенных старца».")
 
 DA: „Tre ærværdige Graaskæg“.
 
@@ -1066,7 +1068,7 @@ RU: «Три почтенных старца».
 
 ### Перевозка верблюдов через реку
 
-![haslund-zajagan-all-photos3_7_1.jpg](haslund-zajagan-all-photos3_7_1.jpg "Kameltransport over en Flod. Bergman fot.")
+![haslund-zajagan-all-photos3_7_1.jpg](haslund-zajagan-all-photos3_7_1.jpg "Перевозка верблюдов через реку. Фото Бергмана.")
 
 DA: Kameltransport over en Flod. Bergman fot.
 
@@ -1076,7 +1078,7 @@ RU: Перевозка верблюдов через реку. Фото Берг
 
 ### Сартский аксакал и китайский амбань
 
-![haslund-zajagan-all-photos3_7_2.jpg](haslund-zajagan-all-photos3_7_2.jpg "Den sartiske aksakal og kinesiske amban. Bergman fot.")
+![haslund-zajagan-all-photos3_7_2.jpg](haslund-zajagan-all-photos3_7_2.jpg "Сартский аксакал и китайский амбань. Фото Бергмана.")
 
 DA: Den sartiske *aksakal* og kinesiske *amban*. Bergman fot.
 
@@ -1086,7 +1088,7 @@ RU: Сартский аксакал и китайский амбань. Фото
 
 ### Сартские музыканты
 
-![haslund-zajagan-all-photos3_7_3.jpg](haslund-zajagan-all-photos3_7_3.jpg "Sartiske Musikanter. Bergman fot.")
+![haslund-zajagan-all-photos3_7_3.jpg](haslund-zajagan-all-photos3_7_3.jpg "Сартские музыканты. Фото Бергмана.")
 
 DA: Sartiske Musikanter. Bergman fot.
 
@@ -1096,7 +1098,7 @@ RU: Сартские музыканты. Фото Бергмана.
 
 ### Монгрольде-нойон с личной охраной
 
-![haslund-zajagan-en-mongrolda.png](haslund-zajagan-en-mongrolda.png "Mongrolda Noyen, the young leader of the Khoshut Mongols with his bodyguard")
+![haslund-zajagan-en-mongrolda.png](haslund-zajagan-en-mongrolda.png "Монгрольде-нойон, молодой предводитель хошутских монголов, со своей личной охраной.")
 
 DA: фото нет в датскоязычном издании 1947 г.
 
@@ -1106,7 +1108,7 @@ RU: Монгрольде-нойон, молодой предводитель х�
 
 ### Консул Арселан
 
-![haslund-zajagan-en-arselan.png](haslund-zajagan-en-arselan.png "\"Arselan Consul\"")
+![haslund-zajagan-en-arselan.png](haslund-zajagan-en-arselan.png "\"Консул Арселан\"")
 
 DA: фото нет в датскоязычном издании 1947 г.
 
@@ -1116,7 +1118,7 @@ RU: "Консул Арселан"
 
 ### Красный стандарт
 
-![haslund-zajagan-en-redstandard.png](haslund-zajagan-en-redstandard.png "\"The red Standard\"")
+![haslund-zajagan-en-redstandard.png](haslund-zajagan-en-redstandard.png "\"Красный стандарт\"")
 
 DA: изображения нот нет в датскоязычном издании 1947 г.
 
@@ -1128,7 +1130,7 @@ RU: "Красный стандарт" (Красное знамя?)
 
 ### Балдан-гусда, регент, Лодонг и Люруп
 
-![haslund-zajagan-en-baldangusda.png](haslund-zajagan-en-baldangusda.png "Baldan gusdä, the Regent, Lodong chanse, Lyrup chanse")
+![haslund-zajagan-en-baldangusda.png](haslund-zajagan-en-baldangusda.png "Балдан-гусда, регент, Лодонг-чансе, Лируп-чансе.")
 
 DA: фото нет в датскоязычном издании 1947 г.
 
@@ -1138,17 +1140,17 @@ RU: Балдан-гусда, регент, Лодонг-чансе, Лируп-�
 
 ### Молодые торгуты
 
-![haslund-zajagan-en-youngtorguts.png](haslund-zajagan-en-youngtorguts.png "Young Torguts. Photo Ambolt")
+![haslund-zajagan-en-youngtorguts.png](haslund-zajagan-en-youngtorguts.png "Молодые торгуты. *Фото Амболта*")
 
 DA: фото нет в датскоязычном издании 1947 г.
 
 EN: Young Torguts. *Photo Ambolt*
 
-RU: Молодые торгуты. Фото Амболта
+RU: Молодые торгуты. *Фото Амболта*
 
 ### Храмовая юрта торгутов
 
-![haslund-zajagan-en-templetent.png](haslund-zajagan-en-templetent.png "Torgut Temple Tent. From Pallas’ “Sammlungen historischer Nachrichten über die mongolischen Völkerschaften”, St. Petersburg, 1776")
+![haslund-zajagan-en-templetent.png](haslund-zajagan-en-templetent.png "Храмовая юрта торгутов. Из издания: П. С. Паллас, «Sammlungen historischer Nachrichten über die mongolischen Völkerschaften», Санкт-Петербург, 1776.")
 
 DA: фото нет в датскоязычном издании 1947 г.
 
@@ -1158,7 +1160,7 @@ RU: Храмовая юрта торгутов. Из издания: П. С. П�
 
 ### Тибетская молитва
 
-![haslund-zajagan-en-baredo.png](haslund-zajagan-en-baredo.png "“Baredo soldep” (Tibetan prayer)")
+![haslund-zajagan-en-baredo.png](haslund-zajagan-en-baredo.png "«Баредо сольдеп» (тибетская молитва)")
 
 DA: изображение нот отсутствует в датскоязычном издании 1947 г.
 
@@ -1170,7 +1172,7 @@ RU: «Баредо сольдеп» (тибетская молитва)
 
 ### Балдан-гусда
 
-![haslund-zajagan-en-baldan.png](haslund-zajagan-en-baldan.png "Baldan Gusdä")
+![haslund-zajagan-en-baldan.png](haslund-zajagan-en-baldan.png "Балдан-гусда")
 
 DA: фото нет в датскоязычном издании 1947 г.
 
@@ -1180,7 +1182,7 @@ RU: Балдан-гусда
 
 ### Карта
 
-![haslund-zajagan-en-map.png](haslund-zajagan-en-map.png "Map")
+![haslund-zajagan-en-map.png](haslund-zajagan-en-map.png "Карта")
 
 DA: в датскоязычном издании 1947 г. карта на датском языке
 
