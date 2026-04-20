@@ -6,7 +6,7 @@ description: "Чэнь Цюйчжэнь. Сон в пыли диких земе�
 toc: true
 autonumber: false
 math: falsed
-tags: ["Чэнь Цюйчжэнь","陳渠珍","Chen Quzhen"]
+tags: ["Чэнь Цюйчжэнь","陳渠珍","Chen Quzhen","Тибет"]
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
