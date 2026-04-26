@@ -40,11 +40,6 @@ fediverse: "@username@instance.url"
 
 Результаты работы приведены здесь в виде текста.
 
-Кроме этого, можно:
-
-* [скачать обновленный PDF](https://drive.google.com/file/d/1scLWG43HBolRJps1SV99heV_KCNqiFo0/view?usp=sharing) с восстановленными страницами и перераспознанным текстовым слоем гораздо более высокого качества, чем в базе. В качестве базы для данного PDF использовался [этот](https://rutracker.org/forum/viewtopic.php?t=6249264).
-* открыть в [Google Docs](https://docs.google.com/document/d/1MwD83-qgnJcWjTU9W0GKYYq-kLy0FBhFzhiy29Mj8c8/edit?tab=t.0). Оттуда можно скачать в любом другом подходящем формате через меню Файл - Скачать.
-
 ## Содержание книги
 
 <a id="1">**-- 1 --**</a>
