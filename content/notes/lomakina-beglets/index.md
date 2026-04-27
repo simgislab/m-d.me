@@ -3488,4 +3488,4 @@ Dr.Morrison telegraphes the Times from Pecking on the 8th: messages from Urga st
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/134)
+[**Обсудить**](https://t.me/answer42geo/197)
