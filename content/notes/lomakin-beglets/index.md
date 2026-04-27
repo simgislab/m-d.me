@@ -24,7 +24,7 @@ fediverse: "@username@instance.url"
 
 Использовано два источника:
 
-* Отсканированная версия в [формате DJVU](https://www.klex.ru/ebt).
+* Отсканированная версия в [формате DJVU](https://www.klex.ru/ebt). [Копия](https://drive.google.com/file/d/1P97PWpdE706X3wfCY1rgSqKeqHtSsV_2/view?usp=sharing).
 * Основной текст с [e-puzzle.ru](https://www.e-puzzle.ru/page.php?al=lomakina_inessa__velikij). Дата размещения: 2014-03-14. Формат Microsoft Word.
 
 ## Что сделано
@@ -38,7 +38,11 @@ fediverse: "@username@instance.url"
 * Добавлено интерактивное оглавление;
 * Добавлены ссылки на комментарии.
 
-Результаты работы приведены здесь в виде текста.
+Результаты приведены здесь в виде текста.
+
+Кроме этого, можно:
+
+* [Скачать PDF](https://drive.google.com/file/d/1C1NP0Wc9nFWw5cWO9OAz8Yl1z85knYgW/view?usp=sharing)
 
 ## Содержание книги
 
