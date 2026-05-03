@@ -229,6 +229,7 @@ XDrip+ устанавливается из [последней ночной сб
 
 Что можно проверить/сделать:
 
+0. Положить телефон с AAPS ближе к сенсору.
 1. Убедиться что у Juggluco есть разрешение Nearby devices, а у XDrip, Freestyle Libre 2 - они отозваны.
 2. Убедиться, что для Juggluco не включена экономия батареи, это делается в настройках Android, Apps.
 3. Припинить приложение (Pin app) [тут](https://www.samsung.com/sg/support/mobile-devices/pin-an-app-to-your-phone-screen-so-that-it-cant-be-closed/) объясняется как это сделать.
