@@ -48,6 +48,10 @@ fediverse: "@username@instance.url"
 
 зс -> сс
 
+ея -> ее (её)
+
+зп -> сп
+
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo/63)
