@@ -191,6 +191,54 @@ XDrip+ устанавливается из [последней ночной сб
 
 При вводе калибровки может понадобится переключиться на mmol/L.
 
+## Libre 2
+
+### Информация о Bluetooth сенсора
+
+Пример информации о сканировании конкретного сенсора с помощью nRF Connect.
+
+* Complete local name: ABBOTT3MH017EV8X0
+* 8C:61:20:CE:77:CE
+* -57 dBm, 63 ms
+* Device type: LE only
+* Advertising type: Legacy
+* Flags: LE General Discoverable, BR/EDR Not Supported (см. расшифровку ниже)
+* Manufacturer data (Bluetooth Core 4.1): Company: Abbott <0x03BB> 0xCE77CE20618C
+* Incomplete list of 16-bit device UUIDs: 0xFDE3, 0000fde3-0000-1000-8000-00805f9b34fb (Abbott Diabetes Care)
+* Tx Power Level: 0 dbm
+
+00000110 = 0x06
+
+* 000 - Reserved
+* 0 - LE and BR/ERD Capable (Host)
+* 0 - LE and BR/ERD Capable (Controller)
+* 1 - BR/EDR Not Supported
+* 1 - LE General Discoverable Mode
+* 0 - LE Limited Discoverable Mode
+
+RAW data:
+
+0x02010609FFBB03CE77CE20618C0303E3FD020A0012094142424F5454334D483031374556385830
+
+| LEN | TYPE | VALUE                              |
+|----:|:----:|:-----------------------------------|
+|   2 | 0x01 | 0x06                               |
+|   9 | 0xFF | 0xBB03CE77CE20618C                 |
+|   3 | 0x03 | 0xE3FD                             |
+|   2 | 0x0A | 0x00                               |
+|  18 | 0x09 | 4142424F5454334D483031374556385830 |
+
+* LEN: length of AD packet (Type+Data) in bytes.
+* TYPE: the data type as in [Assigned numbers.pdf](https://www.bluetooth.com/wp-content/uploads/Files/Specification/Assigned_Numbers.pdf), chapter 2.3: Common Data Types
+
+Расшифровка типов:
+
+* 0x01 - Flags
+* 0xFF - Manufacturer Specific Data
+* 0x03 - Complete List of 16-bit Service Class UUIDs
+* 0x0A - Tx Power Leve
+* 0x09 - Complete Local Name
+
 ## XDrip+, Juggluco и Libre 2
 
 Первая установка, первый сенсор:

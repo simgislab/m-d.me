@@ -23,13 +23,14 @@ fediverse: "@username@instance.url"
 * Дынь-юань-фу // Deng-yuan-fu (Brill)
 * Дынь-юань-инь
 * Ва-ян-фу
-* Алаша-ямунь, Алаша-ямынь
+* Алаша-ямунь, Алаша-ямынь (дневники Барадина)
 * Ямунь
 * Ямунь-хото
 * Dingyuanying, 定远营镇
 * Wang Ye Fu
 * Алашань, Alxa League, 阿拉善盟
 * Ting-yuan-ying ([Kozlov](https://pahar.in/pahar/Maps--Primary/Tibet%20and%20China%20Maps/Tibet%20and%20China--After%201900/1910%20Kansu%20and%20Mongolia%20by%20Kozloff%20.jpg))
+* Фу ма фу (дневники Барадина)
 
 <https://en.wikipedia.org/wiki/Bayanhot>
 
