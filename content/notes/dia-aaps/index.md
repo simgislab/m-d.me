@@ -269,7 +269,7 @@ RAW data:
 * 0x0A - Tx Power Leve
 * 0x09 - Complete Local Name
 
-См. также [Информация о Bluetooth RileyLink](/notes/dia-aaps/#информация-о-bluetooth-сенсора)
+См. также [Информация о Bluetooth RileyLink](/notes/dia-aaps/#информация-о-bluetooth-rileylink)
 
 ## XDrip+, Juggluco и Libre 2
 
