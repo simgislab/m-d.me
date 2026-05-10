@@ -136,10 +136,10 @@ Display the Loop plugin’s content. Этот раздел это не разд�
 
 ## RileyLink
 
-Соединяет помпу Medtronic 722 и AAPS.
+Соединяет помпу Medtronic 722 и AAPS по Bluetooth.
 
 * Для работы на телефоне должен быть включен Bluetooth.
-* У приложения AAPS должен быть доступ к Nearby Devices
+* У приложения AAPS должно быть разрешение на Nearby Devices.
 * При включении RileyLink должен мигнуть синий индикатор.
 * RileyLink работает и на зарядке. В процесе зарядки горит красный индикатор.
 * При успешном соединении с помпой горит зеленый индикатор в торце.
@@ -147,6 +147,36 @@ Display the Loop plugin’s content. Этот раздел это не разд�
 Замеченные проблемы:
 
 * Появляется сообщение "ЧИТСТАТУС драйвер помпы изменен/READSTATUS Pump driver changed" после чего рестарты приложения и Bluetooth не помогают, сообщение ни на что не меняется. Помогает удаление и переподключение RileyLink в настройках помпы в AAPS, вкл/выкл самого RileyLink и перезагрузка телефона.
+
+### Информация о Bluetooth RileyLink
+
+Пример информации о сканировании устройства RileyLink с помощью nRF Connect.
+
+* Complete local name: RileyLink
+* BC:33:AC:B7:30:61
+* -100 dBm, 325 ms
+* Device type: LE only
+* Advertising type: Legacy
+* Flags: LE General Discoverable, BR\EDR Not Supported (см. расшифровку ниже)
+* Complete list of 128-bit Service UUIDs: 0235733b-99c5-4197-b856-69219c2a3845
+
+Raw data:
+
+0x020106110745382A9C216956B89741C5993B7335020A0952696C65794C696E6B
+
+| LEN | TYPE | VALUE                              |
+|----:|:----:|:-----------------------------------|
+|   2 | 0x01 | 0x06                               |
+|   17| 0x07 | 0x45382A9C216956B89741C5993B733502 |
+|   10| 0x09 | 0x52696C65794C696E6B               |
+
+Расшифровка типов:
+
+* 0x01 - Flags
+* 0x07 - Complete List of 128-bit Service Class UUIDs
+* 0x09 - Complete Local Name
+
+[Подробнее](/notes/dia-aaps/#информация-о-bluetooth-сенсора)
 
 ## Medtronic, RileyLink, AAPS
 
@@ -195,7 +225,7 @@ XDrip+ устанавливается из [последней ночной сб
 
 ### Информация о Bluetooth сенсора
 
-Пример информации о сканировании конкретного сенсора с помощью nRF Connect.
+Пример информации о сканировании конкретного сенсора с помощью nRF Connect. После того как сенсор спарился с приемником больше он таким сканированием не обнаруживается.
 
 * Complete local name: ABBOTT3MH017EV8X0
 * 8C:61:20:CE:77:CE
@@ -220,13 +250,13 @@ RAW data:
 
 0x02010609FFBB03CE77CE20618C0303E3FD020A0012094142424F5454334D483031374556385830
 
-| LEN | TYPE | VALUE                              |
-|----:|:----:|:-----------------------------------|
-|   2 | 0x01 | 0x06                               |
-|   9 | 0xFF | 0xBB03CE77CE20618C                 |
-|   3 | 0x03 | 0xE3FD                             |
-|   2 | 0x0A | 0x00                               |
-|  18 | 0x09 | 4142424F5454334D483031374556385830 |
+| LEN | TYPE | VALUE                                |
+|----:|:----:|:-------------------------------------|
+|   2 | 0x01 | 0x06                                 |
+|   9 | 0xFF | 0xBB03CE77CE20618C                   |
+|   3 | 0x03 | 0xE3FD                               |
+|   2 | 0x0A | 0x00                                 |
+|  18 | 0x09 | 0x4142424F5454334D483031374556385830 |
 
 * LEN: length of AD packet (Type+Data) in bytes.
 * TYPE: the data type as in [Assigned numbers.pdf](https://www.bluetooth.com/wp-content/uploads/Files/Specification/Assigned_Numbers.pdf), chapter 2.3: Common Data Types
@@ -238,6 +268,8 @@ RAW data:
 * 0x03 - Complete List of 16-bit Service Class UUIDs
 * 0x0A - Tx Power Leve
 * 0x09 - Complete Local Name
+
+См. также [Информация о Bluetooth RileyLink](/notes/dia-aaps/#информация-о-bluetooth-сенсора)
 
 ## XDrip+, Juggluco и Libre 2
 
