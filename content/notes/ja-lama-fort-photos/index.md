@@ -241,7 +241,7 @@ RU: Форт Джа-ламы у Кун-по-Чуаня в Чёрной Гоби
 
 Этот же топоним в форме Gongpochuan упоминается в фотографии неизвестного автора, см. ниже.
 
-Публикация:
+Публикация ([PDF](https://www.jarringlibrary.lingfil.uu.se/travel/journey-to-turkistan/)):
 
 > Teichman, Sir Eric, 1937. Journey to Turkistan. London: Hodder and Stoughton. XIV, 221 p., 31 p. of plates: ill., col. fold. map, ports.
 
