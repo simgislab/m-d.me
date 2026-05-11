@@ -121,6 +121,34 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Фотография получена благодаря помощи Алексея Сидоренко, лично отправившегося в библиотеку в Копенгагене.
 
+### Эрик Тайхман, 19 октября 1935
+
+![teichman-photo.png](teichman-photo.png "Fort of Dja Lama at Kung-po Ch'uan in the Black Gobi")
+
+Подпись
+
+EN: Fort of Dja Lama at Kung-po Ch'uan in the Black Gobi
+
+RU: Форт Джа-ламы у Кун-по-Чуаня в Чёрной Гоби
+
+Тайхман лично посетил развалины крепость по пути к источнику Кун-по-Чуань (Gongpoquan, Kung-po Ch'uan, 公婆泉). Чуань (quan 泉) --- «источник/родник. Монгольское название источника: Баян-Булак (Bayin Buluk), что означает «обильный источник».
+
+Этот же топоним в форме Gongpochuan упоминается в фотографии неизвестного автора, см. ниже.
+
+Публикация:
+
+> Teichman, Sir Eric, 1937. Journey to Turkistan. London: Hodder and Stoughton. XIV, 221 p., 31 p. of plates: ill., col. fold. map, ports.
+
+Фрагмент описания крепости:
+
+> As we approached the spring of Kung-po Ch'uan across a level plain we saw, while still a long way off, the keep and buildings of a castle prominently situated on a hill above the little settlement ; a sight which drew and held attention, for we had seen no buildings worthy of the name since leaving Pai-ling Miao. As we came closer we could see that the fortress, which looked so imposing from a long way off, was but a crumbling ruin ; all that remained of the stronghold of the Mongol monk who, a few years since, had terrorized the Gobi caravans from far and near.
+
+Перевод:
+
+> Когда мы приближались к источнику Кун-по-Чуань по ровной равнине, ещё издалека мы увидели замок и постройки крепости, хорошо заметных на холме над небольшим поселением. Это зрелище сразу привлекло и удержало наше внимание, поскольку со времени нашего отъезда из Пайлин-Мяо мы не видели никаких строений, достойных этого названия.
+>
+> Подойдя ближе, мы смогли разглядеть, что крепость, издали казавшаяся столь внушительной, была всего лишь осыпающимися руинами — всем, что осталось от твердыни монгольского монаха, который ещё несколько лет назад наводил ужас на караваны Гоби, приходившие из ближних и дальних мест.
+
 ### Фольке Бергман, 27 января 1934
 
 Фольке Бергман (Bergman, Folke, [en-wiki](https://en.wikipedia.org/wiki/Folke_Bergman)) - шведский археолог, участник китайско-шведской экспедиции Свена Гедина.
