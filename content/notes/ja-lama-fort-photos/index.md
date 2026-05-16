@@ -6,7 +6,7 @@ description: "Фотографии крепости Джа-ламы из раз�
 toc: true
 autonumber: false
 math: false
-tags: ["Джа-лама","Монголия","Латтимор","Хаслунд","Рерих"]
+tags: ["Джа-лама","Монголия","Латтимор","Хаслунд","Рерих","Гедин","Тейхман"]
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
