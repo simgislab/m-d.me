@@ -40,7 +40,7 @@ fediverse: "@username@instance.url"
 
 1. Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (6), December 1928: 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing))
 
-2. Lattimore, Owen. 1928. The Desert Road to Turkestan. Boston: Little, Brown, and Company. ([скачать](https://archive.org/embed/dli.pahar.2407))
+2. Lattimore, Owen. 1929. The Desert Road to Turkestan. Boston: Little, Brown, and Company. ([скачать](https://archive.org/embed/dli.pahar.2407))
 
 [Глава о Джа-ламе](/notes/lattimor-ja-lama/) с переводом и подробностям о восстановлении даты посещения крепости.
 
