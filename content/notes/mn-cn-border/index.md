@@ -135,4 +135,4 @@ fediverse: "@username@instance.url"
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/65)
+[**Обсудить**](https://t.me/answer42geo/212)

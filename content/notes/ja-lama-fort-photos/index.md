@@ -26,7 +26,9 @@ fediverse: "@username@instance.url"
 
 Публикация:
 
-Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (2): 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing))
+Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (2): 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing)).
+
+[Глава о Джа-ламе](/notes/lattimor-ja-lama/) с переводом.
 
 ### Рерих Ю.Н., 1927
 
