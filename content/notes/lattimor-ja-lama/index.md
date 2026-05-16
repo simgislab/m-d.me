@@ -14,17 +14,39 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Оуэн Латтимор --- американский востоковед, автор ряда трудов ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%82%D0%B8%D0%BC%D0%BE%D1%80,_%D0%9E%D1%83%D1%8D%D0%BD), [en-wiki](https://en.wikipedia.org/wiki/Owen_Lattimore)).
+Оуэн Латтимор (Owen Lattimore) --- американский востоковед, автор ряда трудов ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%82%D0%B8%D0%BC%D0%BE%D1%80,_%D0%9E%D1%83%D1%8D%D0%BD), [en-wiki](https://en.wikipedia.org/wiki/Owen_Lattimore)).
 
-В 1926/1927, но скорее в 1926 (Оуэн в статье не сообщает никаких сроков), то есть за год до Рериха, Оуэн Латтимор, путешествуя от Пекина до Кашмира, тоже посетил крепость Джа-ламы и сделал отличное фото.
+В 1926/1927, но скорее в 1926, то есть за год до Рериха, Оуэн Латтимор, путешествуя от Пекина до Кашмира, посетил [крепость Джа-ламы](/notes/ja-lama-fort-location/) и сделал отличное фото.
 
-Основнаая публикация:
+Основные публикации:
 
-Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (2): 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing))
+1. Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (6), December 1928: 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing))
+
+2. Lattimore, Owen. 1928. The Desert Road to Turkestan. Boston: Little, Brown, and Company. ([скачать](https://archive.org/embed/dli.pahar.2407))
+
+## Дата посещения замка Джа-ламы
+
+В Caravan Routes of Inner Asia Латтимор не сообщает никаких сроков кроме рамки 1926-1927. Подробные календарные даты находятся в его книге The Desert Road to Turkestan. 26 октября 1926 в главе CORPSE CARAVANS AND GHOSTS книги (стр. 245) Латтимор пишет:
+
+> On the twenty-sixth of October our first snow came flurrying down on a stinging wind. W e were now in the heart of the Ma-tsung Shan, though most of the time we were out of sight of what had appeared from the House of the False Lama to be a single, well-distinguished range.
+
+Перевод
+
+Двадцать шестого октября на пронизывающем ветру закружился наш первый снег. Мы были уже в самом сердце Ма-цзун-шаня, хотя большую часть времени не видели того, что от Дома Лже-ламы казалось единой, чётко очерченной горной цепью.
+
+Перед этим, в начале главы Латтимор сообщает:
+
+> WE moved on for three marches to a camp called Salt Pool Wells, a group of stingy spring-fed pools in the hollows of a soil per-meated with salt and soda.
+
+Перевод:
+
+Мы прошли ещё три перехода до стоянки под названием Солёные Колодцы — группы скудных родниковых луж в углублениях почвы, пропитанной солью и содой.
+
+Таким образом, Латтимор посетил крепость Джа-ламы 26-го минус три дня (три перехода) 22.10.1926.
 
 ## О Джа-ламе
 
-В статье Латтимор так рассказывает про Джа-ламу (называет его False Lama):
+В Caravan Routes of Inner Asia Латтимор так рассказывает про Джа-ламу (называет его False Lama):
 
 > The region rose to a position notorious for several years in Central Asian politics, but obscure to the outer world, during the period after the War when first White and then Red Russian partisans were carrying on a savage guerilla warfare in Mongolia, involving not only Russians but Chinese and Mongols. During this period a man who appears to have been a Mongolized Chinese, but who is remembered only by the name of "The False Lama," gained some measure of power in Outer Mongolia. Apparently when Soviet Russia began to assert a positive control over the affairs of Outer Mongolia, he thought it wise to flee, carrying with him a considerable following, some of them his own fighting men and others Mongols that he gathered up to form a population about him.
 >
@@ -46,9 +68,21 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 
 ## Фото
 
+Из Caravan Routes of Inner Asia:
+
 ![ja-lama-fortress.png](ja-lama-fortress.png "Ruined fortress of False Lama, Matsung Shan, W. Mongolia")
 
-Фотографии крепости также можно найти у Ломакиной в "Голова Джа-ламы" ([фото Хаслунда 1928](/notes/lomakina-ja-lama/#250)), у Roerich в "Trails to Inmost Asia" ([The castle of Ja lama](/notes/roerich-trails-to-asia-en/#211jalama)) и других путешественников.
+Перевод подписи: "Разрушенная крепость Лже-ламы, Ма-цзун-шань, Западная Монголия."
+
+Это же фото есть в The Desert Road to Turkestan. Подпись другая: "The Keep where the False Lama had his Quarters", т.е. "Замок, где располагались покои Лже-ламы."
+
+В The Desert Road to Turkestan есть еще одно фото:
+
+![ja-lama-house.png](ja-lama-house.png "The House of the False Lama")
+
+Перевод подписи: "Дом Лже-ламы."
+
+Другие фотографии крепости также можно найти у Ломакиной в "Голова Джа-ламы" ([фото Хаслунда 1928](/notes/lomakina-ja-lama/#250)), у Roerich в "Trails to Inmost Asia" ([The castle of Ja lama](/notes/roerich-trails-to-asia-en/#211jalama)) и у других путешественников.
 
 [Вся коллекция фотографий](/notes/ja-lama-fort-photos/) крепости с точными источниками и описаниями.
 
