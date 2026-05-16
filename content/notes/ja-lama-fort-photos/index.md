@@ -22,7 +22,9 @@ fediverse: "@username@instance.url"
 
 ### Латтимор О., 22 октября 1926
 
-Оуэн Латтимор, Caravan Routes of Inner Asia:
+Оуэн Латтимор [описывает свое путешествие](/notes/lattimor-ja-lama/) и рассказывает про Джа-ламу (его он называет False Lama) в статье Caravan Routes of Inner Asia и книге The Desert Road to Turkestan/
+
+Фото из Caravan Routes of Inner Asia:
 
 ![ja-lama-fortress-reused.png](ja-lama-fortress-reused.png "Ruined fortress of False Lama, Matsung Shan, W. Mongolia")
 
