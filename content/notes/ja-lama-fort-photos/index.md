@@ -22,17 +22,17 @@ fediverse: "@username@instance.url"
 
 ### Латтимор О., 22 октября 1926
 
-Из Caravan Routes of Inner Asia:
+Оуэн Латтимор, Caravan Routes of Inner Asia:
 
-![ja-lama-fortress.png](ja-lama-fortress.png "Ruined fortress of False Lama, Matsung Shan, W. Mongolia")
+![ja-lama-fortress-reused.png](ja-lama-fortress-reused.png "Ruined fortress of False Lama, Matsung Shan, W. Mongolia")
 
 Перевод подписи: "Разрушенная крепость Лже-ламы, Ма-цзун-шань, Западная Монголия."
 
 Это же фото есть в The Desert Road to Turkestan. Подпись другая: "The Keep where the False Lama had his Quarters", т.е. "Замок, где располагались покои Лже-ламы."
 
-В The Desert Road to Turkestan есть еще одно фото:
+В книге The Desert Road to Turkestan есть еще одно фото:
 
-![ja-lama-house.png](ja-lama-house.png "The House of the False Lama")
+![ja-lama-house-reused.png](ja-lama-house-reused.png "The House of the False Lama")
 
 Перевод подписи: "Дом Лже-ламы."
 
@@ -42,7 +42,7 @@ fediverse: "@username@instance.url"
 
 2. Lattimore, Owen. 1929. The Desert Road to Turkestan. Boston: Little, Brown, and Company. ([скачать](https://archive.org/embed/dli.pahar.2407))
 
-[Глава о Джа-ламе](/notes/lattimor-ja-lama/) с переводом и подробностям о восстановлении даты посещения крепости.
+[Глава о Джа-ламе](/notes/lattimor-ja-lama/) с переводом и подробностям о восстановлении точной даты посещения крепости.
 
 ### Рерих Ю.Н., 1927
 
