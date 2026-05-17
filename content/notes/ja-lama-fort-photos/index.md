@@ -46,7 +46,7 @@ fediverse: "@username@instance.url"
 
 [Глава о Джа-ламе](/notes/lattimor-ja-lama/) с переводом и подробностям о восстановлении точной даты посещения крепости.
 
-### Рерих, Юрий Николаевич, 1927
+### Рерих, Юрий Николаевич, 12 мая 1927
 
 ![085-castle-ja-lama.png](085-castle-ja-lama-reused.png "The castle of Ja lama")
 
@@ -55,6 +55,14 @@ fediverse: "@username@instance.url"
 > Roerich, G. 1931. Trails to Inmost Asia: Five years of exploration with the Roerich Central Asian Expedition. New Haven: Yale University Press. Preface by Louis Marin, 504 pages, folding route map, frontispiece portrait, 151 illustrations.
 
 [Фото в тексте](/notes/roerich-trails-to-asia-en/#211jalama).
+
+> In the early morning we had the rather unexpected surprise of finding the dreaded castle of Ja Lama immediately south of our camp. It was quite out of the question to remain in camp without occupying the castle, for in case it was occupied by brigands, they could easily attack our camp. In the early morning Professor Roerich decided to reconnoiter the surrounding country and to occupy the fortress. Following his instructions, I ordered half of our guard to accompany Portniagin and me to the fortress.
+
+Перевод:
+
+Ранним утром нас ожидал довольно неожиданный сюрприз: прямо к югу от нашего лагеря обнаружился грозный замок Джа-ламы. Оставаться в лагере, не заняв замок, было совершенно невозможно: если бы его заняли разбойники, они легко могли бы напасть на наш лагерь. Рано утром профессор Рерих решил произвести разведку окрестностей и занять крепость. Следуя его указаниям, я приказал половине нашей охраны сопровождать Портнягина и меня к крепости.
+
+Дата 12 мая 1927 в тексте Trails to Inmost Asia не упоминается, но [упоминается 9 мая](https://m-d.me/notes/roerich-trails-to-asia-en/#209) и далее по стоянкам можно вычислить точную дату посещения крепости.
 
 ### Рерих, Юрий Николаевич, 1927 (экспедиционные фото)
 
@@ -255,7 +263,7 @@ EN: Fort of Dja Lama at Kung-po Ch'uan in the Black Gobi
 
 RU: Форт Джа-ламы у Кун-по-Чуаня в Чёрной Гоби
 
-Тейхман лично посетил развалины крепость по пути к источнику Кун-по-Чуань (Gongpoquan, Kung-po Ch'uan, 公婆泉). Чуань (quan 泉) --- источник/родник. Монгольское название источника: Баян-Булак (Bayin Buluk), что означает «обильный источник».
+Тейхман лично посетил развалины крепость по пути к источнику Кун-по-Чуань (Gongpoquan, Kung-po Ch'uan, 公婆泉). Чуань (quan,ch'uan 泉) --- источник/родник. Монгольское название источника: Байин-Булак (Bayin Buluk), что означает «обильный источник».
 
 Этот же топоним в форме Gongpochuan упоминается в фотографии неизвестного автора, см. ниже.
 
