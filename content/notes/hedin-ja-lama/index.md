@@ -43,7 +43,7 @@ Presently we were driving over flat, sandy ground, among saxaules living and dea
 
 The road ran along a shallow gully between red, rounded terraces. These gave place to low, red hillocks. At intervals, this lifeless caravan-route was marked by an oho; and in sheltered spots one saw patches of snow, probably the remains of a local fall. As the valley grew narrower and more picturesque these patches of snow became more frequent. We drove on through a dense scrub, between wild rocks. At last the mountains came to an end, and open country spread out before us. Sloping away very slowly to: the north-west, the ground gradually merged into what seemed to be a limitless plain. Only to the north and south were mountains visible.
 
-Round hillocks, not much more than three meters in height, were scattered singly or in rows, resembling 3:ncient barrows. Although the desert was entirely barren, one nevertheless saw a few antelopes. A chain of hills receded to the south in a lovely, subdued shade of blue. Paradoxical as it may sound, the only sign of life in this kingdom of death, apart from the occasional antelopes, was the skeletons of dead camels. One was often deceived as to the distance of objects. Sometimes it would take hours to reach a mountain that seemed fairly near; at other times one would take a nearby hill for a distant mountain.
+Round hillocks, not much more than three meters in height, were scattered singly or in rows, resembling ancient barrows. Although the desert was entirely barren, one nevertheless saw a few antelopes. A chain of hills receded to the south in a lovely, subdued shade of blue. Paradoxical as it may sound, the only sign of life in this kingdom of death, apart from the occasional antelopes, was the skeletons of dead camels. One was often deceived as to the distance of objects. Sometimes it would take hours to reach a mountain that seemed fairly near; at other times one would take a nearby hill for a distant mountain.
 
 On the following day the tufts of vegetation began to grow more frequent. We passed a few old caravan-camps and camels' skeletons. We were in the middle of a wide depression, whose sediment of yellow clay showed that it-had once been the bottom of a lake. The mountains in the south are called the Ma-tsung-shan, "Horse's Mane Mountains", and this name appeared to apply to the whole district. On this grey-violet range there are streaks of snow that may possibly suggest a horse's mane.
 
@@ -59,8 +59,7 @@ The DAMBIN LAMA or CHIA LAMA ("False Lama") had established himself in this stro
 
 After our short visit to what had been the "false lama's" robber-nest we had to traverse an unpleasant stretch of country comprising vegetation-clad mounds of clay covered with scrub and grass - very good for camels but horrible for cars. The soil was an almost white, loose clay, with an admixture of soda.
 
-(1) An excellent and brief compilation of the different sources dealing with this adventurer is given
-by Sir ERIK TEICHMAN in Journey to Turkistan (London 1937), pp. 76-78. F. B.
+(1) An excellent and brief compilation of the different sources dealing with this adventurer is given by Sir ERIK TEICHMAN in Journey to Turkistan (London 1937), pp. 76-78. F. B.
 
 ## Текст на русском (перевод)
 

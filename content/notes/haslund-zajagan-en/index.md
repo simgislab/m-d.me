@@ -2590,7 +2590,7 @@ Among the nomads the conviction long prevailed that Dambin Jansang was the re-in
 
 <a id="155">**155 A ROBBER'S STRONGHOLD**</a>
 
-should assemble the tribes and re-create the ancient *ö**ret* confederation. All who know the power of prophecies over the primitive lamaists of Asia should be able to understand Dambin Jansang's success. He was worshipped as a divine warrior, and soon hosts of savage fighters gathered round the new leader.
+should assemble the tribes and re-create the ancient *öret* confederation. All who know the power of prophecies over the primitive lamaists of Asia should be able to understand Dambin Jansang's success. He was worshipped as a divine warrior, and soon hosts of savage fighters gathered round the new leader.
 
 He was the most prominent of those who inspired the Mongols' national struggle for freedom in 1911 and 1912, and he commanded the horde of West Mongols that attacked the Chinese garrison of Kobdo. After the town fell Dambin Jansang had the Chinese and Mohammedan inhabitants massacred, and himself slaughtered ten persons according to an occult ritual and with their blood painted tokens of victory on the standards of the troops.
 
@@ -4072,9 +4072,9 @@ the Russians and the incarnation of the goddess Dara äkhä.(1)
 
 The Regent now learned to his surprise that in the wide world there were other independent sovereigns who stood in no tributary relation to any of the four Great *Khans*. And I succeeded in giving a convincing demonstration of King Gustaf's greatness by means of a picture of the day of the Swedish flag in which vast crowds of people and numerous deputations with a forest of flags are shown bringing their "tribute" to the chieftain of all the Swedes---"Sweduin Khan", as I christened His Majesty.
 
-> 1 Dara äkhä is a lamaistic goddess of Mercy and the special patroness of women. She it is, too, who protects the traveller from falling rocks and from the obstacle of swift streams upon his way. Dara äkhä was formed of Bodhisattva Avalokites'vara's tears and reincarnated in two Buddhist princesses, one Chinese (Tsaghan dara äkhä) and one Nepalese (Nogon dara äkhä). These two princesses married the renowned ruler of Tibet, Srong-tsang-Gampo, who under the influence of his two consorts became in the eighth century a Buddhist and originator of the lamaistic form of Buddhism in Central Asia. These two *dara* *äkhä* are among the host of *dolma* who are also called among the Mongols "The mothers guiding to Nirvana *Dara* *äkhä* is the Mongols' popular name for these exalted beings who possess besides a large number of titles which are contained in a manuscript, "The divine and venerable *dolma's* eight hundred and eight names". The number eight hundred and eight is sacred and is found again in the eight hundred and eight beads of the lamaistic rosary.
+> 1 Dara äkhä is a lamaistic goddess of Mercy and the special patroness of women. She it is, too, who protects the traveller from falling rocks and from the obstacle of swift streams upon his way. Dara äkhä was formed of Bodhisattva Avalokites'vara's tears and reincarnated in two Buddhist princesses, one Chinese (Tsaghan dara äkhä) and one Nepalese (Nogon dara äkhä). These two princesses married the renowned ruler of Tibet, Srong-tsang-Gampo, who under the influence of his two consorts became in the eighth century a Buddhist and originator of the lamaistic form of Buddhism in Central Asia. These two *dara äkhä* are among the host of *dolma* who are also called among the Mongols "The mothers guiding to Nirvana *Dara äkhä* is the Mongols' popular name for these exalted beings who possess besides a large number of titles which are contained in a manuscript, "The divine and venerable *dolma's* eight hundred and eight names". The number eight hundred and eight is sacred and is found again in the eight hundred and eight beads of the lamaistic rosary.
 >
-> That the Tsars of Russia have, since the Empresses Elizabeth and Catherine, been reckoned by the lamaists as incarnations of *Dara* *äkhä* is the result of political cunning on the part of the Russians. When the West-Mongol and Buryat delegates were received at the end of the eighteenth century in ceremonial audience at the court, they saw the Empress "in divine splendour and celestial surroundings", and it was easy for the Russians to convince the simple nomads that their ruler was a divine being.
+> That the Tsars of Russia have, since the Empresses Elizabeth and Catherine, been reckoned by the lamaists as incarnations of *Dara äkhä* is the result of political cunning on the part of the Russians. When the West-Mongol and Buryat delegates were received at the end of the eighteenth century in ceremonial audience at the court, they saw the Empress "in divine splendour and celestial surroundings", and it was easy for the Russians to convince the simple nomads that their ruler was a divine being.
 
 <a id="248">**248**</a>
 
@@ -4863,7 +4863,7 @@ Bogdo Ula plays a prominent part in the historical legends of the West Mongols.
 
 mountain. The lama could bestride the mountain's highest peaks with ease and he would spread out his vellow lama's robe as a bird its wings and soar through space like a proud eagle. Thus he could survey the enemy's position from the air and then communicate the result of his observations to the West Mongols."
 
-In silent adoration the Torguts turned their gaze towards the south where, behind boundless deserts and high plateaux beyond the range of vision, their religion had its source. Their thoughts went on pilgrimage to the castle of Potala, the seat of the Dalai Lama, and they saw the hallowed incense rising from the sacred mountain Budul Ola. The incense took the shape of three mountain sheep of celestial beauty that ran through space to meet their pilgrim fancy; the golden bird of imagination (*altan khan-grän gruregroldä*) soared heavenward, and the miraculous stag of inspiration (*minj**ä* *khan-grän boro*) bounded on nimble feet across the mountains.
+In silent adoration the Torguts turned their gaze towards the south where, behind boundless deserts and high plateaux beyond the range of vision, their religion had its source. Their thoughts went on pilgrimage to the castle of Potala, the seat of the Dalai Lama, and they saw the hallowed incense rising from the sacred mountain Budul Ola. The incense took the shape of three mountain sheep of celestial beauty that ran through space to meet their pilgrim fancy; the golden bird of imagination (*altan khan-grän gruregroldä*) soared heavenward, and the miraculous stag of inspiration (*minjä khan-grän boro*) bounded on nimble feet across the mountains.
 
 ![notes_p292.png](notes_p292.png "“Minjä Khan-grän Boro.” (Torgut Song.)")
 
@@ -5909,7 +5909,7 @@ Dance of masked lamas, a religious act, [50](#50)
 --- of the gods, [39](#39) *et seq*.
 --- *see also* Tsam dance
 
-*Dara* *äkhä**:* Mongol popular name for exalted beings possessing a large number of titles (footnote), [247](#247); lamaistic goddess ot Mercy (footnote), [247](#247); special patroness of women (footnote), [247](#247)
+*Dara äkhä*: Mongol popular name for exalted beings possessing a large number of titles (footnote), [247](#247); lamaistic goddess ot Mercy (footnote), [247](#247); special patroness of women (footnote), [247](#247)
 
 *Darkhan*, meaning of, [30](#30); Mongol middle class, exempt from socage (footnote), [118](#118)
 --- Beile Kung, [62](#62)

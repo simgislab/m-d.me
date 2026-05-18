@@ -51,7 +51,7 @@ fediverse: "@username@instance.url"
 
 * Латтимор, Оуэн: 22 октября 1926
 * Рерих, Николай Константинович: 12 мая 1927
-* Хаслунд-Кристенсен, Хеннинг: 1928
+* Хаслунд-Кристенсен, Хеннинг: 16 ноября 1928
 * Гедин, Свен: 27 января 1934
 * Тейхман, Эрик: 19 октября 1935
 
@@ -94,7 +94,7 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 
 Публикация:
 
-Roerich, G. 1931. Trails to Inmost Asia. [Стр. 207](https://m-d.me/notes/roerich-trails-to-asia-en/#207)
+Roerich, G. 1931. Trails to Inmost Asia. [Стр. 207](/notes/roerich-trails-to-asia-en/#207)
 
 * well called Altan-usu;
 * Ma-tzu Shan, Ma-tsung Shan;
@@ -108,13 +108,31 @@ Roerich, G. 1931. Trails to Inmost Asia. [Стр. 207](https://m-d.me/notes/roer
 
 ### Хаслунд
 
-Маршрут с востока на запад:
+Маршрут с востока на запад: Peking --- Sogho Nor --- Hami --- Urumchi и далее.
 
 Публикация:
+
+Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translated from Swedish by Elizabeth Sprigge and Claude Napier. New York: E.P. Dutton & co. [Стр. 150](/notes/haslund-zajagan-en/#150)
+
+* To the south and west the view was cut off by the blue chain of the Ma-tsung mountains;
+* The Mongols call the place Baying Bulak, “the rich spring” ...;
+* ... but the Chinese Kung-p’o Ch’uan, “the spring by the duke’s precipice”;
+
+![haslund-zajagan-en-map-reused.png](haslund-zajagan-en-map-reused.png "Main expedition route. Route of Author's Journeys 1927-1930")
+
+![haslund-zajagan-en-map-reused-zoom.png](haslund-zajagan-en-map-reused-zoom.png "Увеличенный фрагмент. Стык как в PDF.")
 
 ### Гедин
 
+Маршрут с востока на запад: Peking --- Kuei-hua --- Hami --- Turfan и далее.
+
 Публикация:
+
+Hedin, 1944. History of the Expedition in Asia 1927-1935 by Sven Hedin in collaboration with Folke Bergman. In Reports from the scientific expedition to the North-Western provinces of China under the leadership of Dr. Sven Hedin. The Sino-Swedish expedition. Publication 25. Stockholm. Pp. 41-43.
+
+* we passed Hung-liu-ka-ta-ching;
+* The mountains in the south are called the Ma-tsung-shan, "Horse's Mane Mountains";
+* At eleven o'clock we halted at the Kung-pao-ch'üan spring;
 
 ### Тейхман
 
@@ -170,8 +188,6 @@ Teichman, Sir Eric, 1937. Journey to Turkistan. London: Hodder and Stoughton. XI
 * город Мацзуншань, Субэй-Монгольский автономный уезд ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D1%8D%D0%B9-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D1%83%D0%B5%D0%B7%D0%B4)), Цзюцюань ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%A6%D0%B7%D1%8E%D1%86%D1%8E%D0%B0%D0%BD%D1%8C_(%D0%93%D0%B0%D0%BD%D1%8C%D1%81%D1%83))) --- ранее Сужоу, Ганьсу, Китай, 736301
 
 ![matsungshan-google.png](matsungshan-google.png "https://maps.app.goo.gl/zCZowxdXDanKftUF6")
-
-https://www.sohu.com/a/130106333_501362
 
 ### Kung-po Ch'uan
 
