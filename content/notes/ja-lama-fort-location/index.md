@@ -15,7 +15,7 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-После изгнания с запада Внешней Монголии-Халхи, Джа-лама перебрался южнее, во Внутреннюю, где построил крепость.
+После изгнания из Внешней Монголии-Халхи, Джа-лама перебрался на юг, во Внутреннюю, где построил крепость.
 
 Крепость Джа-ламы была построена в стратегическом месте, недалеко пересечения важных караванных путей: с севера на юг от Урги через Юм-бейсе в Тибет и с востока на запад от Хух-хото (Коко-хото, Гуй-Хуа-чен) в Кученг (Kuch’eng), Урумчи, Кашгар ([подробнее](/notes/roerich-urga-yum-beise/#koko-khoto--kucheng)).
 
@@ -55,11 +55,11 @@ fediverse: "@username@instance.url"
 * Гедин, Свен: 27 января 1934
 * Тейхман, Эрик: 19 октября 1935
 
-Дата - дата посещения крепости.
+Дата --- дата посещения крепости.
 
 ## Упоминания у путешественников
 
-Перечни топонимов и других ориентиров в районе крепости упоминаемые путешественниками. Где возможно и это имеет смысл, приводится конкретная цитата из публикации с переводом.
+Перечни топонимов и других ориентиров в районе крепости упоминаемые путешественниками. Где возможно и это имеет смысл, приводится цитата из публикации с переводом.
 
 ### Латтимор
 
@@ -128,11 +128,15 @@ Henning Haslund-Christensen, 1935. Men and Gods in Mongolia (Zayagan). Translate
 
 Публикация:
 
-Hedin, 1944. History of the Expedition in Asia 1927-1935 by Sven Hedin in collaboration with Folke Bergman. In Reports from the scientific expedition to the North-Western provinces of China under the leadership of Dr. Sven Hedin. The Sino-Swedish expedition. Publication 25. Stockholm. Pp. 41-43.
+Hedin, 1944. History of the Expedition in Asia 1927-1935 by Sven Hedin in collaboration with Folke Bergman. In Reports from the scientific expedition to the North-Western provinces of China under the leadership of Dr. Sven Hedin. The Sino-Swedish expedition. Publication 25. Stockholm. Pp. 41-43. ([скачать](https://drive.google.com/file/d/1wyq_rLNwnG15ykXcu0pt4nfM397YnsSs/view?usp=sharing))
 
 * we passed Hung-liu-ka-ta-ching;
 * The mountains in the south are called the Ma-tsung-shan, "Horse's Mane Mountains";
 * At eleven o'clock we halted at the Kung-pao-ch'üan spring;
+
+![Hedin, 1944. History-of-the-expedition-in-asia-1927-1935-part-iii-1933-1935-414.png](Hedin, 1944. History-of-the-expedition-in-asia-1927-1935-part-iii-1933-1935-414.png "The main routes of Sino-Swedish expedition 1927-193?")
+
+Карта в доступном PDF очень плохого качества.
 
 ### Тейхман
 
