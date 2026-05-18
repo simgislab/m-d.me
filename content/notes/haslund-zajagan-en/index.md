@@ -4865,7 +4865,7 @@ mountain. The lama could bestride the mountain's highest peaks with ease and he 
 
 In silent adoration the Torguts turned their gaze towards the south where, behind boundless deserts and high plateaux beyond the range of vision, their religion had its source. Their thoughts went on pilgrimage to the castle of Potala, the seat of the Dalai Lama, and they saw the hallowed incense rising from the sacred mountain Budul Ola. The incense took the shape of three mountain sheep of celestial beauty that ran through space to meet their pilgrim fancy; the golden bird of imagination (*altan khan-grän gruregroldä*) soared heavenward, and the miraculous stag of inspiration (*minj**ä* *khan-grän boro*) bounded on nimble feet across the mountains.
 
-![notes_p292.png](notes_p292.png "“Minjä Khan-grän Boro." (Torgut Song.)")
+![notes_p292.png](notes_p292.png "“Minjä Khan-grän Boro.” (Torgut Song.)")
 
 The sun sank down and darkness rose up out of the depths. The "Rock-goat's summit" retained the last lingering gleams of day. We stood there and watched the darkness climbing up to meet us. During the descent star after star was lighted and grew in brilliance. The stillness of the frosty night was broken only by Töin Geling's prayers for the dead and the long-drawn howl of the wolves gathered on the northern side of the pass.
 
