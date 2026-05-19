@@ -195,7 +195,7 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 Указанная дата съемки: 1934 г. <https://collections.smvk.se/carlotta-em/web/object/26286567>
 
-**Вид на одно из второстеенных зданий**
+**Вид на одно из второстепенных зданий**
 
 ![hedin-bergman-1034.0020.jpg](hedin-bergman-1034.0020.jpg)
 
