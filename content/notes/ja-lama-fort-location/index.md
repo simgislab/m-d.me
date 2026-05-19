@@ -65,6 +65,10 @@ fediverse: "@username@instance.url"
 
 Маршрут с востока на запад: Kweihwa (Kuku-khoto) --- Kuchengtze (Ku Ch’eng-tze).
 
+Публикация:
+
+Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (6), December 1928: 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing))
+
 * foothills of the Matsung Shan, "horse-hoof-print hills" - the Horseshoe Hill;
 * Somewhere through it passes the route of Ladighin from north to south;
 * maintaining the trade between Kweihwa and Chinese Turkistan;
@@ -73,10 +77,6 @@ fediverse: "@username@instance.url"
 * Mingshui marked on many maps. It appears to derive from a map of the Germans, Holderer and Futterer, which includes a route of the Russian Obruchev; but it may not be the same place, as Mingshui simply means "'clear water", and can be applied to any spring-fed well;
 * snow on the peaks of the Qarliq Tagh;
 * routes from Kansu and Outer Mongolia converge on the Winding Road;
-
-Публикация:
-
-Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Journal 72 (6), December 1928: 497–531. ([скачать](https://drive.google.com/file/d/1cHTO73PBWEKstRHMDd8YH4x2F4krWIYn/view?usp=sharing))
 
 ![lattimore-caravan-routes-map.png](lattimore-caravan-routes-map.png "The principle caravan routes of Inner Asia")
 
@@ -87,6 +87,37 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 ![lattimore-caravan-routes-map2.png](lattimore-caravan-routes-map2.png "Caravan routes from China to Central Asia, showing Mr. Lattimore's route from Kweihwa to Kuchengtze")
 
 Караванные пути из Китая в Центральную Азию с указанием маршрута г-на Латтимора от Хух-хото до Кученга.
+
+Публикация:
+
+Lattimore, Owen. 1929. The Desert Road to Turkestan. Boston: Little, Brown, and Company. ([скачать](https://archive.org/embed/dli.pahar.2407))
+
+* The Wild Horse Well is on the very brink of the central plateau of the Black Gobi;
+* we could see far off toward the south-west the blue beginnings of the Ma-tsung Shan;
+* The name of this well is significant: it is Ho-shao Ching, which means the Well of the Hoshun;
+* This well is on a variant of an ancient route, now fallen into some desuetude, between Hsü Chou in Kan-su and Yunbeize;
+* One stage more to the west from this well is a half-dry mere called Kung-p'o Ch'üan ...
+* ... the strategic point of the region which the caravan men call the San Pu-Kuan;
+* At Kung-p'o Ch'iian ... here comes into the same oasis the main trail from the north, coming from Yunbeize and going to Hsü Chou, through an easy pass of the main range of the Ma-tsung Shan.
+* I crossed the line of Ladighin, of Kozloff's 1900-1 expedition, whose march was from north to south;
+* His most important excursion was eastward, to the Kuku-tumurtu-ola (the Ati Bogdo of Carruthers);
+* This range, he says, links with the Noin Bogdo to the east, north of the terminal basin of the Edsin Gol.
+* isolated on the north by a desert, the Charghin Gobi;
+* alfway between the Tumurtu and Hsü Chou he indicates a portion of a range called "Madzi-shan.";
+* This is undoubtedly the Ma-tsung Shan;
+* In a depression beginning a t the Well of the Hoshun;
+* Sertsinghin-nuru of Ladighin;
+* they run up to the Aji Bogdo, yet farther back in the north and west;
+* the strangest ruins I ever saw;
+* It is from these ruins that the mere is called Kung-p'o Ch'iian- the Spring of the Hillside of the Duke.
+* establishing the crossing of the Khara Gobi by the Three and the Four Dry Stages;
+* making it possible for large caravans to travel from Ku Ch'eng-tze to Kuei-hua;
+* The digging of the "miraculous" Stone Slab Wells;
+* Ve camped about five miles beyond the Chia-lama Pan'rh at the next group of springs.
+
+![lattimore-book-map-fragment.png](lattimore-book-map-fragment.png "Sketch map showing Mongolian trade routes.")
+
+Фрагмент карты из книги.
 
 ### Рерих
 
@@ -202,6 +233,10 @@ Teichman, Sir Eric, 1937. Journey to Turkistan. London: Hodder and Stoughton. XI
 Согласно топокартам Генштаба - название Гунпоцюань ранее носил город Мацзуншань. Координаты Гунпоцюань на топокартах совпадают с расположением города Мацзуншань. Названия часто упоминаются вместе ([пример](https://www.thewindpower.net/windfarm_en_36502_mazongshan-gongpoquan.php)).
 
 ![gongpoquan-topo.png](gongpoquan-topo.png "https://nakarte.me/#m=13/41.80286/97.03631&l=T")
+
+Родник Гунпоцюань также отмечен на карте в 22 км на северо-восток от деревни Гунпоцюань.
+
+![gongpoquan-topo-spring.png](gongpoquan-topo-spring.png)
 
 ## Комментарии
 
