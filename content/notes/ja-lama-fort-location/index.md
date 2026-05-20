@@ -219,7 +219,7 @@ Teichman, Sir Eric, 1937. Journey to Turkistan. London: Hodder and Stoughton. XI
 Населенный пункт: 马鬃山镇 (Mǎzōng shān zhèn).
 
 * Mazongshan Town, Subei Mongol Autonomous County ([en-wiki](https://en.wikipedia.org/wiki/Subei_Mongol_Autonomous_County)), Jiuquan ([en-wiki](https://en.wikipedia.org/wiki/Jiuquan)) - ранее Suzhou, Gansu, China, 736301
-* город Мацзуншань, Субэй-Монгольский автономный уезд ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D1%8D%D0%B9-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D1%83%D0%B5%D0%B7%D0%B4)), Цзюцюань ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%A6%D0%B7%D1%8E%D1%86%D1%8E%D0%B0%D0%BD%D1%8C_(%D0%93%D0%B0%D0%BD%D1%8C%D1%81%D1%83))) --- ранее Сужоу, Ганьсу, Китай, 736301
+* город Мацзуншань, Субэй-Монгольский автономный уезд ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D1%8D%D0%B9-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D1%83%D0%B5%D0%B7%D0%B4)), Цзюцюань ([ru-wiki](https://ru.wikipedia.org/wiki/%D0%A6%D0%B7%D1%8E%D1%86%D1%8E%D0%B0%D0%BD%D1%8C_(%D0%93%D0%B0%D0%BD%D1%8C%D1%81%D1%83))) --- ранее Сужоу (Су-чжоу, Сучжоу), Ганьсу, Китай, 736301
 
 ![matsungshan-google.png](matsungshan-google.png "https://maps.app.goo.gl/zCZowxdXDanKftUF6")
 
