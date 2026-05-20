@@ -118,7 +118,7 @@ Lattimore, Owen. 1929. The Desert Road to Turkestan. Boston: Little, Brown, and 
 * establishing the crossing of the Khara Gobi by the Three and the Four Dry Stages;
 * making it possible for large caravans to travel from Ku Ch'eng-tze to Kuei-hua;
 * The digging of the "miraculous" Stone Slab Wells;
-* Ve camped about five miles beyond the Chia-lama Pan'rh at the next group of springs.
+* We camped about five miles beyond the Chia-lama Pan'rh at the next group of springs.
 
 ![lattimore-book-map-fragment.png](lattimore-book-map-fragment.png "Sketch map showing Mongolian trade routes.")
 
@@ -170,7 +170,7 @@ Hedin, 1944. History of the Expedition in Asia 1927-1935 by Sven Hedin in collab
 * The mountains in the south are called the Ma-tsung-shan, "Horse's Mane Mountains";
 * At eleven o'clock we halted at the Kung-pao-ch'üan spring;
 
-![Hedin, 1944. History-of-the-expedition-in-asia-1927-1935-part-iii-1933-1935-414.png](Hedin, 1944. History-of-the-expedition-in-asia-1927-1935-part-iii-1933-1935-414.png "The main routes of Sino-Swedish expedition 1927-193?")
+![hedin-map.png](hedin-map.png "The main routes of Sino-Swedish expedition 1927-193?")
 
 Карта в доступном PDF очень плохого качества.
 
