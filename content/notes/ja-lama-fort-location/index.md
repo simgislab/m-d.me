@@ -73,7 +73,7 @@ Lattimore, Owen. 1928. “Caravan Routes of Inner Asia.” The Geographical Jour
 * maintaining the trade between Kweihwa and Chinese Turkistan;
 * He brought up supplies from Suchow;
 * crossing of the Black Gobi;
-* Mingshui marked on many maps. It appears to derive from a map of the Germans, Holderer and Futterer, which includes a route of the Russian Obruchev; but it may not be the same place, as Mingshui simply means "'clear water", and can be applied to any spring-fed well;
+* Mingshui marked on many maps. It appears to derive from a map of the Germans, Holderer and Futterer, which includes a route of the Russian Obruchev; but it may not be the same place, as Mingshui simply means "clear water", and can be applied to any spring-fed well;
 * snow on the peaks of the Qarliq Tagh;
 * routes from Kansu and Outer Mongolia converge on the Winding Road;
 
