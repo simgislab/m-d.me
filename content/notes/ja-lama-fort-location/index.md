@@ -249,4 +249,4 @@ Teichman, Sir Eric, 1937. Journey to Turkistan. London: Hodder and Stoughton. XI
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/146)
+[**Обсудить**](https://t.me/answer42geo/215)
