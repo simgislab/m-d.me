@@ -22,7 +22,7 @@ fediverse: "@username@instance.url"
 
 Скачать:
 
-* Полный выпуск Известий ИРГО Т. XXXVI, 1900 ([источник](https://elib.rgo.ru/handle/123456789/219580), [PDF](https://drive.google.com/file/d/10qF4cNRdo4q-Bffz6jfClpl21yxrPksY/view?usp=sharing)).
+* Полный выпуск Известий ИРГО Т. XXXVI, 1900 ([источник](https://elib.rgo.ru/handle/123456789/219580), [PDF](https://drive.google.com/file/d/1YPhf52xq-vGOkGEBW7ufjiYp8C8RTYcl/view?usp=sharing)).
 * О пересечении Гоби от Дылын-туру в Су-чжоу ([PDF](https://drive.google.com/file/d/1FlC-6fRCe2grDP_e6QEwa2bylpJ1GsIi/view?usp=sharing)).
 
 ![begin.png](begin.png)
