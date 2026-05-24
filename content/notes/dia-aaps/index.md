@@ -1,8 +1,8 @@
 ---
 title: "AAPS, XDrip+, Juggluco, Nightscout"
 date: "2025-10-24"
-summary: "Сборка и настройка приложения AAPS для Android. настройка и работа с XDrip+, Juggluco, Nightscout."
-description: "Сборка и настройка приложения AAPS для Android. настройка и работа с XDrip+, Juggluco, Nightscout."
+summary: "Сборка и настройка приложения AAPS для Android. Настройка и работа с XDrip+, Juggluco, Nightscout."
+description: "Сборка и настройка приложения AAPS для Android. Настройка и работа с XDrip+, Juggluco, Nightscout."
 toc: true
 autonumber: false
 math: false
@@ -14,9 +14,9 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Инструкции и заметки по сборке и настройке AndroidAPS (AAPS), Libre, XDrip+ и др.
+Инструкции и заметки по сборке и настройке Juggluco, XDrip+, AndroidAPS (AAPS), NighScout, Libre, Medtronic.
 
-Эта заметка описывает именно такую конфигурацию. Если у вас другой софт, версии, помпа и т.д., у вас может все работать по другому.
+Эта заметка описывает именно эту конфигурацию. Если у вас другой софт, версии, помпа и т.д., у вас может все работать по другому.
 
 ### Версии и оборудование
 
@@ -296,7 +296,7 @@ RAW data:
 * Активируем сенсор официальным приложением и ждем 60 мин пока пойдут значения в официальное приложение.
 * После того как значения пошли - отбираем у приложения все разрешения.
 * Переключаем XDrip+ на получение данных через Libre (patched App).
-* Устанавливаем Juggluco 10.3.11 ([официальный сайт](https://www.juggluco.nl/Juggluco/index.html), [все версии](https://drive.google.com/drive/folders/1qysiLYb2e93WBMjC9MYCqEdW-gGDUb2n), скачать 10.3.11)
+* Устанавливаем Juggluco, самую свежую версию ([официальный сайт](https://www.juggluco.nl/Juggluco/index.html), [все версии](https://sourceforge.net/projects/juggluco/files/))
 
 ### Cледующий сенсор
 
