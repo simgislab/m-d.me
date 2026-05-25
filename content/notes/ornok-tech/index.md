@@ -195,6 +195,11 @@ fediverse: "@username@instance.url"
 
 <iframe width="720" height="405" src="https://rutube.ru/play/embed/0a754e9bf58a21c4a905d7f81fc58e0b/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
+Презентация в PDF:
+
+* [16-9](https://drive.google.com/file/d/1Qhci6RqcO9Je8O29MnCLtmeX5viF1lpg/view?usp=sharing)
+* [4-3](https://drive.google.com/file/d/1wYjzvsU68NLBmPjBLcOi2wL9ihG7nTnN/view?usp=sharing)
+
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo/109)
