@@ -195,7 +195,7 @@ fediverse: "@username@instance.url"
 
 <iframe max-width="720" width="100%" height="405" src="https://rutube.ru/play/embed/0a754e9bf58a21c4a905d7f81fc58e0b/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-Презентация в PDF (в скобках соотношение сторон для проектора:
+Презентация в виде [Google Slides](https://docs.google.com/presentation/d/1NVWN_aJ-RS3DYEy8vm4YmkHft7nHELbA-dAtOKW8VNw/edit?usp=sharing). Презентация в PDF (в скобках соотношение сторон для разных проекторов):
 
 * [16-9](https://drive.google.com/file/d/1wYjzvsU68NLBmPjBLcOi2wL9ihG7nTnN/view?usp=sharing)
 * [4-3](https://drive.google.com/file/d/1Qhci6RqcO9Je8O29MnCLtmeX5viF1lpg/view?usp=sharing)
