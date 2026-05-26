@@ -18,7 +18,7 @@ The Central Asian Expedition (CAE) — [caemap.com/en](https://caemap.com/en/#m=
 
 Data from the website is described in a [separate note](/notes/roerich-cae-data/).
 
-The reconstruction of the route, organization of the material and overall design is of exceptionally high quality. Level of the implementation is very high compared other historical web projects.
+The reconstruction of the route, organization of the material and overall design is of exceptionally high quality. Level of the implementation is very high compared to other historical web projects.
 
 However, strikingly there is a complete absence of any references to its developers or authors on the [About page](https://caemap.com/en/about) or anywhere on the website. The Acknowledgements are very brief:
 
