@@ -14,7 +14,11 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-https://docs.google.com/presentation/d/1xtFuYUwbY09cJDOzpOxbLFt2miZFGAWCzEITbltIkKg/edit?usp=sharing
+Здесь будет обновляться информация о моём новом проекте - Топонимический атлас. Проект пока находится в зародыше, формулируем цель, задачи, потихоньку проектируем базу данных и интерфейс ввода.
+
+Если вам интересно поучаствовать, пишите.
+
+<https://docs.google.com/presentation/d/1xtFuYUwbY09cJDOzpOxbLFt2miZFGAWCzEITbltIkKg/edit?usp=sharing>
 
 [PDF 16:9](atlas-for-toponyms-001.pdf)
 
