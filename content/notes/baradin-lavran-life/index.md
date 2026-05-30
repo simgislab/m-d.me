@@ -7,6 +7,7 @@ toc: true
 autonumber: false
 math: false
 tags: ["Барадин","Лавран"]
+draft: true
 showTags: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
@@ -14,3 +15,6 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
+## Комментарии
+
+[**Обсудить**](https://t.me/answer42geo/170)
