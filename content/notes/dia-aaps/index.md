@@ -157,8 +157,8 @@ Display the Loop plugin’s content. Этот раздел это не разд�
 Без SMB AAPS управляет сахаром только через базал. С SMB может делать болюсы.
 
 1. Пройти цель 9 или дальше.
-2. Config Builder - стрелка вниз - выбрать OpenAPS SMB вместо AMA
-3. 
+2. Config Builder → стрелка вниз → выбрать OpenAPS SMB вместо AMA
+3. Preferences → OpenAPS SMB
 
 ## RileyLink
 
