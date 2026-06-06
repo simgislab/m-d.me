@@ -64,6 +64,10 @@ fediverse: "@username@instance.url"
 
 кия -> кие
 
+ою -> ой
+
+ею -> ей
+
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo/63)
