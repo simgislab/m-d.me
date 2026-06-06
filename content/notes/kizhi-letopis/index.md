@@ -24,7 +24,7 @@ fediverse: "@username@instance.url"
 
 [PDF выпуска](https://drive.google.com/file/d/1O513e96SqtuSYYjlrM2OjHkArkbc3TKZ/view?usp=sharing) целиком. Источник - [Wikimedia](https://commons.wikimedia.org/wiki/File:1882_092_%D0%9E%D0%BB%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B5_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D1%81%D1%82%D0%B8.pdf).
 
-Текст приводится в современной орфографии. Текст в старой орфографии можно [скачать здесь](https://docs.google.com/document/d/1VEP0S5LM177vJWRAFupDQws8ZVe8riuQ/edit?usp=sharing&ouid=112245657670169384946&rtpof=true&sd=true).
+Текст приводится в современной и в старой орфографии. Дополнительно текст в старой орфографии можно скачать в [Google Docs](https://docs.google.com/document/d/1VEP0S5LM177vJWRAFupDQws8ZVe8riuQ/edit?usp=sharing&ouid=112245657670169384946&rtpof=true&sd=true).
 
 Некоторые понятия из статьи:
 
