@@ -62,6 +62,8 @@ fediverse: "@username@instance.url"
 
 зп -> сп
 
+кия -> кие
+
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo/63)
