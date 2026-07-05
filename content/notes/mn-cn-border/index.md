@@ -14,7 +14,13 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Полный перечень автомобильных переходов на границе между Монголией и Китаем.
+Полный перечень и карта автомобильных переходов на границе между Монголией и Китаем.
+
+## На карте
+
+Посмотреть расположение всех переходов на [интерактивной карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
+
+![mn-cn-border.png](mn-cn-border.png "Пограничные переходы Монголия-Китай. Нажмите для увеличения.")
 
 ## Переходы - таблица
 
@@ -49,11 +55,13 @@ fediverse: "@username@instance.url"
 
 * Двусторонний пограничный переход
 * Автомобильный
+* Долгота, широта: 90.776957, 45.391770, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Баянхошуу
 
 * Двусторонний пограничный переход
 * Автомобильный
+* Долгота, широта: 118.180988, 48.038801, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Бичигт
 
@@ -62,6 +70,7 @@ fediverse: "@username@instance.url"
 * сомон Эрдэнэцаган, аймак Сухэ-Батор
 * понедельник–пятница с 08:00 до 17:00, перерыв на обед: 12:00–14:00
 * [Caravanistan](https://caravanistan.com/border-crossings/mongolia/#other-crossings-2) --- полезная информация о переходе.
+* Долгота, широта: 116.236015, 45.753491, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Булган
 
@@ -71,21 +80,25 @@ fediverse: "@username@instance.url"
 * понедельник–пятница с 10:00 до 19:00 (альтернативная информация: 10:30-13:45 и 15:30-18:45)
 * [Caravanistan](https://caravanistan.com/border-crossings/mongolia/#bulgan-%e2%80%93-takashiken) --- полезная информация о переходе.
 * [Форум Caravanistan](https://caravanistan.com/forum/viewtopic.php?f=9&t=1113) --- обсуждение перехода.
+* Долгота, широта: 90.992640, 46.143548, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Бургастай
 
 * Двусторонний пограничный переход
 * Автомобильный
+* Долгота, широта: 94.102129, 44.710159, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Гашуунсухайт
 
 * Двусторонний пограничный переход
 * Автомобильный
+* Долгота, широта: 107.571614, 42.411047, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Даян
 
 * Двусторонний пограничный переход
 * Автомобильный
+* Долгота, широта: 88.939924, 48.095376, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Замын-Үүд
 
@@ -95,6 +108,7 @@ fediverse: "@username@instance.url"
 * Ежедневно, с 08:00 до 18:00 (альтернативная информация: 09:00 до 19:00)
 * [Caravanistan](https://caravanistan.com/border-crossings/mongolia/#zamin-uud-%e2%80%93-erlian) --- полезная информация о переходе.
 * [Форум Caravanistan](https://caravanistan.com/forum/viewtopic.php?f=9&t=3134) --- обсуждение перехода.
+* Долгота, широта: 111.940806, 43.689026, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Сүмбэр
 
@@ -103,16 +117,19 @@ fediverse: "@username@instance.url"
 * сомон Халхгол, аймак Дорнод
 * с 2 апреля по 30 ноября, понедельник–пятница с 08:00 до 17:00
 * [Caravanistan](https://caravanistan.com/border-crossings/mongolia/#other-crossings-2) --- полезная информация о переходе.
+* Долгота, широта: 119.476078, 47.329106, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Хавирга
 
 * Двусторонний пограничный переход
 * Автомобильный
+* Долгота, широта: 115.857717, 48.596804, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Ханги
 
 * Двусторонний пограничный переход
 * Автомобильный
+* Долгота, широта: 109.979416, 42.635881, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ### Шивээхүрэн
 
@@ -122,12 +139,7 @@ fediverse: "@username@instance.url"
 * Автомобильный
 * [Caravanistan](https://caravanistan.com/border-crossings/mongolia/#other-crossings-2) --- полезная информация о переходе.
 * [Форум Caravanistan](https://caravanistan.com/forum/viewtopic.php?f=9&t=2656) --- обсуждение перехода.
-
-## На карте
-
-Посмотреть расположение всех переходов можно на [интерактивной карте](https://maxim.nextgis.com/resource/8690/display?panel=layers).
-
-![mn-cn-border.png](mn-cn-border.png "Пограничные переходы Монголия-Китай. Нажмите для увеличения.")
+* Долгота, широта: 101.278301, 42.584908, [на карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ## Источники
 
