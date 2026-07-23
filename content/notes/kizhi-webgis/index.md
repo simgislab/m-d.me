@@ -101,7 +101,7 @@ fediverse: "@username@instance.url"
 
 Треки автоматически синхронизовались с Веб ГИС, что исключало потерю данных.
 
-![mobile-tracks.jpg](mobile-tracks.jpg "Синие линии - треки перемещений за 4 дня работ")
+![mobile-tracks.jpg](mobile-tracks.jpg#fit-screen "Синие линии - треки перемещений за 4 дня работ")
 
 ## Просмотр данных в поле
 
