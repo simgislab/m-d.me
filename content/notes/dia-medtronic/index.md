@@ -93,6 +93,20 @@ Email номер 2 можно переиспользовать, т.е. два о
 
 ![normal.jpg](normal.jpg#fit-screen)
 
+## XDrip+
+
+Можно получать данные в XDrip+ и оттуда раздавать их в NightScout.
+
+На телефоне пациента:
+
+1. Ставим XDrip+ из [последней ночной сборки](https://xdrip-plus-updates.appspot.com/stable/xdrip-plus-latest.apk).
+2. Настройки
+3. Источник данных - CareLink Follower
+4. Страна CareLink - Россия
+5. Вход - входим с email номер 2.
+
+![xdrip.jpg](xdrip.jpg)
+
 ## Обсуждение
 
 [**Остались вопросы?**](https://t.me/answer42geo/249)
