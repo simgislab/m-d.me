@@ -1,8 +1,8 @@
 ---
 title: "Настройка Medtronic 780G и Guardian 3"
 date: "2026-07-23"
-summary: "Как настроить систему мониторинга с отслеживанием."
-description: "Как настроить систему мониторинга с отслеживанием."
+summary: "Как настроить систему мониторинга с отслеживанием, Minimed Mobile, CareLink Connect, XDrip+, NightScout."
+description: "Как настроить систему мониторинга с отслеживанием, Minimed Mobile, CareLink Connect, XDrip+, NightScout."
 toc: true
 autonumber: false
 math: false
@@ -105,7 +105,7 @@ Email номер 2 можно переиспользовать, т.е. два о
 4. Страна CareLink - Россия
 5. Вход - входим с email номер 2.
 
-![xdrip.jpg](xdrip.jpg)
+![xdrip.jpg](xdrip.jpg#fit-screen)
 
 ## Обсуждение
 
