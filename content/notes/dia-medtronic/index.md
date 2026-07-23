@@ -79,7 +79,7 @@ fediverse: "@username@instance.url"
 
 На некоторых телефонах (Samsung Galaxy A53 5G) замечено такое предупреждение на старте:
 
-![connect-jailbreak.jpg](connect-jailbreak.jpg)
+![connect-jailbreak.jpg](connect-jailbreak.jpg#fit-screen)
 
 Телефон на самом деле не был рутован и разлочен. Вылечилось отключением Параметров разработчика и USB-отладки в настройках операционной системы и перезагрузкой.
 
@@ -91,7 +91,7 @@ Email номер 2 можно переиспользовать, т.е. два о
 
 Успешный результат выглядит так:
 
-![normal.jpg](normal.jpg)
+![normal.jpg](normal.jpg#fit-screen)
 
 ## Обсуждение
 
