@@ -18,9 +18,11 @@ fediverse: "@username@instance.url"
 
 ## На карте
 
-Посмотреть расположение всех переходов на [интерактивной карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
+Посмотреть расположение всех переходов на карте, нажмите для увеличения:
 
 ![mn-cn-border.png](mn-cn-border.png "Пограничные переходы Монголия-Китай. Нажмите для увеличения.")
+
+Так же переходы можно посмотреть на [интерактивной карте](https://maxim.nextgis.com/resource/8690/display?panel=none).
 
 ## Переходы - таблица
 
