@@ -16,7 +16,7 @@ fediverse: "@username@instance.url"
 
 У Г.Ц. Цыбикова, помимо известных опубликованных трудов с описанием его экспедиции в Тибет есть малоизвестный документ, хранящийся в Музее Рерихов.
 
-![](https://ic.pics.livejournal.com/answer_42/8642793/2391/2391_original.png)
+![2391_original.png](2391_original.png)
 
 Найти его можно вот на сайте музея: [roerichsmuseum.ru](http://roerichsmuseum.ru).
 
@@ -235,6 +235,6 @@ fediverse: "@username@instance.url"
 
 От Накчу до Лхасы - 275 верст.
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/10)
+Можно [**написать в телеграм**](https://t.me/answer42geo/10) или оставить вопрос или комментарий в форме ниже.
