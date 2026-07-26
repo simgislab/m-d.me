@@ -117,12 +117,18 @@ url = "/about"
   [markup.highlight]
     style = 'algol'
 
+[params.remark42]
+enable = true
+host = "https://comments.m-d.me"
+site = "my-blog"
+locale = "ru"
+
 # Giscus comments
 [params.giscus]
-enable = false
-repo = "user/repo"
-repoid = "repoId"
-category = "General"
-categoryid = "categoryId"
-mapping = "pathname"
-theme = "preferred_color_scheme"
+enable = true
+# repo = "user/repo"
+# repoid = "repoId"
+# category = "General"
+# categoryid = "categoryId"
+# mapping = "pathname"
+# theme = "preferred_color_scheme"

@@ -1,0 +1,59 @@
+{{- if .Site.Params.remark42.enable -}}
+
+<div
+  id="remark42"
+  data-host="{{ .Site.Params.remark42.host }}"
+  data-site-id="{{ .Site.Params.remark42.site }}"
+  data-page-url="{{ .Permalink }}"
+  data-page-title="{{ .Title }}"
+  data-locale="{{ default "ru" .Site.Params.remark42.locale }}"
+>
+  Загрузка комментариев…
+</div>
+
+<script>
+  (() => {
+    const container = document.getElementById("remark42");
+
+    if (!container) {
+      return;
+    }
+
+    window.remark_config = {
+      host: container.dataset.host,
+      site_id: container.dataset.siteId,
+      url: container.dataset.pageUrl,
+      page_title: container.dataset.pageTitle,
+      locale: container.dataset.locale,
+      components: ["embed"],
+      theme: window.matchMedia("(prefers-color-scheme: dark)").matches
+        ? "dark"
+        : "light"
+    };
+
+    const components = window.remark_config.components || ["embed"];
+
+    for (const component of components) {
+      const script = document.createElement("script");
+      let extension = ".js";
+
+      if ("noModule" in script) {
+        script.type = "module";
+        extension = ".mjs";
+      } else {
+        script.async = true;
+        script.defer = true;
+      }
+
+      script.src =
+        window.remark_config.host +
+        "/web/" +
+        component +
+        extension;
+
+      (document.head || document.body).appendChild(script);
+    }
+  })();
+</script>
+
+{{- end -}}
