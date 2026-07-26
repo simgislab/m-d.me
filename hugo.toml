@@ -120,7 +120,7 @@ url = "/about"
 [params.remark42]
 enable = true
 host = "https://comments.m-d.me"
-site = "my-blog"
+site = "remark"
 locale = "ru"
 
 # Giscus comments
