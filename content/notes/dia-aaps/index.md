@@ -116,8 +116,11 @@ Display the Loop plugin’s content. Этот раздел это не разд�
 Без SMB AAPS управляет сахаром только через базал. С SMB может делать небольшие болюсы. Чтобы включить SMB, нужно:
 
 1. Пройти цель 9 или дальше.
-2. Config Builder → стрелка вниз → выбрать OpenAPS SMB вместо AMA
-3. Preferences → OpenAPS SMB
+2. Config Builder → APS → стрелка вниз (рядом с глазом) → выбрать OpenAPS SMB вместо AMA
+
+Дополнительные настройки:
+
+Главный экран → Три точки → Preferences → OpenAPS SMB
 
 ### Типы прогнозов
 
