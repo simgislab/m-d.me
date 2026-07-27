@@ -22,6 +22,8 @@ fediverse: "@username@instance.url"
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpVdwwt05kd1D51pU1u1PpRbtvDD3j0wmzZVmpY8peYaV2w3-OG-4JUIGn6RZ2zJi2fltSOvMfqYIj/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/58)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/58) или оставить вопрос в форме ниже.

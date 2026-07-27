@@ -68,6 +68,8 @@ Karte vom Russisch-Chinesischen Grenzgebiet am Balkhasch-See und Issyk-Kul. Nach
 * Kartensammlung Perthes. Erfurt. 547$111978203
 * Kartensammlung Perthes. Erfurt. 547$112709915
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/79)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/79) или оставить вопрос в форме ниже.

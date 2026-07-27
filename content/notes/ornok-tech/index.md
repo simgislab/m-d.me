@@ -199,6 +199,8 @@ fediverse: "@username@instance.url"
 * [16-9](https://drive.google.com/file/d/1wYjzvsU68NLBmPjBLcOi2wL9ihG7nTnN/view?usp=sharing)
 * [4-3](https://drive.google.com/file/d/1Qhci6RqcO9Je8O29MnCLtmeX5viF1lpg/view?usp=sharing)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/109)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/109) или оставить вопрос в форме ниже.

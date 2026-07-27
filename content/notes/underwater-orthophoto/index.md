@@ -32,6 +32,8 @@ fediverse: "@username@instance.url"
 
 [3D модель на Sketchfab](https://sketchfab.com/3d-models/issyk-kul-toru-aygyr-underwater-2025-scene-029v2-7619e70d47944057b9ca91e16d6291aa)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/113)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/113) или оставить вопрос в форме ниже.

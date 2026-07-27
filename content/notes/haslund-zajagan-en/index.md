@@ -5539,7 +5539,7 @@ Prschevalski, N. M., *Explorations in Central Asia*. Edited by Sven Hedin. Stock
 
 Riasanovsky, V. A., *Customary Law of the Mongol Tribes*. I-III. Harbin, 1929.
 
-Schnitscher, J. Chr., *Ber**ä**ttelse om Ajuckiniska Calmuckiet*. Stockholm, 1744.
+Schnitscher, J. Chr., *Berättelse om Ajuckiniska Calmuckiet*. Stockholm, 1744.
 
 *Toregut Rarelro*. Mongolian manuscript.
 
@@ -7243,3 +7243,9 @@ Yün Kang, sculptured caves of, [4](#4),---origin, [4](#4),---style of, [5](#5);
 ## Discussion
 
 [**Questions or comments?**](https://t.me/answer42geo/176)
+
+## Questions?
+
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo/176) or use the form below.

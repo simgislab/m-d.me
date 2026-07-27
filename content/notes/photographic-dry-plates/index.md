@@ -122,6 +122,8 @@ Ilford, Limited, London, England
 
 [source](https://images.app.goo.gl/vj6Rti1S42ULuyK58), [source2](https://www.photomemorabilia.co.uk/Ilford/Ilford_Plate_Boxes.html)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/16)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/16) или оставить вопрос в форме ниже.

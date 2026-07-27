@@ -54,6 +54,8 @@ fediverse: "@username@instance.url"
 * [Прочитать Trails to Inmost Asia](/notes/roerich-trails-to-asia-en/)
 * [Прочитать Altai-Himalaya: A Travel Diary](/notes/roerich-altai-himalaya/)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/57)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/57) или оставить вопрос в форме ниже.

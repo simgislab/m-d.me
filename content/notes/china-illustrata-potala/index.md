@@ -63,6 +63,8 @@ China Illustrata ([wiki](https://en.wikipedia.org/wiki/China_Illustrata)) --- к
 
 ![manning.png](manning.png)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/29)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/29) или оставить вопрос в форме ниже.

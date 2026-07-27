@@ -80,3 +80,9 @@ English version of this list is [available](/notes/pilgrim-en/).
 
 * [Географическая реконструкция маршрутов паломников из Урги в Лхасу](https://docs.google.com/presentation/d/11NALvGpS5y2tMty63qp8fLImfVbjmiHiPnKOvV1Z5hg/edit?usp=sharing)
 * [Реконструкция маршрута Г.Ц. Цыбикова Урга — Лхаса. 25.11.1899 – 03.08.1900](https://docs.google.com/presentation/d/16Z0upWG1TJk6L4bzEo_xtR2M4RTTKd5QIypE6nn8Khg/edit?usp=sharing)
+
+## Вопросы?
+
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo) или оставить вопрос в форме ниже.

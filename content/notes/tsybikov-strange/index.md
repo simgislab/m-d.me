@@ -216,6 +216,8 @@ It must also be said that about the same time, that is, at the end of 1899, the 
 >
 > JSTOR is a digital library for the intellectually curious. We provide a platform for discovering and connecting research, images, and primary sources. As a not-for-profit, we partner with libraries, museums, and publishers to reduce costs, extend access, and preserve scholarship for the future. We do this because we believe in the power of knowledge to change the world for the better.
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/27)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/27) или оставить вопрос в форме ниже.

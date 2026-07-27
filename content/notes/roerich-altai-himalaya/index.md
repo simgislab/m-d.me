@@ -7174,6 +7174,8 @@ Surya, or Air, Fire and the Sun. A vast philosophy underlies this symbolism.
 
 THE END
 
-## Discussion
+## Questions?
 
-[**Questions or comments?**](https://t.me/answer42geo/147)
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo/147) or use the form below.

@@ -128,6 +128,8 @@ Enjoy the trip!
 
 ![tsybikov-example.png](tsybikov-example.png "Final data table (modified). Tsybikov - A Buddhist Pilgrim at the Shrines of Tibet")
 
-## Discussion
+## Questions?
 
-[**Questions or comments?**](https://t.me/answer42geo/85)
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo/85) or use the form below.

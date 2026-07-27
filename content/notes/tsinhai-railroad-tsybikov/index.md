@@ -30,6 +30,8 @@ fediverse: "@username@instance.url"
 
 ![tsinhai-railroad-wiki.png](tsinhai-railroad-wiki.png)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/30)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/30) или оставить вопрос в форме ниже.

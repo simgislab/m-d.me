@@ -98,6 +98,8 @@ Tsybikov, G. Ts., 1919. Buddist-palomnik u svyatyn’ Tibeta: Po dnevnikam, vede
 
 Tsybikov, G. Ts., 2017. A Buddhist Pilgrim at the Shrines of Tibet (Williams, P., Translator, Emerich, J.W., Advisor). Brill's Tibetan Studies Library, Volume: 42. Available at: <https://brill.com/display/title/33921?rskey=wtBjNE&result=1> (In English).
 
-## Discussion
+## Questions?
 
-[**Questions or comments?**](https://t.me/answer42geo/85)
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo/85) or use the form below.

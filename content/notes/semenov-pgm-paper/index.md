@@ -331,6 +331,8 @@ mentreffen mit einer Buruten-Räuberbande in grosse Verlegenheit gekommen wäre.
 
 Den nächsten Tag, am Abend des 14/26. Juni, stand ich schon dicht am Issyk Kul-Ufer, an der Kysil-Ssu-Bucht. Drei Tage später erreichte ich den Kungey, d. i. das Nordgestade des Issyk Kul, und erforschte die hohen Pässe der Südkette des Alatau transilensis. Hier erfuhr ich die unglücklichen Resultate der Bogu-Expedition. Alles geschah, wie ich es vorhergesehen hatte. Die Sara-Bagisch konnten zuerst die Entführung ihrer Tabunen nicht verhindern, holten aber die Bogu bald ein, schlugen sie auseinander und zerstreuten sie nach allen Seiten. Noch drei Tage später, als ich in die Aulen Burambaï’s zurückgekehrt war, ritten jeden Augenblick neben meiner Jurte die bestaubten Reiter vorbei; viele waren verwundet, andere weinten bitterlich über den Tod ihrer Brüder oder Söhne. Ein Batyr (Krieger) kam zu mir, um sich über die Sara-Bagisch zu beklagen, welche ihm Nase und Oberlippe beschnitten hatten. In ein Paar Tagen kamen auch die Gesandten der Sara-Bagisch und es wurden Unterhandlungen über einen Friedensvertrag angeknüpft, wobei ich die Rolle eines Vermittlers zu spielen genöthigt war.
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/80)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/80) или оставить вопрос в форме ниже.

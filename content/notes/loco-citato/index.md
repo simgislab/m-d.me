@@ -41,6 +41,8 @@ l.c. = loco citato ("in the place cited")
 
 [https://ru.wikipedia.org/wiki/Loc.\_cit.](https://ru.wikipedia.org/wiki/Loc._cit.)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/22)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/22) или оставить вопрос в форме ниже.

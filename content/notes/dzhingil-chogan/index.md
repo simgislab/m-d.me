@@ -98,6 +98,8 @@ Central Asia, constructed from the latest English and Russian documents adapted 
 
 > 3 сентября я употребил на экскурсию в степь на северной стороне реки Или. Древесная растительность между Илийским и **Чингильдийским** пикетами состояла из следующих деревьев и кустарников: Populus euphratica, Pop. pruinosa, Berberis integerrima, покрытого в это аремя красивыми круглыми розового цвета ягодами, Eleagnus hortensis, Caragana frutescens, Car. tragacanthoides, Halimodendron argenteum, Rosa gebleriana, Hultheimia berberifolia, Tamarix elongata, Tam. pallasii, Tam. hispida, Stellera stachyoides. Экскурсируя, мы доехали до **Чингильдийского** пикета только к 3 часам пополудни и здесь осмотрели незнакомый нам ещё источник, температура которого оказалась 13,2°.
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/42)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/42) или оставить вопрос в форме ниже.

@@ -75,3 +75,9 @@ Some notes are in English, others in Russian. Russian notes may include a Google
 * Interactive map: [Reconstruction of G. Tsybikov's route from Urga to Lhasa 25.11.1899 – 03.08.1900](https://buddhistpilgrim.nextgis.com/resource/38/display)
 * Map: ["Reconstruction of G.Ts. Tsybikov's Route Urga–Lhasa"](/notes/tsybikov-map/) ([GT](https://m--d-me.translate.goog/notes/tsybikov-map/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))
 * Map in English: [G. Tsybikov — Reconstructing the Journey of Lhasa's First Photographer from Urga to Tibet](/notes/tsybikov-map-en/)
+
+## Questions?
+
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo) or use the form below.

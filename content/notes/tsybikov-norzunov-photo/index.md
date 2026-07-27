@@ -82,6 +82,8 @@ GOERZ BERLIN DOPP-Anastigmat 210 мм F6.8 SERIES III DAGOR
 
 ![andreev-plates.png](andreev-plates.png)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/17)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/17) или оставить вопрос в форме ниже.

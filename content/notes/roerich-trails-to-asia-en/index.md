@@ -8681,6 +8681,8 @@ Zoji Pass, [7](#7) ff.
 
 ![603-map-2.jpg](603-map-2.jpg "General map of the route of the expedition through Central Asia")
 
-## Discussion
+## Questions?
 
-[**Questions or comments?**](https://t.me/answer42geo/96)
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo/96) or use the form below.

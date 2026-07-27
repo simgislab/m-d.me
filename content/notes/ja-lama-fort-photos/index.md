@@ -302,6 +302,8 @@ Croner, Don, 2009. False Lama. The Life and Death of Dambijantsan. Ulaan Baatar 
 
 [DER RÄCHER LAMA](https://martincompart.wordpress.com/2013/02/14/der-racher-lama-1/?utm_medium=organic&utm_source=yandexsmartcamera) by Martin Compart. 14. Februar 2013, 3:49 pm
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/146)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/146) или оставить вопрос в форме ниже.

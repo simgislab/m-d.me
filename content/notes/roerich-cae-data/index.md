@@ -97,6 +97,8 @@ If you're going to use this data, please respect author's copyright and don't fo
 
 ![cae-gis.png](cae-gis.png "CAE data visualized in QGIS")
 
-## Discussion
+## Questions?
 
-[**Questions or comments?**](https://t.me/answer42geo/96)
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo/96) or use the form below.

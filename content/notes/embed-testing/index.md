@@ -38,6 +38,8 @@ fediverse: "@username@instance.url"
 
 [Модель на Sketchfab](https://sketchfab.com/3d-models/issyk-kul-ornok-petroglyph-20250701-10-46-v1-2228ffc1e9f148d296a921ca38f19ceb).
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/110)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/110) или оставить вопрос в форме ниже.

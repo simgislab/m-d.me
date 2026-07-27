@@ -41,3 +41,9 @@ fediverse: "@username@instance.url"
 <https://collections.peabody.harvard.edu/objects/details/666518>
 
 <https://collections.peabody.harvard.edu/objects/details/666287>
+
+## Вопросы?
+
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/10) или оставить вопрос в форме ниже.

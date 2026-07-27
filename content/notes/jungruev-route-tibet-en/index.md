@@ -416,6 +416,8 @@ On the 21st, ascending the Gologiin-Daba (Go-La) Pass, we saw the golden rooftop
 
 Part II "At the Shrines of Tibet" will be published in the next volume.
 
-## Discussion
+## Questions?
 
-[**Questions or comments?**](https://t.me/answer42geo/88)
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo/88) or use the form below.

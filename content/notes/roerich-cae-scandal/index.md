@@ -48,7 +48,8 @@ The story behind its development with comments and rebuttals is uncovered here:
 
 Have a written agreement with clear responsibility/contibution separation statement before starting work.
 
-## Discussion
+## Questions?
 
-[**Questions or comments?**](https://t.me/answer42geo/130)
+Do you have any questions, comments or fixes for the above?
 
+Let me know [**in Telegram**](https://t.me/answer42geo/130) or use the form below.

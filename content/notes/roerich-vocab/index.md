@@ -332,6 +332,8 @@ fediverse: "@username@instance.url"
 | yurta              | felt tent                              | I do not think that the *yurta* motive is suited for buildings |        |
 | *zi*-bead          |                                        | necklaces of the so-called *zi*-beads|                                  |
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/127)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/127) или оставить вопрос в форме ниже.

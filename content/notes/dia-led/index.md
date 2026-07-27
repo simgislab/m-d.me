@@ -36,3 +36,9 @@ USB C Cable Splitter Type C 1 to 2 Extension Cable Wire
 2M to 1F
 
 <https://aliexpress.ru/item/1005009922231092.html>
+
+## Вопросы?
+
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/10) или оставить вопрос в форме ниже.

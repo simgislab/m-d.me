@@ -124,6 +124,8 @@ En somme, la ville de Lhassa doit présenter la forme d'un ovale de 6 à 7 kilom
 
 J. Deniker.
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/24)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/24) или оставить вопрос в форме ниже.

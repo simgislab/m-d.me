@@ -97,6 +97,8 @@ fediverse: "@username@instance.url"
 
 [![armenia-photo-map.png](armenia-photo-map.png)](https://maxim.nextgis.com/resource/8247/display?panel=layers)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/93)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/93) или оставить вопрос в форме ниже.

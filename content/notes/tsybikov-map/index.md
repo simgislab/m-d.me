@@ -70,6 +70,8 @@ fediverse: "@username@instance.url"
 
 ![tsybikov-table.png](tsybikov-table.png)
 
-## Комментарии
+## Вопросы?
 
-[**Обсудить**](https://t.me/answer42geo/26)
+Возникли вопросы, комментарии или есть полезная информация по теме заметки?
+
+Можно [**написать в телеграм**](https://t.me/answer42geo/26) или оставить вопрос в форме ниже.

@@ -286,6 +286,8 @@ The third part of the mission’s route is the journey from Kokonor to Khlasa. D
 
 Ya. P. Shishmarev, experienced in steppe travel, estimates that caravans in Mongolia cover up to 40 versts (*42.7 kilometers or 26.5 miles*) per day, but no more than 30 in the mountains. Based on this, he calculates the total length of the route from Urga to Lhasa to be 3.250 versts (*3.470 km or 2.155 miles*), which is likely very close to the truth, as the distance between these cities—via Xining-fu and Kokonor—in straight lines on the map is 2.500 versts (*2.667 kilometers or 1.657 miles*).
 
-## Discuss
+## Questions?
 
-[**Questions or comments?**](https://t.me/answer42geo/86)
+Do you have any questions, comments or fixes for the above?
+
+Let me know [**in Telegram**](https://t.me/answer42geo/86) or use the form below.
