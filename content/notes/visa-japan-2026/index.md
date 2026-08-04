@@ -118,6 +118,8 @@ fediverse: "@username@instance.url"
 
 До 14.00 через неделю. Можно без доверенности по оригиналу свидетельства о браке и свидетельства о рождении.
 
+Проверить статус визы можно на [сайте](https://vfsrusyc.vfsglobal.com/Global-PassportTracking/Track/Index?q=shSA0YnE4pLF9Xzwon/x/MzqzJ82s//rbrz+v8x7NQYuOEBALzHuTQfviG5JLrOnGCqnCKw9aWDXT+dPmmP+Fiu8f5/2B5oS6NIH3O5gWno=).
+
 ## Комментарии
 
 [**Обсудить**](https://t.me/answer42geo/32)
