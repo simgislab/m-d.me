@@ -102,6 +102,8 @@ fediverse: "@username@instance.url"
 
 Это не шутка.
 
+![singapore.png](singapore.png)
+
 ## Подача документов
 
 Визовый центр в Москве: Олимпийский проспект, 16, строение 5, 1 этаж (вход с ул. Самарской).
@@ -122,4 +124,4 @@ fediverse: "@username@instance.url"
 
 ## Комментарии
 
-[**Обсудить**](https://t.me/answer42geo/32)
+[**Обсудить**](https://t.me/answer42geo/253)
