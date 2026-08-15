@@ -157,6 +157,8 @@ Henning Haslund-Christensen - датский путешественник, ав�
 
 > Hedin, 1944. History of the Expedition in Asia 1927-1935 by Sven Hedin in collaboration with Folke Bergman. In Reports from the scientific expedition to the North-Western provinces of China under the leadership of Dr. Sven Hedin. The Sino-Swedish expedition. Publication 25. Stockholm. Pp. 41-43.
 
+[Перевод фрагмента отчета Гедина](/notes/hedin-ja-lama/) посвященного Джа-ламе.
+
 **Общий вид руин замка**
 
 ![hedin-bergman-1034.0019.jpg](hedin-bergman-1034.0019.jpg)

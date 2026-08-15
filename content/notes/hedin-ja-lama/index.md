@@ -14,9 +14,9 @@ fediverse: "@username@instance.url"
 
 ## Введение
 
-Фрагмент текста из отчета китайско-шведской экспедиции 1944 г. ([PDF1](https://drive.google.com/file/d/1wyq_rLNwnG15ykXcu0pt4nfM397YnsSs/view?usp=sharing), [PDF2](https://dokumen.pub/download/history-of-the-expedition-in-asia-1927-1935-part-i-1927-1928.html)).
+Фрагмент текста из отчета китайско-шведской экспедиции 1944 г. ([PDF1](https://drive.google.com/file/d/1wyq_rLNwnG15ykXcu0pt4nfM397YnsSs/view?usp=sharing), [PDF2](https://dokumen.pub/download/history-of-the-expedition-in-asia-1927-1935-part-i-1927-1928.html)). Английский и русский перевод.
 
-Визит Свена Гедина на руины замка Джа-ламы состоялся 27 января 1934 г. и описан в отчете. Про [местоположение замка](/notes/ja-lama-fort-location/) и [фотографии замка](/notes/ja-lama-fort-photos/) рассказано в отдельных заметках.
+Визит Свена Гедина на руины замка Джа-ламы состоялся 27 января 1934 г. и описан в этом отчете. Про [местоположение замка](/notes/ja-lama-fort-location/) и [фотографии замка](/notes/ja-lama-fort-photos/) рассказано в отдельных заметках.
 
 Библиографическая ссылка:
 
@@ -102,4 +102,4 @@ After our short visit to what had been the "false lama's" robber-nest we had to 
 
 Возникли вопросы, комментарии или есть полезная информация по теме заметки?
 
-Можно [**написать в телеграм**](https://t.me/answer42geo/170) или оставить вопрос в форме ниже.
+Можно [**написать в телеграм**](https://t.me/answer42geo/256) или оставить вопрос в форме ниже.

@@ -170,6 +170,8 @@ Hedin, 1944. History of the Expedition in Asia 1927-1935 by Sven Hedin in collab
 * The mountains in the south are called the Ma-tsung-shan, "Horse's Mane Mountains";
 * At eleven o'clock we halted at the Kung-pao-ch'üan spring;
 
+[Перевод фрагмента отчета Гедина](/notes/hedin-ja-lama/) посвященного Джа-ламе.
+
 ![hedin-map.png](hedin-map.png "The main routes of Sino-Swedish expedition 1927-193?")
 
 Карта в доступном PDF очень плохого качества.
