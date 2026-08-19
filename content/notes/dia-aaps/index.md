@@ -34,7 +34,7 @@ fediverse: "@username@instance.url"
 
 * Помпа Medtronic 722
 * CGM Libre 2
-* RileyLink
+* RileyLink или OrangeLink Pro
 * Samsung A17
 
 ## Сборка приложения AAPS
@@ -132,20 +132,36 @@ Display the Loop plugin’s content. Этот раздел это не разд�
 
 ![forecast.png](forecast.png)
 
-## RileyLink
+## RileyLink или OrangeLink Pro
 
-Соединяет помпу Medtronic 722 и AAPS по Bluetooth.
+Соединяет помпу Medtronic 722 и AAPS по Bluetooth. Сначала нужно убедиться что AAPS успешно соединился с RileyLink/OrangeLink, затем, что последний соединился с помпой. Одно из преимуществ OrangeLink - он умеет сообщать об оставшемся заряде батареи. RileyLink --- не умеет и его регулярно нужно подзаряжать.
 
 * Для работы на телефоне должен быть включен Bluetooth.
 * У приложения AAPS должно быть разрешение на Nearby Devices.
+
+Если у вас RileyLink:
+
 * При включении RileyLink должен мигнуть синий индикатор.
 * RileyLink работает и на зарядке. В процесе зарядки горит красный индикатор.
 * При успешном соединении с помпой горит зеленый индикатор в торце.
 
-Замеченные проблемы:
-
 * Появляется сообщение "ЧИТСТАТУС драйвер помпы изменен/READSTATUS Pump driver changed" после чего рестарты приложения и Bluetooth не помогают, сообщение ни на что не меняется. Помогает удаление и переподключение RileyLink в настройках помпы в AAPS и перезагрузка телефона.
 * Если зеленая лампочка загорается, телефон перегружен 5 раз, но Riley никак не хочет связываться с помпой - вкл/выкл самого RileyLink, должен мигнуть синим.
+
+Если у вас OrangeLink Pro:
+
+* если OrangeLink мигает красным - он не соединен с AAPS;
+* если OrangeLink мигает желтым - он соединен с AAPS. Мигает довольно редко.
+
+Замеченные проблемы:
+
+Телефоны Samsung не могут соединиться с OrangeLink, [известная проблема](https://github.com/nightscout/AndroidAPS/issues/474) еще со старых версий AAPS. Решается следующим образом:
+
+* В настройках AAPS, Medtronic, Configuration, отключить Scanning.
+* Выключить телефон.
+* Вынуть батарейки из OrangeLink и вставить обратно.
+* Включить телефон.
+* Добавить OrangeLink как обычно.
 
 ### Информация о Bluetooth RileyLink
 
@@ -182,7 +198,7 @@ Raw data:
 Официальная инструкция на [androidaps.readthedocs.io](https://androidaps.readthedocs.io/en/latest/CompatiblePumps/MedtronicPump.html).
 
 * Medtronic 722, Worldwide (868 Mhz)
-* [RileyLink 916MHz (Medtronic) to BLE Bridge](https://getrileylink.org/product/rileylink916) (также можно OrangeLink, EmaLink)
+* [RileyLink 916MHz (Medtronic) to BLE Bridge](https://getrileylink.org/product/rileylink916) или OrangeLink Pro (можно также EmaLink, не пробовал)
 
 ![medtronic722.png](medtronic722.png "Medtronic 722WWS")
 
