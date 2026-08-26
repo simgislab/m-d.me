@@ -1,6 +1,6 @@
 ---
 title: "Освобождение места MongoDB для NightScout"
-date: "2025-08-26"
+date: "2026-08-26"
 summary: "Как освободить место в MongoDB Atlas M0 после удаления старых данных через Nightscout."
 description: "Как освободить место в MongoDB Atlas M0 после удаления старых данных через Nightscout."
 toc: true
