@@ -222,14 +222,14 @@ XDrip+ устанавливается из [последней ночной сб
 * Передает сахар в AAPS локальной трансляцией (broadcast)
 * Не передает сахара в NightScout
 
-В настройках:
+При работе вместе с AAPS, нужны следующие настройки:
 
 1. Settings - Cloud Upload - NighScout - Enabled: OFF
 2. Settings - Inter-app settings - Broadcast locally: ON
 
 ### XDrip+ и Libre 1
 
-При подключении выбирается Libre, потом Bluetooth Bride и выбирается соединение с miaomiao (должен быть включен). [Хорошая инструкция](https://miaomiao.cool/pages/how-to-use-miaomiao-with-xdrip) по использованию XDrip+ c Libre 1 через miaomiao.
+При подключении выбирается Libre, потом Bluetooth Bridge и выбирается соединение с miaomiao (должен быть включен). [Хорошая инструкция](https://miaomiao.cool/pages/how-to-use-miaomiao-with-xdrip) по использованию XDrip+ c Libre 1 через miaomiao.
 
 Для полного включения понадобится подождать несколько минут, пока XDrip+ получит несколько значений.
 
