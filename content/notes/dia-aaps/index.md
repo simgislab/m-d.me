@@ -25,27 +25,28 @@ fediverse: "@username@instance.url"
 Версии используемого ПО:
 
 * AAPS 3.4.2.2
-* XDrip+ 2126030111 (System Status), 2026-03-01, предыдущая 2025-09-05
+* AAPSClient 3.4.2.2
+* XDrip+ 2126030111 (System Status), 2026-03-01
 * Juggluco 10.7.1
 * Freestyle Libre 2 2.13.0.11566
 * Nightscout 15.0.3 (Railway)
 
 Оборудование:
 
-* Помпа Medtronic 722
-* CGM Libre 2
-* RileyLink или OrangeLink Pro
-* Samsung A17
+* Помпа: Medtronic 722
+* CGM: Libre 2
+* Мост: OrangeLink Pro
+* Телефон: Samsung A17
 
 ## Сборка приложения AAPS
 
-[Подробная инструкция](/notes/dia-aaps-compile/).
+Описание процесса сборки приложения AAPS смотри в [подробной инструкции](/notes/dia-aaps-compile/).
 
 ### Android AAPS Client
 
 Приложение для наблюдения "со стороны". Собирать отдельно не нужно.
 
-Берется в виде APK в основном репозитории AAPS: <https://github.com/nightscout/AndroidAPS/releases/>. Скачиваем файл с названием вида app-aapsclient-release_3.4.2.2.apk.
+Берется в готовом виде (APK) в основном репозитории AAPS: <https://github.com/nightscout/AndroidAPS/releases/>. Скачиваем файл с названием вида app-aapsclient-release_3.4.2.2.apk.
 
 Версия (3.4.2.2) должна соответствовать версии самого AAPS, иначе будет периодически выдавать предупреждение о несоответствии.
 
@@ -213,6 +214,10 @@ Raw data:
 
 ## XDrip+
 
+[Официальный сайт](https://jamorham.github.io/#xdrip-plus) XDrip+.
+
+XDrip+ устанавливается из [последней ночной сборки](https://xdrip-plus-updates.appspot.com/stable/xdrip-plus-latest.apk).
+
 * Принимает сахар от Juggluco (см. настройки Juggluco)
 * Передает сахар в AAPS локальной трансляцией (broadcast)
 * Не передает сахара в NightScout
@@ -223,10 +228,6 @@ Raw data:
 2. Settings - Inter-app settings - Broadcast locally: ON
 
 ### XDrip+ и Libre 1
-
-[Официальный сайт](https://jamorham.github.io/#xdrip-plus) XDrip+.
-
-XDrip+ устанавливается из [последней ночной сборки](https://xdrip-plus-updates.appspot.com/stable/xdrip-plus-latest.apk).
 
 При подключении выбирается Libre, потом Bluetooth Bride и выбирается соединение с miaomiao (должен быть включен). [Хорошая инструкция](https://miaomiao.cool/pages/how-to-use-miaomiao-with-xdrip) по использованию XDrip+ c Libre 1 через miaomiao.
 
