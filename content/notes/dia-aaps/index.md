@@ -216,7 +216,7 @@ Raw data:
 
 [Официальный сайт](https://jamorham.github.io/#xdrip-plus) XDrip+.
 
-XDrip+ устанавливается из [последней ночной сборки](https://xdrip-plus-updates.appspot.com/stable/xdrip-plus-latest.apk).
+XDrip+ (APK) скачивается и устанавливается из [последней ночной сборки](https://xdrip-plus-updates.appspot.com/stable/xdrip-plus-latest.apk).
 
 * Принимает сахар от Juggluco (см. настройки Juggluco)
 * Передает сахар в AAPS локальной трансляцией (broadcast)
