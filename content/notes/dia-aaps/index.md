@@ -297,6 +297,13 @@ RAW data:
 * Передает сахар в XDrip+
 * Не передает сахар в NightScout
 
+Для работы нужны следующие настройки:
+
+* Страница Sensor --- Use Bluetooth
+* Страница Sensor ---Turbo - on
+* Страница Sensor --- Android - off
+* Страница Settings --- Exchange data --- Patched Libre --- on
+
 ## Установка Juggluco
 
 Обычно устанавливается самая свежая версия. На официальном сайте на странице Download (в начале) находим раздел "Phone (runs on Android 5.0 or higher, Android 8 needed for Libre3)" и выбираем ссылку Sourceforge в подразделе Arm/Arm64/x86/x86_64 (for the emulator or atypical devices).
