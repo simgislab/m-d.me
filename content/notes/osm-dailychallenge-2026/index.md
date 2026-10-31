@@ -1,6 +1,6 @@
 ---
 title: "OpenStreetMap Daily Challenge 2026"
-date: "2026-11-31"
+date: "2026-10-31"
 summary: "Описание акции ежедневных заданий в OpenStreetMap --- 31DayOSMChallenge aka Maptober."
 description: "Описание акции ежедневных заданий в OpenStreetMap --- 31DayOSMChallenge aka Maptober."
 toc: true
