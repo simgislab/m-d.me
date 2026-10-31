@@ -8685,4 +8685,4 @@ Zoji Pass, [7](#7) ff.
 
 Do you have any questions, comments or fixes for the above?
 
-Let me know [**in comments**](https://t.me/answer42geo/96) or [by email](https://m-d.me/about/).
+Let me know [in comments](https://t.me/answer42geo/96) or [by email](https://m-d.me/about/).

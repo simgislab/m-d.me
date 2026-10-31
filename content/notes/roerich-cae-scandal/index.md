@@ -52,4 +52,4 @@ Have a written agreement with clear responsibility/contibution separation statem
 
 Do you have any questions, comments or fixes for the above?
 
-Let me know [**in comments**](https://t.me/answer42geo/130) or [by email](https://m-d.me/about/).
+Let me know [in comments](https://t.me/answer42geo/130) or [by email](https://m-d.me/about/).

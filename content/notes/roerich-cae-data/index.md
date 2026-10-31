@@ -101,4 +101,4 @@ If you're going to use this data, please respect author's copyright and don't fo
 
 Do you have any questions, comments or fixes for the above?
 
-Let me know [**in comments**](https://t.me/answer42geo/96) or [by email](https://m-d.me/about/).
+Let me know [in comments](https://t.me/answer42geo/96) or [by email](https://m-d.me/about/).
