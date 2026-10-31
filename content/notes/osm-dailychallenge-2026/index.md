@@ -27,7 +27,7 @@ fediverse: "@username@instance.url"
 ## Day 1 Tree or woods
 
 > Add or improve a natural=tree, natural=tree_row, natural=wood, or landuse=forest feature
-⬇️
+
 > Добавьте или улучшите объект с тегом natural=tree, natural=tree_row, natural=wood или landuse=forest.
 
 Этот день я пропустил, просто не знал о мероприятии. Хорошее начало! :)
@@ -37,6 +37,8 @@ fediverse: "@username@instance.url"
 > Add or improve any object in Africa. For example, map a missing road, stream, or building in Cameroon, Cape Verde, or the Comoros
 
 > Добавьте или улучшите любой объект в Африке.
+
+Немного правок в рамках [**Maptober**](https://wiki.openstreetmap.org/wiki/31_Day_OSM_Challenge)
 
 Никогда в таком сильно не участвовал, желаю попробовать в рамках саморазвития.
 
