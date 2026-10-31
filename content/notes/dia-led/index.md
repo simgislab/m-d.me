@@ -41,4 +41,4 @@ USB C Cable Splitter Type C 1 to 2 Extension Cable Wire
 
 Возникли вопросы, комментарии или есть полезная информация по теме заметки?
 
-Можно [**написать в телеграм**](https://t.me/answer42geo/10) или оставить вопрос в форме ниже.
+[Пишите в комментарии](https://t.me/answer42geo/10) или [лично](https://m-d.me/about/).

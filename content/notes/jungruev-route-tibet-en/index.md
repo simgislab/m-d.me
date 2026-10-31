@@ -420,4 +420,4 @@ Part II "At the Shrines of Tibet" will be published in the next volume.
 
 Do you have any questions, comments or fixes for the above?
 
-Let me know [**in Telegram**](https://t.me/answer42geo/88) or use the form below.
+Let me know [**in comments**](https://t.me/answer42geo/88) or [by email](https://m-d.me/about/).

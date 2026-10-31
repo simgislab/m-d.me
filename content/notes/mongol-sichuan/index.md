@@ -84,4 +84,4 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/News_From_Mongol-Sichu
 
 Возникли вопросы, комментарии или есть полезная информация по теме заметки?
 
-Можно [**написать в телеграм**](https://t.me/answer42geo/10) или оставить вопрос в форме ниже.
+[Пишите в комментарии](https://t.me/answer42geo/10) или [лично](https://m-d.me/about/).

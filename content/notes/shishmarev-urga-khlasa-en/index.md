@@ -290,4 +290,4 @@ Ya. P. Shishmarev, experienced in steppe travel, estimates that caravans in Mong
 
 Do you have any questions, comments or fixes for the above?
 
-Let me know [**in Telegram**](https://t.me/answer42geo/86) or use the form below.
+Let me know [**in comments**](https://t.me/answer42geo/86) or [by email](https://m-d.me/about/).

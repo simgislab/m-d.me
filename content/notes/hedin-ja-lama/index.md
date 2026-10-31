@@ -102,4 +102,4 @@ After our short visit to what had been the "false lama's" robber-nest we had to 
 
 Возникли вопросы, комментарии или есть полезная информация по теме заметки?
 
-Можно [**написать в телеграм**](https://t.me/answer42geo/256) или оставить вопрос в форме ниже.
+[Пишите в комментарии](https://t.me/answer42geo/256) или [лично](https://m-d.me/about/).

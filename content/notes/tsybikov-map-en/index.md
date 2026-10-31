@@ -68,4 +68,4 @@ https://x.com/nextgis/status/1853754816528261389
 
 Do you have any questions, comments or fixes for the above?
 
-Let me know [**in Telegram**](https://t.me/answer42geo/56) or use the form below.
+Let me know [**in comments**](https://t.me/answer42geo/56) or [by email](https://m-d.me/about/).

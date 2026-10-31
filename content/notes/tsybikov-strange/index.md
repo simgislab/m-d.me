@@ -220,4 +220,4 @@ It must also be said that about the same time, that is, at the end of 1899, the 
 
 Возникли вопросы, комментарии или есть полезная информация по теме заметки?
 
-Можно [**написать в телеграм**](https://t.me/answer42geo/27) или оставить вопрос в форме ниже.
+[Пишите в комментарии](https://t.me/answer42geo/27) или [лично](https://m-d.me/about/).

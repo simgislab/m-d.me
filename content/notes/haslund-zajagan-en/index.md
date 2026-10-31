@@ -7248,4 +7248,4 @@ Yün Kang, sculptured caves of, [4](#4),---origin, [4](#4),---style of, [5](#5);
 
 Do you have any questions, comments or fixes for the above?
 
-Let me know [**in Telegram**](https://t.me/answer42geo/176) or use the form below.
+Let me know [**in comments**](https://t.me/answer42geo/176) or [by email](https://m-d.me/about/).

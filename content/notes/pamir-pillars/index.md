@@ -343,4 +343,4 @@ United States Department of State, Bureau of Intelligence and Research. [Interna
 
 Возникли вопросы, комментарии или есть полезная информация по теме заметки?
 
-Можно [**написать в телеграм**](https://t.me/answer42geo/143) или оставить вопрос в форме ниже.
+[Пишите в комментарии](https://t.me/answer42geo/143) или [лично](https://m-d.me/about/).
