@@ -27,7 +27,7 @@ fediverse: "@username@instance.url"
 ## Day 1 Tree or woods
 
 > Add or improve a natural=tree, natural=tree_row, natural=wood, or landuse=forest feature
-
+⬇️
 > Добавьте или улучшите объект с тегом natural=tree, natural=tree_row, natural=wood или landuse=forest.
 
 Этот день я пропустил, просто не знал о мероприятии. Хорошее начало! :)
