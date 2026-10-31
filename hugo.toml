@@ -117,11 +117,11 @@ url = "/about"
   [markup.highlight]
     style = 'algol'
 
-[params.remark42]
-enable = true
-host = "https://comments.m-d.me"
-site = "remark"
-locale = "ru"
+# [params.remark42]
+# enable = true
+# host = "https://comments.m-d.me"
+# site = "remark"
+# locale = "ru"
 
 # Giscus comments
 [params.giscus]
