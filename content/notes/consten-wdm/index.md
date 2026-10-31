@@ -23,7 +23,7 @@ fediverse: "@username@instance.url"
 
 Иcточник: [отсканированная версия книги](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1015296289&PHYSID=PHYS_0004&view=overview-toc&DMDID=DMDLOG_0001) в Берлинской государственной библиотеке.
 
-Скачать исходный PDF. Карту в хорошем разрешении см. отдельно в этой заметке.
+Скачать исходный PDF ([большой](https://drive.google.com/file/d/16f8QRar-dfzD0FWC31Pqs5YFbs-ky6vJ/view?usp=sharing), [поменьше](https://drive.google.com/file/d/1AXHYM1zQBzYRK0w7UYqZ2GXTDjjMxfx-/view?usp=sharing)). Карту в хорошем разрешении см. в большом PDF или отдельно в этой заметке.
 
 Ошибки в исходном тексте:
 
