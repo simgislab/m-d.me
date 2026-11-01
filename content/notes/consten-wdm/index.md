@@ -8,7 +8,6 @@ autonumber: false
 math: false
 tags: ["Consten","Монголия","Джа-лама"]
 showTags: true
-draft: true
 hideBackToTop: false
 fediverse: "@username@instance.url"
 ---

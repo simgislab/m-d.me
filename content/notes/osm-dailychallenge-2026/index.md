@@ -24,6 +24,8 @@ fediverse: "@username@instance.url"
 
 В этой заметке собраны микрорепорты, на память. Ссылки на правки не все, только основные.
 
+![activity.png](activity.png)
+
 ## Day 1 Tree or woods
 
 > Add or improve a natural=tree, natural=tree_row, natural=wood, or landuse=forest feature
