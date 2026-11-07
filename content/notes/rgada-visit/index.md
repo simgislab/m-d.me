@@ -296,4 +296,4 @@ fediverse: "@username@instance.url"
 
 Возникли вопросы, комментарии или есть полезная информация по теме заметки?
 
-[Пишите в комментарии](https://t.me/answer42geo/134) или [лично](https://m-d.me/about/).
+[Пишите в комментарии](https://t.me/answer42geo/303) или [лично](https://m-d.me/about/).
