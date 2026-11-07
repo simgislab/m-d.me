@@ -3043,7 +3043,7 @@ Der Postbote behauptet, Dschenschip-Gulun habe nicht genügend Pferde auf den ei
 
 uns nicht selber bedienen könnte und bat uns, sich zurückziehen zu dürfen. Auf den Arm Lininfas und eines anderen Chinesen gestützt, verließ er das Konsulat. Jetzt waltete Li als Wirt seines Amtes. Alles ging Anfangs ganz gut. Aber der gute Li war seiner Aufgabe nicht ganz gewachsen, denn sein schwacher Punkt ist das Trinken. Er kann nicht viel vertragen und hat er sein kleines Quantum erreicht, so fällt er aus der Rolle. Er sagte dem russischen Konsul einige unangenehme Wahrheiten, wurde unvorsichtig in seinen Worten und Andeutungen, benahm sich mit einem Wort ganz unkommentmäßig. Ich verließ deshalb schon um 8 Uhr das Konsulat unter dem Vorgeben, noch Post erledigen zu müssen. Während ich noch schrieb, kam Li schwer angeheitert mit zwei Chinesen nach Hause und trieb draußen im Hofe allerlei Dummheiten, getraute sich aber nicht in unser gemeinsames Schlafzimmer hinein. Draußen schneite es lustig. Seit zwei Stunden waren schon anderthalb Zentimeter Schnee gefallen. Das wird für die Mongolen, wenn der Schneefall in der Steppe auch so anhält, ein böses Jahr werden. Die meisten Tiere, die nicht in die Gobi getrieben worden sind, werden wohl verhungern müssen. ---
 
-*(6. Oktober.)* Temperatur: 
+*(6. Oktober.)* Temperatur:
 
 |             | morgens | abends 8 Uhr |
 |-------------|---------|--------------|
