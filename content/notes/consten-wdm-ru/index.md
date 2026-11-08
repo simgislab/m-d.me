@@ -511,205 +511,207 @@ DRUCK VON J. J. AUGUSTIN IN GLÜCKSTADT UND HAMBURG
 
 В Шебалино мы остались ночевать. --- --- Погода стояла прекрасная и тёплая.
 
-Seit morgens um sechs Uhr warteten die Dorfältesten auf uns, um uns weiter zu transportieren. Ich bin längst reisefertig und habe ein ganz vorzügliches Pferd unterm Sattel. Aber erst um halb elf sind Konsuls so weit, daß wir aufbrechen können. In der Zwischenzeit unterhalte ich mich mit dem Ältesten von Schebolino und den anderen Bauern, darunter auch der dicke Popow, die mir alle von meinen früheren Reisen her bekannt sind. Allgemein sind die Klagen. Einstweilen hat sich der Handel durch die Unruhen in der Mongolei stark verschlechtert. Also gerade das Gegenteil von dem, was man erwartet hatte, war eingetreten. Als wir endlich aus Schebolino loskommen, begleiten uns einige Bauern zu Pferde auf dem ersten Teil des Weges. Sie haben am Tarantas Stricke
+С шести часов утра нас уже ждали сельские старосты, чтобы везти дальше. Я давно готов к дороге, и подо мной превосходная лошадь. Но лишь в половине одиннадцатого супруги Вальтер наконец готовы к отъезду. Тем временем я беседую со старостой Шебалино и другими крестьянами, среди которых и толстяк Попов, --- все они знакомы мне по прежним путешествиям. Жалобы у всех одни и те же. Пока что из-за беспорядков в Монголии торговля сильно ухудшилась. Таким образом, произошло как раз обратное тому, чего ожидали. Когда мы наконец выезжаем из Шебалино, несколько крестьян верхом сопровождают нас на первом отрезке пути. Они прикрепили к тарантасу верёвки, обвязали их
 
 <a id="35">**-- 35 --**</a>
 
-befestigt, diese um den Sattel und das rechte Bein geschlungen, und halten nun so auf dem oberen Rand des Weges reitend, den schwerfälligen Tarantas, der hier sehr leicht den Abhang hinunterpurzeln könnte, im Gleichgewicht. ---Noch eine schlechte gefährliche Stelle, und der Weg wird verhältnismäßig besser, die Reiter wünschen uns gute Reise, innerlich über das magere Trinkgeld des Konsuls brummend, und der dicke Popow --- er wiegt seine 300 deutsche Pfund --- lenkt von mm an allein die Troika des Konsuls bis zur nächsten Station. Popow ist einer der größten Maralheerdenbesitzer von Schebolino. Wir fahren und reiten immer in SSO-Richtung durch die wunderbaren herrlichen Partien des Altais. Verhältnismäßig schnell, um 12.20 Uhr, sind wir in Topuschaja, das nur 20 Werst von Schebolino entfernt liegt. --- *(Über den Siminperewal. (Siminpass))* In Tapuschaja (Seehöhe 1125 m), trinken wir den unvermeidlichen Tee, und um 1.15 Uhr fahren wir im flotten Galopp mit frischen Pferden und neuen Jaemschiki durch die Dorfstraße, in der sich hier und da in den großen Pfützen wohlgenährte Schweine wälzen, dem herrlichen Siminperewal (1680 m Seehöhe) entgegen. Hoch auf fliegt der Schmutz, als wir durch die Pfützen mit Glockengeläute hindurchjagen, dann geht's über eine kleine Bohlenbrücke, unter der ein starker Gebirgsbach hinwegbraust, und wir steigen langsam zum Siminperewal aufwärts. Der Weg ist für einen Wagen kaum passierbar. Die armen Pferde haben schwere Arbeit. Unser Gepäck ist auf kleinere leichte Wagen verladen, jeder mit drei Pferden bespannt. Ich komme mit meinem Gaul allmählich voraus, bald ferner und ferner verklingt das Läuten der Glocken an den Troikas, das Rufen und Fluchen der Jaemschiki, die die Pferde anfeuern, dringt immer undeutlicher zu mir herauf. Dann wird es ganz still um mich her, kaum hörbar schreitet mein Grauschimmel über das Moos am Wegesrand. Scharf luge ich, das Gewehr schußfertig vor mir auf dem Sattel, nach jeder Waldblöße hin, aber nirgends zeigt sich ein Rehbock, dessen Fleisch uns einige Abwechslung in die ewige Bieresserei bringen würde. Das Gehörn des Altaibocks ist außergewöhnlich stark und wunderbar geperlt. --- Nichts ist zu spüren ? Herüber zu mir klingt der Ruf des Schwarzweißspechts, ein Rotschwänzchen fliegt am Weg auf, dort links fliegt ein Specht, einen großen Käfer im Schnabel, zum nächsten Ast, dem Herrn scheint sein Mittagessen gut zu gefallen. Bin Kuckuck streicht mit raschen Flügelschlägen schnell über den Weg. Der dichte Waldbestand ist stellenweise durch Brände von größerem Umfang verwüstet. Hier und dort steht so ein schwarz gebrannter Baumriese zwischen niedrigem Gestrüpp, die blätterlosen Äste wie mächtige Arme gen Himmel streckend, dem Habicht und Adler ein beliebter Platz zum Aufbäumen.
+вокруг седла и правой ноги и теперь, двигаясь верхом по верхнему краю дороги, удерживают тяжёлый тарантас в равновесии, поскольку здесь он очень легко мог бы свалиться вниз по склону. --- Ещё одно плохое и опасное место, и дальше дорога становится сравнительно лучше. Всадники желают нам счастливого пути, про себя ворча из-за скудных чаевых консула, а толстяк Попов --- он весит около 300 немецких фунтов --- теперь один правит консульской тройкой до следующей станции. Попов --- один из крупнейших владельцев маральих стад в Шебалино. Мы едем и скачем всё время в направлении юго-юго-востока через великолепные, дивные места Алтая. Сравнительно быстро, в 12 часов 20 минут, мы прибываем в Топучую, находящуюся всего в 20 верстах от Шебалино. --- *(Через Семинский перевал.)* В Топучей (1125 м над уровнем моря) мы пьём неизбежный чай и в 1 час 15 минут на свежих лошадях и с новыми ямщиками резвым галопом мчимся по деревенской улице, где тут и там в больших лужах валяются откормленные свиньи, навстречу прекрасному Семинскому перевалу (1680 м над уровнем моря). Грязь взлетает высоко, когда мы под звон колокольчиков проносимся через лужи; затем переезжаем по небольшому дощатому мосту, под которым с грохотом несётся бурный горный поток, и начинаем медленно подниматься к Семинскому перевалу. Дорога едва проходима для повозки. Бедным лошадям приходится тяжело. Наш багаж перегружен на небольшие лёгкие повозки, каждая запряжена тройкой. На своём сером коне я понемногу вырываюсь вперёд; звон колокольчиков на тройках всё дальше и дальше затихает, крики и ругань ямщиков, подгоняющих лошадей, доносятся до меня всё менее отчётливо. Потом вокруг становится совсем тихо; мой серый конь почти неслышно ступает по мху у края дороги. Держа ружьё наготове перед собой на седле, я внимательно всматриваюсь в каждую лесную прогалину, но нигде не показывается косуля-самец, мясо которой внесло бы хоть какое-то разнообразие в нашу вечную однообразную еду. Рога алтайского козла необычайно мощные и замечательно бугристые. --- Ничего не видно? До меня доносится крик пёстрого дятла, у дороги вспархивает горихвостка, там слева дятел с большим жуком в клюве перелетает на ближайшую ветку --- господину, похоже, его обед весьма по вкусу. Кукушка быстрыми взмахами крыльев стремительно перелетает через дорогу. Густой лес местами опустошён крупными пожарами. Тут и там среди низкого кустарника стоит обугленный лесной великан, простирая к небу безлистные ветви, словно могучие руки; такие деревья служат излюбленными насестами для ястребов и орлов.
 
 <a id="36">**-- 36 --**</a>
 
-Im Frühjahr tönt der ganze Perewal von dem Glockenton des Auerhahns wieder, balzend und kämpfend geht der Taube --- wie ihn die Russen nennen, zur Freite. ---
+Весной весь перевал оглашается звоном глухариного тока; токующий и дерущийся глухарь --- «глухой», как называют его русские, --- отправляется на брачные игры. ---
 
-An einer Wegkrümmung taucht ein Kalmück auf, erschrocken prallt er zurück, als er sich plötzlich einem fremden Reiter gegenüber sieht. An seinem Sattel hängen ein halb Dutzend Fohlenhäute, die er in Schebolino, wie er mir sagt, verkaufen will. Später treffe ich nochmals mit einem Kalmücken zusammen. Er ist zivilisiert, trägt halbrussische Kleidung und ist Christ. Er will nach seinem Heu sehen. Tief unten im Tal sah ich das Zelt der Arbeiter im Sonnenschein stehen. Wieder bin ich allein. Unter mächtigen Baumriesen, deren Äste dicht über dem Nebenweg, den ich eingeschlagen habe, liegen, klettert mein guter Grauer munter den Berg aufwärts. Eine hübsche junge Kalmückin mit ihrem sechsjährigen Jungen hält erschrocken ihre Pferde an, als ich aus dem Nebenwege plötzlich auf den Hauptweg einbiege. Auch sie wollen zur Heuernte. Allmählich wird der Wald lichter, und um zwei Uhr 25 Minuten bin ich auf dem Gipfel. Der Seminperewal führt über den Gebirgszug Senjucha, der parallel in WO-Richtung streichend, mit dem Tenga hier die Wasserscheide bildet. Das Flüßchen Tenga mündet in den Urusul. Von der anderen Seite des Perewals tönt das Rufen und Quietschen einer Lastwagenkarawane zu mir herüber. Dort wo eine kleine Brücke aus dem Walde herausführt, lege ich mich unter einer hohen alten mächtigen Kiefer hin, um das herrliche Panorama dieser einzigartigen Gebirgswelt des Altais, das sich nach S und SO vor mir ausbreitet, zu betrachten. Meinen Grauschimmel lasse ich ruhig grasen, nachdem ich ihm die Vorderfüße zusammengekoppelt habe. Quietschend und polternd kommt die Lastkarawane vorbei. Die Pferde ziehen, eins hinter dem anderen, den hochbeladenen zweirädrigen Karren über den schlechten Weg, geschickt jedes Hindernis meidend, so daß verhältnismäßig wenig Fuhrleute bei der Karawane sind. Sie bringen Schafwolle und Felle nach Biisk. Auch sie wissen nichts bestimmtes aus Kobdo. Als sie aus Kosch-Agatsch aufbrachen, waren alle Kaufleute aus Kobdo in Kosch- Agatsch versammelt, um das Ergebnis der Kämpfe abzuwarten. Eine Karre nach der anderen verschwindet über die Brücke in den Wald, dann wird es ruhig. Immer ferner schallt das Rufen der Jaemschiki, das Poltern der Karren. Hier unter den Bäumen haben vor einiger Zeit Engländer oder Amerikaner gelagert. Die Leute haben sich wie die . Barbaren an den Bäumen der nächsten Umgebung vergangen. Aus der alten Kiefer, ein Wahrzeichen des Seminperewal haben sie große Stücke herausgehauen, in den nächsten Bäumen haben sie einen halben Meter groß die Anfangsbuchstaben ihres Namens eingeschlagen. --- Zwischen
+На повороте дороги появляется калмык; испуганно отшатывается он, внезапно увидев перед собой незнакомого всадника. К его седлу привязано с полдюжины жеребячьих шкур, которые, как он мне говорит, он собирается продать в Шебалино. Позднее я встречаю ещё одного калмыка. Он уже цивилизован, носит полурусскую одежду и является христианином. Он едет посмотреть своё сено. Глубоко внизу, в долине, я вижу на солнце палатку рабочих. Снова я один. Под могучими деревьями, ветви которых низко нависают над боковой тропой, по которой я поехал, мой добрый серый конь бодро карабкается вверх по горе. Симпатичная молодая калмычка со своим шестилетним мальчиком испуганно останавливает лошадей, когда я внезапно выезжаю с боковой тропы на главную дорогу. Они тоже направляются на сенокос. Постепенно лес редеет, и в 2 часа 25 минут я достигаю вершины. Семинский перевал проходит через хребет Синюха, протянувшийся здесь параллельно в направлении с запада на восток и вместе с Теньгой образующий водораздел. Речка Теньга впадает в Урсул. С другой стороны перевала до меня доносятся крики людей и скрип грузового каравана. Там, где небольшой мост выводит из леса, я ложусь под высокой старой могучей сосной, чтобы полюбоваться великолепной панорамой этого неповторимого горного мира Алтая, раскинувшегося передо мной к югу и юго-востоку. Моего серого я спокойно отпускаю пастись, предварительно стреножив ему передние ноги. Скрипя и грохоча, мимо проходит грузовой караван. Лошади одна за другой тянут по плохой дороге тяжело нагруженные двухколёсные повозки, ловко обходя каждое препятствие, так что при караване сравнительно мало возчиков. Они везут овечью шерсть и шкуры в Бийск. И они тоже ничего определённого о Кобдо не знают. Когда они выезжали из Кош-Агача, все купцы из Кобдо собрались там, ожидая исхода боёв. Одна повозка за другой исчезает за мостом в лесу, затем снова становится тихо. Всё дальше доносятся крики ямщиков и грохот колёс. Некоторое время назад здесь, под деревьями, стояли лагерем англичане или американцы. Эти люди обошлись с окрестными деревьями словно варвары. Из старой сосны, служащей своего рода символом Семинского перевала, они вырубили большие куски, а на ближайших деревьях высекли начальные буквы своих имён высотой в полметра. --- Лежа
 
 <a id="37">**-- 37 --**</a>
 
-den knorrigen Wurzeln der Kiefer liegend, bin ich immer wieder ent zückt von dem herrlichen Fernblick über den Altai. Ein Habicht bäumt sich auf der nächsten Telegraphenstange auf. Unbeweglich, wie aus Holz geschnitzt sitzt er dort oben, als lausche er den Nachrichten, die von Kosch-Agatsch nach Petersburg fliegen. Dort unten in der Mongolei kämpft ein Volk um seine Freiheit, und Petersburg interessiert sich für die Entwicklung des Kampfes mehr, als den Mongolen lieb sein kann. --- Leise klingen die Glöckchen der sich langsam nähernden Karawane zu mir herauf. Immer deutlicher wird das Klingen und Rufen der Jaemschiki, und um 3.15 Uhr biegt der erste Wagen aus dem Walde. Dann der zweite, dritte, vierte und fünfte, zuletzt der Tarantas des Konsuls. Alles ist gut gegangen, nur der Wagen mit dem Proviant ist zweimal umgeflogen, aber da kann nicht viel zerbrechen. Der Habicht ist beim Näherkommen der Karawane von Telegraphenstange zu Telegraphenstange geflogen, gleich als könnte er sich nicht von den Kobdo-Nach- richten losreißen.
+между узловатыми корнями сосны, я снова и снова восхищаюсь великолепным дальним видом на Алтай. На ближайшем телеграфном столбе усаживается ястреб. Неподвижный, словно вырезанный из дерева, сидит он наверху, будто прислушивается к известиям, летящим из Кош-Агача в Петербург. Там, внизу, в Монголии, народ борется за свою свободу, и Петербург интересуется развитием этой борьбы больше, чем хотелось бы самим монголам. --- Тихо доносится до меня звон колокольчиков медленно приближающегося каравана. Всё отчётливее слышны звон и крики ямщиков, и в 3 часа 15 минут из леса появляется первая повозка. Затем вторая, третья, четвёртая и пятая, а последним --- тарантас консула. Всё прошло благополучно, только повозка с провиантом дважды опрокидывалась, но там особенно нечему было разбиваться. При приближении каравана ястреб перелетал с одного телеграфного столба на другой, словно никак не мог оторваться от новостей из Кобдо.
 
-*(Werpischanskoe. Zusammentreffen mit Expedition Professor Suchkin.)* Dann geht es zu Tal, an alle Wagen werden die Bremseisen angelegt, knirschend schleifen die Hinterräder über die Steine. Unten im Tal in Werpischanskoe (1340 m Seehöhe) treffen wir mit einem Teil der Ex pedition des Professors Suchkin aus Charkow zusammen, der eine große Expedition in den Altai unternahm. Es sind dies die Herren Privat dozenten Dr. phil. Nat. Wladimir Redikowzew und Wasili Pereversieß, beides Zoologen. Die Herren sind auf dem Rückmarsch. Die Ausbeute an Vögeln allein beträgt 1000 Stück, darunter sehr seltene Exemplare; aber kein Steinhuhn, obwohl dies nach der Versicherung der beiden Herren, wenn auch äußerst selten, im Altai Vorkommen soll. Professor Suchkin besucht noch, wie mir die Herren erzählten, den Belucha, um ihn von der Südseite zu besteigen. ---Ob ihm dies schwierige Stück gelungen ist, ist mir z. Zt. unbekannt, es wird wohl bei einigen größeren Gletschervermessungen geblieben sein. Nach kurzem Abschied geht es abermals, nachdem wir die Pferde gewechselt haben, bergan.
+*(Верпишанское. Встреча с экспедицией профессора Сушкина.)* Затем начинается спуск в долину; на все повозки надевают тормозные башмаки, и задние колёса со скрежетом волочатся по камням. Внизу, в долине, в Верпишанском (1340 м над уровнем моря), мы встречаем часть экспедиции профессора Сушкина из Харькова, предпринявшего большую экспедицию на Алтай. Это приват-доценты, доктора естественных наук Владимир Редикорцев и Василий Переверзев, оба зоологи. Они уже возвращаются назад. Одних только птиц добыто около 1000 экземпляров, среди них очень редкие; но ни одного кеклика, хотя, по уверению обоих господ, он, пусть и чрезвычайно редко, всё же встречается на Алтае. Профессор Сушкин, как рассказали мне его спутники, отправился ещё к Белухе, чтобы попытаться взойти на неё с южной стороны. --- Удалось ли ему это трудное предприятие, мне в настоящее время неизвестно; вероятно, дело ограничилось несколькими более крупными измерениями ледников. После короткого прощания мы снова меняем лошадей и продолжаем путь в гору.
 
-*(Über den Tengaperewal (Tengapass) nach Tenga und Ongodai.)* Wir steigen jetzt über den Tenga (1424 m Seehöhe), der Perewal führt dann nach dem südlichen Teil hinunter in eine baumlose breite Mulde, in der der kleine See Tenga (1120 m Seehöhe) eingebettet liegt. Der Weg geht tief eingeschnitten zwischen den Wegrändern zu Tal. Die Hinterräder der Wagen schleifen und springen über graugelbe Felsen und Steine, der Tarantas schwankt wie eine Arche Noa und droht jeden Augenblick umzufallen. Konsuls gehen zu Fuß. Der Abstieg ist kurz, aber desto steiler. Wir sind alle froh, als ich glücklich alle Wagen mit Hilfe der Jaemschiki herunterbugsiert habe. Dann bin ich, mein Pferd am Zügel führend, der Frau Konsul beim steilen Abstieg behilflich.
+*(Через Теньгинский перевал в Теньгу и Онгудай.)* Теперь мы поднимаемся на Теньгинский перевал (1424 м над уровнем моря), после чего дорога спускается к югу в широкую безлесную котловину, где лежит небольшое озеро Теньга (1120 м над уровнем моря). Дорога идёт вниз, глубоко врезаясь между высокими обочинами. Задние колёса повозок скользят и подпрыгивают на серо-жёлтых скалах и камнях, тарантас раскачивается, словно Ноев ковчег, и каждую минуту грозит опрокинуться. Консул с женой идут пешком. Спуск короткий, но зато чрезвычайно крутой. Все мы рады, когда мне с помощью ямщиков удаётся благополучно спустить вниз все повозки. Затем я, ведя лошадь в поводу, помогаю жене консула спуститься по крутому склону.
 
 <a id="38">**-- 38 --**</a>
 
-Jeder Baum und Strauch kommt mir wie ein alter Bekannter vor. Wieviel schneller war ich im März 1910 dort unten in der Mulde angelangt, als ich längs der bewaldeten, von dichten Kiefern bestandenen Hänge dahingleitend auf meinen Telemaks im hohen Schnee zu Tal fuhr. Hier und da an windgeschützten Stellen stehen die aus Baumrinden gefertigten spitzen Kibitken der Kalmücken. Langsam quellen dichte Rauchwolken aus der oberen Öffnung der Kibitken. Aus der Ferne schallt der Ruf eines kalmückischen Hirten zu uns herüber, der die Herden näher zur Niederlassung herantreibt. Im Vorbeireiten rufe ich einige russische Jaemschiki an, die auf dem Wege nach Smolenskoi sind, aber auch sie wissen nichts Neues aus der Mongolei.
+Каждое дерево и каждый куст кажутся мне старыми знакомыми. Насколько быстрее я оказался внизу, в этой котловине, в марте 1910 года, когда скользил по глубокому снегу вниз по поросшим густыми соснами лесистым склонам на своих телемарках. Тут и там, в защищённых от ветра местах, стоят остроконечные калмыцкие кибитки, сделанные из древесной коры. Из верхних отверстий кибиток медленно валят густые клубы дыма. Издали до нас доносится крик калмыцкого пастуха, подгоняющего стада ближе к стойбищу. Проезжая мимо, я окликаю нескольких русских ямщиков, направляющихся в Смоленское, но и они ничего нового о Монголии не знают.
 
-*(Tenga.)* Kurz vor dem Dunkeln treffen wir in Tenga (997 m Seehöhe) ein, wo mich der Posthalter und sein Sohn als alten Bekannten herzlich begrüßen. Immer noch steht still und einsam mitten im Tal die kleine griechisch-katholische Kirche, in der nur einmal im Jahre Gottesdienst abgehalten wird. Nicht weit davon ist ein mächtiges, griechisches Kreuz aufgerichtet. An der Stelle des Kreuzes hat früher die erste Kapelle gestanden, das Kreuz wurde errichtet um die Heiligkeit des Ortes und das Eigentumsrecht der Kirche an dem Boden zu dokumentieren.
+*(Теньга.)* Незадолго до наступления темноты мы прибываем в Теньгу (997 м над уровнем моря), где смотритель почтовой станции и его сын сердечно приветствуют меня как старого знакомого. Всё так же тихо и одиноко стоит посреди долины маленькая православная церковь, в которой богослужение совершается лишь раз в году. Неподалёку от неё воздвигнут огромный греческий крест. На месте этого креста прежде стояла первая часовня; крест был поставлен, чтобы засвидетельствовать святость этого места и право церкви на владение землёй.
 
-Der Weg von Tenginskoje, auch Ust-Tenga genannt, führt durch das langgestreckte Tal des Urusul, zwischen mächtigen kahlen Geröllabhängen von teilweise bewaldeten Gebirgszügen begleitet nach Ongodai.
+Дорога из Теньгинского, называемого также Усть-Теньгой, ведёт по вытянутой долине Урсула среди мощных голых осыпных склонов, окаймлённых местами покрытыми лесом горными хребтами, к Онгудаю.
 
-Es ist stockdunkel, als wir aufbrechen, aber wir wollen heute noch bis Ongodai, wohin wir noch 37 Werst haben. Ich trabe der Karawane voraus, hell und klar funkeln die Sterne am Firmament, die Gebirgszüge heben sich scharf als schwarze Masse vom dunkeln Himmel ab, hier und da blitzt ein Stern besonders hell über dem Rand der Gebirgsmauer auf. Es wird dunkler, die Sterne verschwinden, ein feiner Regen setzt ein. Nachdem ich mir den Regenmantel übergezogen, besichtige ich alle Gepäckwagen, ob auch überall die wasserdichten Segeltuchdecken über die Gepäckstücke gelegt sind. Dann geht es unter Pfeifen und Rufen der Jaemschiki weiter. Das Auge gewöhnt sich schnell an die Dunkelheit, so daß man auf kurze Entfernung sogar die einzelnen Gegenstände erkennen kann. Die Zeit vergeht bei so einem Nachtritt doppelt langsam, besonders wenn man todmüde ist und schon beinahe 100 Werst, nur durch den Pferdewechsel unterbrochen, im Sattel zurückgelegt hat. Ich rauche meine Pfeife und singe mir leise, um nicht im Sattel einzuschlafen, ein altes Studentenlied. Das ewige Gebimmel an dem Kummet der Troikas und dem Schellenkranz, den das linke Handpferd um den Hals trägt, wirkten einschläfernd. *(Tuichta.)* Wir fahren durch
+Когда мы трогаемся в путь, уже совершенно темно, но сегодня мы всё же хотим добраться до Онгудая, до которого остаётся ещё 37 вёрст. Я еду рысью впереди каравана; на небосводе ярко и ясно сверкают звёзды, горные хребты резко выделяются чёрной массой на тёмном небе, тут и там особенно яркая звезда вспыхивает над краем горной стены. Становится ещё темнее, звёзды исчезают, начинается мелкий дождь. Надев плащ, я осматриваю все багажные повозки, проверяя, везде ли груз укрыт непромокаемыми брезентовыми полотнищами. Затем под свист и крики ямщиков мы продолжаем путь. Глаз быстро привыкает к темноте, так что на небольшом расстоянии уже можно различать отдельные предметы. В такой ночной поездке время тянется вдвое медленнее, особенно когда смертельно устал и уже проехал в седле почти 100 вёрст, прерывая путь лишь для смены лошадей. Я курю трубку и тихонько напеваю старую студенческую песню, чтобы не заснуть в седле. Бесконечный звон колокольчиков на хомутах троек и бубенцов на ожерелье левой пристяжной действует усыпляюще. *(Туекта.)* Мы проезжаем через
 
 <a id="39">**-- 39 --**</a>
 
-das langgestreckte Dorf Tuichta, das etwa 15 Werst von Ongodai ent fernt liegt. Die Fenster sind hell erleuchtet und mit geblümtem Kattunstoff bis zur halben Höhe verdeckt. Hier und da versucht irgend ein bärtiger Kopf durch die Fenster auf die Straße zu spähen. Endlich hören wir das Rauschen und Brausen des Urusuls, dann geht es über die große Bohlenbrücke, und im Galopp fahren wir vor dem Semstwoquartier vor.
+вытянувшееся вдоль дороги село Туекта, расположенное примерно в 15 верстах от Онгудая. Окна ярко освещены и до половины завешены цветным ситцем. Тут и там какой-нибудь бородатый человек пытается выглянуть из окна на улицу. Наконец мы слышим шум и грохот Урсула, затем переезжаем по большому дощатому мосту и галопом подкатываем к земскому помещению.
 
-Ich bin froh, aus dem Sattel zu kommen, denn 110 Werst Traben ist für den Anfang eigentlich ein bischen viel. Der Jaemschik und der Dorfälteste erwarten uns hier. Das Haus selber ist mir wohlbekannt. Hier übernachtete ich vor drei Jahren, als noch Tretjakow, der beste aber versoffenste Jaemschik des ganzen Traktes, hier hauste. Heute ist er strafversetzt am Kor-Ketschu. Der morgige Tag ist ein Rasttag, da Frau Konsul die ewige Schüttelei im Wagen nicht mehr aushalten kann. Ich krieche deshalb mit doppeltem Vergnügen in meinen Schlafsack.
+Я рад наконец выбраться из седла, потому что 110 вёрст рысью для начала всё-таки многовато. Здесь нас уже ждут ямщик и сельский староста. Сам дом мне хорошо знаком. Здесь я ночевал три года назад, когда тут ещё хозяйничал Третьяков --- лучший, но и самый пропойный ямщик на всём тракте. Теперь его в наказание перевели на Кор-Кечу. Завтра у нас день отдыха, поскольку жена консула больше не в силах переносить бесконечную тряску в повозке. Поэтому я с удвоенным удовольствием забираюсь в свой спальный мешок.
 
-*(Ongodai.)* Am anderen Morgen nehme ich ein russisches Dampfbad. So ein russisches Dampfbad hat eine wunderbare Wirkung. Der russische Bauer, so schmutzig er sonst in seiner Kleidung ist, nimmt, wenn er es irgend möglich machen kann, wenigstens wöchentlich einmal ein Dampfund Schwitzbad. In jedem kleineren Dorf ist wenigstens eine Badestube, die irgend einem reichen oder unternehmungslustigen Muschik gehört. Wenn er das Bad heizt, so wird dies im Dorf bekannt gemacht, und gegen Abgabe von 1 oder 2 Kopeken kommen die Badelustigen, nachdem der Besitzer die Badestube zuerst benutzt hat, zum Baden. Fehlt es aber an einer Badestube, so kriechen die Bauern nicht selten in den großen holländischen Kachelofen, der in keinem Bauernhaus fehlt, nachdem er sich auf eine angemessene Temperatur abgekühlt hat. Wenn so ein Männlein oder Weiblein in Adamstoilette als Bleichgesicht in den Ofen hineinkriecht, so kommt es schwarz wie ein Zentralafrikaner wieder heraus. Mit lauwarmem Wasser wird dann der Ruß abgespült, und der Bauer oder die Bäuerin vertilgen nach solch einem Bad eine Unmenge heißen Tee, der den Schwitzprozeß noch eine Weile fördert. Öfters hört man davon, daß durch Zufall von spielenden Kindern die Ofenklappe zugemacht wurde und daß der oder die Badende dann im Ofen erstickten.
+*(Онгудай.)* На следующее утро я принимаю русскую паровую баню. Такая русская баня действует удивительно благотворно. Русский крестьянин, как бы грязна ни была обычно его одежда, если только имеет возможность, по крайней мере раз в неделю парится и потеет в бане. В каждой мало-мальски крупной деревне имеется хотя бы одна баня, принадлежащая какому-нибудь богатому или предприимчивому мужику. Когда он её топит, об этом объявляют по деревне, и желающие помыться, заплатив 1 или 2 копейки, приходят после того, как хозяин первым воспользуется баней. Если же бани нет, крестьяне нередко забираются в большую голландскую изразцовую печь, которая имеется в каждом крестьянском доме, после того как она остынет до подходящей температуры. Когда такой мужичок или баба в костюме Адама, бледные лицом, забираются в печь, обратно они вылезают чёрными, словно жители Центральной Африки. Затем сажу смывают тёплой водой, а крестьянин или крестьянка после такой бани выпивают огромное количество горячего чая, ещё некоторое время поддерживающего потоотделение. Нередко приходится слышать о случаях, когда игравшие дети случайно закрывали печную заслонку и находившийся внутри человек задыхался.
 
-*(Badestube in Ongodai.)* So eine Bauernbadestube wie hier in Ongodai ist ein kleines würfel- artiges Blockhaus mit einem Fenster, wegen der Feuersgefahr etwas entfernt vom Hauptgebäude gelegen. Die Tür ist niedrig, so daß man sich den Kopf tüchtig anstößt, wenn man nicht achtgibt. An zwei Seiten der Wände stehen niedrige Bänke. Doch sehe man sich vor, da auch einmal ein Nagel aus einer solchen Bank zum Vorschein kommt. Der Besitzer kennt den Nagel ganz genau, ihn geniert er nicht, die anderen können aufpassen. Gegenüber vom Fenster, dicht beim Ofen ist eine Art Estrade,
+***(Баня в Онгудае.)*** Такая крестьянская баня, как здесь, в Онгудае, представляет собой небольшой кубический бревенчатый домик с одним окном, расположенный из-за опасности пожара на некотором расстоянии от главного дома. Дверь низкая, так что, если не быть осторожным, можно хорошенько удариться головой. Вдоль двух стен стоят низкие скамьи. Но садиться следует осмотрительно: иной раз из такой скамьи торчит гвоздь. Хозяин прекрасно знает, где он находится, ему он не мешает, а остальные пусть смотрят сами. Напротив окна, вплотную к печи,
 
 <a id="40">**-- 40 --**</a>
 
-dann eine Bank, und in der Ecke gegenüber dem Ofen befindet sich eine metergroße gußeiserne Schüssel mit kaltem Wasser, daneben eine kleinere mit lauwarmen Wasser. Der Ofen ist gewöhnlich gemauert, und auf ihm liegen 1/2 m hoch kopfgroße aus irgend einem Bach herbeigeschaffte Steine. Sie sind durch das Wasser glatt geschliffen. Am Morgen oder am Abend vor dem Baden wird der Ofen geheizt, die Steine werden allmählich glühend heiß. Hat so das Feuer 10 Stunden unter den Steinen gebrannt, so ist das Bad fertig. Häufig befindet sich noch auf dem Ofen, rings in den Steinen eingebettet, ein großer eiserner Kessel mit kochendem Wasser. Der Badende entkleidet sich in der Badestube, kommt aber in möglichst leichter Toilette, auch wenn er eine Viertelstunde zu gehen hat, dorthin und gießt je nach Bedarf Wasser auf die glühenden Steine. Zischend und prasselnd verdampft das Wasser: der Raum füllt sich mit Wasserdampf und erreicht auf der Estrade manchmal eine Temperatur von 50 Grad Reaumur. Man streckt sich auf dieser Estrade lang auf die Holzbretter aus, da gerade hier sich der Wasserdampf am stärksten ansammelt. Später spült sich der Badende mit lauwarmem oder kaltem Wasser ab. Man sieht, die Prozedur ist höchst einfach, aber im Endeffekt um nichts von den herrlich eingerichteten Bädern in Moskau oder Petersburg verschieden.
+устроено нечто вроде помоста, затем стоит скамья, а в углу напротив печи находится большая, около метра в поперечнике, чугунная чаша с холодной водой, рядом с ней --- меньшая, с тёплой водой. Печь обычно сложена из кирпича, а сверху на ней слоем примерно в полметра лежат камни величиной с человеческую голову, принесённые из какого-нибудь ручья. Вода отполировала их до гладкости. Утром или вечером перед мытьём печь протапливают, и камни постепенно раскаляются. Если огонь горел под ними часов десять, баня готова. Нередко прямо на печи, среди камней, стоит ещё большой железный котёл с кипящей водой. Раздеваются уже в самой бане, а приходят туда в как можно более лёгкой одежде, даже если идти приходится четверть часа, и по мере надобности льют воду на раскалённые камни. Вода с шипением и треском испаряется; помещение наполняется паром, и на помосте температура иногда достигает 50 градусов Реомюра. На этом помосте вытягиваются во весь рост прямо на деревянных досках, поскольку именно здесь пар скапливается сильнее всего. Затем моющийся обливается тёплой или холодной водой. Как видно, процедура чрезвычайно проста, но по конечному результату ничем не отличается от великолепно устроенных бань Москвы или Петербурга.
 
-Ongodai (zehn Götter) ist wunderbar gelegen, rings von allen Seiten von hohen bewaldeten Bergen eingeschlossen. Daß das Dorf seinen Namen der Verehrung der zehn verschiedenen Quellen verdankt, die angeblich im Quellgebiet des Ongodaiflüßchens liegen, halte ich für nicht wahrscheinlich, vielmehr glaube ich, daß die umliegenden zehn hohen Berge der Umgebung und das Flüßchen Ongodai den Göttern der Kalmücken geweiht waren. Ongudai ist der Sitz der Kreisverwaltung, der Poststation für den ganzen hiesigen Altaibezirk. Der Bezirksarzt hat auch hier seinen Sitz, das Krankenhaus ist geräumig und sauber. Der Arzt hat zwei Feldschere und eine Feldscherin zur Verfügung. Der Bezirksarzt, sowie der Feldscher unternehmen tagelange Reisen in ihrem Bezirk um die erkrankten Kalmücken zu besuchen. ---
+Онгудай («десять богов») расположен великолепно, со всех сторон окружён высокими лесистыми горами. То, что деревня получила своё название от почитания десяти различных источников, якобы находящихся в верховьях речки Онгудай, кажется мне маловероятным; скорее я полагаю, что десять высоких окрестных гор и речка Онгудай были посвящены богам калмыков. Онгудай является местом пребывания окружного управления и почтовой станции для всего здешнего Алтайского округа. Здесь же находится и окружной врач; больница просторная и чистая. В распоряжении врача имеются два фельдшера и одна фельдшерица. Окружной врач, а также фельдшер совершают многодневные поездки по своему округу, чтобы навещать заболевших калмыков. ---
 
-Der Pristaw von Ongodai ist beinahe ständig unterwegs, um die Polizeigeschäfte zu erledigen. Auch sein Bezirk ist übereinstimmend mit dem des Doktors doppelt so groß wie die Rheinprovinz. --- Der vorige Pristaw nahm es allerdings nicht sehr genau mit seinen Pflichten. Ich hatte die Ehre, den würdigen Herrn im Jahre 1910 kennen zu lernen, als er ohne Grund meine Pässe revidieren kam und mir Unannehmlichkeiten zu bereiten suchte, damit ich eine schwere Kiste für ihn mit meinen Pferden nach Kosch-Agatsch nehmen sollte. Er trieb verbotenen Schnapshandel, und im Streit darüber erschoß er in der Trunkenheit ein junges
+Пристав Онгудая почти постоянно находится в разъездах, исполняя полицейские обязанности. Его округ, совпадающий с округом врача, также вдвое больше Рейнской провинции. --- Впрочем, прежний пристав относился к своим обязанностям не слишком добросовестно. Я имел честь познакомиться с этим достойным господином в 1910 году, когда он без всякой причины явился проверять мои паспорта и пытался чинить мне неприятности, чтобы заставить меня отвезти на моих лошадях в Кош-Агач тяжёлый ящик, принадлежавший ему. Он занимался запрещённой торговлей водкой и во время ссоры из-за этого, будучи пьяным, застрелил молодую
 
-PHOTOS
+ФОТО
 
-Tafel 1.
+Лист 1.
 
 ![40-schikataman.jpg](40-schikataman.jpg)
 
-Schikataman.
+Чике-Таман.
 
 ![40-pristan.jpg](40-pristan.jpg)
 
-Am Pristan (Ladeplatz) in Kamen.
+На пристани (погрузочной площадке) в Камне.
 
-Tafel 2.
+Лист 2.
 
 ![40-ausblick.jpg](40-ausblick.jpg)
 
-Der Ausblick von Schikataman auf den Altai.
+Вид с перевала Чике-Таман на Алтай.
 
-Tafel 3.
+Лист 3.
 
 ![40-ausblick2.jpg](40-ausblick2.jpg)
 
-Ausblick vom Schikataman mit dem Flusse Ulgemen und dem Reiseweg durch den Tschuiskitrakt.
+Вид с перевала Чике-Таман на реку Большой Ильгумень и дорогу Чуйского тракта.
 
-Tafel 4.
+Лист 4.
 
 ![40-ubergang.jpg](40-ubergang.jpg)
 
-Übergang über den Fluss Katun.
+Переправа через реку Катунь.
 
 <a id="41">**-- 41 --**</a>
 
-Mädchen. Er erhielt dafür mehrere Jahre Arrestantenkompagnie. Früher war Ongodai die Grenz- und Zollstation. Heute hat Rußland seine Grenz- Zoll- und Telegraphenstation 267 Werst der Mongolei nähergeschoben. Ongodai liegt 860 m hoch, auf dem rechten Ufer des Urusul, dort, wo das Flüßchen Ongodai in diesen mündet. Ongodai selbst würde seiner Lage nach ein prachtvoller Luftkurort sein. Allerdings gibt es etwa 150 Werst von Ongodai in der Nähe des Teletzkojesees wunderbare Luftkurorte, die es ihrer Lage und ihrem Klima nach getrost mit Davos aufnehmen können, z. B. Tschernoje-Manuje und im Imonskibezirk das nur von Barnaul zu erreichende Kitralu. Tatsächlich scheuen einige Moskauer Familien nicht den weiten Weg, um diese sogenannten Luftkurorte aufzusuchen, wo das Leben äußerst billig ist. Für ein russisches im geräumigen sibierischen Stil gebautes Blockhaus zahlen sie für die ganze Saison 25 Rubel, für eine aus Holzstämmen gezimmerte achteckige Altaijische Kibithke nur 10 Rubel. Lebensmittel sind wie überall in dieser Gegend Sibiriens für ein paar Kopeken zu haben. Wanzen und Flöhe sind wenig vorhanden, da der strenge Winter in den ungeheizten nicht benutzten Räumen eine gründliche Säuberungsarbeit verrichtet.
+девушку. За это он получил несколько лет арестантских рот. Прежде Онгудай был пограничной и таможенной станцией. Теперь Россия передвинула свою пограничную, таможенную и телеграфную станцию на 267 вёрст ближе к Монголии. Онгудай расположен на высоте 860 м, на правом берегу Урсула, в месте впадения в него речки Онгудай. По своему положению Онгудай мог бы стать великолепным климатическим курортом. Впрочем, примерно в 150 верстах от Онгудая, в окрестностях Телецкого озера, имеются замечательные климатические курорты, которые по своему расположению и климату вполне могут соперничать с Давосом, например Черное-Мануйе и, в Уймонском районе, Китралу, куда можно добраться только из Барнаула. Некоторые московские семьи действительно не боятся далёкого пути, чтобы провести время на этих так называемых климатических курортах, где жизнь чрезвычайно дешева. За русский бревенчатый дом, построенный в просторном сибирском стиле, они платят за весь сезон 25 рублей, а за восьмиугольную алтайскую кибитку, сложенную из брёвен, --- всего 10 рублей. Продукты, как и повсюду в этой части Сибири, стоят считанные копейки. Клопов и блох немного, поскольку суровая зима в нетопленых и пустующих помещениях производит основательную очистку.
 
-*(Umpacken.)* Es regnet in Ongodai. Während die anderen noch schlafen, öffne ich die Kiste der Telega, die auf dem Seminperewal zweimal umgeflogen ist. Es sieht bunt genug darin aus. Durch die ewige Schüttelei ist alles durcheinandergeworfen worden, so daß ich alles umpacken muß. Die Körbchen, Kistchen und Konservendosen umwickle ich jetzt fest mit gepreßtem Heu, denn war der Weg bisher holprig, so wird er, sobald wir den Schikataman überschreiten, steinig. Meine starken, afrikanischen Lastenkisten aus Zinkblech gingen das letzte Mal durch die Stöße in Stücke. --- So geht denn der Vormittag mit Umpacken herum, dann besuche ich Kisselew, der zwei Tage früher hier eingetroffen ist als wir. Kisselew unterhielt hier eine Filiale der Firma Bodonow, verläßt aber Ongodai, um sich in Biisk vor dem Kriegsgericht wegen Aufruhr und Gefangenenbefreiung zu verantworten. Er schloß sich, wohl unter dem Einfluß seiner Frau stehend, der revolutionären Bewegung im Jahre 1905 tätig an. So bildete er aus alten gedienten Leuten eine bewaffnete Abteilung zum Selbstschutz gegen Pogrome des Schwarzen Hunderts. Diese Pogrome waren angeblich von einem Gendarmeriehauptmann organisiert worden. Durch das Eingreifen Kisselews wurden tatsächlich die Plünderungen verhindert. Kisselew war selbst in jener Zeit Lehrer in Biisk und ist überhaupt ein hochintelligenter Kopf, der allerdings stark zum Marxismus neigt. Wegen seiner Tätigkeit im Jahre 1905 soll er sich jetzt, wie gesagt, nach sieben Jahren --- so lange währt schon der Prozeß ---
+*(Перепаковка.)* В Онгудае идёт дождь. Пока остальные ещё спят, я открываю ящик с телеги, которая дважды опрокидывалась на Семинском перевале. Внутри царит изрядный беспорядок. От бесконечной тряски всё перемешалось, так что приходится перепаковывать весь груз. Корзинки, ящички и банки с консервами я теперь плотно обкладываю прессованным сеном, потому что если до сих пор дорога была ухабистой, то после Чике-Тамана она станет каменистой. Мои прочные африканские грузовые ящики из цинковой жести в прошлый раз разбились от ударов. --- Так всё утро проходит за перепаковкой, затем я навещаю Киселёва, прибывшего сюда на два дня раньше нас. Киселёв заведовал здесь отделением фирмы Бодонова, но теперь покидает Онгудай, чтобы предстать в Бийске перед военным судом по обвинению в мятеже и освобождении заключённых. По-видимому, находясь под влиянием своей жены, он активно примкнул к революционному движению 1905 года. Так, из бывших солдат он сформировал вооружённый отряд самообороны против погромов черносотенцев. Эти погромы, как утверждали, были организованы одним ротмистром жандармерии. Благодаря вмешательству Киселёва грабежи действительно удалось предотвратить. Сам Киселёв в то время был учителем в Бийске и вообще человек весьма умный, хотя и сильно склонный к марксизму. За свою деятельность в 1905 году он теперь, как уже сказано, спустя семь лет --- именно столько длится процесс, ---
 
 <a id="42">**-- 42 --**</a>
 
-verantworten. Ein Teil der Belastungszeugen ist gestorben, verzogen usw. Dieser Umstand kann für ihn und seine Genossen äußerst wertvoll werden. Trotzdem sieht er dem Ausgang mit Besorgnis entgegen und bestellt seine Haus- und Familienangelegenheiten auf mehrere Jahre voraus. ---
+ответит перед судом. Часть свидетелей обвинения умерла, уехала и т. д. Это обстоятельство может оказаться чрезвычайно благоприятным для него и его товарищей. Тем не менее он с тревогой ожидает исхода дела и приводит в порядок домашние и семейные дела на несколько лет вперёд. ---
 
-Nachmittags spiele ich den Koch. Es gibt Ochsenschwanzsuppe, Hammelkeule, in der Asche gebratene Kartoffeln und Pudding. ---
+После полудня я исполняю обязанности повара. На обед суп из бычьего хвоста, баранья нога, картофель, запечённый в золе, и пудинг. ---
 
-Abends spät sitzen Konsuls und ich noch lange bei Kisselew. Am andern Morgen sind wir erst um 11 1/2 Uhr fertig. Auf dem Schikataman, nach dem ich besorgt ausschaue, ist über Nacht leichter Schnee gefallen.
+Поздно вечером мы с супругами Вальтер ещё долго сидим у Киселёва. На следующее утро мы готовы к отъезду лишь в половине двенадцатого. На Чике-Тамане, на который я поглядываю с беспокойством, за ночь выпал лёгкий снег.
 
-*(Über den Schikataman in den Tschuiski-trakt.)* Derselbe kalmückische Jaemschik, der Konsul Walter und mich im vorigen Jahr an einer ganz gefährlichen Stelle kurz hinter Ongodai umschmiß, fährt auch heute den Konsul und seine Frau. Er verspricht dem Konsul hoch und heilig, ihn diesmal wirklich nicht umzuschmeißen. In seinem roten russischen Hemd, den hohen Stiefeln, seiner schwarzen weiten Plüschhose, die nach Jaemschikenart hinten einen viertel Meter sackartig aus den Juchtenstiefeln hängt, ähnlich wie die alten holländischen Schiffsbauern sie trugen, macht er mit seinem dunklen Kalmückengesicht den Eindruck eines tüchtigen Jaemschiks. Aber der Schein trügt. Wir fahren in einem breiten Hochtal. Der Weg führt, nur getrennt durch auf 1 1/2 m Entfernung eingerammte Blöcke von im Höhe, längs dem hohen sehr steilen Ufer des tief unten tobenden Urusul ostwärts. *(Ein Wagen-unfall.)* Ander höchsten abschüssigen Stelle, nachdem wir an dem Platz, wo unser Jaemschik im vorigen Jahr so elegant umgeschmissen hatte, glücklich vorübergekommen waren, konnte das mittlere Pferd der Troika den schweren Tarantas fast nicht mehr zurückhalten. Das linke Pferd geriet beim vergeblichen Versuch des J aemschik, den Wagen vom Abgrund möglichst fern zu halten, auf eine in den Weg vorspringende Felsplatte, fand hier keinen Halt mehr, der Tarantas kam schräg zum Wege zu stehen. Ich ergriff rasch vom Sattel aus, am oberen Rand des Weges reitend, das starke Eisen des Lederverdecks, um den schon kippenden Wagen im Gleichgewicht zu halten und brüllte dem schnell auf dem abschüssigen Wege sich nähernden Gepäckwagen zu zu stoppen, damit er nicht in uns hineinführe. Langsam neigte sich der Wagen dem Abgrund zu. Die Ungeschicklichkeit des Konsuls, der in seiner Angst aus dem Wagen springen wollte und auf dem Trittbrett sitzen blieb, statt seinerseits mit dem Rücken den Wagen zu stützen, brachte die Karre vollständig aus dem Gleichgewicht. Mein Pferd stürzte in die Kniee, das Spanneisen des Verdecks riß im Gelenk in meiner Hand entzwei, und ich mußte, um nicht vom Sattel aus über den Tarantas hinweg in den Abgrund geschleudert zu werden,
+*(Через Чике-Таман на Чуйский тракт.)* Тот самый калмыцкий ямщик, который в прошлом году вскоре за Онгудаем опрокинул консула Вальтера и меня в очень опасном месте, и сегодня везёт консула с женой. Он клянётся консулу всеми святыми, что на этот раз уж точно его не опрокинет. В красной русской рубахе, высоких сапогах и широких чёрных плюшевых штанах, которые, по ямщицкому обычаю, сзади мешком свисают из юфтевых сапог почти на четверть метра, подобно тем, что носили старые голландские моряки, он со своим смуглым калмыцким лицом производит впечатление бывалого ямщика. Но внешность обманчива. Мы едем по широкой высокогорной долине. Дорога идёт на восток вдоль высокого и очень крутого берега Урсула, бушующего глубоко внизу; от обрыва её отделяют лишь врытые через каждые полтора метра каменные столбы высотой около метра. *(Авария с повозкой.)* На самом высоком и крутом участке, после того как мы благополучно миновали место, где наш ямщик в прошлом году столь ловко нас опрокинул, средняя лошадь тройки уже почти не могла удерживать тяжёлый тарантас. Левая пристяжная, когда ямщик тщетно пытался держать экипаж как можно дальше от обрыва, взобралась на выступавшую на дорогу каменную плиту и потеряла опору; тарантас встал поперёк дороги. Я, ехавший верхом по верхнему краю дороги, быстро схватился прямо из седла за прочную железную дугу кожаного верха, чтобы удержать уже кренившийся экипаж в равновесии, и закричал приближавшейся по крутому спуску багажной повозке, чтобы она остановилась и не врезалась в нас. Тарантас медленно наклонялся к пропасти. Неловкость консула, который в испуге попытался выпрыгнуть из экипажа, но застрял на подножке, вместо того чтобы со своей стороны упереться спиной и удержать повозку, окончательно вывела её из равновесия. Моя лошадь рухнула на колени, железная распорка верха, за которую я держался, переломилась у меня в руке в шарнире, и мне пришлось отпустить её, чтобы меня самого не вышвырнуло из седла через тарантас
 
 <a id="43">**-- 43 --**</a>
 
-loslassen. Der Tarantas kippte um. Der Konsul fiel gegen einen der Pfosten. Seine Frau flog, ihrem Manne einen tüchtigen Stoß in die Rippen versetzend, gegen ihn, wodurch allerdings ihr Fall bedeutend abgeschwächt wurde. Das alles hatte sich vielleicht in einer halben Minute abgespielt. Aus dem Sattel springend, überzeugte ich mich durch einen Blick, daß für Konsul Walter und Frau die Sache verhältnismäßig gut abgelaufen war. Frau Konsul blutete aus einer kleinen Kopfwunde, benahm sich aber sehr ruhig und mutig. Konsul Walter der von dem stürzenden Wagen auch noch einen kräftigen Stoß in die linke Seite erhalten hatte, war außer sich. Er verprügelte den Jaemschik höchst eigenhändig. Ich suchte inzwischen mit dem uns begleitenden Uradnik, der sich in der ganzen Angelegenheit wie ein Schaf benommen hatte, die herausgeflogenen Gegenstände am Abhange zusammen. Dann richteten wir mit vereinten Kräften den etwas verbogenen Tarantas auf. Die Fahrt ging, nachdem wir den Jaemschik gewechselt, der übrigens sofort auf telegraphische Anordnung des Konsuls aus dem Dienst entlassen wurde, mit doppelter Vorsicht weiter. Endlich wird der Weg besser. Wir kommen durch das kleine Dorf Chabarowka, dessen Bewohner zum größten Teil Altgläubige sind. Chabarowka hat eine Seehöhe von 824 m. *(Über* *den* *Schikataman.)* Im flotten Trab nähern wir uns durch die Ebene dem Schikataman, dessen Gipfel in dichte Schneewolken gehüllt ist. Am Fuße des Schikataman lassen wir die Pferde einen Augenblick verschnaufen.
+в пропасть. Тарантас опрокинулся. Консул упал на один из столбов. Его жена полетела на него, хорошенько ударив мужа в рёбра, благодаря чему, впрочем, её собственное падение значительно смягчилось. Всё это разыгралось, пожалуй, за какие-нибудь полминуты. Спрыгнув с лошади, я с одного взгляда убедился, что для консула Вальтера и его жены всё обошлось сравнительно благополучно. У жены консула шла кровь из небольшой раны на голове, но держалась она очень спокойно и мужественно. Консул Вальтер, получивший вдобавок сильный удар в левый бок от падавшего экипажа, был вне себя. Он собственноручно хорошенько избил ямщика. Тем временем я вместе с сопровождавшим нас урядником, который во всей этой истории вёл себя как овца, собирал по склону вылетевшие из тарантаса вещи. Затем общими усилиями мы поставили несколько погнувшийся тарантас на колёса. Сменив ямщика, которого, кстати, по телеграфному распоряжению консула немедленно уволили со службы, мы продолжили путь с удвоенной осторожностью. Наконец дорога становится лучше. Мы проезжаем через небольшое село Хабаровка, жители которого по большей части старообрядцы. Хабаровка расположена на высоте 824 м над уровнем моря. *(Через Чике-Таман.)* Бодрой рысью мы приближаемся по равнине к Чике-Таману, вершина которого окутана густыми снежными тучами. У подножия Чике-Тамана мы даём лошадям немного перевести дух.
 
-Konsuls steigen aus ihren Tarantas, um den Berg zu Fuß hinaufzuwandern. Frau Konsul fällt das Gehen nach dem Sturze schwer. Die armen Pferde ziehen zu Dritt keuchend den schweren Wagen nach oben. Die Serpentinen sind verhältnismäßig in ausgezeichnetem Zustande. Man merkt sofort, daß der Gouverneur von Tomsk, Exellenz Gran, den Weg vor nicht zu langer Zeit persönlich in Augenschein genommen hat. Auf jeder einigermaßen ebenen Stelle blieben die armen Pferde mit schlagenden Flanken stehen. Steine werden unter die Hinterräder geschoben, um ihnen die Rast zu erleichtern. Düster und eng führen die Serpentinen in langen Biegungen den Paß hinan. Der Weg ist nur gerade so breit, daß die sich entgegenkommenden Tarantaikas knapp ausweichen können. Die rot, blau und gelb schimmernden Felswände sind von dunkelorange grünen Flechten und einem hellgrün schimmernden Moos überzogen. Eine von den grünlichen fettpflanzenartigen Flechten soll nur auf den Felsenplatten des Schikataman vorkommen. Violett blühende Sträucher geben den im saftigen Grün an den Abhängen liegenden Matten einen eigenartigen Reiz. Durch schattigen Wald, unter mächtigen Baumriesen, hier und dort einen Ausblick auf die hinter uns liegende Gebirgswelt des Altais, so kommen wir langsam nach oben. Von hier (1345 m
+Консул с женой выходят из тарантаса, чтобы подняться на гору пешком. После падения жене консула трудно идти. Три бедные лошади, тяжело дыша, тянут тяжёлый экипаж вверх. Серпантины находятся в сравнительно превосходном состоянии. Сразу видно, что томский губернатор, его превосходительство Гран, не так давно лично осматривал эту дорогу. На каждом более или менее ровном участке бедные лошади останавливаются, тяжело дыша и поводя боками. Под задние колёса подкладывают камни, чтобы облегчить им отдых. Мрачные и тесные серпантины длинными изгибами ведут вверх к перевалу. Дорога едва настолько широка, чтобы встречные тарантайки могли разъехаться. Красные, синие и жёлтые скальные стены покрыты тёмно-оранжевыми и зелёными лишайниками и светло-зелёным мхом. Один из зеленоватых лишайников, по виду напоминающий суккулент, как говорят, встречается только на каменных плитах Чике-Тамана. Кустарники с фиолетовыми цветами придают своеобразное очарование сочным зелёным лужайкам на склонах. Через тенистый лес, под могучими деревьями, то и дело открывая виды на оставшийся позади горный мир Алтая, мы медленно поднимаемся наверх. Отсюда (1345 м
 
 <a id="44">**-- 44 --**</a>
 
-Seehöhe) haben wir einen herrlichen Rundblick über den ganzen Altai. Die Pflanzenwelt und die verkrüppelten Kiffern geben der Spitze des Schikataman einen alpinen Charakter. Nach rückwärts liegt tief unter uns die Ebene mit dem Dörfchen Chabarowsk. Rot und blaugrüne bizarr gebildete Felsen, die wie spitze Nadeln zu uns steil hinaufragen, schließen scheinbar die von dem glänzenden Silberband eines Baches durchflossene grüne Ebene vom Schikataman ab. Dahinter liegt, in dunkelblaue bis in schwarzblau übergehende Töne getaucht, der Altai, ein Bergmassiv hinter dem anderen in scharf geschnittenen Linien sich voneinander abhebend. So breitet sich der Altai in seiner ganzen Herrlichkeit vor unseren Augen aus. Hier und dort glänzt und grüßt ein Gletscher zu uns herüber. Dichte schwere Schneewolken lagen über den vorderen Gebirgszügen, den Horizont mit seinem grellen Sonnenschein freilassend, darunter in lichtem Blau verschwinden die letzten Linien des Altais in weiter Ferne. Vor uns tief unten windet sich wie ein feiner heller Streifen unser Weg durch die Ebene dahin, aus der einzelne Hügel, hier und da mit Kiefern bestanden, sich erheben. Auch über sie führen in vielen Windungen scharf gezeichnet helle Linien, es sind die Saumpfade der Kalmücken, die hier seit Jahrhunderten von einem Weideplatz zum anderen ziehen. Der Schikataman führt über das Ulgemen-Gebirge, dessen Ausläufer unten im Tale sichtbar sind. Zur Rechten, dicht am Fuße des Gebirges, schlängelt sich unten, aus den dunklen Kiefern aufblitzend, das Flüßchen Ulgemen. Sein Lauf ist durch den dunklen Waldsaum seiner Ufer genau zu verfolgen. Das Tal wird durch mächtige Gebirgsrücken, durch die sich der Weg auf vielen hundert Windungen hindurchpreßt, abgeschlossen. Zur Rechten fallen die dicht bewaldeten Ausläufer des Ulgemen-Gebirges schroff zum Flüßchen ab. Der Schikataman, angeblich nach einem kalmückischen Zauberer benannt, führt wie schon gesagt über das von SW nach SO streichende Ulgemen-Gebirge, das mit seinen hintereinanderliegenden, teilweise gut bewaldeten Höhenzügen einen ganz interessanten Eindruck macht.
+над уровнем моря) открывается великолепный круговой вид на весь Алтай. Растительность и искривлённые сосны придают вершине Чике-Тамана альпийский характер. Позади нас, глубоко внизу, лежит равнина с деревушкой Хабаровка. Красные и сине-зелёные причудливо изломанные скалы, острыми иглами круто вздымающиеся к нам, словно замыкают зелёную равнину, по которой тянется сверкающая серебряная лента ручья, отделяя её от Чике-Тамана. За нею лежит Алтай, погружённый в тёмно-синие, переходящие местами в чёрно-синие тона, — один горный массив за другим, чётко вырисовываясь резкими линиями. Так Алтай во всём своём великолепии расстилается перед нашими глазами. Тут и там поблёскивает и приветствует нас ледник. Над передними горными цепями лежали плотные тяжёлые снежные тучи, оставляя свободным горизонт с его ослепительным солнечным сиянием; под ним, в светлой голубизне, последние очертания Алтая исчезают вдали. Впереди нас, глубоко внизу, наша дорога вьётся по равнине тонкой светлой полосой; из неё поднимаются отдельные холмы, кое-где поросшие соснами. И по ним во множестве извивов тянутся чётко обозначенные светлые линии — это вьючные тропы калмыков, которые уже столетиями кочуют здесь от одного пастбища к другому.
 
-Ein Wahrzeichen auf dem Schikataman vermisse ich sofort, das mächtige russische Kreuz, das ich im vorigen Jahr auf der höchsten Spitze sah, --- es war alt und wurmstichig geworden, wie so manches in der Religion, der es als Wahrzeichen für ihre egoistischen Bestrebungen dient, ein kräftiger Sturm hatte es in die Tiefe geschleudert. Während die Wagen mit gebremsten Hinterrädern die langen, durch eingerammte Pflöcke und niedrige Steinmauern zum Abgrund hin geschützten Serpentinen hinunterzogen, kletterte ich über die steilen Felsen zu dem abgestürzten Kreuz hin. Ein eigentümliches Gefühl beschlich mich, als ich vor diesem von den Naturgewalten entwurzelten Wahrzeichen unserer
+Чике-Таман проходит через Ильгуменские горы, отроги которых видны внизу, в долине. Справа, у самого подножия гор, извивается внизу, поблёскивая среди тёмных сосен, речка Ильгумень. Её течение можно точно проследить по тёмной лесной кайме вдоль берегов. Долина замыкается мощными горными хребтами, сквозь которые дорога пробивается многими сотнями извивов. Справа густо лесистые отроги Ильгуменских гор круто обрываются к речке. Чике-Таман, якобы названный по имени одного калмыцкого колдуна, как уже было сказано, проходит через Ильгуменские горы, тянущиеся с юго-запада на юго-восток и производящие весьма интересное впечатление своими следующими один за другим, местами хорошо лесистыми хребтами.
+
+Одной приметы Чике-Тамана я сразу не обнаруживаю — огромного русского креста, который видел в прошлом году на самой высокой вершине. Он обветшал и был изъеден червями, подобно столь многому в той религии, символом эгоистических устремлений которой он служит; сильная буря сбросила его в пропасть. Пока повозки с заторможенными задними колёсами спускались по длинным серпантинам, защищённым со стороны обрыва вбитыми кольями и низкими каменными стенками, я перебрался через крутые скалы к упавшему кресту. Странное чувство охватило меня, когда я оказался перед этим символом нашей так называемой христианской религии,
 
 <a id="45">**-- 45 --**</a>
 
-sogenannten christlichen Religion stand. Ob es jemals dem jetzt schon langsam in Europa und Amerika vordringenden Buddhismus gelingen wird sich an die Stelle des Kreuzes zu setzen? Wohl fraglich! Aber beeinflussen, zum Teil absorbieren ---die Aufnahmefähigkeit des Buddhismus für fremde Religion ist auffallend und beachtenswert --- das ist möglich, besonders in den Gegenden, wo Buddhas Lehre mit dem Christentum, Lama- und Schamanismus aufeinanderprallt.
+вырванным с корнем силами природы. Удастся ли когда-нибудь буддизму, который уже теперь постепенно распространяется в Европе и Америке, занять место креста? Едва ли! Но влиять, отчасти поглощать --- восприимчивость буддизма к чужим религиям поразительна и заслуживает внимания --- это возможно, особенно в тех областях, где учение Будды сталкивается с христианством, ламаизмом и шаманизмом.
 
-Auf mich haben die im Hochgebirge errichteten Alpenkreuze immer einen mächtigen Eindruck gemacht. Als ich im vorigen Jahre am Fuße des nunmehr gestürzten Kreuzes saß, diese herrliche Alpen welt bewundernd, hatte ich ein Gefühl des Geborgenseins. ---Es zog mich mächtig zu diesem Kreuze hin. Ich schnallte schnell meine Steigeisen an und begann den nicht ganz ungefährlichen Abstieg über moos- und grasbewachsene Felsen. Die Felsen sind durch das Gras und Moos glatt und schlüpfrig. Vorsichtig, den Eispickel als Bergstock benutzend, jeden Stein anklopfend, komme ich die steile Wand hinunter. Ich versuche, dem gestürzten Kreuz eine würdige Lage zu geben. Das untere Ende zerbrach mir in den Händen. Aber endlich lag es so, wie ich es für ein Alpenkreuz für angemessen hielt. Zwischen gelben Liliaceen und Primeln. Es hatte Arbeit und Schweiß gekostet, und mit mir selbst zufrieden, kletterte ich ganz zu Tal. --- Unten grünen und blühen die Wiesenflächen, nur an einigen Stellen von hübschen Birkengruppen unterbrochen. Langsam kommen die Wagen unter Rufen und Schelten der Jaemschiki die großen Biegungen des Weges hinabgezogen; an jedem Wagen ist nur das im Kummet gehende Pferd belassen, die beiden anderen sind hinten angebunden. Die Jaemschiki gehen, Zigarretten rauchend, nur dann und wann, wenn der Wagen bedenklich kippt, rasch zugreifend nebenher. Endlich sind alle unten angelangt.
+На меня кресты, поставленные высоко в горах, всегда производили сильнейшее впечатление. Когда в прошлом году я сидел у подножия ныне поваленного креста, любуясь этим великолепным альпийским миром, меня охватывало чувство защищённости. --- Меня неудержимо тянуло к этому кресту. Я быстро надел кошки и начал не совсем безопасный спуск по покрытым мхом и травой скалам. Из-за травы и мха скалы гладкие и скользкие. Осторожно, пользуясь ледорубом как альпенштоком и простукивая каждый камень, я спускаюсь по крутой стене. Я пытаюсь придать поваленному кресту достойное положение. Нижняя его часть ломается у меня в руках. Но наконец он лёг так, как, по моему мнению, подобает лежать горному кресту. Среди жёлтых лилейных и примул. Это стоило мне немалого труда и пота, и, довольный собой, я спускаюсь до самого дна долины. --- Внизу зеленеют и цветут луга, лишь кое-где прерываемые живописными группами берёз. Медленно, под крики и ругань ямщиков, повозки спускаются по широким изгибам дороги; в каждой оставлена только одна лошадь, идущая в хомуте, а две другие привязаны сзади. Ямщики, покуривая папиросы, идут рядом и лишь изредка, когда повозка начинает опасно крениться, быстро подхватывают её. Наконец все благополучно спускаются вниз.
 
-Übrigens gelang es dem Biisker Kaufmann Bodonow mit seinem Brasierwagen von zwölf Pferdekräften unter Zuhilfenahme von einigen Pferden, den Schikataman vor einiger Zeit zu überwinden. Es war dies jedenfalls eine sportliche Leistung allerersten Ranges. Leider konnte Herr Bodonow nicht sein Reiseziel, Uljasutai erreichen, der Wagen erlitt durch die Ungeschicklichkeit des unerfahrenen Chauffeurs etwa 200 Werst von Uljasutai einen Achsenbruch. Als Herr Bodonow zu Pferd nach Uljasutai kam, traf dort von Kiachta kommend ein Opelwagenein. Sobald die Herren sich mit heilen Knochen an der anderen Seite des gewaltigen Berges lagerten, mußte dieses tolle Wagnis selbstverständlich gründlich gefeiert werden. Der Champagner floß in Strömen. Auf dem Rücken liegend und zu der gewaltigen Kuppe hinaufblickend, begeisterten sie sich an ihrem Bravourstückchen immer mehr und mehr.
+Впрочем, бийскому купцу Бодонову некоторое время назад удалось преодолеть Чике-Таман на своём двенадцатисильном автомобиле Brasier, прибегнув к помощи нескольких лошадей. Это, безусловно, было спортивным достижением самого высокого класса. К сожалению, господину Бодонову не удалось добраться до цели путешествия, Улясутая: примерно в 200 верстах от него из-за неумелости неопытного шофёра у автомобиля сломалась ось. Когда господин Бодонов верхом добрался до Улясутая, туда же из Кяхты прибыл автомобиль Opel. Как только господа, целы и невредимы, расположились лагерем по другую сторону огромной горы, это безумное предприятие, разумеется, пришлось как следует отпраздновать. Шампанское лилось рекой. Лёжа на спине и глядя вверх на могучую вершину, они всё сильнее и сильнее восхищались собственным подвигом.
 
 <a id="46">**-- 46 --**</a>
 
-Als es zum Aufbrucli ging, sattelte einer der Herren statt seines Pferdes den russischen Popen, um auf ihm auf allen Vieren in der Steppe ein Stück herumzureiten.
+Когда пришло время отправляться дальше, один из господ вместо своей лошади оседлал русского попа, чтобы немного проехаться на нём по степи, пока тот стоял на четвереньках.
 
-*(Im Tschuiski-trakt.)* Der Weg hinter dem Schikataman führt durch das breite Tal des Balchoi- Ulegem eben und glatt nach Kor-Ketschu. Die Talsohle liegt in 950 m Seehöhe. Wir sind jetzt im eigentlichen Tschuiskitrakt. Bisher zog sich der Weg in einer Entfernung von 10---15 km am westlichen Saum der die Katun am linken Ufer begleitenden Höhenzüge hin. Die Gebirge Terektai, von 2645---3445 m Seehöhe ansteigend, zur Rechten und das Slagusch-Gebirge, 3500 m zur Linken, so jagen wir im flotten Galopp nach Kor-Ketschu. Die zum Trakt steil abfallenden Hänge sind teilweise gut und dicht bewaldet, besonders die des Terektai. Oben auf der Kuppe ist noch die undurchdringliche Taiga. Als wir nach Kor-Ketschu an die Katun kommen (750 m Seehöhe), regnet es inStrömen. Schwer lagern sich, beinahe die Talsohle erreichend, weißgraue mächtige Regenwolken über die Gebirge. Wir waren froh, als wir in dem kleinen Blockhäuschen, das hoch oben am steilen Flußufer klebt, von Tretjakow und seiner hübschen Frau begrüßt wurden. Bald surrt und singt der Samowar. Aus sauberen Teegläsern trinken wir guten chinesischen Tee. Schade, daß Tretjakow so trinkt. Er ist der beste Jaemschik im ganzen Trakt und hat auch stets die besten Pferde. Groß, breitschultrig, im Gesicht einen kurzen, struppigen, roten Bart, so ist er das typische Bild eines Jaemschiks.
+*(На Чуйском тракте.)* За Чике-Таманом дорога идёт по широкой долине Большого Ильгуменя, ровная и гладкая, до Кор-Кечу. Дно долины лежит на высоте 950 м над уровнем моря. Теперь мы находимся уже на собственно Чуйском тракте. До сих пор дорога шла в 10---15 км от западной окраины горных хребтов, сопровождающих Катунь по левому берегу. Справа возвышаются горы Теректай, достигающие высоты от 2645 до 3445 м, слева --- горы Слагуш высотой до 3500 м; между ними мы резвым галопом мчимся к Кор-Кечу. Склоны, круто спускающиеся к тракту, местами густо и хорошо покрыты лесом, особенно склоны Теректая. Наверху, на хребте, ещё сохраняется непроходимая тайга. Когда мы прибываем в Кор-Кечу на Катуни (750 м над уровнем моря), дождь льёт как из ведра. Тяжёлые бело-серые дождевые тучи лежат над горами, почти опускаясь до дна долины. Мы были рады, когда в маленьком бревенчатом домике, прилепившемся высоко на крутом берегу реки, нас встретили Третьяков и его хорошенькая жена. Вскоре уже шумит и поёт самовар. Из чистых стаканов мы пьём хороший китайский чай. Жаль, что Третьяков так много пьёт. Он лучший ямщик на всём тракте, и лошади у него всегда самые лучшие. Высокий, широкоплечий, с короткой растрёпанной рыжей бородой --- настоящий типичный ямщик.
 
-*(Zum zweiten Male über die Katun.)* Der neue Weg --- der alte war kaum für Fußgänger passierbar, geschweige denn für Wagen --- führt in zwei großen Serpentinen zum Fluß hinunter. Unmittelbar an die smaragdgrüne Katun heran treten die Felsen. Zwischen mächtigen Höhen des Saldschargebirges tief eingegraben, durchschneidet die Katun die eingelagerte Terrasse. Ein Wagen nach dem anderen fährt auf das große, mächtige Floß, unsere Karawane hat darauf vollauf Platz. Eigentümlich dumpf klingt das Klappern der Hufe der Pferde, als sie die Wagen auf das Floß ziehen. Leise schwankt es auf den grünen Wellen der stark geschwollenen Katun. Endlich ist alles in Ordnung. Das Floß treibt an einem starken, über den Fluß gespannten Drahtseil in einer Rolle laufend, nur mit einem mächtigen Steuer gelenkt, durch die Gewalt der Strömung nach dem anderen Ufer. Ich beobachte heimlich die Gesichter meiner Reisegefährten. Auf allen Gesichtern, mit Ausnahme des Floßführers, ist eine gewisse Spannung bemerkbar. Wenn das Drahtseil durch einen unglücklichen Zufall risse, so ginge das Floß mit allem, was drauf und dran ist, einige hundert Meter unterhalb des Überganges, am linken Ufer des Flusses an den unterhalb des Wassers verborgenen Klippen in Stücke.
+*(Во второй раз через Катунь.)* Новая дорога --- старая едва была проходима для пешеходов, не говоря уже о повозках, --- двумя большими серпантинами спускается к реке. Скалы вплотную подходят к изумрудно-зелёной Катуни. Глубоко врезавшись между могучими высотами Салджарских гор, Катунь прорезает лежащую между ними террасу. Одна повозка за другой въезжает на большой прочный плот; весь наш караван свободно помещается на нём. Глухо и необычно звучит стук лошадиных копыт, когда они затаскивают повозки на плот. Он тихо покачивается на зелёных волнах сильно разлившейся Катуни. Наконец всё готово. Плот, соединённый роликом с натянутым поперёк реки толстым проволочным канатом и управляемый лишь огромным рулём, силой течения переносится к противоположному берегу. Я украдкой наблюдаю за лицами моих спутников. На всех лицах, кроме лица паромщика, заметно некоторое напряжение. Если бы проволочный канат по несчастной случайности оборвался, плот со всем, что на нём находится, через несколько сотен метров ниже переправы разбился бы о скрытые под водой скалы у левого берега реки.
 
 <a id="47">**-- 47 --**</a>
 
-Die Strömung ist besonders in dieser Kurve scharf und reißend. Die grünen Wellen spritzen hier weißen Gischt. Die Tiefe des Flusses bei der Fähre beträgt nach Angabe der Flößer 11 Sachin. Leise klirrt die am Seile laufende Rolle. Die Pferde stehen ruhig. Mit leichtem Anprall landen wir am andern Ufer. Auf enger, ziemlich steiler Serpentine, deren Ränder von mächtigen, vom Wasser rund und oval geschliffenen Felsblöcken eingesäunit sind, fahren die Wagen zur Terrasse hinauf. Das Flußgebiet der Katun hat Schutterrassen von der Regelmäßigkeit künstlicher Glacis. Geröll und Felstrümmer machen den Talboden unpassierbar, der Weg steigt hoch an der wild zerrissenen, zerklüfteten Felswand empor und führt dann galerieartig an den senkrecht zum Fluß abstürzenden Granitwänden des Bergmassivs dahin. Hoch oben findet man noch glatt und rund geschliffene Blöcke und Kiesel. Sie lassen die formende Arbeit der Wassermengen des Flusses als ganz gewaltig erscheinen. Die Wassermenge ist heute eine bedeutend kleinere. Tief eingeschnitten strömt heute unten im Tal der Fluß. Das Ganze ist eine gewaltige Frosionsfurche von seltener Schönheit, die die einzelnen Formationen klar in ihrer typischen Ausprägung zu Tage treten läßt
+Течение особенно сильное и стремительное на этом повороте. Зелёные волны здесь взбивают белую пену. Глубина реки у переправы, по словам плотогонов, составляет 11 саженей. Тихо позвякивает ролик, скользящий по канату. Лошади стоят спокойно. С лёгким толчком мы причаливаем к другому берегу. По узкому, довольно крутому серпантину, края которого выложены огромными, обточенными водой в круглые и овальные формы каменными глыбами, повозки поднимаются на террасу. В бассейне Катуни встречаются галечниковые террасы такой правильной формы, словно это искусственные гласисы. Щебень и обломки скал делают дно долины непроходимым; дорога поднимается высоко по дикому, изрезанному трещинами скальному склону, а затем идёт подобно галерее вдоль гранитных стен горного массива, отвесно обрывающихся к реке. Даже высоко наверху встречаются гладко и округло обточенные глыбы и галька. Они дают представление о том, насколько огромной была преобразующая сила речных вод. Сегодня воды в реке значительно меньше. Теперь она течёт глубоко врезавшись в дно долины. Всё это представляет собой гигантскую эрозионную борозду редкой красоты, в которой отдельные геологические образования выступают особенно ясно и в своих характерных формах.
 
-*(Der jaemschik Tretjakow.)* In flotter Fahrt geht es die vierzig Werst von Kor-Ketschu durch die glatte Hochebene auf Ust-Inja zu. Es regnet, regnet, regnet. Stellen weise preßt sich der Weg schon an den Fluß heran. Kleine 1/2 m hohe Steinmauern --- die Steine fielen bei den Sprengungen ab --- schützen den Weg zum Abgrund hin, in dem tief unten die Katun braust. Der Weg ist gerade an einer der gefährlichsten Stellen mit abflußlosem Regenwasser überschwemmt, so daß der Konsul und seine Frau, die hier zu Fuß gehen, auf der kleinen Schutzmauer gehen müssen, um überhaupt durchzukommen, da die Wagen schon voraus sind und auf dem engen Wege nicht umkehren können. So bugsiere ich denn die beiden, mein Pferd hinter mir am Zügel führend, bis an die Knie im Wasser watend, an der gefährlichsten Stelle vorüber, denn meine amerikanischen J agdstiefel und englischen Wickelgamaschen, alles "made in Germany", sind wasserdicht.
+*(Ямщик Третьяков.)* С большой скоростью мы проезжаем сорок вёрст от Кор-Кечу по ровному плоскогорью в сторону Усть-Ини. Дождь, дождь, дождь. Местами дорога уже вплотную прижимается к реке. Низкие каменные стенки высотой около полуметра --- камни остались после взрывных работ --- ограждают дорогу со стороны пропасти, в которой глубоко внизу грохочет Катунь. Как раз в одном из самых опасных мест дорога залита дождевой водой, которой некуда стекать, так что консулу и его жене, идущим здесь пешком, приходится пробираться по узкой защитной стенке, чтобы вообще пройти дальше: повозки уже уехали вперёд и на тесной дороге развернуться не могут. Поэтому я провожу обоих через самое опасное место, ведя лошадь за собой в поводу и бредя по воде до колен, ведь мои американские охотничьи сапоги и английские обмотки, всё это «made in Germany», непромокаемы.
 
-Dann geht es in flottem Galopp auf Ust-Inja zu. Die gefährlichsten Stellen nimmt Tretjakow auf wirklich geniale Weise. Es liegt nämlich bei langsamer Fahrt, besonders wenn es etwas steil bergab geht, die Gefahr vor, daß der Tarantas durch die eigene Schwere von den Pferden nicht zurückgehalten werden kann und dadurch in den Abgrund kollern würde. Sobald nun Tretjakow eine solche Stelle erreicht, feuert er die Pferde durch Zuruf an. In Karriere, was die Pferde hergeben können rasen die Gäule die abschüssigen Stellen hinunter, in der Kurve liegt der Wagen einen Augenblick beängstigend schräg, die Pferde jagen durch die Kurve hindurch und den nächsten Abhang hinauf. Dieses
+Затем мы быстрым галопом мчимся к Усть-Ине. Самые опасные места Третьяков проходит поистине гениальным способом. Дело в том, что при медленной езде, особенно на довольно крутом спуске, возникает опасность, что лошади не смогут удержать тарантас из-за его собственного веса и он покатится в пропасть. Поэтому, едва Третьяков достигает такого места, он криком подгоняет лошадей. Карьером, во весь опор, на какой только способны лошади, они несутся вниз по крутому спуску; на повороте экипаж на мгновение пугающе кренится набок, лошади вихрем проходят поворот и устремляются вверх по следующему склону. Эта
 
 <a id="48">**-- 48 --**</a>
 
-Rennen wiederholt sich einige zwanzig Mal von Kor-Ketschu bis Ust-Inja. Dicht vor der zweiten Fähre bricht sich die Katun im rechten Winkel an der mächtigen Gebirgsmauer. Hoch oben führt der Weg über diesen Felsrücken, vom Abgrund und Fluß nur durch eine kleine Steinmauer getrennt. Schmal und eng war dieser Trakt, als ich ihn zum ersten Male zog, für Maultiere gerade passierbar. Heute ist der Weg breiter, zum Abgrund hin durch eingerahmte Pflöcke oder niedrige Steinmauern geschützt, auch hat man versucht, den Felsboden des Weges durch Aufschüttungen zu ebnen, um die Fahrt einigermaßen erträglich und weniger gefährlich zu machen. Die russische Regierung gab s. Zt. siebenzigtausend Rubel für die Arbeiten im Trakt aus. Eine durchgreifende Ausbesserung des Traktes, so daß er auch für militärische Zwecke benutzt werden kann, würde etwa drei Millionen Rubel kosten.
+бешеная скачка повторяется раз двадцать на пути от Кор-Кечу до Усть-Ини. Непосредственно перед второй переправой Катунь под прямым углом упирается в могучую горную стену. Высоко наверху через этот скальный хребет проходит дорога, отделённая от пропасти и реки лишь небольшой каменной стенкой. Узким и тесным был этот тракт, когда я впервые проезжал по нему, --- едва проходимым для мулов. Теперь дорога стала шире, со стороны пропасти она ограждена вбитыми кольями или низкими каменными стенками; кроме того, пытались выровнять скальное полотно дороги насыпями, чтобы сделать езду хотя бы несколько терпимее и менее опасной. Русское правительство израсходовало в своё время на работы по тракту семьдесят тысяч рублей. Основательная перестройка тракта, которая позволила бы использовать его и в военных целях, обошлась бы примерно в три миллиона рублей.
 
-(*Zum dritten und vierten Male über die Katun.*) Heute sind die starken, trockenen Holzblöcke von den Tschuizen und den Jaemschiki gerade an den allergefährlichsten Stellen bis auf kurze Stümpfe als Brennholz abgehauen, so daß der in voller Fahrt den Weg hinunterrasende Wagen bei der geringsten Ungeschicklichkeit des Fahrenden leicht in den Abgrund fliegen kann. Tatsächlich fordert diese Manier der Jaemschiki, sich dicht am Weg ihr Brennholz abzuhauen, jährlich ihre Opfer, die tief unten mit zerschmetterten Gliedern liegen bleiben. Die Steinmauern sind teilweise abgestürzt, die Aufschüttungen sind vom Regen und Schneewasser weggespült worden, und überall tritt der gewachsene Fels zu Tage. Die zweite Fähre, von den Russen Srednoje- Parom genannt, ist bedeutend kleiner. Der Fluß ist hier schmäler und nicht so tief.
+*(В третий и четвёртый раз через Катунь.)* Теперь крепкие сухие деревянные столбы чуйцы и ямщики как раз в самых опасных местах почти целиком срубили на дрова, оставив лишь короткие пеньки, так что несущаяся на полном ходу вниз повозка при малейшей ошибке возницы легко может полететь в пропасть. И действительно, эта привычка ямщиков рубить себе дрова прямо у дороги ежегодно требует жертв, которые остаются лежать далеко внизу с разбитыми телами. Каменные стенки местами обрушились, насыпи смыты дождями и талой снеговой водой, и повсюду наружу выходит коренная скала. Вторая переправа, называемая русскими «Средним паромом», значительно меньше. Река здесь уже и не так глубока.
 
-Auf der linken Horizontalfläche, die mit der rechten beinahe in derselben Niveauhöhe liegt, führt der Weg etwa 10 Werst nach Ust-Inja, der dritten Übergangsstelle seit Kor-Ketschu. Im großen Bogen umfließt hier die Katun die aufgehäuften Horizontalflächen. Der Fluß ist auch hier nicht allzu breit. Er strömt, sobald in seinem Quellgebiet die Schneeschmelze oder starker Regenfall beginnt, reißend durch sein Bett. Dem Reisenden bleibt bei solchen Gelegenheiten nichts übrig, als zu warten --- das kann wochenlang dauern --- bis sich das Wasser verlaufen hat.
+По левой горизонтальной террасе, лежащей почти на одном уровне с правой, дорога идёт около 10 вёрст до Усть-Ини, третьего места переправы после Кор-Кечу. Здесь Катунь большой дугой огибает нагромождённые горизонтальные террасы. И здесь река не слишком широка. Но как только в её верховьях начинается таяние снега или выпадают сильные дожди, она стремительно несётся по своему руслу. В таких случаях путешественнику ничего не остаётся, кроме как ждать --- иногда неделями, --- пока вода не спадёт.
 
-*(Ust-Inja.)* Wir kommen glücklich die etwas abschüssige Stelle zur Fähre hinunter. Die Hufe der Pferde klappern auf dem Floß, dessen Bohlen unter den hochbeladenen Wagen knirschen und quietschen. Nach einer Viertelstunde sind wir auf dem anderen Ufer, und in 10 Minuten liegt plötzlich tief in einer Talmulde versteckt Ust-Inja vor uns. Die Station hat ihren Namen nach einem rechten Nebenflüßchen, das etwas unterhalb in die Katun mündet. Ust-Inja selbst ist ein kleines freundliches Dörfchen
+*(Усть-Иня.)* Мы благополучно спускаемся по несколько покатому участку к парому. Копыта лошадей стучат по плоту, доски которого скрипят и потрескивают под тяжело нагруженными повозками. Через четверть часа мы уже на другом берегу, а ещё через десять минут перед нами внезапно появляется Усть-Иня, скрытая глубоко в небольшой долине. Станция получила своё название от небольшого правого притока, впадающего немного ниже в Катунь. Сама Усть-Иня --- небольшая приветливая деревушка, расположенная
 
 PHOTOS
 
-Tafel 5.
+Лист 5.
 
 ![48-aigulak.jpg](48-aigulak.jpg
 
-Aigulak (Das Bärenöhrchen).
+Айгулак («Медвежье ушко»).
 
 ![48-ausblick.jpg](48-ausblick.jpg)
 
-Der erste Ausblick auf die Tschuiski-Alpen dicht hinter Zibith.
+Первый вид на Чуйские Альпы сразу за Чибитом.
 
-Tafel 6.
+Лист 6.
 
 ![48-weg.jpg](48-weg.jpg)
 
-Der Weg nach Jedro.
+Дорога на Иодро.
 
 ![48-tschuiskitrakt.jpg](48-tschuiskitrakt.jpg)
 
-Im Tschuiskitrakt.
+На Чуйском тракте.
 
-Tafel 7.
+Лист 7.
 
 ![48-tschuja.jpg](48-tschuja.jpg)
 
-Der Fluß Tschuja.
+Река Чуя.
 
-Tafel 8.
+Лист 8.
 
 ![48-tschuiskitrakt2.jpg](48-tschuiskitrakt2.jpg)
 
-Im Tschuiskitrakt zwischen Jedro und Aigulak bei einem sogenannten Poom.
+На Чуйском тракте между Иодро и Айгулаком у так называемого бома.
 
 <a id="49">**-- 49 --**</a>
 
-in 770 m Seehöhe gelegen, mit einigen großen Blockhäusern, deren Fensterrahmen weiß gestrichen sind. Heute macht es in der hereinbrechenden Dämmerung einen düsteren, traurigen Eindruck, schwere, graue Regenwolken hängen auch hier tief im Tal, die mächtigen Berge wie den Wa- Kusik, an deren Fuß sich das Dörfchen schmiegt, verdeckend. Im Stationsgebäude, einem kleinen Blockhaus mit zwei Zimmern, hausen jetzt christianisierte Altai-Kalmücken. Alles ist sauber; in einer Ecke des Zimmers, sowie in der Küche hängt ein vergoldetes Heiligenbild, blitzblank geputzt, so daß das schwarzbraune Madonnengesicht noch dunkler erscheint. Hell schlägt die rote Glut aus dem weiß gestrichenen Backsteinofen, dem Ganzen einen anheimelnden Eindruck gebend. Kalmückische Frauen mit geschlitzten schwarzen, großen Augen, in russischer Tracht, hantieren eifrig um den großen, russischen Ofen. Männer mit strähnigem, pechschwarzem Haar hocken, den Rücken an den Ofen gelehnt, sich wärmend auf der niedrigen Ofenbank. Um den Tisch sitzen, den Tee aus der Untertasse schlürfend, hier und da ein Stückchen Zucker abbeißend, unsere Jaemschiki. Sie erzählen unseren Hauswirten das Neueste. --- Die Hammelkeulen schmecken uns vorzüglich. Unsere Schildkrötensuppe --- ich habe heute einige Suppenwürfel geopfert --- ist delikat. Draußen regnet es immer noch in Strömen. Unsere Gepäckstücke, die wir für die Nacht gebrauchen, werden nach dem Essen hereingebracht. Ich errichte zwischen mir und dem jungen Ehepaar eine kleine Barrikade aus diesen Gepäckstücken, dann krieche ich in meinen Schlafsack, in dem ich mich liegend auskleide. --- Nachts werde ich wach. Patsch --- Patsch macht es mit hartem Aufschlag auf meiner Nase. Es regnet durch die Decke. Ich ziehe den wasserdichten Überschlag des Schlafsackes über den Kopf und schlafe ruhig weiter.
+на высоте 770 м над уровнем моря, с несколькими большими бревенчатыми домами, оконные рамы которых выкрашены в белый цвет. Сегодня, в сгущающихся сумерках, деревушка производит мрачное, печальное впечатление; тяжёлые серые дождевые тучи и здесь низко висят над долиной, скрывая могучие горы, такие как Ва-Кусик, у подножия которого приютилась деревня. В станционном здании, небольшом бревенчатом доме из двух комнат, теперь живут крещёные алтайские калмыки. Повсюду чисто; в углу комнаты, а также на кухне висит позолоченная икона, начищенная до блеска, отчего чёрно-коричневое лицо Мадонны кажется ещё темнее. Из побеленной кирпичной печи ярко пышет красное пламя, придавая всему помещению уютный вид. Калмычки с большими чёрными раскосыми глазами, одетые по-русски, хлопочут у большой русской печи. Мужчины с прядями смоляно-чёрных волос сидят на низкой печной скамье, прислонившись спиной к печи и греясь. За столом сидят наши ямщики, прихлёбывая чай из блюдец и время от времени откусывая кусочек сахара. Они рассказывают хозяевам последние новости. --- Бараньи ноги кажутся нам превосходными. Наш черепаховый суп --- сегодня я пожертвовал для него несколькими суповыми кубиками --- восхитителен. Снаружи дождь всё ещё льёт как из ведра. После ужина в дом вносят те вещи из багажа, которые понадобятся нам ночью. Между собой и молодой супружеской парой я сооружаю из них небольшую баррикаду, затем забираюсь в спальный мешок и уже лёжа раздеваюсь. --- Ночью я просыпаюсь. Шлёп --- шлёп: тяжёлые капли падают прямо мне на нос. Крыша протекает. Я натягиваю на голову непромокаемый клапан спального мешка и спокойно засыпаю снова.
 
-*(Am Tschuja.)* Am anderen Morgen brechen wir um 10 Uhr auf. Der Weg wird lebensgefährlich. Um 12 Uhr erreichen wir den Fluß Tschuja (Tschui). Hoch hinaufkletternd, dann dicht an tiefen Abgründen vorbeiführend, in vielen Windungen und Krümmungen schmiegt sich der Trakt durch und über die Felsen. Die Wasser des Tschuja sind hellgrün. Schäumend und tobend, hier und da mächtige Baumstämme mit sich führend, braust er in seinem wilden Gebirgsbett. Die Gipfel der Berge sind mit Neuschnee gepudert. Konsuls gehen wegen der gefährlichen Passage zu Fuß, wir kommen daher nur langsam vorwärts. --- Ich reite stets in der Nähe der Bagage, um nötigenfalls mit zugreifen zu können. Der Weg wird immer gefährlicher. Die Berge und Felsen nehmen einen bizarren Charakter an. An einigen Stellen gleichen sie dem mächtigen Trümmerfeld einer gigantischen Burg, mit deren Resten Zyklopen Fangball gespielt haben. Die Oberfläche der Steine ist durch Wasser, Wind und Wetter geschliffen.
+*(У Чуи.)* На следующее утро мы выезжаем в 10 часов. Дорога становится смертельно опасной. В 12 часов мы достигаем реки Чуи (Чуй). То взбираясь высоко вверх, то проходя вплотную над глубокими пропастями, тракт во множестве изгибов и поворотов лепится к скалам и пробирается через них. Вода Чуи светло-зелёная. Пенясь и бушуя, местами увлекая с собой огромные стволы деревьев, она с грохотом несётся по своему дикому горному руслу. Вершины гор припорошены свежим снегом. Из-за опасного участка консул с женой идут пешком, поэтому продвигаемся мы лишь медленно. --- Я всё время держусь возле багажа, чтобы при необходимости помочь. Дорога становится всё опаснее. Горы и скалы приобретают причудливый облик. В некоторых местах они напоминают гигантское поле развалин исполинского замка, остатками которого циклопы играли в мяч. Поверхность камней отполирована водой, ветром и непогодой.
 
 <a id="50">**-- 50 --**</a>
 
-Rotblau, grün, violett und schwarzblau sehen diese Trümmerfelder aus. Es sind die Überbleibsel mächtiger, durch die Witterungsverhältnisse und Wasser zerstörter Berge. Mächtige Felsblöcke, die sich von den steil am Wege auf ragenden Felsen gelöst haben, sperren fast den ganzen Weg, und die Wagen müssen sich daran herumwinden. Brausend stürzen silberglänzende kleine Wasserfälle zu Tal, den Weg mit ihren Wassern überschwemmend. Im Winter sind die Kaskaden zu einem glänzendenKristall, das in der Sonne in tausend Farben blitzt, gefroren. An einzelnen steilen Kurven wird der Weg so gefährlich, daß ich erleichtert aufatme, als wir glücklich vorüber sind. Manchmal scheint der Tarantas mit Pferden und allem in voller Fahrt an einem mächtigen Felsblock zu zerschellen, aber im letzten Moment führt der Weg haarscharf daran vorbei. Tief unten strömt mächtig die Tschuja.
+Эти поля развалин отливают красно-синим, зелёным, фиолетовым и чёрно-синим. Это остатки могучих гор, разрушенных водой и непогодой. Огромные каменные глыбы, отколовшиеся от круто вздымающихся у дороги скал, почти полностью перегораживают путь, и повозкам приходится огибать их. С грохотом низвергаются в долину сверкающие серебром маленькие водопады, заливая дорогу водой. Зимой эти каскады замерзают, превращаясь в сверкающий кристалл, переливающийся на солнце тысячами красок. На некоторых крутых поворотах дорога становится настолько опасной, что я с облегчением вздыхаю, когда мы благополучно минуем их. Иногда кажется, что тарантас вместе с лошадьми на полном ходу разобьётся об огромную скалу, но в последний момент дорога проходит на волосок от неё. Глубоко внизу могучим потоком несётся Чуя.
 
-*(Jedro.)* Gegen drei Uhr sind wir in Jedro, das in 845 m Seehöhe dicht am Tschuja gelegen ist. Hier ist der Jaemschik Kurataiew als Stationshalter angestellt. Jedro ist rings von hohen Bergen umgeben. Fünf achteckige Blockhäuser mit Rinde gedeckt liegen etwa 2 Werst von der Station entfernt. Es sind dies die Wohnungen christianisierter Kalmücken. Die Gipfel der Berge tragen spärlichen Kiefernwald. Kurataiew, die typische Gestalt eines russischen Grenzpioniers, genießt im ganzen Trakt den schlechtesten Ruf. Er ist dafür bekannt, das er alles verspricht und nichts hält. Dabei ist er ein ganz geschickter Bursche, der seine Zunge . tüchtig zu gebrauchen versteht und sich der Behörde gegenüber stets als die gekränkte Unschuld aufzuspielen weiß. Als wir ankamen, war nichts fertig. Kurataiew versprach, die Pferde sofort anzuspannen.
+*(Иодро.)* Около трёх часов мы прибываем в Иодро, расположенное на высоте 845 м над уровнем моря у самой Чуи. Здесь смотрителем станции служит ямщик Куратаев. Иодро со всех сторон окружено высокими горами. Примерно в двух верстах от станции стоят пять восьмиугольных бревенчатых домов, крытых корой. Это жилища крещёных калмыков. Вершины гор поросли редким сосновым лесом. Куратаев, типичный русский пограничный первопроходец, пользуется на всём тракте самой дурной славой. Он известен тем, что обещает всё и не выполняет ничего. При этом он довольно ловкий малый, умеющий как следует работать языком и всегда умеющий представить себя перед начальством невинно обиженным. Когда мы приехали, ничего не было готово. Куратаев обещал немедленно запрячь лошадей.
 
-*(Beim Jaemschik Kurataeiw.)* Wir gingen deshalb in das Stationsgebäude und warteten und warteten. Aufenthalt im Zimmer war für uns beinahe unmöglich, da die Frau des Kurataiew im höchsten Grade schwindsüchtig war und aus der Küche ihr trockener, quälender Husten zu uns ununterbrochen herüberschallte. Nach einiger Zeit sah ich Kurataiew in ganz verdächtiger Weise um das Haus herumstreichen. Da ich ihn von früher her schon kannte, nahm ich mir den Jaemschik, der uns hergefahren hatte, ins Gebet. Nun stellte sich heraus, daß weder Telega, noch Kummet, weder Pferd noch Jaemschik auf der Station des Kurataiews verhanden waren. Drei oder vier Pferde hatte er morgens für einen Landmesser gebraucht, drei Pferde waren auf der Station und der Rest von 15---20 Pferden, zu denen er kontraktlich verpflichtet war, und zu deren Unterhalt er vom Gouvernement etwa 2 500 Rubel jährlich erhält, standen auf dem Papier.
+*(У ямщика Куратаева.)* Поэтому мы вошли в станционное здание и стали ждать, ждать и ждать. Оставаться в комнате было почти невозможно, поскольку жена Куратаева была тяжело больна чахоткой, и из кухни непрерывно доносился её сухой мучительный кашель. Через некоторое время я заметил, что Куратаев весьма подозрительно шныряет вокруг дома. Поскольку я уже знал его по прежним поездкам, то принялся расспрашивать ямщика, который привёз нас сюда. Тут выяснилось, что на станции Куратаева нет ни телеги, ни хомута, ни лошади, ни ямщика. Трёх или четырёх лошадей он утром отдал землемеру, ещё три находились на станции, а остальные из 15---20 лошадей, которых он по контракту обязан был содержать и на содержание которых получал от губернии около 2500 рублей в год, существовали только на бумаге.
 
-Die Stationen werden vom Gouvernement aus alle drei Jahre öffentlich ausgeschrieben. Derjenige, der nun den zu unterzeichnenden Kontrakt für die billigste Summe zu erfüllen bereit ist, bekommt den Zu-
+Право содержать станции губернское управление раз в три года выставляет на публичные торги. Контракт получает тот, кто соглашается выполнить его условия за наименьшую сумму.
 
 <a id="51">**-- 51 --**</a>
 
-schlag. Vergehen im Dienst, schlechte Wartung der Station, schlechte Pferde werden bis zu 10 Rubel für jeden einzelnen Fall bestraft. Bei Kurataiew regnet es Strafen, das läßt ihn aber vollständig kalt. Hat er doch die obige Summe in der Tasche und von ihm selber ist nichts mehr zurückzubekommen. Schließlich, um nicht noch mehr Zeit zu verlieren, schlage ich dem Konsul vor, er solle mit den drei vorhandenen Pferden und Kurataiew vorausfahren, ich wolle schleunigst durch den Uradnik Pferde requirieren lassen, um dann mit dem Gepäck nachzukommen. Aber unsere Gepäckwagen sind einstweilen noch nicht da, ich hatte sie nach Überwindung der gefährlichsten Stellen unter der Obhut des Uradniks zurückgelassen. Er kam um 5 Uhr an und teilte mir mit, daß die Pferde übermüdet seien und nur noch schlecht vorwärts könnten. Sie trafen erst um 6 Uhr ein, da zwei Pferde auf dem steinigen Wege gestürzt waren. Endlich kam der Konsul fort. Das Geschirr gehört zum größten Teil dem Jaemschik aus Ust-Inja, der sich gegen die Hergabe seiner Sachen heftig sträubt, mit der Begründung, daß er gegebenenfalls von den geliehenen Sachen nichts mehr zurückerhalte. Damals hielt ich das für eine faule Ausrede, weil er sich mit Kurataiew nicht gut stand. Wie ich später hörte, hat er tatsächlich den größten Teil, sogar eine Telega von Kurataiew, nicht zurückbekommen.
+Нарушения по службе, плохое содержание станции и плохие лошади караются штрафом до 10 рублей за каждый отдельный случай. На Куратаева штрафы сыплются один за другим, но его это совершенно не волнует. Ведь указанная выше сумма уже у него в кармане, а взыскать с него самого больше нечего. Наконец, чтобы не терять ещё больше времени, я предлагаю консулу ехать вперёд с тремя имеющимися лошадьми и Куратаевым, а сам обещаю немедленно через урядника реквизировать лошадей и затем догнать его с багажом. Но наших багажных повозок пока всё ещё нет: я оставил их после самых опасных участков под присмотром урядника. Он прибыл в пять часов и сообщил мне, что лошади совершенно измотаны и едва могут идти дальше. Сами повозки добрались лишь к шести часам, поскольку на каменистой дороге упали две лошади. Наконец консул смог отправиться. Большая часть упряжи принадлежала ямщику из Усть-Ини, который резко возражал против того, чтобы отдавать свои вещи, утверждая, что в таком случае потом ничего из одолженного обратно не получит. Тогда я счёл это пустой отговоркой, поскольку с Куратаевым он был не в ладах. Как я позднее узнал, большую часть своих вещей, даже одну телегу, он действительно так и не получил от Куратаева обратно.
 
-*(Bei Nacht durch den Trakt.)* Gegen neun Uhr abends, nachdem der Uradnik im Gebirge und zwei Werst von der Station Pferde und Kalmücken nebst einer Telega aufgetrieben hatte, konnten wir im strömenden Regen aufbrechen. Es ist dunkle Nacht. Kaum sieht man die Hand vor den Augen. Das Gepäck ist auf fünf Telegas verteilt. An jeder Telega haben wir zwei Pferde, darunter drei, die noch nicht ganz eingefahren sind. Kaum sind wir aus der Station heraus, geht schon der Tanz los. Die Pferde schlagen und bäumen sich gegen die ungewohnte Arbeit und machen sich so vorher schon müde. Wie ich mit diesen scheuen, halbwilden Pferden gerade an der gefährlichsten Stelle des ganzen Trakts während der Nacht glücklich durchgekommen bin, ist mir heute noch ein Rätsel. Vier Jaemschiki waren Kalmücken und hatten wohl selber kaum jemals als Kutscher auf einer Telega gesessen, der fünfte war ein Russe. Dieser fuhr voraus, die anderen hinterher. Als letzter unser Uradnik. Auf den Uradnik war kein Verlaß, er fürchtete die scheuenden Kalmückenpferde. So führte ich denn zu Fuß, die Pferde am Zügel haltend, während etwa dreier Stunden jede Telega einzeln über die gefährlichen Stellen. Einige Male landete die Telega hart an der Schutzmauer; dabei gerieten die Pferde mit den Vorderhufen auf die Brustwehr. Im letzten Augenblick gelingt es mir und dem fahrenden Kalmücken, die Pferde vom Abgrund
+*(Ночью по тракту.)* Около девяти часов вечера, после того как уряднику удалось раздобыть в горах и в двух верстах от станции лошадей, калмыков и одну телегу, мы смогли наконец отправиться в путь под проливным дождём. Ночь была совершенно тёмной. Руки перед глазами почти не видно. Багаж распределён по пяти телегам. В каждую запряжено по две лошади, среди них три ещё не вполне объезженные. Едва мы выезжаем со станции, как начинается настоящая пляска. Лошади бьют ногами и встают на дыбы, сопротивляясь непривычной работе, и этим ещё заранее выбиваются из сил. Как мне удалось ночью благополучно провести этих пугливых, полудиких лошадей именно через самый опасный участок всего тракта, для меня и сегодня остаётся загадкой. Четверо ямщиков были калмыками и, вероятно, сами едва ли когда-либо прежде сидели за возницей на телеге, пятый был русским. Он ехал впереди, остальные следом за ним. Последним двигался наш урядник. На урядника рассчитывать было нельзя: он боялся шарахавшихся калмыцких лошадей. Поэтому около трёх часов я пешком, держа лошадей за поводья, по одной проводил каждую телегу через опасные места. Несколько раз телега с силой ударялась о защитную стенку, а лошади передними копытами оказывались на самом парапете. В последний момент мне и ехавшему на телеге калмыку удавалось
 
 <a id="52">**-- 52 --**</a>
 
-zurückzureißen und eine Katastrophe zu vermeiden. An der engsten Stelle gab es einen Aufenthalt. Uns entgegen kommt eine andere Karawane. Soeben gebe ich die nötigen Anordnungen, um uns aneinander vorbei zu bugsieren, als ich mich zu meinem größten Erstaunen anrufen höre. Es ist der Konvoioffizier Olunin aus Uljasutai, derselbe, der mich unter dem Einfluß des russischen Konsulats-Sekretärs Xionin trotz meiner dem Konsul damals geleisteten Dienste dem Generalstab von Irkutsk als Spion denunzierte. Doch das erfuhr ich leider zu spät. Olunin war wegen seiner Gutmütigkeit von seinem Posten abgerufen worden, unter ihm war nach einem Bericht desselben Xionin der ganze Uljasutai- Konvoi vollständig verwildert und ohne jede Disziplin. Olunin selbst galt als ein schneidiger Reiter und anständiger Mensch, aber ohne eigenen Wil len und leicht beeinflußbar. Wir hatten beide leider wenig Zeit miteinander zu sprechen, da wir erst unsere Wagen aneinander vorbeibringen mußten. Er erzählte mir, daß der deutsche Hauptmann Rausch in Zibith auf mich warte. Ich dankte ihm für seine Nachrichten über meinen Freund. Olunin selbst hatte als Arrestanten den Postbeamten von der neu eröffneten Post in Uljasutai bei sich. Es sind 10000 Rubel Papiergeld --- die erste größere Summe, die von den Chinesen der Post anvertraut wurde, spurlos verschwunden.
+оттащить лошадей от пропасти и избежать катастрофы. An der engsten Stelle gab es einen Aufenthalt. Uns entgegen kommt eine andere Karawane. Soeben gebe ich die nötigen Anordnungen, um uns aneinander vorbei zu bugsieren, als ich mich zu meinem größten Erstaunen anrufen höre. Es ist der Konvoioffizier Olunin aus Uljasutai, derselbe, der mich unter dem Einfluß des russischen Konsulats-Sekretärs Xionin trotz meiner dem Konsul damals geleisteten Dienste dem Generalstab von Irkutsk als Spion denunzierte. Doch das erfuhr ich leider zu spät. Olunin war wegen seiner Gutmütigkeit von seinem Posten abgerufen worden, unter ihm war nach einem Bericht desselben Xionin der ganze Uljasutai- Konvoi vollständig verwildert und ohne jede Disziplin. Olunin selbst galt als ein schneidiger Reiter und anständiger Mensch, aber ohne eigenen Wil len und leicht beeinflußbar. Wir hatten beide leider wenig Zeit miteinander zu sprechen, da wir erst unsere Wagen aneinander vorbeibringen mußten. Er erzählte mir, daß der deutsche Hauptmann Rausch in Zibith auf mich warte. Ich dankte ihm für seine Nachrichten über meinen Freund. Olunin selbst hatte als Arrestanten den Postbeamten von der neu eröffneten Post in Uljasutai bei sich. Es sind 10000 Rubel Papiergeld --- die erste größere Summe, die von den Chinesen der Post anvertraut wurde, spurlos verschwunden.
 
 Endlich, endlich haben wir die Pooms und Abgründe hinter uns. Auch das Loch, wo die Tschuitzen früher durchgekrochen sind. Die Strecke wird ebener. Ich reite nun mit einem Kalmücken als Führer voraus. Hoch oben im Gebirge blitzt ein Licht. Das ist Aigulak --- das Bärenöhrchen. Mein kalmückisches Pferd geht unter dem Sattel ganz vorzüglich. Um 1 1/2 Uhr nachts bin ich glücklich in der Station. Auch hier hausen christianisierte Kalmücken. Der blitzblanke Samowar summt auf dem Tisch. Die fertig gekochten Eier --- oh, diese ewige Eieresserei! dreimal täglich ist schließlich ein bißchen viel --- und Brot liegen auf dem Tisch. Konsuls schlafen schon. Schnell mache ich mir noch einige Notizen in mein Tagebuch und lege mich mit sehr wenig Vertrauen in das große Bett, auf dem nach russischer Sitte ein halbes Dutzend Kissen paradieren, denn mein Schlafsack ist bei der Bagage zurückgeblieben. Konsuls schlafen auf ihren aus dem Tarantas genommenen Matratzen auf dem Fußboden. Im Bett kann ich mich, da es auf einer Art Estrade steht, nicht gerade setzen, ohne mit den Händen beim Entkleiden an die Decke anzustoßen. Aber schließlich ist ja auch das Bett nicht da, um sich darin zu setzen, sondern um darin zu liegen. Die Station Aigulak liegt in 1060 m Seehöhe.
 
@@ -749,7 +751,7 @@ Die Station besteht aus zwei kleinen Blockhäusern und einer von der Biisker Mis
 
 PHOTOS
 
-Tafel 9.
+Лист 9.
 
 ![56-lager.jpg](56-lager.jpg)
 
@@ -759,13 +761,13 @@ Lager auf dem Archina.
 
 Station Kurai mit den Tschuiski-Alpen.
 
-Tafel 10.
+Лист 10.
 
 ![56-kuachtanar.jpg](56-kuachtanar.jpg)
 
 Kuachtanar
 
-Tafel 11.
+Лист 11.
 
 ![56-kuachtanar2.jpg](56-kuachtanar2.jpg)
 
@@ -775,7 +777,7 @@ Kuachtanar. Postgebäude.
 
 Die Kurai-Alpen. Im Vordergrund die achteckigen Holzkibithken der Tschni-Leute.
 
-Tafel 12.
+Лист 12.
 
 ![56-troika.jpg](56-troika.jpg)
 
@@ -1205,7 +1207,7 @@ Auch auf dem Pelzmarkt ist der russische Handel gegenüber dem der Chinesen ins 
 | Zobel             | 200       | 47        |
 | Wildkatzen        | 500.000   | ---       |
 
-Tafel 13.
+Лист 13.
 
 ![72-fluchtlinge.jpg](72-fluchtlinge.jpg)
 
@@ -1215,7 +1217,7 @@ Chinesische Flüchtlinge in Kosch-Agatsch.
 
 Im Tarschantu-Gebirge zum Zagan-Nor.
 
-Tafel 14.
+Лист 14.
 
 ![72-zagan.jpg](72-zagan.jpg)
 
@@ -1291,19 +1293,19 @@ Fern am Horizont taucht im blauen Nebel das Sailjugem-Gebirge auf. Mit meinem Ze
 
 PHOTOS
 
-Tafel 15.
+Лист 15.
 
 ![80-tarantas.jpg](80-tarantas.jpg)
 
 Der Tarantas am Damnür durch mongolische Reiter gezogen.
 
-Tafel 16.
+Лист 16.
 
 ![80-atschick.jpg](80-atschick.jpg)
 
 Am Atschick-Nor.
 
-Tafel 17.
+Лист 17.
 
 ![80-auseinandergenommene.jpg](80-auseinandergenommene.jpg)
 
@@ -1313,7 +1315,7 @@ Der auseinandergenommene Tarantas. Im Vordergrund der Damnur.
 
 Mongolenlager. Pferde- und Schafherden am Kobdofluß.
 
-Tafel 18.
+Лист 18.
 
 ![80-tragen.jpg](80-tragen.jpg)
 
@@ -1387,7 +1389,7 @@ Auch wir durchschwimmen den hochgeschwollenen Fluß, dann trennen wir uns, Ming-
 
 *(Ein unangenehmer Sturz.)* Wir haben gute Reit- und Lastpferde bekommen; die Kamelkarawane lasse ich hier zurück und rasten. Dann jage ich, die mit dem täglichen Gepäck beladenen Lastpferde weit hinter mir lassend, dem Konsul nach. Es wird bald dunkel, nur noch schwach erkenne ich den schmalen Pfad. Die Mauser über dem Rücken, hänge ich, den Kopf weit vorgebeugt, nach vorne über den Hals des Pferdes, damit ich die Wagenspur in der Dunkelheit nicht verliere. Gegen 8 1/2 Uhr nachts taucht vor mir ein Mongole auf, der nach den Lastpferden, die die Zelte tragen, geschickt worden ist. Ich gebe ihm Auskunft und reite weiter. Kaum noch kann ich die Wagenspur erkennen. Da glaube ich vor mir ein Geräusch zu hören. Ich rufe, keine Antwort. Plötzlich taucht hinter einem Strauch ein Mann mit angeschlagenem Gewehr auf, ich greife zur Pistole, da springt von rechts ein zweiter hinzu, mein Pferd scheut, dreht sich im Kreis, springt mit den Vorderhufen in eines der tausend Tabarganlöcher die die ganze Steppe unterwühlen. Wir stürzen beide, und ich falle so unglücklich auf meinen linken Arm, claß ich beinahe ohnmächtig vor Schmerzen werde. Das Pferd rast davon, ein Glück, daß ich nicht im Bügel hängen blieb. Es wäre mir dann wohl wie meinem armen Kasaken Sirkin gegangen, den im vorigen Jahr sein Pferd zu Tode schleifte. Die beiden Männer waren zwei Kasaken unseres Lagers, die vom Konsul zur Sicherung gegen die Mongolen etwa eine halbe Werst vom Lager aufgestellt worden waren. Ich hebe noch die über den Sattel gelegte Decke auf, überzeuge mich, daß ich sonst nichts verloren habe, schimpfe die Kasaken zusammen, weil sie mich nicht vorschriftsmäßig angerufen haben und komme knapp zum Lagerfeuer hin. Hier schmeiße ich mich
 
-Tafel 19.
+Лист 19.
 
 ![88-lager.jpg](88-lager.jpg)
 
@@ -1397,13 +1399,13 @@ Unser Lager am Chirbita.
 
 Zusammentreffen mit Podpolkownik Bensenger am Flüßchen Chirbita.
 
-Tafel 20.
+Лист 20.
 
 ![88-ming-bao.jpg](88-ming-bao.jpg)
 
 Ming-Bao.
 
-Tafel 21.
+Лист 21.
 
 ![88-lastpferde.jpg](88-lastpferde.jpg)
 
@@ -1495,7 +1497,7 @@ Der verstorbene Vater Minins legte hier erst eine nur vorübergehende Handelssta
 
 *(Eintreiben von alten Schulden durch Minin.)* Leider war Minin Familienverhältnisse halber gezwungen, das unter unendlich mühevoller Arbeit Errungene zu verkaufen. Er beschäftigt sich heute damit, alte mongolische Schulden aufzukaufen und diese einzutreiben. Für ein solches Geschäft ist er der geeignetste Mann. Mit allen Schlichen und Kniffen der Mongolen vertraut, arbeitet er nach folgendem Rezept. Hat er eine alte Schuld aufgekauft, so benachrichtigt er hiervon den Chochun (Bezirk). Dieser ist sowohl für die Schuldverschreibungen eines jeden seiner Angehörigen sowie auch für die Schulden der
 
-Tafel 22.
+Лист 22.
 
 ![96-kolonie.jpg](96-kolonie.jpg)
 
@@ -1584,19 +1586,19 @@ Beckens, über die mächtigen Berge des mongolischen Altais nach Zagan- Tonké, 
 
 Uljasutai macht auf den ersten Blick den Eindruck einer echten chinesischen Handelsstadt. Die Stadt ist in 1825 m. Seehöhe gelegen und von Urga noch 1075 Werst entfernt. Das Klima ist rauh und hart. Die Durchschnittstemperatur im Jahre 1911---1912 betrug ---0,2°, Durchschnittstemperatur bis Juli +19,2° R, bis Januar --- 24,2° R. Größte Hitze +33,1° R. Größte Kälte ---42,3° R. Nach einem kurzen, heißen Sommer folgt ein meistens schneeloser Winter innerhalb der Stadt, dagegen fällt aber schon Mitte Juni auf die die Stadt umgebenden Berge meterhoher Schnee. Wer von dem Westtor kommend, nachdem er sich auch hier an einem Wall von Schmutz und einem mit hohen Palisaden umgebenen Hof eines Lamas, auf dem beinahe den ganzen Tag die Gebetstrommel ertönt und Gebete zu Chutuchtu gemurmelt werden, durch Menschen- und Tierkot durchgearbeitet hat, sieht dann plötzlich die beiden einzigen Hauptstraßen der Stadt mit ihrem Gewimmel von bunt gekleideten Mongolen zu Fuß und zu Pferde vor sich. Die Hauptstraße beginnt beim Westtor und endet am Osttor, hat aber noch eine einzige, nach dem Nordtor führende Seitenstraße. In der Hauptstraße sowohl wie in der Seitenstraße gibt es nur einige enge, von Schmutz triefende kleine Gäschen. Zum Schutz für die Fußgänger ist an beiden Seiten der Hauptstraße eine Art erhöhter Bürgersteig gegen die die Straßen durchrasenden Reiter angebracht. Ein chinesischer Laden drängt sich neben den anderen. Nur manchmal schiebt sich die kleine Behausung eines chinesischen Silberschmiedes dazwischen, auch hier und da der Laden und Hofraum eines Russen. Buntbemalte, verschnörkelte Türen führen meist neben dem chinesischen Laden vorbei nach dem hinteren Teil der Fansa, auf einen fast immer großen, geräumigen Hof, der durch das eigentliche Wohngebäude des chinesischen Kaufmanns,
 
-Tafel 23.
+Лист 23.
 
 ![104-nordtor.jpg](104-nordtor.jpg)
 
 Am Nordtor von Uljasutai.
 
-Tafel 24.
+Лист 24.
 
 ![104-uljasutai.jpg](104-uljasutai.jpg)
 
 Uljasutai vom Obo aus gesehen. Im Hintergrund der Zusammenfluß des Dsagistai und Bogdin-Kol.
 
-Tafel 25.
+Лист 25.
 
 ![104-hofe.jpg](104-hofe.jpg)
 
@@ -1606,7 +1608,7 @@ Auf dein Hofe des russischen Kaufmanns Bodonoff. 1. Ignatieff, 2. Der Verfasser,
 
 Feierlicher Empfang dicht vor Uljasutai durch russische Händler, Kasaken, mongolische Verwaltungs-Beamte und Militär, sowie durch die chinesische Kaufmannschaft. Im Vordergrund der Ehrentisch der Chinesen.
 
-Tafel 26.
+Лист 26.
 
 ![104-dsansyn.jpg](104-dsansyn.jpg)
 
@@ -1616,7 +1618,7 @@ Der Dsänsyn von Uljasutai verläßt unter dem Schutze der Russen die ihm anvert
 
 Festungstor von Uljasutai mit chinesischer Besatzung.
 
-Tafel 27.
+Лист 27.
 
 ![104-grotte.jpg](104-grotte.jpg)
 
@@ -1692,7 +1694,7 @@ Zum Verständnis der politischen und handelspolitischen Lage in der Mongolei sei
 
 Durch die Energie und Unternehmungslust der sibirischen Kaufleute hatte sich der russische Handel in der Mongolei ohne jede staatliche Hilfe ausgebreitet. Es gab zwar schon seit 1860 eine russische Konsulatsvertretung in Urga, der 1872 Konsul Schichmarew vorstand, und die in letzter Zeit durch Generalkonsul Luba geleitet wurde, 1913 wurde dann das Konsulat in ein Generalkonsulat verwandelt mit einem Ministerresidenten an der Spitze. Im allgemeinen aber waren die russischen Kaufleute durch die Größe des Verwaltungsbezirkes, der dem Konsulat von Urga unterstellt war, auf sich selber angewiesen. Ein Blick auf die Karte zeigt, daß für einen solchen Riesendistrikt auch die Energie eines Luba nicht ausreichen konnte. Es ist den Kennern der Verhältnisse allgemein bekannt, daß die russischen Konsuln, durch ihre allgemeine Vorbildung behindert, schwerlich sich um den russischen Handel und dessen Ausdehnung kümmern konnten, und tatsächlich hört man von allen Seiten Klagen, daß die Konsulate nicht das leisteten, was man von ihnen erwartete. Mit Unrecht, denn hieran sind die Konsuln selbst zum kleinsten Teil schuld, sondern ihre rein diplomatische Ausbildung. Die Vorschriften über die Tätigkeit der Konsuln im russischen Konsulatsdienst sind für alle Konsulate gleich und zum größten Teil veraltet. Es wird hierbei absolut kein Unterschied zwischen den Konsuln in Paris und Urga oder Berlin und Teheran gemacht, alles wird über einen Kamm geschoren. Richtig ist es ja, daß die Vorschriften über den Konsulatsdienst drei ganze Kapitel über die Tätigkeit der Konsuln in China und Korea enthalten, aber alle drei Kapitel geben nur allgemeine Hinweise auf die russisch-chinesischen Verträge. Hieraus sollte man schließen, daß den russischen Konsuln ein möglichst weiter Spielraum für die Betätigung ihrer Selbstständigkeit gegeben werden soll, aber dem ist nicht so. Wer die russischen Verhältnisse kennt, weiß, daß der Buch-
 
-Tafel 28.
+Лист 28.
 
 ![112-lininfa.jpg](112-lininfa.jpg)
 
@@ -1702,7 +1704,7 @@ Lininfa auf seinem Hofe. Im Hintergrund unser gemeinsames Schlafhaus.
 
 Der chinesische Kaufmann Scho-Su-Schi vom Tonki-Nor.
 
-Tafel 29.
+Лист 29.
 
 ![112-kaufmannsladen.jpg](112-kaufmannsladen.jpg)
 
@@ -2361,13 +2363,13 @@ Ein Mongole betritt den Laden oder den Hof eines Chinesen, um ihm Schaffelle zu 
 
 der Güte des Materials überzeugen könne und jagt ihn zum Laden hinaus. Wunderlich war es mir damals, daß sich diese, durch ihren sportlichen Ringkampf gewandten Mongolen eine solche Behandlung von den phy*sisch bedeutend schwächeren Chinesen gefallen ließen. Jedenfalls fürchteten die Mongolen, durch Erfahrung gewitzigt, die Folgen einer Keilerei mit den Chinesen, da der finanzielle Einfluß der chinesischen Händler sowohl bei den mongolischen, wie chinesischen Beamten stets gegen sie entschied.
 
-Tafel 30.
+Лист 30.
 
 ![144-lininfa.jpg](144-lininfa.jpg)
 
 Der chinesische Großkaufmann Lininfa.
 
-Tafel 31.
+Лист 31.
 
 ![144-ming-bao.jpg](144-ming-bao.jpg)
 
@@ -2426,19 +2428,19 @@ entfernt, plünderten. Konsul Walter wurde bei dieser Nachricht etwas verwirrt u
 
 Ich selbst verließ, kurz nachdem die Chinesen unter tiefen Verbeugungen gegangen waren, das Konsulat. Dunkel und menschenleer lag die Straße vor mir, nicht einmal ein paar der sonst nachts in den Straßen herumlungernden schwarzen, mongolischen Hunde waren zu bemerken. Plötzlich fielen abermals drei oder vier scharfe Schüsse in der Gegend des Westtores, dort wo auch die angegriffenen chinesischen Geschäfte
 
-Tafel 32.
+Лист 32.
 
 ![152-madchen.jpg](152-madchen.jpg)
 
 Mongolisches Mädchen (15 Jahre alt)
 
-Tafel 33.
+Лист 33.
 
 ![152-ming-bao.jpg](152-ming-bao.jpg)
 
 Ming-Bao reinigt die Straßen von Uljasutai von Marodeuren und Plünderern.
 
-Tafel 34.
+Лист 34.
 
 ![152-sotnije.jpg](152-sotnije.jpg)
 
@@ -2448,7 +2450,7 @@ Die dritte Sotnije der Sabaikalkasaken zieht in Uljasutei ein.
 
 Verbrüderungsfest der Mongolen und Russen in Uljasutai. Kasakenparade.
 
-Tafel 35.
+Лист 35.
 
 ![152-gegen.jpg](152-gegen.jpg)
 
@@ -2512,13 +2514,13 @@ Dann erkundigte sich der Gegen ganz unvermittelt nach Kaiser Wilhelm, wieviel S�
 
 der Suppe, in der rechten Hand die Stäbchen, meine Portion genau so schlürfend wie der Gegen. Dabei muß ich mich allem Aischein nach ganz dem Zeremoniell nach benommen haben, denn Dsal-Chen-Sen- Gegen frug mich ganz überrascht, wo ich gelernt hätte, mit den chinesischen Eßstäbchen so geschickt umzugehen. Ohne mit einer Wimper zu zucken, antwortete ich ihm, "bei meinen chinesischen Gastfreunden". Hatte ich erwartet, daß er über meine Dreistigkeit erzürnd sein würde, so hatte ich mich gewaltig getäuscht. Gelassen sah er mich mit seinen klaren Augen an, als wollte er bis auf den Grund meiner Seele lesen, und antwortete mir daraufhin ganz ruhig, "dann haben die Chinesen an dir einen gelehrigen Schüler gehabt, aber wenn die Chinesen das damals gewußt hätten, was sie heute wissen, ich glaube, ich glaube, sie hätten dir die Suppe gründlich versalzen". Alles lachte über mein betroffenes Gesicht, sogar der Gegen schmunzelte ganz vergnüglich. Als zweites Gericht erhielten wir gekochten Hammel. Der Gegen speiste wieder zuerst und allein, putzte mit seinem roten Taschentuch erst das Messer ab und schlug sich die langen Seidenärmel zurück, so daß der untere Arm etwa bis zur Hälfte frei wurde. Ein Oberlama goß :hm und uns heißes Wasser aus einer der silbernen Kannen über die Hände und reichte uns ein etwas fragwürdiges rotes Tuch zum Abtrocknen derselben. Dann nahm Dsal-Chen-Sen-Gegen ein Stück von dem glühendheißen Fleisch in die Hand und schnitt sich nun Stückchen vor Stückchen davon ab, es mit Messer und Daumen zum Munde führend. Nachdem er einige Bissen genossen hatte, reichte er mit der rechten Hand zuerst dem Fürsten Zezen-Beese ein großes Stück Fleisch, dann Ming-Bao und mir. Niemals habe ich so köstlich schmeckenden Hammelbraten gegessen wie diesmal bei dem Gegen. Es war hochinteressant, diese drei hohen Staatsbeamten zu beobachten, wie geschickt sie das Fleisch in der Hand zerschnitten und aßen. Übung macht eben den Meister, und schließlich ist es ja nicht weniger unappetitlich, als wenn wir Europäer den Spargel oder die Artischoken mit den Händen essen oder aussaugen. Nachher wurde uns nochmals heißes Wasser aus der silbernen Kanne über die Hände gegossen. Der Tee wurde in wunderbaren, aus der Wurzel einer besonderen Birkenart hergestellten innen mit dickem Silber ausgelegten Schalen die aus Tibet eingeführt werden und deshalb als besonders kostbar gelten, gereicht, dazu gab es allerlei zu naschen. Besonders gut schmeckten zum Tee die großen, dunkelblauen chinesischen Tafelrosinen und das ranzige chinesische Gebäck. Der Gegen raucht gewöhnlich nach dem Essen seine Pfeife, aber Alkohol verschmäht er ganz und gar im Gegensatz zu seinem göttlichen Amtsbruder in Urga. Als der Gegen zu rauchen anfing, frug ihn Ming-Bao, ob er auch meine Pfeife schon gesehen
 
-Tafel 36.
+Лист 36.
 
 ![160-sorcktul.jpg](160-sorcktul.jpg)
 
 Sorcktul, Zartul oder Zezen-Beese. Der erste mongolische Generalgouverneur von Kobdo und Uljasutai.
 
-Tafel 37.
+Лист 37.
 
 ![160-lama.jpg](160-lama.jpg)
 
@@ -2528,13 +2530,13 @@ Mongolischer Lama (Maler).
 
 Mongolische Lamas im Sommer vor der Jurte in der Nähe ihres Klosters.
 
-Tafel 38.
+Лист 38.
 
 ![160-madchen.jpg](160-madchen.jpg)
 
 Mongolisches Mädchen im Festschmuck.
 
-Tafel 39.
+Лист 39.
 
 ![160-frauen.jpg](160-frauen.jpg)
 
@@ -2646,25 +2648,25 @@ Die Frau ändert beinahe nie ihren Namen, wogegen die Männer recht häufig auf 
 
 *(Mongolische Männer.)* Die Männerwelt zerfällt in Lamas und Schwarze (Charahun). Die Lamas haben wieder eine Unmenge Rangabstufungen, "Schwarze" werden alle nicht Geschorenen genannt, die einen Zopf tragen. Jeder Chochun, jeder Sommun, beinahe jeder Urton (Poststation) und fast jeder Wachtposten hat sein Kloster, wenn dies auch nur aus Filzjurten besteht, mit Lamas von zehn bis zehntausend. Z. B. beherbergt das Kloster zu Urga gewöhnlich etwa 10 000 Mönche, das Kloster von Ulankomo 2000 bis 5000 Mönche. Diese Zahlen versteht man erst, wenn man bedenkt, daß der Vater von zwei oder drei Söhnen mindestens einen auf Anraten der Lamas in ein Kloster eintreten läßt. Bis etwa zum zehnten Lebensjahr, allerdings schon rot eingekleidet und geschoren, bleiben die Knaben bei den Eltern. Dann ziehen sie ins Kloster und
 
-Tafel 40.
+Лист 40.
 
 ![168-frau.jpg](168-frau.jpg)
 
 Mongolische Frau im Haarschmuck mit Krone ohne Zobelhut.
 
-Tafel 41.
+Лист 41.
 
 ![168-matrone.jpg](168-matrone.jpg)
 
 Eine ältere Matrone, Scha-Bu-Gun-Ze.
 
-Tafel 42.
+Лист 42.
 
 ![168-mongolin.jpg](168-mongolin.jpg)
 
 Mongolin von rückwärts gesehen.
 
-Tafel 43.
+Лист 43.
 
 ![168-hetare.jpg](168-hetare.jpg)
 
@@ -2768,13 +2770,13 @@ Da nun der Kasak sich in der Mongolei auf "Kommandirowka'' befindet, wie der Rus
 
 Der Weg längs der Kaschans ist über alle Maßen schmutzig, so schmutzig, wie ich noch selten etwas gesehen habe. Die unbeschlagenen
 
-Tafel 44.
+Лист 44.
 
 ![178-delobin.jpg](178-delobin.jpg)
 
 Delobin-Gegen.
 
-Tafel 45.
+Лист 45.
 
 ![178-zurun.jpg](178-zurun.jpg)
 
@@ -2864,25 +2866,25 @@ Während der Nacht war es bitterkalt und der Wind pfiff durch unsere Papierfenst
 
 Wir saßen lange, lange zusammen und plauderten. Einer seiner Leute erinnerte ihn daran, daß die Chinesen des Pekinger Handelshauses mit ihrem Festessen auf ihn warteten, ein nicht gerade liebenswürdiger Blick scheuchte den Mahner zurück. Es ist eigentümlich, wie dieses von Falten durchzogene Gesicht, das eben noch so freundlich lächelte, sich im nächsten Augenblick versteinern kann, dann schießen diese Augen rasende Blicke,
 
-Tafel 46.
+Лист 46.
 
 ![184-gegens.jpg](184-gegens.jpg)
 
 Dsal-Chen-Sen-Gegen und Delobin-Gegen in der Jurte des Dsal-Chen-Sen-Gegen.
 
-Tafel 47.
+Лист 47.
 
 ![184-zurun.jpg](184-zurun.jpg)
 
 Damding-Zurun vor seiner Jurte. Im Hintergrund die mit Menschenblut beschriebenen Fahnen.
 
-Tafel 48.
+Лист 48.
 
 ![184-zurun2.jpg](184-zurun2.jpg)
 
 Damding-Zurun mit seinen beiden Adjutanten (Salon-Bargunwngolen).
 
-Tafel 49.
+Лист 49.
 
 ![184-yacks.jpg](184-yacks.jpg)
 
@@ -2990,7 +2992,7 @@ Als ich im Lager bei Dsal-Chen-Sen-Gegen ankomme, ist niemand zu sehen. Nur zwei
 
 Klar ertönt die wohllautende Baritonstimme des Dsal-Chen-Sen, dem von verschiedenen Mönchen im tiefsten Baß geantwortet wird, im Wechselsang aus der Jurte. Mich ergreift dieser Gottesdienst hier draußen in der sternklaren kalten Nacht tief. Der rote Feuerschein aus der oben geöffneten Jurte wirft einen klaren Lichtkegel gegen den Himmel. Links von mir stehen etwa zehn Meter von der Jurte entfernt die etwas wohlbeleibte Ziehmutter des Fürsten Zartul-Beese und seine junge hübsche Frau. Laut aufstöhnend lassen sie sich mit hoch gehobenen zum Gebet gefalteten Händen auf beide Knie fallen. Dann strecken sie sich der Länge nach, auf dem Leib liegend, in ihren Prachtgewändern in den Schnee --- indem sie mit dem Oberkörper nach vorn rutschen, legen sie die wagerecht ausgebreiteten Arme mit den Fingerspitzen der Hände zusammen, als wollten sie schwimmen, drücken die Stirn gegen die Erde und richten sich dann, den Rosenkranz zwischen den Fingern, schwerfällig wieder auf. Häufig, wenn die Stimme des Dsal- Chen-Sen-Gegen besonders deutlich herausschallt und der Baß mit Pauken und Muschelhörnern scharf einsetzt, lassen sie sich wie von großer Angst gepackt, auch wenn sie schon halb aufgerichtet sind, laut stöhnend wieder hinfallen und drücken die Stirne in den Schnee. --- Die ganzen Bewegungen werden schnell in drei einzelnen Bewegungen ausgeführt. Ich zählte innerhalb von 15 Minuten 60 solche Kotaus. Wie lange die Damen diese gymnastische Übung vor und nach meiner Ankunft ausgeführt haben, ist mir unbekannt. Den beiden Fürstinnen muß der Tee nachher besonders gut geschmeckt haben, denn dänische und amerikanische Lehrer für Körperpflege empfehlen ähnliche Übungen, besonders bei Magenbeschwerden.
 
-Tafel 50.
+Лист 50.
 
 ![192-uchtomski.jpg](192-uchtomski.jpg)
 
@@ -3000,7 +3002,7 @@ Tafel 50.
 
 Japanischer Besuch im russischen Konsulat in Uljasutai.
 
-Tafel 51.
+Лист 51.
 
 ![192-zezen.jpg](192-zezen.jpg)
 
@@ -3331,19 +3333,19 @@ Das Panorama ist einfach herrlich. Hier gibt es doch wenigstens noch etwas Busch
 
 und Rufen der mongolischen Hirten, die ihre Herde auf ihren kleinen Pferden ständig umkreisen, oder zu Fuß die zurückbleibenden Kälbchen nachtreiben, der wirbelnde Schnee, das Heulen des Sturmes und dazwischen mit ruhigem majestätischem Gange unsere Kamele, umbellt und umkläfft von den mächtigen schwarzgelben langhaarigen Hunden, war ein so fremdartiges Bild, wie es selten das Auge eines Europäers zu sehen bekommt. Langsam, aber sicher überholen wir die Mongolen. Meine Kamele schwanken in dem hohen Schnee bei jedem Stoß des Sturmes, der die aufgelegten Lasten trifft, wie ein Schiff auf hoher See. Da, an einem Hange stürzt das Kamel des Lamas, der mit mir nach Urga wallfahrten wollte. Das arme Tier kann in dem hohen Schnee nicht weiter, ruhig bleibt es liegen, auch nachdem ihm die Lasten abgeladen worden sind. Ein böser Anfang! Der Lama, der einsieht, daß sein Kamel nicht mehr weiter kann, und daß ihn Dschenschip-Gulun mit dem Tier angeschmiert hat, will Zurückbleiben und sobald sich das Tier etwas erholt hat, nach Uljasutai zurückkehren. --- Die mongolische Karawane holt uns wieder ein. Der Mongole erhält im Namen des Dsal-Chen-Sen- Gegen den Befehl, dem Lama mit Yacks auszuhelfen, was er auch bereitwilligst verspricht. Als ich mich nach einiger Zeit umschaue, sehe ich ihn traurig mit gesenktem Kopf neben seinem Kamel im Schneegestöber stehen. Ein Wüstenbild voll von Tragik! Bald verschwindet er meinen Blicken im grauen Schneesturm. Vorwärts, nur weiter! Wir steigen ständig bergan. Nach zwei Stunden streikt das zuerst marschierende Kamel. Es will nicht mehr. Selbstverständlich tun die anderen Kamele wie auf Kommando mit. Die Yackkarawane nähert sich uns wieder. Kein Rufen, kein Schlagen hilft. Endlich, endlich bequemt sich das erste zehn Schritte auf dem glatten, feuchten Schnee vorwärts zu gehen, dann bleibt es wieder klagend stehen. Alles was Hände hat, auch von der Yackkarawane, greift zu. Schlagend, stoßend, schimpfend, schreiend, schiebend bringen wir endlich die Karawane über die Paßschwelle. Mein Höhenmesser zeigt 2960 m über dem Meere. Dazu noch dieser Schneesturm! Es war eine fürchterliche Qual für Tier und Mensch. In den Pausen, die die Treiber mit ihrem Schreien machen, um Atem zu schöpfen, krächzt dicht am Wege sitzend ein großer schwarzer Rabe, der bei jedem Ruf, den er ausstößt, eine wippende Bewegung macht. Endlich geht es langsam bergab. Die Yackkarawane biegt nach links aus. Der Sturm wird immer heftiger und eisiger. Es ist schon vier Uhr Nachmittags und wir haben seit 11 Uhr nur 5 Werst zurückgelegt, also für jede Werst mehr als eine Stunde gebraucht. Der Weg ist kaum noch zu erkennen. Wir stolpern rutschend langsam zu Tal. Gegen fünf Uhr --- es wird schon dunkel --- vertausche ich meinen wilden Braunen mit
 
-Tafel 52.
+Лист 52.
 
 ![216-aufbruch.jpg](216-aufbruch.jpg)
 
 Aufbruch von Uljasutai. Das Beladen der Kamele.
 
-Tafel 53.
+Лист 53.
 
 ![216-jack.jpg](216-jack.jpg)
 
 Ein beladener Jack den Weg suchend.
 
-Tafel 54.
+Лист 54.
 
 ![216-rest.jpg](216-rest.jpg)
 
@@ -3482,7 +3484,7 @@ stattliche Karawane zusammengeschmolzen ist. Außer den Reittieren sind nur noch
 
 (*Von Ar-dschir-galantu nach Urton Übur-dschir-galantu.*) Ich selber bin bald zum Aufbruch fertig. Noch einmal streichele ich meine Pferde und Kamele, die ja einstweilen hier Zurückbleiben. Dann sitze ich wieder im Sattel und in der schärfsten Gangart geht es mit neuen Führern in die dunkle Nacht hinaus. Der Schnee hört nach und nach auf. Der Weg wird steinig. Wir haben noch etwa 40 Werst bis zum nächsten Urton zu reiten. Der Weg windet sich durch eng zerklüftete Täler. Obwohl es empfindlich kalt ist und der Wind uns von vorne trifft --- wir haben --- 25 Grad R. --- so ist es doch ein Hochgenuß, wieder in Galopp über Stock und Stein dahinzujagen. Welch ein Gegensatz! Vor sechs Tagen zog ich mit einer sterbenden Karawane durch Eis und Schnee, und jetzt fliegen wir mit den besten Pferden versehen durch die sternklare Nacht!
 
-Tafel 55.
+Лист 55.
 
 ![232-steppe.jpg](232-steppe.jpg)
 
@@ -3638,7 +3640,7 @@ Höhe und parallel zum Hang des Berges, damit nicht einer den anderen durch eine
 
 ihm in gleicher Höhe. --- Vorsichtig überklettern wir den letzten Hang und das letzte Geröll. --- Der Mongole sitzt ebenso ruhig, wie vor anderthalb Stunden zwischen seinen Steinen. Unsere Pferde haben wir beim Rappen zurückgelassen. Er begrüßt uns nur mit einem Kopfnicken und einer Bewegung des Kopfes zur Schlucht hin mit den Worten: "Argali, doch sie sind weiter gezogen, sie haben Euch wohl bemerkt". --- Tatsächlich sehe ich auf einer Entfernung von etwa 3 km den Kopf eines starken Widders mit mächtigem Gehörn hinter einem Felsen halb versteckt zu uns hinüberäugen. --- Lange kann ich mich nicht von dem prächtigen Anblick losreißen und Orlow muß mir das Glas halb mit Gewalt von den Augen wegziehen. --- "Heute ist alles vergebens" meint schließlich der Mongole, "irgendetwas hat sie vergrämt, vielleicht Euer Abstieg, obwohl Ihr nur ganz kurze Zeit bemerkbar waret." --- Ich machte ihn auf das eigentümliche Betragen des Widders aufmerksam, das habe nichts zu bedeuten, da er ebenso gut aus irgendeinem anderen Grunde die unter uns liegende Schlucht beobachten könne. Er erzählte uns nun, die Herde sei einige dreißig Stück stark gewesen, mit drei ganz kapitalen Widdern und einem jungen besonders starken Widder, der der eigentliche Pascha der Herde sei, denn die drei alten Herren hielten sich etwas abseits von der Herde. Ich machte ihm klar, daß es mir nur um das Gehörn der drei alten Widder zu tun sei und fragte ihn, ob er uns morgen begleiten wolle. Er war sofort damit einverstanden. Wir kletterten nun alle drei, der Mongole stets seine lange Stahlpfeife rauchend und aus meinem Tabaksbeutel füllend, bis zur Talsohle hinunter. Die drei Pferde laufen hinter uns her, ohne daß wir uns weiter um sie kümmern. Endlich können wir aufsitzen. Im flotten Trab geht es in der Richtung auf seine Jurte zu. Ich bewundere immer und immer wieder das prachtvolle Jagdpferd dieses scheinbar so armen Mongolen, unsere Pferde können kaum mit ihm Schritt halten, dabei tritt es viel geschickter, als unsere Tiere und beinahe lautlos über die vielen Steine, die an den Hängen liegen. --- Durch eine breite, mit dürrem hohen Grase bewachsene Talsohle, die rings von kleinen Hügeln umsäumt ist, gelangen wir schließlich zu Osers und des Jägers Jurte. Oser heißt uns mit seiner jungen Frau, die übrigens eine gute Freundin von Peter Orlow zu sein scheint, recht herzlich willkommen. --- Wir trinken bei ihm Tee, seine Teeschale ist eine wunderbar getriebene Silberarbeit, die Osers Frau vorher mit der Zunge gereinigt hat. --- Auch zeigt mir Oser einige seiner Silberarbeiten, darunter fällt mir besonders die im reinem Silber nach einem alten Vorbild gearbeitete Figur eines weiblichen Bodhisatwa mit Lotusblättern und Chadak, den sie mit der rechten Hand hoch über den Kopf hält, auf. --- Auf meine Frage, warum er gerade hier, wo weit und breit kein Käufer
 
-Tafel 56.
+Лист 56.
 
 ![256-verfasser.jpg](256-verfasser.jpg)
 
@@ -3762,7 +3764,7 @@ verwendeten Tiermist. Von einer Kuppe aus halte ich Ausschau nach meinem Ulatsch
 
 *(Urton Utain.)* Der Urton selbst ist in einem nach Westen offenen engen Tal mitten zwischen mächtigen dunkelgrauen Bergen, deren höchsten Gipfel ich auf etwa 3250 m schätzte, gelegen. Ein schmaler Durchgang führt nach Westen aus dem Tal heraus. Die Hälfte des Tales wird zur Rechten durch eine mächtige Schutthalde von etwa 50 m Höhe ausgefüllt. Der Abstieg von der Höhe 2765 m ins Tal hinunter war nicht ganz leicht. Aber unsere Pferde waren ja den Weg gewohnt, gerade beim Einbruch der Dunkelheit waren wir unten. Ein altes, verhutzeltes Mütterchen empfing mich und führte mich zu der für mich bestimmten Jurte. Die
 
-Tafel 57.
+Лист 57.
 
 ![280-klosterruine.jpg](280-klosterruine.jpg)
 
@@ -3820,7 +3822,7 @@ Beim Grunzen der Yacks, dem Stampfen der Pferde, dem drahtlosen Telephonieren de
 
 fliegt mit mir dem Kumir (Kloster) entgegen, als gälte es, die Messe dort nicht zu versäumen. Über Gräben und kleine Bäche weg geht die wilde Jagd, durch die mit kleinen Erhöhungen besäte Steppe. Über von Erdmäusen durchwühlten Boden trägt mich der Rappe, mein Begleiter, der weit zurückgeblieben ist, brüllt aus vollem Halse sein "Hajar!" (Vorsicht) hinter mir her. Der hat gut rufen! --- In einer Viertelstunde bin ich endlich glücklich, ohne irgendwelche Knochen gebrochen zu haben, an der Ruine des Klosters angelangt. --- Auch heute macht diese großartige Doppelruine auf mich einen gewaltigen Eindruck. Aus dem Haupttor sieht man nach Südost. 50 m außerhalb des Tores steht eine Tchorte. Der Toreingang ist gute 6 Schritte breit. Die Tchorte besteht aus einem quadratischen Unterbau, auf dem ein kegelförmiger, meist viereckiger nach oben spitz verlaufender Obelisk steht. Die Tchorten sind aus Tibet nach der Mongolei eingeführt und werden von den Mongolen ebenso verehrt wie die Obos. Die Mauer, die anscheinend aus einer gegossenen, mit kleinen Steinen durchsetzten harten Masse besteht, ist 2 m dick. Der Innen- und Haupthof ist 65 1/2 Schritt lang und 53 Schritte breit. Hier liegt das beinahe quadratische Hauptgebäude, das aus zwei Etagen bestand. Der E'ngang zum Hauptgebäude ist vier Schritte breit, die Mauer 1 1/2 m dick. Der Innemaum ist 15 Schritte lang. Die längeren Seiten liegen mit ihrer Front dem Haupthof zugekehrt. In der oberen Etage stecken noch steinharte Holzbalkenstümpfe. Der ganze Raum wurde durch sechs große Fenster erhellt und zwar so, daß sich je eines oberhalb des Einganges befand und in den Seitenwänden je zwei. Nach dem Norden ließ eine mächtige, große Fensteröffnung den Blick auf die zweite Ruinenstätte frei. Wahrscheinlich hatte man von hier aus einen Blick auf eine Kolossalstatue irgend einer Buddha-Figur, deren Aufbau und Befestigung im anderen Gebäude noch zu sehen sind. --- Links von diesem Hauptgebäude waren anschließend mit dem Ausgang zum Haupthof die Zellen der Mönche, die aber gänzlich zerstört sind. Eigentümliche aus Kieselguß bestehende Häufchen bedecken den Hof. Das ganze wird von der mächtigen Mauer in einem großen Rechteck umgeben. --- Etwa 5 Minuten zu Fuß genau im Norden liegt auf einer kleinen Anhöhe das zweite bedeutend kleinere Gebäude. ---- Vom Hauptkloster aus ist dieses Gebäude nur durch das Haupttor zu erreichen. Die Stelle, wo das Idol gestanden hat, ist 2 m breit und hat eine Höhe von 6 m. Rechts und links davon nach vorne befinden sich drei Räume. Diese messen fünf zu vier Meter. Es gab hier ebenso große Kellerräume, die ganz mit Trümmerschutt angefüllt sind, sowie ebenfalls eine zweite Etage. Auch diesmal fehlt es mir an Zeit und Leuten um den alten Bau, der über manche
 
-Tafel 58.
+Лист 58.
 
 ![288-klosterhof.jpg](288-klosterhof.jpg)
 
@@ -3830,7 +3832,7 @@ Der innere Klosterhof. Rechts das Hauptgebäude, im Hintergrund das zweite Gebä
 
 Der Klosterhof. Linker Teil mit den ehemaligen Wohnungen der Lamas und der eingestürzten Gebetshalle. Im Vordergrund eigentümliche zementartige feste Kieshaufen.
 
-Tafel 59.
+Лист 59.
 
 ![288-gebaude.jpg](288-gebaude.jpg)
 
@@ -3894,7 +3896,7 @@ den mongolischen Beamten, der genau so festsitzt, wie ich. Er macht ebenso, wie 
 
 Die Lasten gehen mit den neuen Kamelen sofort weiter. Savon-burt liegt am Flüßchen Muschur-kol. Der Schnee wird höher und höher, aber die Luft wärmer. Aus meiner zerissenen Tasche verlor ich Pfeife, Tabaksbeutel und Feuerzeug. Das ist ärgerlich, die Sachen werde ich wohl schwerlich wieder bekommen. --- Allem Anscheine nach habe ich heute einen besonders schlechten Tag, denn ich liege ständig im Kampf mit meinem englischen Sattel, der dringend der Reparatur bedarf. --- Dicht am Wege, von dem Urton Burtun-kol 7 Werst entfernt, liegt ein großes lamaistisches Kloster, es ist dies die Klosterschule Naban- Zeren. ---Der Sengi von Burton-kol, der durch die Salon-bargu Mongolen auf meine Ankunft vorbereitet war, hat uns mit vorzüglichen Pferden versehen. Allerdings ist dies für ihn nicht schwer, da der Urton zwar nur aus fünf Jurten besteht, aber eine Herde von 1000 Pferden und 200 Kamelen unterhält. --- Auf zwei herrlichen, wilden Rappen fliegen wir
 
-Tafel 62.
+Лист 62.
 
 ![296-goldgraberlager.jpg](296-goldgraberlager.jpg)
 
@@ -3904,7 +3906,7 @@ Im Goldgräberlager am Baidarik.
 
 Das Innere des zweiten Gebäudes der Klosterruine.
 
-Tafel 62.
+Лист 62.
 
 ![296-tola.jpg](296-tola.jpg)
 
