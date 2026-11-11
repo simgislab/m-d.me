@@ -774,7 +774,7 @@ Kuachtanar. Postgebäude.
 
 ![56-kurai.jpg](56-kurai.jpg)
 
-Die Kurai-Alpen. Im Vordergrund die achteckigen Holzkibithken der Tschni-Leute.
+Die Kurai-Alpen. Im Vordergrund die achteckigen Holzkibithken der Tschui-Leute.
 
 Tafel 12.
 
