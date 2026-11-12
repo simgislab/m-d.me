@@ -155,9 +155,14 @@ Display the Loop plugin’s content. Упоминаемый раздел это 
 
 Если у вас OrangeLink Pro, подключение в AAPS:
 
-* положить рядом OrangeLink и AAPS
-* в AAPS: три палки в левом верхнем углу - Config builder
-* раздел Medtronic - иконка с шестеренкой - RileyLink Configuration - Scan - добавить OrangeLink
+* Положить рядом OrangeLink и AAPS.
+* В AAPS: три палки в левом верхнем углу - Config builder
+* Пролистать вниз до раздела Medtronic - иконка с шестеренкой - RileyLink Configuration
+* Нажать Scan, дождаться появления OrangeLink Pro. Если сканирование завершилось, но устройство не появилось - нужно повторить.
+* Нажать на появившееся устройство, чтобы его добавить.
+
+Индикация:
+
 * если OrangeLink мигает красным - он не соединен с AAPS;
 * если OrangeLink мигает желтым - он соединен с AAPS. Мигает довольно редко.
 

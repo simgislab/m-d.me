@@ -878,303 +878,302 @@ DRUCK VON J. J. AUGUSTIN IN GLÜCKSTADT UND HAMBURG
 
 <a id="63">**-- 63 --**</a>
 
-## KAPITEL 5. DER RUSSISCHE HANDEL IN DER MONGOLEI.
+## ГЛАВА 5. РУССКАЯ ТОРГОВЛЯ В МОНГОЛИИ.
 
-Folgende Daten mögen einen allgemeinen Überblick über die Entwicklung und den Rückgang des russischen Handels bis zum Ausbruch der mogolischen Empörung geben. Rußland war damals vor die Alternative gestellt, mit seinem Handel sang- und klanglos aus der Mongolei zu verschwinden und den Chinesen die Ausbeutung der Mongolen allein zu überlassen, oder aber mit dem Schwert den gordischen Knoten zu durchhauen. Es bewaffnete die Mongolen, um seinen Handel zu retten. Da die russischen Handelsbeziehungen sich nicht bloß über die äußere Mongolei, sondern auch in die Ostmongolei erstrecken, so mögen hier einige statistische Daten über den russischen Handel sowohl in der äußeren, wie in der östlichen Mongolei folgen, da man stark mit dem Anschluß der Ostmongolen und der Vertreibung der dortigen Chinesen rechnet.
+Следующие данные могут дать общее представление о развитии и упадке русской торговли вплоть до начала монгольского восстания. Россия тогда оказалась перед выбором: либо без шума и следа исчезнуть со своей торговлей из Монголии, предоставив китайцам одним эксплуатировать монголов, либо разрубить гордиев узел мечом. Чтобы спасти свою торговлю, она вооружила монголов. Поскольку русские торговые связи распространялись не только на Внешнюю Монголию, но и на Восточную Монголию, ниже приводятся некоторые статистические данные о русской торговле как во Внешней, так и в Восточной Монголии, поскольку всерьёз рассчитывали на присоединение восточных монголов и изгнание оттуда китайцев.
 
-| Jahr | Wert der Einfuhr in Rubel | Jahr | Wert der Einfuhr in Rubel |
-| ---  |  ------------------------ |  --- |  ------------------------ |
-| 1899 | 3.117.649                 | 1905 | 3.641.229                 |
-| 1900 | 2.737.7I5                 | 1906 | 4.571.175                 |
-| 1901 | 2.388.174                 | 1907 | 4.509.064                 |
-| 1902 | 3.929.126                 | 1908 | 3.715.487                 |
-| 1903 | 4.309.291                 | 1909 | 2.621.029                 |
-| 1904 | 3.266.931                 |      |                           |
+| Год  | Стоимость ввоза, руб. | Год  | Стоимость ввоза, руб. |
+|------|----------------------:|------|----------------------:|
+| 1899 |             3 117 649 | 1905 |             3 641 229 |
+| 1900 |             2 737 715 | 1906 |             4 571 175 |
+| 1901 |             2 388 174 | 1907 |             4 509 064 |
+| 1902 |             3 929 126 | 1908 |             3 715 487 |
+| 1903 |             4 309 291 | 1909 |             2 621 029 |
+| 1904 |             3 266 931 |      |                       |
 
-Der Export, in tausend Rubel gerechnet, verteilt sich wie folgt über folgende Zollämter:
+Экспорт, исчисленный в тысячах рублей, распределялся между следующими таможнями:
 
-| Jahr | Kosch-Agatsch | Bachtinsk | Saisan | Kiachta |
-| ---- |  ------------ | --------- |  ----- |  ------ |
-| 1899 | 369           | 1.316     | 458    | 976     |
-| 1900 | 373           | 1.316     | 454    | 994     |
-| 1901 | 414           | 1.431     | 332    | 212     |
-| 1902 | 578           | 2.088     | 507    | 752     |
-| 1903 | 496           | 2.483     | 561    | 768     |
-| 1904 | 294           | 1.784     | 511    | 677     |
-| 1905 | 437           | 1.491     | 474    | 1.239   |
-| 1906 | 550           | 1.741     | 688    | 1.592   |
-| 1907 | 563           | 2.424     | 776    | 747     |
-| 1908 | 364           | 1.995     | 801    | 556     |
-| 1909 | 294           | 1.347     | 791    | 189     |
+| Год  | Кош-Агач | Бахтинск | Зайсан | Кяхта |
+|------|---------:|---------:|-------:|------:|
+| 1899 |      369 |    1 316 |    458 |   976 |
+| 1900 |      373 |    1 316 |    454 |   994 |
+| 1901 |      414 |    1 431 |    332 |   212 |
+| 1902 |      578 |    2 088 |    507 |   752 |
+| 1903 |      496 |    2 483 |    561 |   768 |
+| 1904 |      294 |    1 784 |    511 |   677 |
+| 1905 |      437 |    1 491 |    474 | 1 239 |
+| 1906 |      550 |    1 741 |    688 | 1 592 |
+| 1907 |      563 |    2 424 |    776 |   747 |
+| 1908 |      364 |    1 995 |    801 |   556 |
+| 1909 |      294 |    1 347 |    791 |   189 |
 
 <a id="64">**-- 64 --**</a>
 
-Auffallend und ins Auge springend ist der starke Rückgang der Einfuhr über Kiachta, um so mehr, als sich der Import durch den sich in der Mandschurei abspielenden Krieg, der die Durchfuhr von Waren nach China hinderte, stark gehoben hatte. Die Ware wurde über Kiachta, Urga, Kalgan transportiert. Die Mongolei selber war an dem plötzlichen Hochschwellen der Einfuhr über Kiachta nicht beteiligt. Um so empfindlicher machte sich dann der Rückschlag geltend, als die Eisenbahnlinie wieder frei wurde. Durch den unglücklichen Verlauf des Krieges war das Prestige des weißen Mannes stark gesunken. China schritt zur Kolonisation der Mongolei, der durchaus tüchtige, chinesische Kaufmann machte mit seinen guten deutschen, englischen und amerikanischen Waren dem russischen Händler mit seinen minderwertigen Dodzer und Moskauer Erzeugnissen scharfe Konkurrenz, und drückte den russischen Handel schließlich an die Wand.
+Особенно заметно резкое сокращение ввоза через Кяхту, тем более что во время войны, происходившей в Маньчжурии и препятствовавшей транзиту товаров в Китай, импорт сильно возрос. Товары перевозились через Кяхту, Ургу и Калган. Сама Монголия не была причиной внезапного увеличения ввоза через Кяхту. Тем ощутимее оказался последующий спад, когда железнодорожная линия вновь стала свободной. Из-за неудачного исхода войны престиж белого человека сильно упал. Китай приступил к колонизации Монголии; вполне способный китайский купец со своими добротными немецкими, английскими и американскими товарами составил серьёзную конкуренцию русскому торговцу с его низкокачественными лодзинскими и московскими изделиями и в конце концов прижал русскую торговлю к стене.
 
-Die Zahlen des Zollamtes von Kosch-Agatsch zeigen am besten den Rückgang des russischen Handels in der Mongolei und die Konkurrenz der Chinesen, da Kosch-Agatsch als Exportplatz nach China hin beinahe gar nicht mehr in Betracht kommt.
+Цифры Кош-Агачской таможни лучше всего показывают упадок русской торговли в Монголии и конкуренцию со стороны китайцев, поскольку Кош-Агач как пункт вывоза товаров в Китай уже почти совершенно утратил значение.
 
-Die Einfuhr verteilt sich folgendermaßen, in Rubel: Lebensmittel: 65 000---310 000 im Jahr.
+Ввоз распределялся следующим образом, в рублях: продовольствие --- 65 000---310 000 в год.
 
-Vieh: von 6 000---190 000 im Jahr.
+Скот --- 6 000---190 000 в год.
 
-Rohstoffe und halbverarbeitete Stoffe: von 316 000---988 000. Fertige Ware: 1 755 000---3 492 000. Diese letztere macht also 67---89% der ganzen Einfuhr aus.
+Сырьё и полуфабрикаты --- 316 000---988 000. Готовые изделия --- 1 755 000---3 492 000. Таким образом, последние составляли 67---89% всего ввоза.
 
-Den ersten Platz in der russischen Ausfuhr nahmen Baumwollen-erzeugnisse ein.
+Первое место в русском вывозе занимали хлопчатобумажные изделия.
 
-Baumwollenzeug und Stoffe im Durchschnitt pro Pud berechnet.
+Хлопчатобумажные ткани и материи, в среднем в расчёте на пуд.
 
-|               | 1899 --- 1901 | 1903   | 1904   | 1905   | 1906   | 1907   | 1908   | 1909   |
-|---------------|---------------|--------|--------|--------|--------|--------|--------|--------|
-| Kosch-Agatsch | 3.604         | 6.861  | 1.850  | 3.909  | 4.014  | 4.178  | 2.282  | 1.607  |
-| Bachtinsk     | 25.236        | 44.392 | 24.029 | 18.495 | 21.639 | 30.065 | 23.728 | 12.969 |
-| Saisan        | 8.381         | 9.377  | 8.253  | 7.068  | 8.562  | 11.628 | 10.872 | 9.824  |
-| Kiachta       | 6.845         | 8.886  | 6.260  | 11.797 | 14.863 | 6.988  | 3.331  | 3.105  |
-| Summa         |               | 69.516 | 40.392 | 41.269 | 49.078 | 52.859 | 40.213 | 27.505 |
+|               | 1899---1901 | 1903   | 1904   | 1905   | 1906   | 1907   | 1908   | 1909   |
+|---------------|------------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|
+| Кош-Агач      |       3 604 |  6 861 |  1 850 |  3 909 |  4 014 |  4 178 |  2 282 |  1 607 |
+| Бахтинск      |      25 236 | 44 392 | 24 029 | 18 495 | 21 639 | 30 065 | 23 728 | 12 969 |
+| Зайсан        |       8 381 |  9 377 |  8 253 |  7 068 |  8 562 | 11 628 | 10 872 |  9 824 |
+| Кяхта         |       6 845 |  8 886 |  6 260 | 11 797 | 14 863 |  6 988 |  3 331 |  3 105 |
+| Итого         |             | 69 516 | 40 392 | 41 269 | 49 078 | 52 859 | 40 213 | 27 505 |
 
-Das Maximum der Ausfuhr an Baumwollenstoffen zählt das Jahr 1903, während des Krieges ging die Ausfuhr zurück, erholte sich wieder und
+Максимум вывоза хлопчатобумажных тканей пришёлся на 1903 год; во время войны вывоз сократился, затем вновь восстановился,
 
 <a id="65">**-- 65 --**</a>
 
-fiel plötzlich beinahe um die Hälfte. An den Punkten Kosch-Agatsch ist der Rückgang besonders augenfällig.
+а потом внезапно упал почти наполовину. Особенно заметен этот спад в Кош-Агаче.
 
-Der Handel mit Metallwaren, hauptsächlich Eisen und Stahl, geht über das Bachtinski-Zollamt, und zwar wurden dort in den letzten sieben Jahren etwa 27 000---44 000 Pud eingeführt. Über Kosch-Agatsch und Saisan betrug die Einfuhr 1000---2000 Pud pro anno. Dagegen wurden über Kiachta Eisen- und Stahlwaren nicht eingeführt. Die Einfuhr über Kosch-Agatsch, nach Kobdo und Uljasutai ist in den Jahren 1908 bis 1909 beinahe um das Fünffache gefallen und zwar von 953 Pud auf 207 Pud. In Bachtinsk und Saisan war ein Rückgang nicht zu bemerken.
+Торговля металлическими изделиями, главным образом железом и сталью, шла через Бахтинскую таможню; за последние семь лет через неё ежегодно ввозилось примерно 27 000---44 000 пудов. Через Кош-Агач и Зайсан ввоз составлял 1000---2000 пудов в год. Через Кяхту, напротив, изделия из железа и стали не ввозились. Ввоз через Кош-Агач в Кобдо и Улясутай в 1908---1909 годах сократился почти в пять раз --- с 953 до 207 пудов. В Бахтинске и Зайсане сокращения заметно не было.
 
-Dagegen ist die Einfuhr von Eisenwaren und Maschinen nach der Mongolei nicht besonders stark zurückgegangen, obwohl über Kiachta, wie schon gesagt, diese Waren überhaupt nicht mehr eingeführt werden.
+В то же время ввоз железных изделий и машин в Монголию сократился не особенно сильно, хотя через Кяхту, как уже сказано, эти товары вообще больше не ввозились.
 
-Einfuhr der Eisenwaren im Durchschnitt pro Pud berechnet.
+Ввоз железных изделий, в пудах.
 
-|               | 1899 --- 1901 | 1903   | 1904   | 1905   | 1906   | 1907   | 1908   | 1909   |
-|---------------|---------------|--------|--------|--------|--------|--------|--------|--------|
-| Kosch-Agatsch | 3.783         | 4.672  | 3.132  | 2.851  | 4.025  | 4.566  | 3.172  | 1.776  |
-| Bachtinsk     | 11.763        | 12.219 | 18.366 | 16.117 | 14.853 | 10.787 | 9.504  | 8.744  |
-| Saisan        | 525           | 518    | 1.520  | 2.169  | 1.939  | 1.744  | 1.435  | 1.815  |
-| Summa         | 16.071        | 17.409 | 23.018 | 21.137 | 20.817 | 17.097 | 14.111 | 12.315 |
+|               | 1899---1901 | 1903   | 1904   | 1905   | 1906   | 1907   | 1908   | 1909   |
+|---------------|------------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|
+| Кош-Агач      |       3 783 |  4 672 |  3 132 |  2 851 |  4 025 |  4 566 |  3 172 |  1 776 |
+| Бахтинск      |      11 763 | 12 219 | 18 366 | 16 117 | 14 853 | 10 787 |  9 504 |  8 744 |
+| Зайсан        |         525 |    518 |  1 520 |  2 169 |  1 939 |  1 744 |  1 435 |  1 815 |
+| Итого         |      16 071 | 17 409 | 23 018 | 21 137 | 20 817 | 17 097 | 14 111 | 12 315 |
 
-Der Rückgang der Eiseneinfuhr und Maschinen über Kosch-Agatsch nach der Nordmongolei vollzog sich eben parallel dem allgemeinen Niedergang der russischen Ausfuhr durch den Tschuiski-Trakt.
+Сокращение ввоза железных изделий и машин через Кош-Агач в Северную Монголию происходило параллельно общему упадку русского вывоза по Чуйскому тракту.
 
-Die Ausfuhr von gegerbtem schwarzem Juchtenleder nach der äußeren Mongolei erreichte ihre Maximalhöhe 1906, um dann rapid zu fallen.
+Вывоз дублёной чёрной юфти во Внешнюю Монголию достиг максимума в 1906 году, после чего стал стремительно сокращаться.
 
-|               | 1906   | 1907   | 1908   | 1909          |
-|---------------|--------|--------|--------|---------------|
-| Kosch-Agatsch | 2.613  | 2.185  | 1.302  | 1.012         |
-| Bachtinsk     | 1.183  | 1.296  | 1.048  | 561           |
-| Saisan        | 1.172  | 1.947  | 2.068  | 1.712         |
-| Kiachta       | 30.413 | 6.659  | 5.441  | 280           |
-| Summa         | 35.381 | 12.087 | 98.059 | 35.065 Stück. |
+|               | 1906   | 1907   | 1908  | 1909        |
+|---------------|-------:|-------:|------:|------------:|
+| Кош-Агач      |  2 613 |  2 185 | 1 302 |       1 012 |
+| Бахтинск      |  1 183 |  1 296 | 1 048 |         561 |
+| Зайсан        |  1 172 |  1 947 | 2 068 |       1 712 |
+| Кяхта         | 30 413 |  6 659 | 5 441 |         280 |
+| Итого         | 35 381 | 12 087 | 9 859 | 3 565 штук  |
 
-Die Ausfuhr russischer Galanteriewaren nach der Mongolei war immer klein, zeigte aber dennoch einen deutlichen Rückgang in den Jahren 1908 und 1909, und zwar fiel sie über Kosch-Agatsch von 1291 Pud auf 721 Pud.
+Вывоз русских галантерейных товаров в Монголию всегда был невелик, однако и он заметно сократился в 1908 и 1909 годах: через Кош-Агач он упал с 1291 до 721 пуда.
 
-Die russische Ausfuhr von Zucker und Zuckerwaren hält sich ohne
+Русский вывоз сахара и сахарных изделий сохраняется примерно на прежнем уровне без
 
 <a id="66">**-- 66 --**</a>
 
-merklichen Rückgang auf der Höhe, weil die Chinesen von Tschuguschak und Urga selber als Käufer auftreten.
+заметного сокращения, поскольку китайцы из Чугучака и Урги сами выступают в качестве покупателей.
 
-Ausfuhr von russischem Zucker und Zuckerwaren in Pud.
+Вывоз русского сахара и сахарных изделий, в пудах.
 
-|               | 1899-1903 | 1904   | 1904   | 1905  | 1906   | 1907   | 1908   | 1909   |
-|---------------|-----------|--------|--------|-------|--------|--------|--------|--------|
-| Kosch-Agatsch | 367       | 418    | 332    | 355   | 1.510  | 2.477  | 300    | 711    |
-| Bachtinsk     | 3.305     | 8.269  | 6.717  | 3.606 | 13.963 | 13.548 | 17.371 | 10.110 |
-| Saisan        | 344       | 54     | 57     | 114   | 185    | 300    | 211    | 194    |
-| Kiachta       |           | 13.555 | 10.941 | 2.884 | 4.402  | 8.048  | 15.663 | 12.535 |
-| Summa         | 4.956     | 22.296 | 18.047 | 6.959 | 20.066 | 24.373 | 33.545 | 23.550 |
+|               | 1899---1903 | 1904   | 1904   | 1905  | 1906   | 1907   | 1908   | 1909   |
+|---------------|------------:|-------:|-------:|------:|-------:|-------:|-------:|-------:|
+| Кош-Агач      |         367 |    418 |    332 |   355 |  1 510 |  2 477 |    300 |    711 |
+| Бахтинск      |       3 305 |  8 269 |  6 717 | 3 606 | 13 963 | 13 548 | 17 371 | 10 110 |
+| Зайсан        |         344 |     54 |     57 |   114 |    185 |    300 |    211 |    194 |
+| Кяхта         |             | 13 555 | 10 941 | 2 884 |  4 402 |  8 048 | 15 663 | 12 535 |
+| Итого         |       4 956 | 22 296 | 18 047 | 6 959 | 20 066 | 24 373 | 33 545 | 23 550 |
 
-Die Einfuhr von russischem Mehl erreichte auch eine bedeutende Höhe, und zwar schwankt sie zwischen 142 000 Pud und 80 000 Pud. Den Hauptanteil hat Bachtinsk, über Saisan wurden etwa 30 000 Pud eingeführt, und sie zeigt hier eine steigende Tendenz; in der nördlichen Mongolei über Kosch-Agatsch 12 000 Pud. Die Einfuhr von Mehl über Kiachta ist dieselbe wie in jedem Jahr.
+Ввоз русской муки также достиг значительных размеров и колебался от 80 000 до 142 000 пудов. Основная доля приходилась на Бахтинск; через Зайсан ввозилось около 30 000 пудов, причём здесь наблюдалась тенденция к росту; в Северную Монголию через Кош-Агач --- 12 000 пудов. Ввоз муки через Кяхту из года в год оставался примерно одинаковым.
 
-Bei den aufgeführten Zahlen ist der starke Rückgang aller wichtigen Handelsartikel nach der nördlichen Mongolei auffallend, besonders an den Zollämtern in Kosch-Agatsch und Kiachta.
+В приведённых цифрах бросается в глаза резкое сокращение торговли всеми важнейшими товарами с Северной Монголией, особенно через таможни Кош-Агача и Кяхты.
 
-Betrachten wir nun den Export der Mongolei nach Rußland.
+Рассмотрим теперь вывоз из Монголии в Россию.
 
-Rußland führt aus der Mongolei außer den eigentlichen mongolischen Rohartikeln auch chinesische Ware aus wie Tee, Baumwolle und Seidenstoffe, auf die näher einzugehen, da sie nicht rein mongolische Produkte sind, sich erübrigt.
+Помимо собственно монгольского сырья Россия вывозит из Монголии также китайские товары, такие как чай, хлопок и шёлковые ткани; подробнее останавливаться на них нет необходимости, поскольку они не являются собственно монгольской продукцией.
 
-Die Einfuhr von Rohprodukten und halbverarbeitetem Material zeigt eine steigende Tendenz, und zwar
+Ввоз сырья и полуфабрикатов обнаруживает тенденцию к росту, а именно:
 
-|      |                  |
-|------|------------------|
-| 1903 | 3.643.432 Rubel  |
-| 1904 | 4.151.546        |
-| 1905 | 4.266.644        |
-| 1907 | 5.143.088 Rubel  |
-| 1908 | 5.678.024        |
-| 1909 | 8.097.487        |
+|      |               |
+|------|--------------:|
+| 1903 | 3 643 432 руб. |
+| 1904 | 4 151 546      |
+| 1905 | 4 266 644      |
+| 1907 | 5 143 088 руб. |
+| 1908 | 5 678 024      |
+| 1909 | 8 097 487      |
 
-Die mongolische Ausfuhr von Rohwaren und Lebendvieh spielt im russischen Volksleben und bei der Verpflegung der Armee in Sibirien häufig schon jetzt eine große Rolle. Bekommt man doch schon in Petersburg und Moskau recht oft mongolischen Hammel. Irkutsk schlachtet täglich 400 Stück Rindvieh, davon ist wohl auch der größere Teil mongolischen Ursprungs.
+Монгольский вывоз сырьевых товаров и живого скота уже теперь нередко играет значительную роль в жизни России и снабжении армии в Сибири продовольствием. Ведь даже в Петербурге и Москве уже довольно часто можно купить монгольскую баранину. В Иркутске ежедневно забивают 400 голов крупного рогатого скота, и, вероятно, большая их часть также имеет монгольское происхождение.
 
 <a id="67">**-- 67 --**</a>
 
-Die mongolische Einfuhr ist an dem allgemeinen russischen Import in folgenden Artikeln wie folgt beteiligt:
+Доля монгольского ввоза в общем российском импорте по отдельным товарам составляла:
 
-|                                            |         |
-|--------------------------------------------|---------|
-| Rohhäute (trocken und gesalzen)            | 12%,    |
-| Wolle und Pelzware (ungefärbt)             | 13%,    |
-| Pferdehaare                                | 25.5%,  |
-| Pilz und aus Filz hergestellte Gegenstände | 34.2%,  |
-| Pferde                                     | 10.8%,  |
-| Kleinvieh, Schafe, Ziegen usw              | 24.9%,  |
+|                                              |        |
+|----------------------------------------------|-------:|
+| Сырые шкуры (сухие и солёные)                | 12%    |
+| Шерсть и пушнина (неокрашенная)              | 13%    |
+| Конский волос                                | 25,5%  |
+| Войлок и изделия из войлока                  | 34,2%  |
+| Лошади                                       | 10,8%  |
+| Мелкий скот, овцы, козы и т. д.              | 24,9%  |
 
-Aber auch hier droht dem russischen Handel Gefahr.
+Но и здесь русской торговле угрожает опасность.
 
-Die Rührigkeit der Chinesen verstand es, in den letzten zwei Jahren vor Ausbruch der mongolischen Revolution, dem russischen Import empfindlichen Abbruch zu tun und die Ausfuhr der oben genannten Produkte über Kalgan nach Tientsien und von dort nach Europa und Amerika zu leiten. Die Ausfuhr auf diesem Wege wuchs ständig.
+Предприимчивость китайцев позволила им в последние два года перед началом монгольской революции нанести ощутимый ущерб русскому импорту и направить вывоз перечисленных выше товаров через Калган в Тяньцзинь, а оттуда --- в Европу и Америку. Вывоз по этому пути постоянно возрастал.
 
-Überblick über das ausgeführte Roh- und halbverarbeitete Material und Lebensmittel in Rubel.
+Обзор вывоза сырья, полуфабрикатов и продовольствия, в рублях.
 
-|      | Kosch-Agatsch | Bachtinsk | Saisan  | Kiachta   |
-|------|---------------|-----------|---------|-----------|
-| 1903 | 1.163.729     | 1.564.477 | 357.113 | 558.113   |
-| 1904 | 1.334.383     | 2.090.409 | 413.837 | 311.917   |
-| 1905 | 1.529.745     | 1.917.828 | 463.685 | 355.386   |
-| 1906 | 1.192.298     | 1.858.296 | 614.493 | 867.054   |
-| 1907 | 1.571.207     | 1.978.405 | 722.107 | 821.369   |
-| 1908 | 1.476.296     | 2.189.987 | 737.134 | 1.274.600 |
-| 1909 | 1.502.547     | 2.484.439 | 665.689 | 3.484.812 |
+|      | Кош-Агач  | Бахтинск  | Зайсан  | Кяхта     |
+|------|----------:|----------:|--------:|----------:|
+| 1903 | 1 163 729 | 1 564 477 | 357 113 |   558 113 |
+| 1904 | 1 334 383 | 2 090 409 | 413 837 |   311 917 |
+| 1905 | 1 529 745 | 1 917 828 | 463 685 |   355 386 |
+| 1906 | 1 192 298 | 1 858 296 | 614 493 |   867 054 |
+| 1907 | 1 571 207 | 1 978 405 | 722 107 |   821 369 |
+| 1908 | 1 476 296 | 2 189 987 | 737 134 | 1 274 600 |
+| 1909 | 1 502 547 | 2 484 439 | 665 689 | 3 484 812 |
 
-Die auffallende Steigerung des Exports über Kiachta, gerade dem Platz, wo die Einfuhr russischer Waren stark zurückging, ist darauf zurückzuführen, daß die russischen Kaufleute von den chinesischen bedrängt, sich energisch auf die Ausfuhr von Rohartikeln warfen.
+Заметный рост вывоза через Кяхту, то есть именно через тот пункт, где ввоз русских товаров резко сократился, объясняется тем, что русские купцы, теснимые китайскими, энергично переключились на вывоз сырьевых товаров.
 
-Der Mongole verkauft heute an den russischen Händler die Produkte seiner Herden und seiner Jagdbeute, hauptsächlich Vieh, Rauchware, Felle, Häute, Wolle, Pferdehaar und von verarbeiteten Sachen Filz und aus Filz hergestellte Gegenstände. Die Einfuhr dieser Waren nach Rußland über die russischen Zollämter zeigt in den lezten vier Jahren eine steigende Kurve. Die Einfuhr von Rohhäuten in Pud über Kiachta gibt hierüber ein klares Bild.
+Сегодня монгол продаёт русскому торговцу продукцию своих стад и добычу с охоты, главным образом скот, пушнину, меха, шкуры, шерсть, конский волос, а из обработанных товаров --- войлок и изделия из него. Ввоз этих товаров в Россию через русские таможни в последние четыре года обнаруживает устойчивый рост. Особенно наглядно это показывает ввоз сырых шкур через Кяхту, в пудах.
 
-|               | 1906      | 1907   | 1908   | 1909  |
-|---------------|-----------|--------|--------|-------|
-| Kosch-Agatsch | 101       | 409    | 455    | 1.130 |
-| Bachtinsk     | 11.142    | 11.022 | 8.575  | 12.409|
-| Saisan        | 10.609    | 15.013 | 13.548 | 15.096|
-| Kiachta       | 747       | 10.894 | 5.268  | 16.931|
+|               | 1906   | 1907   | 1908   | 1909   |
+|---------------|-------:|-------:|-------:|-------:|
+| Кош-Агач      |    101 |    409 |    455 |  1 130 |
+| Бахтинск      | 11 142 | 11 022 |  8 575 | 12 409 |
+| Зайсан        | 10 609 | 15 013 | 13 548 | 15 096 |
+| Кяхта         |    747 | 10 894 |  5 268 | 16 931 |
 
-Auffallend ist, daß der Export von Rußland nach der Mongolei an fertigem Leder um ein bedeutendes fiel, so z. B. wird über Kiachta
+Обращает на себя внимание то, что вывоз из России в Монголию готовой кожи значительно сократился: так, например, через Кяхту
 
 <a id="68">**-- 68 --**</a>
 
-beinahe kein fertiges Leder nach der Mongolei mehr eingeführt; dagegen hat sich die Ausfuhr von Rohhäuten nach Rußland um das 27 fache gehoben. Daraus ergibt sich, daß Rußland für den eigenen Verbrauch die Rohhäute einführt und nicht wieder als Leder in die Mongolei exportiert. In einer ganz ähnlichen Lage befindet sich der Handel mit Hammelund Ziegenfellen.
+готовая кожа в Монголию теперь почти вовсе не ввозится; напротив, вывоз сырых шкур в Россию увеличился в 27 раз. Из этого следует, что Россия ввозит сырые шкуры для собственного потребления и уже не вывозит их обратно в Монголию в виде выделанной кожи. В весьма сходном положении находится торговля овечьими и козьими шкурами.
 
-Es werden eingeführt Hammel- und Ziegenfelle pro Pud:
+Ввоз овечьих и козьих шкур, в пудах:
 
 |               | 1906   | 1907   | 1908    | 1909    |
-|---------------|--------|--------|---------|---------|
-| Kosch-Agatsch | 2.335  | 2.553  | 1.539   | 8.770   |
-| Bachtinsk     | 52.459 | 51.639 | 46.381  | 57.470  |
-| Saisan        | 19.360 | 28.358 | 32.077  | 32.129  |
-| Kiachta       | 3.065  | 13.252 | 23.681  | 33.707  |
-| Summa         | 77.219 | 95.802 | 103.673 | 132.076 |
+|---------------|-------:|-------:|--------:|--------:|
+| Кош-Агач      |  2 335 |  2 553 |   1 539 |   8 770 |
+| Бахтинск      | 52 459 | 51 639 |  46 381 |  57 470 |
+| Зайсан        | 19 360 | 28 358 |  32 077 |  32 129 |
+| Кяхта         |  3 065 | 13 252 |  23 681 |  33 707 |
+| Итого         | 77 219 | 95 802 | 103 673 | 132 076 |
 
-Hieraus ergibt sich, daß die Einfuhr auf allen Zollämtern eine steigende Tendenz zeigt, besonders aber stark in Kiachta.
+Из этого видно, что ввоз через все таможни имеет тенденцию к росту, особенно сильному в Кяхте.
 
-Die Einfuhr von rohen Pelzwaren und Fellen von Raubtieren aus der Nordmongolei geht über Kosch-Agatsch und Kiachta. Aus der Ost- mogolei dagegen ist die Menge nicht genau festzustellen.
+Ввоз необработанной пушнины и шкур хищных животных из Северной Монголии идёт через Кош-Агач и Кяхту. Для Восточной Монголии, напротив, точное количество установить невозможно.
 
-|                     | 1906   | 1907   | 1908   | 1909   |
-|---------------------|--------|--------|--------|--------|
-|                     |        | in Pud |        |        |
-| Kosch-Agatsch       | 5.899  | 9.237  | 13.172 | 8.629  |
-| Bachtinsk u. Saisan | 314    | 220    | 424    | 671    |
-| Kiachta             | 8.341  | 4.224  | 10.890 | 24.791 |
-| Summa               | 14.554 | 13.686 | 24.486 | 34.091 |
+|                     | 1906   | 1907    | 1908   | 1909   |
+|---------------------|-------:|--------:|-------:|-------:|
+|                     |        | в пудах |        |        |
+| Кош-Агач            |  5 899 |  9 237  | 13 172 |  8 629 |
+| Бахтинск и Зайсан   |    314 |    220  |    424 |    671 |
+| Кяхта               |  8 341 |  4 224  | 10 890 | 24 791 |
+| Итого               | 14 554 | 13 686  | 24 486 | 34 091 |
 
-Auch hier ist wieder eine starke Ausfuhr über Kiachta festzustellen. Das liegt allerdings an der Verbindung des russischen Zollamtes Kiachta mit der mongolischen Zentrale Urga, wohin jährlich etwa 100 000 Mongolen wallfahren, um den Chutuchtu zu verehren; sie bringen häufig als Geschenke und Opfergaben edles Pelzwerk mit, das dann von den Mönchen und der Umgebung des Gottes an die russischen Händler losgeschlagen wird.
+И здесь снова наблюдается значительный вывоз через Кяхту. Это, впрочем, объясняется связью русской таможни в Кяхте с монгольским центром Ургой, куда ежегодно совершают паломничество около 100 000 монголов, чтобы поклониться хутухте; они часто приносят в дар и в качестве жертвоприношений дорогие меха, которые затем монахи и окружение божества сбывают русским торговцам.
 
-Die Ausfuhr von Wolle und Pelzen nach Rußland zeigt eine ständig aufsteigende Linie, allerdings nur durch die stark vermehrte Ausfuhr über Kiachta hervorgerufen, wogegen Kosch-Agatsch zurückgegangen ist.
+Вывоз шерсти и пушнины в Россию постоянно возрастает, однако это вызвано исключительно резким увеличением вывоза через Кяхту, тогда как через Кош-Агач он сократился.
 
-Wolle und Pelzwaren in Pud
+Шерсть и пушнина, в пудах:
 
 |               | 1904    | 1905    | 1906    |
-|---------------|---------|---------|---------|
-| Kosch-Agatsch | 140.610 | 137.603 | 111.161 |
-| Bachtinsk     | 37.103  | 107.721 | 107.849 |
-| Saisan        | 16.650  | 16.975  | 30.280  |
-| Kiachta       | 12.858  | 17.374  | 24.695  |
-| Summa         | 267.221 | 279.673 | 273.985 |
+|---------------|--------:|--------:|--------:|
+| Кош-Агач      | 140 610 | 137 603 | 111 161 |
+| Бахтинск      |  37 103 | 107 721 | 107 849 |
+| Зайсан        |  16 650 |  16 975 |  30 280 |
+| Кяхта         |  12 858 |  17 374 |  24 695 |
+| Итого         | 267 221 | 279 673 | 273 985 |
 
 <a id="69">**-- 69 --**</a>
 
 |               | 1907    | 1908    | 1909    |
-|---------------|---------|---------|---------|
-| Kosch-Agatsch | 131.718 | 122.304 | 108.168 |
-| Bachtinsk     | 100.137 | 81.774  | 105.387 |
-| Saisan        | 23.858  | 17.084  | 16.502  |
-| Kiachta       | 38.794  | 53.070  | 112.334 |
-| Summa         | 296.507 | 274.232 | 342.391 |
+|---------------|--------:|--------:|--------:|
+| Кош-Агач      | 131 718 | 122 304 | 108 168 |
+| Бахтинск      | 100 137 |  81 774 | 105 387 |
+| Зайсан        |  23 858 |  17 084 |  16 502 |
+| Кяхта         |  38 794 |  53 070 | 112 334 |
+| Итого         | 296 507 | 274 232 | 342 391 |
 
-Pferdehaare werden hauptsächlich über Kosch-Agatsch und Bachtinsk ausgeführt, und zwar etwa 1700---2700 Pud pro Jahr.
+Конский волос вывозится главным образом через Кош-Агач и Бахтинск, примерно 1700---2700 пудов в год.
 
-Für Filz und aus Filz hergestellte Gegenstände hält sich die Kurve in etwa auf der gleichen Höhe, obwohl Kiachta anfängt, auch hier nachzulassen, wogegen die Ausfuhr aus der Ostmongolei sich hob.
+Что касается войлока и изделий из него, объёмы вывоза остаются приблизительно на одном уровне, хотя Кяхта и здесь начинает сдавать позиции, тогда как вывоз из Восточной Монголии увеличивается.
 
-|               | 1904   | 1905   | 1906 in Pud | 1907   | 1908   | 1909   |
-|---------------|--------|--------|-------------|--------|--------|--------|
-|               |        |        | in Pud      |        |        |        |
-| Kosch-Agatsch | 383    | 348    | 402         | 852    | 728    | 526    |
-| Bachtinsk     | 5.438  | 3.521  | 3.449       | 3.882  | 3.827  | 6.940  |
-| Saisan        | 7.933  | 9.371  | 9.931       | 12.688 | 10.397 | 11.201 |
-| Kiachta       | 4.436  | 3.944  | 1.139       | 1.662  | 1.802  | 1.052  |
-| Summa         | 18.190 | 17.184 | 14.921      | 19.084 | 16.754 | 19.719 |
+|               | 1904   | 1905   | 1906   | 1907   | 1908   | 1909   |
+|---------------|-------:|-------:|-------:|-------:|-------:|-------:|
+| Кош-Агач      |    383 |    348 |    402 |    852 |    728 |    526 |
+| Бахтинск      |  5 438 |  3 521 |  3 449 |  3 882 |  3 827 |  6 940 |
+| Зайсан        |  7 933 |  9 371 |  9 931 | 12 688 | 10 397 | 11 201 |
+| Кяхта         |  4 436 |  3 944 |  1 139 |  1 662 |  1 802 |  1 052 |
+| Итого         | 18 190 | 17 184 | 14 921 | 19 084 | 16 754 | 19 719 |
 
-Die Ausfuhr von Wolle und Filzhüten, die sich früher gut anließ, ist beinahe ganz zurückgegangen, und zwar werden aus der ganzen Mongolei über Bachtinsk exportiert:
+Вывоз шерстяных и войлочных шляп, прежде развивавшийся весьма успешно, почти полностью сошёл на нет. Через Бахтинск из всей Монголии вывозилось:
 
-| 1905   | 1906   | 1907  | 1908  | 1909        |
-|--------|--------|-------|-------|-------------|
-| 44.122 | 19.769 | 9.612 | 1.491 | 2.455 Stück |
-| 41.722 | 18.609 | 9.388 | 1.386 | 1.840       |
+| 1905   | 1906   | 1907  | 1908  | 1909       |
+|-------:|-------:|------:|------:|-----------:|
+| 44 122 | 19 769 | 9 612 | 1 491 | 2 455 штук |
+| 41 722 | 18 609 | 9 388 | 1 386 | 1 840      |
 
-Die Ausfuhr von Lebendvieh ist statistisch nur in Kosch-Agatsch nachzuweisen. Der Viehtransport aus dem Selenga-Gebiet über Tunku nach Irkutsk und aus Urga nach Kiachta, Troiskoisawsk, sowie Uljasutai Irkutsk ist nicht festzustellen. Über Kosch-Agatsch wird aus der Nordmongolei in reichlichem Maße Lebendvieh ausgeführt, und zwar 1905---1909 jährlich etwa 1325 Stück Großvieh und 4100 bis 11 930 Stück Kleinvieh. Letztere Ausfuhr zeigt eine steigende Tendenz.
+Статистически вывоз живого скота можно проследить только по Кош-Агачу. Перевозку скота из района Селенги через Тунку в Иркутск, а также из Урги в Кяхту и Троицкосавск и из Улясутая в Иркутск установить невозможно. Через Кош-Агач из Северной Монголии вывозится значительное количество живого скота: в 1905---1909 годах ежегодно около 1325 голов крупного скота и от 4100 до 11 930 голов мелкого скота. Вывоз последнего имеет тенденцию к росту.
 
-Pferde werden jährlich etwa 20 Stück über die Grenze getrieben. Aus der Ostmongolei über Bachtinsk und Saisan ist die Ausfuhr von Lebendgroßvieh äußerst gering, hauptsächlich wird Kleinvieh über beide Zollämter getrieben. Über Bachtinsk wurden von 1904---1909 etwa 52 bis 102 000 Stück im Jahre ausgeführt, über Saisan 36---62 000.
+Ежегодно через границу перегоняют около 20 лошадей. Из Восточной Монголии через Бахтинск и Зайсан вывоз живого крупного рогатого скота крайне невелик; через обе таможни перегоняется главным образом мелкий скот. Через Бахтинск в 1904---1909 годах ежегодно вывозилось примерно от 52 000 до 102 000 голов, через Зайсан --- от 36 000 до 62 000.
 
-An Großvieh wurden über Bachtinsk ausgeführt 1904 8416 Stück; die Ausfuhr fiel bis 1906 auf 386 Stück. 1907 fand überhaupt kein Viehtransport mehr statt, wogegen er sich von 1908---1909 stark erholte, und zwar 1909 mit 6636 Stück.
+Крупного рогатого скота через Бахтинск в 1904 году было вывезено 8416 голов; к 1906 году вывоз сократился до 386 голов. В 1907 году перевозки скота вообще не было, однако в 1908---1909 годах она вновь значительно возросла и в 1909 году достигла 6636 голов.
 
-Über Saisan wurden jährlich 145 bis 900 Stück nach Rußland eingeführt, die Einfuhr schnellte aber im Jahre 1909 auf 2924 Stück empor.
+Через Зайсан ежегодно в Россию ввозилось от 145 до 900 голов, но в 1909 году ввоз резко вырос до 2924 голов.
 
 <a id="70">**-- 70 --**</a>
 
-Über Bachtinsk wurden Pferde hauptsächlich für die russische Armee in Sibirien geliefert, und zwar etwa 154 bis 2835 Stück jährlich. Über Saisan wurden meistens Pferde zum Privatgebrauch eingeführt, und zwar 64 bis 496 Stück pro Jahr.
+Через Бахтинск поставлялись лошади главным образом для русской армии в Сибири, примерно от 154 до 2835 голов ежегодно. Через Зайсан ввозились преимущественно лошади для частного пользования --- от 64 до 496 голов в год.
 
-Aus dem Vorstehenden geht hervor, daß der Viehtransport über Kosch-Agatsch durch den Tschuiski-Trakt aus der Nord- und Ostmongolei sich nicht vergrößert hat.
+Из сказанного выше следует, что перевозка скота через Кош-Агач по Чуйскому тракту из Северной и Восточной Монголии не увеличилась.
 
-Auf das wichtige Uranchai-Gebiet, das zur Verwaltung des Konsulats von Uljasutai gehört, werde ich in meiner handelspolitischen Besprechung dieses Punktes zurückkommen.
+К важному Урянхайскому краю, находящемуся в ведении консульства в Улясутае, я ещё вернусь при рассмотрении торгово-политического значения этого пункта.
 
-*(Massenmord der Pelztiere)* Es sei hier noch kurz die Ausfuhr des edlen und und halbedlen Pelz- werks der Mongolei, das allerdings meistens aus dem Uranchai-Gebiet stammt, gestreift.
+*(Массовое истребление пушных зверей.)* Здесь следует ещё вкратце коснуться вывоза ценной и полуценной пушнины Монголии, которая, впрочем, большей частью поступает из Урянхайского края.
 
-Inletzter Zeit ist die Nachfrage nach Pelz werk, besonders in Deutschland, stark gestiegen und die Ausfuhr desselben über Rußland steht mit an erster Stelle. Mir sei hier kurz ein Wort über den Massenmord an Pelztieren, den die Mode auf einmal in ganz unsinniger Weise veranlaßte, gestattet. In den Straßen von Moskau, Petersburg, Berlin, London, Paris wurden im Jahre 1913/1914 plötzlich Füchse als letzter Schrei der Mode von unseren Damen, Halbweltdamen und Damen von noch etwas niedrigerer Kategorie theatralisch um die Schultern getragen. Zum größten Teil stammten diese Tiere aus der Mongolei. Eine in Leipzig und London angesessene große Firma gab ihren russischen Angestellten die Order, zu jedem Preise Füchse aufzukaufen. Die Fuchsfelle, die früher etwa 3 bis 4 Lan kosteten, schnellten plötzlich bei der starken Nachfrage auf 10 Lan und mehr. Um das Fell nicht zu ruinieren, wurde den mongolischen Jägern und russischen Kleinhändlern Strychnin, made in Germany, überlassen, und zwar in ganz tollen Mengen. So sah ich in Urga in einer kleinen Bude einen Schrank, einen Meter breit, 2 1/2 m hoch, dichtgefüllt mit Strichnin. Anscheinend ist nun dem Strychnin dieselbe Rolle zugefallen, wie der Büchse in Afrika, nämlich einzelne Tierarten, deren Pelz plötzlich Mode wird, auszurotten. Die obenerwähnte Firma soll nach mir an Ort und Stelle gemachten Angaben in Urga, sowie Uljasutai an Füchsen im letzten Jahre für 1 1/2 Millionen Rubel gekauft haben.
+В последнее время спрос на пушнину, особенно в Германии, сильно возрос, и её вывоз через Россию занимает одно из первых мест. Позволю себе здесь сказать несколько слов о массовом истреблении пушных зверей, к которому мода внезапно привела совершенно безумным образом. На улицах Москвы, Петербурга, Берлина, Лондона и Парижа в 1913/1914 годах наши дамы, дамы полусвета и дамы ещё несколько более низкой категории внезапно стали театрально носить на плечах лисьи шкуры как последний крик моды. Большая часть этих животных происходила из Монголии. Одна крупная фирма, имевшая отделения в Лейпциге и Лондоне, приказала своим русским служащим скупать лисиц по любой цене. Лисьи шкуры, прежде стоившие около 3---4 лан, из-за резко возросшего спроса внезапно подорожали до 10 лан и более. Чтобы не портить мех, монгольским охотникам и русским мелким торговцам стали поставлять стрихнин, сделанный в Германии, причём в совершенно безумных количествах. Так, в Урге я видел в одной небольшой лавке шкаф шириной в метр и высотой 2 1/2 м, доверху набитый стрихнином. По-видимому, теперь стрихнину выпала та же роль, какую ружьё сыграло в Африке, --- истреблять отдельные виды животных, мех которых внезапно входит в моду. По сведениям, полученным мною непосредственно на месте, упомянутая выше фирма в Урге и Улясутае за последний год закупила лисиц на 1 1/2 миллиона рублей.
 
-Folgende Tabelle gibt einen Überblick über den Handel mit Pelztieren in Pud:
+Следующая таблица даёт представление о торговле пушными зверями, в пудах:
 
 |               | 1906   | 1907   | 1908   | 1909   |
-|---------------|--------|--------|--------|--------|
-| Kosch-Agatsch | 5.899  | 9.237  | 13.171 | 8.629  |
-| Kiachta       | 8.341  | 4.224  | 10.890 | 24.791 |
-| Usinsk        | 402    | ---    | 45     | 4.027  |
-| Saisan        | 32     | 32     | 59     | 23     |
-| Summa         | 14.674 | 13.493 | 24.166 | 37.470 |
+|---------------|-------:|-------:|-------:|-------:|
+| Кош-Агач      |  5 899 |  9 237 | 13 171 |  8 629 |
+| Кяхта         |  8 341 |  4 224 | 10 890 | 24 791 |
+| Усинск        |    402 |    --- |     45 |  4 027 |
+| Зайсан        |     32 |     32 |     59 |     23 |
+| Итого         | 14 674 | 13 493 | 24 166 | 37 470 |
 
 <a id="71">**-- 71 --**</a>
 
-Außerdem gingen über Kiachta:
+Кроме того, через Кяхту вывозилось:
 
 |                                      | 1906  | 1907  | 1908  |
-|--------------------------------------|-------|-------|-------|
-|                                      | Stück | Stück | Stück |
-| Seebiber                             | 25    | 14    | ---   |
-| Gynott                               | 8.276 | 4.145 | 687   |
-| Bär und Wolf                         | 9     | ---   | ---   |
-| Fuchs                                | 31    | ---   | 513   |
-| Luchs und Marder                     | ---   | 65    | ---   |
-| Schwänze von Jacks und Eichhörnchen  | ---   |       | 52    |
-| Verschiedene Sorten                  | ---   | ---   | 9.626 |
+|--------------------------------------|------:|------:|------:|
+|                                      | штук  | штук  | штук  |
+| Морской бобр (калан)                 |    25 |    14 |   --- |
+| Генотт (кошачьи шкуры)               | 8 276 | 4 145 |   687 |
+| Медведь и волк                       |     9 |   --- |   --- |
+| Лисица                               |    31 |   --- |   513 |
+| Рысь и куница                        |   --- |    65 |   --- |
+| Хвосты яков и белок                  |   --- |       |    52 |
+| Разные сорта                         |   --- |   --- | 9 626 |
 
-Nach den Angaben der russischen Kaufleute in Kiachta wurden über das Zollamt Kiachta im Jahre 1909 aus der Mongolei Pelzwaren und Felle für 1 882 557 Rubel ausgeführt. Dazu kamen noch die Felle vom Surok (Tabargan = Murmeltier), 1 853 767 Stück im Werte von 1 353 596 Rubel, Füchse 15 017 Stück im Werte von 99 289 Rubel.
+По сведениям русских купцов в Кяхте, в 1909 году через Кяхтинскую таможню из Монголии было вывезено пушнины и шкур на сумму 1 882 557 рублей. К этому добавлялись шкуры сурка (тарбагана) --- 1 853 767 штук стоимостью 1 353 596 рублей, а также 15 017 лисьих шкур стоимостью 99 289 рублей.
 
-Ganz anders sehen allerdings die Zahlen vom Zollamt Kosch-Agatsch aus:
+Совершенно иначе выглядят, однако, данные Кош-Агачской таможни:
 
-|                                    | 1906   |         | 1907  |         | 1908  |         | 1909  |         |
-|------------------------------------|--------|---------|-------|---------|-------|---------|-------|---------|
-|                                    | Pud    | Rubel   | Pud   | Rubel   | Pud   | Rubel   | Pud   | Rubel   |
-| Surok inkl. Fuchs u. Eichhörnchen  | 5.687  | 209.424 | 9.181 | 397.446 | 8.451 | 368.396 | 8.326 | 449.469 |
-| Zobel                              | 8 Pfd. | 820     | 2 1/2 | 5.330   | 1,24  | 5.132   | 1.6   | 5.571   |
-| Gynott                             | 58     | ---     |       | ---     | ---   | ---     | ---   | ---     |
-| Iltis                              | 55     | 1.655   | 59    | ---     | ---   | ---     | ---   | ---     |
-| Eichhörnchen                       | ---    | ---     | ---   | ---     | 261   | ---     | 9     | 1.203   |
-| Bär und Wolf                       | 1      | ---     | ---   | ---     | ---   | ---     | 22    | 993     |
-| Luchs                              | ---    | ---     | ---   | ---     | ---   | ---     | 31    | 7.332   |
-| Seebiber                           | 4      | ---     | 3     | ---     | 11    | ---     | ---   | ---     |
-| Maral                              | 21     | 305     | 22    | 388     | ---   | ---     | ---   | ---     |
-| Füchse                             | 5      | ---     | 2     | ---     | ---   | ---     | ---   | ---     |
+|                                    | 1906    |         | 1907    |         | 1908   |         | 1909   |         |
+|------------------------------------|--------:|--------:|--------:|--------:|-------:|--------:|-------:|--------:|
+|                                    | пудов   | рублей  | пудов   | рублей  | пудов  | рублей  | пудов  | рублей  |
+| Сурок, включая лисицу и белку      |  5 687  | 209 424 |   9 181 | 397 446 |  8 451 | 368 396 |  8 326 | 449 469 |
+| Соболь                             | 8 фунт. |     820 | 2 1/2   |   5 330 |   1,24 |   5 132 |    1,6 |   5 571 |
+| Генотт (кошачьи шкуры)             |     58  |     --- |         |     --- |    --- |     --- |    --- |     --- |
+| Хорёк                              |     55  |   1 655 |      59 |     --- |    --- |     --- |    --- |     --- |
+| Белка                              |    ---  |     --- |     --- |     --- |    261 |     --- |      9 |   1 203 |
+| Медведь и волк                     |      1  |     --- |     --- |     --- |    --- |     --- |     22 |     993 |
+| Рысь                               |    ---  |     --- |     --- |     --- |    --- |     --- |     31 |   7 332 |
+| Морской бобр (калан)               |      4  |     --- |       3 |     --- |     11 |     --- |    --- |     --- |
+| Марал                              |     21  |     305 |      22 |     388 |    --- |     --- |    --- |     --- |
+| Лисица                             |      5  |     --- |       2 |     --- |    --- |     --- |    --- |     --- |
 
 Der Hauptträger des Pelzhandels, der sein Fell lassen muß, ist der Surok (Tabargan), dem nur der Fuchs bedenklich naherückt. Nicht ohne Interesse und Mitgefühl verfolgt man die Vernichtung dieses Tieres, das
 
