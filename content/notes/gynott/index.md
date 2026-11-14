@@ -80,30 +80,46 @@ Gynott не является обычным немецким названием 
 
 Загадочные кошки в середине 19 века активно обменивались в Кяхте на чай.
 
-Согласно отчёту о промышленной выставке Российской империи в Санкт-Петербурге в 1849 году, представленном Венской торговой палате её делегатами Людвигом Дамбёком и Якобом Маннером в 1844 из Санкт-Петербурга было вывезено 5332 шт., а в 1845 - 7630 шкур "кошек" (katzen). [PDF отчёта на e-rara](https://www.e-rara.ch/download/pdf/22436884.pdf).
-
-![dambock.png](dambock.png)
+Согласно отчёту о промышленной выставке Российской империи в Санкт-Петербурге в 1849 году, представленном Венской торговой палате её делегатами Людвигом Дамбёком и Якобом Маннером в 1844 из Санкт-Петербурга было вывезено 5332 шт., а в 1845 - 7630 шкур "кошек" (katzen). Стр. 137-138. [PDF отчёта на e-rara](https://www.e-rara.ch/download/pdf/22436884.pdf).
 
 > Damböck L., Manner J., 1849. Bericht über die Gewerbe-Ausstellung des Russischen Reichs zu St. Petersburg im Jahre 1849. Wien: Druck von Carl Gerold & Sohn, 224 S., LXXII S. Anhang.
+
+> Die Ausfuhr von Pelzwaaren aus Petersburg ist bedeutend. Sie betrug
+>
+> Вывоз пушных товаров из Санкт-Петербурга весьма значителен. Он составил…
+
+![dambock.png](dambock.png)
 
 На страницах VI-IX:
 
 > Der Handel zwischen Russland und China.
+>
 > ...
+>
 > Der Handel zwischen Russland und China geschieht in Kiachta, Gränzstadt von Russland.
+>
 > ...
+>
 > Russische Producte und Fabrikate, gegen welche Thee getauscht wird...
+>
 > ...
+>
 > Katzenfelle: von diesen werden einige hundert Tausend Stücke abgesetzt. Die beliebtesten sind die schwarzen Felle; von grauer, weisser und gelber Sorte dürfen nur wenige Stücke sein ; der Preis ist 90 bis 170 Kop . pr . Stück . — Es sind in Eusslaud zu diesem Behufe Menagerien von Katzen errichtet.
 
 Перевод:
 
 > Торговля между Россией и Китаем.
+>
 > ...
+>
 > Торговля между Россией и Китаем происходит в Кяхте, пограничном городе России.
+>
 > ...
+>
 > Русские продукты и фабричные изделия, на которые обменивается чай.
+>
 > ...
+>
 > Кошачьи шкурки. Их сбывается по нескольку сотен тысяч штук. Наибольшим спросом пользуются чёрные шкурки; серые, белые и жёлтые встречаются в продаже лишь в небольшом количестве. Цена составляет от 90 до 170 копеек за штуку. Для этой цели в России даже устроены специальные питомники для разведения кошек.
 
 Однако это направление обратно тому, о котором писал Констен. Из России в Монголию и Китай, а не наоборот.
@@ -124,7 +140,7 @@ Gynott не является обычным немецким названием 
 
 ![flanden-china.png](flanden-china.png)
 
-Источник: "В. Ф., П. и Торговли", №26, стр. 580. 1909 г. (Вестник финансов, промышленности и торговли)
+1) "В. Ф., П. и Торговли", №26, стр. 580. 1909 г. (Вестник финансов, промышленности и торговли)
 
 ## Енотовидная собака
 
