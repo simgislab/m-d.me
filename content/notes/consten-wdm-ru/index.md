@@ -1177,31 +1177,33 @@ DRUCK VON J. J. AUGUSTIN IN GLÜCKSTADT UND HAMBURG
 | Марал                              |     21  |     305 |      22 |     388 |    --- |     --- |    --- |     --- |
 | Лисица                             |      5  |     --- |       2 |     --- |    --- |     --- |    --- |     --- |
 
-Der Hauptträger des Pelzhandels, der sein Fell lassen muß, ist der Surok (Tabargan), dem nur der Fuchs bedenklich naherückt. Nicht ohne Interesse und Mitgefühl verfolgt man die Vernichtung dieses Tieres, das
+Главным объектом пушной торговли, которому приходится расставаться со своей шкурой, является сурок (тарбаган), и лишь лисица составляет ему серьёзную конкуренцию. Не без интереса и сочувствия наблюдаешь за истреблением этого животного, которое,
 
 <a id="72">**-- 72 --**</a>
 
-allerdings in dem Rufe steht, ein Pestträger zu sein, obwohl die Pest in der äußeren Mongolei meines Wissens nicht vorkommt. Jedenfalls steht dem Surok die Vernichtung ganz ähnlich wie dem Zobel, der ihm an Mengen nichts nachgab, bevor.
+впрочем, слывёт переносчиком чумы, хотя, насколько мне известно, во Внешней Монголии чума не встречается. Во всяком случае, сурку грозит полное истребление, подобно соболю, которому он прежде не уступал по численности.
 
-Das Jahr 1892 lieferte 6325 Pud Surok, das Jahr 1893 lieferte 70 027 Pud; 1901 170 027 Pud; das Jahr 1909 aber nur 8000 Pud.
+В 1892 году было добыто 6325 пудов сурка, в 1893 году — 70 027 пудов, в 1901 году — 170 027 пудов, а в 1909 году — всего 8000 пудов.
 
-Die Preise waren 1892 5 bis 6 Kopeken, 1909 65 Kopeken; 1910 1 1/4 bis 1 1/2 Rubel.
+Цены составляли в 1892 году 5–6 копеек, в 1909 году — 65 копеек, а в 1910 году — от 1¼ до 1½ рубля.
 
-Die Hauptkäufer des Surok sind die Leipziger Firmen Biedermann und Gutbezahler.
+Главными покупателями сурковых шкурок являются лейпцигские фирмы «Бидерман» (Biedermann) и «Гутбецалер» (Gutbezahler).
 
-Auch auf dem Pelzmarkt ist der russische Handel gegenüber dem der Chinesen ins Hintertreffen geraten. Ich gebe hier als klassisches Beispiel die Ausfuhr aus Urga an:
+На пушном рынке русская торговля также оказалась в менее выгодном положении по сравнению с китайской. В качестве характерного примера приведу данные о вывозе пушнины из Урги:
 
-|                   | Kalgan    | Kiachta   |
+|                   | В Калган  | В Кяхту   |
 |-------------------|-----------|-----------|
-| Surok             | 500.000   | 1.556.500 |
-| Eichhörnchen      | 1.400.000 | 162.740   |
-| Wölfe             | 120.000   | 1.314     |
-| I. Sorte Füchse   | 150.000   | 15.456    |
-| II. Sorte Füchse  | 80.000    | ---       |
-| Luchs             | 3.500     | 479       |
-| Iltis             | ---       | 1.313     |
-| Zobel             | 200       | 47        |
-| Wildkatzen        | 500.000   | ---       |
+| Сурок (тарбаган)  | 500 000   | 1 556 500 |
+| Белка             | 1 400 000 | 162 740   |
+| Волк              | 120 000   | 1 314     |
+| Лисица I сорта    | 150 000   | 15 456    |
+| Лисица II сорта   | 80 000    | —         |
+| Рысь              | 3 500     | 479       |
+| Хорёк             | —         | 1 313     |
+| Соболь            | 200       | 47        |
+| Дикие кошки       | 500 000   | —         |
+
+**Прим. пер. в оригинале ошибка, не 500 000, а 500 00.*
 
 Лист 13.
 
