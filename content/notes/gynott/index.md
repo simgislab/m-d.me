@@ -128,7 +128,64 @@ Gynott не является обычным немецким названием 
 >
 > Кошачьи шкурки. Их сбывается по нескольку сотен тысяч штук. Наибольшим спросом пользуются чёрные шкурки; серые, белые и жёлтые встречаются в продаже лишь в небольшом количестве. Цена составляет от 90 до 170 копеек за штуку. Для этой цели в России даже устроены специальные питомники для разведения кошек.
 
-Однако это направление обратно тому, о котором писал Констен. Из России в Монголию и Китай, а не наоборот.
+Экспорт кошек из России в Китай так же упоминается в разделе Торговля России мехами с Китаем опубликованном в газете Mitauische Zeitung в 1846. [Оригинал](https://dspace.ut.ee/server/api/core/bitstreams/a0fdd19a-f080-4031-b0fd-98a21c880b99/content)
+
+> Rußlands Pelzhandel mit China // Zur Oregonfrage (Revue. No. 68) // Beilage zur Mitauischen Zeitung. — 1846. — No. 22. — S. 128.
+
+Оригинальный текст:
+
+> Rußlands Pelzhandel mit China. Ueber den Handels
+> verkehr Rußlands mit China, der bald nach dem Jahre 1656
+> begann, in welchem diese beiden Reiche zuerst in politische
+> Beziehungen zu einander traten, hebt sich besonders Folgen-
+> des heraus: „Durch den Traktat von Nertschinsk, vom Jahre
+> 1680, erhielt dieser Verkehr zuerst eine feste Grundlage.
+> Seit dem Jahre 1727 nahm der Handel mit China stets zu;
+> seinen größten Aufschwung gewann er jedoch seit der Zeit,
+> wo Katharina II., bald nach ihrer Thronbesteigung, den bis
+> her von der Krone betriebenen Handel einzustellen und den
+> selben ganz Privatpersonen zu überlassen befahl. In Folge
+> dessen bildeten sich 6 Kompagnieen für den Handel mit Kiachta,
+> und zwar: 1) die Moskauer, für Fleisch, Tuch, Biber- und
+> Otterfelle, russische und ausländische Manufakturwaaren;
+> 2) die Tulasche, für Lämmer- und Katzenfelle; 3) und
+> 4) die Archangelskische und Wologdasche, für Rauchwaare,
+> und 5) und 6) die Tobolskische und Irkutskische, für Pelz
+> werk und Juften. Aus China brachte man vorzüglich Thee
+> und Nanking, seitdem jedoch die Baumwollen-Industrie des
+> Wladimirschen Gouvernements sich auszubreiten begann,
+> fingen die Chinesen an, ihrerseits russischen Nanking zu ver
+> schreiben. Der Markt von Makarjew wurde unter Katha
+> rina II. der Hauptpunkt für den Handel mit Kiachta. Da
+> hin brachte man Pelzwerk aus Archangelsk, Wologda, Kar
+> gopol, Tula, Moskau, und kaufte daselbst Tuch und andere
+> für China bestimmte Handelsartikel aus erster Hand auf und
+> verkaufte die von den chinesischen Producenten eingetauschten
+> Waaren. Der Markt zu Irbit konkurrirte in dieser Hinsicht
+> eine Zeit lang mit dem zu Makarjew, mußte ihm jedoch bald
+> weichen.
+
+Перевод:
+
+> Торговля России мехами с Китаем
+> Из истории торговых отношений России с Китаем, начавшихся вскоре после 1656 года, когда эти два государства впервые вступили в политические сношения, особенно следует отметить следующее:
+>
+> «Нерчинский договор 1680 года впервые заложил прочную основу этой торговли. С 1727 года торговля с Китаем постоянно расширялась, однако наибольшего расцвета она достигла после того, как Екатерина II вскоре после своего восшествия на престол повелела прекратить торговлю, до того времени находившуюся в ведении казны, и полностью передать её в руки частных лиц.
+>
+>Вследствие этого для торговли через Кяхту образовалось шесть компаний, а именно:
+>
+>1. Московская — для торговли мясом, сукном, бобровыми и выдровыми шкурками, русскими и иностранными мануфактурными товарами;
+>2. Тульская — для торговли ягнячьими и кошачьими шкурками;
+>3. и 4. Архангельская и Вологодская — для торговли пушниной;
+>4. и 6. Тобольская и Иркутская — для торговли мехами и юфтью.
+>
+>Из Китая привозили главным образом чай и нанку (хлопчатобумажную ткань), однако с тех пор, как во Владимирской губернии начала развиваться хлопчатобумажная промышленность, китайцы, в свою очередь, стали заказывать русскую нанку.
+>
+>При Екатерине II Макарьевская ярмарка стала главным центром торговли с Кяхтой. Сюда доставляли меха из Архангельска, Вологды, Каргополя, Тулы и Москвы. Здесь же непосредственно из первых рук закупали сукно и другие товары, предназначенные для Китая, и продавали товары, полученные в обмен от китайских производителей.
+>
+>Ирбитская ярмарка некоторое время соперничала в этом отношении с Макарьевской, однако вскоре была вынуждена уступить ей первенство».
+>
+>Однако это направление обратно тому, о котором писал Констен. Из России в Монголию и Китай, а не наоборот.
 
 ## Экспорт из Монголии
 
